@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: squid.game-tv.org:8080
-# Generated: 2025-12-22 07:12:31
+# Generated: 2025-12-22 18:36:30
 # Expires: 2026-01-17
 # Family Safe Edition
 # ==============================================
@@ -5873,7 +5873,9 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/14154.mp
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/qndubIQalyxBJI5EBNZKGXEX74q.jpg" group-title="Movies | Filme 2024",Y2K (2024)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/48365.mp4
 
-# --- Movies | Filme 2025 (581) ---
+# --- Movies | Filme 2025 (582) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lCv29VdgoJgO3Jp3d07llEELvs6.jpg" group-title="Movies | Filme 2025",Wizard of Oz: Dead Walk - 2025
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/65661.mp4
 #EXTINF:-1 tvg-logo="https://static.cinemagia.ro/img/resize/db/movie/33/24/439/radu-esti-ok-119823l-175x0-w-de030d07.jpg" group-title="Movies | Filme 2025",Radu esti ok? (2025)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/65650.mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KjFPfmB5/bobonetre.jpg" group-title="Movies | Filme 2025",Mihai Bobonete: Life is Life
@@ -19517,4 +19519,4 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/383.mp4
 #EXTINF:-1 tvg-logo="" group-title="Series | A Series of Unfortunate Events",A Series of Unfortunate Events
 http://squid.game-tv.org:8080/series/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/276
 
-# Total: 8595
+# Total: 8596
