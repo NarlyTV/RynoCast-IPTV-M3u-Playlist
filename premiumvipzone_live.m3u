@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: premiumvipzone.com:8080
-# Generated: 2025-12-24 18:28:51
+# Generated: 2025-12-25 07:07:24
 # Expires: 2026-03-11
 # Family Safe Edition
 # ==============================================
@@ -14933,7 +14933,9 @@ http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/270822.m3u8
 #EXTINF:-1 tvg-logo="http://5.189.181.7/picon/logos/6tv.png" group-title="✰ Romania - FULL HD+SD ✰",6 TV
 http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/270178.m3u8
 
-# --- ✰ Romania - Generale HD+SD ✰ (62) ---
+# --- ✰ Romania - Generale HD+SD ✰ (63) ---
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wB226PtM/craciun.png" group-title="✰ Romania - Generale HD+SD ✰",Christmas Colinde HD
+http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/276593.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CLh2fSxR/photo-2025-12-01-23-52-47.jpg" group-title="✰ Romania - Generale HD+SD ✰",Mega Colinde { 4K }
 http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/272779.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W1zW9dt4/antena1.jpg" group-title="✰ Romania - Generale HD+SD ✰",Antena 1ᶠᴴᴰ
@@ -15699,4 +15701,4 @@ http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/140783.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LXWKshQx/ddikh.jpg" group-title="✰Hungary-Általános (General)✰",HU* Dikh TV FHD
 http://premiumvipzone.com:8080/live/Marian_joghiu/wkHQJ88Z8z/175834.m3u8
 
-# Total: 7764
+# Total: 7765

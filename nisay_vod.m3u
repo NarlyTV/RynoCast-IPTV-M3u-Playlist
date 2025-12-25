@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: nisay.xyz:8080
-# Generated: 2025-12-24 18:30:25
+# Generated: 2025-12-25 07:08:36
 # Expires: 2026-10-04
 # Family Safe Edition
 # ==============================================
@@ -6409,7 +6409,9 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1709.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | COCUK SERI DIZI",Gupi
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1756.mp4
 
-# --- Movies | COCUK VOD (338) ---
+# --- Movies | COCUK VOD (339) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3yIT5oIGPRPLIPJNeFan3l2yRso.jpg" group-title="Movies | COCUK VOD",Caretta Bobi (2025)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/159500.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wJqj6tBEojifQVPEayWBlCU9tNV.jpg" group-title="Movies | COCUK VOD",Wayne ve Lanny Yaramaz Çocuğa Karşı (2011)
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/158856.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g5ga2b2HZ2Q04AOaeOF1ort4DIl.jpg" group-title="Movies | COCUK VOD",Prep & Landing: The Snowball Protocol (2025)
@@ -15939,7 +15941,7 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/91667.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | MUZIK VOD",Bulgaria Music
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/83163.mkv
 
-# --- Movies | NETFLIX (362) ---
+# --- Movies | NETFLIX (364) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX",Altered Carbon
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/36.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX",Dogs of Berlin
@@ -16664,6 +16666,10 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1818.mp4
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1827.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX",Man vs Baby
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1828.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX",Sicilya Ekspresi
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1837.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX",The Hunting Wives
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1838.mp4
 
 # --- Movies | NOSTALJI FILM (73) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oJmoR4kdHEw6w8CncTKJ058RV7o.jpg" group-title="Movies | NOSTALJI FILM",Pearl Harbor (2001)
@@ -17167,7 +17173,15 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/138221.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tbA3OJWaIL8PKp1IX9ETcZo5trv.jpg" group-title="Movies | SERI FILMLER",Muzede Bir Gece 2006
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/138220.mkv
 
-# --- Movies | SON EKLENEN 300 FILM (295) ---
+# --- Movies | SON EKLENEN 300 FILM (299) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dY6Dy8fbnbkVLWyhokOTPU2A3Z5.jpg" group-title="Movies | SON EKLENEN 300 FILM",Dünyanın En İyi Annesi (2025)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/159501.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ygsMOnttVCekvJZgvmnvaemxPHA.jpg" group-title="Movies | SON EKLENEN 300 FILM",Elveda June (2025)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/159503.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eG0iASj1UvhkrJB3Lhl8vQOHzKe.jpg" group-title="Movies | SON EKLENEN 300 FILM",Bay & Bayan Aslan (2025)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/159507.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dV24R0JoqXRctUwOc0UV7cGwcOL.jpg" group-title="Movies | SON EKLENEN 300 FILM",On Falling (2025)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/159508.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rlYUTume6SwwuE5eBc3llvApEHj.jpg" group-title="Movies | SON EKLENEN 300 FILM",Ali Çevlik (2022)
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/159451.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/60Onr8tiT0jjrDS2FyiGfaM4QNC.jpg" group-title="Movies | SON EKLENEN 300 FILM",On Saniye (2024)
@@ -19813,4 +19827,4 @@ http://nisay.xyz:8080/series/atillaerdoganDE/sa95x6VSFx/1503
 #EXTINF:-1 tvg-logo="" group-title="Series | TR ALTYAZI SERIES",Pluribus
 http://nisay.xyz:8080/series/atillaerdoganDE/sa95x6VSFx/1803
 
-# Total: 9839
+# Total: 9846

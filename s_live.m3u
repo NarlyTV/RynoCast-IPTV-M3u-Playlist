@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: s.rocketdns.info:8080
-# Generated: 2025-12-24 18:34:13
+# Generated: 2025-12-25 07:03:27
 # Expires: Unlimited
 # Family Safe Edition
 # ==============================================
@@ -11738,7 +11738,7 @@ http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/712014.m3u8
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/712015.m3u8
 
 # --- SPORTS - NCAA FOOTBALL (135) ---
-#EXTINF:-1 tvg-logo="https://www.wtvq.com/wp-content/uploads/2020/04/BAFD94DC-1808-46F4-9CCC-4DDB7093459A.png" group-title="SPORTS - NCAA FOOTBALL",USA NCAAF 01:
+#EXTINF:-1 tvg-logo="https://www.wtvq.com/wp-content/uploads/2020/04/BAFD94DC-1808-46F4-9CCC-4DDB7093459A.png" group-title="SPORTS - NCAA FOOTBALL",USA NCAAF 01: California vs Hawai'i @ 08:00 PM
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/383558.m3u8
 #EXTINF:-1 tvg-logo="https://www.wtvq.com/wp-content/uploads/2020/04/BAFD94DC-1808-46F4-9CCC-4DDB7093459A.png" group-title="SPORTS - NCAA FOOTBALL",USA NCAAF 02:
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/383559.m3u8
@@ -13629,7 +13629,7 @@ http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/737805.m3u8
 #EXTINF:-1 tvg-logo="https://media.info/i/lf/0/1546303327/1161.png" group-title="UK SPORTS",UK Sky Sports Racing (HD)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/527483.m3u8
 
-# --- USA ENTERTAINMENT (243) ---
+# --- USA ENTERTAINMENT (241) ---
 #EXTINF:-1 tvg-logo="https://scripps.com/wp-content/uploads/2019/09/laff_logo_0919.png" group-title="USA ENTERTAINMENT",NY | Albany | Laff TV WXXA
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/75343.m3u8
 #EXTINF:-1 tvg-logo="https://allvectorlogo.com/img/2016/07/ae-logo.png" group-title="USA ENTERTAINMENT",USA A&E (SHD)
@@ -14030,8 +14030,6 @@ http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/663945.m3u8
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/647827.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/The_Weather_Channel_logo_2005-present.svg/1200px-The_Weather_Channel_logo_2005-present.svg.png" group-title="USA ENTERTAINMENT",USA The Weather Channel UHD
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/42308.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/TWN_LOGO_1.png" group-title="USA ENTERTAINMENT",USA The Word Network
-http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/699668.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/The_Grio.svg/1200px-The_Grio.svg.png" group-title="USA ENTERTAINMENT",USA TheGrio (SHD)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/648960.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png" group-title="USA ENTERTAINMENT",USA TLC East LHD
@@ -14108,8 +14106,6 @@ http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/723848.m3u8
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/723849.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA ENTERTAINMENT",test
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/713851.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/BYUtv_logo.svg/250px-BYUtv_logo.svg.png" group-title="USA ENTERTAINMENT",USA BYU TV
-http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/734852.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/8fSwfPG6zlQ/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDZJ888zyeX_FNmvPTiwMGci6Hhaw" group-title="USA ENTERTAINMENT",24/7 Action Movies 2025
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/736313.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Great_American_Faith_%26_Living_2023.svg/250px-Great_American_Faith_%26_Living_2023.svg.png" group-title="USA ENTERTAINMENT",USA Great American Faith & Living
@@ -18279,7 +18275,7 @@ http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/205105.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA PUBLIC & DOCUMENTARY",CT | CPTV Connecticut Public TV
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/629545.m3u8
 
-# --- USA RELIGION (5) ---
+# --- USA RELIGION (19) ---
 #EXTINF:-1 tvg-logo="" group-title="USA RELIGION",USA Daystar (SHD)
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/588480.m3u8
 #EXTINF:-1 tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/4/443.1405204238.png" group-title="USA RELIGION",USA EWTN (SHD)
@@ -18290,6 +18286,34 @@ http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/512976.m3u8
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/663923.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA RELIGION",USA TBN
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/597127.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/TWN_LOGO_1.png" group-title="USA RELIGION",USA The Word Network
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/699668.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/BYUtv_logo.svg/250px-BYUtv_logo.svg.png" group-title="USA RELIGION",USA BYU TV
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/734852.m3u8
+#EXTINF:-1 tvg-logo="" group-title="USA RELIGION",USA TBN Teaching & Worship
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/739835.m3u8
+#EXTINF:-1 tvg-logo="" group-title="USA RELIGION",USA TBN Yippee Kids TV
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/739836.m3u8
+#EXTINF:-1 tvg-logo="" group-title="USA RELIGION",USA TBN Africa
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/739837.m3u8
+#EXTINF:-1 tvg-logo="" group-title="USA RELIGION",US Faith Africa
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/739838.m3u8
+#EXTINF:-1 tvg-logo="" group-title="USA RELIGION",USA TBN Al Horreya
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/739839.m3u8
+#EXTINF:-1 tvg-logo="" group-title="USA RELIGION",USA TBN TBN On Women of Faith
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/739840.m3u8
+#EXTINF:-1 tvg-logo="" group-title="USA RELIGION",USA TBN Enlace Latin
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/739841.m3u8
+#EXTINF:-1 tvg-logo="" group-title="USA RELIGION",USA TBN Inspire
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/739842.m3u8
+#EXTINF:-1 tvg-logo="" group-title="USA RELIGION",USA TBN Nejat
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/739843.m3u8
+#EXTINF:-1 tvg-logo="" group-title="USA RELIGION",USA TBN Smile
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/739844.m3u8
+#EXTINF:-1 tvg-logo="" group-title="USA RELIGION",USA TBN TCI
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/739845.m3u8
+#EXTINF:-1 tvg-logo="" group-title="USA RELIGION",USA TBN UK
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/739846.m3u8
 
 # --- USA SPORTS (299) ---
 #EXTINF:-1 tvg-logo="https://cdn1.thecomeback.com/wp-content/uploads/sites/94/2013/05/accnetworklogo.png" group-title="USA SPORTS",USA ACC Network
@@ -18905,4 +18929,4 @@ http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/660965.m3u8
 #EXTINF:-1 tvg-logo="" group-title="VIETNAM",VN Vietface TV
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/660966.m3u8
 
-# Total: 9327
+# Total: 9339

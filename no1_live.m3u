@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: no1.no1turk.com:2086
-# Generated: 2025-12-24 18:31:07
+# Generated: 2025-12-25 07:03:59
 # Expires: 2026-09-21
 # Family Safe Edition
 # ==============================================
@@ -752,10 +752,6 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/29812.m3u8
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/29811.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CH: Switzerland",CH: RSI LA 2 HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/39923.m3u8
-
-# --- CR2: BOS (1) ---
-#EXTINF:-1 tvg-logo="" group-title="CR2: BOS",##### GREECE VIP #####
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/64220.m3u8
 
 # --- CRO: KROATIEN (41) ---
 #EXTINF:-1 tvg-logo="" group-title="CRO: KROATIEN",##### MaxTV HR |  #####
@@ -3147,7 +3143,9 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/143614.m3u8
 #EXTINF:-1 tvg-logo="" group-title="FR: FRANCE",|FR.SPOR| GOLF CHANNEL FRANCE FHD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/143615.m3u8
 
-# --- GR: GREECE (180) ---
+# --- GR: GREECE (181) ---
+#EXTINF:-1 tvg-logo="" group-title="GR: GREECE",##### GREECE VIP #####
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/64220.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GR: GREECE",
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/173426.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/a37f9781be1a55a7c5f8763c8b6a38a9.png" group-title="GR: GREECE",GR: Cosmote Sport 1

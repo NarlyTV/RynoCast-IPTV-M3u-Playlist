@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: alblive.org:80
-# Generated: 2025-12-24 18:32:13
+# Generated: 2025-12-25 07:14:06
 # Expires: 2026-01-15
 # Family Safe Edition
 # ==============================================
@@ -4911,7 +4911,7 @@ http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/147.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Documentary",Breaking the Bank: One Trader, 50 Billion
 http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/148.mp4
 
-# --- Movies | Drama (457) ---
+# --- Movies | Drama (460) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y5QXP7qdwtPRiZy6cQTjRoaTXuW.jpg" group-title="Movies | Drama",Hooking Up (2020)
 http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/6157.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9lfz2W2uGjyow3am00rsPJ8iOyq.jpg" group-title="Movies | Drama",Hidden Figures (2016)
@@ -5774,6 +5774,12 @@ http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17225.mkv
 http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17301.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/x6M9nlTpgpI4AOw0tMkOAVbhL5z.jpg" group-title="Movies | Drama",P.S. I Love You (2007)
 http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17337.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ygsMOnttVCekvJZgvmnvaemxPHA.jpg" group-title="Movies | Drama",Goodbye June (2025)
+http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17360.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yTIHBPLQyzhgz1c2spak3btJxsg.jpg" group-title="Movies | Drama",His Three Daughters (2024)
+http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17361.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kfQvaLi9P5JdyWjz0b5IhIjLCu1.jpg" group-title="Movies | Drama",The Children's Train (2024)
+http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17362.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | Drama",The Blacklist
 http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/24.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Drama",The Idol
@@ -10605,4 +10611,4 @@ http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/16122.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | Western",The English
 http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/100.mp4
 
-# Total: 5269
+# Total: 5272
