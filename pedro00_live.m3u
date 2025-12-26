@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: pedro00.net:88
-# Generated: 2025-12-25 18:29:08
+# Generated: 2025-12-26 07:04:17
 # Expires: 2026-01-24
 # Family Safe Edition
 # ==============================================
@@ -1109,9 +1109,7 @@ http://pedro00.net:88/live/BURKINABEFALLOU1402/U7FSYKA8GVZZSLO/375947.m3u8
 #EXTINF:-1 tvg-logo="http://vodkom.com:25461/MYBEIN/JEEM.png" group-title="BEIN ENTERTAINMENT",BEIN JEEM 4K
 http://pedro00.net:88/live/BURKINABEFALLOU1402/U7FSYKA8GVZZSLO/375948.m3u8
 
-# --- BEIN SPORTS 4K (16) ---
-#EXTINF:-1 tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_4_MAX.png" group-title="BEIN SPORTS 4K",|AR| BEIN MAX 4 FR 4K LO
-http://pedro00.net:88/live/BURKINABEFALLOU1402/U7FSYKA8GVZZSLO/1585699.m3u8
+# --- BEIN SPORTS 4K (15) ---
 #EXTINF:-1 tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_1_MAX.png" group-title="BEIN SPORTS 4K",|AR| BEIN MAX 1 4K NX
 http://pedro00.net:88/live/BURKINABEFALLOU1402/U7FSYKA8GVZZSLO/1585684.m3u8
 #EXTINF:-1 tvg-logo="http://vodkom.com:25461/MYBEIN/BEIN_SPORTS_1_MAX.png" group-title="BEIN SPORTS 4K",|AR| BEIN MAX 1 4k SA
@@ -3207,4 +3205,4 @@ http://pedro00.net:88/live/BURKINABEFALLOU1402/U7FSYKA8GVZZSLO/1079563.m3u8
 #EXTINF:-1 tvg-logo="http://vodkom.com:25461//MYBEIN/BEIN_SPORTS_4.png" group-title="|VOD| 3D",BEIN SPORTS 4
 http://pedro00.net:88/live/BURKINABEFALLOU1402/U7FSYKA8GVZZSLO/5231.m3u8
 
-# Total: 1562
+# Total: 1561

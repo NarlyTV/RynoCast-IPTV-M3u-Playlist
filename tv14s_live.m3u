@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: tv14s.xyz:8080
-# Generated: 2025-12-25 18:26:21
+# Generated: 2025-12-26 07:10:51
 # Expires: 2026-03-12
 # Family Safe Edition
 # ==============================================
@@ -3385,11 +3385,17 @@ http://tv14s.xyz:8080/live/37376578/37376578/17779.m3u8
 #EXTINF:-1 tvg-logo="https://thestreamable.com/media/pages/news/flash-sale-get-6-months-of-starz-for-only-3-33-a-month-so-you-can-binge-power-outlander-and-american-gods/3821036974-1583185843/starz.png" group-title="MOVIE NETWORKS",US Starz West (S)
 http://tv14s.xyz:8080/live/37376578/37376578/21091.m3u8
 
-# --- NBA (2) ---
+# --- NBA (5) ---
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png" group-title="NBA",CA-NBA TV
 http://tv14s.xyz:8080/live/37376578/37376578/22995.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png" group-title="NBA",USA: NBA TV
 http://tv14s.xyz:8080/live/37376578/37376578/20073.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 01
+http://tv14s.xyz:8080/live/37376578/37376578/258103.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 02
+http://tv14s.xyz:8080/live/37376578/37376578/258104.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 03
+http://tv14s.xyz:8080/live/37376578/37376578/258105.m3u8
 
 # --- NFL (23) ---
 #EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/5438735-nfl-team-logos-transparent-png-history-logos-lists-brands-nfl-logo-png-300_300_preview.png" group-title="NFL",US NFL Network
@@ -3408,23 +3414,23 @@ http://tv14s.xyz:8080/live/37376578/37376578/159120.m3u8
 http://tv14s.xyz:8080/live/37376578/37376578/208830.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NFL",USA | NFL
 http://tv14s.xyz:8080/live/37376578/37376578/208896.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NFL",NFL 01:  San Francisco 49ers vs Indianapolis Colts 8:15pm
+#EXTINF:-1 tvg-logo="" group-title="NFL",NFL 01:  Dallas Cowboys vs Washington Commanders 1pm
 http://tv14s.xyz:8080/live/37376578/37376578/252010.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NFL",NFL 02:  San Francisco 49ers vs Indianapolis Colts 8:15pm
+#EXTINF:-1 tvg-logo="" group-title="NFL",NFL 02:  Detroit Lions vs Minnesota Vikings 4:30pm
 http://tv14s.xyz:8080/live/37376578/37376578/252011.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NFL",NFL 03:  Los Angeles Chargers vs Dallas Cowboys @ 1:00 pm EST
+#EXTINF:-1 tvg-logo="" group-title="NFL",NFL 03:  Denver Broncos vs Kansas City Chiefs @ 8:15 pm
 http://tv14s.xyz:8080/live/37376578/37376578/252012.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NFL",NFL 04: New York Jets vs New Orleans Saints 1pm
+#EXTINF:-1 tvg-logo="" group-title="NFL",NFL 04:
 http://tv14s.xyz:8080/live/37376578/37376578/252013.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NFL",NFL 05:  Minnesota Vikings vs New York Giants @ 1:00 pm EST
+#EXTINF:-1 tvg-logo="" group-title="NFL",NFL 05:
 http://tv14s.xyz:8080/live/37376578/37376578/252014.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NFL",NFL 06: Kansas City Chiefs vs Tennessee Titans @ 1:00 pm EST
 http://tv14s.xyz:8080/live/37376578/37376578/252015.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NFL",NFL 07: Cincinnati Bengals vs Miami Dolphins @ 1:00 pm EST
+#EXTINF:-1 tvg-logo="" group-title="NFL",NFL 07:
 http://tv14s.xyz:8080/live/37376578/37376578/252016.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NFL",NFL 08: Atlanta Falcons vs Arizona Cardinals @ 4:05 pm EST
+#EXTINF:-1 tvg-logo="" group-title="NFL",NFL 08:
 http://tv14s.xyz:8080/live/37376578/37376578/252017.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NFL",NFL 09: Jacksonville Jaguars vs Denver Broncos @ 4:05 pm EST
+#EXTINF:-1 tvg-logo="" group-title="NFL",NFL 09:
 http://tv14s.xyz:8080/live/37376578/37376578/252018.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NFL",NFL 10: Pittsburgh Steelers vs Detroit Lions @ 4:25 pm EST
 http://tv14s.xyz:8080/live/37376578/37376578/252019.m3u8
@@ -13277,4 +13283,4 @@ http://tv14s.xyz:8080/live/37376578/37376578/121046.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Vietnam",VN DA NANG 1 HD
 http://tv14s.xyz:8080/live/37376578/37376578/121048.m3u8
 
-# Total: 6599
+# Total: 6602

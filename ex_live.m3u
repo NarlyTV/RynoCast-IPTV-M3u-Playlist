@@ -1,15 +1,19 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: ex.guteex.com:8000
-# Generated: 2025-12-25 18:33:08
+# Generated: 2025-12-26 07:12:32
 # Expires: 2026-04-01
 # Family Safe Edition
 # ==============================================
 
 
-# --- ALBANIA (80) ---
+# --- ALBANIA (82) ---
 #EXTINF:-1 tvg-logo="" group-title="ALBANIA",--------| ALBANIA |--------
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/3082.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ALBANIA",BB VIP 5 Albania 1 FHD
+http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/65533.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ALBANIA",BB VIP 5 Albania 2 FHD
+http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/65534.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ALBANIA",BB4 VIP Kosova 1 FHD
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/64437.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ALBANIA",BB4 VIP Kosova 2 FHD
@@ -718,11 +722,11 @@ http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/8317.m3u8
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/21264.m3u8
 #EXTINF:-1 tvg-logo="http://exapk.us/logo/astra/1_0_19_33AC_3EB_1_C00000_0_0_0.png" group-title="DE | DEUTSCHLAND",ATVHD
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/8340.m3u8
-#EXTINF:-1 tvg-logo="http://exapk.us/logo/astra/1_0_19_33AC_3EB_1_C00000_0_0_0.png" group-title="DE | DEUTSCHLAND",ATV2HD
+#EXTINF:-1 tvg-logo="http://exapk.us/logo/astra/1_0_19_33A7_3EB_1_C00000_0_0_0.png" group-title="DE | DEUTSCHLAND",ATV2HD
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/26949.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DE | DEUTSCHLAND",SRF 1 HD
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/7341.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE | DEUTSCHLAND",SRF ZWEI HD
+#EXTINF:-1 tvg-logo="http://exapk.us/logo/astra/1_0_16_36_7_85_C00000_0_0_0.png" group-title="DE | DEUTSCHLAND",SRF ZWEI HD
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/41853.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DE | DEUTSCHLAND",SRF INFO HD
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/41854.m3u8
@@ -1101,55 +1105,69 @@ http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/37357.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DE | FILM UND SERIE",Germany Box Disney+
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/37358.m3u8
 
-# --- DE | KINDER (24) ---
-#EXTINF:-1 tvg-logo="http://eex24.com:8000/uye/alman.png" group-title="DE | KINDER",-------| KINDER KANÄLE |-------
+# --- DE | KINDER (31) ---
+#EXTINF:-1 tvg-logo="http://exapk.us/logo/DE/alman.png" group-title="DE | KINDER",-------| KINDER KANÄLE |-------
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/5500.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE | KINDER",KIKA HD
+#EXTINF:-1 tvg-logo="http://exapk.us/logo/astra/1_0_19_2B98_3F2_1_C00000_0_0_0.png" group-title="DE | KINDER",KIKA HD
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/1834.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE | KINDER",TOGGO PLUS
+#EXTINF:-1 tvg-logo="http://exapk.us/logo/astra/1_0_19_2B98_3F2_1_C00000_0_0_0.png" group-title="DE | KINDER",KIKA
+http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/65537.m3u8
+#EXTINF:-1 tvg-logo="http://exapk.us/logo/astra/1_0_1_2EFE_441_1_C00000_0_0_0.png" group-title="DE | KINDER",TOGGO PLUS HD
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/2321.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE | KINDER",MAX Animation HD
-http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/19639.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE | KINDER",NICKELODEON HD
-http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/1839.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE | KINDER",NICKELODEON
-http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/8333.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE | KINDER",NICK JR HD
-http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/20121.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE | KINDER",NICK JR
-http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/1838.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE | KINDER",DISNEY CHANNEL HD
+#EXTINF:-1 tvg-logo="http://exapk.us/logo/astra/1_0_1_2EFE_441_1_C00000_0_0_0.png" group-title="DE | KINDER",TOGGO PLUS
+http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/65538.m3u8
+#EXTINF:-1 tvg-logo="http://exapk.us/logo/astra/1_0_19_157C_41F_1_C00000_0_0_0.png" group-title="DE | KINDER",DISNEY CHANNEL HD
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/200.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE | KINDER",DISNEY CHANNEL
+#EXTINF:-1 tvg-logo="http://exapk.us/logo/astra/1_0_19_157C_41F_1_C00000_0_0_0.png" group-title="DE | KINDER",DISNEY CHANNEL
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/1596.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE | KINDER",CARTOON NETWORK HD
+#EXTINF:-1 tvg-logo="http://exapk.us/logo/astra/1_0_16_194_B_85_C00000_0_0_0.png" group-title="DE | KINDER",CARTOON NETWORK HD
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/1836.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE | KINDER",CARTOON NETWORK
+#EXTINF:-1 tvg-logo="http://exapk.us/logo/astra/1_0_16_194_B_85_C00000_0_0_0.png" group-title="DE | KINDER",CARTOON NETWORK
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/199.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE | KINDER",CARTOONITO HD
+#EXTINF:-1 tvg-logo="http://exapk.us/logo/astra/1_0_16_1C_C_85_C00000_0_0_0.png" group-title="DE | KINDER",CARTOONITO HD
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/16875.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE | KINDER",NICKTOONS
-http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/8332.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE | KINDER",CRACTION HD
+#EXTINF:-1 tvg-logo="http://exapk.us/logo/astra/1_0_16_1C_C_85_C00000_0_0_0.png" group-title="DE | KINDER",CARTOONITO
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/37430.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE | KINDER",JUNIOR
-http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/5007.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE | KINDER",KALITEEX | Peppa Wutz
+#EXTINF:-1 tvg-logo="http://exapk.us/logo/astra/MAX.png" group-title="DE | KINDER",MAX Animation HD
+http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/19639.m3u8
+#EXTINF:-1 tvg-logo="http://exapk.us/logo/astra/1_0_19_2199_448_1_C00000_0_0_0.png" group-title="DE | KINDER",NICKELODEON HD
+http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/1839.m3u8
+#EXTINF:-1 tvg-logo="http://exapk.us/logo/astra/1_0_19_2199_448_1_C00000_0_0_0.png" group-title="DE | KINDER",NICKELODEON
+http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/8333.m3u8
+#EXTINF:-1 tvg-logo="http://exapk.us/logo/astra/1_0_1_7697_41E_1_C00000_0_0_0.png" group-title="DE | KINDER",NICK JR HD
+http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/20121.m3u8
+#EXTINF:-1 tvg-logo="http://exapk.us/logo/astra/1_0_1_7697_41E_1_C00000_0_0_0.png" group-title="DE | KINDER",NICK JR
+http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/1838.m3u8
+#EXTINF:-1 tvg-logo="http://exapk.us/logo/astra/1_0_16_1B_D_85_C00000_0_0_0.png" group-title="DE | KINDER",NICKTOONS
+http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/8332.m3u8
+#EXTINF:-1 tvg-logo="http://exapk.us/logo/DE/alman.png" group-title="DE | KINDER",KALITEEX | Peppa Wutz
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/10270.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE | KINDER",KALITEEX | PJ MASKS
+#EXTINF:-1 tvg-logo="http://exapk.us/logo/DE/alman.png" group-title="DE | KINDER",KALITEEX | PJ MASKS
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/29577.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE | KINDER",KALITEEX | KOYUN SHAUN.
+#EXTINF:-1 tvg-logo="http://exapk.us/logo/DE/alman.png" group-title="DE | KINDER",KALITEEX | KOYUN SHAUN.
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/15350.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE | KINDER",KALITEEX | DER KLEINE NICK
+#EXTINF:-1 tvg-logo="http://exapk.us/logo/DE/alman.png" group-title="DE | KINDER",KALITEEX | DER KLEINE NICK
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/15349.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE | KINDER",KALITEEX | MASCHA UND DER BAR
+#EXTINF:-1 tvg-logo="http://exapk.us/logo/DE/alman.png" group-title="DE | KINDER",KALITEEX | MASCHA UND DER BAR
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/2513.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE | KINDER",KALITEEX | MASCHA UND DER BAR ++
+#EXTINF:-1 tvg-logo="http://exapk.us/logo/DE/alman.png" group-title="DE | KINDER",KALITEEX | MASCHA UND DER BAR ++
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/30559.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE | KINDER",KALITEEX | TAYO DEUTSCHE
+#EXTINF:-1 tvg-logo="http://exapk.us/logo/DE/alman.png" group-title="DE | KINDER",KALITEEX | TAYO DEUTSCHE
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/7781.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE | KINDER",SpongeBob Schwammkopf
+#EXTINF:-1 tvg-logo="http://exapk.us/logo/DE/alman.png" group-title="DE | KINDER",SpongeBob Schwammkopf
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/36814.m3u8
+#EXTINF:-1 tvg-logo="http://exapk.us/logo/DE/alman.png" group-title="DE | KINDER",Naruto
+http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/5007.m3u8
+#EXTINF:-1 tvg-logo="http://exapk.us/logo/DE/alman.png" group-title="DE | KINDER",Dragonball Z
+http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/65539.m3u8
+#EXTINF:-1 tvg-logo="http://exapk.us/logo/DE/alman.png" group-title="DE | KINDER",Paw Patrol
+http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/65543.m3u8
+#EXTINF:-1 tvg-logo="http://exapk.us/logo/DE/alman.png" group-title="DE | KINDER",Tom und Jerry Show
+http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/65542.m3u8
+#EXTINF:-1 tvg-logo="http://exapk.us/logo/DE/alman.png" group-title="DE | KINDER",Micky Mouse Wunderhaus HD
+http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/65541.m3u8
+#EXTINF:-1 tvg-logo="http://exapk.us/logo/DE/alman.png" group-title="DE | KINDER",The Looney Toons
+http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/65540.m3u8
 
 # --- DE | MUSIK (31) ---
 #EXTINF:-1 tvg-logo="http://eex24.com:8000/uye/alman.png" group-title="DE | MUSIK",-------| MUSIK KANÄLE |-------
@@ -4455,4 +4473,4 @@ http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/40596.m3u8
 #EXTINF:-1 tvg-logo="" group-title="| TR- RADIO",RADYO | Diyanet Kur'ân Radyo
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/40597.m3u8
 
-# Total: 2189
+# Total: 2198

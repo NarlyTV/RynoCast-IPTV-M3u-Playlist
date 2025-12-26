@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: nisay.xyz:8080
-# Generated: 2025-12-25 18:38:12
+# Generated: 2025-12-26 07:15:11
 # Expires: 2026-10-04
 # Family Safe Edition
 # ==============================================
@@ -17173,7 +17173,13 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/138221.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tbA3OJWaIL8PKp1IX9ETcZo5trv.jpg" group-title="Movies | SERI FILMLER",Muzede Bir Gece 2006
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/138220.mkv
 
-# --- Movies | SON EKLENEN 300 FILM (299) ---
+# --- Movies | SON EKLENEN 300 FILM (302) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A5KX75fhJnVifZVg6z2dcm3wYe2.jpg" group-title="Movies | SON EKLENEN 300 FILM",Atlet (2025)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/159532.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jfCW2V8bOlBxhrOA59gxXjp30qT.jpg" group-title="Movies | SON EKLENEN 300 FILM",Doğulu (2025)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/159533.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qfQbPOHyKi4nkyoOodZoL5bvIja.jpg" group-title="Movies | SON EKLENEN 300 FILM",Sauvages (2024)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/159534.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dY6Dy8fbnbkVLWyhokOTPU2A3Z5.jpg" group-title="Movies | SON EKLENEN 300 FILM",Dünyanın En İyi Annesi (2025)
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/159501.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ygsMOnttVCekvJZgvmnvaemxPHA.jpg" group-title="Movies | SON EKLENEN 300 FILM",Elveda June (2025)
@@ -19827,4 +19833,4 @@ http://nisay.xyz:8080/series/atillaerdoganDE/sa95x6VSFx/1503
 #EXTINF:-1 tvg-logo="" group-title="Series | TR ALTYAZI SERIES",Pluribus
 http://nisay.xyz:8080/series/atillaerdoganDE/sa95x6VSFx/1803
 
-# Total: 9846
+# Total: 9849

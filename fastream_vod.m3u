@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: fastream.xyz:8080
-# Generated: 2025-12-25 18:34:44
+# Generated: 2025-12-26 07:07:29
 # Expires: 2026-10-20
 # Family Safe Edition
 # ==============================================
@@ -5023,7 +5023,9 @@ http://fastream.xyz:8080/movie/940246862tv/12ws79/10108.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2I3Jorx96I4dRevKlKDMkCFhQ1R.jpg" group-title="Movies | → VOD CINE CHILENO ←",El Club (2015)
 http://fastream.xyz:8080/movie/940246862tv/12ws79/10109.mkv
 
-# --- Movies | → VOD CLÁSICAS ← (155) ---
+# --- Movies | → VOD CLÁSICAS ← (156) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hxmJqXFFnXLlvPIdCW2k3UGLCgZ.jpg" group-title="Movies | → VOD CLÁSICAS ←",Perros de Reserva
+http://fastream.xyz:8080/movie/940246862tv/12ws79/278785.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wmocd5vF8Nt0oz06qCKMEL1mjBD.jpg" group-title="Movies | → VOD CLÁSICAS ←",Todos los hombres del Presidente (1976)
 http://fastream.xyz:8080/movie/940246862tv/12ws79/277469.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1CuTYAQrU3PVZFH4aPp6tQARmUt.jpg" group-title="Movies | → VOD CLÁSICAS ←",El Golpe
@@ -7877,7 +7879,9 @@ http://fastream.xyz:8080/movie/940246862tv/12ws79/5901.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5BK1B6JQRxnLEc4vZyrUojdIiCq.jpg" group-title="Movies | → VOD DOCUMENTALES ←",La reina de la montaña: Lhakpa Sherpa y la cumbre del Everest (2024)
 http://fastream.xyz:8080/movie/940246862tv/12ws79/249188.mp4
 
-# --- Movies | → VOD DRAMA ← (455) ---
+# --- Movies | → VOD DRAMA ← (456) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eZi0LEb8DtxSrizMsGKi02Jw6ww.jpg" group-title="Movies | → VOD DRAMA ←",Hermanos
+http://fastream.xyz:8080/movie/940246862tv/12ws79/278786.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lFU87NOeh6l4eos0Ahgigp6rL4P.jpg" group-title="Movies | → VOD DRAMA ←",Lamborghini: El hombre detrás de la leyenda
 http://fastream.xyz:8080/movie/940246862tv/12ws79/278336.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/85pki6OI0QOZEmkc2B9DjssRwvG.jpg" group-title="Movies | → VOD DRAMA ←",El Amor es más fuerte que las Bombas
@@ -17331,7 +17335,7 @@ http://fastream.xyz:8080/movie/940246862tv/12ws79/268637.mp4
 #EXTINF:-1 tvg-logo="https://goluchas.com/wp-content/uploads/2024/12/IMG_5281.jpeg" group-title="Movies | → VOD WWE ←",RAW 13 Enero (2025)
 http://fastream.xyz:8080/movie/940246862tv/12ws79/268788.mp4
 
-# --- Series | → SERIES ACCIÓN ← (66) ---
+# --- Series | → SERIES ACCIÓN ← (67) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES ACCIÓN ←",Black Sails
 http://fastream.xyz:8080/series/940246862tv/12ws79/21
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES ACCIÓN ←",Mil Colmillos
@@ -17464,6 +17468,8 @@ http://fastream.xyz:8080/series/940246862tv/12ws79/2491
 http://fastream.xyz:8080/series/940246862tv/12ws79/2498
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES ACCIÓN ←",El Ultimo Samurai en Pie
 http://fastream.xyz:8080/series/940246862tv/12ws79/2504
+#EXTINF:-1 tvg-logo="" group-title="Series | → SERIES ACCIÓN ←",La Guerra de los Reinos
+http://fastream.xyz:8080/series/940246862tv/12ws79/2513
 
 # --- Series | → SERIES ANIMADAS DEL RECUERDO ← (14) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES ANIMADAS DEL RECUERDO ←",Capitan Centella
@@ -19567,4 +19573,4 @@ http://fastream.xyz:8080/series/940246862tv/12ws79/2345
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES TERROR-THRILLER-SUSPENSO ←",It: Bienvenidos a Derry
 http://fastream.xyz:8080/series/940246862tv/12ws79/2492
 
-# Total: 9708
+# Total: 9711

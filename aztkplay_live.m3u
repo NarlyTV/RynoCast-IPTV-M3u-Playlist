@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: aztkplay.pro:8080
-# Generated: 2025-12-25 18:30:00
+# Generated: 2025-12-26 07:13:49
 # Expires: 2026-01-19
 # Family Safe Edition
 # ==============================================
@@ -2057,17 +2057,41 @@ http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/197164.m3u8
 #EXTINF:-1 tvg-logo="http://allstar.is-by.us:25461/images/4ce8f6ad68bf634e2332d766d587880c.png" group-title="ESPN PACKAGE",ESPN 3 Argentina
 http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/197166.m3u8
 
-# --- EVENTOS DE HOY AND TODAY SPORTS (5) ---
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/2025_Africa_Cup_of_Nations_logo.svg/1200px-2025_Africa_Cup_of_Nations_logo.svg.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",6:30 Copa Africana BURKINA FASO vs Guinea Ecuatorial
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/594604.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/2025_Africa_Cup_of_Nations_logo.svg/1200px-2025_Africa_Cup_of_Nations_logo.svg.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",9:00 Copa Africana ARGELIA vs Sudán
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/594605.m3u8
-#EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2017/02/afc-champions-league-logo.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",10:00 AFC Champions League AL NASSR vs Al Zawra'a
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/594606.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/2025_Africa_Cup_of_Nations_logo.svg/1200px-2025_Africa_Cup_of_Nations_logo.svg.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",11:30 Copa Africana COSTA DE MARFIL vs Mozambique
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/594607.m3u8
-#EXTINF:-1 tvg-logo="https://www.ncaa.com/modules/custom/casablanca_core/img/sportbanners/football.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",19:00 NCAA Football HAWAII vs California
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/594609.m3u8
+# --- EVENTOS DE HOY AND TODAY SPORTS (17) ---
+#EXTINF:-1 tvg-logo="https://assets.stickpng.com/images/58afdad6829958a978a4a693.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",* NBA *
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/594610.m3u8
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/league/badge/94pogz1646830106.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",Honduras 17:00 Olancho vs Platense
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/594611.m3u8
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2019/12/NBA-Logo.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",NBA 01 | Dec-25-2025 11:00AM | Cleveland Cavaliers at New York Knicks
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/594612.m3u8
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2019/12/NBA-Logo.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",NBA 02 | Dec-25-2025 1:30PM | San Antonio Spurs at Oklahoma City Thunder
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/594613.m3u8
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2019/12/NBA-Logo.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",NBA 03 | Dec-25-2025 4:00PM | Dallas Mavericks at Golden State Warriors
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/594614.m3u8
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2019/12/NBA-Logo.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",NBA 04 | Dec-25-2025 7:00PM | Houston Rockets at Los Angeles Lakers
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/594615.m3u8
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2019/12/NBA-Logo.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",NBA 05 | Dec-25-2025 9:30PM | Minnesota Timberwolves at Denver Nuggets
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/594616.m3u8
+#EXTINF:-1 tvg-logo="https://assets.stickpng.com/images/58afdad6829958a978a4a693.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",* NFL *
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/594617.m3u8
+#EXTINF:-1 tvg-logo="https://static.clubs.nfl.com/image/private/t_editorial_landscape_mobile/f_png/cowboys/cu2bvcxkgi3gdwygkqjc.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",NFL Game Pass 1 | Cowboys @ Commanders | Thu 25th 12:00PM
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/594618.m3u8
+#EXTINF:-1 tvg-logo="https://static.clubs.nfl.com/image/upload/t_editorial_landscape_mobile/f_png/vikings/zrw2qxch9apofdvrws2v.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",NFL Game Pass 2 | Lions @ Vikings | Thu 25th 3:30PM
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/594619.m3u8
+#EXTINF:-1 tvg-logo="https://static.clubs.nfl.com/image/upload/t_editorial_landscape_mobile/f_png/chiefs/en55oyrymdnpzxixcqil.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",NFL Game Pass 3 | Broncos @ Chiefs | Thu 25th 7:15PM (Español)
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/594620.m3u8
+#EXTINF:-1 tvg-logo="https://static.clubs.nfl.com/image/upload/t_editorial_landscape_mobile/f_png/chiefs/en55oyrymdnpzxixcqil.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",NFL Game Pass 3 | Broncos @ Chiefs | Thu 25th 7:15PM
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/594621.m3u8
+#EXTINF:-1 tvg-logo="https://assets.stickpng.com/images/58afdad6829958a978a4a693.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",* LMP *
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/594622.m3u8
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/19/1/liga-mexicana-del-pacifico-logo-png_seeklogo-196649.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",LMP | 25 Dic | 18:10 Yaquis de Obregon vs Venados de Mazatlan
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/594623.m3u8
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/19/1/liga-mexicana-del-pacifico-logo-png_seeklogo-196649.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",LMP | 25 Dic | 18:30 Charros de Jalisco vs Algodoneros de Guasave
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/594624.m3u8
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/19/1/liga-mexicana-del-pacifico-logo-png_seeklogo-196649.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",LMP | 25 Dic | 19:00 Cañeros de Los Mochis vs Jaguares de Nayarit
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/594625.m3u8
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/19/1/liga-mexicana-del-pacifico-logo-png_seeklogo-196649.png" group-title="EVENTOS DE HOY AND TODAY SPORTS",LMP | 25 Dic | 19:05 Tomateros de Culiacan vs Aguilas de Mexicali
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/594626.m3u8
 
 # --- FIBA (13) ---
 #EXTINF:-1 tvg-logo="https://assets.stickpng.com/images/58afdad6829958a978a4a693.png" group-title="FIBA",* FIBA *
@@ -3949,4 +3973,4 @@ http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/206304.m3u8
 #EXTINF:-1 tvg-logo="" group-title="VIX Plus",Las Estrellas -1 VIX
 http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/206305.m3u8
 
-# Total: 1906
+# Total: 1918
