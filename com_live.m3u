@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: com.trt1000.com:80
-# Generated: 2025-12-27 07:08:17
+# Generated: 2025-12-27 18:31:34
 # Expires: 2026-01-09
 # Family Safe Edition
 # ==============================================
@@ -773,7 +773,7 @@ http://com.trt1000.com:80/live/kayaciahmet/08012023bas/28775.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GERMANY LIVE",TOGGO PLUS
 http://com.trt1000.com:80/live/kayaciahmet/08012023bas/15331.m3u8
 
-# --- GERMANY SPORT (79) ---
+# --- GERMANY SPORT (81) ---
 #EXTINF:-1 tvg-logo="" group-title="GERMANY SPORT",BUND LG 1 HD
 http://com.trt1000.com:80/live/kayaciahmet/08012023bas/15376.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GERMANY SPORT",BUND LG 1 UHD
@@ -932,6 +932,10 @@ http://com.trt1000.com:80/live/kayaciahmet/08012023bas/63753.m3u8
 http://com.trt1000.com:80/live/kayaciahmet/08012023bas/63754.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GERMANY SPORT",DE:- AMAZON PRIME EVENT 2
 http://com.trt1000.com:80/live/kayaciahmet/08012023bas/63755.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORT",BUND LG 9 HD
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/64644.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORT",BUND LG 10 HD
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/64645.m3u8
 
 # --- Unknown (8) ---
 #EXTINF:-1 tvg-logo="" group-title="Unknown",TR: KRAL FM
@@ -951,4 +955,4 @@ http://com.trt1000.com:80/live/kayaciahmet/08012023bas/32345.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Unknown",TR: ALEM FM
 http://com.trt1000.com:80/live/kayaciahmet/08012023bas/32347.m3u8
 
-# Total: 463
+# Total: 465

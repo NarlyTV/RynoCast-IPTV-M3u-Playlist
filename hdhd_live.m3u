@@ -1,13 +1,13 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: hdhd.tk:80
-# Generated: 2025-12-27 07:01:45
+# Generated: 2025-12-27 18:25:23
 # Expires: 2027-01-09
 # Family Safe Edition
 # ==============================================
 
 
-# --- 24/7  (Shows) (131) ---
+# --- 24/7  (Shows) (133) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ooBGRQBdbGzBxAVfExiO8r7kloA.jpg" group-title="24/7  (Shows)",24/7 The Big Bang Theory
 http://hdhd.tk:80/live/b0327/6685/26682.m3u8
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/98svGNqMY6XneGppSkVppRT3xF2.jpg" group-title="24/7  (Shows)",24/7 Shark Tank
@@ -270,6 +270,10 @@ http://hdhd.tk:80/live/b0327/6685/386137.m3u8
 http://hdhd.tk:80/live/b0327/6685/386656.m3u8
 #EXTINF:-1 tvg-logo="" group-title="24/7  (Shows)",24/7 The Real Housewives of Atlanta
 http://hdhd.tk:80/live/b0327/6685/398916.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7  (Shows)",24/7 Tom Hanks
+http://hdhd.tk:80/live/b0327/6685/399092.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7  (Shows)",24/7 Denzel Washington
+http://hdhd.tk:80/live/b0327/6685/399093.m3u8
 
 # --- 24/7 ( Documentary ) (8) ---
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w1280/aqM6QnuhSXzjHlKbXyKUqxaGiWu.jpg" group-title="24/7 ( Documentary )",24/7 Top Gear
@@ -3838,11 +3842,11 @@ http://hdhd.tk:80/live/b0327/6685/396406.m3u8
 http://hdhd.tk:80/live/b0327/6685/396407.m3u8
 
 # --- SPORTS NCAAF (130) ---
-#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAAF",USA NCAAF 01
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAAF",USA NCAAF 01 : GameAbove Sports Bowl Central Michigan vs Northwestern @ 1:00 pm
 http://hdhd.tk:80/live/b0327/6685/46880.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAAF",USA NCAAF 02:
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAAF",USA NCAAF 02: Rate Bowl New Mexico vs Minnesota @ 4:30 pm
 http://hdhd.tk:80/live/b0327/6685/46881.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAAF",USA NCAAF 03
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAAF",USA NCAAF 03 First Responder Bowl Florida International vs UTSA @ 8:00 pm
 http://hdhd.tk:80/live/b0327/6685/46882.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS NCAAF",USA NCAAF 04
 http://hdhd.tk:80/live/b0327/6685/46883.m3u8
@@ -7821,4 +7825,4 @@ http://hdhd.tk:80/live/b0327/6685/330321.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Vietnam",VN FILM24H
 http://hdhd.tk:80/live/b0327/6685/330322.m3u8
 
-# Total: 3816
+# Total: 3818

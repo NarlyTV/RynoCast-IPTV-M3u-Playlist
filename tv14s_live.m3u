@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: tv14s.xyz:8080
-# Generated: 2025-12-27 07:02:56
+# Generated: 2025-12-27 18:25:05
 # Expires: 2026-05-27
 # Family Safe Edition
 # ==============================================
@@ -11777,14 +11777,6 @@ http://tv14s.xyz:8080/live/07301982/23101897/139118.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Radio Stations",WPTR 1240 AM & 97.1 FM live
 http://tv14s.xyz:8080/live/07301982/23101897/139119.m3u8
 
-# --- SANTA WATCH (3) ---
-#EXTINF:-1 tvg-logo="" group-title="SANTA WATCH",Santa Claus Village Live
-http://tv14s.xyz:8080/live/07301982/23101897/258047.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SANTA WATCH",Santa Workshop Live
-http://tv14s.xyz:8080/live/07301982/23101897/258048.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SANTA WATCH",Santa Watch 2025 Live
-http://tv14s.xyz:8080/live/07301982/23101897/258049.m3u8
-
 # --- Sports Fanatic's (89) ---
 #EXTINF:-1 tvg-logo="" group-title="Sports Fanatic's",CA Sportsnet East (D)
 http://tv14s.xyz:8080/live/07301982/23101897/41836.m3u8
@@ -13329,4 +13321,4 @@ http://tv14s.xyz:8080/live/07301982/23101897/121046.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Vietnam",VN DA NANG 1 HD
 http://tv14s.xyz:8080/live/07301982/23101897/121048.m3u8
 
-# Total: 6625
+# Total: 6622
