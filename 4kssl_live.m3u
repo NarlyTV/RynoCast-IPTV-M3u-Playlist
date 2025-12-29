@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: 4kssl.com:8080
-# Generated: 2025-12-28 18:30:54
+# Generated: 2025-12-29 07:17:38
 # Expires: 2026-07-25
 # Family Safe Edition
 # ==============================================
@@ -5278,10 +5278,10 @@ http://4kssl.com:8080/live/1a1349093e46/c4256387cf/220898.m3u8
 http://4kssl.com:8080/live/1a1349093e46/c4256387cf/106921.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6352.jpg?2491" group-title="FR| SPORT HD/4K",FR: AB1 HD
 http://4kssl.com:8080/live/1a1349093e46/c4256387cf/207148.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6304.jpg?18596" group-title="FR| SPORT HD/4K",FR: EQUIDIA LIVE HD
-http://4kssl.com:8080/live/1a1349093e46/c4256387cf/207227.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6293.jpg?95528" group-title="FR| SPORT HD/4K",FR: FOOT 24/24 + HD
 http://4kssl.com:8080/live/1a1349093e46/c4256387cf/207228.m3u8
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6304.jpg?18596" group-title="FR| SPORT HD/4K",FR: EQUIDIA LIVE HD
+http://4kssl.com:8080/live/1a1349093e46/c4256387cf/207227.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13606.png?13240" group-title="FR| SPORT HD/4K",FR: RMC ACCESS SPORT 1 4K
 http://4kssl.com:8080/live/1a1349093e46/c4256387cf/165079.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13606.png?27746" group-title="FR| SPORT HD/4K",FR: RMC ACCESS SPORT 1 HD

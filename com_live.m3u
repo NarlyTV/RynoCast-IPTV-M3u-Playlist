@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: com.trt1000.com:80
-# Generated: 2025-12-28 18:25:36
+# Generated: 2025-12-29 07:10:44
 # Expires: 2026-01-09
 # Family Safe Edition
 # ==============================================
@@ -83,7 +83,7 @@ http://com.trt1000.com:80/live/kayaciahmet/08012023bas/41243.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CROATIA CHANEL",(HR)Z1
 http://com.trt1000.com:80/live/kayaciahmet/08012023bas/41244.m3u8
 
-# --- EGE TV (59) ---
+# --- EGE TV (58) ---
 #EXTINF:-1 tvg-logo="" group-title="EGE TV",KAR KEYFI EGE
 http://com.trt1000.com:80/live/kayaciahmet/08012023bas/60593.m3u8
 #EXTINF:-1 tvg-logo="" group-title="EGE TV",YAGMUR KEYFI EGE
@@ -186,8 +186,6 @@ http://com.trt1000.com:80/live/kayaciahmet/08012023bas/60424.m3u8
 http://com.trt1000.com:80/live/kayaciahmet/08012023bas/60425.m3u8
 #EXTINF:-1 tvg-logo="" group-title="EGE TV",TAY TV EGE
 http://com.trt1000.com:80/live/kayaciahmet/08012023bas/60602.m3u8
-#EXTINF:-1 tvg-logo="" group-title="EGE TV",TJK TV EGE
-http://com.trt1000.com:80/live/kayaciahmet/08012023bas/60603.m3u8
 #EXTINF:-1 tvg-logo="" group-title="EGE TV",U F C FGHT HD.
 http://com.trt1000.com:80/live/kayaciahmet/08012023bas/60417.m3u8
 #EXTINF:-1 tvg-logo="" group-title="EGE TV",LGG CONNECTING 1 EGE
@@ -487,7 +485,7 @@ http://com.trt1000.com:80/live/kayaciahmet/08012023bas/63700.m3u8
 #EXTINF:-1 tvg-logo="" group-title="FRANCE DIRECT",Bein Sport 3  Local
 http://com.trt1000.com:80/live/kayaciahmet/08012023bas/63701.m3u8
 
-# --- GERMANY CINEMA (43) ---
+# --- GERMANY CINEMA (42) ---
 #EXTINF:-1 tvg-logo="" group-title="GERMANY CINEMA",CINEMA KRIMI
 http://com.trt1000.com:80/live/kayaciahmet/08012023bas/15344.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GERMANY CINEMA",CINEMA NOSTALGIE
@@ -506,12 +504,16 @@ http://com.trt1000.com:80/live/kayaciahmet/08012023bas/15336.m3u8
 http://com.trt1000.com:80/live/kayaciahmet/08012023bas/15335.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GERMANY CINEMA",CINEMA  FUN
 http://com.trt1000.com:80/live/kayaciahmet/08012023bas/15337.m3u8
-#EXTINF:-1 tvg-logo="" group-title="GERMANY CINEMA",SKY HIGHLIGHTS
-http://com.trt1000.com:80/live/kayaciahmet/08012023bas/15339.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GERMANY CINEMA",CINEMA ATLANTIC
 http://com.trt1000.com:80/live/kayaciahmet/08012023bas/15342.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GERMANY CINEMA",CINEMA CRIME
 http://com.trt1000.com:80/live/kayaciahmet/08012023bas/15334.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GERMANY CINEMA",SLECT HORROR
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/39154.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GERMANY CINEMA",SLECT THRILLER
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/39155.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GERMANY CINEMA",SLECT FANTASY
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/39156.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GERMANY CINEMA",HARRY POTTER
 http://com.trt1000.com:80/live/kayaciahmet/08012023bas/44544.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GERMANY CINEMA",JACKIE CHAN
@@ -526,12 +528,6 @@ http://com.trt1000.com:80/live/kayaciahmet/08012023bas/44883.m3u8
 http://com.trt1000.com:80/live/kayaciahmet/08012023bas/39153.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GERMANY CINEMA",JEAN CLAUDE VAN DAMME
 http://com.trt1000.com:80/live/kayaciahmet/08012023bas/44890.m3u8
-#EXTINF:-1 tvg-logo="" group-title="GERMANY CINEMA",SLECT HORROR
-http://com.trt1000.com:80/live/kayaciahmet/08012023bas/39154.m3u8
-#EXTINF:-1 tvg-logo="" group-title="GERMANY CINEMA",SLECT THRILLER
-http://com.trt1000.com:80/live/kayaciahmet/08012023bas/39155.m3u8
-#EXTINF:-1 tvg-logo="" group-title="GERMANY CINEMA",SLECT FANTASY
-http://com.trt1000.com:80/live/kayaciahmet/08012023bas/39156.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GERMANY CINEMA",dE: Select iNFO
 http://com.trt1000.com:80/live/kayaciahmet/08012023bas/64635.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GERMANY CINEMA",dE: Select 1
@@ -575,7 +571,7 @@ http://com.trt1000.com:80/live/kayaciahmet/08012023bas/28613.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GERMANY CINEMA",SLECT HD 10
 http://com.trt1000.com:80/live/kayaciahmet/08012023bas/28614.m3u8
 
-# --- GERMANY DOKUMENTAR (16) ---
+# --- GERMANY DOKUMENTAR (14) ---
 #EXTINF:-1 tvg-logo="" group-title="GERMANY DOKUMENTAR",DE: HiSTORY
 http://com.trt1000.com:80/live/kayaciahmet/08012023bas/15323.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GERMANY DOKUMENTAR",DE: NAT GEO
@@ -598,10 +594,6 @@ http://com.trt1000.com:80/live/kayaciahmet/08012023bas/40885.m3u8
 http://com.trt1000.com:80/live/kayaciahmet/08012023bas/40886.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GERMANY DOKUMENTAR",DE: ANIMAL PLANET HD ++
 http://com.trt1000.com:80/live/kayaciahmet/08012023bas/40887.m3u8
-#EXTINF:-1 tvg-logo="" group-title="GERMANY DOKUMENTAR",DE: DISCOVERY CHANEL
-http://com.trt1000.com:80/live/kayaciahmet/08012023bas/40889.m3u8
-#EXTINF:-1 tvg-logo="" group-title="GERMANY DOKUMENTAR",DE: NATIONAL GEO HD+
-http://com.trt1000.com:80/live/kayaciahmet/08012023bas/40890.m3u8
 #EXTINF:-1 tvg-logo="http://logo-chanell.dyndns.tv:40200/logo-chanel/tlc_uk.png" group-title="GERMANY DOKUMENTAR",DE: TLC HD
 http://com.trt1000.com:80/live/kayaciahmet/08012023bas/40892.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GERMANY DOKUMENTAR",DE: NATURE UHD
@@ -609,7 +601,7 @@ http://com.trt1000.com:80/live/kayaciahmet/08012023bas/40894.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GERMANY DOKUMENTAR",DE: N24 DOKU*
 http://com.trt1000.com:80/live/kayaciahmet/08012023bas/37187.m3u8
 
-# --- GERMANY LIVE (81) ---
+# --- GERMANY LIVE (78) ---
 #EXTINF:-1 tvg-logo="" group-title="GERMANY LIVE",DAS ERSTE
 http://com.trt1000.com:80/live/kayaciahmet/08012023bas/15284.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GERMANY LIVE",DAS ERSTE*
@@ -722,8 +714,6 @@ http://com.trt1000.com:80/live/kayaciahmet/08012023bas/37190.m3u8
 http://com.trt1000.com:80/live/kayaciahmet/08012023bas/15320.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GERMANY LIVE",PHOENIX*
 http://com.trt1000.com:80/live/kayaciahmet/08012023bas/37194.m3u8
-#EXTINF:-1 tvg-logo="" group-title="GERMANY LIVE",FOX
-http://com.trt1000.com:80/live/kayaciahmet/08012023bas/15297.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GERMANY LIVE",ORF 1
 http://com.trt1000.com:80/live/kayaciahmet/08012023bas/15301.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GERMANY LIVE",ORF 2
@@ -740,12 +730,8 @@ http://com.trt1000.com:80/live/kayaciahmet/08012023bas/61993.m3u8
 http://com.trt1000.com:80/live/kayaciahmet/08012023bas/61994.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GERMANY LIVE",HR
 http://com.trt1000.com:80/live/kayaciahmet/08012023bas/45986.m3u8
-#EXTINF:-1 tvg-logo="" group-title="GERMANY LIVE",TNT SERIE
-http://com.trt1000.com:80/live/kayaciahmet/08012023bas/15294.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GERMANY LIVE",WB FILM
 http://com.trt1000.com:80/live/kayaciahmet/08012023bas/15295.m3u8
-#EXTINF:-1 tvg-logo="" group-title="GERMANY LIVE",TNT COMEDY
-http://com.trt1000.com:80/live/kayaciahmet/08012023bas/15296.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GERMANY LIVE",KiKA
 http://com.trt1000.com:80/live/kayaciahmet/08012023bas/24216.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GERMANY LIVE",DISNEY CHANNEL
@@ -773,11 +759,9 @@ http://com.trt1000.com:80/live/kayaciahmet/08012023bas/28775.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GERMANY LIVE",TOGGO PLUS
 http://com.trt1000.com:80/live/kayaciahmet/08012023bas/15331.m3u8
 
-# --- GERMANY SPORT (81) ---
+# --- GERMANY SPORT (115) ---
 #EXTINF:-1 tvg-logo="" group-title="GERMANY SPORT",BUND LG 1 HD
 http://com.trt1000.com:80/live/kayaciahmet/08012023bas/15376.m3u8
-#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORT",BUND LG 1 UHD
-http://com.trt1000.com:80/live/kayaciahmet/08012023bas/63590.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GERMANY SPORT",BUND LG 2 HD
 http://com.trt1000.com:80/live/kayaciahmet/08012023bas/15377.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GERMANY SPORT",BUND LG 3 HD
@@ -792,6 +776,10 @@ http://com.trt1000.com:80/live/kayaciahmet/08012023bas/19573.m3u8
 http://com.trt1000.com:80/live/kayaciahmet/08012023bas/31676.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GERMANY SPORT",BUND LG 8 HD
 http://com.trt1000.com:80/live/kayaciahmet/08012023bas/31677.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORT",BUND LG 9 HD
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/64644.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORT",BUND LG 10 HD
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/64645.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GERMANY SPORT",SK SPORT 1 HD
 http://com.trt1000.com:80/live/kayaciahmet/08012023bas/15381.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GERMANY SPORT",SK SPORT 2 HD
@@ -830,8 +818,6 @@ http://com.trt1000.com:80/live/kayaciahmet/08012023bas/40872.m3u8
 http://com.trt1000.com:80/live/kayaciahmet/08012023bas/40873.m3u8
 #EXTINF:-1 tvg-logo="http://logo-chanell.dyndns.tv:40200/logo-chanel/NBA.PNG" group-title="GERMANY SPORT",DE: NBA TV HD
 http://com.trt1000.com:80/live/kayaciahmet/08012023bas/40874.m3u8
-#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORT",DE: UFC FIGHT HD
-http://com.trt1000.com:80/live/kayaciahmet/08012023bas/40875.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GERMANY SPORT",DE: EUROSPORT 1 HD
 http://com.trt1000.com:80/live/kayaciahmet/08012023bas/40876.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GERMANY SPORT",DE: EUROSPORT 2 HD
@@ -874,68 +860,304 @@ http://com.trt1000.com:80/live/kayaciahmet/08012023bas/50875.m3u8
 http://com.trt1000.com:80/live/kayaciahmet/08012023bas/50876.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GERMANY SPORT",Telek Sport 10
 http://com.trt1000.com:80/live/kayaciahmet/08012023bas/50877.m3u8
-#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORT",DE: DAZN EVENT 1
-http://com.trt1000.com:80/live/kayaciahmet/08012023bas/61595.m3u8
-#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORT",DE: DAZN EVENT 2
-http://com.trt1000.com:80/live/kayaciahmet/08012023bas/61596.m3u8
-#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORT",DE: DAZN EVENT 3
-http://com.trt1000.com:80/live/kayaciahmet/08012023bas/61597.m3u8
-#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORT",DE: DAZN EVENT 4
-http://com.trt1000.com:80/live/kayaciahmet/08012023bas/61598.m3u8
-#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORT",DE: DAZN EVENT 5
-http://com.trt1000.com:80/live/kayaciahmet/08012023bas/61599.m3u8
-#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORT",DE: DAZN NFL iNFO
-http://com.trt1000.com:80/live/kayaciahmet/08012023bas/61600.m3u8
-#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORT",DE: DAZN NFL 1
-http://com.trt1000.com:80/live/kayaciahmet/08012023bas/61601.m3u8
-#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORT",DE: DAZN NFL 2
-http://com.trt1000.com:80/live/kayaciahmet/08012023bas/61602.m3u8
-#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORT",DE: DAZN NFL 3
-http://com.trt1000.com:80/live/kayaciahmet/08012023bas/61603.m3u8
-#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORT",DE: DAZN NFL 4
-http://com.trt1000.com:80/live/kayaciahmet/08012023bas/61604.m3u8
-#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORT",DE: DAZN NFL 5
-http://com.trt1000.com:80/live/kayaciahmet/08012023bas/61605.m3u8
-#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORT",DE: DAZN NFL 6
-http://com.trt1000.com:80/live/kayaciahmet/08012023bas/61606.m3u8
-#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORT",DE: DAZN NFL 7
-http://com.trt1000.com:80/live/kayaciahmet/08012023bas/61607.m3u8
-#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORT",DE: DAZN NFL 8
-http://com.trt1000.com:80/live/kayaciahmet/08012023bas/61608.m3u8
-#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORT",DE: DAZN NFL 9
-http://com.trt1000.com:80/live/kayaciahmet/08012023bas/61609.m3u8
-#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORT",DE: DAZN NFL 10
-http://com.trt1000.com:80/live/kayaciahmet/08012023bas/61610.m3u8
-#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORT",DE: DAZN NFL 11
-http://com.trt1000.com:80/live/kayaciahmet/08012023bas/61611.m3u8
-#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORT",DE: DAZN NFL 12
-http://com.trt1000.com:80/live/kayaciahmet/08012023bas/61612.m3u8
-#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORT",DE: DAZN NFL 13
-http://com.trt1000.com:80/live/kayaciahmet/08012023bas/61613.m3u8
-#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORT",DE: DAZN NFL 14
-http://com.trt1000.com:80/live/kayaciahmet/08012023bas/61614.m3u8
-#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORT",DE: DAZN NFL 15
-http://com.trt1000.com:80/live/kayaciahmet/08012023bas/61615.m3u8
-#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORT",RTL + 1
-http://com.trt1000.com:80/live/kayaciahmet/08012023bas/62092.m3u8
-#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORT",RTL + 2
-http://com.trt1000.com:80/live/kayaciahmet/08012023bas/62093.m3u8
-#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORT",RTL + 3
-http://com.trt1000.com:80/live/kayaciahmet/08012023bas/62094.m3u8
-#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORT",RTL + 4
-http://com.trt1000.com:80/live/kayaciahmet/08012023bas/62095.m3u8
-#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORT",RTL + 5
-http://com.trt1000.com:80/live/kayaciahmet/08012023bas/62096.m3u8
-#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORT",DE:- AMAZON PRIME EVENT
-http://com.trt1000.com:80/live/kayaciahmet/08012023bas/63753.m3u8
-#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORT",DE:- AMAZON PRIME EVENT 1
-http://com.trt1000.com:80/live/kayaciahmet/08012023bas/63754.m3u8
-#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORT",DE:- AMAZON PRIME EVENT 2
-http://com.trt1000.com:80/live/kayaciahmet/08012023bas/63755.m3u8
-#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORT",BUND LG 9 HD
-http://com.trt1000.com:80/live/kayaciahmet/08012023bas/64644.m3u8
-#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORT",BUND LG 10 HD
-http://com.trt1000.com:80/live/kayaciahmet/08012023bas/64645.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORT",DE:  EVNT 1
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/64660.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORT",DE:  EVNT 2
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/64661.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORT",DE:  EVNT 3
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/64662.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORT",DE:  EVNT 4
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/64663.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORT",DE:  EVNT 5
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/64664.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORT",DE: DZ NFL iNFO
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/64665.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORT",DE: DZ NFL 1
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/64666.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORT",DE: DZ NFL 2
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/64667.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORT",DE: DZ NFL 3
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/64668.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORT",DE: DZ NFL 4
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/64669.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORT",DE: DZ NFL 5
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/64670.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORT",DE: DZ NFL 6
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/64671.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORT",DE: DZ NFL 7
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/64672.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORT",DE: DZ NFL 8
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/64673.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORT",DE: DZ NFL 9
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/64674.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORT",DE: DZ NFL 10
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/64675.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORT",DE: DZ NFL 11
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/64676.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORT",DE: DZ NFL 12
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/64677.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORT",DE: DZ NFL 13
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/64678.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORT",DE: DZ NFL 14
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/64679.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORT",DE: DZ NFL 15
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/64680.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORT",DE: VIP BLU SPOR D 1
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/64681.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORT",DE: VIP BLU SPOR D 2
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/64682.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORT",DE: VIP BLU SPOR 1 UHD
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/64684.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORT",DE: VIP BLU SPOR 2 UHD
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/64685.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORT",DE: VIP BLU SPOR 3 UHD
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/64686.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORT",DE: VIP BLU SPOR 4 UHD
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/64687.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORT",DE: VIP BLU SPOR 1 LIVE
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/64688.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORT",DE: VIP BLU SPOR 2 LIVE
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/64689.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORT",DE: VIP BLU SPOR 3 LIVE
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/64690.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORT",DE: VIP BLU SPOR 4 LIVE
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/64691.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORT",DE: VIP BLU SPOR 5 LIVE
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/64692.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORT",DE: VIP BLU SPOR 6 LIVE
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/64693.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORT",DE: VIP BLU SPOR 7 LIVE
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/64694.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORT",DE: VIP BLU SPOR 8 LIVE
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/64695.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORT",DE: VIP BLU SPOR 9 LIVE
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/64696.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORT",DE: VIP BLU SPOR 10 LIVE
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/64697.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORT",DE: VIP BLU SPOR 11 LIVE
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/64698.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORT",DE: VIP BLU SPOR 12 LIVE
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/64699.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORT",DE: VIP BLU SPOR 13 LIVE
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/64700.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORT",DE: VIP BLU SPOR 14 LIVE
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/64701.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORT",DE: VIP BLU SPOR 15 LIVE
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/64702.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORT",DE:  DY SPORT  1
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/64703.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORT",DE:  DY SPORT 2
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/64704.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORT",DE:  DY SPORT 3
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/64705.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORT",DE:  DY SPORT 4
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/64706.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORT",DE:  DY SPORT 5
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/64707.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORT",DE:  DY SPORT 6
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/64708.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORT",DE:  DY SPORT 7
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/64709.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORT",DE:  DY SPORT 8
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/64710.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORT",DE:  DY SPORT 9
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/64711.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORT",DE:  DY SPORT 10
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/64712.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORT",DE:  RT + SPORT EVNT 1
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/64713.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORT",DE:  RT + SPORT EVNT 2
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/64714.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORT",DE:  RT + SPORT EVNT 3
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/64715.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORT",DE:  RT + SPORT EVNT 4
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/64716.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORT",DE:  RT + SPORT EVNT 5
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/64717.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORT",DE:  RT + SPORT EVNT 6
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/64718.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORT",DE:  RT + SPORT EVNT 7
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/64719.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORT",DE:  RT + SPORT EVNT 8
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/64720.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORT",DE:  RT + SPORT EVNT 9
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/64721.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORT",DE:  RT + SPORT EVNT 10
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/64722.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORT",DE:  AMZN PRME EVNT
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/64723.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORT",DE:  AMZN PRME EVNT 1
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/64724.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORT",DE:  AMZN PRME EVNT 2
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/64725.m3u8
+
+# --- TURK SPOR (83) ---
+#EXTINF:-1 tvg-logo="" group-title="TURK SPOR",HUZUR
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/60705.m3u8
+#EXTINF:-1 tvg-logo="http://logo-chanell.dyndns.tv:40200/logo-chanel/ates.png" group-title="TURK SPOR",SOMINE KEYFI
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/43169.m3u8
+#EXTINF:-1 tvg-logo="http://logo-chanell.dyndns.tv:40200/logo-chanel/YAG.PNG" group-title="TURK SPOR",YAGMUR KEYFI
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/43419.m3u8
+#EXTINF:-1 tvg-logo="http://logo-chanell.dyndns.tv:40200/logo-chanel/KAR.PNG" group-title="TURK SPOR",KAR KEYFI
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/43420.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/a_spor_tr.png" group-title="TURK SPOR",A SPOR HD
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/2.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/a_spor_tr.png" group-title="TURK SPOR",A SPOR FHD
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/37269.m3u8
+#EXTINF:-1 tvg-logo="http://logo-chanell.dyndns.tv:40200/logo-chanel/TS.PNG" group-title="TURK SPOR",TRT SPOR HD
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/3.m3u8
+#EXTINF:-1 tvg-logo="http://logo-chanell.dyndns.tv:40200/logo-chanel/TS.PNG" group-title="TURK SPOR",TRT SPOR FHD
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/37268.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TURK SPOR",HT SPOR FHD
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/60463.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TURK SPOR",EKOL SPOR HD
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/63690.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trt-spor-2-tr.png" group-title="TURK SPOR",TRT SPOR YILDIZ FHD
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/17103.m3u8
+#EXTINF:-1 tvg-logo="http://contentlibrary.digiturk.com.tr/Channel/55/Image/FB-TV.png" group-title="TURK SPOR",FB TV HD
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/25.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bein-sports-haber-qa-tr.png" group-title="TURK SPOR",BEIN SPOR HABER
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/4.m3u8
+#EXTINF:-1 tvg-logo="http://contentlibrary.digiturk.com.tr/Channel/193/Image/beinsports1-hd-70x46.png" group-title="TURK SPOR",L.G TV 1 CEPDEN iZLE
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/5.m3u8
+#EXTINF:-1 tvg-logo="http://contentlibrary.digiturk.com.tr/Channel/193/Image/beinsports1-hd-70x46.png" group-title="TURK SPOR",L.G TV 1 HD
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/6.m3u8
+#EXTINF:-1 tvg-logo="http://contentlibrary.digiturk.com.tr/Channel/193/Image/beinsports1-hd-70x46.png" group-title="TURK SPOR",L.G TV 1 UHD
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/7.m3u8
+#EXTINF:-1 tvg-logo="http://contentlibrary.digiturk.com.tr/Channel/193/Image/beinsports1-hd-70x46.png" group-title="TURK SPOR",L.G TV 1  H264 4K GECIKMESIZ
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/8.m3u8
+#EXTINF:-1 tvg-logo="http://logo-chanell.dyndns.tv:40200/logo-chanel/be_in_tr_sports_01_hd.png" group-title="TURK SPOR",L.G 1 HD MAC ZAMANI
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/26052.m3u8
+#EXTINF:-1 tvg-logo="http://contentlibrary.digiturk.com.tr/Channel/310/Image/beinsports2-hd-70x46.png" group-title="TURK SPOR",L.G TV 2 HD
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/9.m3u8
+#EXTINF:-1 tvg-logo="http://contentlibrary.digiturk.com.tr/Channel/310/Image/beinsports2-hd-70x46.png" group-title="TURK SPOR",L.G TV 2 UHD
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/10.m3u8
+#EXTINF:-1 tvg-logo="http://contentlibrary.digiturk.com.tr/Channel/312/Image/beinsports3-hd-70x46.png" group-title="TURK SPOR",L.G TV 3 HD
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/11.m3u8
+#EXTINF:-1 tvg-logo="http://contentlibrary.digiturk.com.tr/Channel/312/Image/beinsports3-hd-70x46.png" group-title="TURK SPOR",L.G TV 3 UHD
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/12.m3u8
+#EXTINF:-1 tvg-logo="http://contentlibrary.digiturk.com.tr/Channel/495/Image/beinsports4-hd-70x46.png" group-title="TURK SPOR",L.G TV 4 HD
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/13.m3u8
+#EXTINF:-1 tvg-logo="http://logo-chanell.dyndns.tv:40200/logo-chanel/be_in_tr_sports_04_hd.png" group-title="TURK SPOR",L.G TV 4 FHD
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/43775.m3u8
+#EXTINF:-1 tvg-logo="http://logo-chanell.dyndns.tv:40200/logo-chanel/BS.PNG" group-title="TURK SPOR",L.G TV 5 HD
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/40617.m3u8
+#EXTINF:-1 tvg-logo="http://logo-chanell.dyndns.tv:40200/logo-chanel/BS.PNG" group-title="TURK SPOR",L.G TV 5 UHD
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/55593.m3u8
+#EXTINF:-1 tvg-logo="http://contentlibrary.digiturk.com.tr/Channel/506/Image/beinsports1max-hd-70x46.png" group-title="TURK SPOR",L.G TV MAX 1 HD
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/15.m3u8
+#EXTINF:-1 tvg-logo="http://contentlibrary.digiturk.com.tr/Channel/507/Image/beinsports2max-hd-70x46.png" group-title="TURK SPOR",L.G TV MAX 2 HD
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/17.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/8/82/S_Sport_logo.jpg" group-title="TURK SPOR",S SPORT 1 HD
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/21.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/8/82/S_Sport_logo.jpg" group-title="TURK SPOR",S SPOR 1 UHD
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/46028.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/ed/S_Sport_2_logo.jpg" group-title="TURK SPOR",S SPORT 2 HD
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/4903.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/ed/S_Sport_2_logo.jpg" group-title="TURK SPOR",S SPOR 2 UHD
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/46029.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Ssport-plus-.png" group-title="TURK SPOR",S SPOR PLUS +
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/63540.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Ssport-plus-.png" group-title="TURK SPOR",S SPOR PLUS + 1 UHD
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/43991.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Ssport-plus-.png" group-title="TURK SPOR",S SPOR PLUS + 2 UHD
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/63539.m3u8
+#EXTINF:-1 tvg-logo="http://logo-chanell.dyndns.tv:40200/logo-chanel/smsp.PNG" group-title="TURK SPOR",SMART SPOR HD
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/22.m3u8
+#EXTINF:-1 tvg-logo="http://logo-chanell.dyndns.tv:40200/logo-chanel/smsp.PNG" group-title="TURK SPOR",SMART SPOR  + HD
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/28857.m3u8
+#EXTINF:-1 tvg-logo="http://logo-chanell.dyndns.tv:40200/logo-chanel/smsp.PNG" group-title="TURK SPOR",SMART SPOR 2 HD
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/39180.m3u8
+#EXTINF:-1 tvg-logo="http://logo-chanell.dyndns.tv:40200/logo-chanel/tivibu_tr_spor.png" group-title="TURK SPOR",TIVIBU SPORT HD
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/45423.m3u8
+#EXTINF:-1 tvg-logo="http://logo-chanell.dyndns.tv:40200/logo-chanel/tivibu_tr_spor.png" group-title="TURK SPOR",TIVIBU SPORT 1 HD
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/18.m3u8
+#EXTINF:-1 tvg-logo="http://logo-chanell.dyndns.tv:40200/logo-chanel/tivibu_tr_spor.png" group-title="TURK SPOR",TIVIBU SPORT 2 HD
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/19.m3u8
+#EXTINF:-1 tvg-logo="http://logo-chanell.dyndns.tv:40200/logo-chanel/tivibu_tr_spor.png" group-title="TURK SPOR",TIVIBU SPORT 3 HD
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/20.m3u8
+#EXTINF:-1 tvg-logo="http://logo-chanell.dyndns.tv:40200/logo-chanel/tivibu_tr_spor.png" group-title="TURK SPOR",TIVIBU SPORT 4 HD
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/45422.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TURK SPOR",UFC UDAR
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/63803.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TURK SPOR",UFC FIGHT
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/63724.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TURK SPOR",FIGHTKLUB PL
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/63709.m3u8
+#EXTINF:-1 tvg-logo="http://logo-chanell.dyndns.tv:40200/logo-chanel/EUSP.PNG" group-title="TURK SPOR",EUROSPORT 1 SD
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/46030.m3u8
+#EXTINF:-1 tvg-logo="http://logo-chanell.dyndns.tv:40200/logo-chanel/EUSP.PNG" group-title="TURK SPOR",EUROSPORT 1
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/11926.m3u8
+#EXTINF:-1 tvg-logo="http://logo-chanell.dyndns.tv:40200/logo-chanel/eurosports2.png" group-title="TURK SPOR",EUROSPORT 2
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/11927.m3u8
+#EXTINF:-1 tvg-logo="http://logo-chanell.dyndns.tv:40200/logo-chanel/NBA.PNG" group-title="TURK SPOR",NBA TV
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/98.m3u8
+#EXTINF:-1 tvg-logo="http://logo-chanell.dyndns.tv:40200/logo-chanel/TAY.PNG" group-title="TURK SPOR",TAY TV
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/15278.m3u8
+#EXTINF:-1 tvg-logo="http://logo-chanell.dyndns.tv:40200/logo-chanel/TJK.PNG" group-title="TURK SPOR",TJK TV
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/31866.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TURK SPOR",Tabii Spor  Mac Zamani
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/59874.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TURK SPOR",Tabii Spor 2 Mac Zamani
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/59875.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TURK SPOR",Tabii Spor 3 Mac Zamani
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/59876.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TURK SPOR",Tabii Spor 4 Mac Zamani
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/59877.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TURK SPOR",Tabii Spor 5 Mac Zamani
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/60510.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TURK SPOR",Tabii Spor 6 Mac Zamani
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/60511.m3u8
+#EXTINF:-1 tvg-logo="http://logo-chanell.dyndns.tv:40200/logo-chanel/EX.PNG" group-title="TURK SPOR",EXXEN SPOR 1 HD
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/29507.m3u8
+#EXTINF:-1 tvg-logo="http://logo-chanell.dyndns.tv:40200/logo-chanel/EX.PNG" group-title="TURK SPOR",Axenn Sports 1 FHD
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/31652.m3u8
+#EXTINF:-1 tvg-logo="http://logo-chanell.dyndns.tv:40200/logo-chanel/EX.PNG" group-title="TURK SPOR",EXXEN SPOR 2 HD
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/29508.m3u8
+#EXTINF:-1 tvg-logo="http://logo-chanell.dyndns.tv:40200/logo-chanel/EX.PNG" group-title="TURK SPOR",Exxenn Sports 2 FHD
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/31645.m3u8
+#EXTINF:-1 tvg-logo="http://logo-chanell.dyndns.tv:40200/logo-chanel/EX.PNG" group-title="TURK SPOR",EXXEN SPOR 3
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/29509.m3u8
+#EXTINF:-1 tvg-logo="http://logo-chanell.dyndns.tv:40200/logo-chanel/EX.PNG" group-title="TURK SPOR",Exxenn Sports 3 FHD
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/31646.m3u8
+#EXTINF:-1 tvg-logo="http://logo-chanell.dyndns.tv:40200/logo-chanel/EX.PNG" group-title="TURK SPOR",EXXEN SPOR 4
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/30700.m3u8
+#EXTINF:-1 tvg-logo="http://logo-chanell.dyndns.tv:40200/logo-chanel/EX.PNG" group-title="TURK SPOR",Exxenn Sports 4 FHD
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/31647.m3u8
+#EXTINF:-1 tvg-logo="http://logo-chanell.dyndns.tv:40200/logo-chanel/EX.PNG" group-title="TURK SPOR",EXXEN SPOR 5
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/30701.m3u8
+#EXTINF:-1 tvg-logo="http://logo-chanell.dyndns.tv:40200/logo-chanel/EX.PNG" group-title="TURK SPOR",Exxenn Sports 5 FHD
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/31648.m3u8
+#EXTINF:-1 tvg-logo="http://logo-chanell.dyndns.tv:40200/logo-chanel/EX.PNG" group-title="TURK SPOR",EXXEN SPOR 6
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/30702.m3u8
+#EXTINF:-1 tvg-logo="http://logo-chanell.dyndns.tv:40200/logo-chanel/EX.PNG" group-title="TURK SPOR",Exxenn Sports 6 FHD
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/31649.m3u8
+#EXTINF:-1 tvg-logo="http://logo-chanell.dyndns.tv:40200/logo-chanel/EX.PNG" group-title="TURK SPOR",EXXEN SPOR 7
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/30703.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TURK SPOR",UFC FIGHT HD
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/52437.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TURK SPOR",FiL SPOR 1
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/55594.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TURK SPOR",FiL SPOR 2
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/55595.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TURK SPOR",FiL SPOR 3
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/55596.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TURK SPOR",FiL SPOR 4
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/55597.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TURK SPOR",FiL SPOR 5
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/55598.m3u8
+#EXTINF:-1 tvg-logo="http://logo-chanell.dyndns.tv:40200/logo-chanel/BS.PNG" group-title="TURK SPOR",L.G CONNECT 1
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/44449.m3u8
+#EXTINF:-1 tvg-logo="http://logo-chanell.dyndns.tv:40200/logo-chanel/BS.PNG" group-title="TURK SPOR",L.G CONNECT 2
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/44450.m3u8
+#EXTINF:-1 tvg-logo="http://logo-chanell.dyndns.tv:40200/logo-chanel/BS.PNG" group-title="TURK SPOR",L.G CONNECT 3
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/44451.m3u8
+#EXTINF:-1 tvg-logo="http://logo-chanell.dyndns.tv:40200/logo-chanel/BS.PNG" group-title="TURK SPOR",L.G CONNECT 4
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/44452.m3u8
+#EXTINF:-1 tvg-logo="http://logo-chanell.dyndns.tv:40200/logo-chanel/BS.PNG" group-title="TURK SPOR",L.G CONNECT 5
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/44453.m3u8
+#EXTINF:-1 tvg-logo="http://logo-chanell.dyndns.tv:40200/logo-chanel/BS.PNG" group-title="TURK SPOR",L.G CONNECT 6
+http://com.trt1000.com:80/live/kayaciahmet/08012023bas/44454.m3u8
 
 # --- Unknown (8) ---
 #EXTINF:-1 tvg-logo="" group-title="Unknown",TR: KRAL FM
@@ -955,4 +1177,4 @@ http://com.trt1000.com:80/live/kayaciahmet/08012023bas/32345.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Unknown",TR: ALEM FM
 http://com.trt1000.com:80/live/kayaciahmet/08012023bas/32347.m3u8
 
-# Total: 465
+# Total: 575

@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: supjaa.xyz
-# Generated: 2025-12-28 18:34:47
+# Generated: 2025-12-29 07:15:26
 # Expires: 2026-12-22
 # Family Safe Edition
 # ==============================================
@@ -6628,7 +6628,7 @@ http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1293729.m3u8
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1293730.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/GCM_TV.png" group-title="EU | ES | TIVIFY GOLD",ES TI - GCM TV
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1293731.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/FRANCE/FRANCE24.png" group-title="EU | ES | TIVIFY GOLD",ES TI - FRANCE 24 ES FHD
+#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/CANAL+/France24.png" group-title="EU | ES | TIVIFY GOLD",ES TI - FRANCE 24 ES FHD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1293732.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/SPAIN/FDF.png" group-title="EU | ES | TIVIFY GOLD",ES TI - FDF FHD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1293733.m3u8
@@ -11079,39 +11079,47 @@ http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1287083.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/VIP/4k_ultra.png" group-title="VIP | 4K ULTRA HD",VIP - SKY PRIMAFILA 9 4K
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1287084.m3u8
 
-# --- VIP | AFCON MOROCCO 2025 (16) ---
+# --- VIP | AFCON MOROCCO 2025 (20) ---
 #EXTINF:-1 tvg-logo="https://go4.pw/ASIA/SAUDI/SAUDI.png" group-title="VIP | AFCON MOROCCO 2025",##### ARABIC #####
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1095960.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/canmorocco.png" group-title="VIP | AFCON MOROCCO 2025",AR - GABON VS MOZAMBIQUE 13:30 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/canmorocco.png" group-title="VIP | AFCON MOROCCO 2025",AR - ANGOLA VS EGYPT 17:00 CET
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1095953.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/canmorocco.png" group-title="VIP | AFCON MOROCCO 2025",AR - EQUATORIAL GUINEA VS SUDAN 16:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/canmorocco.png" group-title="VIP | AFCON MOROCCO 2025",AR - ZIMBABWE VS SOUTH AFRICA 17:00 CET
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1095952.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/canmorocco.png" group-title="VIP | AFCON MOROCCO 2025",AR - ALGERIA VS BURKINA FASO 18:30 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/canmorocco.png" group-title="VIP | AFCON MOROCCO 2025",AR - ZAMBIA VS MOROCCO 20:00 CET
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1095951.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/canmorocco.png" group-title="VIP | AFCON MOROCCO 2025",AR - COMOROS VS MALI 20:00 CET
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1095950.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/FRANCE/frlog.png" group-title="VIP | AFCON MOROCCO 2025",##### FRENCH #####
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1095959.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/canmorocco.png" group-title="VIP | AFCON MOROCCO 2025",FR - GABON VS MOZAMBIQUE 13:30 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/canmorocco.png" group-title="VIP | AFCON MOROCCO 2025",FR - ANGOLA VS EGYPT 17:00 CET
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1095948.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/canmorocco.png" group-title="VIP | AFCON MOROCCO 2025",FR - EQUATORIAL GUINEA VS SUDAN 16:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/canmorocco.png" group-title="VIP | AFCON MOROCCO 2025",FR - ZIMBABWE VS SOUTH AFRICA 17:00 CET
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1095947.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/canmorocco.png" group-title="VIP | AFCON MOROCCO 2025",FR - ALGERIA VS BURKINA FASO 18:30 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/canmorocco.png" group-title="VIP | AFCON MOROCCO 2025",FR - ZAMBIA VS MOROCCO 20:00 CET
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1095946.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/canmorocco.png" group-title="VIP | AFCON MOROCCO 2025",FR - COMOROS VS MALI 20:00 CET
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1095944.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/UK.png" group-title="VIP | AFCON MOROCCO 2025",##### ENGLISH #####
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1095955.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/canmorocco.png" group-title="VIP | AFCON MOROCCO 2025",EN - GABON VS MOZAMBIQUE 13:30 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/canmorocco.png" group-title="VIP | AFCON MOROCCO 2025",EN - ANGOLA VS EGYPT 17:00 CET
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1095943.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/canmorocco.png" group-title="VIP | AFCON MOROCCO 2025",EN - EQUATORIAL GUINEA VS SUDAN 16:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/canmorocco.png" group-title="VIP | AFCON MOROCCO 2025",EN - ZIMBABWE VS SOUTH AFRICA 17:00 CET
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1095942.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/canmorocco.png" group-title="VIP | AFCON MOROCCO 2025",EN - ALGERIA VS BURKINA FASO 18:30 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/canmorocco.png" group-title="VIP | AFCON MOROCCO 2025",EN - ZAMBIA VS MOROCCO 20:00 CET
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1095941.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/canmorocco.png" group-title="VIP | AFCON MOROCCO 2025",EN - COMOROS VS MALI 20:00 CET
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1095940.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/SPAIN/SPAIN.png" group-title="VIP | AFCON MOROCCO 2025",##### SPANISH #####
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1095954.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/canmorocco.png" group-title="VIP | AFCON MOROCCO 2025",SP - GABON VS MOZAMBIQUE 13:30 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/canmorocco.png" group-title="VIP | AFCON MOROCCO 2025",SP - ANGOLA VS EGYPT 17:00 CET
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1095939.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/canmorocco.png" group-title="VIP | AFCON MOROCCO 2025",SP - EQUATORIAL GUINEA VS SUDAN 16:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/canmorocco.png" group-title="VIP | AFCON MOROCCO 2025",SP - ZIMBABWE VS SOUTH AFRICA 17:00 CET
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1095933.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/canmorocco.png" group-title="VIP | AFCON MOROCCO 2025",SP - ALGERIA VS BURKINA FASO 18:30 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/canmorocco.png" group-title="VIP | AFCON MOROCCO 2025",SP - ZAMBIA VS MOROCCO 20:00 CET
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1095932.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/canmorocco.png" group-title="VIP | AFCON MOROCCO 2025",SP - COMOROS VS MALI 20:00 CET
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1095931.m3u8
 
 # --- VIP | BUNDESLIGA (40) ---
 #EXTINF:-1 tvg-logo="https://go4.pw/FLAGS/flag_germany.png" group-title="VIP | BUNDESLIGA",##### DEUTSCH #####
@@ -11797,11 +11805,13 @@ http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1125008.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/stin-cou.png" group-title="VIP | MUSIC CONCERTS",VIP - STINGRAY COUNTRY CLASSICS
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1291998.m3u8
 
-# --- VIP | PREMIER LEAGUE (38) ---
+# --- VIP | PREMIER LEAGUE (42) ---
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/UK.png" group-title="VIP | PREMIER LEAGUE",##### ENGLISH #####
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1020754.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",EN - SUNDERLAND VS LEEDS UNITED 15:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",EN - NO MATCH
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1100811.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",EN - NO MATCH
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1100810.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",EN - NO MATCH
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1015554.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",EN - NO MATCH
@@ -11820,8 +11830,10 @@ http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1015548.m3u8
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1015547.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/FRANCE/flag_france.png" group-title="VIP | PREMIER LEAGUE",##### FRENCH #####
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1020753.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",FR - SUNDERLAND VS LEEDS UNITED 15:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",FR - NO MATCH
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1100813.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",FR - NO MATCH
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1100812.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",FR - NO MATCH
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1015546.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",FR - NO MATCH
@@ -11840,8 +11852,10 @@ http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1015539.m3u8
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1015540.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ASIA/SAUDI/SAUDI.png" group-title="VIP | PREMIER LEAGUE",##### ARABIC #####
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1020752.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",AR - SUNDERLAND VS LEEDS UNITED 15:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",AR - NO MATCH
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1100815.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",AR - NO MATCH
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1100814.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",AR - NO MATCH
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1015562.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",AR - NO MATCH
@@ -11860,8 +11874,10 @@ http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1015555.m3u8
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1015556.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/MAGFLAGS/ALBANIA.png" group-title="VIP | PREMIER LEAGUE",##### ALBANIAN #####
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1024114.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",ALB - SUNDERLAND VS LEEDS UNITED 15:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",ALB - NO MATCH
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1225673.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",ALB - NO MATCH
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1182487.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",ALB - NO MATCH
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1039828.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",ALB - NO MATCH
@@ -12207,4 +12223,4 @@ http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/363875.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/champ/europaleague.png" group-title="VIP | UEFA EUROPA LEAGUE",ES - NO MATCH
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/682940.m3u8
 
-# Total: 5999
+# Total: 6007

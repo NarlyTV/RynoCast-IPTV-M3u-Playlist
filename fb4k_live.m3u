@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: fb4k.live:8080
-# Generated: 2025-12-28 07:11:03
+# Generated: 2025-12-29 07:09:33
 # Expires: 2026-11-29
 # Family Safe Edition
 # ==============================================
@@ -256,7 +256,7 @@ http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/7362.m3u8
 http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/7363.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/POLSAT2.png" group-title="PL POLAND - OGÓLNE",PL: POLSAT 2 FHD
 http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/294028.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/TVPROZRYWKA.png" group-title="PL POLAND - OGÓLNE",PL: TVP ROZRYWKA
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/TVPROZRYWKA.png" group-title="PL POLAND - OGÓLNE",PL: TVP ROZRYWKA HD
 http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/170472.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/logos_a-z/t/tv6.png" group-title="PL POLAND - OGÓLNE",PL: TV6 HD
 http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/39743.m3u8
@@ -621,7 +621,7 @@ http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/552638.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/f1Viaplay.png" group-title="PL VIAPLAY",PL: F1 TV VIAPLAY 2 HD
 http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/552637.m3u8
 
-# --- PL VIP POLAND (172) ---
+# --- PL VIP POLAND (223) ---
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/logos_a-z/t/tvphd.png" group-title="PL VIP POLAND",PL:┃VIP┃ TVP HD
 http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489435.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/TVP1.png" group-title="PL VIP POLAND",PL:┃VIP┃ TVP 1 HD
@@ -634,24 +634,50 @@ http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489432.m3u8
 http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489431.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/TV4HD.png" group-title="PL VIP POLAND",PL:┃VIP┃ TV4 HD
 http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489430.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/logos_a-z/t/tv6.png" group-title="PL VIP POLAND",PL:┃VIP┃ TV6 HEVC
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/logos_a-z/t/tv6.png" group-title="PL VIP POLAND",PL:┃VIP┃ TV6 HD
 http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489428.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL VIP POLAND",PL:┃VIP┃ TV PULS HD
+http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/651588.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/logos_a-z/p/puls2.png" group-title="PL VIP POLAND",PL:┃VIP┃ PULS 2
+http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489362.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/POLONIA1.png" group-title="PL VIP POLAND",PL:┃VIP┃ POLONIA 1
 http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489427.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/POLSAT.png" group-title="PL VIP POLAND",PL:┃VIP┃ POLSAT HD
 http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489426.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/POLSAT2.png" group-title="PL VIP POLAND",PL:┃VIP┃ POLSAT 2 HD
 http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489425.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/2021mixlogo/SPOLSAT.png" group-title="PL VIP POLAND",PL:┃VIP┃ SUPER POLSAT HEVC
-http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489424.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/logos_a-z/t/ttv.png" group-title="PL VIP POLAND",PL:┃VIP┃ TTV HD
+http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489420.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/logos_a-z/t/TVN.png" group-title="PL VIP POLAND",PL:┃VIP┃ TVN HD
 http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489423.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/TVN7.png" group-title="PL VIP POLAND",PL:┃VIP┃ TVN 7 HD
 http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489422.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/logos_a-z/t/tvs.png" group-title="PL VIP POLAND",PL:┃VIP┃ TVS
 http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489421.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/logos_a-z/t/ttv.png" group-title="PL VIP POLAND",PL:┃VIP┃ TTV HD
-http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489420.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/logos_a-z/t/tvpinfo.png" group-title="PL VIP POLAND",PL:┃VIP┃ TVP INFO HD
+http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489247.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/Novelas+.png" group-title="PL VIP POLAND",PL:┃VIP┃ NOVELAS+ HD
+http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489244.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/TLCHD.png" group-title="PL VIP POLAND",PL:┃VIP┃ TLC HD
+http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489379.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/NEDERLAND-NEW1/AMC.png" group-title="PL VIP POLAND",PL:┃VIP┃ AMC HD
+http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489377.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/TVNFABULA.png" group-title="PL VIP POLAND",PL:┃VIP┃ TVN FABULA
+http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489374.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/TVNTURBO.png" group-title="PL VIP POLAND",PL:┃VIP┃ TVN TURBO HD
+http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489373.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/2021mixlogo/starstv.png" group-title="PL VIP POLAND",PL:┃VIP┃ STARS TV
+http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489313.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/TVN24.png" group-title="PL VIP POLAND",PL:┃VIP┃ TVN 24 HD
+http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489254.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/TVN24BISHD.png" group-title="PL VIP POLAND",PL:┃VIP┃ TVN24 BIS HD
+http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489253.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/POLSATNEWS.png" group-title="PL VIP POLAND",PL:┃VIP┃ POLSAT NEWS HD
+http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489252.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/TVREPUBLIKA.png" group-title="PL VIP POLAND",PL:┃VIP┃ TV REPUBLIKA
+http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489249.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/2021mixlogo/SPOLSAT.png" group-title="PL VIP POLAND",PL:┃VIP┃ SUPER POLSAT
+http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489424.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/FILMBOXEXTRA.png" group-title="PL VIP POLAND",PL:┃VIP┃ FILMBOX EXTRA HD
 http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489407.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/FILMBOXPREMIUM.png" group-title="PL VIP POLAND",PL:┃VIP┃ FILMBOX PREMIUM HD
@@ -662,15 +688,19 @@ http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489405.m3u8
 http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489404.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/FILMBOXARTHOUSE.png" group-title="PL VIP POLAND",PL:┃VIP┃ FILMBOX ARTHOUSE HD
 http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489403.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL VIP POLAND",PL:┃VIP┃ CINEMAX HD
+http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/651577.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/CINEMAX2.png" group-title="PL VIP POLAND",PL:┃VIP┃ CINEMAX 2 HD
 http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489401.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/2021mixlogo/hbo.png" group-title="PL VIP POLAND",PL:┃VIP┃ HBO HD
 http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489400.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL VIP POLAND",PL:┃VIP┃ HBO 2 HD
+http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/651568.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/2021mixlogo/hbo3.png" group-title="PL VIP POLAND",PL:┃VIP┃ HBO 3 HD
 http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489398.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/KINO.png" group-title="PL VIP POLAND",PL:┃VIP┃ KINO POLSKA HD
 http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489393.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/2021mixlogo/foxcomedy.png" group-title="PL VIP POLAND",PL:┃VIP┃ FOX COMEDY HD HEVC
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/2021mixlogo/foxcomedy.png" group-title="PL VIP POLAND",PL:┃VIP┃ FOX COMEDY HD
 http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489391.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/PORTUGAL/AXN.png" group-title="PL VIP POLAND",PL:┃VIP┃ AXN HD
 http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489390.m3u8
@@ -680,80 +710,112 @@ http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489389.m3u8
 http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489388.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/2021mixlogo/axnspin.png" group-title="PL VIP POLAND",PL:┃VIP┃ AXN SPIN HD
 http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489387.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/13ullica.png" group-title="PL VIP POLAND",PL:┃VIP┃ 13 ULICA HD HEVC
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/13ullica.png" group-title="PL VIP POLAND",PL:┃VIP┃ 13 ULICA HD
 http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489385.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/2021mixlogo/e.png" group-title="PL VIP POLAND",PL:┃VIP┃ E! ENTERTAINMENT HD
 http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489384.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/logos_a-z/t/tvpseriale.png" group-title="PL VIP POLAND",PL:┃VIP┃ TVP SERIALE HD
 http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489383.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/CBSEUROPAHD.png" group-title="PL VIP POLAND",PL:┃VIP┃ CBS EUROPA HD HEVC
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/CBSEUROPAHD.png" group-title="PL VIP POLAND",PL:┃VIP┃ CBS EUROPA HD
 http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489382.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/polsatSerale.png" group-title="PL VIP POLAND",PL:┃VIP┃ POLSAT SERIALE
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/polsatSerale.png" group-title="PL VIP POLAND",PL:┃VIP┃ POLSAT SERIALE HD
 http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489381.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL VIP POLAND",PL:┃VIP┃ POLSAT FILM 2 HD
+http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/651578.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL VIP POLAND",PL:┃VIP┃ PARAMOUNT NETWORK HD
+http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/651576.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL VIP POLAND",PL:┃VIP┃ WARNER TV
+http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/651575.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL VIP POLAND",PL:┃VIP┃ POLSAT X
+http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/651574.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL VIP POLAND",PL:┃VIP┃ SCIFI UNIVERSAL HD
+http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/651573.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL VIP POLAND",PL:┃VIP┃ POLSAT COMEDY CENTRAL EXTRA
+http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/651572.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL VIP POLAND",PL:┃VIP┃ COMEDY CENTRAL POLSKA HD
+http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/651571.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL VIP POLAND",PL:┃VIP┃ FX HD
+http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/651570.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL VIP POLAND",PL:┃VIP┃ FX COMEDY HD
+http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/651569.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL VIP POLAND",PL:┃VIP┃ POLSAT RODZINA
+http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/651567.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL VIP POLAND",PL:┃VIP┃ POLSAT CAFE HD
+http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/651557.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL VIP POLAND",PL:┃VIP┃ STAR FAMILY HD
+http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/651534.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/viva_comedy_central.png" group-title="PL VIP POLAND",PL:┃VIP┃ COMEDY CENTRAL HD
 http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489380.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/TLCHD.png" group-title="PL VIP POLAND",PL:┃VIP┃ TLC HD
-http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489379.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/NEDERLAND-NEW1/AMC.png" group-title="PL VIP POLAND",PL:┃VIP┃ AMC HD
-http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489377.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PL VIP POLAND",PL:┃VIP┃ Star Cinema HD
-http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489376.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/TVNFABULA.png" group-title="PL VIP POLAND",PL:┃VIP┃ TVN FABULA
-http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489374.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/TVNTURBO.png" group-title="PL VIP POLAND",PL:┃VIP┃ TVN TURBO HD
-http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489373.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/franceT-220x132/adventure.png" group-title="PL VIP POLAND",PL:┃VIP┃ ADVENTURE HD
 http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489372.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/da_vici_learning.png" group-title="PL VIP POLAND",PL:┃VIP┃ DA VINCI HEVC
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/da_vici_learning.png" group-title="PL VIP POLAND",PL:┃VIP┃ DA VINCI
 http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489371.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/GREECE/foodNetwork.png" group-title="PL VIP POLAND",PL:┃VIP┃ FOOD NETWORK HD HEVC
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/GREECE/foodNetwork.png" group-title="PL VIP POLAND",PL:┃VIP┃ FOOD NETWORK HD
 http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489370.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/DTX.png" group-title="PL VIP POLAND",PL:┃VIP┃ DTX
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/DTX.png" group-title="PL VIP POLAND",PL:┃VIP┃ DTX HD
 http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489368.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/FOKUSTV.png" group-title="PL VIP POLAND",PL:┃VIP┃ FOKUS TV HEVC
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/FOKUSTV.png" group-title="PL VIP POLAND",PL:┃VIP┃ FOKUS TV
 http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489367.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/MOTOWIZJATVHD.png" group-title="PL VIP POLAND",PL:┃VIP┃ MOTOWIZJA TV HD
 http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489365.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/POWERTV.png" group-title="PL VIP POLAND",PL:┃VIP┃ POWER TV
 http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489363.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/logos_a-z/p/puls2.png" group-title="PL VIP POLAND",PL:┃VIP┃ PULS 2
-http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489362.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/romance_tv.png" group-title="PL VIP POLAND",PL:┃VIP┃ ROMANCE TV HD
 http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489361.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/wp.png" group-title="PL VIP POLAND",PL:┃VIP┃ WP
 http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489360.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/logos_a-z/b/bbcbrit.png" group-title="PL VIP POLAND",PL:┃VIP┃ BBC BRIT HEVC
+#EXTINF:-1 tvg-logo="" group-title="PL VIP POLAND",PL:┃VIP┃ TRAVEL CHANNEL HD
+http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/651562.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL VIP POLAND",PL:┃VIP┃ WATER PLANET HD
+http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/651558.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL VIP POLAND",PL:┃VIP┃ 360 TUNE BOX
+http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/651549.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL VIP POLAND",PL:┃VIP┃ FASHIONBOX
+http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/651548.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL VIP POLAND",PL:┃VIP┃ WPOLSCE24
+http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/651547.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/logos_a-z/b/bbcbrit.png" group-title="PL VIP POLAND",PL:┃VIP┃ BBC BRIT HD
 http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489358.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/logos_a-z/b/bbcradio5live.png" group-title="PL VIP POLAND",PL:┃VIP┃ BBC LIFESTYLE HD HEVC
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/logos_a-z/b/bbcradio5live.png" group-title="PL VIP POLAND",PL:┃VIP┃ BBC LIFESTYLE HD
 http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489357.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/logos_a-z/b/bbcfirst.png" group-title="PL VIP POLAND",PL:┃VIP┃ BBC FIRST HD HEVC
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/logos_a-z/b/bbcfirst.png" group-title="PL VIP POLAND",PL:┃VIP┃ BBC FIRST HD
 http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489356.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/logos_a-z/b/babytv.png" group-title="PL VIP POLAND",PL:┃VIP┃ BABY TV
 http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489355.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/POLSATJIMJAM.png" group-title="PL VIP POLAND",PL:┃VIP┃ POLSAT JIM JAM HEVC
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/POLSATJIMJAM.png" group-title="PL VIP POLAND",PL:┃VIP┃ POLSAT JIM JAM
 http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489354.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/FRANCE/BOOMERANGHD.png" group-title="PL VIP POLAND",PL:┃VIP┃ BOOMERANG HD HEVC
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/FRANCE/BOOMERANGHD.png" group-title="PL VIP POLAND",PL:┃VIP┃ BOOMERANG HD
 http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489353.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/cartoon_network.png" group-title="PL VIP POLAND",PL:┃VIP┃ CARTOON NETWORK HD HEVC
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/cartoon_network.png" group-title="PL VIP POLAND",PL:┃VIP┃ CARTOON NETWORK HD
 http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489352.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/disney_xd.png" group-title="PL VIP POLAND",PL:┃VIP┃ DISNEY XD HEVC
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/disney_xd.png" group-title="PL VIP POLAND",PL:┃VIP┃ DISNEY XD
 http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489351.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/disney_junior.png" group-title="PL VIP POLAND",PL:┃VIP┃ DISNEY JUNIOR HEVC
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/disney_junior.png" group-title="PL VIP POLAND",PL:┃VIP┃ DISNEY JUNIOR
 http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489350.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/disney_channel.png" group-title="PL VIP POLAND",PL:┃VIP┃ DISNEY CHANNEL HD HEVC
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/disney_channel.png" group-title="PL VIP POLAND",PL:┃VIP┃ DISNEY CHANNEL HD
 http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489349.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/nickJr.png" group-title="PL VIP POLAND",PL:┃VIP┃ NICK JR HEVC
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/nickJr.png" group-title="PL VIP POLAND",PL:┃VIP┃ NICK JR HD
 http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489348.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/nickelodeon.png" group-title="PL VIP POLAND",PL:┃VIP┃ NICKELODEON HEVC
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/nickelodeon.png" group-title="PL VIP POLAND",PL:┃VIP┃ NICKELODEON HD
 http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489347.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/nick_toons.png" group-title="PL VIP POLAND",PL:┃VIP┃ NICKTOONS HD
 http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489346.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/teletoon+.png" group-title="PL VIP POLAND",PL:┃VIP┃ TELETOON  HD HEVC
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/teletoon+.png" group-title="PL VIP POLAND",PL:┃VIP┃ TELETOON+ HD
 http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489345.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/MINIMINIHD.png" group-title="PL VIP POLAND",PL:┃VIP┃ MINIMINI  HD HEVC
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/MINIMINIHD.png" group-title="PL VIP POLAND",PL:┃VIP┃ MINIMINI  HD
 http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489344.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/logos_a-z/b/bbc4cbeebies.png" group-title="PL VIP POLAND",PL:┃VIP┃ BBC CBEEBIES HEVC
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/logos_a-z/b/bbc4cbeebies.png" group-title="PL VIP POLAND",PL:┃VIP┃ BBC CBEEBIES
 http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489343.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL VIP POLAND",PL:┃VIP┃ POLSAT GAMES HD
+http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/651581.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL VIP POLAND",PL:┃VIP┃ FAST&FUN HD
+http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/651580.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL VIP POLAND",PL:┃VIP┃ GAMETOON HD
+http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/651579.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL VIP POLAND",PL:┃VIP┃ NICK MUSIC
+http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/651565.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL VIP POLAND",PL:┃VIP┃ DUCK TV
+http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/651564.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/logos_a-z/t/tvprozrywka.png" group-title="PL VIP POLAND",PL:┃VIP┃ TVP ROZRYWKA
 http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489338.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/kinopolskamuzyka.png" group-title="PL VIP POLAND",PL:┃VIP┃ KINO POLSKA MUZYKA
@@ -764,13 +826,13 @@ http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489335.m3u8
 http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489333.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/logos_a-z/t/tvpabc.png" group-title="PL VIP POLAND",PL:┃VIP┃ TVP ABC
 http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489331.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/POLSATCAFE.png" group-title="PL VIP POLAND",PL:┃VIP┃ POLSAT CAFE HD HEVC
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/POLSATCAFE.png" group-title="PL VIP POLAND",PL:┃VIP┃ POLSAT FILM CAFE HD
 http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489330.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/POLSATPLAY.png" group-title="PL VIP POLAND",PL:┃VIP┃ POLSAT PLAY HD HEVC
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/POLSATPLAY.png" group-title="PL VIP POLAND",PL:┃VIP┃ POLSAT PLAY HD
 http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489329.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/logos_a-z/p/polotv.png" group-title="PL VIP POLAND",PL:┃VIP┃ POLO TV HEVC
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/logos_a-z/p/polotv.png" group-title="PL VIP POLAND",PL:┃VIP┃ POLO TV HD
 http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489328.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/METRO.png" group-title="PL VIP POLAND",PL:┃VIP┃ METRO
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/METRO.png" group-title="PL VIP POLAND",PL:┃VIP┃ METRO TV
 http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489327.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/ZOOMTV.png" group-title="PL VIP POLAND",PL:┃VIP┃ ZOOM TV
 http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489326.m3u8
@@ -782,11 +844,11 @@ http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489324.m3u8
 http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489323.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/hgtv.png" group-title="PL VIP POLAND",PL:┃VIP┃ HGTV HD
 http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489322.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/NOWATV.png" group-title="PL VIP POLAND",PL:┃VIP┃ NOWA TV HEVC
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/NOWATV.png" group-title="PL VIP POLAND",PL:┃VIP┃ NOWA TV
 http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489321.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/CBSREALITY.png" group-title="PL VIP POLAND",PL:┃VIP┃ CBS REALITY HEVC
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/CBSREALITY.png" group-title="PL VIP POLAND",PL:┃VIP┃ CBS REALITY HD
 http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489319.m3u8
-#EXTINF:-1 tvg-logo="https://epg.ovh/logo/Eleven+Sports+4.png" group-title="PL VIP POLAND",PL:┃VIP┃ EPIC DRAMA HD HEVC
+#EXTINF:-1 tvg-logo="https://epg.ovh/logo/Eleven+Sports+4.png" group-title="PL VIP POLAND",PL:┃VIP┃ EPIC DRAMA HD
 http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489318.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/filmStream.png" group-title="PL VIP POLAND",PL:┃VIP┃ POLSAT FILM HD
 http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489316.m3u8
@@ -794,68 +856,84 @@ http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489316.m3u8
 http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489315.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/STOPKLATKATV.png" group-title="PL VIP POLAND",PL:┃VIP┃ STOPKLATKA TV
 http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489314.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/2021mixlogo/starstv.png" group-title="PL VIP POLAND",PL:┃VIP┃ STARS.TV
-http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489313.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/4FUN.TV.png" group-title="PL VIP POLAND",PL:┃VIP┃ 4FUN.TV HEVC
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/4FUN.TV.png" group-title="PL VIP POLAND",PL:┃VIP┃ 4FUN TV
 http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489312.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/POLSATMUSIC.png" group-title="PL VIP POLAND",PL:┃VIP┃ POLSAT MUSIC HD HEVC
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/POLSATMUSIC.png" group-title="PL VIP POLAND",PL:┃VIP┃ POLSAT MUSIC HD
 http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489311.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/logos_a-z/v/voxmusictv.png" group-title="PL VIP POLAND",PL:┃VIP┃ VOX MUSIC TV HEVC
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/logos_a-z/v/voxmusictv.png" group-title="PL VIP POLAND",PL:┃VIP┃ VOX MUSIC TV
 http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489310.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/Eska+Rock+TV.png" group-title="PL VIP POLAND",PL:┃VIP┃ ESKA ROCK TV HEVC
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/Eska+Rock+TV.png" group-title="PL VIP POLAND",PL:┃VIP┃ ESKA ROCK TV
 http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489309.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/ESKATVEXTRA.png" group-title="PL VIP POLAND",PL:┃VIP┃ ESKA TV HEVC
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/ESKATVEXTRA.png" group-title="PL VIP POLAND",PL:┃VIP┃ ESKA TV
 http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489308.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/ESKATVEXTRA.png" group-title="PL VIP POLAND",PL:┃VIP┃ ESKA TV EXTRA
 http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489307.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/logos_a-z/n/natgeopeople.png" group-title="PL VIP POLAND",PL:┃VIP┃ NGC PEOPLE HD
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/logos_a-z/n/natgeopeople.png" group-title="PL VIP POLAND",PL:┃VIP┃ NATIONAL GEOGRAPHIC PEOPLE HD
 http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489306.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/animal_planet.png" group-title="PL VIP POLAND",PL:┃VIP┃ ANIMAL PLANET HD HEVC
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/animal_planet.png" group-title="PL VIP POLAND",PL:┃VIP┃ ANIMAL PLANET HD
 http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489305.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/FRANCE/planete.png" group-title="PL VIP POLAND",PL:┃VIP┃ PLANETE  HD HEVC
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/FRANCE/planete.png" group-title="PL VIP POLAND",PL:┃VIP┃ PLANETE+ HD
 http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489304.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/Crime_and_Investigation.png" group-title="PL VIP POLAND",PL:┃VIP┃ CI POLSAT HD HEVC
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/Crime_and_Investigation.png" group-title="PL VIP POLAND",PL:┃VIP┃ CI POLSAT HD
 http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489303.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/history.png" group-title="PL VIP POLAND",PL:┃VIP┃ HISTORY HD HEVC
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/history.png" group-title="PL VIP POLAND",PL:┃VIP┃ HISTORY HD
 http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489302.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/SCANDINAVIAN/H2.png" group-title="PL VIP POLAND",PL:┃VIP┃ HISTORY2 HD
+http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489298.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/idxtrahd.png" group-title="PL VIP POLAND",PL:┃VIP┃ ID HD
 http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489301.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/logos_a-z/t/tvphistoria.png" group-title="PL VIP POLAND",PL:┃VIP┃ TVP HISTORIA
 http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489300.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/logos_a-z/b/Bbc_earth.png" group-title="PL VIP POLAND",PL:┃VIP┃ BBC EARTH HD
 http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489299.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/SCANDINAVIAN/H2.png" group-title="PL VIP POLAND",PL:┃VIP┃ H2 HD
-http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489298.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/POLSATDOKU.png" group-title="PL VIP POLAND",PL:┃VIP┃ POLSAT DOKU HD
 http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489297.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/discovery_science.png" group-title="PL VIP POLAND",PL:┃VIP┃ DISCOVERY SCIENCE HD HEVC
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/discovery_science.png" group-title="PL VIP POLAND",PL:┃VIP┃ DISCOVERY SCIENCE HD
 http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489296.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/2021mixlogo/discovery.png" group-title="PL VIP POLAND",PL:┃VIP┃ DISCOVERY HD
 http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489295.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/logos_a-z/d/DISCOVERY-LIFE-HD.png" group-title="PL VIP POLAND",PL:┃VIP┃ DISCOVERY LIFE HD
 http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489294.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/uk/discovery_history.png" group-title="PL VIP POLAND",PL:┃VIP┃ DISCOVERY HISTORIA HEVC
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/uk/discovery_history.png" group-title="PL VIP POLAND",PL:┃VIP┃ DISCOVERY HISTORIA HD
 http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489293.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/DISCOPOLOMUSIC.png" group-title="PL VIP POLAND",PL:┃VIP┃ DISCO POLO MUSIC HEVC
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/DISCOPOLOMUSIC.png" group-title="PL VIP POLAND",PL:┃VIP┃ DISCO POLO MUSIC HD
 http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489292.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/4FUNGOLDHITS.png" group-title="PL VIP POLAND",PL:┃VIP┃ 4FUN GOLD HITS
 http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489291.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/4FUNDANCE.png" group-title="PL VIP POLAND",PL:┃VIP┃ 4FUN DANCE HEVC
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/4FUNDANCE.png" group-title="PL VIP POLAND",PL:┃VIP┃ 4FUN DANCE
 http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489290.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/POLSATVIASATEXPLOREHD.png" group-title="PL VIP POLAND",PL:┃VIP┃ POLSAT VIASAT EXPLORE HD HEVC
+#EXTINF:-1 tvg-logo="" group-title="PL VIP POLAND",PL:┃VIP┃ MTV LIVE HD
+http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/651555.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL VIP POLAND",PL:┃VIP┃ MTV 00S
+http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/651554.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL VIP POLAND",PL:┃VIP┃ MTV ’90
+http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/651553.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL VIP POLAND",PL:┃VIP┃ MTV HITS
+http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/651552.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL VIP POLAND",PL:┃VIP┃ MTV CLUB
+http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/651551.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL VIP POLAND",PL:┃VIP┃ MTV ’80
+http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/651550.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/POLSATVIASATEXPLOREHD.png" group-title="PL VIP POLAND",PL:┃VIP┃ VIASAT EXPLORE HD
 http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489289.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/logos_a-z/n/natgeowildhd.png" group-title="PL VIP POLAND",PL:┃VIP┃ NGC WILD HD HEVC
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/logos_a-z/n/natgeowildhd.png" group-title="PL VIP POLAND",PL:┃VIP┃ NATIONAL GEOGRAPHIC WILD HD
 http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489288.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/history.png" group-title="PL VIP POLAND",PL:┃VIP┃ POLSAT VIASAT HISTORY HD HEVC
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/history.png" group-title="PL VIP POLAND",PL:┃VIP┃ VIASAT HISTORY HD
 http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489286.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/Viasat_Nature4.png" group-title="PL VIP POLAND",PL:┃VIP┃ POLSAT VIASAT NATURE HD
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/Viasat_Nature4.png" group-title="PL VIP POLAND",PL:┃VIP┃ VIASAT NATURE HD
 http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489285.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/national_geo.png" group-title="PL VIP POLAND",PL:┃VIP┃ NGC HD HEVC
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/national_geo.png" group-title="PL VIP POLAND",PL:┃VIP┃ NATIONAL GEOGRAPHIC HD
 http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489284.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/Crime_and_Investigation.png" group-title="PL VIP POLAND",PL:┃VIP┃ CRIME & INVESTIGATION HD
 http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489283.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/logos_a-z/p/polsatsportextrahd.png" group-title="PL VIP POLAND",PL:┃VIP┃ POLSAT SPORT EXTRA HD
 http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489282.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL VIP POLAND",PL:┃VIP┃ POLSAT SPORT EXTRA 2 HD
+http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/651584.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL VIP POLAND",PL:┃VIP┃ POLSAT SPORT EXTRA 3 HD
+http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/651583.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL VIP POLAND",PL:┃VIP┃ POLSAT SPORT EXTRA 4 HD
+http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/651582.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/logos_a-z/p/polsatsportfighthd.png" group-title="PL VIP POLAND",PL:┃VIP┃ POLSAT SPORT FIGHT HD
 http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489281.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/SPORTKLUBHD.png" group-title="PL VIP POLAND",PL:┃VIP┃ SPORT KLUB HD
@@ -866,19 +944,23 @@ http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489274.m3u8
 http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489273.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/POLSATSPORT.png" group-title="PL VIP POLAND",PL:┃VIP┃ POLSAT SPORT HD
 http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489272.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL VIP POLAND",PL:┃VIP┃ POLSAT SPORT 2 HD
+http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/651586.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL VIP POLAND",PL:┃VIP┃ POLSAT SPORT 3 HD
+http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/651585.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/NEDERLAND-NEW1/extreme_sp.png" group-title="PL VIP POLAND",PL:┃VIP┃ EXTREME SPORTS HD
 http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489271.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/logos_a-z/p/polsatsportpremium1.png" group-title="PL VIP POLAND",PL:┃VIP┃ POLSAT SPORT PREM. 1 HD
 http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489270.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/logos_a-z/p/polsatsportpremium2.png" group-title="PL VIP POLAND",PL:┃VIP┃ POLSAT SPORT PREM. 2 HD
 http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489269.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/logos_a-z/p/polsatsportpremiumppv3.png" group-title="PL VIP POLAND",PL:┃VIP┃ POLSAT SPORT PREM. 3 HD HEVC
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/logos_a-z/p/polsatsportpremiumppv3.png" group-title="PL VIP POLAND",PL:┃VIP┃ POLSAT SPORT PREM. 3 HD
 http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489268.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/logos_a-z/p/polsatsportpremiumppv4.png" group-title="PL VIP POLAND",PL:┃VIP┃ POLSAT SPORT PREM. 4 HD HEVC
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/logos_a-z/p/polsatsportpremiumppv4.png" group-title="PL VIP POLAND",PL:┃VIP┃ POLSAT SPORT PREM. 4 HD
 http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489267.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/logos_a-z/p/polsatsportpremiumppv5.png" group-title="PL VIP POLAND",PL:┃VIP┃ POLSAT SPORT PREM. 5 HD HEVC
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/logos_a-z/p/polsatsportpremiumppv5.png" group-title="PL VIP POLAND",PL:┃VIP┃ POLSAT SPORT PREM. 5 HD
 http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489266.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/Polsat_Sport_Premium_6_PPV.png" group-title="PL VIP POLAND",PL:┃VIP┃ POLSAT SPORT PREM  PPV6 HD HEVC
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/Polsat_Sport_Premium_6_PPV.png" group-title="PL VIP POLAND",PL:┃VIP┃ POLSAT SPORT PREM  PPV6 HD
 http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489265.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/BELGIUM/eleven_sport1.png" group-title="PL VIP POLAND",PL:┃VIP┃ ELEVENSPORT 1 HD
 http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489264.m3u8
@@ -888,7 +970,7 @@ http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489263.m3u8
 http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489262.m3u8
 #EXTINF:-1 tvg-logo="https://epg.ovh/logo/Eleven+Sports+4.png" group-title="PL VIP POLAND",PL:┃VIP┃ ELEVENSPORT 4 HD
 http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489261.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/GOLFCHANNEL.png" group-title="PL VIP POLAND",PL:┃VIP┃ GOLF CHANNEL HEVC
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/GOLFCHANNEL.png" group-title="PL VIP POLAND",PL:┃VIP┃ GOLF CHANNEL
 http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489260.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/fightbox.png" group-title="PL VIP POLAND",PL:┃VIP┃ FIGHTBOX HD
 http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489259.m3u8
@@ -896,24 +978,44 @@ http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489259.m3u8
 http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489256.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/POLSATSPORTNEWS.png" group-title="PL VIP POLAND",PL:┃VIP┃ POLSAT SPORT NEWS HD
 http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489255.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/TVN24.png" group-title="PL VIP POLAND",PL:┃VIP┃ TVN 24 HD
-http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489254.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/TVN24BISHD.png" group-title="PL VIP POLAND",PL:┃VIP┃ TVN24 BIS HD
-http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489253.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/POLSATNEWS.png" group-title="PL VIP POLAND",PL:┃VIP┃ POLSAT NEWS HD
-http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489252.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/POLSATNEWS2.png" group-title="PL VIP POLAND",PL:┃VIP┃ POLSAT NEWS Polityka HD
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/POLSATNEWS2.png" group-title="PL VIP POLAND",PL:┃VIP┃ POLSAT NEWS POLITYKA HD
 http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489251.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/wydarzenia24.png" group-title="PL VIP POLAND",PL:┃VIP┃ WYDARZENIA 24 HD
 http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489250.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/TVREPUBLIKA.png" group-title="PL VIP POLAND",PL:┃VIP┃ TV REPUBLIKA
-http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489249.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/logos_a-z/t/tvpinfo.png" group-title="PL VIP POLAND",PL:┃VIP┃ TVP INFO HD
-http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489247.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/logos_a-z/s/studiomedtv.png" group-title="PL VIP POLAND",PL:┃VIP┃ STUDIOMED TV HD
 http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489246.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/Novelas+.png" group-title="PL VIP POLAND",PL:┃VIP┃ NOVELAS+ HD
-http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489244.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL VIP POLAND",PL:┃VIP┃ TVP3 WARSZAWA
+http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/651589.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL VIP POLAND",PL:┃VIP┃ TVP3 BIAŁYSTOK
+http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/651546.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL VIP POLAND",PL:┃VIP┃ TVP3 GDAŃSK
+http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/651545.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL VIP POLAND",PL:┃VIP┃ TVP3 GORZÓW WIELKOPOLSKI
+http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/651544.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL VIP POLAND",PL:┃VIP┃ TVP3 KRAKÓW
+http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/651543.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL VIP POLAND",PL:┃VIP┃ TVP3 ŁÓDŹ
+http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/651542.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL VIP POLAND",PL:┃VIP┃ TVP3 OLSZTYN
+http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/651541.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL VIP POLAND",PL:┃VIP┃ TVP3 OPOLE
+http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/651540.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL VIP POLAND",PL:┃VIP┃ TVP3 POZNAŃ
+http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/651539.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL VIP POLAND",PL:┃VIP┃ TVP3 RZESZÓW
+http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/651538.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL VIP POLAND",PL:┃VIP┃ 1+1
+http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/651537.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL VIP POLAND",PL:┃VIP┃ KYC KYC
+http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/651536.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL VIP POLAND",PL:┃VIP┃ X-SPORT HD
+http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/651535.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL VIP POLAND",PL:┃VIP┃ KVARTAL TV
+http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/651533.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL VIP POLAND",PL:┃VIP┃ DACHA HD
+http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/651532.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL VIP POLAND",PL:┃VIP┃ TV OKAZJE
+http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/651531.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/logos_a-z/i/itvn.png" group-title="PL VIP POLAND",PL:┃VIP┃ ITVN
 http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/489243.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/Eurosport_extra.png" group-title="PL VIP POLAND",PL: VIP EUROSPORT EXTRA PLAYER 1
@@ -967,4 +1069,4 @@ http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/545430.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/mma-attack-ppv.png" group-title="PL VIP POLAND",PL: PPV STREAM (MMA ATTACK)
 http://fb4k.live:8080/live/QAJkuZt5At/SayYPYo7cy/545429.m3u8
 
-# Total: 472
+# Total: 523

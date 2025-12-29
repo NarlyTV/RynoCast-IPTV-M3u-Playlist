@@ -1,13 +1,13 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: alblive.org:80
-# Generated: 2025-12-28 18:26:10
+# Generated: 2025-12-29 07:13:12
 # Expires: 2026-01-15
 # Family Safe Edition
 # ==============================================
 
 
-# --- Movies | Action (381) ---
+# --- Movies | Action (385) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lnWkyG3LLgbbrIEeyl5mK5VRFe4.jpg" group-title="Movies | Action",6 Underground (2019)
 http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/6091.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iBZhbCVhLpyxAfW1B8ePUxjScrx.jpg" group-title="Movies | Action",Godzilla (2014)
@@ -764,6 +764,14 @@ http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17199.mkv
 http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17201.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kDXewoEcvbn0pUvJ8W3vfkuWgHw.jpg" group-title="Movies | Action",Assassin's Creed (2016)
 http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17213.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/23ILgoPSO5ShKcTZOuiTVfqFAUB.jpg" group-title="Movies | Action",American Made (2017)
+http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17373.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/34xBL6BXNYFqtHO9zhcgoakS4aP.jpg" group-title="Movies | Action",Kingsman: The Golden Circle (2017)
+http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17374.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xT98tLqatZPQApyRmlPL12LtiWp.jpg" group-title="Movies | Action",The Hobbit: The Battle of the Five Armies (2014)
+http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17375.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/d9CTnTHip1RbVi2OQbA2LJJQAGI.jpg" group-title="Movies | Action",The Union (2024)
+http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17377.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | Action",Gotham Knights
 http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/70.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Action",Spy/Master
@@ -7645,7 +7653,7 @@ http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/136.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Soap",Scars of Beauty
 http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/129.mp4
 
-# --- Movies | Thriller (104) ---
+# --- Movies | Thriller (105) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1pNAmSWKLosPyuVqh0zx43Pzqh5.jpg" group-title="Movies | Thriller",Bridge of Spies (2015)
 http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/6109.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/upURIW6jeEcTJKpaJeoNw5jbcr1.jpg" group-title="Movies | Thriller",Acrimony (2018)
@@ -7854,6 +7862,8 @@ http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/16088.mkv
 http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17358.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qCOGGi8JBVEZMc3DVby8rUivyXz.jpg" group-title="Movies | Thriller",Wake Up Dead Man: A Knives Out Mystery (2025)
 http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17372.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vB8o2p4ETnrfiWEgVxHmHWP9yRl.jpg" group-title="Movies | Thriller",Heart of Stone (2023)
+http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17376.mkv
 
 # --- Movies | Titra Shqip (1329) ---
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jRXYjXNq0Cs2TcJjLkki24MLp7u.jpg" group-title="Movies | Titra Shqip",Avatar (2009)
@@ -10631,4 +10641,4 @@ http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/16122.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | Western",The English
 http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/100.mp4
 
-# Total: 5282
+# Total: 5287

@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: ultrapremium.cloud:8080
-# Generated: 2025-12-28 18:25:18
+# Generated: 2025-12-29 07:11:32
 # Expires: 2026-10-18
 # Family Safe Edition
 # ==============================================
@@ -7885,7 +7885,11 @@ http://ultrapremium.cloud:8080/movie/995138256tv/wiwos69/5901.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5BK1B6JQRxnLEc4vZyrUojdIiCq.jpg" group-title="Movies | → VOD DOCUMENTALES ←",La reina de la montaña: Lhakpa Sherpa y la cumbre del Everest (2024)
 http://ultrapremium.cloud:8080/movie/995138256tv/wiwos69/249188.mp4
 
-# --- Movies | → VOD DRAMA ← (456) ---
+# --- Movies | → VOD DRAMA ← (458) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eUh6lzns97I11wwBBbxmyQXspJP.jpg" group-title="Movies | → VOD DRAMA ←",El Ultimo verano
+http://ultrapremium.cloud:8080/movie/995138256tv/wiwos69/279011.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/evpyqT25VJzFT5juDflTM6OW5zW.jpg" group-title="Movies | → VOD DRAMA ←",Una estafa Celestial
+http://ultrapremium.cloud:8080/movie/995138256tv/wiwos69/279010.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eZi0LEb8DtxSrizMsGKi02Jw6ww.jpg" group-title="Movies | → VOD DRAMA ←",Hermanos
 http://ultrapremium.cloud:8080/movie/995138256tv/wiwos69/278786.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lFU87NOeh6l4eos0Ahgigp6rL4P.jpg" group-title="Movies | → VOD DRAMA ←",Lamborghini: El hombre detrás de la leyenda
@@ -13253,7 +13257,13 @@ http://ultrapremium.cloud:8080/movie/995138256tv/wiwos69/75434.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9RrMfaCYdsdNdRNUAR3TY0DvNV2.jpg" group-title="Movies | → VOD ESTRENOS 2024 ←",Bosco (2024)
 http://ultrapremium.cloud:8080/movie/995138256tv/wiwos69/75435.mkv
 
-# --- Movies | → VOD ESTRENOS 2025 ← (263) ---
+# --- Movies | → VOD ESTRENOS 2025 ← (266) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gCEJCaIzrU7FiOrv6fMMMnQ163B.jpg" group-title="Movies | → VOD ESTRENOS 2025 ←",Verano infernal (2025)
+http://ultrapremium.cloud:8080/movie/995138256tv/wiwos69/279125.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u2xyvEmgkXmfMeCQcGf6mERNFfd.jpg" group-title="Movies | → VOD ESTRENOS 2025 ←",Mátate, amor (2025)
+http://ultrapremium.cloud:8080/movie/995138256tv/wiwos69/279126.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bNkdgYloImniOVJmMj2wVrcetRM.jpg" group-title="Movies | → VOD ESTRENOS 2025 ←",Eternity (2025)
+http://ultrapremium.cloud:8080/movie/995138256tv/wiwos69/279127.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8rxFUdvtFwAxbyZfSBKPB2Vaal9.jpg" group-title="Movies | → VOD ESTRENOS 2025 ←",El Extraño en mi Casa (2025)
 http://ultrapremium.cloud:8080/movie/995138256tv/wiwos69/278784.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o7KmMh4lH1l4a0EvS8Dq1MiQbc6.jpg" group-title="Movies | → VOD ESTRENOS 2025 ←",Cuestion de Confianza (2025)
@@ -17345,7 +17355,7 @@ http://ultrapremium.cloud:8080/movie/995138256tv/wiwos69/268637.mp4
 #EXTINF:-1 tvg-logo="https://goluchas.com/wp-content/uploads/2024/12/IMG_5281.jpeg" group-title="Movies | → VOD WWE ←",RAW 13 Enero (2025)
 http://ultrapremium.cloud:8080/movie/995138256tv/wiwos69/268788.mp4
 
-# --- Series | → SERIES ACCIÓN ← (67) ---
+# --- Series | → SERIES ACCIÓN ← (68) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES ACCIÓN ←",Black Sails
 http://ultrapremium.cloud:8080/series/995138256tv/wiwos69/21
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES ACCIÓN ←",Mil Colmillos
@@ -17480,6 +17490,8 @@ http://ultrapremium.cloud:8080/series/995138256tv/wiwos69/2498
 http://ultrapremium.cloud:8080/series/995138256tv/wiwos69/2504
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES ACCIÓN ←",La Guerra de los Reinos
 http://ultrapremium.cloud:8080/series/995138256tv/wiwos69/2513
+#EXTINF:-1 tvg-logo="" group-title="Series | → SERIES ACCIÓN ←",Cashman
+http://ultrapremium.cloud:8080/series/995138256tv/wiwos69/2515
 
 # --- Series | → SERIES ANIMADAS DEL RECUERDO ← (14) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES ANIMADAS DEL RECUERDO ←",Capitan Centella
@@ -18503,7 +18515,7 @@ http://ultrapremium.cloud:8080/series/995138256tv/wiwos69/2499
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DOCUMENTALES ←",MARINES
 http://ultrapremium.cloud:8080/series/995138256tv/wiwos69/2502
 
-# --- Series | → SERIES DRAMA ← (289) ---
+# --- Series | → SERIES DRAMA ← (290) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DRAMA ←",4 Blocks
 http://ultrapremium.cloud:8080/series/995138256tv/wiwos69/7
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DRAMA ←",Por trece razones
@@ -19082,6 +19094,8 @@ http://ultrapremium.cloud:8080/series/995138256tv/wiwos69/2509
 http://ultrapremium.cloud:8080/series/995138256tv/wiwos69/2510
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DRAMA ←",Pequeños Desastres
 http://ultrapremium.cloud:8080/series/995138256tv/wiwos69/2511
+#EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DRAMA ←",Los Abandonados
+http://ultrapremium.cloud:8080/series/995138256tv/wiwos69/2516
 
 # --- Series | → SERIES INFANTILES ← (43) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES INFANTILES ←",¡La serie de Cuphead!
@@ -19583,4 +19597,4 @@ http://ultrapremium.cloud:8080/series/995138256tv/wiwos69/2345
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES TERROR-THRILLER-SUSPENSO ←",It: Bienvenidos a Derry
 http://ultrapremium.cloud:8080/series/995138256tv/wiwos69/2492
 
-# Total: 9716
+# Total: 9723

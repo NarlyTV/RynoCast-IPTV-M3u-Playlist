@@ -1,13 +1,13 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: stklatino.dynns.com:2082
-# Generated: 2025-12-28 18:25:29
+# Generated: 2025-12-29 07:13:39
 # Expires: 2026-02-11
 # Family Safe Edition
 # ==============================================
 
 
-# --- Movies | 2024 (482) ---
+# --- Movies | 2024 (484) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iIBek2FZg2dDYksRP3ibpuquC5X.jpg" group-title="Movies | 2024",Umjolo: desde el primer dia (2024)
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/80949.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bnfnruEYFhANxt4O5WD8yxjaAPP.jpg" group-title="Movies | 2024",Operación Panda: Misión rescate (2024)
@@ -972,8 +972,12 @@ http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/128848.mkv
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/128851.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ubzMoVPMJyLvaRm1NxxlsayIfat.jpg" group-title="Movies | 2024",Isla del renacimiento (2024)
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/128852.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dIOobFw8QEDvnIA0oSA4sY5LVLD.jpg" group-title="Movies | 2024",200% lobo (2024)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/129982.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hLAek7EiM5NpLiotmQkmS8SIZw9.jpg" group-title="Movies | 2024",El Fiscal (2024)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/129983.mkv
 
-# --- Movies | 2025 (475) ---
+# --- Movies | 2025 (479) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w6Xdq2juOSaK6QlOQhuYNltmWUU.jpg" group-title="Movies | 2025",Una vida honrada (2025)
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/82271.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oF3noXatzftfCltE0iEDnzU5WIi.jpg" group-title="Movies | 2025",Molt lluny (2025)
@@ -1924,6 +1928,14 @@ http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/129877.mkv
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/129878.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8qTMRmC07XCGidnKQFLbRM3FoDU.jpg" group-title="Movies | 2025",Muzzle: City of Wolves (2025)
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/129879.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/coJkkPBDeBsYecxoqMnZm8TKlBL.jpg" group-title="Movies | 2025",Avatar: Fuego y ceniza (2025)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/129986.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bPOEtWhI7lGpW0OxZZGjt545OXy.jpg" group-title="Movies | 2025",Elway (2025)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/129987.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rh3HNzV7o8ouH4NnCuL76OFPFBF.jpg" group-title="Movies | 2025",Soy Frankelda (2025)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/129988.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cuXscQfRr1KLknkqNVObkAA7HyE.jpg" group-title="Movies | 2025",Bob Esponja: En busca de los pantalones cuadrados (2025)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/129989.mp4
 
 # --- Movies | ACCION (1179) ---
 #EXTINF:-1 tvg-logo="https://images.jdmagicbox.com/comp/jd_social/news/2018jul10/image-26897-5ws2ln7hgm.jpg" group-title="Movies | ACCION",007: Quantum of Solace (2008)
@@ -18133,7 +18145,7 @@ http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/89011.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rQ1HjqS7ncdoG17eqj2yTn1Qxsd.jpg" group-title="Movies | RELIGION",Padre Pio de Pietrelcina (1997)
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/89012.mp4
 
-# --- Movies | RETRO (208) ---
+# --- Movies | RETRO (210) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/51Sy8Uu8Qwz6WWeqY17zHqXZU5d.jpg" group-title="Movies | RETRO",007: Contra El Dr. No (1962)
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/16271.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gQB8Y5RCMkv2zwzFHbUJX3kAhvA.jpg" group-title="Movies | RETRO",Apocalypse Now (1979)
@@ -18460,6 +18472,10 @@ http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/89828.mp4
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/89829.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p97nl4PMg4LAGTyrFm9KpqdCIxv.jpg" group-title="Movies | RETRO",Pequeños genios (1999)
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/123393.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3p7xhCU65tkoXrCwYjTCnssGPoy.jpg" group-title="Movies | RETRO",Black Dog (1998)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/129984.avi
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kymxskRkwRGGrlJLdneItwTIAHm.jpg" group-title="Movies | RETRO",Willow en la tierra del encanto (1988)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/129985.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | RETRO",Chespirito
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/1451.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | RETRO",Yo Amo a Lucy
@@ -21669,4 +21685,4 @@ http://stklatino.dynns.com:2082/series/maldonadoluis/frEbTPk9DN3L/2452
 #EXTINF:-1 tvg-logo="" group-title="Series | TELESERIES",Doménica Montero
 http://stklatino.dynns.com:2082/series/maldonadoluis/frEbTPk9DN3L/2511
 
-# Total: 10801
+# Total: 10809

@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: tv.nova-iptv.com:80
-# Generated: 2025-12-28 18:28:13
+# Generated: 2025-12-29 07:09:36
 # Expires: 2026-01-30
 # Family Safe Edition
 # ==============================================
@@ -3731,7 +3731,15 @@ http://tv.nova-iptv.com:80/movie/Mirnes129/u03v99T6sq/13188.mp4
 #EXTINF:-1 tvg-logo="http://195.201.245.177:2451/img-proxy?url=https://m.media-amazon.com/images/M/MV5BM2IzNDEyNmUtNjE1OC00NzI5LThjZTQtMzNhMTNkNjMwZjczXkEyXkFqcGc@._V1_.jpg" group-title="Movies | VIDEOTEKA 2024",Bitconned (2024)
 http://tv.nova-iptv.com:80/movie/Mirnes129/u03v99T6sq/13189.mp4
 
-# --- Movies | VIDEOTEKA 2025 (121) ---
+# --- Movies | VIDEOTEKA 2025 (125) ---
+#EXTINF:-1 tvg-logo="http://195.201.245.177:2451/img-proxy?url=https://upload.wikimedia.org/wikipedia/en/thumb/2/29/A-Very-Jonas-Christmas-Movie-poster.png/250px-A-Very-Jonas-Christmas-Movie-poster.png" group-title="Movies | VIDEOTEKA 2025",A Very Jonas Christmas Movie (2025)
+http://tv.nova-iptv.com:80/movie/Mirnes129/u03v99T6sq/13636.mp4
+#EXTINF:-1 tvg-logo="http://195.201.245.177:2451/img-proxy?url=https://upload.wikimedia.org/wikipedia/en/thumb/4/4b/Code_3_film_poster.jpg/250px-Code_3_film_poster.jpg" group-title="Movies | VIDEOTEKA 2025",Code 3 (2025)
+http://tv.nova-iptv.com:80/movie/Mirnes129/u03v99T6sq/13637.mp4
+#EXTINF:-1 tvg-logo="http://195.201.245.177:2451/img-proxy?url=https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Ice_Fall_poster.jpg/250px-Ice_Fall_poster.jpg" group-title="Movies | VIDEOTEKA 2025",Ice Fall (2025)
+http://tv.nova-iptv.com:80/movie/Mirnes129/u03v99T6sq/13638.mp4
+#EXTINF:-1 tvg-logo="http://195.201.245.177:2451/img-proxy?url=https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/In_Your_Dreams_poster.jpg/250px-In_Your_Dreams_poster.jpg" group-title="Movies | VIDEOTEKA 2025",In Your Dreams (2025)
+http://tv.nova-iptv.com:80/movie/Mirnes129/u03v99T6sq/13639.mp4
 #EXTINF:-1 tvg-logo="http://195.201.245.177:2451/img-proxy?url=https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/Stolen_Girl_2025.jpg/250px-Stolen_Girl_2025.jpg" group-title="Movies | VIDEOTEKA 2025",Stolen Girl (2025)
 http://tv.nova-iptv.com:80/movie/Mirnes129/u03v99T6sq/13632.mp4
 #EXTINF:-1 tvg-logo="http://195.201.245.177:2451/img-proxy?url=https://upload.wikimedia.org/wikipedia/en/thumb/b/bc/The_Conjuring_%E2%80%93_Last_Rites.jpg/250px-The_Conjuring_%E2%80%93_Last_Rites.jpg" group-title="Movies | VIDEOTEKA 2025",The Conjuring: Last Rites (2025)
@@ -3975,4 +3983,4 @@ http://tv.nova-iptv.com:80/movie/Mirnes129/u03v99T6sq/13432.mp4
 #EXTINF:-1 tvg-logo="http://85.14.243.71/images/220px-Den_of_thieves_two_pantera_ver2.jpg" group-title="Movies | VIDEOTEKA 2025",Den of Thieves 2: Pantera (2025)
 http://tv.nova-iptv.com:80/movie/Mirnes129/u03v99T6sq/13433.mp4
 
-# Total: 1969
+# Total: 1973

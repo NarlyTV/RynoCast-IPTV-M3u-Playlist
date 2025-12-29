@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: 51.89.76.111:2086
-# Generated: 2025-12-28 18:27:53
+# Generated: 2025-12-29 07:12:25
 # Expires: 2026-10-09
 # Family Safe Edition
 # ==============================================
@@ -1153,15 +1153,7 @@ http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/110104.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/gy51zip.png" group-title="DE-DAZN",DE: DAZN Eurosport 2 HD
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/170928.m3u8
 
-# --- DE-DAZN EVENT (248) ---
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/tbpjn3ljgjv6tknxlbhy00as_image-header_pDach_1766401426000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",LALIGA Futures | Gruppenphase (3. Spieltag) (2025-12-28 09:30:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/174154.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/v7jxxvtf6j1pn290quccsvba_image-header_pDach_1763473974000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Wintersport-Sonntag | 28. Dezember (2025-12-28 10:40:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/174155.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/ezgdbwl5y1601ifh2cedavwhu_image-header_pDach_1763022371000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Milan - Hellas Verona (italienischer Kommentar) (2025-12-28 10:45:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/174156.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/9niqiz7ocbtuutn3jdfcado90_image-header_pDach_1763022371000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Milan - Hellas Verona (2025-12-28 11:30:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/174157.m3u8
+# --- DE-DAZN EVENT (244) ---
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/f3frndtc9c3rbv9rqjmi44sbr_image-header_pDach_1766656310000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Darts-WM | Tag 15 (Session 1) (2025-12-28 12:30:00)
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/174158.m3u8
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/9rdgy8ow1egi9v75w7zdei7nm_image-header_pDach_1766656330000/fill/none/top/none/85/668/374/logos/daznde.png" group-title="DE-DAZN EVENT",Darts-WM | Tag 15 (Session 1 mit Originalkommentar) (2025-12-28 12:30:00)
@@ -7041,4 +7033,4 @@ http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/165820.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/JEtHjJs.png" group-title="WORLD SPORTS",Sky Sport Action HD [UK]
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/165884.m3u8
 
-# Total: 3461
+# Total: 3457
