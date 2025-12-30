@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: vocotv.pro
-# Generated: 2025-12-29 18:38:25
+# Generated: 2025-12-30 07:14:03
 # Expires: 2026-06-28
 # Family Safe Edition
 # ==============================================
@@ -6016,9 +6016,9 @@ http://vocotv.pro/live/nowak1/nowak1/710258.m3u8
 http://vocotv.pro/live/nowak1/nowak1/710257.m3u8
 
 # --- LIVE | PPV Events (59) ---
-#EXTINF:-1 tvg-logo="https://i.ibb.co/w7fD2qB/PPVoco.png" group-title="LIVE | PPV Events",PPV 01:
+#EXTINF:-1 tvg-logo="https://i.ibb.co/w7fD2qB/PPVoco.png" group-title="LIVE | PPV Events",PPV 01: WWE Monday Night Raw 8:00 pm
 http://vocotv.pro/live/nowak1/nowak1/2395.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/w7fD2qB/PPVoco.png" group-title="LIVE | PPV Events",PPV 02:
+#EXTINF:-1 tvg-logo="https://i.ibb.co/w7fD2qB/PPVoco.png" group-title="LIVE | PPV Events",PPV 02: WWE Monday Night Raw 8:00 pm
 http://vocotv.pro/live/nowak1/nowak1/2394.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/w7fD2qB/PPVoco.png" group-title="LIVE | PPV Events",PPV 03:
 http://vocotv.pro/live/nowak1/nowak1/2393.m3u8
@@ -13297,7 +13297,7 @@ http://vocotv.pro/live/nowak1/nowak1/271154.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/wUZqOv.md.png" group-title="USA | Netflix Series Originals",Netflix Series info
 http://vocotv.pro/live/nowak1/nowak1/271164.m3u8
 
-# --- USA | PLEX (497) ---
+# --- USA | PLEX (479) ---
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/e/epg/channels/logos/gracenote/e975ae2918e02a02e4eb8d613a8ab47f.png" group-title="USA | PLEX",US| 4Adventure FHD ▪ᴘʟᴇx▪
 http://vocotv.pro/live/nowak1/nowak1/622526.m3u8
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/b/epg/channels/logos/gracenote/b23f4f8eacf2433bf8ac6cf851477a97.png" group-title="USA | PLEX",US| 4Emergency FHD ▪ᴘʟᴇx▪
@@ -13334,8 +13334,6 @@ http://vocotv.pro/live/nowak1/nowak1/622507.m3u8
 http://vocotv.pro/live/nowak1/nowak1/622506.m3u8
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/9/epg/channels/logos/gracenote/956bc5f750ddad6a83cc2411a447a984.png" group-title="USA | PLEX",US| AMC: IFC Films Picks FHD ▪ᴘʟᴇx▪
 http://vocotv.pro/live/nowak1/nowak1/622505.m3u8
-#EXTINF:-1 tvg-logo="https://s12.gifyu.com/images/Sr53u.webp" group-title="USA | PLEX",US| AMC: Overtime FHD ▪ᴘʟᴇx▪
-http://vocotv.pro/live/nowak1/nowak1/622504.m3u8
 #EXTINF:-1 tvg-logo="https://s12.gifyu.com/images/SrR7I.webp" group-title="USA | PLEX",US| AMC: Portlandia FHD ▪ᴘʟᴇx▪
 http://vocotv.pro/live/nowak1/nowak1/622503.m3u8
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/6/epg/channels/logos/gracenote/627ce40ef536741e2d80772b3624650b.png" group-title="USA | PLEX",US| AMC: Scares by Shudder FHD ▪ᴘʟᴇx▪
@@ -13366,8 +13364,6 @@ http://vocotv.pro/live/nowak1/nowak1/622489.m3u8
 http://vocotv.pro/live/nowak1/nowak1/622488.m3u8
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/e/epg/channels/logos/gracenote/e1e8bf91cc2064e36aaf0a596d6a641d.png" group-title="USA | PLEX",US| AsianCrush FHD ▪ᴘʟᴇx▪
 http://vocotv.pro/live/nowak1/nowak1/622487.m3u8
-#EXTINF:-1 tvg-logo="https://s10.gifyu.com/images/SrmY8.webp" group-title="USA | PLEX",US| At Home with Family Handyman FHD ▪ᴘʟᴇx▪
-http://vocotv.pro/live/nowak1/nowak1/622485.m3u8
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/95900139-3fc8-47db-a112-4990099948e8/AxMen-Channel-Logo-_Light_-rdx.png" group-title="USA | PLEX",US| Ax Men by History FHD ▪ᴘʟᴇx▪
 http://vocotv.pro/live/nowak1/nowak1/622484.m3u8
 #EXTINF:-1 tvg-logo="https://s10.gifyu.com/images/SrYVE.webp" group-title="USA | PLEX",US| AXS TV NOW FHD ▪ᴘʟᴇx▪
@@ -13380,14 +13376,8 @@ http://vocotv.pro/live/nowak1/nowak1/622480.m3u8
 http://vocotv.pro/live/nowak1/nowak1/622479.m3u8
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/1e92ab4a-8016-45ef-8f59-1190695f2c6a/BBC_COMEDY_PLEX_BRAND_CHANNEL_Logo_Light_1500X1000_Caitlin_Schiffer.png" group-title="USA | PLEX",US| BBC Comedy FHD ▪ᴘʟᴇx▪
 http://vocotv.pro/live/nowak1/nowak1/622478.m3u8
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/0694fd21-4459-41d9-b49d-cef804553424/PLEX_BBCEarth_Logo_Light_1500X1000.png" group-title="USA | PLEX",US| BBC Earth FHD ▪ᴘʟᴇx▪
-http://vocotv.pro/live/nowak1/nowak1/622477.m3u8
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/38bb71ea-ecc8-42f9-9f21-abe72f2e66df/PLEX_BBCFOOD_Logo_Light_1500X1000.png" group-title="USA | PLEX",US| BBC Food FHD ▪ᴘʟᴇx▪
-http://vocotv.pro/live/nowak1/nowak1/622476.m3u8
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/f6b8b55c-c48b-4f01-b357-5c9d62779cd8/BBC_GAME_SHOWS_PLEX_BRAND_CHANNEL_Logo_Light_1500X1000_Caitlin_Schiffer.png" group-title="USA | PLEX",US| BBC Game Shows FHD ▪ᴘʟᴇx▪
 http://vocotv.pro/live/nowak1/nowak1/622475.m3u8
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/603f2e3c-fc13-4a64-bacc-48de38f0b44e/PLEX_HOME_GARDEN_Logo_Light_1500X1000.png" group-title="USA | PLEX",US| BBC Home & Garden FHD ▪ᴘʟᴇx▪
-http://vocotv.pro/live/nowak1/nowak1/622474.m3u8
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/3b627a5e-4c24-4f70-8392-f6d7c5080bee/BBC_SCI-FI_PLEX_BRAND_CHANNEL_Logo_Light_1500X1000_Caitlin_Schiffer.png" group-title="USA | PLEX",US| BBC Sci-Fi FHD ▪ᴘʟᴇx▪
 http://vocotv.pro/live/nowak1/nowak1/622472.m3u8
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/18618888-60d4-4277-a8cb-1c054b8fb9dd/BBC_TRAVEL_PLEX_BRAND_CHANNEL_Logo_Light_1500X1000_Caitlin_Schiffer.png" group-title="USA | PLEX",US| BBC Travel FHD ▪ᴘʟᴇx▪
@@ -13406,10 +13396,6 @@ http://vocotv.pro/live/nowak1/nowak1/622464.m3u8
 http://vocotv.pro/live/nowak1/nowak1/622463.m3u8
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/c8dd9cc8-2c59-42a2-b9e9-2f0c9b4093a5/blackpix_logo_dark.png" group-title="USA | PLEX",US| BlackPix FHD ▪ᴘʟᴇx▪
 http://vocotv.pro/live/nowak1/nowak1/622462.m3u8
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/435696d7-3d74-47d0-b108-e56e0e0df40e/BBOriginals_2023_Plex_Stacked_WHTrdx.png" group-title="USA | PLEX",US| Bloomberg Originals FHD ▪ᴘʟᴇx▪
-http://vocotv.pro/live/nowak1/nowak1/622461.m3u8
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/6/epg/channels/logos/gracenote/66a30548bffdf5f5e158e3baf755afad.png" group-title="USA | PLEX",US| Bloomberg TV FHD ▪ᴘʟᴇx▪
-http://vocotv.pro/live/nowak1/nowak1/622460.m3u8
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/9d75cf3b-be95-4785-ab5a-3cfdd4994ab7/BratTV_PlexTV_Logo_DarkBG.png" group-title="USA | PLEX",US| Brat TV FHD ▪ᴘʟᴇx▪
 http://vocotv.pro/live/nowak1/nowak1/622458.m3u8
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/e4963ab3-1307-4d23-8ac5-cf754318d843/BritBox_MysteryMonth_channel_logo__full_color__Caitlin_Schiffer.png" group-title="USA | PLEX",US| BritBox Mysteries FHD ▪ᴘʟᴇx▪
@@ -13434,12 +13420,6 @@ http://vocotv.pro/live/nowak1/nowak1/622447.m3u8
 http://vocotv.pro/live/nowak1/nowak1/622446.m3u8
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/4/epg/channels/logos/gracenote/41f50a0f5329595c7744cfccc13beade.png" group-title="USA | PLEX",US| CBC News International FHD ▪ᴘʟᴇx▪
 http://vocotv.pro/live/nowak1/nowak1/622445.m3u8
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/7c7be41d-477b-447c-baaf-61be24cf44fc/CBS_WHT3017a837a5b62a0e9cdc8ab8fdd8f134RDX.png" group-title="USA | PLEX",US| CBS News FHD ▪ᴘʟᴇx▪
-http://vocotv.pro/live/nowak1/nowak1/622444.m3u8
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/9ed16f74-c3d5-4a8c-9672-db8482a30a97/PlutoTV_Plex_Logo_DarkBkgd_1500x1000_CBSNews_LosAngeles_v1_-_Katherine_ByramRDX.png" group-title="USA | PLEX",US| CBS News Los Angeles FHD ▪ᴘʟᴇx▪
-http://vocotv.pro/live/nowak1/nowak1/622443.m3u8
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/c819c2a2-3331-4d36-984c-fe957b843dbe/CBS_SPORTS_Color_Logo.png" group-title="USA | PLEX",US| CBS Sports HQ FHD ▪ᴘʟᴇx▪
-http://vocotv.pro/live/nowak1/nowak1/622441.m3u8
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/773232e1-5c36-490b-922e-e5be8ec12eb2/celebrityd5796a3e14bf45513f7b3071b90d030.png" group-title="USA | PLEX",US| Celebrity Name Game FHD ▪ᴘʟᴇx▪
 http://vocotv.pro/live/nowak1/nowak1/622440.m3u8
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/3b435083-eb80-4f1a-ae78-fd6cab44964c/CSS_1920x1080-Transparent_-_Sue_Chang.png" group-title="USA | PLEX",US| Chicken Soup for the Soul FHD ▪ᴘʟᴇx▪
@@ -13482,8 +13462,6 @@ http://vocotv.pro/live/nowak1/nowak1/622419.m3u8
 http://vocotv.pro/live/nowak1/nowak1/622418.m3u8
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/01a1743b-ef22-4549-84a5-84d044fe11a8/Sports-Court-Network_WHITE_-_Douglas_NeimanRDX.png" group-title="USA | PLEX",US| Court Sports Network FHD ▪ᴘʟᴇx▪
 http://vocotv.pro/live/nowak1/nowak1/622417.m3u8
-#EXTINF:-1 tvg-logo="https://s12.gifyu.com/images/SrgOK.webp" group-title="USA | PLEX",US| Court TV FHD ▪ᴘʟᴇx▪
-http://vocotv.pro/live/nowak1/nowak1/622416.m3u8
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/4/epg/channels/logos/gracenote/44b8c938b34238f227a4030123f8dfcf.png" group-title="USA | PLEX",US| Court TV Legendary Trials FHD ▪ᴘʟᴇx▪
 http://vocotv.pro/live/nowak1/nowak1/622415.m3u8
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23092/cowboy-way/logo_20221116_182753_68.png" group-title="USA | PLEX",US| Cowboy Way FHD ▪ᴘʟᴇx▪
@@ -13576,8 +13554,6 @@ http://vocotv.pro/live/nowak1/nowak1/622369.m3u8
 http://vocotv.pro/live/nowak1/nowak1/622368.m3u8
 #EXTINF:-1 tvg-logo="https://s12.gifyu.com/images/Sa4Tn.png" group-title="USA | PLEX",US| FamilyTime HD ▪ᴘʟᴇx▪
 http://vocotv.pro/live/nowak1/nowak1/622367.m3u8
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/6/epg/channels/logos/gracenote/6c9e8fd772654873d22c966ec124ea02.png" group-title="USA | PLEX",US| FanDuel TV Extra FHD ▪ᴘʟᴇx▪
-http://vocotv.pro/live/nowak1/nowak1/622366.m3u8
 #EXTINF:-1 tvg-logo="https://s12.gifyu.com/images/SrDS6.png" group-title="USA | PLEX",US| Farscape FHD ▪ᴘʟᴇx▪
 http://vocotv.pro/live/nowak1/nowak1/622365.m3u8
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/d3740a2e-4a7c-4bc2-b0ca-15fa24121fc5/1500X1000_PNG_w__transparent_background__All_white_Logo_for_Attribution__-_Yuri_Alexandrov.png" group-title="USA | PLEX",US| FashionTV FHD ▪ᴘʟᴇx▪
@@ -13744,8 +13720,6 @@ http://vocotv.pro/live/nowak1/nowak1/622281.m3u8
 http://vocotv.pro/live/nowak1/nowak1/622280.m3u8
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/6a716feb-6064-4d91-88d3-2fc0bc8439ef/Grjngo-Westernfilme_logo_light_-_Toni_Newesil.png" group-title="USA | PLEX",US| Grjngo - Western Movies FHD ▪ᴘʟᴇx▪
 http://vocotv.pro/live/nowak1/nowak1/622279.m3u8
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/d/epg/channels/logos/gracenote/dab1a7cb1336ecbd21e804d506b3ba61.png" group-title="USA | PLEX",US| GUSTOTV FHD ▪ᴘʟᴇx▪
-http://vocotv.pro/live/nowak1/nowak1/622278.m3u8
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/hardknocks_logo_dark.png" group-title="USA | PLEX",US| Hard Knocks FHD ▪ᴘʟᴇx▪
 http://vocotv.pro/live/nowak1/nowak1/622275.m3u8
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/e/epg/channels/logos/gracenote/ef631804cdf478bca5ba96eaee4bc241.png" group-title="USA | PLEX",US| HBCUGO SPORTS FHD ▪ᴘʟᴇx▪
@@ -13760,8 +13734,6 @@ http://vocotv.pro/live/nowak1/nowak1/622271.m3u8
 http://vocotv.pro/live/nowak1/nowak1/622270.m3u8
 #EXTINF:-1 tvg-logo="https://s12.gifyu.com/images/SaBT5.png" group-title="USA | PLEX",US| History Hit FHD ▪ᴘʟᴇx▪
 http://vocotv.pro/live/nowak1/nowak1/622269.m3u8
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/52903452-cd71-4f02-93c9-57e5ac1cbba8/Rachel_Rays_Italian_Dream_Home_WHITE_Logo_1500x1000.png" group-title="USA | PLEX",US| Home.Made.Nation FHD ▪ᴘʟᴇx▪
-http://vocotv.pro/live/nowak1/nowak1/622268.m3u8
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/humormill_logo_dark.png" group-title="USA | PLEX",US| Humor Mill FHD ▪ᴘʟᴇx▪
 http://vocotv.pro/live/nowak1/nowak1/622266.m3u8
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/0678fec3-f3ed-465b-81ce-f11ba861d88e/IceRoadTruckers-Channel-Logo-_Light_-rdx.png" group-title="USA | PLEX",US| Ice Road Truckers FHD ▪ᴘʟᴇx▪
@@ -14026,12 +13998,8 @@ http://vocotv.pro/live/nowak1/nowak1/622121.m3u8
 http://vocotv.pro/live/nowak1/nowak1/622120.m3u8
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/9043fa4d-851d-4cca-bc0c-ae48981b91ad/ScreamFactoryTV_logo_light_-_Paige_Sherman.png" group-title="USA | PLEX",US| Scream Factory TV FHD ▪ᴘʟᴇx▪
 http://vocotv.pro/live/nowak1/nowak1/622119.m3u8
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/fe7112f2-d9df-4e7e-9ee7-ef4eb746c513/SN_Logo_Primary_1500x1000_color_white.png" group-title="USA | PLEX",US| Scripps News FHD ▪ᴘʟᴇx▪
-http://vocotv.pro/live/nowak1/nowak1/622118.m3u8
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/aca5fb4a-3f31-4527-82d4-80b718821f1f/ShemarooBollywood_logo_dark_-_Shemaroo_USArdx.png" group-title="USA | PLEX",US| Shemaroo Bollywood FHD ▪ᴘʟᴇx▪
 http://vocotv.pro/live/nowak1/nowak1/622117.m3u8
-#EXTINF:-1 tvg-logo="https://s10.gifyu.com/images/SrIwo.webp" group-title="USA | PLEX",US| Shout! Factory TV Stream FHD ▪ᴘʟᴇx▪
-http://vocotv.pro/live/nowak1/nowak1/622116.m3u8
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/0464352b-864f-4cb0-9511-36b93d03dc7a/SILENT_WITNESS_PLEX_BRAND_CHANNEL_Logo_Light_1500X1000_Caitlin_Schiffer.png" group-title="USA | PLEX",US| Silent Witness|New Tricks FHD ▪ᴘʟᴇx▪
 http://vocotv.pro/live/nowak1/nowak1/622115.m3u8
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/skwad-logo.png" group-title="USA | PLEX",US| SKWAD *K FHD ▪ᴘʟᴇx▪
@@ -14124,8 +14092,6 @@ http://vocotv.pro/live/nowak1/nowak1/622070.m3u8
 http://vocotv.pro/live/nowak1/nowak1/622069.m3u8
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/f03c74c1-e873-4346-beb0-804372660176/T2_1_1500_x_1000___Logo_Dark_BG_-_Ari_Brock.png" group-title="USA | PLEX",US| T2 FHD ▪ᴘʟᴇx▪
 http://vocotv.pro/live/nowak1/nowak1/622068.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/vod/tastemade-vod-us.png" group-title="USA | PLEX",US| Tastemade FHD ▪ᴘʟᴇx▪
-http://vocotv.pro/live/nowak1/nowak1/622067.m3u8
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/5fd3720e-6bb2-44ae-9345-65999a1afbf8/-_B_Channel_logo_1500x1000_RED.png" group-title="USA | PLEX",US| TED FHD ▪ᴘʟᴇx▪
 http://vocotv.pro/live/nowak1/nowak1/622066.m3u8
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/d/epg/channels/logos/gracenote/d39375085042573d5d6d78b53aca27b8.png" group-title="USA | PLEX",US| Teletubbies HD ▪ᴘʟᴇx▪
@@ -14168,8 +14134,6 @@ http://vocotv.pro/live/nowak1/nowak1/622047.m3u8
 http://vocotv.pro/live/nowak1/nowak1/622046.m3u8
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/d4b6f778-c8f5-47cd-b6a4-266b73842fc8/TOHLogo_1500x1000.png" group-title="USA | PLEX",US| This Old House FHD ▪ᴘʟᴇx▪
 http://vocotv.pro/live/nowak1/nowak1/622045.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/vod/tiny-house-nation-vod.png" group-title="USA | PLEX",US| Tiny House Nation FHD ▪ᴘʟᴇx▪
-http://vocotv.pro/live/nowak1/nowak1/622043.m3u8
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/ef7959ed-fb76-43fb-b96f-6e06110a25a0/thetmzchannel_logo_darkbackgrounds.png" group-title="USA | PLEX",US| TMZ FHD ▪ᴘʟᴇx▪
 http://vocotv.pro/live/nowak1/nowak1/622042.m3u8
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/27e36afa-f885-4d90-9a7e-1568f45878c2/TNAWrestling_Plex_LogoforDarkBG_1500x1000_-_Alex_TushinghamRDX.png" group-title="USA | PLEX",US| TNA Wrestling Channel FHD ▪ᴘʟᴇx▪
@@ -17165,4 +17129,4 @@ http://vocotv.pro/live/nowak1/nowak1/782969.m3u8
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/29/1/christmas-tree-logo-png_seeklogo-294102.png" group-title="❄ Xmas Specials",❄  Ambient 5 ᴴᴰ
 http://vocotv.pro/live/nowak1/nowak1/782968.m3u8
 
-# Total: 8491
+# Total: 8473

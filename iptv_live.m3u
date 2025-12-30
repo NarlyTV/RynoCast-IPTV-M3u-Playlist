@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: iptv.darktv.eu:25461
-# Generated: 2025-12-29 18:32:57
+# Generated: 2025-12-30 07:15:35
 # Expires: 2026-02-05
 # Family Safe Edition
 # ==============================================
@@ -2077,15 +2077,13 @@ http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/149612.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/ketnet.png" group-title="BE - BELGIUM",(BE) Ketnet
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/7923.m3u8
 
-# --- BE - MUZIEK (4) ---
+# --- BE - MUZIEK (3) ---
 #EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/qmusic.png" group-title="BE - MUZIEK",(BE) Q-MUSIC
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/169030.m3u8
 #EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/deluxemusic.png" group-title="BE - MUZIEK",(BE) Deluxe Music HD
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/169029.m3u8
 #EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/radiocontact.png" group-title="BE - MUZIEK",(BE) Radio Contact HD
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/169025.m3u8
-#EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/radiocontact.png" group-title="BE - MUZIEK",(BE) Radio Contact Vision
-http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/169027.m3u8
 
 # --- BE - SPORT (31) ---
 #EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/dazn1hd.png" group-title="BE - SPORT",(BE) Dazn 1 FHD
@@ -8436,21 +8434,21 @@ http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/41887.m3u8
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/211803.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/sweden.png" group-title="SW - SPORT",✦✦✦✦✦ SWEDEN SPORTS ✦✦✦✦✦
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/39058.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/SWEDEN/viasat_fotball_hd.png" group-title="SW - SPORT",(SW) C More Fotboll
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/SWEDEN/viasat_fotball_hd.png" group-title="SW - SPORT",(SW) TV4 Fotboll
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/39033.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/SWEDEN/c_more_se_live_1.png" group-title="SW - SPORT",(SW) C More Live
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/SWEDEN/c_more_se_live_1.png" group-title="SW - SPORT",((SW) TV4 Live
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/39029.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/SWEDEN/c_more_se_live_2_hd.png" group-title="SW - SPORT",(SW) C More Live 2
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/SWEDEN/c_more_se_live_2_hd.png" group-title="SW - SPORT",(SW) TV4 Live 2
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/39074.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/SWEDEN/c_more_se_live_3_hd.png" group-title="SW - SPORT",(SW) C More Live 3 HD
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/SWEDEN/c_more_se_live_3_hd.png" group-title="SW - SPORT",(SW) TV4 Live 3
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/39073.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/SWEDEN/c_more_se_live_4_hd.png" group-title="SW - SPORT",(SW) C More Live 4
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/SWEDEN/c_more_se_live_4_hd.png" group-title="SW - SPORT",(SW) TV4 Live 4
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/39072.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/SWEDEN/c_more_se_live_5_hd.png" group-title="SW - SPORT",(SW) C More Live 5
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/SWEDEN/c_more_se_live_5_hd.png" group-title="SW - SPORT",(SW) TV4 Live 5
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/39041.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/SWEDEN/c_more_se_golf_hd.png" group-title="SW - SPORT",(SW) C More Golf
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/SWEDEN/c_more_se_golf_hd.png" group-title="SW - SPORT",(SW) TV4 Golf
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/39032.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/SWEDEN/c_more_se_hockey_hd.png" group-title="SW - SPORT",(SW) C More Hockey
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/SWEDEN/c_more_se_hockey_hd.png" group-title="SW - SPORT",(SW) TV4 Hockey
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/39059.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/SWEDEN/viasat_sport_se_hd.png" group-title="SW - SPORT",(SW) V Sport HD
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/39057.m3u8
@@ -8473,7 +8471,7 @@ http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/39053.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/SWEDEN/eurosport_fr_2_hd.png" group-title="SW - SPORT",(SW) Eurosport 2
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/39052.m3u8
 
-# --- SW : SWEDEN (38) ---
+# --- SW : SWEDEN (39) ---
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/SWEDEN/svt_2_hd.png" group-title="SW : SWEDEN",(SW) SVT1 HD+
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/134538.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/SWEDEN/svt_1_hd.png" group-title="SW : SWEDEN",(SW) SVT1 HD
@@ -8496,10 +8494,12 @@ http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/39122.m3u8
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/39071.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/SWEDEN/viasat_tv6_se.png" group-title="SW : SWEDEN",(SW) TV 6 HD
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/39120.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/svtb_svt24.png" group-title="SW : SWEDEN",(SW) SVT24 HD
-http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/39129.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/sjuan.png" group-title="SW : SWEDEN",(SW) Sjuan
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/39119.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/SWEDEN/viasat_tv8_se.png" group-title="SW : SWEDEN",(SW) TV8 4K+
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/39118.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/svtb_svt24.png" group-title="SW : SWEDEN",(SW) SVT24 HD
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/39129.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/kanal10norge.png" group-title="SW : SWEDEN",(SW) TV10 HD
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/39104.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/SWEDEN/tv_12_se.png" group-title="SW : SWEDEN",(SW) TV 12 HD
@@ -8551,7 +8551,7 @@ http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/39039.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/SWEDEN/bbc_brit_uk.png" group-title="SW : SWEDEN",(SW) BBC Brit
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/39106.m3u8
 
-# --- SWE - FILMS (11) ---
+# --- SWE - FILMS (10) ---
 #EXTINF:-1 tvg-logo="" group-title="SWE - FILMS",✦✦✦✦✦ SWEDEN FILM ✦✦✦✦✦
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/211798.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/SWEDEN/tv4_film.png" group-title="SWE - FILMS",(SW) TV4 Film
@@ -8560,8 +8560,6 @@ http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/39123.m3u8
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/39030.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/cmoreseries.png" group-title="SWE - FILMS",(SW) TV4 Series HD
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/39031.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/sjuan.png" group-title="SWE - FILMS",(SW) Sjuan
-http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/39119.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/viasatfilmfamilyhd.png" group-title="SWE - FILMS",(SW) V Family
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/39062.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/SWEDEN//viasat_series.png" group-title="SWE - FILMS",(SW) V Series
@@ -10599,4 +10597,4 @@ http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/153506.m3u8
 #EXTINF:-1 tvg-logo="" group-title="İR : PERSİAN",(IR) TIN TV
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/153497.m3u8
 
-# Total: 5150
+# Total: 5149

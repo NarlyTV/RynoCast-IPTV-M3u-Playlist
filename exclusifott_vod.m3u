@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: exclusifott.pro:80
-# Generated: 2025-12-29 18:36:20
+# Generated: 2025-12-30 07:10:09
 # Expires: 2026-05-21
 # Family Safe Edition
 # ==============================================
@@ -6367,7 +6367,9 @@ http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/1984014.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xyxAOTToALUkeFS9x5V6MOv8YWr.jpg" group-title="Movies | |EN| 4K CHILDREN",EN - The First Snow of Fraggle Rock 4K (2025)
 http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/1984033.mkv
 
-# --- Movies | |EN| 4K MOVIES (20) ---
+# --- Movies | |EN| 4K MOVIES (21) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o8pg20G67BGmQvRkXwstNre062J.jpg" group-title="Movies | |EN| 4K MOVIES",EN - Eternity 4K (2025)
+http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/1993845.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/udAxQEORq2I5wxI97N2TEqdhzBE.jpg" group-title="Movies | |EN| 4K MOVIES",EN - Five Nights at Freddy's 2 4K (2025)
 http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/1992360.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ArDLn658OjT3dMThIi4GDQJRuY3.jpg" group-title="Movies | |EN| 4K MOVIES",EN - Truth & Treason 4K (2025)
@@ -18045,4 +18047,4 @@ http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/35745
 #EXTINF:-1 tvg-logo="" group-title="Series | |RO| ROMANIAN SERIES",RO - Resident Evil: Infinite Darkness (2021)
 http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/35746
 
-# Total: 8975
+# Total: 8976

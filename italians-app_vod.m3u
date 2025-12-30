@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: italians-app.net:8080
-# Generated: 2025-12-29 18:36:02
+# Generated: 2025-12-30 07:11:25
 # Expires: 2026-01-21
 # Family Safe Edition
 # ==============================================
@@ -1847,9 +1847,13 @@ http://italians-app.net:8080/movie/hele/cart@/2034.mkv
 #EXTINF:-1 tvg-logo="n/A" group-title="Movies | NAPOLI",Tradimento
 http://italians-app.net:8080/movie/hele/cart@/2046.mkv
 
-# --- Movies | NETFLIX AMAZON AZIONE (1449) ---
+# --- Movies | NETFLIX AMAZON AZIONE (1451) ---
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/italians.jpg" group-title="Movies | NETFLIX AMAZON AZIONE",==== NETFLIX AZIONE ====
 http://italians-app.net:8080/movie/hele/cart@/62556.mkv
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/d82390e62bacdd72eedc596b056b3f14.jpg" group-title="Movies | NETFLIX AMAZON AZIONE",Kraven  Il cacciatore (2024)
+http://italians-app.net:8080/movie/hele/cart@/86272.mkv
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/da07e5e408526c8768a9b9a7ad13dc59.jpg" group-title="Movies | NETFLIX AMAZON AZIONE",Viking (2016)
+http://italians-app.net:8080/movie/hele/cart@/86273.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/f29c8dcee99b6b528b148c9ae65d58c1.jpg" group-title="Movies | NETFLIX AMAZON AZIONE",Sisu Il vendicatore (2025)
 http://italians-app.net:8080/movie/hele/cart@/86091.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/ed87d126dec972d80a3449ef532a28ed.jpg" group-title="Movies | NETFLIX AMAZON AZIONE",The Great Flood (2025)
@@ -4747,9 +4751,11 @@ http://italians-app.net:8080/movie/hele/cart@/35312.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2r3Z9Th1eplDoIQAtC14WONMrpI.jpg" group-title="Movies | NETFLIX AMAZON AZIONE",Thor: The Dark World (2013)
 http://italians-app.net:8080/movie/hele/cart@/6011.mkv
 
-# --- Movies | NETFLIX AMAZON BAMBINI (1423) ---
+# --- Movies | NETFLIX AMAZON BAMBINI (1424) ---
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/italians.jpg" group-title="Movies | NETFLIX AMAZON BAMBINI",====NETFLIX CARTONI BAMBINI====
 http://italians-app.net:8080/movie/hele/cart@/1658.mkv
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/aaea92c1734d24e5bbe64e0999f093ce.jpg" group-title="Movies | NETFLIX AMAZON BAMBINI",Balto (1995)
+http://italians-app.net:8080/movie/hele/cart@/86271.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/d18411f62533e55f32d9ec102a6e1139.jpg" group-title="Movies | NETFLIX AMAZON BAMBINI",Sauvages - Nel cuore della foresta (2024)
 http://italians-app.net:8080/movie/hele/cart@/86037.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/1b923736ce0621d8fc03c4f09776d574.jpg" group-title="Movies | NETFLIX AMAZON BAMBINI",Patema Sottosopra (2013)
@@ -19745,7 +19751,7 @@ http://italians-app.net:8080/movie/hele/cart@/46163.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/abb4cfb2e854c34820508bc95e63bd8e.jpg" group-title="Movies | NETFLIX AMAZON-Serie-Tv",The Protector 04x07
 http://italians-app.net:8080/movie/hele/cart@/46164.mkv
 
-# --- Movies | NETFLIX-AMAZON-SERIE (641) ---
+# --- Movies | NETFLIX-AMAZON-SERIE (643) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX-AMAZON-SERIE",Celebrity Hunted: Caccia all'uomo
 http://italians-app.net:8080/movie/hele/cart@/4.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX-AMAZON-SERIE",ZeroZeroZero
@@ -21028,6 +21034,10 @@ http://italians-app.net:8080/movie/hele/cart@/1582.mp4
 http://italians-app.net:8080/movie/hele/cart@/1589.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX-AMAZON-SERIE",Cashero
 http://italians-app.net:8080/movie/hele/cart@/1590.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX-AMAZON-SERIE",L amore e cieco Italia
+http://italians-app.net:8080/movie/hele/cart@/1591.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX-AMAZON-SERIE",The Walking Dead The Ones Who Live
+http://italians-app.net:8080/movie/hele/cart@/1594.mp4
 
 # --- Movies | PRIMAFILA (9) ---
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/8e9cf6b0712b46c62fd4b5f3e395fc1e.jpg" group-title="Movies | PRIMAFILA",PRIMAFILA 1HD Dimmelo sottovoce (2025)
@@ -21317,7 +21327,7 @@ http://italians-app.net:8080/movie/hele/cart@/1350.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-DISNEY-PLUS",BAT-FAM
 http://italians-app.net:8080/movie/hele/cart@/1550.mp4
 
-# --- Movies | SERIE-TV (496) ---
+# --- Movies | SERIE-TV (498) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV",Inhumans
 http://italians-app.net:8080/movie/hele/cart@/1.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV",Stargate Atlantis
@@ -22310,6 +22320,10 @@ http://italians-app.net:8080/movie/hele/cart@/1584.mp4
 http://italians-app.net:8080/movie/hele/cart@/1585.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV",Mistletoe Murders Delitti sotto l’albero
 http://italians-app.net:8080/movie/hele/cart@/1586.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV",The Walking Dead Daryl Dixon
+http://italians-app.net:8080/movie/hele/cart@/1592.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV",The Walking Dead Dead City
+http://italians-app.net:8080/movie/hele/cart@/1593.mp4
 
 # --- Movies | SERIE-TV-ITALIA (143) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV-ITALIA",Capri
@@ -32803,4 +32817,4 @@ http://italians-app.net:8080/movie/hele/cart@/2669.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | SerieTV",Timeless.S01E01 german
 http://italians-app.net:8080/movie/hele/cart@/20654.mkv
 
-# Total: 16370
+# Total: 16377

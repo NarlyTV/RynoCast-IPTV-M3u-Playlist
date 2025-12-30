@@ -1,13 +1,13 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: alblive.org:80
-# Generated: 2025-12-29 18:36:13
+# Generated: 2025-12-30 07:14:15
 # Expires: 2026-01-15
 # Family Safe Edition
 # ==============================================
 
 
-# --- Movies | Action (385) ---
+# --- Movies | Action (386) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lnWkyG3LLgbbrIEeyl5mK5VRFe4.jpg" group-title="Movies | Action",6 Underground (2019)
 http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/6091.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iBZhbCVhLpyxAfW1B8ePUxjScrx.jpg" group-title="Movies | Action",Godzilla (2014)
@@ -772,6 +772,8 @@ http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17374.mkv
 http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17375.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/d9CTnTHip1RbVi2OQbA2LJJQAGI.jpg" group-title="Movies | Action",The Union (2024)
 http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17377.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/h7wJI6mctrDJ9wMbFfgrBUTn1LT.jpg" group-title="Movies | Action",Lift (2024)
+http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17380.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | Action",Gotham Knights
 http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/70.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Action",Spy/Master
@@ -779,7 +781,7 @@ http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/99.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Action",Rome
 http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/128.mp4
 
-# --- Movies | Advanture (130) ---
+# --- Movies | Advanture (132) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aWxwnYoe8p2d2fcxOqtvAtJ72Rw.jpg" group-title="Movies | Advanture",Harry Potter and the Prisoner of Azkaban (2004)
 http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/6154.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wuMc08IPKEatf9rnMNXvIDxqP4W.jpg" group-title="Movies | Advanture",Harry Potter and the Philosopher's Stone (2001)
@@ -1040,6 +1042,10 @@ http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17044.mkv
 http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17108.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qyQcRGvdW3VtxHR4fSDgPOePEip.jpg" group-title="Movies | Advanture",The Peanut Butter Falcon (2019)
 http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17211.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/riYInlsq2kf1AWoGm80JQW5dLKp.jpg" group-title="Movies | Advanture",Enola Holmes (2020)
+http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17378.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/tegBpjM5ODoYoM1NjaiHVLEA0QM.jpg" group-title="Movies | Advanture",Enola Holmes 2 (2022)
+http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/17379.mkv
 
 # --- Movies | Animation (102) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6N3NKevt4l7jsBk5IcaNxwZIJnj.jpg" group-title="Movies | Animation",Angry Birds Space (2012)
@@ -10641,4 +10647,4 @@ http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/16122.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | Western",The English
 http://alblive.org:80/movie/Vahid:Pulja/bije:0I:jo/100.mp4
 
-# Total: 5287
+# Total: 5290
