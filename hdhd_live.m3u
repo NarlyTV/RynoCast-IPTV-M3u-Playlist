@@ -1,13 +1,13 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: hdhd.tk:80
-# Generated: 2025-12-31 07:05:45
+# Generated: 2025-12-31 18:34:14
 # Expires: 2027-10-14
 # Family Safe Edition
 # ==============================================
 
 
-# --- 24/7  (Shows) (133) ---
+# --- 24/7  (Shows) (135) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ooBGRQBdbGzBxAVfExiO8r7kloA.jpg" group-title="24/7  (Shows)",24/7 The Big Bang Theory
 http://hdhd.tk:80/live/Amanda1/Frechette1/26682.m3u8
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/98svGNqMY6XneGppSkVppRT3xF2.jpg" group-title="24/7  (Shows)",24/7 Shark Tank
@@ -274,6 +274,10 @@ http://hdhd.tk:80/live/Amanda1/Frechette1/398916.m3u8
 http://hdhd.tk:80/live/Amanda1/Frechette1/399092.m3u8
 #EXTINF:-1 tvg-logo="" group-title="24/7  (Shows)",24/7 Denzel Washington
 http://hdhd.tk:80/live/Amanda1/Frechette1/399093.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7  (Shows)",24/7 Tyler Perrys Young Dylan
+http://hdhd.tk:80/live/Amanda1/Frechette1/399410.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7  (Shows)",24/7 Tyler Perry's The Haves and the Have Nots
+http://hdhd.tk:80/live/Amanda1/Frechette1/399411.m3u8
 
 # --- 24/7 ( Documentary ) (8) ---
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w1280/aqM6QnuhSXzjHlKbXyKUqxaGiWu.jpg" group-title="24/7 ( Documentary )",24/7 Top Gear
@@ -7817,4 +7821,4 @@ http://hdhd.tk:80/live/Amanda1/Frechette1/330321.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Vietnam",VN FILM24H
 http://hdhd.tk:80/live/Amanda1/Frechette1/330322.m3u8
 
-# Total: 3814
+# Total: 3816

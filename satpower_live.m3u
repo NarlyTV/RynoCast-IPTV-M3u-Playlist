@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: satpower.shop:8080
-# Generated: 2025-12-30 07:08:50
+# Generated: 2025-12-31 18:32:48
 # Expires: 2026-03-06
 # Family Safe Edition
 # ==============================================
@@ -5367,7 +5367,7 @@ http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/259985.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/ExYu/sport/sportKlubFight.png" group-title="EXYU SPORTSKI",RS: SPORT KLUB FIGHT HD
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/552753.m3u8
 
-# --- HR CROATIA (47) ---
+# --- HR CROATIA (45) ---
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/L-sat05.01.21/Europe/Croatia/hrt-1-hr.png" group-title="HR CROATIA",HR: HRT 1 FHD
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/3016.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/L-sat05.01.21/Europe/Croatia/hrt-1-hr.png" group-title="HR CROATIA",HR: HRT 1 HD
@@ -5424,10 +5424,6 @@ http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/339063.m3u8
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/339051.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/Croatia/narodna.png" group-title="HR CROATIA",HR: NARODNA TV
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/339034.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/L-sat05.01.21/Europe/Croatia/nova_world_hr.png" group-title="HR CROATIA",HR: NOVA WORLD
-http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/454619.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/Croatia/tv-medjugorje.png" group-title="HR CROATIA",HR: TV MEDJUGORJE
-http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/356113.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/Croatia/osjecka.png" group-title="HR CROATIA",HR: OSJECKA
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/339032.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/Croatia/jadranTv.png" group-title="HR CROATIA",HR: JADRAN TV
@@ -10343,4 +10339,4 @@ http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/505896.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/USA/TVJ%20channel.png" group-title="US SPORTS",US: TVJ
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/282779.m3u8
 
-# Total: 5094
+# Total: 5092

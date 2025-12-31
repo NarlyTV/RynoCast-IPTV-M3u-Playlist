@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: cinefull.space:80
-# Generated: 2025-12-31 07:09:15
+# Generated: 2025-12-31 18:29:06
 # Expires: 2026-05-05
 # Family Safe Edition
 # ==============================================
@@ -26169,7 +26169,7 @@ http://cinefull.space:80/series/519117722/619615262/2240
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | AMC Plus",This Is Going to Hurt (2022)
 http://cinefull.space:80/series/519117722/619615262/2384
 
-# --- Series | Series | Amazon Prime Video (736) ---
+# --- Series | Series | Amazon Prime Video (737) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Amazon Prime Video",Absentia (2017)
 http://cinefull.space:80/series/519117722/619615262/4
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Amazon Prime Video",American Horror Story (2011)
@@ -27642,6 +27642,8 @@ http://cinefull.space:80/series/519117722/619615262/8091
 http://cinefull.space:80/series/519117722/619615262/8098
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Amazon Prime Video",MacGruber (2021)
 http://cinefull.space:80/series/519117722/619615262/8101
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Amazon Prime Video",Mistletoe Murders (2024)
+http://cinefull.space:80/series/519117722/619615262/8110
 
 # --- Series | Series | Apple TV Plus (242) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Apple TV Plus",Motel Bates (2013)
@@ -29301,7 +29303,7 @@ http://cinefull.space:80/series/519117722/619615262/7737
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Discovery Plus",Caca Tempestades (2025)
 http://cinefull.space:80/series/519117722/619615262/7922
 
-# --- Series | Series | Disney Plus (438) ---
+# --- Series | Series | Disney Plus (440) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Disney Plus",9-1-1 (2018)
 http://cinefull.space:80/series/519117722/619615262/2
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Disney Plus",Castle (2009)
@@ -30178,8 +30180,12 @@ http://cinefull.space:80/series/519117722/619615262/8039
 http://cinefull.space:80/series/519117722/619615262/8060
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Disney Plus",Its Always Sunny in Philadelphia (2005)
 http://cinefull.space:80/series/519117722/619615262/8074
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Disney Plus",Cirurgias e Artimanhas (2023)
+http://cinefull.space:80/series/519117722/619615262/8108
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Disney Plus",Made in Korea (2025)
+http://cinefull.space:80/series/519117722/619615262/8109
 
-# --- Series | Series | Dorama (648) ---
+# --- Series | Series | Dorama (649) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Dorama",Love Alarm (2019)
 http://cinefull.space:80/series/519117722/619615262/325
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Dorama",Tudo Bem Nao Ser Normal [L] (2020)
@@ -31476,6 +31482,8 @@ http://cinefull.space:80/series/519117722/619615262/8046
 http://cinefull.space:80/series/519117722/619615262/8052
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Dorama",Talvez Amanha (2025)
 http://cinefull.space:80/series/519117722/619615262/8069
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Dorama",Cashero (2025)
+http://cinefull.space:80/series/519117722/619615262/8107
 
 # --- Series | Series | Funimation Now (22) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Funimation Now",Dragon Ball Z (1989)
@@ -36221,7 +36229,7 @@ http://cinefull.space:80/series/519117722/619615262/8095
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Max",100 Dias para Morar Comecando do Zero (2020)
 http://cinefull.space:80/series/519117722/619615262/8096
 
-# --- Series | Series | Netflix (1511) ---
+# --- Series | Series | Netflix (1513) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Netflix",A Bíblia (2021)
 http://cinefull.space:80/series/519117722/619615262/3
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Netflix",Altered Carbon (2018)
@@ -39244,6 +39252,10 @@ http://cinefull.space:80/series/519117722/619615262/8103
 http://cinefull.space:80/series/519117722/619615262/8104
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Netflix",TURN Os Espioes de Washington (2014)
 http://cinefull.space:80/series/519117722/619615262/8105
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Netflix",A Filha do Mariachi (2025)
+http://cinefull.space:80/series/519117722/619615262/8106
+#EXTINF:-1 tvg-logo="" group-title="Series | Series | Netflix",So para Membros Palm Beach (2025)
+http://cinefull.space:80/series/519117722/619615262/8111
 
 # --- Series | Series | Outras Produtoras (745) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Outras Produtoras",3 Palavrinhas (2013)
@@ -41559,4 +41571,4 @@ http://cinefull.space:80/series/519117722/619615262/7441
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Univer",O Senhor e a Serva (2025)
 http://cinefull.space:80/series/519117722/619615262/7704
 
-# Total: 20732
+# Total: 20738

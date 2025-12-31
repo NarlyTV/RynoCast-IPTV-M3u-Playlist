@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: udsas.my:80
-# Generated: 2025-12-31 07:05:00
+# Generated: 2025-12-31 18:33:20
 # Expires: 2026-01-29
 # Family Safe Edition
 # ==============================================
@@ -1193,7 +1193,7 @@ http://udsas.my:80/movie/Camila/C1a2m3ila!/1219323.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w780/8jSNNh3tfQPyZxihqCUSSEt0rK2.jpg" group-title="Movies | Documentarios",Torre Greenfell: A Verdade por Trás do Desastre (2025)
 http://udsas.my:80/movie/Camila/C1a2m3ila!/1219329.mp4
 
-# --- Movies | Filmes | Acao (1808) ---
+# --- Movies | Filmes | Acao (1848) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w780/uvDTyyRpM8MenTBZwtBnn93VSoh.jpg" group-title="Movies | Filmes | Acao",Ataque Terrorista (2021)
 http://udsas.my:80/movie/Camila/C1a2m3ila!/1177750.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w780/qci9am94Atnlqwm0BlMqbme1bbB.jpg" group-title="Movies | Filmes | Acao",Rastro Mortal (2023)
@@ -4810,8 +4810,88 @@ http://udsas.my:80/movie/Camila/C1a2m3ila!/1420458.mp4
 http://udsas.my:80/movie/Camila/C1a2m3ila!/1420459.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iR1LbFdcCwNs1jYpb3ybWATPO6H.jpg" group-title="Movies | Filmes | Acao",Chacina de Sangue (2024)
 http://udsas.my:80/movie/Camila/C1a2m3ila!/1420460.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gQSUVGR80RVHxJywtwXm2qa1ebi.jpg" group-title="Movies | Filmes | Acao",Thelma & Louise (1991)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427430.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bMVA8186VPRgiUEkSTxRtoA3R1q.jpg" group-title="Movies | Filmes | Acao",Ligação Explosiva (2021)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427431.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nHzPcj6IvRfLM8AcTSh3l8cZGUc.jpg" group-title="Movies | Filmes | Acao",O Fantasma (2000)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427432.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nm9W2sSx73pLgcYtDoATR8N4jcr.jpg" group-title="Movies | Filmes | Acao",O Grande Desafio (1976)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427433.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vLbmmqa3Ys03biY6kkzMEHdIGBD.jpg" group-title="Movies | Filmes | Acao",Oldboy: Dias de Vingança (2013)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427448.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wPhyJrd4EVERGWrY1buXOzS4Mim.jpg" group-title="Movies | Filmes | Acao",Operação Corvo 2 (2009)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427532.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ncDikQpraKhZa6mEMzOZtyynf8D.jpg" group-title="Movies | Filmes | Acao",684: Unidade de Combate (2003)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427533.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zVDokwoLpVEVxYbX6wCHz35fHq1.jpg" group-title="Movies | Filmes | Acao",URI - Forças Especiais (2019)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427534.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1uJZLLhEs6CVyQWohaa7xqthdaq.jpg" group-title="Movies | Filmes | Acao",Repo Men: O Resgate de Órgãos (2010)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427535.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ry22efULBJNUS0IQDVCd6qJ2ECo.jpg" group-title="Movies | Filmes | Acao",Pushpa: The Rise (2021)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427536.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jGXOsufjobpLsNA9hdEIlXxGw1M.jpg" group-title="Movies | Filmes | Acao",Operação Corvo (2007)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427537.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AuEzNLF8yvzd169guYEFisqvy5z.jpg" group-title="Movies | Filmes | Acao",Max Steel (2016)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427538.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3KtcBsGc2i365cXOITuSjHqq8OS.jpg" group-title="Movies | Filmes | Acao",Teoria da Conspiração (1997)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427539.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tc3yGm9pRaY9nM9746hHE2Oe1jA.jpg" group-title="Movies | Filmes | Acao",Subway (1985)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427540.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="Movies | Filmes | Acao",O Guardião
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427541.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/74BXvAwd3XstKnpWuuwtN2ytYJG.jpg" group-title="Movies | Filmes | Acao",Dick Tracy, o Detetive (1937)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427542.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c9PnbhOA3mBLiaS4f5kkAb79xQs.jpg" group-title="Movies | Filmes | Acao",Fatal Fury 3: A Fúria (1994)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427543.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2CwjDztPws8TM9ly9KIzpFZbwCT.jpg" group-title="Movies | Filmes | Acao",Cortina de Fogo (1991)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427544.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jerDxzhAVtNGPtDV0n9ePWCLlyK.jpg" group-title="Movies | Filmes | Acao",Os Irmãos Grimm (2005)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427545.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Filmes | Acao",Um Tira do Outro Mundo
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427546.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gRMoHAeSYRZmiX45hwpEN1csd0G.jpg" group-title="Movies | Filmes | Acao",Os Bárbaros (1987)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427547.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p3VS8wXVk6mfInfeHSUl23VXPLA.jpg" group-title="Movies | Filmes | Acao",Operação Corvo 3: Explode (2014)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427548.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Filmes | Acao",A2 Racer - Riscando o Asfalto
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427549.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7txoUYvjP9UK5pVetfoOHDRjnyQ.jpg" group-title="Movies | Filmes | Acao",Hector e a Procura da Felicidade (2014)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427550.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Filmes | Acao",Território Inimigo
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427551.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/FepaiApo8Yr6pNIZIeYG5kW06J.jpg" group-title="Movies | Filmes | Acao",Ran (2018)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427552.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lMRW0oO8ptAn4Ciqr4Ojawa6GOB.jpg" group-title="Movies | Filmes | Acao",Gamer (2009)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427553.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j3iZy4nbUxMgL5TrroxeUvcTowg.jpg" group-title="Movies | Filmes | Acao",Simbad e a Princesa (1958)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427554.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Filmes | Acao",Robin Hood – O Invencível
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427555.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cBKhAlp6gdL8oKrT7CeTbH6zOnA.jpg" group-title="Movies | Filmes | Acao",Meu Nome é Coogan (1968)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427556.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eBRSPIULAFwRpuU27Y8jytsBxKl.jpg" group-title="Movies | Filmes | Acao",Leões e Cordeiros (2007)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427557.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/blkFzzbn4Z3by49dzUnupAu10CI.jpg" group-title="Movies | Filmes | Acao",Fuga à Meia-Noite (1988)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427558.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l7IVgnaZtnT7K0I7jsaZUAq90dy.jpg" group-title="Movies | Filmes | Acao",Rei David (1985)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427559.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Filmes | Acao",Highlander 3: O Feiticeiro
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427560.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/evJuLE8cXOWbfj9HTsxfsvSAJoz.jpg" group-title="Movies | Filmes | Acao",As Novas Viagens de Simbad (1974)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427561.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Filmes | Acao",Keanu: Cadê Meu Gato?!
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427562.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Filmes | Acao",O Escorpião Rei 5: O Livro das Almas
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427563.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Filmes | Acao",O Escorpião Rei 4: Na Busca Pelo Poder
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427564.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Filmes | Acao",O Escorpião Rei 2: A Saga de um Guerreiro
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427565.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Filmes | Acao",Bem-vindo à Selva
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427566.mp4
 
-# --- Movies | Filmes | Animacao (871) ---
+# --- Movies | Filmes | Animacao (872) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w780/9kzs6gPSOWqqjZz1eHWEvNTW9Dx.jpg" group-title="Movies | Filmes | Animacao",Wallace & Gromit - Avengança (2024)
 http://udsas.my:80/movie/Camila/C1a2m3ila!/1167329.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w780/238wu3QBbHxWiXkn3BmOrBesnwW.jpg" group-title="Movies | Filmes | Animacao",O Menino e o Mestre (2024)
@@ -6554,6 +6634,8 @@ http://udsas.my:80/movie/Camila/C1a2m3ila!/1420790.mp4
 http://udsas.my:80/movie/Camila/C1a2m3ila!/1420804.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org//t/p/w600_and_h900_bestv2/ipYHDeZQSm2NbGmtvxB587O8T3a.jpg" group-title="Movies | Filmes | Animacao",Pinóquio 3000
 http://udsas.my:80/movie/Camila/C1a2m3ila!/1420805.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9mq54oHD0uCUG0Rt7WI6bXAaPD7.jpg" group-title="Movies | Filmes | Animacao",Muppets: O Filme (1979)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427449.mp4
 
 # --- Movies | Filmes | Aventura (61) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w780/zmJNzjmWGwqKCNdUZ81mu53HtRg.jpg" group-title="Movies | Filmes | Aventura",Foxter & Max: Um Cachorro de Outro Mundo (2019)
@@ -6711,7 +6793,7 @@ http://udsas.my:80/movie/Camila/C1a2m3ila!/1218718.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ncqVGCX9P3EKQfsOXiB3XxQ0Dip.jpg" group-title="Movies | Filmes | Cinema",Zootopia: Essa Cidade é o Bicho (2016)
 http://udsas.my:80/movie/Camila/C1a2m3ila!/1424154.mp4
 
-# --- Movies | Filmes | Comedia (2076) ---
+# --- Movies | Filmes | Comedia (2142) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w780/ucQEdBDoOHis0u0pgLKkmunS8Gf.jpg" group-title="Movies | Filmes | Comedia",Um Sonho Chamado Fred (1991)
 http://udsas.my:80/movie/Camila/C1a2m3ila!/1185261.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w780/pJBhU5idnpKSmpm6KdFAliMdZiN.jpg" group-title="Movies | Filmes | Comedia",Não Sei o Que Fizemos na Noite Passada (2023)
@@ -10864,6 +10946,138 @@ http://udsas.my:80/movie/Camila/C1a2m3ila!/1420798.mp4
 http://udsas.my:80/movie/Camila/C1a2m3ila!/1420802.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w780/xasl8mg8odWgceBfHimz39smNjb.jpg" group-title="Movies | Filmes | Comedia",Bill (2015)
 http://udsas.my:80/movie/Camila/C1a2m3ila!/1420803.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t4UH0AJql4paQMq4Dlg1gk2tqhk.jpg" group-title="Movies | Filmes | Comedia",Capitão Fantástico (2016)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427434.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9EXnLLoSKOluLE60w77odBL9GJC.jpg" group-title="Movies | Filmes | Comedia",O Jogo da Paixão (1996)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427445.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yPiEIShDOkdHnpscRciqzDokOIv.jpg" group-title="Movies | Filmes | Comedia",Antes do Adeus (1977)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427450.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EQVxpdj2UeiSuFRVJBPXtVKDVI.jpg" group-title="Movies | Filmes | Comedia",Um Time Muito Louco Contra-Ataca (1998)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427581.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5P0ifasfWfBpb0aRpWLN1i8mGA9.jpg" group-title="Movies | Filmes | Comedia",Fábrica de Sonhos - Ouse Sonhar (2019)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427582.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iVUBHtvmzZPLyMWEpwngvNqnO3c.jpg" group-title="Movies | Filmes | Comedia",Desconstruindo Harry (1997)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427583.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qoNTI9cRj9pfsIPzTZxukc10hCC.jpg" group-title="Movies | Filmes | Comedia",Almas à Venda (2009)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427584.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mm4EvxBSsvIkx6ilaJJ8w5F6QpY.jpg" group-title="Movies | Filmes | Comedia",Benny & Joon - Corações em Conflito (1993)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427585.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eBGoEyYS6LxomhuAx02VaB1dOJ7.jpg" group-title="Movies | Filmes | Comedia",Uma Aventura no Natal (2012)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427586.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Filmes | Comedia",Passando dos Limites
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427587.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tWI3MWYjo35TTb1sNNtgRjEyAp5.jpg" group-title="Movies | Filmes | Comedia",O Retorno dos Tomates Assassinos (1988)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427588.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rhPsa3pmuTw2hgNs02J87nFSI1T.jpg" group-title="Movies | Filmes | Comedia",O Projeto de Natal (2016)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427589.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nimPeNINKgYaUtiXv7veOzoPiYL.jpg" group-title="Movies | Filmes | Comedia",Ninguém Segura Essa Garota (1987)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427590.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/irLsz6AGWhx0cfLAvsU9HvcL4FF.jpg" group-title="Movies | Filmes | Comedia",Gata para Caraca (2008)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427591.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6D6BN5RSoKeXGqecIYiVB5MxAlN.jpg" group-title="Movies | Filmes | Comedia",Febre em Ibiza (2013)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427592.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Filmes | Comedia",Esqueça Paris
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427593.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dJZpwgtQpy86s6TnUd6rGTDNUbU.jpg" group-title="Movies | Filmes | Comedia",Assim é a Vida (2017)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427594.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2owUFcJsLJw7e6k6CliDRWkoGX4.jpg" group-title="Movies | Filmes | Comedia",As Novas Aventuras do Fusca (1974)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427595.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A3S31MgxAzfqouAqxGLuQBJVPEm.jpg" group-title="Movies | Filmes | Comedia",Não Somos Anjos (1989)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427596.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/js7O06FmO3y1e0MUifdA6yuSNLY.jpg" group-title="Movies | Filmes | Comedia",Tiny Toon em Uma Noite e Tanto (1995)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427597.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/alJty4iW9WAxYy6dGKoFknYs1d2.jpg" group-title="Movies | Filmes | Comedia",Uma História de Natal (1983)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427598.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bA1AVuxElVWMZumMoxTeKx3ztbF.jpg" group-title="Movies | Filmes | Comedia",Terapia do Amor (2005)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427599.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Filmes | Comedia",Papai Noel das Cavernas
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427600.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Filmes | Comedia",O Verdadeiro Sentido do Amor
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427601.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nqWTahLrmio28DjnxCuMiztIy1.jpg" group-title="Movies | Filmes | Comedia",O Papai Noel Trapalhão (2000)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427602.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Filmes | Comedia",O Garoto do Futuro 2
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427603.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bQ1afxsIZWtkiRyb5PAom1GPfgX.jpg" group-title="Movies | Filmes | Comedia",A Era do Rádio (1987)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427604.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bzQCsmvPJU0L4tnPtQHlVliw2zn.jpg" group-title="Movies | Filmes | Comedia",Uma Mãe em Apuros (2009)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427605.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Filmes | Comedia",Trair é Uma Arte
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427606.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eWuvKmyyYqb1ukPoZN1MQ8Hjumi.jpg" group-title="Movies | Filmes | Comedia",O Lagosta (2015)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427607.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iq9CcMYoNUpLbmPQPMX0yGmSTGi.jpg" group-title="Movies | Filmes | Comedia",O Cão de Guarda (1992)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427608.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Filmes | Comedia",Delírios
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427609.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Filmes | Comedia",Billy Madison: Um Herdeiro Bobalhão
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427610.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Filmes | Comedia",O Mistério dos Escavadores
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427611.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Filmes | Comedia",O Julgamento do Diabo
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427612.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Filmes | Comedia",Goosebumps 2: Halloween Assombrado
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427613.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Filmes | Comedia",Clube dos Divorciados
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427614.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Filmes | Comedia",Absolutely Fabulous: O Filme
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427615.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Filmes | Comedia",Este Velório é uma Parada
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427616.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Filmes | Comedia",Uma Mulher para Dois
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427617.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rml1HBcC7lmRhyK1IgPDI1zl9k6.jpg" group-title="Movies | Filmes | Comedia",Um Detetive Vidente (1989)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427618.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wvZWPEagBVLhPO6QsmPem1YhxRu.jpg" group-title="Movies | Filmes | Comedia",Pense como Eles Também (2014)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427619.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/km08ZF8kRKGTJbITfnW3jj1fjmI.jpg" group-title="Movies | Filmes | Comedia",A Malandrinha (1991)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427620.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t9AiFl6kt5vMhXzMHTZ6651TECl.jpg" group-title="Movies | Filmes | Comedia",Pee-wee: Meu Filme Circense (1988)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427621.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nDUGtkcj0wg8jPul4cUNlxabY4S.jpg" group-title="Movies | Filmes | Comedia",O Dono da Festa 3: A Vez dos Calouros (2009)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427622.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sZUW4xcPoQjwlall4nwroXEcfcd.jpg" group-title="Movies | Filmes | Comedia",O Dono da Festa 2 (2006)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427623.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x6vTdWJwa5Se5LnyB7EZ9B0MHp3.jpg" group-title="Movies | Filmes | Comedia",A Hora do Rango (2005)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427624.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jNao464ZTwWUWr3uJJ8swVgaKd9.jpg" group-title="Movies | Filmes | Comedia",Ed Wood (1994)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427625.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pClXHiv9UMWZBN6OjnNk10h0qPw.jpg" group-title="Movies | Filmes | Comedia",A Boneca Que Virou Gente (2000)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427626.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kamLDqtDJWCSqyPATb3b2kVIXeh.jpg" group-title="Movies | Filmes | Comedia",The Rocky Horror Picture Show (1975)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427627.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dwF82WRNRVwhLwA21aSAnMrUevc.jpg" group-title="Movies | Filmes | Comedia",As Grandes Aventuras de Pee-wee (1985)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427628.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u3Na6RxYBgOQZHKCzRFDjO9dUwa.jpg" group-title="Movies | Filmes | Comedia",Muppets do Espaço (1999)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427629.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9JSnXExFSIAwr2ikpplI3HtSfS0.jpg" group-title="Movies | Filmes | Comedia",Meu Amigo Harvey (1950)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427630.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jyPtb3SA0mq4FGJJOGxz3sYnPPc.jpg" group-title="Movies | Filmes | Comedia",Funcionário do Mês (2006)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427631.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eds4cxarUjHn7OdDd26SauphUnR.jpg" group-title="Movies | Filmes | Comedia",Boa Viagem, Charlie Brown (1980)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427632.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rYfgo449GPVpfPCtZUUVFf2szsg.jpg" group-title="Movies | Filmes | Comedia",Sonho de Verão (1990)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427633.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jsGvtmss0RvDhYeD66GP4lDRS6V.jpg" group-title="Movies | Filmes | Comedia",Quem Vê Cara Não Vê Coração (1989)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427634.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wvZtGm6gndgIr2vOQ4T8z2rGh0V.jpg" group-title="Movies | Filmes | Comedia",O Milagre Veio do Espaço (1987)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427635.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/niSHZPXqfc5DXs2VkeRrYQk5MpU.jpg" group-title="Movies | Filmes | Comedia",Novo no Pedaço (2002)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427636.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gLA1BStjXNkoSPPPtwobE9xdY73.jpg" group-title="Movies | Filmes | Comedia",As Aventuras de Robin Hood (1938)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427637.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uAeLYfe1M40mUolNwtoqeOzKI04.jpg" group-title="Movies | Filmes | Comedia",Pee-Wee: O Inverno que Mudou Minha Vida (2012)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427638.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e1RwpBO8ZFViQQYoTuiGxyTjr3d.jpg" group-title="Movies | Filmes | Comedia",O Batedor de Carteiras (1959)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427639.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iOsbMseruPqoMRcrGsdkOvKb8GY.jpg" group-title="Movies | Filmes | Comedia",Apaixonados: O Filme (2016)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427640.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dgbLnnEJIGldXOMt6OWy3X1l0AC.jpg" group-title="Movies | Filmes | Comedia",Palco de Ilusões (1988)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427641.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vDanYhQjhWVStfswfuaUG83kKvE.jpg" group-title="Movies | Filmes | Comedia",Os Cosmonautas (1962)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427642.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Filmes | Comedia",Austenland
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427643.mp4
 
 # --- Movies | Filmes | Crime (177) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w780/asP02uJm1ziJnm7FY3U7lvVAt5f.jpg" group-title="Movies | Filmes | Crime",Espionagem em Londres (2020)
@@ -11221,7 +11435,7 @@ http://udsas.my:80/movie/Camila/C1a2m3ila!/1221951.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mymTjvZeg9hkSSofg78nH0GOtLS.jpg" group-title="Movies | Filmes | Crime",Oito Mulheres e um Segredo (2018)
 http://udsas.my:80/movie/Camila/C1a2m3ila!/1420386.mp4
 
-# --- Movies | Filmes | Drama (2424) ---
+# --- Movies | Filmes | Drama (2507) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w780/Qf0jXym7ayEfkUHK4aMffALj2a.jpg" group-title="Movies | Filmes | Drama",Somos Marshall (2006)
 http://udsas.my:80/movie/Camila/C1a2m3ila!/1194091.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w780/4th6QFCdko42nuAVK9yu2d9ikFQ.jpg" group-title="Movies | Filmes | Drama",Cidades de Papel (2015)
@@ -16070,6 +16284,172 @@ http://udsas.my:80/movie/Camila/C1a2m3ila!/1222611.mp4
 http://udsas.my:80/movie/Camila/C1a2m3ila!/1420392.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w780/kCfyg4XqLrmg8bjLoMly70Lcxjq.jpg" group-title="Movies | Filmes | Drama",O Chamado de Deus de Angus Buchan (2012) (2012)
 http://udsas.my:80/movie/Camila/C1a2m3ila!/1420761.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b4ISPeYaEYyu64wYDIa0o0RZCHt.jpg" group-title="Movies | Filmes | Drama",Ela é Demais para Mim (2010)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427435.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lik7qbo2k5uslDFssFFMG88oTWW.jpg" group-title="Movies | Filmes | Drama",Na Natureza Selvagem (2007)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427436.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eMv4CMywwGEHis3yxQ96Hf4djvy.jpg" group-title="Movies | Filmes | Drama",Terei o Direito de Matar? (1964)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427644.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vHFsc0v5qufPeF5SMZb5tEbO7by.jpg" group-title="Movies | Filmes | Drama",Pode me Chamar de Noel (2001)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427645.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/48URaCOd0EOJrBoX0pIyqtNfAK4.jpg" group-title="Movies | Filmes | Drama",Nos Passos de Emma (2018)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427646.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Filmes | Drama",Lev Yashin - O Aranha Negra
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427647.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wnzOGO1LyeIEmjJgcjf7gt7Vdy4.jpg" group-title="Movies | Filmes | Drama",Amargo Regresso (1978)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427648.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4U2JKmNZLs6CbgaDrZupeB40N57.jpg" group-title="Movies | Filmes | Drama",Agora e Sempre aka Amigas Para Sempre (1995)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427649.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Filmes | Drama",A Tortura do Silêncio
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427650.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/spR7fNK7vzp8uhPakXsFHbF9uKf.jpg" group-title="Movies | Filmes | Drama",8 Segundos (1994)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427651.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Filmes | Drama",Sem Medo no Coração
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427652.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Filmes | Drama",Segredo de Família
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427653.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9pTUCXcMDZurDmZRtOrnk9mjSFH.jpg" group-title="Movies | Filmes | Drama",Batendo na Porta do Céu (1997)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427654.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Filmes | Drama",Não Quero Crescer
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427655.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7uBV4ZkpYl8RNJtIs7qTFOC4T8B.jpg" group-title="Movies | Filmes | Drama",A Cruz de Ferro (1977)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427656.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Filmes | Drama",Moulin Rouge: Amor em Vermelho
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427657.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Filmes | Drama",Irreversível
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427658.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cHRieEBkLKEGnT8bAjSHNCA33Cj.jpg" group-title="Movies | Filmes | Drama",Estarei de Volta no Natal (2019)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427659.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hKeHTrRZLfheKjn2zKvxdOzCnM6.jpg" group-title="Movies | Filmes | Drama",A História de Hachiko (1987)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427660.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Filmes | Drama",Tuff Turf: O Rebelde
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427661.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Filmes | Drama",Tudo pela Vitória
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427662.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Filmes | Drama",Raça
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427663.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Filmes | Drama",Purple Rain
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427664.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Filmes | Drama",O Segredo Escarlate
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427665.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Filmes | Drama",Ligações Perigosas
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427666.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Filmes | Drama",Inverno da Alma
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427667.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9WpKm32evZP603b0gBCI1pS1hlg.jpg" group-title="Movies | Filmes | Drama",Trocas Macabras (1993)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427668.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mRTWj0aQYPG4HMTC1PCjsizPIOm.jpg" group-title="Movies | Filmes | Drama",Entre o Céu e o Inferno (2006)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427669.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wH60gUc3NydFyunK56NP4U693ya.jpg" group-title="Movies | Filmes | Drama",Lara (2019)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427670.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9uFLziWGomGT6j1y40xhUC3kRZm.jpg" group-title="Movies | Filmes | Drama",Código de Silêncio (2017)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427671.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Filmes | Drama",Quando o Amor Não É Suficiente
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427672.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/buoZ9K8Z7yZ4nATcv5SkFxcSrNz.jpg" group-title="Movies | Filmes | Drama",O Santo de Todos - Claret (2021)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427673.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g8dt5DAhICrzSxH0v67ADS3259O.jpg" group-title="Movies | Filmes | Drama",Casablanca (1943)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427674.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ba61eYtWcDd4JyreXake4bICwY8.jpg" group-title="Movies | Filmes | Drama",Segundas Intenções 3 (2004)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427675.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eodvYgqvqQylOWsB9CJE637AxRR.jpg" group-title="Movies | Filmes | Drama",Get on Up: A História de James Brown (2014)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427676.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cvFKEpXuaHNFdZ5ymLlgstcItes.jpg" group-title="Movies | Filmes | Drama",Um Breve Encontro (1968)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427677.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lLeWJU33HgfWTnrOcaNBR5fUcF1.jpg" group-title="Movies | Filmes | Drama",Touro Indomável (1980)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427678.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwVwwHjXw8c7U3gYZoO4MeLnn7.jpg" group-title="Movies | Filmes | Drama",Sem Medo de Viver (1993)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427679.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aIcXXH4hBL2XqeWLNHlR85bGr6.jpg" group-title="Movies | Filmes | Drama",Perversa Paixão (1971)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427680.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mAuvnGjGVx67ZkzTKhXJSAYuzF7.jpg" group-title="Movies | Filmes | Drama",O Computador de Tênis (1969)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427681.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sXS96Tzh0FFnVPvyHgFw17dNTaG.jpg" group-title="Movies | Filmes | Drama",O Último Rei da Escócia (2006)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427682.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zSgNp5qN3PPAY75NvJ06DoU6VKP.jpg" group-title="Movies | Filmes | Drama",Um Método Perigoso (2011)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427684.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hNjKlfnPKvmElGBAj8QgIoRmpP1.jpg" group-title="Movies | Filmes | Drama",Durval Discos (2002)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427685.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Filmes | Drama",Para Ter Onde Ir
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427686.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s9fBm0PL1xdVVNKCFdKN7tb34uB.jpg" group-title="Movies | Filmes | Drama",O Quarto de Vidro (2019)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427687.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k9urO3enqeMgSjb6br1iSUj4Wq7.jpg" group-title="Movies | Filmes | Drama",O Homem da Máscara de Ferro (1998)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427688.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6GzluNr0Io4M3JAJn2IjGxyQ56k.jpg" group-title="Movies | Filmes | Drama",Garota Enxuta (1959)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427689.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t5NEDjcTB75322aCiwtVTFbJMiX.jpg" group-title="Movies | Filmes | Drama",Coco Antes de Chanel (2009)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427690.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Filmes | Drama",Agnus Dei
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427691.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gF9Q4OpwpPrAbUDB32adgCNAznS.jpg" group-title="Movies | Filmes | Drama",A Via Láctea (2007)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427692.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w4dK2zv8KHixXNW6e5qz4fPhfgS.jpg" group-title="Movies | Filmes | Drama",Paraísos Artificiais (2012)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427693.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qRnFwiqOSsQ5FAfPZ79ZWUzFZLJ.jpg" group-title="Movies | Filmes | Drama",Fora da Jogada (1988)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427694.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5om4ez1iIj6AzrJuXuhozDPGG0s.jpg" group-title="Movies | Filmes | Drama",Lobos (2014)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427695.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rX0AOLv1PORi7I88WPp1mEX4BWK.jpg" group-title="Movies | Filmes | Drama",Truman (2015)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427696.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3BkVOKJjlXoLRlMrWDDujIudPuD.jpg" group-title="Movies | Filmes | Drama",Encontro Selvagem (2015)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427697.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Filmes | Drama",Crianças de Valor
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427698.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Filmes | Drama",Cidade das Ilusões
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427699.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hkbKK59BKH4HFf4e0OvOyGuWmu8.jpg" group-title="Movies | Filmes | Drama",Ao Mestre, Com Carinho (1967)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427700.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yqUf4l6UuqCUKs7cVH879anIoC6.jpg" group-title="Movies | Filmes | Drama",A Última Tentação de Cristo (1988)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427701.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/357X8okcnrJDvWXmQS8doahfPJj.jpg" group-title="Movies | Filmes | Drama",Um Sonho de Amor (2010)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427702.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mzNe2RAZi19Uk1eqj8fE9oPkP1d.jpg" group-title="Movies | Filmes | Drama",Sangue & Chocolate (2007)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427703.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5djprMW1NpRliuU11W1uMjxiqpC.jpg" group-title="Movies | Filmes | Drama",Apenas uma Chance (2013)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427704.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Filmes | Drama",O Confidente da Rainha
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427705.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Filmes | Drama",Insensata Paixão
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427706.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Filmes | Drama",Avenida
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427707.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Filmes | Drama",A Jovem Rainha Vitória
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427708.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Filmes | Drama",Regras da Atração
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427709.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/baANa3HUBGqtsZmNVINhN2EOXTQ.jpg" group-title="Movies | Filmes | Drama",Missão Especial (2004)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427710.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Filmes | Drama",Diário de uma Louca
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427711.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uyYRIoFBurYQp0izgoWbSzvQrI6.jpg" group-title="Movies | Filmes | Drama",Vidas Partidas (2016)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427712.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5DPz4InO3UUY94l2PT1jH6PsPFe.jpg" group-title="Movies | Filmes | Drama",Paulo, Apóstolo de Cristo (2018)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427713.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Filmes | Drama",O Maníaco do Facebook
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427714.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Filmes | Drama",O Desejo de Saiuri
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427715.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Filmes | Drama",Girl Lost - A Garota de Programa
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427716.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Filmes | Drama",Garota Fantástica
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427717.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fkw20QcK14ejcFmCqpqaOh25xrj.jpg" group-title="Movies | Filmes | Drama",Freud: Além da Alma (1962)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427718.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Al78sZ7deibc0u3eIJJDABvrAe3.jpg" group-title="Movies | Filmes | Drama",Esquentando o Alasca (1999)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427719.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o2qTYlB7N3W4btFfR8InAR8EAmM.jpg" group-title="Movies | Filmes | Drama",A Letra Escarlate (1995)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427720.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1oO8H4gWRUueJ8Xb8FrAxhzdy4v.jpg" group-title="Movies | Filmes | Drama",Vida Selvagem (1984)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427721.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8SELC4XCKXOgjqPAyjxQbhvx3CU.jpg" group-title="Movies | Filmes | Drama",Um Crime na Confeitaria (2015)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427722.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aVdrnRbP38f2R0u9OxqRUC8Wr09.jpg" group-title="Movies | Filmes | Drama",A Segunda Guerra Civil (1997)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427723.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ThOZmIQqYHinYo9bb2UHx9Q9Rn.jpg" group-title="Movies | Filmes | Drama",Cidade do Sol (2015)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427724.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aOp7kLTkp1UAT6LjTX5V7rlnGqs.jpg" group-title="Movies | Filmes | Drama",Chuva de Chumbo (1986)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427725.mp4
 
 # --- Movies | Filmes | Família (77) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w780/mJfcvlF8B1bOYu7T0yDgoLL1HX3.jpg" group-title="Movies | Filmes | Família",Em Seus Passos, O Que Faria Jesus? (2010)
@@ -16227,7 +16607,7 @@ http://udsas.my:80/movie/Camila/C1a2m3ila!/1163774.mp4
 #EXTINF:-1 tvg-logo="http://gstaticontent.com/images/ecd463268a54bf44062ecd91438a1b7e.jpg" group-title="Movies | Filmes | Família",Felix E O Tesouro de Morga
 http://udsas.my:80/movie/Camila/C1a2m3ila!/1163779.mp4
 
-# --- Movies | Filmes | Fantasia (364) ---
+# --- Movies | Filmes | Fantasia (365) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w780/hqsoKyfHnXkB11nrHkMzHXHvHUl.jpg" group-title="Movies | Filmes | Fantasia",Violet no Mundo da Fantasia (2023)
 http://udsas.my:80/movie/Camila/C1a2m3ila!/1170896.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w780/qcaKkLwIXCAxJtpetVYHniCvLZj.jpg" group-title="Movies | Filmes | Fantasia",Wicked (2024)
@@ -16956,8 +17336,10 @@ http://udsas.my:80/movie/Camila/C1a2m3ila!/1216993.mp4
 http://udsas.my:80/movie/Camila/C1a2m3ila!/1420387.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eUMsZbnhquxIpr7lV5w78P2P7CH.jpg" group-title="Movies | Filmes | Fantasia",Nanny McPhee: A Babá Encantada (2005)
 http://udsas.my:80/movie/Camila/C1a2m3ila!/1420388.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aAXqH3sJRzlAxQzPqhAwpgZTQw1.jpg" group-title="Movies | Filmes | Fantasia",Cidade das Sombras (1998)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427427.mp4
 
-# --- Movies | Filmes | Faroeste (108) ---
+# --- Movies | Filmes | Faroeste (110) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w780/4WUev9jg54tEmiBRBfOYnR1Q7we.jpg" group-title="Movies | Filmes | Faroeste",Os Mortos Não Matam (2024)
 http://udsas.my:80/movie/Camila/C1a2m3ila!/1163783.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w780/tr8LOwkfUHx2W6SB9NPoU7vi4XB.jpg" group-title="Movies | Filmes | Faroeste",Estranha Forma de Vida (2023)
@@ -17174,8 +17556,12 @@ http://udsas.my:80/movie/Camila/C1a2m3ila!/1164252.mp4
 http://udsas.my:80/movie/Camila/C1a2m3ila!/1164256.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w780/nKY2FQm7GYtGPkxSDkN9lh6Mogm.jpg" group-title="Movies | Filmes | Faroeste",A Balada do Pistoleiro (1995)
 http://udsas.my:80/movie/Camila/C1a2m3ila!/1164261.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ar63Sx8jeqk0OOu2uchS477S2zE.jpg" group-title="Movies | Filmes | Faroeste",Django Livre (2012)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427420.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3eK3819rrjVeVTmACUHa7SQIA1d.jpg" group-title="Movies | Filmes | Faroeste",Sete Homens e Um Destino (2016)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427421.mp4
 
-# --- Movies | Filmes | Ficcao (269) ---
+# --- Movies | Filmes | Ficcao (270) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w780/hXXKlr7GZnPG6yr1QraAMGyhsQG.jpg" group-title="Movies | Filmes | Ficcao",Loop Infinito (2024)
 http://udsas.my:80/movie/Camila/C1a2m3ila!/1161560.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w780/p8CHaGudwUzBSU7dTjzMd71Iv4M.jpg" group-title="Movies | Filmes | Ficcao",Venom: A Última Rodada (2024)
@@ -17714,8 +18100,10 @@ http://udsas.my:80/movie/Camila/C1a2m3ila!/1222717.mp4
 http://udsas.my:80/movie/Camila/C1a2m3ila!/1222723.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w780/ri3Gu1dYMxDcT0t4sUi0Aqf7MRS.jpg" group-title="Movies | Filmes | Ficcao",Star Wars: Episódio II - Ataque dos Clones (2002)
 http://udsas.my:80/movie/Camila/C1a2m3ila!/1222728.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8nBuPCAXLFSuUBjO1WvJ2blEVmK.jpg" group-title="Movies | Filmes | Ficcao",O Sobrevivente (2025)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427418.mp4
 
-# --- Movies | Filmes | Guerra (77) ---
+# --- Movies | Filmes | Guerra (78) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w780/kirufy0MfyDja7ZHP9GmfjoOO3G.jpg" group-title="Movies | Filmes | Guerra",Pássaro Branco: Uma História de Extraordinário (2023)
 http://udsas.my:80/movie/Camila/C1a2m3ila!/1163107.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w780/jB096esffwNRFO65QcNTAPAfIX0.jpg" group-title="Movies | Filmes | Guerra",Número 24 (2024)
@@ -17870,6 +18258,8 @@ http://udsas.my:80/movie/Camila/C1a2m3ila!/1163411.mp4
 http://udsas.my:80/movie/Camila/C1a2m3ila!/1163416.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w780/rEjApeKwpghfFY72XPjNMI7bCGM.jpg" group-title="Movies | Filmes | Guerra",O Soldado que Não Existiu (2022)
 http://udsas.my:80/movie/Camila/C1a2m3ila!/1163420.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kirufy0MfyDja7ZHP9GmfjoOO3G.jpg" group-title="Movies | Filmes | Guerra",Pássaro Branco: Uma História de Extraordinário (2023)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427419.mp4
 
 # --- Movies | Filmes | Legendados (319) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w780/sivfft3vrFMW7mGaNWR8DdI96eF.jpg" group-title="Movies | Filmes | Legendados",Vida Eterna (2022)
@@ -19291,7 +19681,7 @@ http://udsas.my:80/movie/Camila/C1a2m3ila!/1222870.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w780/s2ixc3E4bmr3lqJ3i15rgjWV39f.jpg" group-title="Movies | Filmes | Nacionais",Os Sonhos de um Sonhador - A História de Frank Aguiar (2015)
 http://udsas.my:80/movie/Camila/C1a2m3ila!/1222873.mp4
 
-# --- Movies | Filmes | Religiosos (98) ---
+# --- Movies | Filmes | Religiosos (99) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w780/dadAr4WuTksEGWU9tlQUV3I4Uc7.jpg" group-title="Movies | Filmes | Religiosos",Maria e José - Uma Adaptação da Novela Jesus (2024)
 http://udsas.my:80/movie/Camila/C1a2m3ila!/1166867.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w780/bk68yiDGr4saE6ICqdBWvt48CmG.jpg" group-title="Movies | Filmes | Religiosos",A Criação (2023)
@@ -19488,8 +19878,10 @@ http://udsas.my:80/movie/Camila/C1a2m3ila!/1167310.mp4
 http://udsas.my:80/movie/Camila/C1a2m3ila!/1167314.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w780/8FCkStF9Cy3o5TtV4jBAZqA2qYF.jpg" group-title="Movies | Filmes | Religiosos",Sansão (2018)
 http://udsas.my:80/movie/Camila/C1a2m3ila!/1167319.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fVHMCQN4Grwf2SPLwWAM3tlVchB.jpg" group-title="Movies | Filmes | Religiosos",Barrabás (1919)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427425.mp4
 
-# --- Movies | Filmes | Romance (565) ---
+# --- Movies | Filmes | Romance (571) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w780/wadLTGQDiHCPndo6rPHKWCpUZql.jpg" group-title="Movies | Filmes | Romance",Uma Razão para Viver (2017)
 http://udsas.my:80/movie/Camila/C1a2m3ila!/1164521.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w780/nSCS70pAmx55ViQvvzokWdzUzBi.jpg" group-title="Movies | Filmes | Romance",Os Escritos Secretos (2017)
@@ -20620,8 +21012,20 @@ http://udsas.my:80/movie/Camila/C1a2m3ila!/1223233.mp4
 http://udsas.my:80/movie/Camila/C1a2m3ila!/1223240.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w780/1MSFfjvgf9auNANWcaGTvzf1TcW.jpg" group-title="Movies | Filmes | Romance",Copenhagen (2014)
 http://udsas.my:80/movie/Camila/C1a2m3ila!/1223247.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f6Zj7GrpGd4haHvGgBkSdL5AhsB.jpg" group-title="Movies | Filmes | Romance",Orgulho e Compaixão (2022)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427422.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/GDqI9UHNVugmkcUEg8SiOpvLKJ.jpg" group-title="Movies | Filmes | Romance",Depois da Tempestade (2015)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427423.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9b9RYlZ6CXCNl6BlgdmCboyFkdt.jpg" group-title="Movies | Filmes | Romance",Depois Daquela Montanha (2017)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427424.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rQCWA0nka53WmQuCZfdMZUVJljH.jpg" group-title="Movies | Filmes | Romance",O Pecado Mora ao Lado (1955)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427443.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/emmA7qawQtij9QB6nx1JdSOfiXw.jpg" group-title="Movies | Filmes | Romance",Refém da Paixão (2013)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427444.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uT5Qn0fle9iANAWQ5DSSEK2yfBD.jpg" group-title="Movies | Filmes | Romance",Sonho de uma Noite de Verão (1999)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427451.mp4
 
-# --- Movies | Filmes | Suspense (621) ---
+# --- Movies | Filmes | Suspense (623) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w780/43xNnRmhkVQ3YhWiz6yX7gCGpfM.jpg" group-title="Movies | Filmes | Suspense",Meu Filho (2021)
 http://udsas.my:80/movie/Camila/C1a2m3ila!/1172628.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w780/1MyK6EuOQGCAZQdH9nWwqpZ8y6h.jpg" group-title="Movies | Filmes | Suspense",Assassinato no Expresso do Oriente (2017)
@@ -21864,8 +22268,12 @@ http://udsas.my:80/movie/Camila/C1a2m3ila!/1223347.mp4
 http://udsas.my:80/movie/Camila/C1a2m3ila!/1223354.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q9dJSPEBJXblcxbrWAoSwQv69MB.jpg" group-title="Movies | Filmes | Suspense",Darkland: O Retorno (2023)
 http://udsas.my:80/movie/Camila/C1a2m3ila!/1420389.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w6lbMbwYFQPKarDTvVTWNSVBDXO.jpg" group-title="Movies | Filmes | Suspense",A Perseguição (2024)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427428.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mIlCgd51B5Ssms0Q95FjPPQqM7P.jpg" group-title="Movies | Filmes | Suspense",Hackers - Piratas de Computador (1995)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427429.mp4
 
-# --- Movies | Filmes | Terror (1260) ---
+# --- Movies | Filmes | Terror (1265) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w780/7HKgVo8jBISdqxtn4h9CnEgFrKh.jpg" group-title="Movies | Filmes | Terror",O Anel Amaldiçoado (2023)
 http://udsas.my:80/movie/Camila/C1a2m3ila!/1205543.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w780/bedYbbNKNbQFWWJ2lHTC1rSXFUy.jpg" group-title="Movies | Filmes | Terror",Errementari: O Ferreiro e o Diabo (2018)
@@ -24386,6 +24794,16 @@ http://udsas.my:80/movie/Camila/C1a2m3ila!/1223089.mp4
 http://udsas.my:80/movie/Camila/C1a2m3ila!/1420393.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uakB4uIw2y1lbIRxwdL7zF18Bl.jpg" group-title="Movies | Filmes | Terror",A Primeira Noite de Crime (2018)
 http://udsas.my:80/movie/Camila/C1a2m3ila!/1420394.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7U3lC4YnHD8zpeoxbY6Hsj9jyeu.jpg" group-title="Movies | Filmes | Terror",Fale Comigo (2023)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427437.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tBCH9EiXeIwXM9VzITuTT5wv6GZ.jpg" group-title="Movies | Filmes | Terror",A Última Chamada (2020)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427438.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jfg0Tb5Na03T56bbhUybZDtO2zi.jpg" group-title="Movies | Filmes | Terror",A Última Noite (2019)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427439.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n6imV3Sp7DjDxBvR5XfH5Wahbq8.jpg" group-title="Movies | Filmes | Terror",O Órfão (2018)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427440.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iRSVQ8VJwnERExzerSNM3EzUBvb.jpg" group-title="Movies | Filmes | Terror",Os Esquecidos (2008)
+http://udsas.my:80/movie/Camila/C1a2m3ila!/1427441.mp4
 
 # --- Movies | Novelas (242) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Novelas",O Sétimo Guardião (2018)
@@ -40277,4 +40695,4 @@ http://udsas.my:80/series/Camila/C1a2m3ila!/7465
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Univer",O Senhor e a Serva (2025)
 http://udsas.my:80/series/Camila/C1a2m3ila!/7729
 
-# Total: 20091
+# Total: 20300

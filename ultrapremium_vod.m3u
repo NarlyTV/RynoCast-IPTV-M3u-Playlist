@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: ultrapremium.cloud:8080
-# Generated: 2025-12-31 07:11:12
+# Generated: 2025-12-31 18:31:02
 # Expires: 2026-02-28
 # Family Safe Edition
 # ==============================================
@@ -5337,7 +5337,9 @@ http://ultrapremium.cloud:8080/movie/964374735tv/4fdc5eg3/3359.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5SgSuCHLsdAhtJtYpzNjYO7dfLl.jpg" group-title="Movies | → VOD CLÁSICAS ←",Un plan brillante (2007)
 http://ultrapremium.cloud:8080/movie/964374735tv/4fdc5eg3/3360.mp4
 
-# --- Movies | → VOD COMEDIA ← (367) ---
+# --- Movies | → VOD COMEDIA ← (368) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rCpABsHAJz7eKDNgPiAxl6nSFjU.jpg" group-title="Movies | → VOD COMEDIA ←",Una Esposa de Mentira
+http://ultrapremium.cloud:8080/movie/964374735tv/4fdc5eg3/279158.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/DMpgcsydoSvmd8gp8LPKvEXSn5.jpg" group-title="Movies | → VOD COMEDIA ←",High School Musical 3: Fin de curso
 http://ultrapremium.cloud:8080/movie/964374735tv/4fdc5eg3/278799.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pZF6C4zXVzvtBdp5F43pM47ZHWa.jpg" group-title="Movies | → VOD COMEDIA ←",High School Musical 2
@@ -19247,7 +19249,7 @@ http://ultrapremium.cloud:8080/series/964374735tv/4fdc5eg3/2443
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES MARVEL ←",Marvel Zombis
 http://ultrapremium.cloud:8080/series/964374735tv/4fdc5eg3/2469
 
-# --- Series | → SERIES MISTERIO ← (57) ---
+# --- Series | → SERIES MISTERIO ← (58) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES MISTERIO ←",Instinto
 http://ultrapremium.cloud:8080/series/964374735tv/4fdc5eg3/47
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES MISTERIO ←",La Montaña De La Muerte: El Incidente del Paso Dyatlov
@@ -19362,6 +19364,8 @@ http://ultrapremium.cloud:8080/series/964374735tv/4fdc5eg3/2473
 http://ultrapremium.cloud:8080/series/964374735tv/4fdc5eg3/2494
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES MISTERIO ←",La Bestia en mi
 http://ultrapremium.cloud:8080/series/964374735tv/4fdc5eg3/2505
+#EXTINF:-1 tvg-logo="" group-title="Series | → SERIES MISTERIO ←",Mr. Mercedes
+http://ultrapremium.cloud:8080/series/964374735tv/4fdc5eg3/2517
 
 # --- Series | → SERIES REALLITY ← (23) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES REALLITY ←",La Isla de las Tentaciones Argentina & Chile
@@ -19597,4 +19601,4 @@ http://ultrapremium.cloud:8080/series/964374735tv/4fdc5eg3/2345
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES TERROR-THRILLER-SUSPENSO ←",It: Bienvenidos a Derry
 http://ultrapremium.cloud:8080/series/964374735tv/4fdc5eg3/2492
 
-# Total: 9723
+# Total: 9725
