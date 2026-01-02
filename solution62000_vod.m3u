@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: solution62000.mine.nu:8000
-# Generated: 2025-12-31 18:27:15
+# Generated: 2026-01-02 07:08:14
 # Expires: 2026-03-08
 # Family Safe Edition
 # ==============================================
@@ -4005,7 +4005,7 @@ http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/5879.mkv
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/RmmotqT-jZ0/mqdefault.jpg" group-title="Movies | Films Algerien",Aissa Story
 http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/5921.mkv
 
-# --- Movies | Films Arabe (79) ---
+# --- Movies | Films Arabe (80) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zMMXNX6GPhDSuegsJRYIBrAUSdn.jpg" group-title="Movies | Films Arabe",Maaly Mama - 2022
 http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/1451.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2An6vEAdQKmMDf6aae8YV1QZnOe.jpg" group-title="Movies | Films Arabe",Al Rajul Rabaa - 2022
@@ -4026,6 +4026,8 @@ http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/10269.mkv
 http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/1534.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/exVFIuYWYyLKXxYHylyVbYJVYnf.jpg" group-title="Movies | Films Arabe",Shahid Al Wahid - 2021
 http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/1536.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/eU1iuYCeba88kNYv9KxOFqBE3io.jpg" group-title="Movies | Films Arabe",Kidnapping maison (2025)
+http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/21677.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wVMDUQo1ReToP57gLyLFR6xqGOF.jpg" group-title="Movies | Films Arabe",Daye (Seerat Ahl El Daye)  (2025)
 http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/21363.mkv
 #EXTINF:-1 tvg-logo="http://183.81.169.72:8089/LOGOFILMWACHEBONOUK.jpg" group-title="Movies | Films Arabe",Wahch El Bonouk (2025)
@@ -5889,7 +5891,9 @@ http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/1803.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6HWjDWStk86YJr8ooYFQe4nVhF8.jpg" group-title="Movies | SPECTACLE",Yacine Belhousse : 2021 (2022)
 http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/1439.mkv
 
-# --- Movies | prime video (164) ---
+# --- Movies | prime video (165) ---
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ctU9S47MoJDN9CB7SCaitcfyyIu.jpg" group-title="Movies | prime video",Trap House (2025)
+http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/21673.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gqWCnMLPOAWuD5HbUs4GNv3AGSj.jpg" group-title="Movies | prime video",La place du mort (2025)
 http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/21186.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fap4iIVduMoV9wAsKhemmoDTu9t.jpg" group-title="Movies | prime video",Deux mondes pour un vœu (2025)
@@ -6287,7 +6291,7 @@ http://solution62000.mine.nu:8000/series/Bendria_kouider/07032025/809
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Anciennes",Friends
 http://solution62000.mine.nu:8000/series/Bendria_kouider/07032025/811
 
-# --- Series | Series Arabe (122) ---
+# --- Series | Series Arabe (124) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Arabe",الاسطورة
 http://solution62000.mine.nu:8000/series/Bendria_kouider/07032025/43
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Arabe",بـ100 وش
@@ -6532,6 +6536,10 @@ http://solution62000.mine.nu:8000/series/Bendria_kouider/07032025/941
 http://solution62000.mine.nu:8000/series/Bendria_kouider/07032025/947
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Arabe",( 2025 ) سنجل ماذر فاذر
 http://solution62000.mine.nu:8000/series/Bendria_kouider/07032025/948
+#EXTINF:-1 tvg-logo="" group-title="Series | Series Arabe",( 2025 ) ليل
+http://solution62000.mine.nu:8000/series/Bendria_kouider/07032025/951
+#EXTINF:-1 tvg-logo="" group-title="Series | Series Arabe",( 2025 ) أثر بارد
+http://solution62000.mine.nu:8000/series/Bendria_kouider/07032025/952
 
 # --- Series | Series Documentaires (9) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Documentaires",Homicide
@@ -6682,9 +6690,9 @@ http://solution62000.mine.nu:8000/series/Bendria_kouider/07032025/906
 http://solution62000.mine.nu:8000/series/Bendria_kouider/07032025/924
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Turk",( 2025 ) Arafta - الاعراف - مترجم
 http://solution62000.mine.nu:8000/series/Bendria_kouider/07032025/932
-#EXTINF:-1 tvg-logo="" group-title="Series | Series Turk",مدبلج -  Veliaht - ولي العهد
+#EXTINF:-1 tvg-logo="" group-title="Series | Series Turk",( 2025 ) مدبلج -  Veliaht - ولي العهد
 http://solution62000.mine.nu:8000/series/Bendria_kouider/07032025/946
-#EXTINF:-1 tvg-logo="" group-title="Series | Series Turk",مترجم  Rüya Gibi - مثل الحلم
+#EXTINF:-1 tvg-logo="" group-title="Series | Series Turk",( 2025 ) مترجم  Rüya Gibi - مثل الحلم
 http://solution62000.mine.nu:8000/series/Bendria_kouider/07032025/949
 
 # --- Series | Series divers (237) ---
@@ -7163,4 +7171,4 @@ http://solution62000.mine.nu:8000/series/Bendria_kouider/07032025/943
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Rescue: HI-Surf
 http://solution62000.mine.nu:8000/series/Bendria_kouider/07032025/945
 
-# Total: 3549
+# Total: 3553

@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: newborne.pro
-# Generated: 2026-01-01 18:38:00
+# Generated: 2026-01-02 07:08:57
 # Expires: 2026-08-21
 # Family Safe Edition
 # ==============================================
@@ -5321,7 +5321,9 @@ http://newborne.pro/movie/Adorait/yKNEk1etre/80495.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/neV35lK7em4rIY9QIoH1cruErPA.jpg" group-title="Movies | Filma Te Fundit Me Titra Shqip",BlackBerry  2023
 http://newborne.pro/movie/Adorait/yKNEk1etre/80494.mkv
 
-# --- Movies | Filma te Vjeter (171) ---
+# --- Movies | Filma te Vjeter (172) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9rBVHD1gYSx5bOwCgqSdljUXKY8.jpg" group-title="Movies | Filma te Vjeter",Delta Force 2: The Colombian Connection (1990)
+http://newborne.pro/movie/Adorait/yKNEk1etre/114795.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ugzyabmb4oojUuQNhbZhuFd5h0E.jpg" group-title="Movies | Filma te Vjeter",Bugles in the Afternoon (1952)
 http://newborne.pro/movie/Adorait/yKNEk1etre/104942.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4fVMognsmbogzkfY7DY0Bvn7h7Y.jpg" group-title="Movies | Filma te Vjeter",Army of Thieves (2021)
@@ -9659,4 +9661,4 @@ http://newborne.pro/series/Adorait/yKNEk1etre/248
 #EXTINF:-1 tvg-logo="" group-title="Series | Netflix Series",Squid Game: The Challenge
 http://newborne.pro/series/Adorait/yKNEk1etre/247
 
-# Total: 4799
+# Total: 4800

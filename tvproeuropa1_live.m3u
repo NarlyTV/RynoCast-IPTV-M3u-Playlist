@@ -1,23 +1,15 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: tvproeuropa1.com:8008
-# Generated: 2026-01-01 18:40:14
+# Generated: 2026-01-02 07:05:29
 # Expires: 2026-01-07
 # Family Safe Edition
 # ==============================================
 
 
-# --- ⚜️ROMANIA TV⚜️ (594) ---
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wvFMSGRt/Whats-App-Image-2025-11-27-at-15-20-39-6e5d06cc.jpg" group-title="⚜️ROMANIA TV⚜️",⚜️WELCOME TO PRO EUROPA⚜️
+# --- ⚜️ROMANIA TV⚜️ (591) ---
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wvFMSGRt/Whats-App-Image-2025-11-27-at-15-20-39-6e5d06cc.jpg" group-title="⚜️ROMANIA TV⚜️",⚜️PRO EUROPA INFO⚜️
 http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/540724.m3u8
-#EXTINF:-1 tvg-logo="https://i.scdn.co/image/ab67616d0000b273e9af6e6ace7bae5f933bdc04" group-title="⚜️ROMANIA TV⚜️",COLINDE ROMANESTI
-http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/538417.m3u8
-#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/artworks-gN6gO42Frcir-0-t500x500.jpg" group-title="⚜️ROMANIA TV⚜️",COLINDE COLAJ
-http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/538513.m3u8
-#EXTINF:-1 tvg-logo="https://i.scdn.co/image/ab67616d00001e02c2ec6ee3f56dcc43a6905e3e" group-title="⚜️ROMANIA TV⚜️",COLINDE ANDRA
-http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/538416.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQ2Fkp5n/HOME-ALONE.jpg" group-title="⚜️ROMANIA TV⚜️",HOME ALONE
-http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/548298.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/WzfDK55q/resize.png" group-title="⚜️ROMANIA TV⚜️",PRO TV UHD
 http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/33760.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jSn8M9Mw/resize.png" group-title="⚜️ROMANIA TV⚜️",PRO TV HD
@@ -528,6 +520,8 @@ http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/528829.m3u8
 http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/531760.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RFr9XmHN/GAME-OF-THRONES.jpg" group-title="⚜️ROMANIA TV⚜️",GAME OF THRONES (2011)
 http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/531762.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQ2Fkp5n/HOME-ALONE.jpg" group-title="⚜️ROMANIA TV⚜️",HOME ALONE
+http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/548298.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gcTHv7yY/logo.gif" group-title="⚜️ROMANIA TV⚜️",ROTV  ACTION
 http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/492847.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gcTHv7yY/logo.gif" group-title="⚜️ROMANIA TV⚜️",ROTV  ADVENTURE
@@ -1197,4 +1191,4 @@ http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/296305.m3u8
 #EXTINF:-1 tvg-logo="" group-title="⚜️ROMANIA TV⚜️",GALA RXF
 http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/554858.m3u8
 
-# Total: 594
+# Total: 591

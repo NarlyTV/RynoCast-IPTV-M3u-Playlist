@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: squid.game-tv.org:8080
-# Generated: 2026-01-01 18:40:56
+# Generated: 2026-01-02 07:05:14
 # Expires: 2026-01-17
 # Family Safe Edition
 # ==============================================
@@ -16351,6 +16351,10 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/6739.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/bkld8Me0WiLWipLORRNfF1yIPHu.jpg" group-title="Movies | Filme dublate in Romana (NOU)",A Babysitter's Guide to Monster Hunting  (2020)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/24219.mp4
 
+# --- Movies | Fire Country (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | Fire Country",Fire Country (2022)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1135.mp4
+
 # --- Movies | Firefly Lane (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Firefly Lane",Firefly Lane
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/114.mp4
@@ -19603,4 +19607,4 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/383.mp4
 #EXTINF:-1 tvg-logo="" group-title="Series | A Series of Unfortunate Events",A Series of Unfortunate Events
 http://squid.game-tv.org:8080/series/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/276
 
-# Total: 8629
+# Total: 8630
