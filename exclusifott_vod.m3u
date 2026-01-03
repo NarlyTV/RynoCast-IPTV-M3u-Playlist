@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: exclusifott.pro:80
-# Generated: 2026-01-02 18:38:48
+# Generated: 2026-01-03 07:05:46
 # Expires: 2026-05-21
 # Family Safe Edition
 # ==============================================
@@ -15603,7 +15603,13 @@ http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/20559
 #EXTINF:-1 tvg-logo="" group-title="Series | |MULTI| DISNEY+ SERIES",D+ - American Born Chinese (2023)
 http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/28051
 
-# --- Series | |MULTI| NETFLIX SERIES (1121) ---
+# --- Series | |MULTI| NETFLIX SERIES (1124) ---
+#EXTINF:-1 tvg-logo="" group-title="Series | |MULTI| NETFLIX SERIES",NF - Land of Sin (2026) (SE)
+http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/47261
+#EXTINF:-1 tvg-logo="" group-title="Series | |MULTI| NETFLIX SERIES",NF - Love from 9 to 5 (2026) (MX)
+http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/47260
+#EXTINF:-1 tvg-logo="" group-title="Series | |MULTI| NETFLIX SERIES",NF - Time Flies (2026) (AR)
+http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/47259
 #EXTINF:-1 tvg-logo="" group-title="Series | |MULTI| NETFLIX SERIES",NF - Sicily Express (2025) (IT)
 http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/47145
 #EXTINF:-1 tvg-logo="" group-title="Series | |MULTI| NETFLIX SERIES",NF - City of Shadows (2025) (ES)
@@ -18055,4 +18061,4 @@ http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/35745
 #EXTINF:-1 tvg-logo="" group-title="Series | |RO| ROMANIAN SERIES",RO - Resident Evil: Infinite Darkness (2021)
 http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/35746
 
-# Total: 8980
+# Total: 8983

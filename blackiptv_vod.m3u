@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: blackiptv.net:8080
-# Generated: 2026-01-02 18:38:34
+# Generated: 2026-01-03 07:13:00
 # Expires: 2026-12-21
 # Family Safe Edition
 # ==============================================
@@ -11133,7 +11133,11 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1671.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ DISNEY +",The Simpsons (1989)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1771.mp4
 
-# --- Movies | TR/DIZI ~ EGLENCE/SHOW (5) ---
+# --- Movies | TR/DIZI ~ EGLENCE/SHOW (7) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ EGLENCE/SHOW",Ibo Show Yilbasi Ozel 2026
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1900.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ EGLENCE/SHOW",Lingo Türkiye Yilbasi Ozel 2026
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1899.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ EGLENCE/SHOW",O Ses Turkiye Yilbasi  2026
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1897.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ EGLENCE/SHOW",Dogu Demirkol ile Alelade Show
@@ -20603,4 +20607,4 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/63372.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t8EQllq34VC5mooiJw1vVFOlM4x.jpg" group-title="Movies | TR/FILM ~ YILBASI ÖZEL",O Ses Türkiye  Yilbasi Özel 2025
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/54778.mp4
 
-# Total: 10153
+# Total: 10155

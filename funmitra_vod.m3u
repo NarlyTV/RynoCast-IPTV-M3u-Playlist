@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: funmitra.com:8080
-# Generated: 2026-01-01 18:31:18
+# Generated: 2026-01-03 07:02:04
 # Expires: 2026-04-30
 # Family Safe Edition
 # ==============================================
@@ -3929,7 +3929,7 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/11231.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Eski Diziler",(TR-) Bereketli Topraklar
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/11284.mp4
 
-# --- Movies | (S|TR) Yabanci Diziler (1010) ---
+# --- Movies | (S|TR) Yabanci Diziler (1011) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) Mars
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/313.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) 1983
@@ -5950,6 +5950,8 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/11551.mp4
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/11613.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) Cashero
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/11629.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) Run Away
+http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/11640.mp4
 
 # --- Movies | (S|TR) Yerli Diziler (400) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yerli Diziler",(TR-) Hakan: Muhafız
@@ -16965,7 +16967,11 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/476418.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/dhejMQdsqPtTTCKIkyoJ5FLfC3F.jpg" group-title="Movies | (V|DE) Filme - 2023",(DE-) A Good Person - 2023
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/476415.mp4
 
-# --- Movies | (V|DE) Filme - 2024 (701) ---
+# --- Movies | (V|DE) Filme - 2024 (703) ---
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/70h7aFlLBxoNMgYNu3DuLEnQ19a_big.jpg" group-title="Movies | (V|DE) Filme - 2024",(DE-) Die Geschichte Vom Gruselfuchs - 2024
+http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/653071.mp4
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/vHKCgAwiwLj2cffuff5qcPgpcqr_big.jpg" group-title="Movies | (V|DE) Filme - 2024",(DE-) Bone Lake - 2024
+http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/653068.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/7EUq0vuSL1UtLMl9yOhER3SFL6k_big.jpg" group-title="Movies | (V|DE) Filme - 2024",(DE-) Quiet Life - 2024
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/651945.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/jIpjUy6ACDk8Fc8GkynLcIAPP49_big.jpg" group-title="Movies | (V|DE) Filme - 2024",(DE-) Destroy All Neighbors - 2024
@@ -18369,7 +18375,17 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/635442.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/dh8mS9Zzhplmr0Q80BKw0dibZUS_big.jpg" group-title="Movies | (V|DE) Filme - 2024",(DE-) The Break-Up Club - 2024
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/634880.mp4
 
-# --- Movies | (V|DE) Filme - 2025 (485) ---
+# --- Movies | (V|DE) Filme - 2025 (490) ---
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/4KGA3Yc1zU823rzl9Apk3vGqitt_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Theken-Cowboys - 2025
+http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/653074.mp4
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/Aj8JY9a5saJCAp0R9Z066pdYJoC_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Der Tiger - 2025
+http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/653073.mp4
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/w8zYHT3nwzBITknyPwIFarUbiFp_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Folge Meiner Stimme - 2025
+http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/653072.mp4
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/6tpAPeuuqbVnYWWPoOLEDLSBU7a_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Trap House - 2025
+http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/653070.mp4
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/ciZbhEvOY275r5gbY5qO803W4JZ_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Anemone - 2025
+http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/653069.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/29kdBee6By4GNlqlbFTCz004Qzw_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Wicked: Teil 2 - 2025
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/652786.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/oJjCXVwPbNq2QeNdNvG2atZHj11_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Under The Stars - 2025
@@ -22951,7 +22967,9 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/256374.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/f6Lb4bpUW2AJW42Hpnix2533RKU.jpg" group-title="Movies | (V|TR) Kovboy Filmleri",(TR-) Tombstone - 1993
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/262805.mkv
 
-# --- Movies | (V|TR) Programlar (706) ---
+# --- Movies | (V|TR) Programlar (707) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/gTJZ9d49dLI2m1vv1Ufi3Cx7rMt.jpg" group-title="Movies | (V|TR) Programlar",(TR-) Konusanlar Disney (Bolum 15)
+http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/652936.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/6nmdHwVErYl9HOFhesRSMFC3HKj.jpg" group-title="Movies | (V|TR) Programlar",(TR-) Güldür Güldür Show (27.12.2025)
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/651526.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/gTJZ9d49dLI2m1vv1Ufi3Cx7rMt.jpg" group-title="Movies | (V|TR) Programlar",(TR-) Konusanlar Disney (Bolum 14)
@@ -32367,4 +32385,4 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/583470.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | Unknown",(DE-) Anaon:  Hüter Der Nacht
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/10625.mp4
 
-# Total: 16136
+# Total: 16145

@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: alienstreams.fi:8080
-# Generated: 2026-01-02 18:26:35
+# Generated: 2026-01-03 07:02:19
 # Expires: 2026-04-03
 # Family Safe Edition
 # ==============================================
@@ -14888,6 +14888,8 @@ http://alienstreams.fi:8080/series/karekare/karekare/404577
 http://alienstreams.fi:8080/series/karekare/karekare/404585
 #EXTINF:-1 tvg-logo="" group-title="Series | Documentary [Series]",Real Madrid: Until the End
 http://alienstreams.fi:8080/series/karekare/karekare/404601
+#EXTINF:-1 tvg-logo="" group-title="Series | Documentary [Series]",100 Foot Wave
+http://alienstreams.fi:8080/series/karekare/karekare/403205
 #EXTINF:-1 tvg-logo="" group-title="Series | Documentary [Series]",The Greatest Show Never Made
 http://alienstreams.fi:8080/series/karekare/karekare/404604
 #EXTINF:-1 tvg-logo="" group-title="Series | Documentary [Series]",Escaping Utopia
@@ -15004,8 +15006,8 @@ http://alienstreams.fi:8080/series/karekare/karekare/404940
 http://alienstreams.fi:8080/series/karekare/karekare/404941
 #EXTINF:-1 tvg-logo="" group-title="Series | Documentary [Series]",Love on the Spectrum
 http://alienstreams.fi:8080/series/karekare/karekare/404942
-#EXTINF:-1 tvg-logo="" group-title="Series | Documentary [Series]",100 Foot Wave
-http://alienstreams.fi:8080/series/karekare/karekare/403205
+#EXTINF:-1 tvg-logo="" group-title="Series | Documentary [Series]",Bering Sea Gold
+http://alienstreams.fi:8080/series/karekare/karekare/404948
 #EXTINF:-1 tvg-logo="" group-title="Series | Documentary [Series]",The Diamond Heist
 http://alienstreams.fi:8080/series/karekare/karekare/404953
 #EXTINF:-1 tvg-logo="" group-title="Series | Documentary [Series]",The Dark Money Game
@@ -15108,8 +15110,6 @@ http://alienstreams.fi:8080/series/karekare/karekare/405257
 http://alienstreams.fi:8080/series/karekare/karekare/405265
 #EXTINF:-1 tvg-logo="" group-title="Series | Documentary [Series]",Born to Be Viral: The Real Lives of Kidfluencers
 http://alienstreams.fi:8080/series/karekare/karekare/405273
-#EXTINF:-1 tvg-logo="" group-title="Series | Documentary [Series]",Bering Sea Gold
-http://alienstreams.fi:8080/series/karekare/karekare/404948
 #EXTINF:-1 tvg-logo="" group-title="Series | Documentary [Series]",Suffer the Little Children
 http://alienstreams.fi:8080/series/karekare/karekare/403250
 #EXTINF:-1 tvg-logo="" group-title="Series | Documentary [Series]",Close Encounters
@@ -15230,6 +15230,8 @@ http://alienstreams.fi:8080/series/karekare/karekare/404045
 http://alienstreams.fi:8080/series/karekare/karekare/404058
 
 # --- Series | Drama [Series] (593) ---
+#EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Spartacus: House of Ashur
+http://alienstreams.fi:8080/series/karekare/karekare/489348
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Run Away
 http://alienstreams.fi:8080/series/karekare/karekare/491825
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Jasmine
@@ -15256,8 +15258,6 @@ http://alienstreams.fi:8080/series/karekare/karekare/486407
 http://alienstreams.fi:8080/series/karekare/karekare/490957
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Chicago Fire
 http://alienstreams.fi:8080/series/karekare/karekare/482135
-#EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Spartacus: House of Ashur
-http://alienstreams.fi:8080/series/karekare/karekare/489348
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",The Rainmaker
 http://alienstreams.fi:8080/series/karekare/karekare/490956
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Emily in Paris
@@ -17048,8 +17048,6 @@ http://alienstreams.fi:8080/series/karekare/karekare/404613
 http://alienstreams.fi:8080/series/karekare/karekare/404085
 #EXTINF:-1 tvg-logo="" group-title="Series | Norska Serier [Series]",Linnis univers
 http://alienstreams.fi:8080/series/karekare/karekare/403811
-#EXTINF:-1 tvg-logo="" group-title="Series | Norska Serier [Series]",Kongen befaler
-http://alienstreams.fi:8080/series/karekare/karekare/404071
 #EXTINF:-1 tvg-logo="" group-title="Series | Norska Serier [Series]",16 ukers helvete
 http://alienstreams.fi:8080/series/karekare/karekare/403211
 #EXTINF:-1 tvg-logo="" group-title="Series | Norska Serier [Series]",Halvbroren
@@ -17370,6 +17368,8 @@ http://alienstreams.fi:8080/series/karekare/karekare/404018
 http://alienstreams.fi:8080/series/karekare/karekare/404027
 #EXTINF:-1 tvg-logo="" group-title="Series | Norska Serier [Series]",Til fjells med Folle
 http://alienstreams.fi:8080/series/karekare/karekare/404043
+#EXTINF:-1 tvg-logo="" group-title="Series | Norska Serier [Series]",Kongen befaler
+http://alienstreams.fi:8080/series/karekare/karekare/404071
 
 # --- Series | Reality [Series] (156) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Reality [Series]",Members Only: Palm Beach
@@ -17969,7 +17969,9 @@ http://alienstreams.fi:8080/series/karekare/karekare/405122
 #EXTINF:-1 tvg-logo="" group-title="Series | Sports[Series]",Startelvan
 http://alienstreams.fi:8080/series/karekare/karekare/403526
 
-# --- Series | Svenska Serier [Series] (270) ---
+# --- Series | Svenska Serier [Series] (271) ---
+#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Synden
+http://alienstreams.fi:8080/series/karekare/karekare/491866
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Sanningen
 http://alienstreams.fi:8080/series/karekare/karekare/490904
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",King Karavan
@@ -18542,14 +18544,14 @@ http://alienstreams.fi:8080/series/karekare/karekare/404021
 # --- Series | Western (Series) (8) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Western (Series)",Godless
 http://alienstreams.fi:8080/series/karekare/karekare/404121
-#EXTINF:-1 tvg-logo="" group-title="Series | Western (Series)",American Primeval
-http://alienstreams.fi:8080/series/karekare/karekare/404603
 #EXTINF:-1 tvg-logo="" group-title="Series | Western (Series)",Billy the Kid
 http://alienstreams.fi:8080/series/karekare/karekare/404650
 #EXTINF:-1 tvg-logo="" group-title="Series | Western (Series)",Hatfields & McCoys
 http://alienstreams.fi:8080/series/karekare/karekare/404987
 #EXTINF:-1 tvg-logo="" group-title="Series | Western (Series)",Deadwood
 http://alienstreams.fi:8080/series/karekare/karekare/405042
+#EXTINF:-1 tvg-logo="" group-title="Series | Western (Series)",American Primeval
+http://alienstreams.fi:8080/series/karekare/karekare/404603
 #EXTINF:-1 tvg-logo="" group-title="Series | Western (Series)",Yellowstone
 http://alienstreams.fi:8080/series/karekare/karekare/403426
 #EXTINF:-1 tvg-logo="" group-title="Series | Western (Series)",The Quest
@@ -18563,4 +18565,4 @@ http://alienstreams.fi:8080/series/karekare/karekare/475290
 #EXTINF:-1 tvg-logo="" group-title="Series | Western [Series]",How the West Was Won
 http://alienstreams.fi:8080/series/karekare/karekare/459987
 
-# Total: 9223
+# Total: 9224

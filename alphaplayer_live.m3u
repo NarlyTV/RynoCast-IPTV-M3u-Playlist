@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: alphaplayer.ddns.net:25461
-# Generated: 2026-01-02 18:29:22
+# Generated: 2026-01-03 07:10:54
 # Expires: 2026-08-02
 # Family Safe Edition
 # ==============================================
@@ -61,7 +61,7 @@ http://alphaplayer.ddns.net:25461/live/ecrweg@gmail.com/9513eb867cbbee254ae2f857
 #EXTINF:-1 tvg-logo="http://212.102.60.73/logos/tvpublica.png" group-title="Argentina",ARG - TV Publica
 http://alphaplayer.ddns.net:25461/live/ecrweg@gmail.com/9513eb867cbbee254ae2f8573479b5497910d5314dfeb9e466fd4227c985f49fd7a55153cb9638e82d7934c387ecfc83eaf0f77e004fb6a5d39119faabfd3979/1377.m3u8
 
-# --- Brazil (391) ---
+# --- Brazil (393) ---
 #EXTINF:-1 tvg-logo="http://212.102.60.73/logos/TV-Globo-Nordeste.png" group-title="Brazil",GLOBO RJ FHD
 http://alphaplayer.ddns.net:25461/live/ecrweg@gmail.com/9513eb867cbbee254ae2f8573479b5497910d5314dfeb9e466fd4227c985f49fd7a55153cb9638e82d7934c387ecfc83eaf0f77e004fb6a5d39119faabfd3979/2852.m3u8
 #EXTINF:-1 tvg-logo="http://212.102.60.73/logos/TV-Globo-Nordeste.png" group-title="Brazil",GLOBO RJ HD
@@ -130,6 +130,8 @@ http://alphaplayer.ddns.net:25461/live/ecrweg@gmail.com/9513eb867cbbee254ae2f857
 http://alphaplayer.ddns.net:25461/live/ecrweg@gmail.com/9513eb867cbbee254ae2f8573479b5497910d5314dfeb9e466fd4227c985f49fd7a55153cb9638e82d7934c387ecfc83eaf0f77e004fb6a5d39119faabfd3979/2975.m3u8
 #EXTINF:-1 tvg-logo="http://212.102.60.73/logos/Record-S%c3%83%c2%a3o-Paulo.png" group-title="Brazil",Record GO FHD
 http://alphaplayer.ddns.net:25461/live/ecrweg@gmail.com/9513eb867cbbee254ae2f8573479b5497910d5314dfeb9e466fd4227c985f49fd7a55153cb9638e82d7934c387ecfc83eaf0f77e004fb6a5d39119faabfd3979/5105.m3u8
+#EXTINF:-1 tvg-logo="http://212.102.60.73/logos/Record-S%c3%83%c2%a3o-Paulo.png" group-title="Brazil",RECORD BELEM FHD
+http://alphaplayer.ddns.net:25461/live/ecrweg@gmail.com/9513eb867cbbee254ae2f8573479b5497910d5314dfeb9e466fd4227c985f49fd7a55153cb9638e82d7934c387ecfc83eaf0f77e004fb6a5d39119faabfd3979/18515.m3u8
 #EXTINF:-1 tvg-logo="http://212.102.60.73/logos/Band-Nacional.png" group-title="Brazil",BAND RJ FHD
 http://alphaplayer.ddns.net:25461/live/ecrweg@gmail.com/9513eb867cbbee254ae2f8573479b5497910d5314dfeb9e466fd4227c985f49fd7a55153cb9638e82d7934c387ecfc83eaf0f77e004fb6a5d39119faabfd3979/9245.m3u8
 #EXTINF:-1 tvg-logo="http://212.102.60.73/logos/Band-Nacional.png" group-title="Brazil",BAND FHD
@@ -148,6 +150,8 @@ http://alphaplayer.ddns.net:25461/live/ecrweg@gmail.com/9513eb867cbbee254ae2f857
 http://alphaplayer.ddns.net:25461/live/ecrweg@gmail.com/9513eb867cbbee254ae2f8573479b5497910d5314dfeb9e466fd4227c985f49fd7a55153cb9638e82d7934c387ecfc83eaf0f77e004fb6a5d39119faabfd3979/170.m3u8
 #EXTINF:-1 tvg-logo="http://212.102.60.73/logos/SBT-Nacional.png" group-title="Brazil",SBT GO HD
 http://alphaplayer.ddns.net:25461/live/ecrweg@gmail.com/9513eb867cbbee254ae2f8573479b5497910d5314dfeb9e466fd4227c985f49fd7a55153cb9638e82d7934c387ecfc83eaf0f77e004fb6a5d39119faabfd3979/5106.m3u8
+#EXTINF:-1 tvg-logo="http://212.102.60.73/logos/SBT-Nacional.png" group-title="Brazil",SBT BELEM FHD
+http://alphaplayer.ddns.net:25461/live/ecrweg@gmail.com/9513eb867cbbee254ae2f8573479b5497910d5314dfeb9e466fd4227c985f49fd7a55153cb9638e82d7934c387ecfc83eaf0f77e004fb6a5d39119faabfd3979/18516.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/_onC7ezY_pGDRgGYewaM8GodJx5fFo8eYBbQDo7i-znmwM8xCJMH-kPpDhnRk6kc9Q" group-title="Brazil",SBT+ CINEMA
 http://alphaplayer.ddns.net:25461/live/ecrweg@gmail.com/9513eb867cbbee254ae2f8573479b5497910d5314dfeb9e466fd4227c985f49fd7a55153cb9638e82d7934c387ecfc83eaf0f77e004fb6a5d39119faabfd3979/10176.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/_onC7ezY_pGDRgGYewaM8GodJx5fFo8eYBbQDo7i-znmwM8xCJMH-kPpDhnRk6kc9Q" group-title="Brazil",SBT+ CRIANÇA
@@ -1534,37 +1538,37 @@ http://alphaplayer.ddns.net:25461/live/ecrweg@gmail.com/9513eb867cbbee254ae2f857
 # --- Live Events - NFL (18) ---
 #EXTINF:-1 tvg-logo="http://212.102.60.73/logos/nfl-redzone.jpg" group-title="Live Events - NFL",NFL REDZONE
 http://alphaplayer.ddns.net:25461/live/ecrweg@gmail.com/9513eb867cbbee254ae2f8573479b5497910d5314dfeb9e466fd4227c985f49fd7a55153cb9638e82d7934c387ecfc83eaf0f77e004fb6a5d39119faabfd3979/6901.m3u8
-#EXTINF:-1 tvg-logo="http://212.102.60.73/logos/nfl-sunday-ticket.png" group-title="Live Events - NFL",NFL GAME 00: Rams at Seahawks - 8:15pm ET (Thursday)
+#EXTINF:-1 tvg-logo="http://212.102.60.73/logos/nfl-sunday-ticket.png" group-title="Live Events - NFL",NFL GAME 00: Panthers at Buccaneers - 4:30pm ET (Saturday)
 http://alphaplayer.ddns.net:25461/live/ecrweg@gmail.com/9513eb867cbbee254ae2f8573479b5497910d5314dfeb9e466fd4227c985f49fd7a55153cb9638e82d7934c387ecfc83eaf0f77e004fb6a5d39119faabfd3979/3653.m3u8
-#EXTINF:-1 tvg-logo="http://212.102.60.73/logos/nfl-sunday-ticket.png" group-title="Live Events - NFL",NFL GAME 01: Eagles at Commanders - 5:00pm ET (Saturday)
+#EXTINF:-1 tvg-logo="http://212.102.60.73/logos/nfl-sunday-ticket.png" group-title="Live Events - NFL",NFL GAME 01: Seahawks at 49ers - 8:00pm ET (Saturday)
 http://alphaplayer.ddns.net:25461/live/ecrweg@gmail.com/9513eb867cbbee254ae2f8573479b5497910d5314dfeb9e466fd4227c985f49fd7a55153cb9638e82d7934c387ecfc83eaf0f77e004fb6a5d39119faabfd3979/3654.m3u8
-#EXTINF:-1 tvg-logo="http://212.102.60.73/logos/nfl-sunday-ticket.png" group-title="Live Events - NFL",NFL GAME 02: Packers at Bears - 8:20pm ET (Saturday)
+#EXTINF:-1 tvg-logo="http://212.102.60.73/logos/nfl-sunday-ticket.png" group-title="Live Events - NFL",NFL GAME 02: Browns at Bengals - 1:00pm ET
 http://alphaplayer.ddns.net:25461/live/ecrweg@gmail.com/9513eb867cbbee254ae2f8573479b5497910d5314dfeb9e466fd4227c985f49fd7a55153cb9638e82d7934c387ecfc83eaf0f77e004fb6a5d39119faabfd3979/3655.m3u8
-#EXTINF:-1 tvg-logo="http://212.102.60.73/logos/nfl-sunday-ticket.png" group-title="Live Events - NFL",NFL GAME 03: Bills at Browns - 1:00pm ET
+#EXTINF:-1 tvg-logo="http://212.102.60.73/logos/nfl-sunday-ticket.png" group-title="Live Events - NFL",NFL GAME 03: Cowboys at Giants - 1:00pm ET
 http://alphaplayer.ddns.net:25461/live/ecrweg@gmail.com/9513eb867cbbee254ae2f8573479b5497910d5314dfeb9e466fd4227c985f49fd7a55153cb9638e82d7934c387ecfc83eaf0f77e004fb6a5d39119faabfd3979/3656.m3u8
-#EXTINF:-1 tvg-logo="http://212.102.60.73:25461/images/6a3d1e4c01c492705919dd2eca29099a.png" group-title="Live Events - NFL",NFL GAME 04: Bengals at Dolphins - 1:00pm ET
+#EXTINF:-1 tvg-logo="http://212.102.60.73:25461/images/6a3d1e4c01c492705919dd2eca29099a.png" group-title="Live Events - NFL",NFL GAME 04: Packers at Vikings - 1:00pm ET
 http://alphaplayer.ddns.net:25461/live/ecrweg@gmail.com/9513eb867cbbee254ae2f8573479b5497910d5314dfeb9e466fd4227c985f49fd7a55153cb9638e82d7934c387ecfc83eaf0f77e004fb6a5d39119faabfd3979/3657.m3u8
-#EXTINF:-1 tvg-logo="http://212.102.60.73/logos/nfl-sunday-ticket.png" group-title="Live Events - NFL",NFL GAME 05: Chiefs at Titans - 1:00pm ET
+#EXTINF:-1 tvg-logo="http://212.102.60.73/logos/nfl-sunday-ticket.png" group-title="Live Events - NFL",NFL GAME 05: Colts at Texans - 1:00pm ET
 http://alphaplayer.ddns.net:25461/live/ecrweg@gmail.com/9513eb867cbbee254ae2f8573479b5497910d5314dfeb9e466fd4227c985f49fd7a55153cb9638e82d7934c387ecfc83eaf0f77e004fb6a5d39119faabfd3979/3658.m3u8
-#EXTINF:-1 tvg-logo="http://212.102.60.73/logos/nfl-sunday-ticket.png" group-title="Live Events - NFL",NFL GAME 06: Chargers at Cowboys - 1:00pm ET
+#EXTINF:-1 tvg-logo="http://212.102.60.73/logos/nfl-sunday-ticket.png" group-title="Live Events - NFL",NFL GAME 06: Saints at Falcons - 1:00pm ET
 http://alphaplayer.ddns.net:25461/live/ecrweg@gmail.com/9513eb867cbbee254ae2f8573479b5497910d5314dfeb9e466fd4227c985f49fd7a55153cb9638e82d7934c387ecfc83eaf0f77e004fb6a5d39119faabfd3979/3659.m3u8
-#EXTINF:-1 tvg-logo="http://212.102.60.73/logos/nfl-sunday-ticket.png" group-title="Live Events - NFL",NFL GAME 07: Vikings at Giants - 1:00pm ET
+#EXTINF:-1 tvg-logo="http://212.102.60.73/logos/nfl-sunday-ticket.png" group-title="Live Events - NFL",NFL GAME 07: Titans at Jaguars - 1:00pm ET
 http://alphaplayer.ddns.net:25461/live/ecrweg@gmail.com/9513eb867cbbee254ae2f8573479b5497910d5314dfeb9e466fd4227c985f49fd7a55153cb9638e82d7934c387ecfc83eaf0f77e004fb6a5d39119faabfd3979/3660.m3u8
-#EXTINF:-1 tvg-logo="http://212.102.60.73/logos/nfl-sunday-ticket.png" group-title="Live Events - NFL",NFL GAME 08: Jets at Saints - 1:00pm ET
+#EXTINF:-1 tvg-logo="http://212.102.60.73/logos/nfl-sunday-ticket.png" group-title="Live Events - NFL",NFL GAME 08: Cardinals at Rams - 4:25pm ET
 http://alphaplayer.ddns.net:25461/live/ecrweg@gmail.com/9513eb867cbbee254ae2f8573479b5497910d5314dfeb9e466fd4227c985f49fd7a55153cb9638e82d7934c387ecfc83eaf0f77e004fb6a5d39119faabfd3979/3661.m3u8
-#EXTINF:-1 tvg-logo="http://212.102.60.73/logos/nfl-sunday-ticket.png" group-title="Live Events - NFL",NFL GAME 09: Buccaneers at Panthers - 1:00pm ET
+#EXTINF:-1 tvg-logo="http://212.102.60.73/logos/nfl-sunday-ticket.png" group-title="Live Events - NFL",NFL GAME 09: Lions at Bears - 4:25pm ET
 http://alphaplayer.ddns.net:25461/live/ecrweg@gmail.com/9513eb867cbbee254ae2f8573479b5497910d5314dfeb9e466fd4227c985f49fd7a55153cb9638e82d7934c387ecfc83eaf0f77e004fb6a5d39119faabfd3979/3662.m3u8
-#EXTINF:-1 tvg-logo="http://212.102.60.73/logos/nfl-sunday-ticket.png" group-title="Live Events - NFL",NFL GAME 10: Falcons at Cardinals - 4:05pm ET
+#EXTINF:-1 tvg-logo="http://212.102.60.73/logos/nfl-sunday-ticket.png" group-title="Live Events - NFL",NFL GAME 10: Chiefs at Raiders - 4:25pm ET
 http://alphaplayer.ddns.net:25461/live/ecrweg@gmail.com/9513eb867cbbee254ae2f8573479b5497910d5314dfeb9e466fd4227c985f49fd7a55153cb9638e82d7934c387ecfc83eaf0f77e004fb6a5d39119faabfd3979/3663.m3u8
-#EXTINF:-1 tvg-logo="http://212.102.60.73/logos/nfl-sunday-ticket.png" group-title="Live Events - NFL",NFL GAME 11: Jaguars at Broncos - 4:05pm ET
+#EXTINF:-1 tvg-logo="http://212.102.60.73/logos/nfl-sunday-ticket.png" group-title="Live Events - NFL",NFL GAME 11: Chargers at Broncos - 4:25pm ET
 http://alphaplayer.ddns.net:25461/live/ecrweg@gmail.com/9513eb867cbbee254ae2f8573479b5497910d5314dfeb9e466fd4227c985f49fd7a55153cb9638e82d7934c387ecfc83eaf0f77e004fb6a5d39119faabfd3979/3664.m3u8
-#EXTINF:-1 tvg-logo="http://212.102.60.73/logos/nfl-sunday-ticket.png" group-title="Live Events - NFL",NFL GAME 12: Raiders at Texans - 4:25pm ET
+#EXTINF:-1 tvg-logo="http://212.102.60.73/logos/nfl-sunday-ticket.png" group-title="Live Events - NFL",NFL GAME 12: Dolphins at Patriots - 4:25pm ET
 http://alphaplayer.ddns.net:25461/live/ecrweg@gmail.com/9513eb867cbbee254ae2f8573479b5497910d5314dfeb9e466fd4227c985f49fd7a55153cb9638e82d7934c387ecfc83eaf0f77e004fb6a5d39119faabfd3979/3665.m3u8
-#EXTINF:-1 tvg-logo="http://212.102.60.73/logos/nfl-sunday-ticket.png" group-title="Live Events - NFL",NFL GAME 13: Steelers at Lions - 4:25pm ET
+#EXTINF:-1 tvg-logo="http://212.102.60.73/logos/nfl-sunday-ticket.png" group-title="Live Events - NFL",NFL GAME 13: Jets at Bills - 4:25pm ET
 http://alphaplayer.ddns.net:25461/live/ecrweg@gmail.com/9513eb867cbbee254ae2f8573479b5497910d5314dfeb9e466fd4227c985f49fd7a55153cb9638e82d7934c387ecfc83eaf0f77e004fb6a5d39119faabfd3979/3666.m3u8
-#EXTINF:-1 tvg-logo="http://212.102.60.73:25461/images/6a3d1e4c01c492705919dd2eca29099a.png" group-title="Live Events - NFL",NFL GAME 14: Patriots at Ravens - 8:20pm ET
+#EXTINF:-1 tvg-logo="http://212.102.60.73:25461/images/6a3d1e4c01c492705919dd2eca29099a.png" group-title="Live Events - NFL",NFL GAME 14: Commanders at Eagles - 4:25pm ET
 http://alphaplayer.ddns.net:25461/live/ecrweg@gmail.com/9513eb867cbbee254ae2f8573479b5497910d5314dfeb9e466fd4227c985f49fd7a55153cb9638e82d7934c387ecfc83eaf0f77e004fb6a5d39119faabfd3979/3667.m3u8
-#EXTINF:-1 tvg-logo="http://212.102.60.73/logos/nfl-sunday-ticket.png" group-title="Live Events - NFL",NFL GAME 15: 49ers at Colts - 8:15pm ET (Monday)
+#EXTINF:-1 tvg-logo="http://212.102.60.73/logos/nfl-sunday-ticket.png" group-title="Live Events - NFL",NFL GAME 15: Ravens at Steelers - 8:20pm ET
 http://alphaplayer.ddns.net:25461/live/ecrweg@gmail.com/9513eb867cbbee254ae2f8573479b5497910d5314dfeb9e466fd4227c985f49fd7a55153cb9638e82d7934c387ecfc83eaf0f77e004fb6a5d39119faabfd3979/6940.m3u8
 #EXTINF:-1 tvg-logo="http://212.102.60.73/logos/nfl-sunday-ticket.png" group-title="Live Events - NFL",NFL GAME 16: pm ET
 http://alphaplayer.ddns.net:25461/live/ecrweg@gmail.com/9513eb867cbbee254ae2f8573479b5497910d5314dfeb9e466fd4227c985f49fd7a55153cb9638e82d7934c387ecfc83eaf0f77e004fb6a5d39119faabfd3979/6941.m3u8
@@ -2207,4 +2211,4 @@ http://alphaplayer.ddns.net:25461/live/ecrweg@gmail.com/9513eb867cbbee254ae2f857
 #EXTINF:-1 tvg-logo="http://s1brazil.ddns.net/logos/R%c3%83%c2%a1dio%20Bandeirantes%20AM%20840%20FM%2090.9.jpg" group-title="Unknown",Rádio Bandeirantes AM 840 FM 90.9
 http://alphaplayer.ddns.net:25461/live/ecrweg@gmail.com/9513eb867cbbee254ae2f8573479b5497910d5314dfeb9e466fd4227c985f49fd7a55153cb9638e82d7934c387ecfc83eaf0f77e004fb6a5d39119faabfd3979/1431.m3u8
 
-# Total: 1077
+# Total: 1079

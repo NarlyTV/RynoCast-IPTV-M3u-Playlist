@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: funmitra.com:8080
-# Generated: 2026-01-01 18:31:18
+# Generated: 2026-01-03 07:02:04
 # Expires: 2026-04-30
 # Family Safe Edition
 # ==============================================
@@ -5329,9 +5329,7 @@ http://funmitra.com:8080/live/pepi290424/wbktXzArzf/519554.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/Italy/sport220/skySportMoto.png" group-title="IT SPORT",IT: SKY SPORT MOTO GP HD
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/519553.m3u8
 
-# --- IT VIP CINEMA (18) ---
-#EXTINF:-1 tvg-logo="" group-title="IT VIP CINEMA",IT: VIP PULSE CINEMA COMEDY
-http://funmitra.com:8080/live/pepi290424/wbktXzArzf/379165.m3u8
+# --- IT VIP CINEMA (17) ---
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ITALY/skycinemauno.png" group-title="IT VIP CINEMA",IT: VIP SKY CINEMA UNO HD
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/379164.m3u8
 #EXTINF:-1 tvg-logo="" group-title="IT VIP CINEMA",IT: VIP SKY CINEMA UNO +24
@@ -7556,7 +7554,7 @@ http://funmitra.com:8080/live/pepi290424/wbktXzArzf/641719.m3u8
 # --- PL INFORMACYJNE (13) ---
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/Wydarzenia_24.png" group-title="PL INFORMACYJNE",PL: WYDARZENIA 24 HD
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/333026.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/METRO.png" group-title="PL INFORMACYJNE",PL: METRO
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/METRO.png" group-title="PL INFORMACYJNE",PL: METRO TV
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/170390.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/POLSATNEWS.png" group-title="PL INFORMACYJNE",PL: POLSAT NEWS HD
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/133219.m3u8
@@ -7581,7 +7579,7 @@ http://funmitra.com:8080/live/pepi290424/wbktXzArzf/478420.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/Wydarzenia_24.png" group-title="PL INFORMACYJNE",PL: WYDARZENIA 24 FHD
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/478418.m3u8
 
-# --- PL POLAND - OGÓLNE (48) ---
+# --- PL POLAND - OGÓLNE (53) ---
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/flag/pl.png" group-title="PL POLAND - OGÓLNE",PL: ----- POLAND -----
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/135946.m3u8
 #EXTINF:-1 tvg-logo="https://epg.ovh/logo/TVP+HD.png" group-title="PL POLAND - OGÓLNE",PL: TVP HD
@@ -7678,12 +7676,24 @@ http://funmitra.com:8080/live/pepi290424/wbktXzArzf/641722.m3u8
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/641721.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PL POLAND - OGÓLNE",PL: TVC SUPER
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/641720.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL POLAND - OGÓLNE",PL: SEJM RP
+http://funmitra.com:8080/live/pepi290424/wbktXzArzf/652912.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL POLAND - OGÓLNE",PL: ANTENA
+http://funmitra.com:8080/live/pepi290424/wbktXzArzf/652911.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL POLAND - OGÓLNE",PL: KABARET TV
+http://funmitra.com:8080/live/pepi290424/wbktXzArzf/652910.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL POLAND - OGÓLNE",PL: TVP WORLD
+http://funmitra.com:8080/live/pepi290424/wbktXzArzf/652909.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL POLAND - OGÓLNE",PL: ALFA TVP
+http://funmitra.com:8080/live/pepi290424/wbktXzArzf/652906.m3u8
 
-# --- PL PRZYRODNICZE - KULTURA (41) ---
+# --- PL PRZYRODNICZE - KULTURA (43) ---
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/comedy-central-deutschland-us-de.png" group-title="PL PRZYRODNICZE - KULTURA",PL: COMEDY CENTRAL POLAND HD
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/341037.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/TVPKULTURA.png" group-title="PL PRZYRODNICZE - KULTURA",PL: TVP KULTURA
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/14957.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL PRZYRODNICZE - KULTURA",PL: TVP KULTURA 2
+http://funmitra.com:8080/live/pepi290424/wbktXzArzf/652908.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/TLCHD.png" group-title="PL PRZYRODNICZE - KULTURA",PL: TLC HD
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/133204.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/POLSATDOKU.png" group-title="PL PRZYRODNICZE - KULTURA",PL: POLSAT DOKU HD
@@ -7724,6 +7734,8 @@ http://funmitra.com:8080/live/pepi290424/wbktXzArzf/7416.m3u8
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/7413.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/TVPHISTORIA.png" group-title="PL PRZYRODNICZE - KULTURA",PL: TVP HISTORIA
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/133190.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL PRZYRODNICZE - KULTURA",PL: TVP HISTORIA 2
+http://funmitra.com:8080/live/pepi290424/wbktXzArzf/652907.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/DISCOVERYHISTORIA.png" group-title="PL PRZYRODNICZE - KULTURA",PL: DISCOVERY HISTORIA
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/170446.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/discovery_science.png" group-title="PL PRZYRODNICZE - KULTURA",PL: DISCOVERY SCIENCE HD
@@ -7867,121 +7879,7 @@ http://funmitra.com:8080/live/pepi290424/wbktXzArzf/576775.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PL SPORTOWE",PL: GOLF ZONE HD
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/641726.m3u8
 
-# --- PL VIAPLAY (56) ---
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/viaplay.png" group-title="PL VIAPLAY",PL: VIAPLAY 1 HD
-http://funmitra.com:8080/live/pepi290424/wbktXzArzf/410496.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/viaplay.png" group-title="PL VIAPLAY",PL: VIAPLAY 2
-http://funmitra.com:8080/live/pepi290424/wbktXzArzf/410495.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/viaplay.png" group-title="PL VIAPLAY",PL: VIAPLAY 3
-http://funmitra.com:8080/live/pepi290424/wbktXzArzf/410494.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/viaplay.png" group-title="PL VIAPLAY",PL: VIAPLAY 4
-http://funmitra.com:8080/live/pepi290424/wbktXzArzf/410493.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/viaplay.png" group-title="PL VIAPLAY",PL: VIAPLAY 5
-http://funmitra.com:8080/live/pepi290424/wbktXzArzf/410492.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/viaplay.png" group-title="PL VIAPLAY",PL: VIAPLAY XTRA 1 HD [LIVE-MATCH]
-http://funmitra.com:8080/live/pepi290424/wbktXzArzf/394466.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/viaplay.png" group-title="PL VIAPLAY",PL: VIAPLAY XTRA 2 HD [LIVE-MATCH]
-http://funmitra.com:8080/live/pepi290424/wbktXzArzf/394465.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/viaplay.png" group-title="PL VIAPLAY",PL: VIAPLAY XTRA 3 HD [LIVE-MATCH]
-http://funmitra.com:8080/live/pepi290424/wbktXzArzf/394464.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/viaplay.png" group-title="PL VIAPLAY",PL: VIAPLAY XTRA 4 HD [LIVE-MATCH]
-http://funmitra.com:8080/live/pepi290424/wbktXzArzf/394463.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/viaplay.png" group-title="PL VIAPLAY",PL: VIAPLAY XTRA 5 HD [LIVE-MATCH]
-http://funmitra.com:8080/live/pepi290424/wbktXzArzf/394462.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/viaplay.png" group-title="PL VIAPLAY",PL: VIAPLAY XTRA 6 HD [LIVE-MATCH]
-http://funmitra.com:8080/live/pepi290424/wbktXzArzf/394461.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/viaplay.png" group-title="PL VIAPLAY",PL: VIAPLAY XTRA 7 HD [LIVE-MATCH]
-http://funmitra.com:8080/live/pepi290424/wbktXzArzf/394460.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/viaplay.png" group-title="PL VIAPLAY",PL: VIAPLAY XTRA 8 HD [LIVE-MATCH]
-http://funmitra.com:8080/live/pepi290424/wbktXzArzf/394459.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/viaplay.png" group-title="PL VIAPLAY",PL: VIAPLAY XTRA 9 HD [LIVE-MATCH]
-http://funmitra.com:8080/live/pepi290424/wbktXzArzf/394458.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/viaplay.png" group-title="PL VIAPLAY",PL: VIAPLAY XTRA 10 HD [LIVE-MATCH]
-http://funmitra.com:8080/live/pepi290424/wbktXzArzf/394457.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/viaplay.png" group-title="PL VIAPLAY",PL: VIAPLAY XTRA 11 HD KSW [LIVE-MATCH]
-http://funmitra.com:8080/live/pepi290424/wbktXzArzf/394456.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/viaplay.png" group-title="PL VIAPLAY",PL: VIAPLAY XTRA 12 HD [LIVE-MATCH]
-http://funmitra.com:8080/live/pepi290424/wbktXzArzf/394455.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/viaplay.png" group-title="PL VIAPLAY",PL: VIAPLAY XTRA 13 HD [LIVE-MATCH]
-http://funmitra.com:8080/live/pepi290424/wbktXzArzf/394454.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/viaplay.png" group-title="PL VIAPLAY",PL: VIAPLAY XTRA 14 HD [LIVE-MATCH]
-http://funmitra.com:8080/live/pepi290424/wbktXzArzf/394453.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/viaplay.png" group-title="PL VIAPLAY",PL: VIAPLAY XTRA 15 HD [LIVE-MATCH]
-http://funmitra.com:8080/live/pepi290424/wbktXzArzf/394452.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/viaplay.png" group-title="PL VIAPLAY",PL: VIAPLAY XTRA 11 HD [LIVE-MATCH]
-http://funmitra.com:8080/live/pepi290424/wbktXzArzf/552672.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/viaplay.png" group-title="PL VIAPLAY",PL: VIAPLAY XTRA 16 HD [LIVE-MATCH]
-http://funmitra.com:8080/live/pepi290424/wbktXzArzf/552671.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/viaplay.png" group-title="PL VIAPLAY",PL: VIAPLAY XTRA 17 HD [LIVE-MATCH]
-http://funmitra.com:8080/live/pepi290424/wbktXzArzf/552670.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/viaplay.png" group-title="PL VIAPLAY",PL: VIAPLAY XTRA 18 HD [LIVE-MATCH]
-http://funmitra.com:8080/live/pepi290424/wbktXzArzf/552669.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/viaplay.png" group-title="PL VIAPLAY",PL: VIAPLAY XTRA 19 HD [LIVE-MATCH]
-http://funmitra.com:8080/live/pepi290424/wbktXzArzf/552668.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/viaplay.png" group-title="PL VIAPLAY",PL: VIAPLAY XTRA 20 HD [LIVE-MATCH]
-http://funmitra.com:8080/live/pepi290424/wbktXzArzf/552667.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/viaplay.png" group-title="PL VIAPLAY",PL: VIAPLAY XTRA 21 HD [LIVE-MATCH]
-http://funmitra.com:8080/live/pepi290424/wbktXzArzf/552666.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/viaplay.png" group-title="PL VIAPLAY",PL: VIAPLAY XTRA 22 HD [LIVE-MATCH]
-http://funmitra.com:8080/live/pepi290424/wbktXzArzf/552665.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/viaplay.png" group-title="PL VIAPLAY",PL: VIAPLAY XTRA 23 HD [LIVE-MATCH]
-http://funmitra.com:8080/live/pepi290424/wbktXzArzf/552664.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/viaplay.png" group-title="PL VIAPLAY",PL: VIAPLAY XTRA 24 HD [LIVE-MATCH]
-http://funmitra.com:8080/live/pepi290424/wbktXzArzf/552663.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/viaplay.png" group-title="PL VIAPLAY",PL: VIAPLAY XTRA 25 HD [LIVE-MATCH]
-http://funmitra.com:8080/live/pepi290424/wbktXzArzf/552662.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/viaplay.png" group-title="PL VIAPLAY",PL: VIAPLAY XTRA 26 HD [LIVE-MATCH]
-http://funmitra.com:8080/live/pepi290424/wbktXzArzf/552661.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/viaplay.png" group-title="PL VIAPLAY",PL: VIAPLAY XTRA 27 HD [LIVE-MATCH]
-http://funmitra.com:8080/live/pepi290424/wbktXzArzf/552660.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/viaplay.png" group-title="PL VIAPLAY",PL: VIAPLAY XTRA 28 HD [LIVE-MATCH]
-http://funmitra.com:8080/live/pepi290424/wbktXzArzf/552659.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/viaplay.png" group-title="PL VIAPLAY",PL: VIAPLAY XTRA 29 HD [LIVE-MATCH]
-http://funmitra.com:8080/live/pepi290424/wbktXzArzf/552658.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/viaplay.png" group-title="PL VIAPLAY",PL: VIAPLAY XTRA 30 HD [LIVE-MATCH]
-http://funmitra.com:8080/live/pepi290424/wbktXzArzf/552657.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/viaplay.png" group-title="PL VIAPLAY",PL: VIAPLAY XTRA 31 HD [LIVE-MATCH]
-http://funmitra.com:8080/live/pepi290424/wbktXzArzf/552656.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/viaplay.png" group-title="PL VIAPLAY",PL: VIAPLAY XTRA 32 HD [LIVE-MATCH]
-http://funmitra.com:8080/live/pepi290424/wbktXzArzf/552655.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/viaplay.png" group-title="PL VIAPLAY",PL: VIAPLAY XTRA 33 HD [LIVE-MATCH]
-http://funmitra.com:8080/live/pepi290424/wbktXzArzf/552654.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/viaplay.png" group-title="PL VIAPLAY",PL: VIAPLAY XTRA 34 HD [LIVE-MATCH]
-http://funmitra.com:8080/live/pepi290424/wbktXzArzf/552653.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/viaplay.png" group-title="PL VIAPLAY",PL: VIAPLAY XTRA 35 HD [LIVE-MATCH]
-http://funmitra.com:8080/live/pepi290424/wbktXzArzf/552652.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/viaplay.png" group-title="PL VIAPLAY",PL: VIAPLAY XTRA 36 HD [LIVE-MATCH]
-http://funmitra.com:8080/live/pepi290424/wbktXzArzf/552651.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/viaplay.png" group-title="PL VIAPLAY",PL: VIAPLAY XTRA 37 HD [LIVE-MATCH]
-http://funmitra.com:8080/live/pepi290424/wbktXzArzf/552650.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/viaplay.png" group-title="PL VIAPLAY",PL: VIAPLAY XTRA 38 HD [LIVE-MATCH]
-http://funmitra.com:8080/live/pepi290424/wbktXzArzf/552649.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/viaplay.png" group-title="PL VIAPLAY",PL: VIAPLAY XTRA 39 HD [LIVE-MATCH]
-http://funmitra.com:8080/live/pepi290424/wbktXzArzf/552648.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/viaplay.png" group-title="PL VIAPLAY",PL: VIAPLAY XTRA 40 HD [LIVE-MATCH]
-http://funmitra.com:8080/live/pepi290424/wbktXzArzf/552647.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/viaplay.png" group-title="PL VIAPLAY",PL: VIAPLAY XTRA 41 HD [LIVE-MATCH]
-http://funmitra.com:8080/live/pepi290424/wbktXzArzf/552646.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/viaplay.png" group-title="PL VIAPLAY",PL: VIAPLAY XTRA 42 HD [LIVE-MATCH]
-http://funmitra.com:8080/live/pepi290424/wbktXzArzf/552645.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/viaplay.png" group-title="PL VIAPLAY",PL: VIAPLAY XTRA 43 HD [LIVE-MATCH]
-http://funmitra.com:8080/live/pepi290424/wbktXzArzf/552644.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/viaplay.png" group-title="PL VIAPLAY",PL: VIAPLAY XTRA 44 HD [LIVE-MATCH]
-http://funmitra.com:8080/live/pepi290424/wbktXzArzf/552643.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/viaplay.png" group-title="PL VIAPLAY",PL: VIAPLAY XTRA 45 HD [LIVE-MATCH]
-http://funmitra.com:8080/live/pepi290424/wbktXzArzf/552642.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/viaplay.png" group-title="PL VIAPLAY",PL: VIAPLAY XTRA 46 HD [LIVE-MATCH]
-http://funmitra.com:8080/live/pepi290424/wbktXzArzf/552641.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/viaplay.png" group-title="PL VIAPLAY",PL: VIAPLAY KSW PPV HD HD [LIVE-MATCH]
-http://funmitra.com:8080/live/pepi290424/wbktXzArzf/552640.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/viaplay.png" group-title="PL VIAPLAY",PL: VIAPLAY POLSKA KSW HD [LIVE-MATCH]
-http://funmitra.com:8080/live/pepi290424/wbktXzArzf/552639.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/f1Viaplay.png" group-title="PL VIAPLAY",PL: F1 TV VIAPLAY 1 HD
-http://funmitra.com:8080/live/pepi290424/wbktXzArzf/552638.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/f1Viaplay.png" group-title="PL VIAPLAY",PL: F1 TV VIAPLAY 2 HD
-http://funmitra.com:8080/live/pepi290424/wbktXzArzf/552637.m3u8
-
-# --- PL VIP POLAND (223) ---
+# --- PL VIP POLAND (185) ---
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/logos_a-z/t/tvphd.png" group-title="PL VIP POLAND",PL:┃VIP┃ TVP HD
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/489435.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/TVP1.png" group-title="PL VIP POLAND",PL:┃VIP┃ TVP 1 HD
@@ -8022,7 +7920,7 @@ http://funmitra.com:8080/live/pepi290424/wbktXzArzf/489244.m3u8
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/489379.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/NEDERLAND-NEW1/AMC.png" group-title="PL VIP POLAND",PL:┃VIP┃ AMC HD
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/489377.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/TVNFABULA.png" group-title="PL VIP POLAND",PL:┃VIP┃ TVN FABULA
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/TVNFABULA.png" group-title="PL VIP POLAND",PL:┃VIP┃ TVN FABULA HD
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/489374.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/TVNTURBO.png" group-title="PL VIP POLAND",PL:┃VIP┃ TVN TURBO HD
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/489373.m3u8
@@ -8116,8 +8014,6 @@ http://funmitra.com:8080/live/pepi290424/wbktXzArzf/489370.m3u8
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/489368.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/FOKUSTV.png" group-title="PL VIP POLAND",PL:┃VIP┃ FOKUS TV
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/489367.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/MOTOWIZJATVHD.png" group-title="PL VIP POLAND",PL:┃VIP┃ MOTOWIZJA TV HD
-http://funmitra.com:8080/live/pepi290424/wbktXzArzf/489365.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/POWERTV.png" group-title="PL VIP POLAND",PL:┃VIP┃ POWER TV
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/489363.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/romance_tv.png" group-title="PL VIP POLAND",PL:┃VIP┃ ROMANCE TV HD
@@ -8286,58 +8182,8 @@ http://funmitra.com:8080/live/pepi290424/wbktXzArzf/489285.m3u8
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/489284.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/Crime_and_Investigation.png" group-title="PL VIP POLAND",PL:┃VIP┃ CRIME & INVESTIGATION HD
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/489283.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/logos_a-z/p/polsatsportextrahd.png" group-title="PL VIP POLAND",PL:┃VIP┃ POLSAT SPORT EXTRA HD
-http://funmitra.com:8080/live/pepi290424/wbktXzArzf/489282.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PL VIP POLAND",PL:┃VIP┃ POLSAT SPORT EXTRA 2 HD
-http://funmitra.com:8080/live/pepi290424/wbktXzArzf/651584.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PL VIP POLAND",PL:┃VIP┃ POLSAT SPORT EXTRA 3 HD
-http://funmitra.com:8080/live/pepi290424/wbktXzArzf/651583.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PL VIP POLAND",PL:┃VIP┃ POLSAT SPORT EXTRA 4 HD
-http://funmitra.com:8080/live/pepi290424/wbktXzArzf/651582.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/logos_a-z/p/polsatsportfighthd.png" group-title="PL VIP POLAND",PL:┃VIP┃ POLSAT SPORT FIGHT HD
-http://funmitra.com:8080/live/pepi290424/wbktXzArzf/489281.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/SPORTKLUBHD.png" group-title="PL VIP POLAND",PL:┃VIP┃ SPORT KLUB HD
-http://funmitra.com:8080/live/pepi290424/wbktXzArzf/489275.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/eurosport_1.png" group-title="PL VIP POLAND",PL:┃VIP┃ EUROSPORT 1 HD
-http://funmitra.com:8080/live/pepi290424/wbktXzArzf/489274.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/eurosport_2.png" group-title="PL VIP POLAND",PL:┃VIP┃ EUROSPORT 2 HD
-http://funmitra.com:8080/live/pepi290424/wbktXzArzf/489273.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/POLSATSPORT.png" group-title="PL VIP POLAND",PL:┃VIP┃ POLSAT SPORT HD
-http://funmitra.com:8080/live/pepi290424/wbktXzArzf/489272.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PL VIP POLAND",PL:┃VIP┃ POLSAT SPORT 2 HD
-http://funmitra.com:8080/live/pepi290424/wbktXzArzf/651586.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PL VIP POLAND",PL:┃VIP┃ POLSAT SPORT 3 HD
-http://funmitra.com:8080/live/pepi290424/wbktXzArzf/651585.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/NEDERLAND-NEW1/extreme_sp.png" group-title="PL VIP POLAND",PL:┃VIP┃ EXTREME SPORTS HD
-http://funmitra.com:8080/live/pepi290424/wbktXzArzf/489271.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/logos_a-z/p/polsatsportpremium1.png" group-title="PL VIP POLAND",PL:┃VIP┃ POLSAT SPORT PREM. 1 HD
-http://funmitra.com:8080/live/pepi290424/wbktXzArzf/489270.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/logos_a-z/p/polsatsportpremium2.png" group-title="PL VIP POLAND",PL:┃VIP┃ POLSAT SPORT PREM. 2 HD
-http://funmitra.com:8080/live/pepi290424/wbktXzArzf/489269.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/logos_a-z/p/polsatsportpremiumppv3.png" group-title="PL VIP POLAND",PL:┃VIP┃ POLSAT SPORT PREM. 3 HD
-http://funmitra.com:8080/live/pepi290424/wbktXzArzf/489268.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/logos_a-z/p/polsatsportpremiumppv4.png" group-title="PL VIP POLAND",PL:┃VIP┃ POLSAT SPORT PREM. 4 HD
-http://funmitra.com:8080/live/pepi290424/wbktXzArzf/489267.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/logos_a-z/p/polsatsportpremiumppv5.png" group-title="PL VIP POLAND",PL:┃VIP┃ POLSAT SPORT PREM. 5 HD
-http://funmitra.com:8080/live/pepi290424/wbktXzArzf/489266.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/Polsat_Sport_Premium_6_PPV.png" group-title="PL VIP POLAND",PL:┃VIP┃ POLSAT SPORT PREM  PPV6 HD
-http://funmitra.com:8080/live/pepi290424/wbktXzArzf/489265.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/BELGIUM/eleven_sport1.png" group-title="PL VIP POLAND",PL:┃VIP┃ ELEVENSPORT 1 HD
-http://funmitra.com:8080/live/pepi290424/wbktXzArzf/489264.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/BELGIUM/eleven_sport2.png" group-title="PL VIP POLAND",PL:┃VIP┃ ELEVENSPORT 2 HD
-http://funmitra.com:8080/live/pepi290424/wbktXzArzf/489263.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/BELGIUM/eleven_sport3.png" group-title="PL VIP POLAND",PL:┃VIP┃ ELEVENSPORT 3 HD
-http://funmitra.com:8080/live/pepi290424/wbktXzArzf/489262.m3u8
-#EXTINF:-1 tvg-logo="https://epg.ovh/logo/Eleven+Sports+4.png" group-title="PL VIP POLAND",PL:┃VIP┃ ELEVENSPORT 4 HD
-http://funmitra.com:8080/live/pepi290424/wbktXzArzf/489261.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/GOLFCHANNEL.png" group-title="PL VIP POLAND",PL:┃VIP┃ GOLF CHANNEL
-http://funmitra.com:8080/live/pepi290424/wbktXzArzf/489260.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/fightbox.png" group-title="PL VIP POLAND",PL:┃VIP┃ FIGHTBOX HD
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/489259.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/TVPSPORT.png" group-title="PL VIP POLAND",PL:┃VIP┃ TVP SPORT HD
-http://funmitra.com:8080/live/pepi290424/wbktXzArzf/489256.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/POLSATSPORTNEWS.png" group-title="PL VIP POLAND",PL:┃VIP┃ POLSAT SPORT NEWS HD
-http://funmitra.com:8080/live/pepi290424/wbktXzArzf/489255.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/POLSATNEWS2.png" group-title="PL VIP POLAND",PL:┃VIP┃ POLSAT NEWS POLITYKA HD
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/489251.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/wydarzenia24.png" group-title="PL VIP POLAND",PL:┃VIP┃ WYDARZENIA 24 HD
@@ -8368,8 +8214,6 @@ http://funmitra.com:8080/live/pepi290424/wbktXzArzf/651538.m3u8
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/651537.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PL VIP POLAND",PL:┃VIP┃ KYC KYC
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/651536.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PL VIP POLAND",PL:┃VIP┃ X-SPORT HD
-http://funmitra.com:8080/live/pepi290424/wbktXzArzf/651535.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PL VIP POLAND",PL:┃VIP┃ KVARTAL TV
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/651533.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PL VIP POLAND",PL:┃VIP┃ DACHA HD
@@ -8378,56 +8222,224 @@ http://funmitra.com:8080/live/pepi290424/wbktXzArzf/651532.m3u8
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/651531.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/logos_a-z/i/itvn.png" group-title="PL VIP POLAND",PL:┃VIP┃ ITVN
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/489243.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/Eurosport_extra.png" group-title="PL VIP POLAND",PL: VIP EUROSPORT EXTRA PLAYER 1
-http://funmitra.com:8080/live/pepi290424/wbktXzArzf/496027.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/Eurosport_extra.png" group-title="PL VIP POLAND",PL: VIP EUROSPORT EXTRA PLAYER 2
-http://funmitra.com:8080/live/pepi290424/wbktXzArzf/496026.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/Eurosport_extra.png" group-title="PL VIP POLAND",PL: VIP EUROSPORT EXTRA PLAYER 3
-http://funmitra.com:8080/live/pepi290424/wbktXzArzf/496025.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/Eurosport_extra.png" group-title="PL VIP POLAND",PL: VIP EUROSPORT EXTRA PLAYER 4
-http://funmitra.com:8080/live/pepi290424/wbktXzArzf/496024.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/Eurosport_extra.png" group-title="PL VIP POLAND",PL: VIP EUROSPORT EXTRA PLAYER 5
-http://funmitra.com:8080/live/pepi290424/wbktXzArzf/496023.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/e-sport.png" group-title="PL VIP POLAND",PL: VIP E-SPORT TELEWIZJA FHD
-http://funmitra.com:8080/live/pepi290424/wbktXzArzf/496007.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/logos_a-z/f/fametv.png" group-title="PL VIP POLAND",PL: FAME MMA PPV HD
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/545428.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/mma-attack-ppv.png" group-title="PL VIP POLAND",PL: MMA ATTACK PPV HD
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/545426.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/logos_a-z/p/ppv.png" group-title="PL VIP POLAND",PL: PLAYLIVE PPV PLATFORM
-http://funmitra.com:8080/live/pepi290424/wbktXzArzf/545421.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/NEDERLAND/viaplayXtra.png" group-title="PL VIP POLAND",PL: VIAPLAY POLSKA KSW
-http://funmitra.com:8080/live/pepi290424/wbktXzArzf/545420.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/logos_a-z/t/tmn.jpg" group-title="PL VIP POLAND",PL: TV MN
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/545450.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/UK/ewtn.png" group-title="PL VIP POLAND",PL: EWTN FHD
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/545449.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/vidoc.png" group-title="PL VIP POLAND",PL: VIDOC TV FHD
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/545448.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/NEDERLAND/viaplayXtra.png" group-title="PL VIP POLAND",PL: VIAPLAY KSW PPV HD
-http://funmitra.com:8080/live/pepi290424/wbktXzArzf/545447.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/mediaTV.png" group-title="PL VIP POLAND",PL: VIP MEDIA TV PPV HD
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/545446.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/polsatGo.png" group-title="PL VIP POLAND",PL: POLSAT GO PPV HD
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/545445.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/logos_a-z/t/tvphd.png" group-title="PL VIP POLAND",PL: TVP KOBIETA FHD
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/logos_a-z/t/tvphd.png" group-title="PL VIP POLAND",PL: TVP KOBIETA HD
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/545443.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/kapitanBombe.png" group-title="PL VIP POLAND",PL: KAPITAN BOMBA TV FHD
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/545439.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/l%c4%b1thuan%c4%b1a/primeFight.png" group-title="PL VIP POLAND",PL: PRIME FIGHT FHD
-http://funmitra.com:8080/live/pepi290424/wbktXzArzf/545438.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/logos_a-z/a/antena.png" group-title="PL VIP POLAND",PL: ANTENA TV
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/545437.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/topMovies.png" group-title="PL VIP POLAND",PL: TOP MOVIES POLSKA HD
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/545434.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/logos_a-z/t/tvpabc.png" group-title="PL VIP POLAND",PL: TVP ABC 2 FHD
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/logos_a-z/t/tvpabc.png" group-title="PL VIP POLAND",PL: TVP ABC 2 HD
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/545433.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/logos_a-z/t/tvphd.png" group-title="PL VIP POLAND",PL: TVP NAUKA FHD
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/logos_a-z/t/tvphd.png" group-title="PL VIP POLAND",PL: TVP NAUKA HD
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/545431.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/moconomy.png" group-title="PL VIP POLAND",PL: MOCONOMY HD
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/545430.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/mma-attack-ppv.png" group-title="PL VIP POLAND",PL: PPV STREAM (MMA ATTACK)
+
+# --- PL VIP SPORTOWE+VIAPLAY (94) ---
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/MOTOWIZJATVHD.png" group-title="PL VIP SPORTOWE+VIAPLAY",PL:┃VIP┃ MOTOWIZJA TV HD
+http://funmitra.com:8080/live/pepi290424/wbktXzArzf/489365.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/logos_a-z/p/polsatsportextrahd.png" group-title="PL VIP SPORTOWE+VIAPLAY",PL:┃VIP┃ POLSAT SPORT EXTRA HD
+http://funmitra.com:8080/live/pepi290424/wbktXzArzf/489282.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL VIP SPORTOWE+VIAPLAY",PL:┃VIP┃ POLSAT SPORT EXTRA 2 HD
+http://funmitra.com:8080/live/pepi290424/wbktXzArzf/651584.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL VIP SPORTOWE+VIAPLAY",PL:┃VIP┃ POLSAT SPORT EXTRA 3 HD
+http://funmitra.com:8080/live/pepi290424/wbktXzArzf/651583.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL VIP SPORTOWE+VIAPLAY",PL:┃VIP┃ POLSAT SPORT EXTRA 4 HD
+http://funmitra.com:8080/live/pepi290424/wbktXzArzf/651582.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/logos_a-z/p/polsatsportfighthd.png" group-title="PL VIP SPORTOWE+VIAPLAY",PL:┃VIP┃ POLSAT SPORT FIGHT HD
+http://funmitra.com:8080/live/pepi290424/wbktXzArzf/489281.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/SPORTKLUBHD.png" group-title="PL VIP SPORTOWE+VIAPLAY",PL:┃VIP┃ SPORT KLUB HD
+http://funmitra.com:8080/live/pepi290424/wbktXzArzf/489275.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/eurosport_1.png" group-title="PL VIP SPORTOWE+VIAPLAY",PL:┃VIP┃ EUROSPORT 1 HD
+http://funmitra.com:8080/live/pepi290424/wbktXzArzf/489274.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/eurosport_2.png" group-title="PL VIP SPORTOWE+VIAPLAY",PL:┃VIP┃ EUROSPORT 2 HD
+http://funmitra.com:8080/live/pepi290424/wbktXzArzf/489273.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/POLSATSPORT.png" group-title="PL VIP SPORTOWE+VIAPLAY",PL:┃VIP┃ POLSAT SPORT HD
+http://funmitra.com:8080/live/pepi290424/wbktXzArzf/489272.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL VIP SPORTOWE+VIAPLAY",PL:┃VIP┃ POLSAT SPORT 2 HD
+http://funmitra.com:8080/live/pepi290424/wbktXzArzf/651586.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL VIP SPORTOWE+VIAPLAY",PL:┃VIP┃ POLSAT SPORT 3 HD
+http://funmitra.com:8080/live/pepi290424/wbktXzArzf/651585.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/NEDERLAND-NEW1/extreme_sp.png" group-title="PL VIP SPORTOWE+VIAPLAY",PL:┃VIP┃ EXTREME SPORTS HD
+http://funmitra.com:8080/live/pepi290424/wbktXzArzf/489271.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/logos_a-z/p/polsatsportpremium1.png" group-title="PL VIP SPORTOWE+VIAPLAY",PL:┃VIP┃ POLSAT SPORT PREM. 1 HD
+http://funmitra.com:8080/live/pepi290424/wbktXzArzf/489270.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/logos_a-z/p/polsatsportpremium2.png" group-title="PL VIP SPORTOWE+VIAPLAY",PL:┃VIP┃ POLSAT SPORT PREM. 2 HD
+http://funmitra.com:8080/live/pepi290424/wbktXzArzf/489269.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/logos_a-z/p/polsatsportpremiumppv3.png" group-title="PL VIP SPORTOWE+VIAPLAY",PL:┃VIP┃ POLSAT SPORT PREM. 3 HD
+http://funmitra.com:8080/live/pepi290424/wbktXzArzf/489268.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/logos_a-z/p/polsatsportpremiumppv4.png" group-title="PL VIP SPORTOWE+VIAPLAY",PL:┃VIP┃ POLSAT SPORT PREM. 4 HD
+http://funmitra.com:8080/live/pepi290424/wbktXzArzf/489267.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/logos_a-z/p/polsatsportpremiumppv5.png" group-title="PL VIP SPORTOWE+VIAPLAY",PL:┃VIP┃ POLSAT SPORT PREM. 5 HD
+http://funmitra.com:8080/live/pepi290424/wbktXzArzf/489266.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/Polsat_Sport_Premium_6_PPV.png" group-title="PL VIP SPORTOWE+VIAPLAY",PL:┃VIP┃ POLSAT SPORT PREM  PPV6 HD
+http://funmitra.com:8080/live/pepi290424/wbktXzArzf/489265.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/BELGIUM/eleven_sport1.png" group-title="PL VIP SPORTOWE+VIAPLAY",PL:┃VIP┃ ELEVENSPORT 1 HD
+http://funmitra.com:8080/live/pepi290424/wbktXzArzf/489264.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/BELGIUM/eleven_sport2.png" group-title="PL VIP SPORTOWE+VIAPLAY",PL:┃VIP┃ ELEVENSPORT 2 HD
+http://funmitra.com:8080/live/pepi290424/wbktXzArzf/489263.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/BELGIUM/eleven_sport3.png" group-title="PL VIP SPORTOWE+VIAPLAY",PL:┃VIP┃ ELEVENSPORT 3 HD
+http://funmitra.com:8080/live/pepi290424/wbktXzArzf/489262.m3u8
+#EXTINF:-1 tvg-logo="https://epg.ovh/logo/Eleven+Sports+4.png" group-title="PL VIP SPORTOWE+VIAPLAY",PL:┃VIP┃ ELEVENSPORT 4 HD
+http://funmitra.com:8080/live/pepi290424/wbktXzArzf/489261.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/GOLFCHANNEL.png" group-title="PL VIP SPORTOWE+VIAPLAY",PL:┃VIP┃ GOLF CHANNEL
+http://funmitra.com:8080/live/pepi290424/wbktXzArzf/489260.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/TVPSPORT.png" group-title="PL VIP SPORTOWE+VIAPLAY",PL:┃VIP┃ TVP SPORT HD
+http://funmitra.com:8080/live/pepi290424/wbktXzArzf/489256.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/POLSATSPORTNEWS.png" group-title="PL VIP SPORTOWE+VIAPLAY",PL:┃VIP┃ POLSAT SPORT NEWS HD
+http://funmitra.com:8080/live/pepi290424/wbktXzArzf/489255.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PL VIP SPORTOWE+VIAPLAY",PL:┃VIP┃ X-SPORT HD
+http://funmitra.com:8080/live/pepi290424/wbktXzArzf/651535.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/Eurosport_extra.png" group-title="PL VIP SPORTOWE+VIAPLAY",PL: VIP EUROSPORT EXTRA PLAYER 1
+http://funmitra.com:8080/live/pepi290424/wbktXzArzf/496027.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/Eurosport_extra.png" group-title="PL VIP SPORTOWE+VIAPLAY",PL: VIP EUROSPORT EXTRA PLAYER 2
+http://funmitra.com:8080/live/pepi290424/wbktXzArzf/496026.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/Eurosport_extra.png" group-title="PL VIP SPORTOWE+VIAPLAY",PL: VIP EUROSPORT EXTRA PLAYER 3
+http://funmitra.com:8080/live/pepi290424/wbktXzArzf/496025.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/Eurosport_extra.png" group-title="PL VIP SPORTOWE+VIAPLAY",PL: VIP EUROSPORT EXTRA PLAYER 4
+http://funmitra.com:8080/live/pepi290424/wbktXzArzf/496024.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/Eurosport_extra.png" group-title="PL VIP SPORTOWE+VIAPLAY",PL: VIP EUROSPORT EXTRA PLAYER 5
+http://funmitra.com:8080/live/pepi290424/wbktXzArzf/496023.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/e-sport.png" group-title="PL VIP SPORTOWE+VIAPLAY",PL: VIP E-SPORT TELEWIZJA FHD
+http://funmitra.com:8080/live/pepi290424/wbktXzArzf/496007.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/viaplay.png" group-title="PL VIP SPORTOWE+VIAPLAY",PL: VIAPLAY 1 HD
+http://funmitra.com:8080/live/pepi290424/wbktXzArzf/410496.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/viaplay.png" group-title="PL VIP SPORTOWE+VIAPLAY",PL: VIAPLAY 2
+http://funmitra.com:8080/live/pepi290424/wbktXzArzf/410495.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/viaplay.png" group-title="PL VIP SPORTOWE+VIAPLAY",PL: VIAPLAY 3
+http://funmitra.com:8080/live/pepi290424/wbktXzArzf/410494.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/viaplay.png" group-title="PL VIP SPORTOWE+VIAPLAY",PL: VIAPLAY 4
+http://funmitra.com:8080/live/pepi290424/wbktXzArzf/410493.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/viaplay.png" group-title="PL VIP SPORTOWE+VIAPLAY",PL: VIAPLAY 5
+http://funmitra.com:8080/live/pepi290424/wbktXzArzf/410492.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/viaplay.png" group-title="PL VIP SPORTOWE+VIAPLAY",PL: VIAPLAY XTRA 1 HD [LIVE-MATCH]
+http://funmitra.com:8080/live/pepi290424/wbktXzArzf/394466.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/viaplay.png" group-title="PL VIP SPORTOWE+VIAPLAY",PL: VIAPLAY XTRA 2 HD [LIVE-MATCH]
+http://funmitra.com:8080/live/pepi290424/wbktXzArzf/394465.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/viaplay.png" group-title="PL VIP SPORTOWE+VIAPLAY",PL: VIAPLAY XTRA 3 HD [LIVE-MATCH]
+http://funmitra.com:8080/live/pepi290424/wbktXzArzf/394464.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/viaplay.png" group-title="PL VIP SPORTOWE+VIAPLAY",PL: VIAPLAY XTRA 4 HD [LIVE-MATCH]
+http://funmitra.com:8080/live/pepi290424/wbktXzArzf/394463.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/viaplay.png" group-title="PL VIP SPORTOWE+VIAPLAY",PL: VIAPLAY XTRA 5 HD [LIVE-MATCH]
+http://funmitra.com:8080/live/pepi290424/wbktXzArzf/394462.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/viaplay.png" group-title="PL VIP SPORTOWE+VIAPLAY",PL: VIAPLAY XTRA 6 HD [LIVE-MATCH]
+http://funmitra.com:8080/live/pepi290424/wbktXzArzf/394461.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/viaplay.png" group-title="PL VIP SPORTOWE+VIAPLAY",PL: VIAPLAY XTRA 7 HD [LIVE-MATCH]
+http://funmitra.com:8080/live/pepi290424/wbktXzArzf/394460.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/viaplay.png" group-title="PL VIP SPORTOWE+VIAPLAY",PL: VIAPLAY XTRA 8 HD [LIVE-MATCH]
+http://funmitra.com:8080/live/pepi290424/wbktXzArzf/394459.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/viaplay.png" group-title="PL VIP SPORTOWE+VIAPLAY",PL: VIAPLAY XTRA 9 HD [LIVE-MATCH]
+http://funmitra.com:8080/live/pepi290424/wbktXzArzf/394458.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/viaplay.png" group-title="PL VIP SPORTOWE+VIAPLAY",PL: VIAPLAY XTRA 10 HD [LIVE-MATCH]
+http://funmitra.com:8080/live/pepi290424/wbktXzArzf/394457.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/viaplay.png" group-title="PL VIP SPORTOWE+VIAPLAY",PL: VIAPLAY XTRA 11 HD KSW [LIVE-MATCH]
+http://funmitra.com:8080/live/pepi290424/wbktXzArzf/394456.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/viaplay.png" group-title="PL VIP SPORTOWE+VIAPLAY",PL: VIAPLAY XTRA 12 HD [LIVE-MATCH]
+http://funmitra.com:8080/live/pepi290424/wbktXzArzf/394455.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/viaplay.png" group-title="PL VIP SPORTOWE+VIAPLAY",PL: VIAPLAY XTRA 13 HD [LIVE-MATCH]
+http://funmitra.com:8080/live/pepi290424/wbktXzArzf/394454.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/viaplay.png" group-title="PL VIP SPORTOWE+VIAPLAY",PL: VIAPLAY XTRA 14 HD [LIVE-MATCH]
+http://funmitra.com:8080/live/pepi290424/wbktXzArzf/394453.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/viaplay.png" group-title="PL VIP SPORTOWE+VIAPLAY",PL: VIAPLAY XTRA 15 HD [LIVE-MATCH]
+http://funmitra.com:8080/live/pepi290424/wbktXzArzf/394452.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/logos_a-z/p/ppv.png" group-title="PL VIP SPORTOWE+VIAPLAY",PL: PLAYLIVE PPV PLATFORM
+http://funmitra.com:8080/live/pepi290424/wbktXzArzf/545421.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/NEDERLAND/viaplayXtra.png" group-title="PL VIP SPORTOWE+VIAPLAY",PL: VIAPLAY POLSKA KSW
+http://funmitra.com:8080/live/pepi290424/wbktXzArzf/545420.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/NEDERLAND/viaplayXtra.png" group-title="PL VIP SPORTOWE+VIAPLAY",PL: VIAPLAY KSW PPV HD
+http://funmitra.com:8080/live/pepi290424/wbktXzArzf/545447.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/l%c4%b1thuan%c4%b1a/primeFight.png" group-title="PL VIP SPORTOWE+VIAPLAY",PL: PRIME FIGHT FHD
+http://funmitra.com:8080/live/pepi290424/wbktXzArzf/545438.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/mma-attack-ppv.png" group-title="PL VIP SPORTOWE+VIAPLAY",PL: PPV STREAM (MMA ATTACK)
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/545429.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/viaplay.png" group-title="PL VIP SPORTOWE+VIAPLAY",PL: VIAPLAY XTRA 11 HD [LIVE-MATCH]
+http://funmitra.com:8080/live/pepi290424/wbktXzArzf/552672.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/viaplay.png" group-title="PL VIP SPORTOWE+VIAPLAY",PL: VIAPLAY XTRA 16 HD [LIVE-MATCH]
+http://funmitra.com:8080/live/pepi290424/wbktXzArzf/552671.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/viaplay.png" group-title="PL VIP SPORTOWE+VIAPLAY",PL: VIAPLAY XTRA 17 HD [LIVE-MATCH]
+http://funmitra.com:8080/live/pepi290424/wbktXzArzf/552670.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/viaplay.png" group-title="PL VIP SPORTOWE+VIAPLAY",PL: VIAPLAY XTRA 18 HD [LIVE-MATCH]
+http://funmitra.com:8080/live/pepi290424/wbktXzArzf/552669.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/viaplay.png" group-title="PL VIP SPORTOWE+VIAPLAY",PL: VIAPLAY XTRA 19 HD [LIVE-MATCH]
+http://funmitra.com:8080/live/pepi290424/wbktXzArzf/552668.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/viaplay.png" group-title="PL VIP SPORTOWE+VIAPLAY",PL: VIAPLAY XTRA 20 HD [LIVE-MATCH]
+http://funmitra.com:8080/live/pepi290424/wbktXzArzf/552667.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/viaplay.png" group-title="PL VIP SPORTOWE+VIAPLAY",PL: VIAPLAY XTRA 21 HD [LIVE-MATCH]
+http://funmitra.com:8080/live/pepi290424/wbktXzArzf/552666.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/viaplay.png" group-title="PL VIP SPORTOWE+VIAPLAY",PL: VIAPLAY XTRA 22 HD [LIVE-MATCH]
+http://funmitra.com:8080/live/pepi290424/wbktXzArzf/552665.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/viaplay.png" group-title="PL VIP SPORTOWE+VIAPLAY",PL: VIAPLAY XTRA 23 HD [LIVE-MATCH]
+http://funmitra.com:8080/live/pepi290424/wbktXzArzf/552664.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/viaplay.png" group-title="PL VIP SPORTOWE+VIAPLAY",PL: VIAPLAY XTRA 24 HD [LIVE-MATCH]
+http://funmitra.com:8080/live/pepi290424/wbktXzArzf/552663.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/viaplay.png" group-title="PL VIP SPORTOWE+VIAPLAY",PL: VIAPLAY XTRA 25 HD [LIVE-MATCH]
+http://funmitra.com:8080/live/pepi290424/wbktXzArzf/552662.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/viaplay.png" group-title="PL VIP SPORTOWE+VIAPLAY",PL: VIAPLAY XTRA 26 HD [LIVE-MATCH]
+http://funmitra.com:8080/live/pepi290424/wbktXzArzf/552661.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/viaplay.png" group-title="PL VIP SPORTOWE+VIAPLAY",PL: VIAPLAY XTRA 27 HD [LIVE-MATCH]
+http://funmitra.com:8080/live/pepi290424/wbktXzArzf/552660.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/viaplay.png" group-title="PL VIP SPORTOWE+VIAPLAY",PL: VIAPLAY XTRA 28 HD [LIVE-MATCH]
+http://funmitra.com:8080/live/pepi290424/wbktXzArzf/552659.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/viaplay.png" group-title="PL VIP SPORTOWE+VIAPLAY",PL: VIAPLAY XTRA 29 HD [LIVE-MATCH]
+http://funmitra.com:8080/live/pepi290424/wbktXzArzf/552658.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/viaplay.png" group-title="PL VIP SPORTOWE+VIAPLAY",PL: VIAPLAY XTRA 30 HD [LIVE-MATCH]
+http://funmitra.com:8080/live/pepi290424/wbktXzArzf/552657.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/viaplay.png" group-title="PL VIP SPORTOWE+VIAPLAY",PL: VIAPLAY XTRA 31 HD [LIVE-MATCH]
+http://funmitra.com:8080/live/pepi290424/wbktXzArzf/552656.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/viaplay.png" group-title="PL VIP SPORTOWE+VIAPLAY",PL: VIAPLAY XTRA 32 HD [LIVE-MATCH]
+http://funmitra.com:8080/live/pepi290424/wbktXzArzf/552655.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/viaplay.png" group-title="PL VIP SPORTOWE+VIAPLAY",PL: VIAPLAY XTRA 33 HD [LIVE-MATCH]
+http://funmitra.com:8080/live/pepi290424/wbktXzArzf/552654.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/viaplay.png" group-title="PL VIP SPORTOWE+VIAPLAY",PL: VIAPLAY XTRA 34 HD [LIVE-MATCH]
+http://funmitra.com:8080/live/pepi290424/wbktXzArzf/552653.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/viaplay.png" group-title="PL VIP SPORTOWE+VIAPLAY",PL: VIAPLAY XTRA 35 HD [LIVE-MATCH]
+http://funmitra.com:8080/live/pepi290424/wbktXzArzf/552652.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/viaplay.png" group-title="PL VIP SPORTOWE+VIAPLAY",PL: VIAPLAY XTRA 36 HD [LIVE-MATCH]
+http://funmitra.com:8080/live/pepi290424/wbktXzArzf/552651.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/viaplay.png" group-title="PL VIP SPORTOWE+VIAPLAY",PL: VIAPLAY XTRA 37 HD [LIVE-MATCH]
+http://funmitra.com:8080/live/pepi290424/wbktXzArzf/552650.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/viaplay.png" group-title="PL VIP SPORTOWE+VIAPLAY",PL: VIAPLAY XTRA 38 HD [LIVE-MATCH]
+http://funmitra.com:8080/live/pepi290424/wbktXzArzf/552649.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/viaplay.png" group-title="PL VIP SPORTOWE+VIAPLAY",PL: VIAPLAY XTRA 39 HD [LIVE-MATCH]
+http://funmitra.com:8080/live/pepi290424/wbktXzArzf/552648.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/viaplay.png" group-title="PL VIP SPORTOWE+VIAPLAY",PL: VIAPLAY XTRA 40 HD [LIVE-MATCH]
+http://funmitra.com:8080/live/pepi290424/wbktXzArzf/552647.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/viaplay.png" group-title="PL VIP SPORTOWE+VIAPLAY",PL: VIAPLAY XTRA 41 HD [LIVE-MATCH]
+http://funmitra.com:8080/live/pepi290424/wbktXzArzf/552646.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/viaplay.png" group-title="PL VIP SPORTOWE+VIAPLAY",PL: VIAPLAY XTRA 42 HD [LIVE-MATCH]
+http://funmitra.com:8080/live/pepi290424/wbktXzArzf/552645.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/viaplay.png" group-title="PL VIP SPORTOWE+VIAPLAY",PL: VIAPLAY XTRA 43 HD [LIVE-MATCH]
+http://funmitra.com:8080/live/pepi290424/wbktXzArzf/552644.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/viaplay.png" group-title="PL VIP SPORTOWE+VIAPLAY",PL: VIAPLAY XTRA 44 HD [LIVE-MATCH]
+http://funmitra.com:8080/live/pepi290424/wbktXzArzf/552643.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/viaplay.png" group-title="PL VIP SPORTOWE+VIAPLAY",PL: VIAPLAY XTRA 45 HD [LIVE-MATCH]
+http://funmitra.com:8080/live/pepi290424/wbktXzArzf/552642.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/viaplay.png" group-title="PL VIP SPORTOWE+VIAPLAY",PL: VIAPLAY XTRA 46 HD [LIVE-MATCH]
+http://funmitra.com:8080/live/pepi290424/wbktXzArzf/552641.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/viaplay.png" group-title="PL VIP SPORTOWE+VIAPLAY",PL: VIAPLAY KSW PPV HD HD [LIVE-MATCH]
+http://funmitra.com:8080/live/pepi290424/wbktXzArzf/552640.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/viaplay.png" group-title="PL VIP SPORTOWE+VIAPLAY",PL: VIAPLAY POLSKA KSW HD [LIVE-MATCH]
+http://funmitra.com:8080/live/pepi290424/wbktXzArzf/552639.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/f1Viaplay.png" group-title="PL VIP SPORTOWE+VIAPLAY",PL: F1 TV VIAPLAY 1 HD
+http://funmitra.com:8080/live/pepi290424/wbktXzArzf/552638.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/POLONIA/f1Viaplay.png" group-title="PL VIP SPORTOWE+VIAPLAY",PL: F1 TV VIAPLAY 2 HD
+http://funmitra.com:8080/live/pepi290424/wbktXzArzf/552637.m3u8
 
 # --- TR BELGESEL (31) ---
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/flag/tr.png" group-title="TR BELGESEL",TR: ----- BELGESEL -----
@@ -8460,7 +8472,7 @@ http://funmitra.com:8080/live/pepi290424/wbktXzArzf/384161.m3u8
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/1528.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/idxtrahd.png" group-title="TR BELGESEL",TR: ID XTRA
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/289003.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/history_channel.png" group-title="TR BELGESEL",TR: HISTORY CHANNEL
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/history_channel.png" group-title="TR BELGESEL",TR: HISTORY CHANNEL HD
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/2630.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/viasatNature.png" group-title="TR BELGESEL",TR: VIASAT HISTORY HD
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/350385.m3u8
@@ -9873,7 +9885,9 @@ http://funmitra.com:8080/live/pepi290424/wbktXzArzf/531883.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/a_spor.png" group-title="TR VIP TURKIYE",TR: VIP A SPOR
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/531882.m3u8
 
-# --- UK CULTUR (20) ---
+# --- UK CULTUR (21) ---
+#EXTINF:-1 tvg-logo="" group-title="UK CULTUR",UK: HISTORY HD
+http://funmitra.com:8080/live/pepi290424/wbktXzArzf/653075.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/flag/uk.png" group-title="UK CULTUR",UK: ----- CULTUR -----
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/135940.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/UK/TRAVELCHANEL.png" group-title="UK CULTUR",UK: TRAVEL CHANNEL
@@ -11303,4 +11317,4 @@ http://funmitra.com:8080/live/pepi290424/wbktXzArzf/533379.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/UK/gaa-go.png" group-title="UK VIP SPORTS",UK: GAA-GO 25
 http://funmitra.com:8080/live/pepi290424/wbktXzArzf/533378.m3u8
 
-# Total: 5556
+# Total: 5563
