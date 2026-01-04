@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: satpower.shop:8080
-# Generated: 2026-01-03 07:01:07
+# Generated: 2026-01-04 07:17:43
 # Expires: 2026-03-06
 # Family Safe Edition
 # ==============================================
@@ -3602,7 +3602,7 @@ http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/549454.m3u8
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/497463.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/Qvczwei.png" group-title="DE NEWS - INFORMATION",DE: QVC 2
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/497461.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/QVC3_2019.svg/revision/latest?cb=20221116035218" group-title="DE NEWS - INFORMATION",DE: QVC 3
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/QVC 3.png" group-title="DE NEWS - INFORMATION",DE: QVC 3
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/497462.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/tagesschau_24.png" group-title="DE NEWS - INFORMATION",DE: TAGESSCHAU24
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/174655.m3u8
@@ -4494,15 +4494,15 @@ http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/606493.m3u8
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/606492.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dazn30.png" group-title="DE VIP SPORT",DE: VIP DAZN EVENT 30 HD (SPIELZEIT)
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/606491.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE VIP SPORT",DE: VIP DAZN EVENT 31 HD (SPIELZEIT)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/dazn31.png" group-title="DE VIP SPORT",DE: VIP DAZN EVENT 31 HD (SPIELZEIT)
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/640829.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE VIP SPORT",DE: VIP DAZN EVENT 32 HD (SPIELZEIT)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/dazn32.png" group-title="DE VIP SPORT",DE: VIP DAZN EVENT 32 HD (SPIELZEIT)
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/640828.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE VIP SPORT",DE: VIP DAZN EVENT 33 HD (SPIELZEIT)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/dazn33.png" group-title="DE VIP SPORT",DE: VIP DAZN EVENT 33 HD (SPIELZEIT)
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/640827.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE VIP SPORT",DE: VIP DAZN EVENT 34 HD (SPIELZEIT)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/dazn34.png" group-title="DE VIP SPORT",DE: VIP DAZN EVENT 34 HD (SPIELZEIT)
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/640826.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE VIP SPORT",DE: VIP DAZN EVENT 35 HD (SPIELZEIT)
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/dazn35.png" group-title="DE VIP SPORT",DE: VIP DAZN EVENT 35 HD (SPIELZEIT)
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/640825.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/flag/ger.png" group-title="DE VIP SPORT",DE: ----- VIP SKY SPORT -----
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/553151.m3u8
@@ -4949,13 +4949,11 @@ http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/525091.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/ExYu/planetEarth.png" group-title="EXYU DOKUMENTARNI",RS: PLANET EARTH
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/525012.m3u8
 
-# --- EXYU FILMSKI (67) ---
+# --- EXYU FILMSKI (62) ---
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/Croatia/klasikTv.png" group-title="EXYU FILMSKI",HR: KLASIK TV
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/3042.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/Croatia/klasikTv.png" group-title="EXYU FILMSKI",HR: KLASIK TV (B)
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/326490.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/Croatia/AMC.png" group-title="EXYU FILMSKI",HR: AMC
-http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/339025.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/2021mixlogo/axn.png" group-title="EXYU FILMSKI",HR: AXN ADRIA
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/339024.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/2021mixlogo/axnspin.png" group-title="EXYU FILMSKI",HR: AXN SPIN
@@ -4966,22 +4964,14 @@ http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/3040.m3u8
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/326928.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/2021mixlogo/hbo3.png" group-title="EXYU FILMSKI",HR: HBO 3 HD
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/176572.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/L-sat05.01.21/Europe/Croatia/fox_crime_global.png" group-title="EXYU FILMSKI",HR: FOX CRIME
-http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/326916.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/L-sat05.01.21/Europe/Croatia/fox-life-us.png" group-title="EXYU FILMSKI",HR: FOX LIFE
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/326915.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/L-sat05.01.21/Europe/Croatia/fox_movies_us.png" group-title="EXYU FILMSKI",HR: FOX MOVIES
-http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/326914.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/Croatia/tv1000.png" group-title="EXYU FILMSKI",HR: TV 1000
-http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/276000.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/Croatia/novaFamily.png" group-title="EXYU FILMSKI",HR: NOVA FAMILY
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/421296.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/Croatia/novaCinema.png" group-title="EXYU FILMSKI",HR: NOVA CINEMA
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/425941.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/Croatia/filmKlubXtra.png" group-title="EXYU FILMSKI",HR: FILM KLUB EXTRA
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/425939.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/Croatia/epicDrama.png" group-title="EXYU FILMSKI",HR: EPIC DRAMA
-http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/425938.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/Croatia/Cinemax.png" group-title="EXYU FILMSKI",HR: CINEMAX
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/326936.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/Croatia/CINEMAX_2.png" group-title="EXYU FILMSKI",HR: CINEMAX 2
@@ -5183,7 +5173,7 @@ http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/589334.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nNtfzK3J/A-high-resolution-television-channel-logo-for-Roma-TV-Ashkali-featuring-a-stylized-carriage-wheel-be.png" group-title="EXYU ROMA TV",RS: ROMATV ASHKALI FHD
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/589333.m3u8
 
-# --- EXYU SPORTSKI (91) ---
+# --- EXYU SPORTSKI (90) ---
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/ExYu/sport/mojaTvsport.png" group-title="EXYU SPORTSKI",BH: MOJA TV SPORT HD
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/452624.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/ExYu/sport/arenaSport1.png" group-title="EXYU SPORTSKI",BH: ARENA SPORT 1 HD SRB/BIH
@@ -5194,8 +5184,6 @@ http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/490261.m3u8
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/490260.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/ExYu/sport/arenaPremium3.png" group-title="EXYU SPORTSKI",BH: ARENA PREMIUM 3 HD
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/490259.m3u8
-#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/ExYu/sport/kreatorTV.png" group-title="EXYU SPORTSKI",HR: KREATOR TV
-http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/339050.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/L-sat05.01.21/Europe/Croatia/fight_channel.png" group-title="EXYU SPORTSKI",HR: FIGHT CHANELL
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/425937.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/Croatia/ufc-fight-pass.png" group-title="EXYU SPORTSKI",HR: UFC FIGHT PASS
@@ -5367,7 +5355,7 @@ http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/259985.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/ExYu/sport/sportKlubFight.png" group-title="EXYU SPORTSKI",RS: SPORT KLUB FIGHT HD
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/552753.m3u8
 
-# --- HR CROATIA (45) ---
+# --- HR CROATIA (46) ---
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/L-sat05.01.21/Europe/Croatia/hrt-1-hr.png" group-title="HR CROATIA",HR: HRT 1 FHD
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/3016.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/L-sat05.01.21/Europe/Croatia/hrt-1-hr.png" group-title="HR CROATIA",HR: HRT 1 HD
@@ -5416,7 +5404,7 @@ http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/337717.m3u8
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/326491.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/Croatia/tvDubrovnik.png" group-title="HR CROATIA",HR: TV DUBROVNIK
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/339065.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/Croatia/vtvTeleviz.png" group-title="HR CROATIA",HR: VTV TELEVIZIJA
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/Croatia/vtvTeleviz.png" group-title="HR CROATIA",HR: VTV
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/339064.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/Croatia/trendTv.png" group-title="HR CROATIA",HR: TREND TV KARLOVAC
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/339063.m3u8
@@ -5424,6 +5412,8 @@ http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/339063.m3u8
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/339051.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/Croatia/narodna.png" group-title="HR CROATIA",HR: NARODNA TV
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/339034.m3u8
+#EXTINF:-1 tvg-logo="" group-title="HR CROATIA",HR: NOVA WORLD HD
+http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/653144.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/Croatia/osjecka.png" group-title="HR CROATIA",HR: OSJECKA
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/339032.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/Croatia/jadranTv.png" group-title="HR CROATIA",HR: JADRAN TV
@@ -5459,7 +5449,7 @@ http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/356174.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/Croatia/maryTV.png" group-title="HR CROATIA",HR: MARY TV MEDJUGORJE HD
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/525094.m3u8
 
-# --- MK MACEDONIA (66) ---
+# --- MK MACEDONIA (67) ---
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/macedonia/mrt_mk_tv_1.png" group-title="MK MACEDONIA",MK: MPT 1 HD
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/290234.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/macedonia/mrt_mk_tv_2_sat.png" group-title="MK MACEDONIA",MK: MPT 2 HD
@@ -5544,6 +5534,8 @@ http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/290136.m3u8
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/290224.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/2021mixlogo/viasathistory.png" group-title="MK MACEDONIA",MK: VIASAT HISTORY HD
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/290220.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MK MACEDONIA",MK: HISTORY HD (MULTI-SUB)
+http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/653076.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/macedonia/nasa.png" group-title="MK MACEDONIA",MK: NASA
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/423771.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/BULGARIA/PLANETATV.png" group-title="MK MACEDONIA",MK: PLANETA TV HD
@@ -5818,7 +5810,7 @@ http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/136628.m3u8
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/350384.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/da_vici_learning.png" group-title="TR BELGESEL",TR: DA VINCI LEARNING
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/123305.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TR BELGESEL",TR: HABITAT HD
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/turkeyT/habitat.png" group-title="TR BELGESEL",TR: HABITAT HD
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/640042.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TR BELGESEL",TR: TGRT BELGESEL HD
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/621748.m3u8
@@ -5834,7 +5826,7 @@ http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/598937.m3u8
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/598932.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/ciftci_tv.png" group-title="TR BELGESEL",TR: CIFTCI TV
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/305.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TR BELGESEL",TR: SILK WAY HD
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/turkeyT/SILK WAY.png" group-title="TR BELGESEL",TR: SILK WAY HD
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/644536.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/fashion_tv.png" group-title="TR BELGESEL",TR: FASHION TV
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/399027.m3u8
@@ -5870,7 +5862,7 @@ http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/6053.m3u8
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/469470.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/turkeyT/spacetoon.png" group-title="TR COCUK",TR: SPACE TOON TÜRKIYE
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/621747.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TR COCUK",TR: STOON TV
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/turkeyT/STOON TV.png" group-title="TR COCUK",TR: STOON TV
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/643891.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/BabyTV.png" group-title="TR COCUK",TR: BABY TV
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/7179.m3u8
@@ -10341,4 +10333,4 @@ http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/505896.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/USA/TVJ%20channel.png" group-title="US SPORTS",US: TVJ
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/282779.m3u8
 
-# Total: 5093
+# Total: 5089

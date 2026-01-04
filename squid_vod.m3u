@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: squid.game-tv.org:8080
-# Generated: 2026-01-03 18:24:29
+# Generated: 2026-01-04 07:15:31
 # Expires: 2026-01-17
 # Family Safe Edition
 # ==============================================
@@ -16727,6 +16727,10 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/395.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Home for Christmas",Home for Christmas
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/135.mp4
 
+# --- Movies | Homeland (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | Homeland",Homeland (2011)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1137.mp4
+
 # --- Movies | House M.D. (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | House M.D.",House
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/180.mp4
@@ -19611,4 +19615,4 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/383.mp4
 #EXTINF:-1 tvg-logo="" group-title="Series | A Series of Unfortunate Events",A Series of Unfortunate Events
 http://squid.game-tv.org:8080/series/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/276
 
-# Total: 8631
+# Total: 8632

@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: canal-pro.xyz:8080
-# Generated: 2026-01-03 18:26:37
+# Generated: 2026-01-04 07:20:36
 # Expires: 2026-03-08
 # Family Safe Edition
 # ==============================================
@@ -13259,7 +13259,11 @@ http://canal-pro.xyz:8080/movie/966119620tv/55ce67/75434.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9RrMfaCYdsdNdRNUAR3TY0DvNV2.jpg" group-title="Movies | → VOD ESTRENOS 2024 ←",Bosco (2024)
 http://canal-pro.xyz:8080/movie/966119620tv/55ce67/75435.mkv
 
-# --- Movies | → VOD ESTRENOS 2025 ← (266) ---
+# --- Movies | → VOD ESTRENOS 2025 ← (268) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mwRZ00JgrpF2xTmO6cvl3eYu5X.jpg" group-title="Movies | → VOD ESTRENOS 2025 ←",La Ultima Batalla (2025)
+http://canal-pro.xyz:8080/movie/966119620tv/55ce67/279182.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p9zbrDpAKyj3jeemkyAoBmlo3KG.jpg" group-title="Movies | → VOD ESTRENOS 2025 ←",Refugio Mortal (2025)
+http://canal-pro.xyz:8080/movie/966119620tv/55ce67/279180.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gCEJCaIzrU7FiOrv6fMMMnQ163B.jpg" group-title="Movies | → VOD ESTRENOS 2025 ←",Verano infernal (2025)
 http://canal-pro.xyz:8080/movie/966119620tv/55ce67/279125.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u2xyvEmgkXmfMeCQcGf6mERNFfd.jpg" group-title="Movies | → VOD ESTRENOS 2025 ←",Mátate, amor (2025)
@@ -19601,4 +19605,4 @@ http://canal-pro.xyz:8080/series/966119620tv/55ce67/2345
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES TERROR-THRILLER-SUSPENSO ←",It: Bienvenidos a Derry
 http://canal-pro.xyz:8080/series/966119620tv/55ce67/2492
 
-# Total: 9725
+# Total: 9727

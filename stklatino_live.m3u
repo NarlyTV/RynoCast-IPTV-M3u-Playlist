@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: stklatino.dynns.com:2082
-# Generated: 2026-01-03 18:32:11
+# Generated: 2026-01-04 07:16:21
 # Expires: 2026-02-11
 # Family Safe Edition
 # ==============================================
@@ -16653,19 +16653,13 @@ http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/128107.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png" group-title="VARIEDADES",Tele*mudo new inglat
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/128109.m3u8
 
-# --- VENEZUELA (15) ---
+# --- VENEZUELA (11) ---
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/108656_Catatumbo_TV.png" group-title="VENEZUELA",Catatumbo TV
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/30688.m3u8
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/366f33df3dbfb786579cb2984e8fe536.webp" group-title="VENEZUELA",DAN TV
-http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/52625.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/b52c759efcf070c9d185eb3b1766c572.png" group-title="VENEZUELA",Latina TV
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/30689.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/IVC_Network_Logo.png" group-title="VENEZUELA",IVC
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/54823.m3u8
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/f13ba72f2517c25f7dc57a9171a7c8a0.png" group-title="VENEZUELA",MovieFE
-http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/52626.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SPg5HX9/o2.png" group-title="VENEZUELA",Oxigeno Network
-http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/6689.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-QAjgp3Q980s/YAsNLUl7zUI/AAAAAAAADGE/0Ap4z8WKE7s5rJiAV5uuDOKciQvFiFR_ACLcBGAsYHQ/s580/panavision-tv-venezuela.png" group-title="VENEZUELA",Panavision TV
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/6690.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Promar_Television.png" group-title="VENEZUELA",Promar TV
@@ -16682,7 +16676,5 @@ http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/76627.m3u8
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/54866.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/520_Venevision.png" group-title="VENEZUELA",Venevision
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/2429.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/520_Venevision.png" group-title="VENEZUELA",Venevision 2
-http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/74736.m3u8
 
-# Total: 8307
+# Total: 8303

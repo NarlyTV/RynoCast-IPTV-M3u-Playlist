@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: efeteam.xyz:8080
-# Generated: 2026-01-03 18:27:43
+# Generated: 2026-01-04 07:16:26
 # Expires: 2026-06-03
 # Family Safe Edition
 # ==============================================
@@ -11287,7 +11287,7 @@ http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/466245.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AT ∞ ÖSTERREICH SPORT",SKY SPORT Austria 8 FHD
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/542971.m3u8
 
-# --- AZ ∞ AZERBAYCAN (60) ---
+# --- AZ ∞ AZERBAYCAN (59) ---
 #EXTINF:-1 tvg-logo="" group-title="AZ ∞ AZERBAYCAN",QURAN TV HD
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/473394.m3u8
 #EXTINF:-1 tvg-logo="https://tvip-tms.tvnet.az/image/png/520/107/62/padding/logo.png" group-title="AZ ∞ AZERBAYCAN",AZTV
@@ -11334,7 +11334,7 @@ http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/470844.m3u8
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/470843.m3u8
 #EXTINF:-1 tvg-logo="https://tvip-tms.tvnet.az/image/png/555/107/62/padding/logo.png" group-title="AZ ∞ AZERBAYCAN",SPACE TV HD
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/490337.m3u8
-#EXTINF:-1 tvg-logo="https://tvip-tms.tvnet.az/image/png/555/107/62/padding/logo.png" group-title="AZ ∞ AZERBAYCAN",SPACE TV FHD
+#EXTINF:-1 tvg-logo="https://tvip-tms.tvnet.az/image/png/555/107/62/padding/logo.png" group-title="AZ ∞ AZERBAYCAN",SPACE TV HD
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/470831.m3u8
 #EXTINF:-1 tvg-logo="https://tvip-tms.tvnet.az/image/png/528/107/62/padding/logo.png" group-title="AZ ∞ AZERBAYCAN",ICTIMAI TV
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/470837.m3u8
@@ -11360,8 +11360,6 @@ http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/713363.m3u8
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/470884.m3u8
 #EXTINF:-1 tvg-logo="https://tvip-tms.tvnet.az/image/png/252133/70/35/crop/logo.png" group-title="AZ ∞ AZERBAYCAN",ANEWZ
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/713368.m3u8
-#EXTINF:-1 tvg-logo="" group-title="AZ ∞ AZERBAYCAN",CityNet Hits
-http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/713731.m3u8
 #EXTINF:-1 tvg-logo="https://tvip-tms.tvnet.az/image/png/529/107/62/padding/logo.png" group-title="AZ ∞ AZERBAYCAN",CBC HD
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/95371.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AZ ∞ AZERBAYCAN",KATV 1
@@ -12193,140 +12191,138 @@ http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/733254.m3u8
 #EXTINF:-1 tvg-logo="http://tugapt.com/picons/supersport_psl.png" group-title="CAF ∞ AFCON MOROCCO 2025",AZ| SuperSport PSL HD
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/733252.m3u8
 
-# --- CH ∞ DAZN EVENT (99) ---
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/arndmgltmspw0igf0pacyyafa_image-header_pDach_1743597750000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Al-Ahli - Al-Nassr (2026-01-02 17:30:00)
+# --- CH ∞ DAZN EVENT (98) ---
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/arndmgltmspw0igf0pacyyafa_image-header_pDach_1743597750000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Como - Udinese (Italian commentary) (2026-01-03 11:30:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/562279.m3u8
-#EXTINF:-1 tvg-logo="/logos/daznch-event675982.png" group-title="CH ∞ DAZN EVENT",Armed Forces Bowl: Rice vs. Texas State (2026-01-02 18:00:00)
+#EXTINF:-1 tvg-logo="/logos/daznch-event675982.png" group-title="CH ∞ DAZN EVENT",Como - Udinese (2026-01-03 11:30:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/562278.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/xo64ymxc3u801awwlzxygzvxm_image-header_pDach_1743609209000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",FC Gil Vicente - Sporting (2026-01-02 18:45:00)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/xo64ymxc3u801awwlzxygzvxm_image-header_pDach_1743609209000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Rajadamnern World Series | Felipe Da Rosa vs Zachary Fox (2026-01-03 12:00:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/562277.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/e4drmo2geohlh1p5prcylj4pv_image-header_pDach_1742991693000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Cagliari - Milan (Italian commentary) (2026-01-02 19:00:00)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/e4drmo2geohlh1p5prcylj4pv_image-header_pDach_1742991693000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",King Khaled University Cup, Saudi Broadcasting Authorities Cup & Ministry of Sports Cup Race Night (2026-01-03 12:05:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/562276.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/dewjduon3y9sid6ceri9fyb03_image-header_pDach_1742581533000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",World Darts Championship | Semi-final (2026-01-02 19:30:00)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/dewjduon3y9sid6ceri9fyb03_image-header_pDach_1742581533000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Celtic - Rangers (2026-01-03 12:30:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/562275.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/zj9vssjacphb1x4ntmyo79xou_image-header_pDach_1743185178000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",World Darts Championship | Semi-final (Original commentary) (2026-01-02 19:30:00)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/zj9vssjacphb1x4ntmyo79xou_image-header_pDach_1743185178000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",4 Hills Tournament | Innsbruck (Qualification) (2026-01-03 13:15:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/562274.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1gh2zc9lwdfj91y25k6wdqs08o_image-header_pDach_1743183871000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Newcastle Eagles - Cheshire Phoenix | Semi-final (Leg 1) (2026-01-02 19:30:00)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1gh2zc9lwdfj91y25k6wdqs08o_image-header_pDach_1743183871000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Genoa - Pisa (Italian commentary) (2026-01-03 13:45:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/562273.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/xja71a8a5mv41wpm3nxvrf33f_image-header_pDach_1743184802000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",London Lions - Bristol Flyers | Semi-final (Leg 1) (2026-01-02 19:30:00)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/xja71a8a5mv41wpm3nxvrf33f_image-header_pDach_1743184802000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Sassuolo - Parma (Italian commentary) (2026-01-03 13:45:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/562272.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1xrdovzf7wt7m1oaapzcgc4ttj_image-header_pDach_1743185750000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Cagliari - Milan (2026-01-02 19:45:00)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1xrdovzf7wt7m1oaapzcgc4ttj_image-header_pDach_1743185750000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Genoa - Pisa (2026-01-03 14:00:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/562271.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/2puchk5e80qxsazdo672jd4jd_image-header_pDach_1741011375000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Toulouse - Lens (CH) (2026-01-02 19:45:00)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/2puchk5e80qxsazdo672jd4jd_image-header_pDach_1741011375000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Sassuolo - Parma (2026-01-03 14:00:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/562270.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/dnsvdhm1r3og8u5z8tp5zti6m_image-header_pDach_1741737445000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Liberty Bowl: Navy vs. Cincinnati (2026-01-02 21:30:00)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/dnsvdhm1r3og8u5z8tp5zti6m_image-header_pDach_1741737445000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Budenzauber Emsland 2026 (2026-01-03 15:00:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/562269.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/512asa0l5s2kt8950r2pbe7an_image-header_pDach_1743436782000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Serrano vs. Tellez: Weigh-In (2026-01-02 23:00:00)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/512asa0l5s2kt8950r2pbe7an_image-header_pDach_1743436782000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Monaco - Lyonnais (CH) (2026-01-03 16:00:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/562268.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/2uz3ucl0k0c2q77jbm9x00gse_image-header_pDach_1725588542000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",USC @ Michigan (2026-01-03 00:00:00)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/2uz3ucl0k0c2q77jbm9x00gse_image-header_pDach_1725588542000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Senegal - Sudan (2026-01-03 16:00:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/562267.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/cprdyah5wuwxft3tg47qwrgua_image-header_pDach_1741705594000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Oregon @ Maryland (2026-01-03 00:30:00)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/cprdyah5wuwxft3tg47qwrgua_image-header_pDach_1741705594000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Juventus - Lecce (Italian commentary) (2026-01-03 16:00:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/562266.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/bevmbchjjhkzz07m3llbdhmys_image-header_pDach_1738773283000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Mayo Bowl: Wake Forest vs. Mississippi State (2026-01-03 01:00:00)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/bevmbchjjhkzz07m3llbdhmys_image-header_pDach_1738773283000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Kings World Cup Nations | Day 1 (2026-01-03 16:15:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/562265.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1xuah69mh88xn1nxm5opvafi3k_image-header_pDach_1744106315000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Michigan State @ Nebraska (2026-01-03 02:00:00)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1xuah69mh88xn1nxm5opvafi3k_image-header_pDach_1744106315000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Kings World Cup Nations | Day 1 (German commentary) (2026-01-03 16:15:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/562264.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/x0b5meot9f2i1g2px7eoq0d4t_image-header_pDach_1743192834000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Winter sports Saturday | 3rd January (2026-01-03 08:45:00)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/x0b5meot9f2i1g2px7eoq0d4t_image-header_pDach_1743192834000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Juventus - Lecce (2026-01-03 17:00:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/562263.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/137a636gtylxp1cgnxlai8d63q_image-header_pDach_1742902729000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Como - Udinese (Italian commentary) (2026-01-03 11:00:00)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/137a636gtylxp1cgnxlai8d63q_image-header_pDach_1742902729000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Seton Hall @ UConn (2026-01-03 17:00:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/562262.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1bdvjrciwg8e01lpbjkeqkhtz2_image-header_pDach_1742903757000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Como - Udinese (2026-01-03 11:30:00)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1bdvjrciwg8e01lpbjkeqkhtz2_image-header_pDach_1742903757000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Providence @ St. John’s (2026-01-03 17:00:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/562261.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/284u2yjvrb1u1dt8elusxdvcz_image-header_pDach_1742902729000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Rajadamnern World Series | Felipe Da Rosa vs Zachary Fox (2026-01-03 12:00:00)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/284u2yjvrb1u1dt8elusxdvcz_image-header_pDach_1742902729000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Al-Ittihad - Al-Taawoun (2026-01-03 17:30:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/562260.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/6jw8cy5fagaprze24qx2bybp1_image-header_pDach_1726260743000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",King Khaled University Cup, Saudi Broadcasting Authorities Cup & Ministry of Sports Cup Race Night (2026-01-03 12:05:00)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/6jw8cy5fagaprze24qx2bybp1_image-header_pDach_1726260743000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Nice - Strasbourg (CH) (2026-01-03 18:00:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/562259.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/ln2faqg1hvkz1fes01uru96n1_image-header_pDach_1743194140000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Celtic - Rangers (2026-01-03 12:30:00)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/ln2faqg1hvkz1fes01uru96n1_image-header_pDach_1743194140000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Atalanta - Roma (Italian commentary) (2026-01-03 19:00:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/562258.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/amj4e3az9zb3d2kc3zhnchxhq_image-header_pDach_1743523237000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",4 Hills Tournament | Innsbruck (Qualification) (2026-01-03 13:15:00)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/amj4e3az9zb3d2kc3zhnchxhq_image-header_pDach_1743523237000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Le Mans - Saint-Etienne (2026-01-03 19:00:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/562257.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/7bpav10t23vgr27v8dbh7a38o_image-header_pDach_1742329330000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Genoa - Pisa (Italian commentary) (2026-01-03 13:45:00)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/7bpav10t23vgr27v8dbh7a38o_image-header_pDach_1742329330000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Mali - Tunisia (2026-01-03 19:00:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/562256.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1f3eoqofdbyg91vnu4yqj3ox7p_image-header_pDach_1743150260000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Sassuolo - Parma (Italian commentary) (2026-01-03 13:45:00)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1f3eoqofdbyg91vnu4yqj3ox7p_image-header_pDach_1743150260000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Houston @ Cincinnati (2026-01-03 19:00:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/562255.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/iy973fyxydti1wsj41d049983_image-header_pDach_1743150260000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Genoa - Pisa (2026-01-03 14:00:00)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/iy973fyxydti1wsj41d049983_image-header_pDach_1743150260000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",World Darts Championship | Final (Original commentary) (2026-01-03 19:30:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/562254.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/yeg5k76wurcu1g5j4j0gfb8di_image-header_pDach_1743150260000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Sassuolo - Parma (2026-01-03 14:00:00)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/yeg5k76wurcu1g5j4j0gfb8di_image-header_pDach_1743150260000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Serrano vs. Tellez: Prelims (2026-01-03 19:30:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/562253.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1e3q5bxbz3cp71uia941rplmnj_image-header_pDach_1743150260000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Budenzauber Emsland 2026 (2026-01-03 15:00:00)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1e3q5bxbz3cp71uia941rplmnj_image-header_pDach_1743150260000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",World Darts Championship | Final (2026-01-03 19:45:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/562252.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/n1trhn9mu4bc1imikd1d7tkhf_image-header_pDach_1743150260000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Monaco - Lyonnais (CH) (2026-01-03 16:00:00)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/n1trhn9mu4bc1imikd1d7tkhf_image-header_pDach_1743150260000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Atalanta - Roma (2026-01-03 19:45:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/562251.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/6p6k6thlisw32sxmjhql0jp3a_image-header_pDach_1725270140000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Senegal - Sudan (2026-01-03 16:00:00)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/6p6k6thlisw32sxmjhql0jp3a_image-header_pDach_1725270140000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Lille - Rennes (CH) (2026-01-03 20:05:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/562250.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1vuwttl6ff0y195979ssjc3sk_image-header_pDach_1743189400000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Juventus - Lecce (Italian commentary) (2026-01-03 16:00:00)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1vuwttl6ff0y195979ssjc3sk_image-header_pDach_1743189400000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",UCLA @ Iowa (2026-01-03 23:00:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/562249.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/za9m1tkdf0411hwfzpikfp5fl_image-header_pDach_1742911069000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Kings World Cup Nations | Day 1 (2026-01-03 17:00:00)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/za9m1tkdf0411hwfzpikfp5fl_image-header_pDach_1742911069000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Illinois @ Penn State (2026-01-04 00:00:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/562248.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/5tve3bvpz9ht383pnv3pa7di1_image-header_pDach_1743523784000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Kings World Cup Nations | Day 1 (German commentary) (2026-01-03 17:00:00)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/5tve3bvpz9ht383pnv3pa7di1_image-header_pDach_1743523784000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Seahawks @ 49ers (German commentary) (CH) (2026-01-04 01:00:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/562247.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/bgrfq6gau3br1d1bbd52ezhcm_image-header_pDach_1743597360000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Juventus - Lecce (2026-01-03 17:00:00)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/bgrfq6gau3br1d1bbd52ezhcm_image-header_pDach_1743597360000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Serrano vs. Tellez (2026-01-04 01:00:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/562246.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/sfrwea9pa09h165ceu8q9oer6_image-header_pDach_1743611493000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Seton Hall @ UConn (2026-01-03 17:00:00)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/sfrwea9pa09h165ceu8q9oer6_image-header_pDach_1743611493000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Purdue @ Wisconsin (2026-01-04 01:00:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/562245.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/5vybxzom2b0hg63wbo7qf6jok_image-header_pDach_1741737445000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Providence @ St. John’s (2026-01-03 17:00:00)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/5vybxzom2b0hg63wbo7qf6jok_image-header_pDach_1741737445000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",USC @ UCLA (2026-01-04 01:00:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/562244.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/24vh96b0l081zsjzr4sh9j4rf_image-header_pDach_1743482292000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Al-Ittihad - Al-Taawoun (2026-01-03 17:30:00)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/24vh96b0l081zsjzr4sh9j4rf_image-header_pDach_1743482292000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Winter sports Sunday | 4th January (2026-01-04 08:15:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/562243.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/5supoilzh6rvz4q65l2qlay5d_image-header_pDach_1743523095000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Nice - Strasbourg (CH) (2026-01-03 18:00:00)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/5supoilzh6rvz4q65l2qlay5d_image-header_pDach_1743523095000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Lazio - Napoli (Italian commentary) (2026-01-04 10:45:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/562242.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/8yeg9rvuikuenjwzcgudfqsqi_image-header_pDach_1738779157000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Atalanta - Roma (Italian commentary) (2026-01-03 19:00:00)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/8yeg9rvuikuenjwzcgudfqsqi_image-header_pDach_1738779157000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Lazio - Napoli (2026-01-04 11:30:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/562241.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/2oslljg9yv1fgagnlrbi3q8_image-header_pDach_1743150260000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Le Mans - Saint-Etienne (2026-01-03 19:00:00)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/2oslljg9yv1fgagnlrbi3q8_image-header_pDach_1743150260000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",4 Hills Tournament | Innsbruck (2026-01-04 12:15:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/562240.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/bpsvrdvnrbcswalbbnezu5fsu_image-header_pDach_1743408623000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Mali - Tunisia (2026-01-03 19:00:00)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/bpsvrdvnrbcswalbbnezu5fsu_image-header_pDach_1743408623000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Fiorentina - Cremonese (Italian commentary) (2026-01-04 13:30:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/562239.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/duqq4s190xj51dllm1px0okhv_image-header_pDach_1744102347000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Houston @ Cincinnati (2026-01-03 19:00:00)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/duqq4s190xj51dllm1px0okhv_image-header_pDach_1744102347000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Fiorentina - Cremonese (2026-01-04 14:00:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/562238.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/3tb776xxlx7nkblcydq7lmsa5_image-header_pDach_1738773301000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",World Darts Championship | Final (2026-01-03 19:30:00)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/3tb776xxlx7nkblcydq7lmsa5_image-header_pDach_1738773301000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Marseille - Nantes (CH) (2026-01-04 14:00:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/562237.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/bl8izv1t7a3m1813lecjz1f7j_image-header_pDach_1743185723000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Serrano vs. Tellez: Prelims (2026-01-03 19:30:00)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/bl8izv1t7a3m1813lecjz1f7j_image-header_pDach_1743185723000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Bristol Flyers - London Lions | Semi-final (Leg 2) (2026-01-04 15:00:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/562236.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/4gnrhoap2b2i9wiq32fqfnhp9_image-header_pDach_1742581533000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",World Darts Championship | Final (Original commentary) (2026-01-03 19:30:00)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/4gnrhoap2b2i9wiq32fqfnhp9_image-header_pDach_1742581533000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Morocco - Tanzania (2026-01-04 16:00:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/562235.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/3bb402nhavbghm4x7e4xfq843_image-header_pDach_1742329330000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Atalanta - Roma (2026-01-03 19:45:00)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/3bb402nhavbghm4x7e4xfq843_image-header_pDach_1742329330000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Sheffield Sharks - Surrey 89ers (2026-01-04 16:00:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/562234.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/2hqrdkn4h428xgafwbom2dsat_image-header_pDach_1742329330000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Lille - Rennes (CH) (2026-01-03 20:05:00)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/2hqrdkn4h428xgafwbom2dsat_image-header_pDach_1742329330000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Lorient - Metz (CH) (2026-01-04 16:15:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/562233.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/ai3sd30f3linaeld4qmeafxs6_image-header_pDach_1744354081000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",UCLA @ Iowa (2026-01-03 23:00:00)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/ai3sd30f3linaeld4qmeafxs6_image-header_pDach_1744354081000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Brest - Auxerre (CH) (2026-01-04 16:15:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/562232.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1vip3toguhexv1wgtve7hbzzjf_image-header_pDach_1740066564000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Illinois @ Penn State (2026-01-04 00:00:00)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1vip3toguhexv1wgtve7hbzzjf_image-header_pDach_1740066564000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Le Havre - Angers (CH) (2026-01-04 16:15:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/562231.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1h97361fsiz0a1bt0w6yyldo7m_image-header_pDach_1742902729000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Seahawks @ 49ers (German commentary) (CH) (2026-01-04 01:00:00)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1h97361fsiz0a1bt0w6yyldo7m_image-header_pDach_1742902729000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Hellas Verona - Torino (Italian commentary) (2026-01-04 16:30:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/562230.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/buzcmgdveb8rsbhvxqw3z3gf3_image-header_pDach_1743524881000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Serrano vs. Tellez (2026-01-04 01:00:00)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/buzcmgdveb8rsbhvxqw3z3gf3_image-header_pDach_1743524881000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Kings World Cup Nations | Day 2 (2026-01-04 17:00:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/562229.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CH ∞ DAZN EVENT",Purdue @ Wisconsin (2026-01-04 01:00:00)
+#EXTINF:-1 tvg-logo="" group-title="CH ∞ DAZN EVENT",Kings World Cup Nations | Day 2 (German commentary) (2026-01-04 17:00:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/562228.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CH ∞ DAZN EVENT",USC @ UCLA (2026-01-04 01:00:00)
+#EXTINF:-1 tvg-logo="" group-title="CH ∞ DAZN EVENT",Hellas Verona - Torino (2026-01-04 17:00:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/562227.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/tjatm4yljmnl1kst1hd5zbz1g_image-header_pDach_1741542725000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Winter sports Sunday | 4th January (2026-01-04 08:15:00)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/tjatm4yljmnl1kst1hd5zbz1g_image-header_pDach_1741542725000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Illinois @ Michigan State (2026-01-04 17:00:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/562226.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CH ∞ DAZN EVENT",Lazio - Napoli (Italian commentary) (2026-01-04 10:45:00)
+#EXTINF:-1 tvg-logo="" group-title="CH ∞ DAZN EVENT",NFL Konferenz | Week 18 (2026-01-04 17:30:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/562225.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/3z5im7kywmxn9achlk2fro2cl_image-header_pDach_1743525042000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Lazio - Napoli (2026-01-04 11:30:00)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/3z5im7kywmxn9achlk2fro2cl_image-header_pDach_1743525042000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Damac - Al-Hilal (2026-01-04 17:30:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/562224.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CH ∞ DAZN EVENT",4 Hills Tournament | Innsbruck (2026-01-04 12:15:00)
+#EXTINF:-1 tvg-logo="" group-title="CH ∞ DAZN EVENT",Cheshire Phoenix - Newcastle Eagles | Semi-final (Leg 2) (2026-01-04 17:30:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/562223.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CH ∞ DAZN EVENT",Fiorentina - Cremonese (Italian commentary) (2026-01-04 13:30:00)
+#EXTINF:-1 tvg-logo="" group-title="CH ∞ DAZN EVENT",NFL RedZone | Week 18 (2026-01-04 18:00:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/562222.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/4p49dtbujkilibbhf4s0nfejd_image-header_pDach_1743608593000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Fiorentina - Cremonese (2026-01-04 14:00:00)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/4p49dtbujkilibbhf4s0nfejd_image-header_pDach_1743608593000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Colts @ Texans (German commentary) (2026-01-04 18:00:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/562221.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/dy66cj4kzbks7ld627z1xvwpr_image-header_pDach_1741973611000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Marseille - Nantes (CH) (2026-01-04 14:00:00)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/dy66cj4kzbks7ld627z1xvwpr_image-header_pDach_1741973611000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Internazionale - Bologna (Italian commentary) (2026-01-04 18:30:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/562220.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/d8pv68u7fcsjmzk4vxrebxf93_image-header_pDach_1739351184000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Bristol Flyers - London Lions | Semi-final (Leg 2) (2026-01-04 15:00:00)
-http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/562219.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/nivpzlvnrmugvbwbt37kbp1y_image-header_pDach_1742562829000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Morocco - Tanzania (2026-01-04 16:00:00)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/nivpzlvnrmugvbwbt37kbp1y_image-header_pDach_1742562829000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",PSG - Paris FC (CH) (2026-01-04 19:45:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/562218.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/7i1ja5si6etizo2mwodqo919q_image-header_pDach_1742389823000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Sheffield Sharks - Surrey 89ers (2026-01-04 16:00:00)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/7i1ja5si6etizo2mwodqo919q_image-header_pDach_1742389823000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Internazionale - Bologna (2026-01-04 19:45:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/562217.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/6neb1gak1paeh5poh9cq8sgjj_image-header_pDach_1744374310000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Lorient - Metz (CH) (2026-01-04 16:15:00)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/6neb1gak1paeh5poh9cq8sgjj_image-header_pDach_1744374310000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Dolphins @ Patriots (German commentary) (2026-01-04 21:25:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/562216.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/4mss5ewbstfaxolap5urchhzb_image-header_pDach_1743913135000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Brest - Auxerre (CH) (2026-01-04 16:15:00)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/4mss5ewbstfaxolap5urchhzb_image-header_pDach_1743913135000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Indiana @ Maryland (2026-01-04 23:00:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/562215.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/3ewjuf7cqh4f8g7vxdorgmiml_image-header_pDach_1744033855000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Le Havre - Angers (CH) (2026-01-04 16:15:00)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/3ewjuf7cqh4f8g7vxdorgmiml_image-header_pDach_1744033855000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Division III Championship: UW Rivers-Fall vs. North Central (IL) (2026-01-05 01:00:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/562214.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/cb1ig7r7sk8ucf4r4699nkmr8_image-header_pDach_1743913135000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Hellas Verona - Torino (Italian commentary) (2026-01-04 16:30:00)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/cb1ig7r7sk8ucf4r4699nkmr8_image-header_pDach_1743913135000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Ravens @ Steelers (German commentary) (CH) (2026-01-05 01:20:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/562213.m3u8
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/4372asc9a728x1zsyc80vd0vm_image-header_pDach_1743695525000/fill/none/top/none/85/668/374/webp/image" group-title="CH ∞ DAZN EVENT",Kings World Cup Nations | Day 2 (2026-01-04 17:00:00)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/562212.m3u8
@@ -16564,7 +16560,7 @@ http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/686996.m3u8
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/686995.m3u8
 #EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-viaplay-kjop-1212.png" group-title="DK ∞ VIAPLAY / TV2PLAY",End | United Cup 2026 | United Cup Dag 2 | Perth & Sydney 2026 | DK
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/686994.m3u8
-#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-viaplay-kjop-1212.png" group-title="DK ∞ VIAPLAY / TV2PLAY",Live | United Cup 2026 | United Cup Dag 2 | Sydney 2026 | DK
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-viaplay-kjop-1212.png" group-title="DK ∞ VIAPLAY / TV2PLAY",End | United Cup 2026 | United Cup Dag 2 | Sydney 2026 | DK
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/686993.m3u8
 #EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-viaplay-kjop-1212.png" group-title="DK ∞ VIAPLAY / TV2PLAY",End | Florida - NY Rangers | NHL Grundspil | 2026 Winter Classic 2026 | DK
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/686992.m3u8
@@ -16572,61 +16568,61 @@ http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/686992.m3u8
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/686991.m3u8
 #EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-viaplay-kjop-1212.png" group-title="DK ∞ VIAPLAY / TV2PLAY",End | Anaheim - Minnesota | NHL Grundspil 2026 | DK
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/686990.m3u8
-#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-viaplay-kjop-1212.png" group-title="DK ∞ VIAPLAY / TV2PLAY",Live | Langrend (D/H) Sprint, klassisk | Viaplay Vinter Tour de Ski | Val di Fiemme | Prolog 2026 | DK
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-viaplay-kjop-1212.png" group-title="DK ∞ VIAPLAY / TV2PLAY",End | Langrend (D/H) Sprint, klassisk | Viaplay Vinter Tour de Ski | Val di Fiemme | Prolog 2026 | DK
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/686989.m3u8
 #EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-viaplay-kjop-1212.png" group-title="DK ∞ VIAPLAY / TV2PLAY",End | Alpint (D) Storslalom | Viaplay Vinter Kranjska Gora | 1. gennemløb 2026 | DK
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/686988.m3u8
-#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-viaplay-kjop-1212.png" group-title="DK ∞ VIAPLAY / TV2PLAY",Live | Langrend (D/H) Sprint, klassisk | Viaplay Vinter Tour de Ski | Val di Fiemme | Prolog 2026 | DK
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-viaplay-kjop-1212.png" group-title="DK ∞ VIAPLAY / TV2PLAY",End | Langrend (D/H) Sprint, klassisk | Viaplay Vinter Tour de Ski | Val di Fiemme | Prolog 2026 | DK
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/686987.m3u8
-#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-viaplay-kjop-1212.png" group-title="DK ∞ VIAPLAY / TV2PLAY",Live | Championship League Snooker | Snooker Gruppespil | Gruppe 1 2026 | DK
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-viaplay-kjop-1212.png" group-title="DK ∞ VIAPLAY / TV2PLAY",End | Championship League Snooker | Snooker Gruppespil | Gruppe 1 2026 | DK
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/686986.m3u8
 #EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-viaplay-kjop-1212.png" group-title="DK ∞ VIAPLAY / TV2PLAY",End | NHL On The Fly | NHL  2026 | DK
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/686985.m3u8
-#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-viaplay-kjop-1212.png" group-title="DK ∞ VIAPLAY / TV2PLAY",Live | Alpint (D) Storslalom | Viaplay Vinter Kranjska Gora | Run 2 2026 | DK
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-viaplay-kjop-1212.png" group-title="DK ∞ VIAPLAY / TV2PLAY",End | Alpint (D) Storslalom | Viaplay Vinter Kranjska Gora | Run 2 2026 | DK
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/686984.m3u8
-#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-viaplay-kjop-1212.png" group-title="DK ∞ VIAPLAY / TV2PLAY",Next | 2026-01-03 | 12:25 (GMT) | Aston Villa - Nottingham Forest | Premier League 20. runde 2026 | DK
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-viaplay-kjop-1212.png" group-title="DK ∞ VIAPLAY / TV2PLAY",End | Aston Villa - Nottingham Forest | Premier League 20. runde 2026 | DK
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/686983.m3u8
-#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-viaplay-kjop-1212.png" group-title="DK ∞ VIAPLAY / TV2PLAY",Next | 2026-01-03 | 13:00 (GMT) | Langrend (D/H) Sprint, klassisk | Viaplay Vinter Tour de Ski | Val di Fiemme 2026 | DK
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-viaplay-kjop-1212.png" group-title="DK ∞ VIAPLAY / TV2PLAY",End | Langrend (D/H) Sprint, klassisk | Viaplay Vinter Tour de Ski | Val di Fiemme 2026 | DK
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/686982.m3u8
-#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-viaplay-kjop-1212.png" group-title="DK ∞ VIAPLAY / TV2PLAY",Next | 2026-01-03 | 14:55 (GMT) | Brighton - Burnley | Premier League 20. runde 2026 | DK
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-viaplay-kjop-1212.png" group-title="DK ∞ VIAPLAY / TV2PLAY",End | Brighton - Burnley | Premier League 20. runde 2026 | DK
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/686981.m3u8
-#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-viaplay-kjop-1212.png" group-title="DK ∞ VIAPLAY / TV2PLAY",Next | 2026-01-03 | 14:55 (GMT) | Wolverhampton - West Ham | Premier League 20. runde 2026 | DK
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-viaplay-kjop-1212.png" group-title="DK ∞ VIAPLAY / TV2PLAY",End | Wolverhampton - West Ham | Premier League 20. runde 2026 | DK
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/686980.m3u8
-#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-viaplay-kjop-1212.png" group-title="DK ∞ VIAPLAY / TV2PLAY",Next | 2026-01-03 | 15:55 (GMT) | Monaco - Lyon | Ligue 1 17. runde 2026 | DK
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-viaplay-kjop-1212.png" group-title="DK ∞ VIAPLAY / TV2PLAY",End | Monaco - Lyon | Ligue 1 17. runde 2026 | DK
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/686979.m3u8
-#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-viaplay-kjop-1212.png" group-title="DK ∞ VIAPLAY / TV2PLAY",Next | 2026-01-03 | 16:30 (GMT) | Championship League Snooker | Snooker Gruppespil | Gruppe 1 2026 | DK
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-viaplay-kjop-1212.png" group-title="DK ∞ VIAPLAY / TV2PLAY",End | Championship League Snooker | Snooker Gruppespil | Gruppe 1 2026 | DK
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/686978.m3u8
-#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-viaplay-kjop-1212.png" group-title="DK ∞ VIAPLAY / TV2PLAY",Next | 2026-01-03 | 16:55 (GMT) | Brynäs - Luleå | SHL Grundspil 2026 | DK
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-viaplay-kjop-1212.png" group-title="DK ∞ VIAPLAY / TV2PLAY",End | Brynäs - Luleå | SHL Grundspil 2026 | DK
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/686977.m3u8
-#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-viaplay-kjop-1212.png" group-title="DK ∞ VIAPLAY / TV2PLAY",Next | 2026-01-03 | 17:05 (GMT) | Detroit - Pittsburgh | NHL Grundspil 2026 | DK
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-viaplay-kjop-1212.png" group-title="DK ∞ VIAPLAY / TV2PLAY",End | Detroit - Pittsburgh | NHL Grundspil 2026 | DK
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/686976.m3u8
-#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-viaplay-kjop-1212.png" group-title="DK ∞ VIAPLAY / TV2PLAY",Next | 2026-01-03 | 17:20 (GMT) | Freestyle (D/H) Halfpipe | Viaplay Vinter Calgary 2026 | DK
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-viaplay-kjop-1212.png" group-title="DK ∞ VIAPLAY / TV2PLAY",End | Freestyle (D/H) Halfpipe | Viaplay Vinter Calgary 2026 | DK
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/686975.m3u8
-#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-viaplay-kjop-1212.png" group-title="DK ∞ VIAPLAY / TV2PLAY",Next | 2026-01-03 | 17:25 (GMT) | Bournemouth - Arsenal | Premier League 20. runde 2026 | DK
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-viaplay-kjop-1212.png" group-title="DK ∞ VIAPLAY / TV2PLAY",End | Bournemouth - Arsenal | Premier League 20. runde 2026 | DK
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/686974.m3u8
-#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-viaplay-kjop-1212.png" group-title="DK ∞ VIAPLAY / TV2PLAY",Next | 2026-01-03 | 17:55 (GMT) | Nice - Strasbourg | Ligue 1 17. runde 2026 | DK
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-viaplay-kjop-1212.png" group-title="DK ∞ VIAPLAY / TV2PLAY",End | Nice - Strasbourg | Ligue 1 17. runde 2026 | DK
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/686973.m3u8
-#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-viaplay-kjop-1212.png" group-title="DK ∞ VIAPLAY / TV2PLAY",Next | 2026-01-03 | 18:55 (GMT) | Le Mans - Saint-Étienne | Ligue 2 18. runde 2026 | DK
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-viaplay-kjop-1212.png" group-title="DK ∞ VIAPLAY / TV2PLAY",End | Le Mans - Saint-Étienne | Ligue 2 18. runde 2026 | DK
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/686972.m3u8
-#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-viaplay-kjop-1212.png" group-title="DK ∞ VIAPLAY / TV2PLAY",Next | 2026-01-03 | 19:30 (GMT) | World Darts Championship | PDC Darts Finale: Littler - van Veen | Dag 20 2026 | DK
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-viaplay-kjop-1212.png" group-title="DK ∞ VIAPLAY / TV2PLAY",End | World Darts Championship | PDC Darts Finale: Littler - van Veen | Dag 20 2026 | DK
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/686971.m3u8
-#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-viaplay-kjop-1212.png" group-title="DK ∞ VIAPLAY / TV2PLAY",Next | 2026-01-03 | 20:00 (GMT) | Lille - Rennes | Ligue 1 17. runde 2026 | DK
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-viaplay-kjop-1212.png" group-title="DK ∞ VIAPLAY / TV2PLAY",End | Lille - Rennes | Ligue 1 17. runde 2026 | DK
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/686970.m3u8
-#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-viaplay-kjop-1212.png" group-title="DK ∞ VIAPLAY / TV2PLAY",Next | 2026-01-03 | 20:00 (GMT) | The Saturday Wrap | Premier League  2026 | DK
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-viaplay-kjop-1212.png" group-title="DK ∞ VIAPLAY / TV2PLAY",End | The Saturday Wrap | Premier League  2026 | DK
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/686969.m3u8
-#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-viaplay-kjop-1212.png" group-title="DK ∞ VIAPLAY / TV2PLAY",Next | 2026-01-03 | 20:05 (GMT) | Columbus - Buffalo | NHL Grundspil 2026 | DK
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-viaplay-kjop-1212.png" group-title="DK ∞ VIAPLAY / TV2PLAY",End | Columbus - Buffalo | NHL Grundspil 2026 | DK
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/686968.m3u8
-#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-viaplay-kjop-1212.png" group-title="DK ∞ VIAPLAY / TV2PLAY",Next | 2026-01-03 | 20:05 (GMT) | New Jersey - Utah | NHL Grundspil 2026 | DK
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-viaplay-kjop-1212.png" group-title="DK ∞ VIAPLAY / TV2PLAY",End | New Jersey - Utah | NHL Grundspil 2026 | DK
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/686967.m3u8
-#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-viaplay-kjop-1212.png" group-title="DK ∞ VIAPLAY / TV2PLAY",Next | 2026-01-03 | 20:35 (GMT) | Edmonton - Philadelphia | NHL Grundspil 2026 | DK
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-viaplay-kjop-1212.png" group-title="DK ∞ VIAPLAY / TV2PLAY",End | Edmonton - Philadelphia | NHL Grundspil 2026 | DK
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/686966.m3u8
-#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-viaplay-kjop-1212.png" group-title="DK ∞ VIAPLAY / TV2PLAY",Next | 2026-01-03 | 21:05 (GMT) | San Jose - Tampa Bay | NHL Grundspil 2026 | DK
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-viaplay-kjop-1212.png" group-title="DK ∞ VIAPLAY / TV2PLAY",End | San Jose - Tampa Bay | NHL Grundspil 2026 | DK
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/686965.m3u8
-#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-viaplay-kjop-1212.png" group-title="DK ∞ VIAPLAY / TV2PLAY",Next | 2026-01-03 | 21:05 (GMT) | St. Louis - Montreal | NHL Grundspil 2026 | DK
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-viaplay-kjop-1212.png" group-title="DK ∞ VIAPLAY / TV2PLAY",End | St. Louis - Montreal | NHL Grundspil 2026 | DK
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/686964.m3u8
-#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-viaplay-kjop-1212.png" group-title="DK ∞ VIAPLAY / TV2PLAY",Next | 2026-01-03 | 23:00 (GMT) | United Cup 2026 | United Cup Dag 3 | Perth & Sydney 2026 | DK
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-viaplay-kjop-1212.png" group-title="DK ∞ VIAPLAY / TV2PLAY",Live | United Cup 2026 | United Cup Dag 3 | Perth & Sydney 2026 | DK
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/686963.m3u8
-#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-viaplay-kjop-1212.png" group-title="DK ∞ VIAPLAY / TV2PLAY",Next | 2026-01-03 | 23:20 (GMT) | United Cup 2026 | United Cup Dag 3 | Sydney 2026 | DK
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-viaplay-kjop-1212.png" group-title="DK ∞ VIAPLAY / TV2PLAY",Live | United Cup 2026 | United Cup Dag 3 | Sydney 2026 | DK
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/686962.m3u8
 
 # --- ES ∞  CINE (28) ---
@@ -24928,81 +24924,81 @@ http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/503345.m3u8
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/503344.m3u8
 
 # --- SPORT ∞ SPORTS STAN EVENTS LIVE (147) ---
-#EXTINF:-1 tvg-logo="https://streamcoimg-a.akamaihd.net/tile/eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJQYXJhbXMiOiJiYWNrZ3JvdW5kSW1nPSUyRmNtcyUyRjIwMjUlMkY2JTJGYXR0a0lOd0Z0Z3ljYlFmNjcuanBnXHUwMDI2YmFja2dyb3VuZEltZ1Bvc3Rlcj0lMkZjbXMlMkYyMDI1JTJGNiUyRmF0dGpDRjVzNUxDU3RQYlhjLmpwZ1x1MDAyNmJhZGdlPWZ1bGxEYXRlXHUwMDI2Y29tcENvbG9yPTZBNDVDMlx1MDAyNmNvbXBMb2dvPSUyRmNtcyUyRjIwMjUlMkY2JTJGYXR0ZTZ0cnByek55TjVZdmcucG5nXHUwMDI2ZGVzYz1Xb21lbiVFMiU4MCU5OXMrRVVSTyslRTIlODAlQTIrR3JvdXArRFx1MDAyNmgxPUZvb3RiYWxsXHUwMDI2aDI9VUVGQStXb21lbiUyN3MrRVVST1x1MDAyNmxpdmVFbmREYXRlPTBcdTAwMjZsaXZlU3RhcnREYXRlPTE3NTE3MzA2MDAwMDBcdTAwMjZsb2dvMT0lMkZjbXMlMkYyMDI1JTJGNiUyRmF0dFRlRm9zekVpeFl4aHBtLnBuZ1x1MDAyNmxvZ28yPSUyRmNtcyUyRjIwMjUlMkY2JTJGYXR0cUY1V3R3RlZOVjdrUVkucG5nXHUwMDI2cGljPUZvb3RiYWxsXHUwMDI2dGVhbTE9V2FsZXNcdTAwMjZ0ZWFtMj1OZXRoZXJsYW5kc1x1MDAyNnRlbXBsYXRlPXRlYW12dGVhbS1sYW5kc2NhcGUifQ.ToMXiGNEZMaA0F77uu0bhlb_mOAqOUA000zgfoU2rzc" group-title="SPORT ∞ SPORTS STAN EVENTS LIVE",Sakkari/Tsitsipas v Hibino/Uchiyama: Group E - United Cup 2025/26 (2026-01-02 13:10:09)
+#EXTINF:-1 tvg-logo="https://streamcoimg-a.akamaihd.net/tile/eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJQYXJhbXMiOiJiYWNrZ3JvdW5kSW1nPSUyRmNtcyUyRjIwMjUlMkY2JTJGYXR0a0lOd0Z0Z3ljYlFmNjcuanBnXHUwMDI2YmFja2dyb3VuZEltZ1Bvc3Rlcj0lMkZjbXMlMkYyMDI1JTJGNiUyRmF0dGpDRjVzNUxDU3RQYlhjLmpwZ1x1MDAyNmJhZGdlPWZ1bGxEYXRlXHUwMDI2Y29tcENvbG9yPTZBNDVDMlx1MDAyNmNvbXBMb2dvPSUyRmNtcyUyRjIwMjUlMkY2JTJGYXR0ZTZ0cnByek55TjVZdmcucG5nXHUwMDI2ZGVzYz1Xb21lbiVFMiU4MCU5OXMrRVVSTyslRTIlODAlQTIrR3JvdXArRFx1MDAyNmgxPUZvb3RiYWxsXHUwMDI2aDI9VUVGQStXb21lbiUyN3MrRVVST1x1MDAyNmxpdmVFbmREYXRlPTBcdTAwMjZsaXZlU3RhcnREYXRlPTE3NTE3MzA2MDAwMDBcdTAwMjZsb2dvMT0lMkZjbXMlMkYyMDI1JTJGNiUyRmF0dFRlRm9zekVpeFl4aHBtLnBuZ1x1MDAyNmxvZ28yPSUyRmNtcyUyRjIwMjUlMkY2JTJGYXR0cUY1V3R3RlZOVjdrUVkucG5nXHUwMDI2cGljPUZvb3RiYWxsXHUwMDI2dGVhbTE9V2FsZXNcdTAwMjZ0ZWFtMj1OZXRoZXJsYW5kc1x1MDAyNnRlbXBsYXRlPXRlYW12dGVhbS1sYW5kc2NhcGUifQ.ToMXiGNEZMaA0F77uu0bhlb_mOAqOUA000zgfoU2rzc" group-title="SPORT ∞ SPORTS STAN EVENTS LIVE",De Minaur v Ruud: Group D - United Cup 2025/26 (2026-01-03 09:52:17)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685788.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORT ∞ SPORTS STAN EVENTS LIVE",Newcastle Red Bulls v Gloucester - PREM Rugby Round 9 2025/26 (2026-01-02 19:35:11)
+#EXTINF:-1 tvg-logo="" group-title="SPORT ∞ SPORTS STAN EVENTS LIVE",Fritz v Baez: Group A - United Cup 2025/26 (2026-01-03 10:06:57)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685787.m3u8
-#EXTINF:-1 tvg-logo="https://streamcoimg-a.akamaihd.net/tile/eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJQYXJhbXMiOiJiYWNrZ3JvdW5kSW1nPSUyRmNtcyUyRjIwMjUlMkYzJTJGYXR0aHhWREJWWGdyUzZZeWouanBnXHUwMDI2YmFja2dyb3VuZEltZ1Bvc3Rlcj0lMkZjbXMlMkYyMDI1JTJGMyUyRmF0dEVzanR1RGRQMUt5aVl4LmpwZ1x1MDAyNmJhZGdlPWZ1bGxEYXRlXHUwMDI2Y29tcENvbG9yPWYwMDQwMlx1MDAyNmNvbXBMb2dvPSUyRmNtcyUyRjIwMjUlMkYzJTJGYXR0MzBXUzJMSnFZdE9pUTQucG5nXHUwMDI2ZGVzYz1QUk9NWCslRTIlODAlQTIrUjZcdTAwMjZoMT1DYW5iZXJyYVx1MDAyNmgyPVJhY2UrRGF5XHUwMDI2bGl2ZUVuZERhdGU9MFx1MDAyNmxpdmVTdGFydERhdGU9MTc1MTc3MDgwMDAwMFx1MDAyNnBpYz1Nb3RvcnNwb3J0XHUwMDI2dGVtcGxhdGU9YmFzaWMtbGFuZHNjYXBlIn0.XsYpsol8eucvedz6BpmO3wLki71FDWBZkt28z4XU9Ts" group-title="SPORT ∞ SPORTS STAN EVENTS LIVE",Bristol v Sale - PREM Rugby Round 9 2025/26 (2026-01-02 19:40:26)
+#EXTINF:-1 tvg-logo="https://streamcoimg-a.akamaihd.net/tile/eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJQYXJhbXMiOiJiYWNrZ3JvdW5kSW1nPSUyRmNtcyUyRjIwMjUlMkYzJTJGYXR0aHhWREJWWGdyUzZZeWouanBnXHUwMDI2YmFja2dyb3VuZEltZ1Bvc3Rlcj0lMkZjbXMlMkYyMDI1JTJGMyUyRmF0dEVzanR1RGRQMUt5aVl4LmpwZ1x1MDAyNmJhZGdlPWZ1bGxEYXRlXHUwMDI2Y29tcENvbG9yPWYwMDQwMlx1MDAyNmNvbXBMb2dvPSUyRmNtcyUyRjIwMjUlMkYzJTJGYXR0MzBXUzJMSnFZdE9pUTQucG5nXHUwMDI2ZGVzYz1QUk9NWCslRTIlODAlQTIrUjZcdTAwMjZoMT1DYW5iZXJyYVx1MDAyNmgyPVJhY2UrRGF5XHUwMDI2bGl2ZUVuZERhdGU9MFx1MDAyNmxpdmVTdGFydERhdGU9MTc1MTc3MDgwMDAwMFx1MDAyNnBpYz1Nb3RvcnNwb3J0XHUwMDI2dGVtcGxhdGU9YmFzaWMtbGFuZHNjYXBlIn0.XsYpsol8eucvedz6BpmO3wLki71FDWBZkt28z4XU9Ts" group-title="SPORT ∞ SPORTS STAN EVENTS LIVE",Aston Villa v Nottingham Forest - Premier League 2025/2026 (2026-01-03 11:30:08)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685786.m3u8
-#EXTINF:-1 tvg-logo="https://streamcoimg-a.akamaihd.net/tile/eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJQYXJhbXMiOiJiYWNrZ3JvdW5kSW1nPSUyRmNtcyUyRjIwMjUlMkYyJTJGYXR0cjhsT0VnY0xvZXFlcGQuanBnXHUwMDI2YmFja2dyb3VuZEltZ1Bvc3Rlcj0lMkZjbXMlMkYyMDI1JTJGMiUyRmF0dDJGU096NVZVb2VidmZWLmpwZ1x1MDAyNmJhZGdlPWZ1bGxEYXRlXHUwMDI2Y29tcENvbG9yPThhOTY5Y1x1MDAyNmNvbXBMb2dvPSUyRmNtcyUyRjIwMjUlMkYyJTJGYXR0UFpMd1h5elg5cmxGcEkucG5nXHUwMDI2ZGVzYz1JbmR5Y2FyKyVFMiU4MCVBMitSMTBcdTAwMjZoMT1NaWQtT2hpb1x1MDAyNmgyPVF1YWxpZnlpbmdcdTAwMjZsaXZlRW5kRGF0ZT0wXHUwMDI2bGl2ZVN0YXJ0RGF0ZT0xNzUxNzQwMjAwMDAwXHUwMDI2cGljPU1vdG9yc3BvcnRcdTAwMjZ0ZW1wbGF0ZT1iYXNpYy1sYW5kc2NhcGUifQ.wCBF7ugb9cymsjRZ8NsWroEEDwBGj3FxUsqZq8V2ZhY" group-title="SPORT ∞ SPORTS STAN EVENTS LIVE",Day 2 - United Cup 2026 (2026-01-02 23:00:27)
+#EXTINF:-1 tvg-logo="https://streamcoimg-a.akamaihd.net/tile/eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJQYXJhbXMiOiJiYWNrZ3JvdW5kSW1nPSUyRmNtcyUyRjIwMjUlMkYyJTJGYXR0cjhsT0VnY0xvZXFlcGQuanBnXHUwMDI2YmFja2dyb3VuZEltZ1Bvc3Rlcj0lMkZjbXMlMkYyMDI1JTJGMiUyRmF0dDJGU096NVZVb2VidmZWLmpwZ1x1MDAyNmJhZGdlPWZ1bGxEYXRlXHUwMDI2Y29tcENvbG9yPThhOTY5Y1x1MDAyNmNvbXBMb2dvPSUyRmNtcyUyRjIwMjUlMkYyJTJGYXR0UFpMd1h5elg5cmxGcEkucG5nXHUwMDI2ZGVzYz1JbmR5Y2FyKyVFMiU4MCVBMitSMTBcdTAwMjZoMT1NaWQtT2hpb1x1MDAyNmgyPVF1YWxpZnlpbmdcdTAwMjZsaXZlRW5kRGF0ZT0wXHUwMDI2bGl2ZVN0YXJ0RGF0ZT0xNzUxNzQwMjAwMDAwXHUwMDI2cGljPU1vdG9yc3BvcnRcdTAwMjZ0ZW1wbGF0ZT1iYXNpYy1sYW5kc2NhcGUifQ.wCBF7ugb9cymsjRZ8NsWroEEDwBGj3FxUsqZq8V2ZhY" group-title="SPORT ∞ SPORTS STAN EVENTS LIVE",Hunter/Smith v Eikeri/Durasovi: Group D - United Cup 2025/26 (2026-01-03 11:58:05)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685785.m3u8
-#EXTINF:-1 tvg-logo="https://streamcoimg-a.akamaihd.net/tile/eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJQYXJhbXMiOiJiYWNrZ3JvdW5kSW1nPSUyRmNtcyUyRjIwMjUlMkY2JTJGYXR0a0lOd0Z0Z3ljYlFmNjcuanBnXHUwMDI2YmFja2dyb3VuZEltZ1Bvc3Rlcj0lMkZjbXMlMkYyMDI1JTJGNiUyRmF0dGpDRjVzNUxDU3RQYlhjLmpwZ1x1MDAyNmJhZGdlPWZ1bGxEYXRlXHUwMDI2Y29tcENvbG9yPTZBNDVDMlx1MDAyNmNvbXBMb2dvPSUyRmNtcyUyRjIwMjUlMkY2JTJGYXR0ZTZ0cnByek55TjVZdmcucG5nXHUwMDI2ZGVzYz1Xb21lbiVFMiU4MCU5OXMrRVVSTyslRTIlODAlQTIrR3JvdXArRFx1MDAyNmgxPUZvb3RiYWxsXHUwMDI2aDI9VUVGQStXb21lbiUyN3MrRVVST1x1MDAyNmxpdmVFbmREYXRlPTBcdTAwMjZsaXZlU3RhcnREYXRlPTE3NTE3NDE0MDAwMDBcdTAwMjZsb2dvMT0lMkZjbXMlMkYyMDI1JTJGNiUyRmF0dHpDWnRmUmZVd25aTHM3LnBuZ1x1MDAyNmxvZ28yPSUyRmNtcyUyRjIwMjUlMkY2JTJGYXR0aUZyblJ0Qm41RlJEUEQucG5nXHUwMDI2cGljPUZvb3RiYWxsXHUwMDI2dGVhbTE9RnJhbmNlXHUwMDI2dGVhbTI9RW5nbGFuZFx1MDAyNnRlbXBsYXRlPXRlYW12dGVhbS1sYW5kc2NhcGUifQ.qtQHlx0wZvwicwYGItQsy3NP7aDLN3oCCBmaanRHqrA" group-title="SPORT ∞ SPORTS STAN EVENTS LIVE",Mertens v Zhu: Group B - United Cup 2025/26 (2026-01-02 23:30:27)
+#EXTINF:-1 tvg-logo="https://streamcoimg-a.akamaihd.net/tile/eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJQYXJhbXMiOiJiYWNrZ3JvdW5kSW1nPSUyRmNtcyUyRjIwMjUlMkY2JTJGYXR0a0lOd0Z0Z3ljYlFmNjcuanBnXHUwMDI2YmFja2dyb3VuZEltZ1Bvc3Rlcj0lMkZjbXMlMkYyMDI1JTJGNiUyRmF0dGpDRjVzNUxDU3RQYlhjLmpwZ1x1MDAyNmJhZGdlPWZ1bGxEYXRlXHUwMDI2Y29tcENvbG9yPTZBNDVDMlx1MDAyNmNvbXBMb2dvPSUyRmNtcyUyRjIwMjUlMkY2JTJGYXR0ZTZ0cnByek55TjVZdmcucG5nXHUwMDI2ZGVzYz1Xb21lbiVFMiU4MCU5OXMrRVVSTyslRTIlODAlQTIrR3JvdXArRFx1MDAyNmgxPUZvb3RiYWxsXHUwMDI2aDI9VUVGQStXb21lbiUyN3MrRVVST1x1MDAyNmxpdmVFbmREYXRlPTBcdTAwMjZsaXZlU3RhcnREYXRlPTE3NTE3NDE0MDAwMDBcdTAwMjZsb2dvMT0lMkZjbXMlMkYyMDI1JTJGNiUyRmF0dHpDWnRmUmZVd25aTHM3LnBuZ1x1MDAyNmxvZ28yPSUyRmNtcyUyRjIwMjUlMkY2JTJGYXR0aUZyblJ0Qm41RlJEUEQucG5nXHUwMDI2cGljPUZvb3RiYWxsXHUwMDI2dGVhbTE9RnJhbmNlXHUwMDI2dGVhbTI9RW5nbGFuZFx1MDAyNnRlbXBsYXRlPXRlYW12dGVhbS1sYW5kc2NhcGUifQ.qtQHlx0wZvwicwYGItQsy3NP7aDLN3oCCBmaanRHqrA" group-title="SPORT ∞ SPORTS STAN EVENTS LIVE",Gauff v Sierra: Group A - United Cup 2025/26 (2026-01-03 13:03:07)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685784.m3u8
-#EXTINF:-1 tvg-logo="https://streamcoimg-a.akamaihd.net/tile/eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJQYXJhbXMiOiJiYWNrZ3JvdW5kSW1nPSUyRmNtcyUyRjIwMjQlMkY5JTJGYXR0R0hRVGJEcGg3MXJRMnAuanBnXHUwMDI2YmFja2dyb3VuZEltZ1Bvc3Rlcj0lMkZjbXMlMkYyMDI0JTJGOSUyRmF0dEM5WEp0eGxZeTdJamI0LmpwZ1x1MDAyNmJhZGdlPWZ1bGxEYXRlXHUwMDI2Y29tcENvbG9yPTBiN2E3Mlx1MDAyNmNvbXBMb2dvPSUyRmNtcyUyRjIwMjUlMkY1JTJGYXR0alhNaWVuVHNJQ2JEeDMucG5nXHUwMDI2ZGVzYz1NZW4lMjdzK0ludGVybmF0aW9uYWwrJUUyJTgwJUEyK1QxXHUwMDI2aDE9UnVnYnlcdTAwMjZoMj1NZW4lMjdzK0ludGVybmF0aW9uYWxcdTAwMjZsaXZlRW5kRGF0ZT0wXHUwMDI2bGl2ZVN0YXJ0RGF0ZT0xNzUxNzQzODAwMDAwXHUwMDI2bG9nbzE9JTJGY21zJTJGMjAyNSUyRjYlMkZhdHQ1QVMyTlQyWGtVVk5kVi5wbmdcdTAwMjZsb2dvMj0lMkZjbXMlMkYyMDI1JTJGNiUyRmF0dHdZdVBuRUVjVEFLQUQ1LnBuZ1x1MDAyNnBpYz1SdWdieVx1MDAyNnRlYW0xPUFyZ2VudGluYVx1MDAyNnRlYW0yPUVuZ2xhbmRcdTAwMjZ0ZW1wbGF0ZT10ZWFtdnRlYW0tbGFuZHNjYXBlIn0.BcMeeKk50-5fCg49AnbGmsAaQfZuCUZ-wIvK1zCBeQw" group-title="SPORT ∞ SPORTS STAN EVENTS LIVE",Bergs v Zhang: Group B - United Cup 2025/26 (2026-01-03 01:00:27)
+#EXTINF:-1 tvg-logo="https://streamcoimg-a.akamaihd.net/tile/eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJQYXJhbXMiOiJiYWNrZ3JvdW5kSW1nPSUyRmNtcyUyRjIwMjQlMkY5JTJGYXR0R0hRVGJEcGg3MXJRMnAuanBnXHUwMDI2YmFja2dyb3VuZEltZ1Bvc3Rlcj0lMkZjbXMlMkYyMDI0JTJGOSUyRmF0dEM5WEp0eGxZeTdJamI0LmpwZ1x1MDAyNmJhZGdlPWZ1bGxEYXRlXHUwMDI2Y29tcENvbG9yPTBiN2E3Mlx1MDAyNmNvbXBMb2dvPSUyRmNtcyUyRjIwMjUlMkY1JTJGYXR0alhNaWVuVHNJQ2JEeDMucG5nXHUwMDI2ZGVzYz1NZW4lMjdzK0ludGVybmF0aW9uYWwrJUUyJTgwJUEyK1QxXHUwMDI2aDE9UnVnYnlcdTAwMjZoMj1NZW4lMjdzK0ludGVybmF0aW9uYWxcdTAwMjZsaXZlRW5kRGF0ZT0wXHUwMDI2bGl2ZVN0YXJ0RGF0ZT0xNzUxNzQzODAwMDAwXHUwMDI2bG9nbzE9JTJGY21zJTJGMjAyNSUyRjYlMkZhdHQ1QVMyTlQyWGtVVk5kVi5wbmdcdTAwMjZsb2dvMj0lMkZjbXMlMkYyMDI1JTJGNiUyRmF0dHdZdVBuRUVjVEFLQUQ1LnBuZ1x1MDAyNnBpYz1SdWdieVx1MDAyNnRlYW0xPUFyZ2VudGluYVx1MDAyNnRlYW0yPUVuZ2xhbmRcdTAwMjZ0ZW1wbGF0ZT10ZWFtdnRlYW0tbGFuZHNjYXBlIn0.BcMeeKk50-5fCg49AnbGmsAaQfZuCUZ-wIvK1zCBeQw" group-title="SPORT ∞ SPORTS STAN EVENTS LIVE",Gauff/Fritz v Carle/Andreozzi: Group A - United Cup 2025/26 (2026-01-03 14:29:17)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685783.m3u8
-#EXTINF:-1 tvg-logo="https://streamcoimg-a.akamaihd.net/tile/eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJQYXJhbXMiOiJiYWNrZ3JvdW5kSW1nPSUyRmNtcyUyRjIwMjUlMkY0JTJGYXR0RlA0TmVNeURsZGVHT1YuanBnXHUwMDI2YmFja2dyb3VuZEltZ1Bvc3Rlcj0lMkZjbXMlMkYyMDI1JTJGNCUyRmF0dGRzNlpCWFpYQWpiUjFjLmpwZ1x1MDAyNmJhZGdlPWZ1bGxEYXRlXHUwMDI2Y29tcENvbG9yPTAwNzY0OVx1MDAyNmNvbXBMb2dvPSUyRmNtcyUyRjIwMjUlMkY0JTJGYXR0TGxkNXRIUEp2bE5CRnkucG5nXHUwMDI2aDE9Q291cnRzaWRlXHUwMDI2aDI9RGF5KzdcdTAwMjZsaXZlRW5kRGF0ZT0wXHUwMDI2bGl2ZVN0YXJ0RGF0ZT0xNzUxNzk2MDAwMDAwXHUwMDI2cGljPVRlbm5pc1x1MDAyNnRlbXBsYXRlPWJhc2ljLWxhbmRzY2FwZSJ9.63ruEAZVo0gBLecf6X8_Dj8A8neN21LqOAVXGyRtt4s" group-title="SPORT ∞ SPORTS STAN EVENTS LIVE",Jeanjean v Bencic: Group C - United Cup 2025/26 (2026-01-03 02:04:28)
+#EXTINF:-1 tvg-logo="https://streamcoimg-a.akamaihd.net/tile/eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJQYXJhbXMiOiJiYWNrZ3JvdW5kSW1nPSUyRmNtcyUyRjIwMjUlMkY0JTJGYXR0RlA0TmVNeURsZGVHT1YuanBnXHUwMDI2YmFja2dyb3VuZEltZ1Bvc3Rlcj0lMkZjbXMlMkYyMDI1JTJGNCUyRmF0dGRzNlpCWFpYQWpiUjFjLmpwZ1x1MDAyNmJhZGdlPWZ1bGxEYXRlXHUwMDI2Y29tcENvbG9yPTAwNzY0OVx1MDAyNmNvbXBMb2dvPSUyRmNtcyUyRjIwMjUlMkY0JTJGYXR0TGxkNXRIUEp2bE5CRnkucG5nXHUwMDI2aDE9Q291cnRzaWRlXHUwMDI2aDI9RGF5KzdcdTAwMjZsaXZlRW5kRGF0ZT0wXHUwMDI2bGl2ZVN0YXJ0RGF0ZT0xNzUxNzk2MDAwMDAwXHUwMDI2cGljPVRlbm5pc1x1MDAyNnRlbXBsYXRlPWJhc2ljLWxhbmRzY2FwZSJ9.63ruEAZVo0gBLecf6X8_Dj8A8neN21LqOAVXGyRtt4s" group-title="SPORT ∞ SPORTS STAN EVENTS LIVE",Premier League Live - Wolves v West Ham - Premier League 2025/2026 (2026-01-03 14:54:42)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685782.m3u8
-#EXTINF:-1 tvg-logo="https://streamcoimg-a.akamaihd.net/tile/eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJQYXJhbXMiOiJiYWNrZ3JvdW5kSW1nPSUyRmNtcyUyRjIwMjUlMkY0JTJGYXR0RlA0TmVNeURsZGVHT1YuanBnXHUwMDI2YmFja2dyb3VuZEltZ1Bvc3Rlcj0lMkZjbXMlMkYyMDI1JTJGNCUyRmF0dGRzNlpCWFpYQWpiUjFjLmpwZ1x1MDAyNmJhZGdlPWxpdmVcdTAwMjZjb21wQ29sb3I9MDA3NjQ5XHUwMDI2Y29tcExvZ289JTJGY21zJTJGMjAyNSUyRjQlMkZhdHRMbGQ1dEhQSnZsTkJGeS5wbmdcdTAwMjZkZXNjPURheSs1XHUwMDI2ZmxhZzE9aHVcdTAwMjZmbGFnMj1iclx1MDAyNmZsYWczPWNuXHUwMDI2aDE9V2ltYmxlZG9uXHUwMDI2aDI9V29tZW4lMjdzK0RvdWJsZXMrUm91bmQrMlx1MDAyNmljb249bXV0ZVx1MDAyNmxpdmVFbmREYXRlPTBcdTAwMjZsaXZlU3RhcnREYXRlPTE3NTE2MjMzNjYwMDBcdTAwMjZwMT1CYWJvcyUyQ1x1MDAyNnAyPVN0ZWZhbmlcdTAwMjZwMz1HdW8lMkNcdTAwMjZwND1QYW5vdmFcdTAwMjZwaWM9VGVubmlzXHUwMDI2c2VlZDE9JTI4MTAlMjlcdTAwMjZzZWVkMj0lMjgxMCUyOVx1MDAyNnRlbXBsYXRlPTJ2Mi1sYW5kc2NhcGUifQ.zQoJuzQdgXCGw4rNHa0H6DpFyBvkm5w7-gJ48ACM784" group-title="SPORT ∞ SPORTS STAN EVENTS LIVE",Mertens/Bergs v Zhu/Zhang: Group B - United Cup 2025/26 (2026-01-03 04:50:40)
+#EXTINF:-1 tvg-logo="https://streamcoimg-a.akamaihd.net/tile/eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJQYXJhbXMiOiJiYWNrZ3JvdW5kSW1nPSUyRmNtcyUyRjIwMjUlMkY0JTJGYXR0RlA0TmVNeURsZGVHT1YuanBnXHUwMDI2YmFja2dyb3VuZEltZ1Bvc3Rlcj0lMkZjbXMlMkYyMDI1JTJGNCUyRmF0dGRzNlpCWFpYQWpiUjFjLmpwZ1x1MDAyNmJhZGdlPWxpdmVcdTAwMjZjb21wQ29sb3I9MDA3NjQ5XHUwMDI2Y29tcExvZ289JTJGY21zJTJGMjAyNSUyRjQlMkZhdHRMbGQ1dEhQSnZsTkJGeS5wbmdcdTAwMjZkZXNjPURheSs1XHUwMDI2ZmxhZzE9aHVcdTAwMjZmbGFnMj1iclx1MDAyNmZsYWczPWNuXHUwMDI2aDE9V2ltYmxlZG9uXHUwMDI2aDI9V29tZW4lMjdzK0RvdWJsZXMrUm91bmQrMlx1MDAyNmljb249bXV0ZVx1MDAyNmxpdmVFbmREYXRlPTBcdTAwMjZsaXZlU3RhcnREYXRlPTE3NTE2MjMzNjYwMDBcdTAwMjZwMT1CYWJvcyUyQ1x1MDAyNnAyPVN0ZWZhbmlcdTAwMjZwMz1HdW8lMkNcdTAwMjZwND1QYW5vdmFcdTAwMjZwaWM9VGVubmlzXHUwMDI2c2VlZDE9JTI4MTAlMjlcdTAwMjZzZWVkMj0lMjgxMCUyOVx1MDAyNnRlbXBsYXRlPTJ2Mi1sYW5kc2NhcGUifQ.zQoJuzQdgXCGw4rNHa0H6DpFyBvkm5w7-gJ48ACM784" group-title="SPORT ∞ SPORTS STAN EVENTS LIVE",Brighton & Hove Albion v Burnley - Premier League 2025/2026 (2026-01-03 14:50:13)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685781.m3u8
-#EXTINF:-1 tvg-logo="https://streamcoimg-a.akamaihd.net/tile/eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJQYXJhbXMiOiJiYWNrZ3JvdW5kSW1nPSUyRmNtcyUyRjIwMjUlMkY0JTJGYXR0RlA0TmVNeURsZGVHT1YuanBnXHUwMDI2YmFja2dyb3VuZEltZ1Bvc3Rlcj0lMkZjbXMlMkYyMDI1JTJGNCUyRmF0dGRzNlpCWFpYQWpiUjFjLmpwZ1x1MDAyNmJhZGdlPWxpdmVcdTAwMjZjb21wQ29sb3I9MDA3NjQ5XHUwMDI2Y29tcExvZ289JTJGY21zJTJGMjAyNSUyRjQlMkZhdHRMbGQ1dEhQSnZsTkJGeS5wbmdcdTAwMjZkZXNjPURheSs1XHUwMDI2ZmxhZzE9cHRcdTAwMjZmbGFnMj1hdFx1MDAyNmZsYWczPWN6XHUwMDI2ZmxhZzQ9Y3pcdTAwMjZoMT1XaW1ibGVkb25cdTAwMjZoMj1NZW4lMjdzK0RvdWJsZXMrUm91bmQrMlx1MDAyNmljb249bXV0ZVx1MDAyNmxpdmVFbmREYXRlPTBcdTAwMjZsaXZlU3RhcnREYXRlPTE3NTE2MjMzOTcwMDBcdTAwMjZwMT1DYWJyYWwlMkNcdTAwMjZwMj1NaWVkbGVyXHUwMDI2cDM9Tm91emElMkNcdTAwMjZwND1SaWtsXHUwMDI2cGljPVRlbm5pc1x1MDAyNnRlbXBsYXRlPTJ2Mi1sYW5kc2NhcGUifQ.GOk-dVkAQSAQXLvS0k7O0e9yQwqAO3dkyzxfW1d5Yz4" group-title="SPORT ∞ SPORTS STAN EVENTS LIVE",Rinderknech v Wawrinka: Group C - United Cup 2025/26 (2026-01-03 03:58:24)
+#EXTINF:-1 tvg-logo="https://streamcoimg-a.akamaihd.net/tile/eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJQYXJhbXMiOiJiYWNrZ3JvdW5kSW1nPSUyRmNtcyUyRjIwMjUlMkY0JTJGYXR0RlA0TmVNeURsZGVHT1YuanBnXHUwMDI2YmFja2dyb3VuZEltZ1Bvc3Rlcj0lMkZjbXMlMkYyMDI1JTJGNCUyRmF0dGRzNlpCWFpYQWpiUjFjLmpwZ1x1MDAyNmJhZGdlPWxpdmVcdTAwMjZjb21wQ29sb3I9MDA3NjQ5XHUwMDI2Y29tcExvZ289JTJGY21zJTJGMjAyNSUyRjQlMkZhdHRMbGQ1dEhQSnZsTkJGeS5wbmdcdTAwMjZkZXNjPURheSs1XHUwMDI2ZmxhZzE9cHRcdTAwMjZmbGFnMj1hdFx1MDAyNmZsYWczPWN6XHUwMDI2ZmxhZzQ9Y3pcdTAwMjZoMT1XaW1ibGVkb25cdTAwMjZoMj1NZW4lMjdzK0RvdWJsZXMrUm91bmQrMlx1MDAyNmljb249bXV0ZVx1MDAyNmxpdmVFbmREYXRlPTBcdTAwMjZsaXZlU3RhcnREYXRlPTE3NTE2MjMzOTcwMDBcdTAwMjZwMT1DYWJyYWwlMkNcdTAwMjZwMj1NaWVkbGVyXHUwMDI2cDM9Tm91emElMkNcdTAwMjZwND1SaWtsXHUwMDI2cGljPVRlbm5pc1x1MDAyNnRlbXBsYXRlPTJ2Mi1sYW5kc2NhcGUifQ.GOk-dVkAQSAQXLvS0k7O0e9yQwqAO3dkyzxfW1d5Yz4" group-title="SPORT ∞ SPORTS STAN EVENTS LIVE",Wolverhampton Wanderers v West Ham United - Premier League 2025/2026 (2026-01-03 14:50:12)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685780.m3u8
-#EXTINF:-1 tvg-logo="https://streamcoimg-a.akamaihd.net/tile/eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJQYXJhbXMiOiJiYWNrZ3JvdW5kSW1nPSUyRmNtcyUyRjIwMjUlMkY0JTJGYXR0RlA0TmVNeURsZGVHT1YuanBnXHUwMDI2YmFja2dyb3VuZEltZ1Bvc3Rlcj0lMkZjbXMlMkYyMDI1JTJGNCUyRmF0dGRzNlpCWFpYQWpiUjFjLmpwZ1x1MDAyNmJhZGdlPWxpdmVcdTAwMjZjb21wQ29sb3I9MDA3NjQ5XHUwMDI2Y29tcExvZ289JTJGY21zJTJGMjAyNSUyRjQlMkZhdHRMbGQ1dEhQSnZsTkJGeS5wbmdcdTAwMjZkZXNjPURheSs1XHUwMDI2ZmxhZzE9dXNcdTAwMjZmbGFnMj1iclx1MDAyNmgxPVdpbWJsZWRvblx1MDAyNmgyPVdvbWVuJTI3cytEb3VibGVzK1JvdW5kKzJcdTAwMjZpY29uPW11dGVcdTAwMjZsaXZlRW5kRGF0ZT0wXHUwMDI2bGl2ZVN0YXJ0RGF0ZT0xNzUxNjI4MzUzMDAwXHUwMDI2cDE9R2xlYXNvbiUyQ1x1MDAyNnAyPU1hcnRpbnNcdTAwMjZwMz1BbmRyZWV2YSUyQ1x1MDAyNnA0PVNobmFpZGVyXHUwMDI2cGljPVRlbm5pc1x1MDAyNnNlZWQzPSUyODUlMjlcdTAwMjZzZWVkND0lMjg1JTI5XHUwMDI2dGVtcGxhdGU9MnYyLWxhbmRzY2FwZSJ9.UfxPX41Ptha6GkyB3YQTj15uC8F-s9NmknOUEZ1sTNk" group-title="SPORT ∞ SPORTS STAN EVENTS LIVE",Rakotomanga/Roger-Vasselin v Bencic/Wawrinka: Group C - United Cup 2025/26 (2026-01-03 07:30:27)
+#EXTINF:-1 tvg-logo="https://streamcoimg-a.akamaihd.net/tile/eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJQYXJhbXMiOiJiYWNrZ3JvdW5kSW1nPSUyRmNtcyUyRjIwMjUlMkY0JTJGYXR0RlA0TmVNeURsZGVHT1YuanBnXHUwMDI2YmFja2dyb3VuZEltZ1Bvc3Rlcj0lMkZjbXMlMkYyMDI1JTJGNCUyRmF0dGRzNlpCWFpYQWpiUjFjLmpwZ1x1MDAyNmJhZGdlPWxpdmVcdTAwMjZjb21wQ29sb3I9MDA3NjQ5XHUwMDI2Y29tcExvZ289JTJGY21zJTJGMjAyNSUyRjQlMkZhdHRMbGQ1dEhQSnZsTkJGeS5wbmdcdTAwMjZkZXNjPURheSs1XHUwMDI2ZmxhZzE9dXNcdTAwMjZmbGFnMj1iclx1MDAyNmgxPVdpbWJsZWRvblx1MDAyNmgyPVdvbWVuJTI3cytEb3VibGVzK1JvdW5kKzJcdTAwMjZpY29uPW11dGVcdTAwMjZsaXZlRW5kRGF0ZT0wXHUwMDI2bGl2ZVN0YXJ0RGF0ZT0xNzUxNjI4MzUzMDAwXHUwMDI2cDE9R2xlYXNvbiUyQ1x1MDAyNnAyPU1hcnRpbnNcdTAwMjZwMz1BbmRyZWV2YSUyQ1x1MDAyNnA0PVNobmFpZGVyXHUwMDI2cGljPVRlbm5pc1x1MDAyNnNlZWQzPSUyODUlMjlcdTAwMjZzZWVkND0lMjg1JTI5XHUwMDI2dGVtcGxhdGU9MnYyLWxhbmRzY2FwZSJ9.UfxPX41Ptha6GkyB3YQTj15uC8F-s9NmknOUEZ1sTNk" group-title="SPORT ∞ SPORTS STAN EVENTS LIVE",Bath v Exeter - PREM Rugby Round 9 2025/26 (2026-01-03 15:00:15)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685779.m3u8
-#EXTINF:-1 tvg-logo="https://streamcoimg-a.akamaihd.net/tile/eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJQYXJhbXMiOiJiYWNrZ3JvdW5kSW1nPSUyRmNtcyUyRjIwMjUlMkY0JTJGYXR0RlA0TmVNeURsZGVHT1YuanBnXHUwMDI2YmFja2dyb3VuZEltZ1Bvc3Rlcj0lMkZjbXMlMkYyMDI1JTJGNCUyRmF0dGRzNlpCWFpYQWpiUjFjLmpwZ1x1MDAyNmJhZGdlPWxpdmVcdTAwMjZjb21wQ29sb3I9MDA3NjQ5XHUwMDI2Y29tcExvZ289JTJGY21zJTJGMjAyNSUyRjQlMkZhdHRMbGQ1dEhQSnZsTkJGeS5wbmdcdTAwMjZkZXNjPURheSs1XHUwMDI2ZmxhZzE9Z2JcdTAwMjZmbGFnMj1nYlx1MDAyNmZsYWczPWZpXHUwMDI2ZmxhZzQ9Z2JcdTAwMjZoMT1XaW1ibGVkb25cdTAwMjZoMj1NZW4lMjdzK0RvdWJsZXMrUm91bmQrMlx1MDAyNmljb249bXV0ZVx1MDAyNmxpdmVFbmREYXRlPTBcdTAwMjZsaXZlU3RhcnREYXRlPTE3NTE2Mjg1NzAwMDBcdTAwMjZwMT1IYXJyaXMlMkNcdTAwMjZwMj1XaWxsaXNcdTAwMjZwMz1IZWxpb3ZhYXJhJTJDXHUwMDI2cDQ9UGF0dGVuXHUwMDI2cGljPVRlbm5pc1x1MDAyNnNlZWQzPSUyODIlMjlcdTAwMjZzZWVkND0lMjgyJTI5XHUwMDI2dGVtcGxhdGU9MnYyLWxhbmRzY2FwZSJ9.gCgJOWsFg344HMBOrzDt3oRHFmSka9IQq1Se7s1L_OE" group-title="SPORT ∞ SPORTS STAN EVENTS LIVE",Hunter v Helgo: Group D - United Cup 2025/26 (2026-01-03 07:30:27)
+#EXTINF:-1 tvg-logo="https://streamcoimg-a.akamaihd.net/tile/eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJQYXJhbXMiOiJiYWNrZ3JvdW5kSW1nPSUyRmNtcyUyRjIwMjUlMkY0JTJGYXR0RlA0TmVNeURsZGVHT1YuanBnXHUwMDI2YmFja2dyb3VuZEltZ1Bvc3Rlcj0lMkZjbXMlMkYyMDI1JTJGNCUyRmF0dGRzNlpCWFpYQWpiUjFjLmpwZ1x1MDAyNmJhZGdlPWxpdmVcdTAwMjZjb21wQ29sb3I9MDA3NjQ5XHUwMDI2Y29tcExvZ289JTJGY21zJTJGMjAyNSUyRjQlMkZhdHRMbGQ1dEhQSnZsTkJGeS5wbmdcdTAwMjZkZXNjPURheSs1XHUwMDI2ZmxhZzE9Z2JcdTAwMjZmbGFnMj1nYlx1MDAyNmZsYWczPWZpXHUwMDI2ZmxhZzQ9Z2JcdTAwMjZoMT1XaW1ibGVkb25cdTAwMjZoMj1NZW4lMjdzK0RvdWJsZXMrUm91bmQrMlx1MDAyNmljb249bXV0ZVx1MDAyNmxpdmVFbmREYXRlPTBcdTAwMjZsaXZlU3RhcnREYXRlPTE3NTE2Mjg1NzAwMDBcdTAwMjZwMT1IYXJyaXMlMkNcdTAwMjZwMj1XaWxsaXNcdTAwMjZwMz1IZWxpb3ZhYXJhJTJDXHUwMDI2cDQ9UGF0dGVuXHUwMDI2cGljPVRlbm5pc1x1MDAyNnNlZWQzPSUyODIlMjlcdTAwMjZzZWVkND0lMjgyJTI5XHUwMDI2dGVtcGxhdGU9MnYyLWxhbmRzY2FwZSJ9.gCgJOWsFg344HMBOrzDt3oRHFmSka9IQq1Se7s1L_OE" group-title="SPORT ∞ SPORTS STAN EVENTS LIVE",AFC Bournemouth v Arsenal - Premier League 2025/2026 (2026-01-03 17:20:27)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685778.m3u8
-#EXTINF:-1 tvg-logo="https://streamcoimg-a.akamaihd.net/tile/eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJQYXJhbXMiOiJiYWNrZ3JvdW5kSW1nPSUyRmNtcyUyRjIwMjUlMkY0JTJGYXR0RlA0TmVNeURsZGVHT1YuanBnXHUwMDI2YmFja2dyb3VuZEltZ1Bvc3Rlcj0lMkZjbXMlMkYyMDI1JTJGNCUyRmF0dGRzNlpCWFpYQWpiUjFjLmpwZ1x1MDAyNmJhZGdlPWxpdmVcdTAwMjZjb21wQ29sb3I9MDA3NjQ5XHUwMDI2Y29tcExvZ289JTJGY21zJTJGMjAyNSUyRjQlMkZhdHRMbGQ1dEhQSnZsTkJGeS5wbmdcdTAwMjZkZXNjPURheSs1XHUwMDI2ZmxhZzE9Y29cdTAwMjZmbGFnMj11c1x1MDAyNmZsYWczPXVzXHUwMDI2aDE9V2ltYmxlZG9uXHUwMDI2aDI9V29tZW4lMjdzK0RvdWJsZXMrUm91bmQrMlx1MDAyNmljb249bXV0ZVx1MDAyNmxpdmVFbmREYXRlPTBcdTAwMjZsaXZlU3RhcnREYXRlPTE3NTE2Mjg2NDcwMDBcdTAwMjZwMT1Pc29yaW8lMkNcdTAwMjZwMj1QYXJrc1x1MDAyNnAzPU1lbGljaGFyLU1hcnRpbmV6JTJDXHUwMDI2cDQ9U2Ftc29ub3ZhXHUwMDI2cGljPVRlbm5pc1x1MDAyNnNlZWQzPSUyODE1JTI5XHUwMDI2c2VlZDQ9JTI4MTUlMjlcdTAwMjZ0ZW1wbGF0ZT0ydjItbGFuZHNjYXBlIn0.d6wtqhbh-iskHkcRak2d4KZ_rtQ7EslZf_LX-ZYxhfo" group-title="SPORT ∞ SPORTS STAN EVENTS LIVE",De Minaur v Ruud: Group D - United Cup 2025/26 (2026-01-03 09:00:27)
+#EXTINF:-1 tvg-logo="https://streamcoimg-a.akamaihd.net/tile/eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJQYXJhbXMiOiJiYWNrZ3JvdW5kSW1nPSUyRmNtcyUyRjIwMjUlMkY0JTJGYXR0RlA0TmVNeURsZGVHT1YuanBnXHUwMDI2YmFja2dyb3VuZEltZ1Bvc3Rlcj0lMkZjbXMlMkYyMDI1JTJGNCUyRmF0dGRzNlpCWFpYQWpiUjFjLmpwZ1x1MDAyNmJhZGdlPWxpdmVcdTAwMjZjb21wQ29sb3I9MDA3NjQ5XHUwMDI2Y29tcExvZ289JTJGY21zJTJGMjAyNSUyRjQlMkZhdHRMbGQ1dEhQSnZsTkJGeS5wbmdcdTAwMjZkZXNjPURheSs1XHUwMDI2ZmxhZzE9Y29cdTAwMjZmbGFnMj11c1x1MDAyNmZsYWczPXVzXHUwMDI2aDE9V2ltYmxlZG9uXHUwMDI2aDI9V29tZW4lMjdzK0RvdWJsZXMrUm91bmQrMlx1MDAyNmljb249bXV0ZVx1MDAyNmxpdmVFbmREYXRlPTBcdTAwMjZsaXZlU3RhcnREYXRlPTE3NTE2Mjg2NDcwMDBcdTAwMjZwMT1Pc29yaW8lMkNcdTAwMjZwMj1QYXJrc1x1MDAyNnAzPU1lbGljaGFyLU1hcnRpbmV6JTJDXHUwMDI2cDQ9U2Ftc29ub3ZhXHUwMDI2cGljPVRlbm5pc1x1MDAyNnNlZWQzPSUyODE1JTI5XHUwMDI2c2VlZDQ9JTI4MTUlMjlcdTAwMjZ0ZW1wbGF0ZT0ydjItbGFuZHNjYXBlIn0.d6wtqhbh-iskHkcRak2d4KZ_rtQ7EslZf_LX-ZYxhfo" group-title="SPORT ∞ SPORTS STAN EVENTS LIVE",4K - Bournemouth v Arsenal - Premier League 2025/2026 (2026-01-03 17:20:27)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685777.m3u8
-#EXTINF:-1 tvg-logo="https://streamcoimg-a.akamaihd.net/tile/eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJQYXJhbXMiOiJiYWNrZ3JvdW5kSW1nPSUyRmNtcyUyRjIwMjUlMkY0JTJGYXR0RlA0TmVNeURsZGVHT1YuanBnXHUwMDI2YmFja2dyb3VuZEltZ1Bvc3Rlcj0lMkZjbXMlMkYyMDI1JTJGNCUyRmF0dGRzNlpCWFpYQWpiUjFjLmpwZ1x1MDAyNmJhZGdlPWxpdmVcdTAwMjZjb21wQ29sb3I9MDA3NjQ5XHUwMDI2Y29tcExvZ289JTJGY21zJTJGMjAyNSUyRjQlMkZhdHRMbGQ1dEhQSnZsTkJGeS5wbmdcdTAwMjZkZXNjPURheSs1XHUwMDI2ZmxhZzE9ZGVcdTAwMjZmbGFnMj1kZVx1MDAyNmZsYWczPWF1XHUwMDI2ZmxhZzQ9dXNcdTAwMjZoMT1XaW1ibGVkb25cdTAwMjZoMj1NZW4lMjdzK0RvdWJsZXMrUm91bmQrMlx1MDAyNmljb249bXV0ZVx1MDAyNmxpdmVFbmREYXRlPTBcdTAwMjZsaXZlU3RhcnREYXRlPTE3NTE2Mjg2NzcwMDBcdTAwMjZwMT1LcmF3aWV0eiUyQ1x1MDAyNnAyPVB1ZXR6XHUwMDI2cDM9Q2hyaXN0b3BoZXIrUm9taW9zJTJDXHUwMDI2cDQ9U2VnZ2VybWFuXHUwMDI2cGljPVRlbm5pc1x1MDAyNnNlZWQxPSUyODMlMjlcdTAwMjZzZWVkMj0lMjgzJTI5XHUwMDI2dGVtcGxhdGU9MnYyLWxhbmRzY2FwZSJ9.eXKsJCJvOTY_eozMj_AYrNVxCaywowrxZwhjyqsvbkw" group-title="SPORT ∞ SPORTS STAN EVENTS LIVE",Fritz v Baez: Group A - United Cup 2025/26 (2026-01-03 09:00:27)
+#EXTINF:-1 tvg-logo="https://streamcoimg-a.akamaihd.net/tile/eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJQYXJhbXMiOiJiYWNrZ3JvdW5kSW1nPSUyRmNtcyUyRjIwMjUlMkY0JTJGYXR0RlA0TmVNeURsZGVHT1YuanBnXHUwMDI2YmFja2dyb3VuZEltZ1Bvc3Rlcj0lMkZjbXMlMkYyMDI1JTJGNCUyRmF0dGRzNlpCWFpYQWpiUjFjLmpwZ1x1MDAyNmJhZGdlPWxpdmVcdTAwMjZjb21wQ29sb3I9MDA3NjQ5XHUwMDI2Y29tcExvZ289JTJGY21zJTJGMjAyNSUyRjQlMkZhdHRMbGQ1dEhQSnZsTkJGeS5wbmdcdTAwMjZkZXNjPURheSs1XHUwMDI2ZmxhZzE9ZGVcdTAwMjZmbGFnMj1kZVx1MDAyNmZsYWczPWF1XHUwMDI2ZmxhZzQ9dXNcdTAwMjZoMT1XaW1ibGVkb25cdTAwMjZoMj1NZW4lMjdzK0RvdWJsZXMrUm91bmQrMlx1MDAyNmljb249bXV0ZVx1MDAyNmxpdmVFbmREYXRlPTBcdTAwMjZsaXZlU3RhcnREYXRlPTE3NTE2Mjg2NzcwMDBcdTAwMjZwMT1LcmF3aWV0eiUyQ1x1MDAyNnAyPVB1ZXR6XHUwMDI2cDM9Q2hyaXN0b3BoZXIrUm9taW9zJTJDXHUwMDI2cDQ9U2VnZ2VybWFuXHUwMDI2cGljPVRlbm5pc1x1MDAyNnNlZWQxPSUyODMlMjlcdTAwMjZzZWVkMj0lMjgzJTI5XHUwMDI2dGVtcGxhdGU9MnYyLWxhbmRzY2FwZSJ9.eXKsJCJvOTY_eozMj_AYrNVxCaywowrxZwhjyqsvbkw" group-title="SPORT ∞ SPORTS STAN EVENTS LIVE",Northampton v Harlequins - PREM Rugby Round 9 2025/26 (2026-01-03 17:25:27)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685776.m3u8
-#EXTINF:-1 tvg-logo="https://streamcoimg-a.akamaihd.net/tile/eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJQYXJhbXMiOiJiYWNrZ3JvdW5kSW1nPSUyRmNtcyUyRjIwMjUlMkY0JTJGYXR0RlA0TmVNeURsZGVHT1YuanBnXHUwMDI2YmFja2dyb3VuZEltZ1Bvc3Rlcj0lMkZjbXMlMkYyMDI1JTJGNCUyRmF0dGRzNlpCWFpYQWpiUjFjLmpwZ1x1MDAyNmJhZGdlPWxpdmVcdTAwMjZjb21wQ29sb3I9MDA3NjQ5XHUwMDI2Y29tcExvZ289JTJGY21zJTJGMjAyNSUyRjQlMkZhdHRMbGQ1dEhQSnZsTkJGeS5wbmdcdTAwMjZkZXNjPURheSs1XHUwMDI2ZmxhZzE9aHVcdTAwMjZmbGFnMj1mclx1MDAyNmgxPVdpbWJsZWRvblx1MDAyNmgyPU1lbiUyN3MrU2luZ2xlcytSb3VuZCsyXHUwMDI2bGl2ZUVuZERhdGU9MFx1MDAyNmxpdmVTdGFydERhdGU9MTc1MTYyODkzNzAwMFx1MDAyNnAxPUZ1Y3Nvdmljc1x1MDAyNnAyPU1vbmZpbHNcdTAwMjZwaWM9VGVubmlzXHUwMDI2dGVtcGxhdGU9MXYxLWxhbmRzY2FwZSJ9.wF8DSeKmWIBIvDuQZjZMnDYpB3ujjR6VZoz-02hMQS8" group-title="SPORT ∞ SPORTS STAN EVENTS LIVE",Hunter/Smith v Eikeri/Ruud: Group D - United Cup 2025/26 (2026-01-03 10:30:27)
+#EXTINF:-1 tvg-logo="https://streamcoimg-a.akamaihd.net/tile/eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJQYXJhbXMiOiJiYWNrZ3JvdW5kSW1nPSUyRmNtcyUyRjIwMjUlMkY0JTJGYXR0RlA0TmVNeURsZGVHT1YuanBnXHUwMDI2YmFja2dyb3VuZEltZ1Bvc3Rlcj0lMkZjbXMlMkYyMDI1JTJGNCUyRmF0dGRzNlpCWFpYQWpiUjFjLmpwZ1x1MDAyNmJhZGdlPWxpdmVcdTAwMjZjb21wQ29sb3I9MDA3NjQ5XHUwMDI2Y29tcExvZ289JTJGY21zJTJGMjAyNSUyRjQlMkZhdHRMbGQ1dEhQSnZsTkJGeS5wbmdcdTAwMjZkZXNjPURheSs1XHUwMDI2ZmxhZzE9aHVcdTAwMjZmbGFnMj1mclx1MDAyNmgxPVdpbWJsZWRvblx1MDAyNmgyPU1lbiUyN3MrU2luZ2xlcytSb3VuZCsyXHUwMDI2bGl2ZUVuZERhdGU9MFx1MDAyNmxpdmVTdGFydERhdGU9MTc1MTYyODkzNzAwMFx1MDAyNnAxPUZ1Y3Nvdmljc1x1MDAyNnAyPU1vbmZpbHNcdTAwMjZwaWM9VGVubmlzXHUwMDI2dGVtcGxhdGU9MXYxLWxhbmRzY2FwZSJ9.wF8DSeKmWIBIvDuQZjZMnDYpB3ujjR6VZoz-02hMQS8" group-title="SPORT ∞ SPORTS STAN EVENTS LIVE",PL Saturday Wrap: Matchweek 20 - Jan 5 (2026-01-03 20:00:27)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685775.m3u8
-#EXTINF:-1 tvg-logo="https://streamcoimg-a.akamaihd.net/tile/eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJQYXJhbXMiOiJiYWNrZ3JvdW5kSW1nPSUyRmNtcyUyRjIwMjUlMkY0JTJGYXR0RlA0TmVNeURsZGVHT1YuanBnXHUwMDI2YmFja2dyb3VuZEltZ1Bvc3Rlcj0lMkZjbXMlMkYyMDI1JTJGNCUyRmF0dGRzNlpCWFpYQWpiUjFjLmpwZ1x1MDAyNmJhZGdlPWxpdmVcdTAwMjZjb21wQ29sb3I9MDA3NjQ5XHUwMDI2Y29tcExvZ289JTJGY21zJTJGMjAyNSUyRjQlMkZhdHRMbGQ1dEhQSnZsTkJGeS5wbmdcdTAwMjZkZXNjPURheSs1XHUwMDI2ZmxhZzE9YnJcdTAwMjZmbGFnMj1iclx1MDAyNmZsYWczPWhyXHUwMDI2ZmxhZzQ9bnpcdTAwMjZoMT1XaW1ibGVkb25cdTAwMjZoMj1NZW4lMjdzK0RvdWJsZXMrUm91bmQrMlx1MDAyNmljb249bXV0ZVx1MDAyNmxpdmVFbmREYXRlPTBcdTAwMjZsaXZlU3RhcnREYXRlPTE3NTE2MjkzMjUwMDBcdTAwMjZwMT1NYXRvcyUyQ1x1MDAyNnAyPU1lbG9cdTAwMjZwMz1NZWt0aWMlMkNcdTAwMjZwND1WZW51c1x1MDAyNnBpYz1UZW5uaXNcdTAwMjZzZWVkMz0lMjg4JTI5XHUwMDI2c2VlZDQ9JTI4OCUyOVx1MDAyNnRlbXBsYXRlPTJ2Mi1sYW5kc2NhcGUifQ.XuXJX6iQjkbMo-sgSw67kB1ymXyDl7SaUsDMGd1ivqk" group-title="SPORT ∞ SPORTS STAN EVENTS LIVE",Gauff v Sierra: Group A - United Cup 2025/26 (2026-01-03 10:30:27)
+#EXTINF:-1 tvg-logo="https://streamcoimg-a.akamaihd.net/tile/eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJQYXJhbXMiOiJiYWNrZ3JvdW5kSW1nPSUyRmNtcyUyRjIwMjUlMkY0JTJGYXR0RlA0TmVNeURsZGVHT1YuanBnXHUwMDI2YmFja2dyb3VuZEltZ1Bvc3Rlcj0lMkZjbXMlMkYyMDI1JTJGNCUyRmF0dGRzNlpCWFpYQWpiUjFjLmpwZ1x1MDAyNmJhZGdlPWxpdmVcdTAwMjZjb21wQ29sb3I9MDA3NjQ5XHUwMDI2Y29tcExvZ289JTJGY21zJTJGMjAyNSUyRjQlMkZhdHRMbGQ1dEhQSnZsTkJGeS5wbmdcdTAwMjZkZXNjPURheSs1XHUwMDI2ZmxhZzE9YnJcdTAwMjZmbGFnMj1iclx1MDAyNmZsYWczPWhyXHUwMDI2ZmxhZzQ9bnpcdTAwMjZoMT1XaW1ibGVkb25cdTAwMjZoMj1NZW4lMjdzK0RvdWJsZXMrUm91bmQrMlx1MDAyNmljb249bXV0ZVx1MDAyNmxpdmVFbmREYXRlPTBcdTAwMjZsaXZlU3RhcnREYXRlPTE3NTE2MjkzMjUwMDBcdTAwMjZwMT1NYXRvcyUyQ1x1MDAyNnAyPU1lbG9cdTAwMjZwMz1NZWt0aWMlMkNcdTAwMjZwND1WZW51c1x1MDAyNnBpYz1UZW5uaXNcdTAwMjZzZWVkMz0lMjg4JTI5XHUwMDI2c2VlZDQ9JTI4OCUyOVx1MDAyNnRlbXBsYXRlPTJ2Mi1sYW5kc2NhcGUifQ.XuXJX6iQjkbMo-sgSw67kB1ymXyDl7SaUsDMGd1ivqk" group-title="SPORT ∞ SPORTS STAN EVENTS LIVE",Day 3 - United Cup 2026 (2026-01-03 22:50:27)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685774.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORT ∞ SPORTS STAN EVENTS LIVE",Aston Villa v Nottingham Forest - Premier League 2025/2026 (2026-01-03 11:30:27)
-http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685773.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORT ∞ SPORTS STAN EVENTS LIVE",Gauff/Fritz v Carle/Andreozzi: Group A - United Cup 2025/26 (2026-01-03 12:00:27)
-http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685772.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORT ∞ SPORTS STAN EVENTS LIVE",Premier League Live - Wolves v West Ham - Premier League 2025/2026 (2026-01-03 14:50:27)
-http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685771.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORT ∞ SPORTS STAN EVENTS LIVE",Brighton & Hove Albion v Burnley - Premier League 2025/2026 (2026-01-03 14:50:27)
-http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685770.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORT ∞ SPORTS STAN EVENTS LIVE",Wolverhampton Wanderers v West Ham United - Premier League 2025/2026 (2026-01-03 14:50:27)
-http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685769.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORT ∞ SPORTS STAN EVENTS LIVE",Bath v Exeter - PREM Rugby Round 9 2025/26 (2026-01-03 15:00:27)
-http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685768.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORT ∞ SPORTS STAN EVENTS LIVE",AFC Bournemouth v Arsenal - Premier League 2025/2026 (2026-01-03 17:20:27)
-http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685767.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORT ∞ SPORTS STAN EVENTS LIVE",4K - Bournemouth v Arsenal - Premier League 2025/2026 (2026-01-03 17:20:27)
-http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685766.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORT ∞ SPORTS STAN EVENTS LIVE",Northampton v Harlequins - PREM Rugby Round 9 2025/26 (2026-01-03 17:25:27)
-http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685765.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORT ∞ SPORTS STAN EVENTS LIVE",PL Saturday Wrap: Matchweek 20 - Jan 5 (2026-01-03 20:00:27)
-http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685764.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORT ∞ SPORTS STAN EVENTS LIVE",Day 3 - United Cup 2026 (2026-01-03 23:00:27)
-http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685763.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORT ∞ SPORTS STAN EVENTS LIVE",Lys v Lamens: Group F - United Cup 2025/26 (2026-01-03 23:30:27)
-http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685762.m3u8
+http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685773.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORT ∞ SPORTS STAN EVENTS LIVE",Pat Rafter Arena: Day 1 - Brisbane International 2026 (2026-01-04 01:00:27)
-http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685761.m3u8
+http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685772.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORT ∞ SPORTS STAN EVENTS LIVE",Zverev v Griekspoor: Group F - United Cup 2025/26 (2026-01-04 01:00:27)
-http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685760.m3u8
+http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685771.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORT ∞ SPORTS STAN EVENTS LIVE",Show Court 1: Day 1 - Brisbane International 2026 (2026-01-04 01:00:27)
-http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685759.m3u8
+http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685770.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT ∞ SPORTS STAN EVENTS LIVE",Jacquemot v Tomljanovic - Women's Singles R1 Brisbane International presented by ANZ 2026 (2026-01-04 01:00:27)
+http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685769.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT ∞ SPORTS STAN EVENTS LIVE",Kasatkina v Potapova - Women's Singles R1 Brisbane International presented by ANZ 2026 (2026-01-04 02:00:27)
+http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685768.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORT ∞ SPORTS STAN EVENTS LIVE",Harris v Mochizuki: Group E - United Cup 2025/26 (2026-01-04 02:00:27)
-http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685758.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORT ∞ SPORTS STAN EVENTS LIVE",TBD v TBD: Group F - United Cup 2025/26 (2026-01-04 02:30:27)
-http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685757.m3u8
+http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685767.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT ∞ SPORTS STAN EVENTS LIVE",Siegemund/Zverev v Schuurs/Griekspoor - Mixed National_teams Group Stage United Cup 2026 (2026-01-04 02:30:27)
+http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685766.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT ∞ SPORTS STAN EVENTS LIVE",Cirstea v Pavlyuchenkova - Women's Singles R1 Brisbane International presented by ANZ 2026 (2026-01-04 02:30:27)
+http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685765.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORT ∞ SPORTS STAN EVENTS LIVE",Raducanu v Osaka: Group E - United Cup 2025/26 (2026-01-04 03:30:27)
-http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685756.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORT ∞ SPORTS STAN EVENTS LIVE",TBD v TBD: Group E - United Cup 2025/26 (2026-01-04 05:00:27)
-http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685755.m3u8
+http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685764.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT ∞ SPORTS STAN EVENTS LIVE",Badosa/Sabalenka v Samsonova/Zhang - Women's Doubles R1 Brisbane International presented by ANZ 2026 (2026-01-04 03:30:27)
+http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685763.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT ∞ SPORTS STAN EVENTS LIVE",Kenin v Ruse - Women's Singles R1 Brisbane International presented by ANZ 2026 (2026-01-04 04:00:27)
+http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685762.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT ∞ SPORTS STAN EVENTS LIVE",Nicholls/Skupski v Hibino/Uchiyama - Mixed National_teams Group Stage United Cup 2026 (2026-01-04 05:00:27)
+http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685761.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT ∞ SPORTS STAN EVENTS LIVE",Cristian v Bouzkova - Women's Singles R1 Brisbane International presented by ANZ 2026 (2026-01-04 05:30:27)
+http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685760.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT ∞ SPORTS STAN EVENTS LIVE",Vukic v Tiafoe - Men's Singles R1 Brisbane International presented by ANZ 2026 (2026-01-04 06:00:27)
+http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685759.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORT ∞ SPORTS STAN EVENTS LIVE",Mboko v Zhu: Group B - United Cup 2025/26 (2026-01-04 06:30:27)
-http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685754.m3u8
+http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685758.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT ∞ SPORTS STAN EVENTS LIVE",Ebden/Ram v Kokkinakis/Kyrgios - Men's Doubles R1 Brisbane International presented by ANZ 2026 (2026-01-04 07:30:27)
+http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685757.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORT ∞ SPORTS STAN EVENTS LIVE",Auger-Aliassime v Zhang: Group B - United Cup 2025/26 (2026-01-04 08:00:27)
+http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685756.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT ∞ SPORTS STAN EVENTS LIVE",Paolini v Bencic: Group C - United Cup 2025/26 (2026-01-04 09:00:27)
+http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685755.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT ∞ SPORTS STAN EVENTS LIVE",Mboko/Auger-Aliassime v Zhu/Zhang - Mixed National_teams Group Stage United Cup 2026 (2026-01-04 09:30:27)
+http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685754.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT ∞ SPORTS STAN EVENTS LIVE",Cobolli v Wawrinka: Group C - United Cup 2025/26 (2026-01-04 10:30:27)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685753.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORT ∞ SPORTS STAN EVENTS LIVE",PL Saturday Wrap: Matchweek 20 - Jan 5 (2026-01-03 20:00:27)
+#EXTINF:-1 tvg-logo="" group-title="SPORT ∞ SPORTS STAN EVENTS LIVE",Leeds United v Manchester United - Premier League 2025/2026 (2026-01-04 11:30:27)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685752.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORT ∞ SPORTS STAN EVENTS LIVE",Day 3 - United Cup 2026 (2026-01-03 23:00:27)
+#EXTINF:-1 tvg-logo="" group-title="SPORT ∞ SPORTS STAN EVENTS LIVE",Ugo Carabelli v Tien - Men's Singles R1 Brisbane International presented by ANZ 2026 (2026-01-04 08:30:27)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685751.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORT ∞ SPORTS STAN EVENTS LIVE",Lys v Lamens: Group F - United Cup 2025/26 (2026-01-03 23:30:27)
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/685750.m3u8
@@ -25340,27 +25336,27 @@ http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/503511.m3u8
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/503510.m3u8
 #EXTINF:-1 tvg-logo="https://deadline.com/wp-content/uploads/2019/05/image002-3-e1558737553457.jpg?w=300" group-title="SPORT ∞ UFC-MMA-BOXING-WWE",Fite TV 1 HD (D): TrillerTV-Willow Sports International Women Cricket: England vs India, 3rd ODI - Tue,22 Jul 07:50 ET
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/503509.m3u8
-#EXTINF:-1 tvg-logo="https://deadline.com/wp-content/uploads/2019/05/image002-3-e1558737553457.jpg?w=300" group-title="SPORT ∞ UFC-MMA-BOXING-WWE",Fite TV 2 HD (D): TrillerTV-Willow by Cricbuzz KFC Big Bash League, Season 15: Brisbane Heat vs Melbourne Stars - Fri,02 Jan 03:15 EST
+#EXTINF:-1 tvg-logo="https://deadline.com/wp-content/uploads/2019/05/image002-3-e1558737553457.jpg?w=300" group-title="SPORT ∞ UFC-MMA-BOXING-WWE",Fite TV 2 HD (D): TrillerTV-Willow by Cricbuzz Betway SA20 2026: Joburg Super Kings vs Sunrisers Eastern Cape - Sat,03 Jan 05:50 EST
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/503508.m3u8
-#EXTINF:-1 tvg-logo="https://deadline.com/wp-content/uploads/2019/05/image002-3-e1558737553457.jpg?w=300" group-title="SPORT ∞ UFC-MMA-BOXING-WWE",Fite TV 3 HD (D): TrillerTV-UAE Pro League UAE Pro League 2025/26: Al Wasl vs Al Wahda - Fri,02 Jan 07:45 EST
+#EXTINF:-1 tvg-logo="https://deadline.com/wp-content/uploads/2019/05/image002-3-e1558737553457.jpg?w=300" group-title="SPORT ∞ UFC-MMA-BOXING-WWE",Fite TV 3 HD (D): TrillerTV-UAE Pro League UAE Pro League 2025/26: Ajman vs Kalba - Sat,03 Jan 07:45 EST
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/503507.m3u8
-#EXTINF:-1 tvg-logo="https://deadline.com/wp-content/uploads/2019/05/image002-3-e1558737553457.jpg?w=300" group-title="SPORT ∞ UFC-MMA-BOXING-WWE",Fite TV 4 HD (D): TrillerTV-Willow by Cricbuzz Bangladesh Premier League 2025/26: Sylhet Titans vs Rangpur Riders - Fri,02 Jan 08:00 EST
+#EXTINF:-1 tvg-logo="https://deadline.com/wp-content/uploads/2019/05/image002-3-e1558737553457.jpg?w=300" group-title="SPORT ∞ UFC-MMA-BOXING-WWE",Fite TV 4 HD (D): TrillerTV-Willow by Cricbuzz Betway SA20 2026: Pretoria Capitals vs Durbans Super Giants - Sat,03 Jan 10:20 EST
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/503506.m3u8
-#EXTINF:-1 tvg-logo="https://deadline.com/wp-content/uploads/2019/05/image002-3-e1558737553457.jpg?w=300" group-title="SPORT ∞ UFC-MMA-BOXING-WWE",Fite TV 5 HD (D): TrillerTV-Willow by Cricbuzz DP World International League T20 2025: Qualifier 2 - Fri,02 Jan 09:30 EST
+#EXTINF:-1 tvg-logo="https://deadline.com/wp-content/uploads/2019/05/image002-3-e1558737553457.jpg?w=300" group-title="SPORT ∞ UFC-MMA-BOXING-WWE",Fite TV 5 HD (D): TrillerTV-UAE Pro League UAE Pro League 2025/26: Al Jazira vs Shabab Al-Ahli - Sat,03 Jan 10:35 EST
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/503505.m3u8
-#EXTINF:-1 tvg-logo="https://deadline.com/wp-content/uploads/2019/05/image002-3-e1558737553457.jpg?w=300" group-title="SPORT ∞ UFC-MMA-BOXING-WWE",Fite TV 6 HD (D): TrillerTV-Willow by Cricbuzz Betway SA20 2026: Paarl Royals vs MI Cape Town - Fri,02 Jan 10:20 EST
+#EXTINF:-1 tvg-logo="https://deadline.com/wp-content/uploads/2019/05/image002-3-e1558737553457.jpg?w=300" group-title="SPORT ∞ UFC-MMA-BOXING-WWE",Fite TV 6 HD (D): TrillerTV-True Grit Wrestling True Grit TV: The Road To The Rumble - Survival Series Match - Sat,03 Jan 14:00 EST
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/503504.m3u8
-#EXTINF:-1 tvg-logo="https://deadline.com/wp-content/uploads/2019/05/image002-3-e1558737553457.jpg?w=300" group-title="SPORT ∞ UFC-MMA-BOXING-WWE",Fite TV 7 HD (D): TrillerTV-UAE Pro League UAE Pro League 2025/26: Al Ain vs Sharjah - Fri,02 Jan 10:35 EST
+#EXTINF:-1 tvg-logo="https://deadline.com/wp-content/uploads/2019/05/image002-3-e1558737553457.jpg?w=300" group-title="SPORT ∞ UFC-MMA-BOXING-WWE",Fite TV 7 HD (D): TrillerTV-Willow by Cricbuzz The Ashes 2025-26: Australia vs England, 5th Test, Day 1 - Sat,03 Jan 18:20 EST
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/503503.m3u8
-#EXTINF:-1 tvg-logo="https://deadline.com/wp-content/uploads/2019/05/image002-3-e1558737553457.jpg?w=300" group-title="SPORT ∞ UFC-MMA-BOXING-WWE",Fite TV 8 HD (D): TrillerTV-Willow by Cricbuzz KFC Big Bash League, Season 15: Sydney Thunder vs Hobart Hurricanes - Sat,03 Jan 03:15 EST
+#EXTINF:-1 tvg-logo="https://deadline.com/wp-content/uploads/2019/05/image002-3-e1558737553457.jpg?w=300" group-title="SPORT ∞ UFC-MMA-BOXING-WWE",Fite TV 8 HD (D): TrillerTV-Awesome Championship Wrestling Awesome Championship Wrestling: Poughkeepsie Rumble 2026 - Sat,03 Jan 18:30 EST
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/503502.m3u8
-#EXTINF:-1 tvg-logo="https://deadline.com/wp-content/uploads/2019/05/image002-3-e1558737553457.jpg?w=300" group-title="SPORT ∞ UFC-MMA-BOXING-WWE",Fite TV 9 HD (D): TrillerTV-Willow by Cricbuzz Betway SA20 2026: Joburg Super Kings vs Sunrisers Eastern Cape - Sat,03 Jan 05:50 EST
+#EXTINF:-1 tvg-logo="https://deadline.com/wp-content/uploads/2019/05/image002-3-e1558737553457.jpg?w=300" group-title="SPORT ∞ UFC-MMA-BOXING-WWE",Fite TV 9 HD (D): TrillerTV-Lariato Pro Wrestling Talkn Shop: Lariato Pro Live, Episode 12 - Sat,03 Jan 20:00 EST
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/503501.m3u8
-#EXTINF:-1 tvg-logo="https://deadline.com/wp-content/uploads/2019/05/image002-3-e1558737553457.jpg?w=300" group-title="SPORT ∞ UFC-MMA-BOXING-WWE",Fite TV 10 HD (D): TrillerTV-UAE Pro League UAE Pro League 2025/26: Ajman vs Kalba - Sat,03 Jan 07:45 EST
+#EXTINF:-1 tvg-logo="https://deadline.com/wp-content/uploads/2019/05/image002-3-e1558737553457.jpg?w=300" group-title="SPORT ∞ UFC-MMA-BOXING-WWE",Fite TV 10 HD (D): TrillerTV-Game Changer Wrestling GCW: One Night Only 2026 - Sat,03 Jan 20:00 EST
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/503500.m3u8
-#EXTINF:-1 tvg-logo="https://deadline.com/wp-content/uploads/2019/05/image002-3-e1558737553457.jpg?w=300" group-title="SPORT ∞ UFC-MMA-BOXING-WWE",Fite TV 11 HD (D): TrillerTV-Willow by Cricbuzz Betway SA20 2026: Pretoria Capitals vs Durbans Super Giants - Sat,03 Jan 10:20 EST
+#EXTINF:-1 tvg-logo="https://deadline.com/wp-content/uploads/2019/05/image002-3-e1558737553457.jpg?w=300" group-title="SPORT ∞ UFC-MMA-BOXING-WWE",Fite TV 11 HD (D): TrillerTV-Willow by Cricbuzz KFC Big Bash League, Season 15: Melbourne Stars vs Melbourne Renegades - Sun,04 Jan 02:05 EST
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/503499.m3u8
-#EXTINF:-1 tvg-logo="https://deadline.com/wp-content/uploads/2019/05/image002-3-e1558737553457.jpg?w=300" group-title="SPORT ∞ UFC-MMA-BOXING-WWE",Fite TV 12 HD (D): TrillerTV-UAE Pro League UAE Pro League 2025/26: Al Jazira vs Shabab Al-Ahli - Sat,03 Jan 10:35 EST
+#EXTINF:-1 tvg-logo="https://deadline.com/wp-content/uploads/2019/05/image002-3-e1558737553457.jpg?w=300" group-title="SPORT ∞ UFC-MMA-BOXING-WWE",Fite TV 12 HD (D): TrillerTV-Willow by Cricbuzz KFC Big Bash League, Season 15: Perth Scorchers vs Adelaide Strikers - Sun,04 Jan 05:15 EST
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/503498.m3u8
 #EXTINF:-1 tvg-logo="https://deadline.com/wp-content/uploads/2019/05/image002-3-e1558737553457.jpg?w=300" group-title="SPORT ∞ UFC-MMA-BOXING-WWE",Fite TV 13 HD (D): TrillerTV-BKFC BKFC Manchester 2025: Jonno Chipchase vs Gary Fox - Sat,29 Mar 15:00 ET
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/503497.m3u8
@@ -28521,4 +28517,4 @@ http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/536105.m3u8
 #EXTINF:-1 tvg-logo="https://lo1.in/af/ewtn.png" group-title="Unknown",UGANDA| EWTN SD
 http://efeteam.xyz:8080/live/erolkaya/kTqDn3dfJRJuh/536104.m3u8
 
-# Total: 13979
+# Total: 13977

@@ -1,13 +1,13 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: tkosportz.live:25461
-# Generated: 2026-01-03 18:28:54
+# Generated: 2026-01-04 07:17:01
 # Expires: 2026-01-26
 # Family Safe Edition
 # ==============================================
 
 
-# --- 01. PPV EVENTS / RACING (ET) (7) ---
+# --- 01. PPV EVENTS / RACING (ET) (8) ---
 #EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Sky_Sports_F1_2020.png" group-title="01. PPV EVENTS / RACING (ET)",03.  MOTOR RACING
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/105962.m3u8
 #EXTINF:-1 tvg-logo="https://d2779tscntxxsw.cloudfront.net/5fd7eced045fd.png" group-title="01. PPV EVENTS / RACING (ET)",05. FloRacing 24/7
@@ -22,14 +22,22 @@ http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/204207.m3u8
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/207543.m3u8
 #EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2025/02/NHRA.png" group-title="01. PPV EVENTS / RACING (ET)",02. NHRA TV
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/175763.m3u8
+#EXTINF:-1 tvg-logo="" group-title="01. PPV EVENTS / RACING (ET)",PPV 05 | Tulsa Shootout
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218617.m3u8
 
-# --- 01. PPV FIGHTS/WWE (ET) (3) ---
+# --- 01. PPV FIGHTS/WWE (ET) (6) ---
 #EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2025/01/wwe.png" group-title="01. PPV FIGHTS/WWE (ET)",01: 8p MONDAY NIGHT RAW
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/41056.m3u8
 #EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/dazn2.jpg" group-title="01. PPV FIGHTS/WWE (ET)",02. DAZN FIGHTS 1
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/199228.m3u8
 #EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/UFC3D.png" group-title="01. PPV FIGHTS/WWE (ET)",02. UFC TV
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/206859.m3u8
+#EXTINF:-1 tvg-logo="https://underground.x10.mx/ppvlogo.png" group-title="01. PPV FIGHTS/WWE (ET)",PPV 02 | True Grit Road To The Rumble | 2 PM ET | 1.3
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218614.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/697643845319524383/1024376804854730863/PPV.png" group-title="01. PPV FIGHTS/WWE (ET)",PPV 03 | BOXING | Serrano vs. Tellez  | 3.30 PM ET | 1.3
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218615.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/697643845319524383/1024376804854730863/PPV.png" group-title="01. PPV FIGHTS/WWE (ET)",PPV 04 | ACW | Poughkeepsie Rumble  | 6.30 PM ET | 1.3
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218616.m3u8
 
 # --- 02. USA CABLE  TV #1 (147) ---
 #EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/ae-logo-black-and-white.png" group-title="02. USA CABLE  TV #1",A&E
@@ -500,7 +508,7 @@ http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/13128.m3u8
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/204641.m3u8
 #EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/fox.png" group-title="04. KY-TN  LOCALS",16. FOX-WTNZ KNOXVILLE
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/204642.m3u8
-#EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2024/10/ukukuk.png" group-title="04. KY-TN  LOCALS",01. 1p uk@ btin
+#EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2024/10/ukukuk.png" group-title="04. KY-TN  LOCALS",01. 1p uk@ AL
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/207678.m3u8
 #EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Ion_Television_2021.png" group-title="04. KY-TN  LOCALS",07. KY ION
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/13127.m3u8
@@ -22263,73 +22271,233 @@ http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/44611.m3u8
 #EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Nfl-sunday-ticket1.png" group-title="26. NFL TICKET",ST14: 420p
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218195.m3u8
 
-# --- 26.1 NCAA BASKETBALL (ET) (33) ---
+# --- 26.1 NCAA BASKETBALL (ET) (113) ---
 #EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/NCAA_logo-1.png" group-title="26.1 NCAA BASKETBALL (ET)",01. NCAAB
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/216977.m3u8
-#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 029: American University vs. Virginia (Dec 22 06:00 PM ET)
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218398.m3u8
-#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 030: Coppin State vs. Georgetown (Dec 22 06:30 PM ET)
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218399.m3u8
-#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 031: Penn State Behrend vs. Buffalo (Dec 22 06:30 PM ET)
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218400.m3u8
-#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 032: Stonehill vs. Syracuse (Dec 22 07:00 PM ET)
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218401.m3u8
-#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 033: Fairleigh Dickinson vs. Boston College (Dec 22 07:00 PM ET)
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218402.m3u8
-#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 034: Prairie View vs. LSU (Dec 22 07:00 PM ET)
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218403.m3u8
-#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 035: Bryant vs. High Point (Dec 22 07:00 PM ET)
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218404.m3u8
-#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 036: Canisius vs. Duquesne (Dec 22 07:00 PM ET)
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218405.m3u8
-#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 037: CCNY vs. Fairfield (Dec 22 07:00 PM ET)
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218406.m3u8
-#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 038: Coastal Carolina vs. Saint Joseph’s (Dec 22 07:00 PM ET)
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218407.m3u8
-#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 039: Eastern Michigan vs. Wright State (Dec 22 07:00 PM ET)
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218408.m3u8
-#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 040: Jacksonville vs. Florida State (Dec 22 07:00 PM ET)
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218409.m3u8
-#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 041: Mississippi Valley State vs. West Virginia (Dec 22 07:00 PM ET)
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218410.m3u8
-#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 042: Northeastern vs. Rhode Island (Dec 22 07:00 PM ET)
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218411.m3u8
-#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 043: Rider vs. VCU (Dec 22 07:00 PM ET)
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218412.m3u8
-#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 044: UTEP vs. North Dakota State (Dec 22 07:00 PM ET)
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218413.m3u8
-#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 045: Missouri vs. Illinois (Dec 22 08:00 PM ET)
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218414.m3u8
-#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 046: Alabama State vs. Memphis (Dec 22 08:00 PM ET)
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218415.m3u8
-#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 047: East Carolina vs. North Carolina (Dec 22 08:00 PM ET)
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218416.m3u8
-#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 048: Utah Tech vs. Creighton (Dec 22 08:00 PM ET)
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218417.m3u8
-#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 049: Central Michigan vs. Wisconsin (Dec 22 08:00 PM ET)
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218418.m3u8
-#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 050: UT Arlington vs. Oral Roberts (Dec 22 08:00 PM ET)
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218419.m3u8
-#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 051: IU Indianapolis vs. Grand Canyon (Dec 22 08:00 PM ET)
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218420.m3u8
-#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 052: Davidson vs. Kansas (Dec 22 08:00 PM ET)
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218421.m3u8
-#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 053: Maryland Eastern Shore vs. Texas (Dec 22 08:00 PM ET)
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218422.m3u8
-#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 054: Williams Baptist vs. Little Rock (Dec 22 08:00 PM ET)
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218423.m3u8
-#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 055: Bethune-Cookman vs. Arizona (Dec 22 09:00 PM ET)
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218424.m3u8
-#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 056: Eastern Washington vs. BYU (Dec 22 09:00 PM ET)
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218425.m3u8
-#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 057: Stetson vs. Oklahoma (Dec 22 09:00 PM ET)
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218426.m3u8
-#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 058: UC Irvine vs. Norfolk State (Dec 22 09:00 PM ET)
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218427.m3u8
-#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 059: San Diego vs. Washington (Dec 22 10:00 PM ET)
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218428.m3u8
-#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 060: Northern Iowa vs. Saint Mary’s (Dec 22 10:00 PM ET)
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218429.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 001: Virginia vs. NC State (Jan 03 11:00 AM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218501.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 002: UTSA vs. Temple (Jan 03 12:00 PM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218502.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 003: Virginia Tech vs. Wake Forest (Jan 03 12:00 PM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218503.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 004: Clemson vs. Pittsburgh (Jan 03 12:00 PM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218504.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 005: Providence vs. St. John's (Jan 03 12:00 PM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218505.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 006: Villanova vs. Butler (Jan 03 12:00 PM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218506.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 007: Kentucky vs. Alabama (Jan 03 12:00 PM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218507.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 009: VCU vs. Duquesne (Jan 03 12:00 PM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218509.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 010: Oklahoma State vs. Texas Tech (Jan 03 01:00 PM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218510.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 011: American vs. Boston (Jan 03 01:00 PM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218511.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 012: Auburn vs. Georgia (Jan 03 01:00 PM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218512.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 013: Wofford vs. The Citadel (Jan 03 01:00 PM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218513.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 014: American University vs. Boston University (Jan 03 01:00 PM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218514.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 015: Chattanooga vs. VMI (Jan 03 01:00 PM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218515.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 016: Colgate vs. Army (Jan 03 01:00 PM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218516.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 017: Georgia State vs. Coastal Carolina (Jan 03 01:00 PM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218517.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 018: Northern Illinois vs. Kent State (Jan 03 01:00 PM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218518.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 019: Southern Miss vs. Louisiana (Jan 03 01:00 PM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218519.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 020: Vermont vs. New Hampshire (Jan 03 01:00 PM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218520.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 021: BYU vs. Kansas State (Jan 03 01:30 PM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218521.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 022: South Dakota State vs. North Dakota (Jan 03 02:00 PM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218522.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 023: Kansas vs. UCF (Jan 03 02:00 PM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218523.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 024: Houston vs. Cincinnati (Jan 03 02:00 PM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218524.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 025: Baylor vs. TCU (Jan 03 02:00 PM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218525.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 026: Boston College vs. Georgia Tech (Jan 03 02:00 PM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218526.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 027: Xavier vs. DePaul (Jan 03 02:00 PM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218527.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 028: Vanderbilt vs. South Carolina (Jan 03 02:00 PM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218528.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 029: Dayton vs. Loyola Chicago (Jan 03 02:00 PM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218529.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 030: La Salle vs. George Washington (Jan 03 02:00 PM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218530.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 031: Hofstra vs. Drexel (Jan 03 02:00 PM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218531.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 032: Albany vs. UMass Lowell (Jan 03 02:00 PM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218532.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 033: Ball State vs. Buffalo (Jan 03 02:00 PM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218533.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 034: Bowling Green vs. UMass (Jan 03 02:00 PM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218534.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 035: Bryant vs. Maine (Jan 03 02:00 PM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218535.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 036: Eastern Kentucky vs. West Georgia (Jan 03 02:00 PM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218536.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 037: Longwood vs. High Point (Jan 03 02:00 PM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218537.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 038: Navy vs. Holy Cross (Jan 03 02:00 PM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218538.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 039: NJIT vs. Binghamton (Jan 03 02:00 PM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218539.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 040: Ohio vs. Eastern Michigan (Jan 03 02:00 PM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218540.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 041: South Carolina Upstate vs. Presbyterian (Jan 03 02:00 PM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218541.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 042: Stetson vs. Central Arkansas (Jan 03 02:00 PM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218542.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 043: UNC Asheville vs. Charleston Southern (Jan 03 02:00 PM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218543.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 044: North Carolina vs. SMU (Jan 03 02:15 PM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218544.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 045: Memphis vs. Rice (Jan 03 03:00 PM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218545.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 046: Tennessee vs. Arkansas (Jan 03 03:00 PM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218546.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 047: Bellarmine vs. Queens-NC (Jan 03 03:00 PM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218547.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 048: Florida Gulf Coast vs. North Alabama (Jan 03 03:00 PM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218548.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 049: James Madison vs. Arkansas State (Jan 03 03:00 PM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218549.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 050: Tennessee State vs. Little Rock (Jan 03 03:00 PM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218550.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 051: Toledo vs. Central Michigan (Jan 03 03:00 PM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218551.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 052: Ole Miss vs. Oklahoma (Jan 03 03:30 PM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218552.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 053: Akron vs. Miami-OH (Jan 03 03:30 PM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218553.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 054: Georgia Southern vs. Old Dominion (Jan 03 03:30 PM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218554.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 055: Texas State vs. UL Monroe (Jan 03 03:30 PM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218555.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 056: Duke vs. Florida State (Jan 03 03:45 PM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218556.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 057: Arizona vs. Utah (Jan 03 04:00 PM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218557.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 058: LSU vs. Texas A&M (Jan 03 04:00 PM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218558.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 059: Samford vs. UNC Greensboro (Jan 03 04:00 PM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218559.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 060: San Jose State vs. Utah State (Jan 03 04:00 PM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218560.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 061: Oral Roberts vs. North Dakota State (Jan 03 04:00 PM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218561.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 062: Rhode Island vs. George Mason (Jan 03 04:00 PM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218562.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 063: North Carolina A&T vs. Stony Brook (Jan 03 04:00 PM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218563.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 064: Appalachian State vs. Marshall (Jan 03 04:00 PM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218564.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 065: Coppin State vs. Delaware State (Jan 03 04:00 PM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218565.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 066: East Texas A&M vs. Nicholls (Jan 03 04:00 PM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218566.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 067: Gardner-Webb vs. Winthrop (Jan 03 04:00 PM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218567.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 068: Jacksonville vs. Austin Peay (Jan 03 04:00 PM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218568.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 069: Mercer vs. East Tennessee State (Jan 03 04:00 PM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218569.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 070: UC Santa Barbara vs. Cal State Northridge (Jan 03 04:00 PM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218570.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 071: Utah Valley vs. Abilene Christian (Jan 03 04:00 PM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218571.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 072: Western Carolina vs. Furman (Jan 03 04:00 PM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218572.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 073: Eastern Illinois vs. UT Martin (Jan 03 04:30 PM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218573.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 074: Morehead State vs. SIU Edwardsville (Jan 03 04:30 PM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218574.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 075: New Orleans vs. Northwestern State (Jan 03 04:30 PM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218575.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 076: Norfolk State vs. North Carolina Central (Jan 03 04:30 PM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218576.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 077: South Alabama vs. Troy (Jan 03 04:30 PM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218577.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 078: Southern Indiana vs. Lindenwood (Jan 03 04:30 PM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218578.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 079: Stephen F. Austin vs. SE Louisiana (Jan 03 04:30 PM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218579.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 080: Western Illinois vs. Southeast Missouri State (Jan 03 04:45 PM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218580.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 081: Colorado vs. Arizona State (Jan 03 05:00 PM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218581.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 082: Minnesota vs. Northwestern (Jan 03 05:00 PM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218582.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 083: Lafayette vs. Loyola Maryland (Jan 03 05:00 PM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218583.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 084: Lehigh vs. Bucknell (Jan 03 05:00 PM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218584.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 085: Air Force vs. UNLV (Jan 03 05:00 PM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218585.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 086: Cal State Bakersfield vs. UC Davis (Jan 03 05:00 PM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218586.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 087: California Baptist vs. Tarleton (Jan 03 05:00 PM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218587.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 088: Eastern Washington vs. Idaho (Jan 03 05:00 PM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218588.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 089: Houston Christian vs. Incarnate Word (Jan 03 05:00 PM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218589.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 090: Lamar vs. McNeese (Jan 03 05:00 PM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218590.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 091: North Florida vs. Lipscomb (Jan 03 05:00 PM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218591.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 092: Texas A&M-Corpus Christi vs. UT Rio Grande Valley (Jan 03 05:30 PM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218592.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 093: Wichita State vs. Charlotte (Jan 03 06:00 PM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218593.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 094: UCLA vs. Iowa (Jan 03 06:00 PM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218594.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 095: Mississippi State vs. Texas (Jan 03 06:00 PM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218595.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 096: Davidson vs. Saint Joseph's (Jan 03 06:00 PM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218596.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 097: Northern Colorado vs. Montana (Jan 03 06:00 PM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218597.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 098: Portland State vs. Idaho State (Jan 03 06:00 PM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218598.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 099: Illinois vs. Penn State (Jan 03 07:00 PM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218599.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 100: Nevada vs. Fresno State (Jan 03 07:00 PM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218600.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 101: Hampton vs. UNC Wilmington (Jan 03 07:00 PM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218601.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 102: Monmouth vs. Towson (Jan 03 07:00 PM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218602.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 103: UC Irvine vs. Cal State Fullerton (Jan 03 07:00 PM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218603.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 104: Purdue vs. Wisconsin (Jan 03 08:00 PM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218604.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 105: Wyoming vs. New Mexico (Jan 03 08:00 PM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218605.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 106: Colorado State vs. Grand Canyon (Jan 03 08:00 PM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218606.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 107: Northern Arizona vs. Montana State (Jan 03 08:00 PM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218607.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 108: Florida vs. Missouri (Jan 03 08:30 PM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218608.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 109: Cal State Northridge vs. UANCAAB 109: UT Arlington vs. Southern Utah (Jan 03 08:30 PM ET)C Irvine (Dec 06 10:00 PM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218609.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 110: Cal Poly vs. Long Beach State (Jan 03 09:00 PM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218610.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 111: Sacramento State vs. Weber State (Jan 03 09:00 PM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218611.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 112: Boise State vs. San Diego State (Jan 03 10:00 PM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218612.m3u8
+#EXTINF:-1 tvg-logo="" group-title="26.1 NCAA BASKETBALL (ET)",NCAAB 113: Hawai'i vs. UC San Diego (Jan 03 10:00 PM ET)
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218613.m3u8
 
 # --- 26.2 NCAA FOOTBALL (ET) (6) ---
 #EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/NCAA_logo-1.png" group-title="26.2 NCAA FOOTBALL (ET)",01. EVERY GAME EVERY WEEK
@@ -22805,4 +22973,4 @@ http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/191009.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/Red_Noticias2019.png/revision/latest/scale-to-width-down/274?cb=20210424015309&path-prefix=es" group-title="37. COLUMBIA",CO: Red+ Noticias FHD
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/191010.m3u8
 
-# Total: 11369
+# Total: 11453

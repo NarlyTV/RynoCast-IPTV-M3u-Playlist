@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: ultraviphdiptv.com:8000
-# Generated: 2026-01-03 18:32:26
+# Generated: 2026-01-04 07:18:34
 # Expires: 2026-03-16
 # Family Safe Edition
 # ==============================================
@@ -2273,7 +2273,11 @@ http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/49211.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ko3AtKUsMK27LMJqpyW5uJk4FZh.jpg" group-title="Movies | DE: KINDERFILME",Zogg
 http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/49120.mkv
 
-# --- Movies | DE: KINO FILME (2754) ---
+# --- Movies | DE: KINO FILME (2756) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6dWLWg5ILia3oAtMfa0kO2zmQKC.jpg" group-title="Movies | DE: KINO FILME",Der Tiger
+http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/169312.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4kWgQ0SlxHvcMHHqmePWCzI6NzS.jpg" group-title="Movies | DE: KINO FILME",Nelly Rapp – Der Dunkle Wald
+http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/169313.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rA5LzNIAyxA186x2plh2fRRGOOH.jpg" group-title="Movies | DE: KINO FILME",Avatar: Fire and Ash (BESSERE MIC)
 http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/169270.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/msWrCK8wOYdkspqA5ByqqSpCulE.jpg" group-title="Movies | DE: KINO FILME",Border Hunters
@@ -7783,7 +7787,9 @@ http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/48069.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k61tfQQmLA9ATHbxJzoonaSkXBs.jpg" group-title="Movies | DE: KINO FILME",Yesterday
 http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/48013.mkv
 
-# --- Movies | DE: LEGENDÄRE FILME (478) ---
+# --- Movies | DE: LEGENDÄRE FILME (479) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kYc10ThkMVfdSv6zfGvXX96EXkj.jpg" group-title="Movies | DE: LEGENDÄRE FILME",Johnny English - Man lebt nur dreimal
+http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/169311.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6zI7lI5Usf5z6wXH9KPWvGWvKS7.jpg" group-title="Movies | DE: LEGENDÄRE FILME",Mad Max: Fury Road (Color)
 http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/167933.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9dLl3JFAljhZODkNmkEuloV8ZbC.jpg" group-title="Movies | DE: LEGENDÄRE FILME",Verdammt, die Zombies kommen
@@ -15799,7 +15805,7 @@ http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/1809.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR: HBO MAX",Jasmine
 http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/1817.mp4
 
-# --- Movies | TR: NETFLIX DIZILERI (457) ---
+# --- Movies | TR: NETFLIX DIZILERI (462) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR: NETFLIX DIZILERI",TR: Hakan: Muhafız
 http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/27.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR: NETFLIX DIZILERI",TR: Narcos
@@ -16660,8 +16666,6 @@ http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/1746.mp4
 http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/1747.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR: NETFLIX DIZILERI",Boots
 http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/1751.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | TR: NETFLIX DIZILERI",Muhafızlar: Gizli Proje
-http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/1752.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR: NETFLIX DIZILERI",Apples Never Fall
 http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/1753.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR: NETFLIX DIZILERI",Gizli Kimlik
@@ -16714,6 +16718,18 @@ http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/1829.mp4
 http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/1831.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR: NETFLIX DIZILERI",Floransa Canavarı
 http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/1832.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | TR: NETFLIX DIZILERI",3310 dan Tüm Birimlere
+http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/1834.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | TR: NETFLIX DIZILERI",Cashero
+http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/1835.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | TR: NETFLIX DIZILERI",Run Away
+http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/1836.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | TR: NETFLIX DIZILERI",Günah
+http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/1837.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | TR: NETFLIX DIZILERI",Gölgeler Şehri
+http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/1838.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | TR: NETFLIX DIZILERI",The Hunting Wives
+http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/1839.mp4
 
 # --- Movies | TR: PARAMOUNT (15) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR: PARAMOUNT",TR: Players
@@ -16880,6 +16896,8 @@ http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/1824.mp4
 http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/1830.mp4
 
 # --- Movies | TR: TV SHOW´S (30) ---
+#EXTINF:-1 tvg-logo="https://iili.io/2SzRY6F.jpg" group-title="Movies | TR: TV SHOW´S",Survivor 03.01.2026
+http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/169335.mkv
 #EXTINF:-1 tvg-logo="https://iili.io/2SzRY6F.jpg" group-title="Movies | TR: TV SHOW´S",Survivor 02.01.2026
 http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/169287.mkv
 #EXTINF:-1 tvg-logo="https://iili.io/2SzRY6F.jpg" group-title="Movies | TR: TV SHOW´S",Survivor 01.01.2026
@@ -16888,8 +16906,6 @@ http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/169267.mkv
 http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/162545.mkv
 #EXTINF:-1 tvg-logo="https://iili.io/2SzRY6F.jpg" group-title="Movies | TR: TV SHOW´S",Survivor 2025 All Star & Gönüllüler 12.06.2025 (yarı final)
 http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/162520.mkv
-#EXTINF:-1 tvg-logo="https://iili.io/2SzRY6F.jpg" group-title="Movies | TR: TV SHOW´S",Survivor 2025 All Star & Gönüllüler 11.06.2025
-http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/162517.mkv
 #EXTINF:-1 tvg-logo="https://iili.io/28tM4QS.jpg" group-title="Movies | TR: TV SHOW´S",Şarkılar Bizi Söyler 2025
 http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/153148.mkv
 #EXTINF:-1 tvg-logo="https://iili.io/3HzOiQa.jpg" group-title="Movies | TR: TV SHOW´S",O Ses Türkiye yıl başı özel
@@ -16900,6 +16916,8 @@ http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/160490.mkv
 http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/160177.mkv
 #EXTINF:-1 tvg-logo="https://iili.io/3HzOiQa.jpg" group-title="Movies | TR: TV SHOW´S",O Ses Türkiye 2025 26.04.2025
 http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/158315.mkv
+#EXTINF:-1 tvg-logo="https://iili.io/2T1CD7V.jpg" group-title="Movies | TR: TV SHOW´S",Çok Güzel Hareketler 2 Yılbaşı özel
+http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/169334.mkv
 #EXTINF:-1 tvg-logo="https://iili.io/2T1CD7V.jpg" group-title="Movies | TR: TV SHOW´S",Çok Güzel Hareketler 2 213 Bölüm
 http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/169139.mkv
 #EXTINF:-1 tvg-logo="https://iili.io/2T1CD7V.jpg" group-title="Movies | TR: TV SHOW´S",Çok Güzel Hareketler 2 212 Bölüm
@@ -16908,8 +16926,6 @@ http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/169033.mkv
 http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/168952.mkv
 #EXTINF:-1 tvg-logo="https://iili.io/2T1CD7V.jpg" group-title="Movies | TR: TV SHOW´S",Çok Güzel Hareketler 2 211 Bölüm
 http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/168951.mkv
-#EXTINF:-1 tvg-logo="https://iili.io/2T1CD7V.jpg" group-title="Movies | TR: TV SHOW´S",Çok Güzel Hareketler 2 210 Bölüm
-http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/168396.mkv
 #EXTINF:-1 tvg-logo="https://iili.io/2T1Rbkb.jpg" group-title="Movies | TR: TV SHOW´S",Güldür Güldür 2025 özel
 http://ultraviphdiptv.com:8000/movie/Figo/KDYwefapLL/169252.mkv
 #EXTINF:-1 tvg-logo="https://iili.io/2T1Rbkb.jpg" group-title="Movies | TR: TV SHOW´S",Güldür Güldür 423.BLM
@@ -19329,4 +19345,4 @@ http://ultraviphdiptv.com:8000/series/Figo/KDYwefapLL/1225
 #EXTINF:-1 tvg-logo="" group-title="Series | TR: BEIN SERIES",Sorgu
 http://ultraviphdiptv.com:8000/series/Figo/KDYwefapLL/1409
 
-# Total: 9617
+# Total: 9625

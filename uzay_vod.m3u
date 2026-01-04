@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: uzay.pro:8080
-# Generated: 2026-01-03 07:14:19
+# Generated: 2026-01-04 07:19:51
 # Expires: 2026-04-13
 # Family Safe Edition
 # ==============================================
@@ -241,7 +241,7 @@ http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/8625.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|AL) Shqiptare Serial",(AL-) Mirembrëma Yje me Arbana Osmani
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/9299.mp4
 
-# --- Movies | (S|DE) Animation Serien (245) ---
+# --- Movies | (S|DE) Animation Serien (246) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Animation Serien",(DE-) BoJack Horseman
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/629.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Animation Serien",(DE-) Paw Patrol
@@ -732,8 +732,10 @@ http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/11609.mp4
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/11611.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Animation Serien",(DE-) New Spiderman
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/11632.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Animation Serien",(DE-) Tatsuki Fujimoto 17-26
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/11668.mp4
 
-# --- Movies | (S|DE) Deutsche Serien (1349) ---
+# --- Movies | (S|DE) Deutsche Serien (1360) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) 4 Blocks
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/274.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) American Horror Story
@@ -3432,6 +3434,28 @@ http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/11636.mp4
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/11637.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) Die Blutsbrüder Von Oslo
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/11638.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) Suche Mich Nicht
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/11659.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) Amadeus
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/11661.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) Cashero
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/11662.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) Inspector Lynley & Sergeant Havers
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/11663.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) Made In Korea
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/11664.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) Miss Sophie: Same Procedure As Every Year
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/11665.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) Schwarzes Gold
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/11666.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) Sicilia Express
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/11667.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) The Copenhagen Test
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/11669.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) The Seduction
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/11671.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) What's In The Box?
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/11672.mp4
 
 # --- Movies | (V|AL) Filma (3396) ---
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/ddALthk9xANnSrS1Y91cuDcfWgn_big.jpg" group-title="Movies | (V|AL) Filma",(AL-) Worst. Christmas. Ever.
@@ -24261,4 +24285,4 @@ http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/248353.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | Unknown",(DE-) Anaon:  Hüter Der Nacht
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/10625.mp4
 
-# Total: 12106
+# Total: 12118
