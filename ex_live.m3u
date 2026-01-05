@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: ex.guteex.com:8000
-# Generated: 2026-01-04 18:36:20
+# Generated: 2026-01-05 07:20:12
 # Expires: 2026-04-01
 # Family Safe Edition
 # ==============================================
@@ -1510,11 +1510,11 @@ http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/38514.m3u8
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/18526.m3u8
 #EXTINF:-1 tvg-logo="http://exapk.us/logo/DE/alman.png" group-title="DE | SPORTS HIGHLIGHTS",2.Bundesliga 17. spieltag
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/65063.m3u8
-#EXTINF:-1 tvg-logo="http://exapk.us/logo/DE/alman.png" group-title="DE | SPORTS HIGHLIGHTS",Premier League 17. spieltag
+#EXTINF:-1 tvg-logo="http://exapk.us/logo/DE/alman.png" group-title="DE | SPORTS HIGHLIGHTS",Premier League 20. spieltag
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/409.m3u8
 #EXTINF:-1 tvg-logo="http://exapk.us/logo/DE/alman.png" group-title="DE | SPORTS HIGHLIGHTS",LaLiga 17. spieltag
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/41918.m3u8
-#EXTINF:-1 tvg-logo="http://exapk.us/logo/DE/alman.png" group-title="DE | SPORTS HIGHLIGHTS",SerieA 16. spieltag
+#EXTINF:-1 tvg-logo="http://exapk.us/logo/DE/alman.png" group-title="DE | SPORTS HIGHLIGHTS",SerieA 17. spieltag
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/44078.m3u8
 #EXTINF:-1 tvg-logo="http://exapk.us/logo/DE/alman.png" group-title="DE | SPORTS HIGHLIGHTS",WM-Qualifikation 2026 ( November 2025 )
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/6599.m3u8
@@ -3239,7 +3239,7 @@ http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/37549.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNITED KING | AUSTRALIA",NFL Network
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/37550.m3u8
 
-# --- WORLD OF SPORTS (46) ---
+# --- WORLD OF SPORTS (44) ---
 #EXTINF:-1 tvg-logo="" group-title="WORLD OF SPORTS",-------| WORLD OF SPORTS |-------
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/415.m3u8
 #EXTINF:-1 tvg-logo="" group-title="WORLD OF SPORTS",ESPN USA HD
@@ -3328,10 +3328,6 @@ http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/133.m3u8
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/134.m3u8
 #EXTINF:-1 tvg-logo="" group-title="WORLD OF SPORTS",AR BEIN SPORT 8 HD
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/60370.m3u8
-#EXTINF:-1 tvg-logo="" group-title="WORLD OF SPORTS",AR | Abu Dhabi Sports 1
-http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/65612.m3u8
-#EXTINF:-1 tvg-logo="" group-title="WORLD OF SPORTS",AR | Abu Dhabi Sports 2
-http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/65611.m3u8
 
 # --- | TR - BELGESEL (42) ---
 #EXTINF:-1 tvg-logo="http://exapk.us/logo/TR/tr.belgesel/trtbelgesel.png" group-title="| TR - BELGESEL",TRT BELGESEL FHD
@@ -4138,7 +4134,7 @@ http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/26776.m3u8
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/38517.m3u8
 #EXTINF:-1 tvg-logo="http://79.124.59.158:33387/logo/super.jpg" group-title="| TR - SPOR",SUPER LIG 17. HAFTA
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/26982.m3u8
-#EXTINF:-1 tvg-logo="http://79.124.59.158:33387/logo/premier.jpg" group-title="| TR - SPOR",PREMIER LIG 17. HAFTA
+#EXTINF:-1 tvg-logo="http://79.124.59.158:33387/logo/premier.jpg" group-title="| TR - SPOR",PREMIER LIG 20. HAFTA
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/39065.m3u8
 #EXTINF:-1 tvg-logo="http://79.124.59.158:33387/logo/bundesliga.jpg" group-title="| TR - SPOR",BUNDESLIGA 15. HAFTA
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/26989.m3u8
@@ -4175,9 +4171,11 @@ http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/39298.m3u8
 #EXTINF:-1 tvg-logo="http://79.124.59.158:33387/logo/europaleague.png" group-title="| TR - SPOR",AVRUPA LIGI 8. Hafta
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/44180.m3u8
 
-# --- | TR - TV PROGRAMLARI (13) ---
+# --- | TR - TV PROGRAMLARI (14) ---
 #EXTINF:-1 tvg-logo="http://eex24.com:8000/uye/trtr.png" group-title="| TR - TV PROGRAMLARI",--------| TV PROGRAMLARI |--------
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/32315.m3u8
+#EXTINF:-1 tvg-logo="" group-title="| TR - TV PROGRAMLARI",SURVIVOR 2026
+http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/65733.m3u8
 #EXTINF:-1 tvg-logo="" group-title="| TR - TV PROGRAMLARI",ASKIN GUCU
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/64564.m3u8
 #EXTINF:-1 tvg-logo="" group-title="| TR - TV PROGRAMLARI",HAYRETTIN
@@ -4499,4 +4497,4 @@ http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/40596.m3u8
 #EXTINF:-1 tvg-logo="" group-title="| TR- RADIO",RADYO | Diyanet Kur'ân Radyo
 http://ex.guteex.com:8000/live/IsmaIlAkar3032020/77wSiWGsEWqGOhun/40597.m3u8
 
-# Total: 2211
+# Total: 2210

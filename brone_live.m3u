@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: brone.fyi
-# Generated: 2026-01-04 18:29:56
+# Generated: 2026-01-05 07:15:11
 # Expires: 2026-01-18
 # Family Safe Edition
 # ==============================================
@@ -4135,7 +4135,7 @@ http://brone.fyi/live/felipe_irma/Teste44/275169.m3u8
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/ppv/musicchoice.png" group-title="MUSIC CHOICE",MC: Y2K
 http://brone.fyi/live/felipe_irma/Teste44/275168.m3u8
 
-# --- MUSICAIS (38) ---
+# --- MUSICAIS (36) ---
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/musicais/bish265.png" group-title="MUSICAIS",BIS H265
 http://brone.fyi/live/felipe_irma/Teste44/59869.m3u8
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/musicais/bisfhd.png" group-title="MUSICAIS",BIS FHD
@@ -4166,8 +4166,6 @@ http://brone.fyi/live/felipe_irma/Teste44/324889.m3u8
 http://brone.fyi/live/felipe_irma/Teste44/324890.m3u8
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/musicais/mtvh265.png" group-title="MUSICAIS",MTV H265
 http://brone.fyi/live/felipe_irma/Teste44/59837.m3u8
-#EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/musicais/mtvfhd.png" group-title="MUSICAIS",MTV FHD
-http://brone.fyi/live/felipe_irma/Teste44/22622.m3u8
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/musicais/mtvfhd.png" group-title="MUSICAIS",MTV FHD ²
 http://brone.fyi/live/felipe_irma/Teste44/205691.m3u8
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/musicais/mtvhd.png" group-title="MUSICAIS",MTV HD
@@ -4188,8 +4186,6 @@ http://brone.fyi/live/felipe_irma/Teste44/22657.m3u8
 http://brone.fyi/live/felipe_irma/Teste44/228169.m3u8
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/musicais/mtvlivesd.png" group-title="MUSICAIS",MTV LIVE SD
 http://brone.fyi/live/felipe_irma/Teste44/228168.m3u8
-#EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/musicais/mtv00sfhd.png" group-title="MUSICAIS",MTV 00S FHD
-http://brone.fyi/live/felipe_irma/Teste44/22600.m3u8
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/musicais/mtv00sfhd.png" group-title="MUSICAIS",MTV 00S FHD ²
 http://brone.fyi/live/felipe_irma/Teste44/228173.m3u8
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/musicais/mtv00shd.png" group-title="MUSICAIS",MTV 00S HD
@@ -4846,32 +4842,6 @@ http://brone.fyi/live/felipe_irma/Teste44/21240.m3u8
 http://brone.fyi/live/felipe_irma/Teste44/25587.m3u8
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/premiere/clubeshd.png" group-title="PREMIERE",MOSAICO PREMIERE HD ²
 http://brone.fyi/live/felipe_irma/Teste44/320483.m3u8
-
-# --- REALITY SHOW (12) ---
-#EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/reality/afazendahd.png" group-title="REALITY SHOW",AF 17: SINAL 1 (ALT 1)
-http://brone.fyi/live/felipe_irma/Teste44/302274.m3u8
-#EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/reality/afazendahd.png" group-title="REALITY SHOW",AF 17: SINAL 1 (ALT 2)
-http://brone.fyi/live/felipe_irma/Teste44/302814.m3u8
-#EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/reality/afazendahd.png" group-title="REALITY SHOW",AF 17: SINAL 2 (ALT 1)
-http://brone.fyi/live/felipe_irma/Teste44/302801.m3u8
-#EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/reality/afazendahd.png" group-title="REALITY SHOW",AF 17: SINAL 2 (ALT 2)
-http://brone.fyi/live/felipe_irma/Teste44/302815.m3u8
-#EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/reality/afazendahd.png" group-title="REALITY SHOW",AF 17: SINAL 3 (ALT 1)
-http://brone.fyi/live/felipe_irma/Teste44/302802.m3u8
-#EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/reality/afazendahd.png" group-title="REALITY SHOW",AF 17: SINAL 3 (ALT 2)
-http://brone.fyi/live/felipe_irma/Teste44/302816.m3u8
-#EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/reality/afazendahd.png" group-title="REALITY SHOW",AF 17: SINAL 4 (ALT 1)
-http://brone.fyi/live/felipe_irma/Teste44/302803.m3u8
-#EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/reality/afazendahd.png" group-title="REALITY SHOW",AF 17: SINAL 4 (ALT 2)
-http://brone.fyi/live/felipe_irma/Teste44/302817.m3u8
-#EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/reality/afazendahd.png" group-title="REALITY SHOW",AF 17: SINAL 5 (ALT 1)
-http://brone.fyi/live/felipe_irma/Teste44/302804.m3u8
-#EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/reality/afazendahd.png" group-title="REALITY SHOW",AF 17: SINAL 5 (ALT 2)
-http://brone.fyi/live/felipe_irma/Teste44/302818.m3u8
-#EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/reality/afazendahd.png" group-title="REALITY SHOW",AF 17: SINAL 6 (ALT 1)
-http://brone.fyi/live/felipe_irma/Teste44/302805.m3u8
-#EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/reality/afazendahd.png" group-title="REALITY SHOW",AF 17: SINAL 6 (ALT 2)
-http://brone.fyi/live/felipe_irma/Teste44/302819.m3u8
 
 # --- RECORD (99) ---
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/record/spfhd.png" group-title="RECORD",RECORD SP FHD
@@ -7871,4 +7841,4 @@ http://brone.fyi/live/felipe_irma/Teste44/327934.m3u8
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/especiais/24hd.png" group-title="VARIEDADES 24H",[24H] YOGA
 http://brone.fyi/live/felipe_irma/Teste44/328699.m3u8
 
-# Total: 3883
+# Total: 3869

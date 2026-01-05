@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: squid.game-tv.org:8080
-# Generated: 2026-01-04 18:28:05
+# Generated: 2026-01-05 07:11:22
 # Expires: 2026-01-17
 # Family Safe Edition
 # ==============================================
@@ -2971,7 +2971,9 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/15487.mp
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/5YwaISdOwp8Zu6O7kwBeUn8a7Pu.jpg" group-title="Movies | Filme 2021 (NOU)",8-Bit Christmas  (2021)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/24456.mp4
 
-# --- Movies | Filme 2022 (NOU) (500) ---
+# --- Movies | Filme 2022 (NOU) (501) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iZtq44ZmxBW0E3tAeLG6UdJe9aj.jpg" group-title="Movies | Filme 2022 (NOU)",Bhediya - 2022
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/66097.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jROLolTGKmAAeiPndRO0DpiUWNy.jpg" group-title="Movies | Filme 2022 (NOU)",Buried in Barstow - 2022
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/64399.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eymTgzHgYretvL5mT7pwznX4p34.jpg" group-title="Movies | Filme 2022 (NOU)",In Good Hands - 2022
@@ -5879,7 +5881,9 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/14154.mp
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/qndubIQalyxBJI5EBNZKGXEX74q.jpg" group-title="Movies | Filme 2024",Y2K (2024)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/48365.mp4
 
-# --- Movies | Filme 2025 (606) ---
+# --- Movies | Filme 2025 (607) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/udkbDwBbysCGEydt0FHnl9dVO2k.jpg" group-title="Movies | Filme 2025",Thamma (2025)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/66095.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ccw7CCIAvcZV431CP7NhHAHuiHR.jpg" group-title="Movies | Filme 2025",The King of Kings - 2025
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/66092.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pUpFD3Oq1eN5mdF9MDwCwH874P8.jpg" group-title="Movies | Filme 2025",Roofman - 2025
@@ -11485,7 +11489,9 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/42770.mp
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/e1fvQdD63RP2MS9jCB8jzg7fkdr.jpg" group-title="Movies | Filme Dragoste",'Twas the Text Before Christmas (2023)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/20724.mp4
 
-# --- Movies | Filme Drama (346) ---
+# --- Movies | Filme Drama (347) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pAi8Bl3ZKX6pANPVhNwbhbQANop.jpg" group-title="Movies | Filme Drama",The Butler - 2013
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/66107.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jnLnLYP5pGDfri04gxtAqAvkHMw.jpg" group-title="Movies | Filme Drama",Into the Wild - 2007
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/66086.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Fdh7gUq3plvQqxRbNYhWvDABXA.jpg" group-title="Movies | Filme Drama",Dallas Buyers Club - 2013
@@ -13587,7 +13593,9 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1592.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/gv5ByLHZfn7MUKpjJovRTr5URGg.jpg" group-title="Movies | Filme Razboi (NOU)",The Great Battle (2018)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/39866.mkv
 
-# --- Movies | Filme Retro (Nou) (60) ---
+# --- Movies | Filme Retro (Nou) (61) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sav0jxhqiH0bPr2vZFU0Kjt2nZL.jpg" group-title="Movies | Filme Retro (Nou)",Citizen Kane - 1941
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/66096.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jAYOY38TRDprIgu7vgES0FFJJSl.jpg" group-title="Movies | Filme Retro (Nou)",Zorba the Greek - 1964
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/64866.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2LgXARrIIafiBk0sImU83NUo4Sr.jpg" group-title="Movies | Filme Retro (Nou)",The Yellow Rolls-Royce - 1964
@@ -19643,4 +19651,4 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/383.mp4
 #EXTINF:-1 tvg-logo="" group-title="Series | A Series of Unfortunate Events",A Series of Unfortunate Events
 http://squid.game-tv.org:8080/series/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/276
 
-# Total: 8646
+# Total: 8650

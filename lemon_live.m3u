@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: lemon.catchmeifyo.com:8000
-# Generated: 2026-01-04 18:29:14
+# Generated: 2026-01-05 07:15:36
 # Expires: 2026-04-05
 # Family Safe Edition
 # ==============================================
@@ -5261,13 +5261,15 @@ http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/41361.m3u8
 #EXTINF:-1 tvg-logo="https://careers.formula1corporate.com/images/logo.png" group-title="F1 TV Pro Streams",F1TV: Onboard Norris (Tijdens Race)
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/143293.m3u8
 
-# --- GAMEPASS NHL/NFL/MLB/NBA (LIVE) (94) ---
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/marduklev/resource.images.thelogodb/master/resources/NHL_Center_Ice_1.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",NHL nr. 1 - 2026-01-03 18:00: - Penguins @ Red Wings
+# --- GAMEPASS NHL/NFL/MLB/NBA (LIVE) (95) ---
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/marduklev/resource.images.thelogodb/master/resources/NHL_Center_Ice_1.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",NHL nr. 1 - 2026-01-04 20:00: - Canadiens @ Stars
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/16825.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/marduklev/resource.images.thelogodb/master/resources/NHL_Center_Ice_1.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",NHL nr. 2 - 2026-01-03 21:00: - Mammoth @ Devils
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/16826.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/marduklev/resource.images.thelogodb/master/resources/NHL_Center_Ice_1.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",NHL nr. 4 - 2026-01-03 21:30: - Flyers @ Oilers
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/marduklev/resource.images.thelogodb/master/resources/NHL_Center_Ice_1.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",NHL nr. 3 - 2026-01-04 23:00: - Avalanche @ Panthers
+http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/16827.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/marduklev/resource.images.thelogodb/master/resources/NHL_Center_Ice_1.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",NHL nr. 4 - 2026-01-05 01:00: - Hurricanes @ Devils
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/16828.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/marduklev/resource.images.thelogodb/master/resources/NHL_Center_Ice_1.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",NHL nr. 5 - 2026-01-05 01:00: - Golden Knights @ Blackhawks
+http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/16829.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/marduklev/resource.images.thelogodb/master/resources/NHL_Center_Ice_1.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",NHL nr. 6 - 2026-01-03 22:00: - Lightning @ Sharks
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/16830.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/marduklev/resource.images.thelogodb/master/resources/NHL_Center_Ice_1.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",NHL nr. 7 - 2026-01-04 01:00: - Blackhawks @ Capitals
@@ -5356,67 +5358,67 @@ http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/152235.m3u8
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/152237.m3u8
 #EXTINF:-1 tvg-logo="https://png.pngitem.com/pimgs/s/127-1276634_nfl-network-logo-png-transparent-png.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",NFL Network 24/7 Official
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/119315.m3u8
-#EXTINF:-1 tvg-logo="https://wpcdn.us-east-1.vip.tn-cloud.net/www.abc6.com/content/uploads/2020/05/nfl-logo-newer-1.jpg" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",NFL Nr: 1: 2026-01-03 22:30 CET - Carolina Panthers at Tampa Bay Buccaneers
+#EXTINF:-1 tvg-logo="https://wpcdn.us-east-1.vip.tn-cloud.net/www.abc6.com/content/uploads/2020/05/nfl-logo-newer-1.jpg" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",NFL Nr: 1: 2026-01-04 19:00 CET - New Orleans Saints at Atlanta Falcons
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/119316.m3u8
-#EXTINF:-1 tvg-logo="https://wpcdn.us-east-1.vip.tn-cloud.net/www.abc6.com/content/uploads/2020/05/nfl-logo-newer-1.jpg" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",NFL Nr: 2: 2026-01-04 02:00 CET - Seattle Seahawks at San Francisco 49ers
+#EXTINF:-1 tvg-logo="https://wpcdn.us-east-1.vip.tn-cloud.net/www.abc6.com/content/uploads/2020/05/nfl-logo-newer-1.jpg" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",NFL Nr: 2: 2026-01-04 19:00 CET - Cleveland Browns at Cincinnati Bengals
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/119317.m3u8
-#EXTINF:-1 tvg-logo="https://wpcdn.us-east-1.vip.tn-cloud.net/www.abc6.com/content/uploads/2020/05/nfl-logo-newer-1.jpg" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",NFL Nr: 3: 2025-12-28 19:00 CET - New Orleans Saints at Tennessee Titans
+#EXTINF:-1 tvg-logo="https://wpcdn.us-east-1.vip.tn-cloud.net/www.abc6.com/content/uploads/2020/05/nfl-logo-newer-1.jpg" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",NFL Nr: 3: 2026-01-04 19:00 CET - Green Bay Packers at Minnesota Vikings
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/119318.m3u8
-#EXTINF:-1 tvg-logo="https://wpcdn.us-east-1.vip.tn-cloud.net/www.abc6.com/content/uploads/2020/05/nfl-logo-newer-1.jpg" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",NFL Nr: 4: 2025-12-28 19:00 CET - Jacksonville Jaguars at Indianapolis Colts
+#EXTINF:-1 tvg-logo="https://wpcdn.us-east-1.vip.tn-cloud.net/www.abc6.com/content/uploads/2020/05/nfl-logo-newer-1.jpg" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",NFL Nr: 4: 2026-01-04 19:00 CET - Dallas Cowboys at New York Giants
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/119319.m3u8
-#EXTINF:-1 tvg-logo="https://wpcdn.us-east-1.vip.tn-cloud.net/www.abc6.com/content/uploads/2020/05/nfl-logo-newer-1.jpg" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",NFL Nr: 5: 2025-12-28 19:00 CET - Tampa Bay Buccaneers at Miami Dolphins
+#EXTINF:-1 tvg-logo="https://wpcdn.us-east-1.vip.tn-cloud.net/www.abc6.com/content/uploads/2020/05/nfl-logo-newer-1.jpg" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",NFL Nr: 5: 2026-01-04 19:00 CET - Tennessee Titans at Jacksonville Jaguars
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/119320.m3u8
-#EXTINF:-1 tvg-logo="https://wpcdn.us-east-1.vip.tn-cloud.net/www.abc6.com/content/uploads/2020/05/nfl-logo-newer-1.jpg" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",NFL Nr: 6: 2025-12-28 19:00 CET - New England Patriots at New York Jets
+#EXTINF:-1 tvg-logo="https://wpcdn.us-east-1.vip.tn-cloud.net/www.abc6.com/content/uploads/2020/05/nfl-logo-newer-1.jpg" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",NFL Nr: 6: 2026-01-04 19:00 CET - Indianapolis Colts at Houston Texans
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/119321.m3u8
-#EXTINF:-1 tvg-logo="https://wpcdn.us-east-1.vip.tn-cloud.net/www.abc6.com/content/uploads/2020/05/nfl-logo-newer-1.jpg" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",NFL Nr: 7: 2025-12-28 19:00 CET - Seattle Seahawks at Carolina Panthers
+#EXTINF:-1 tvg-logo="https://wpcdn.us-east-1.vip.tn-cloud.net/www.abc6.com/content/uploads/2020/05/nfl-logo-newer-1.jpg" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",NFL Nr: 7: 2026-01-04 22:25 CET - New York Jets at Buffalo Bills
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/119322.m3u8
-#EXTINF:-1 tvg-logo="https://wpcdn.us-east-1.vip.tn-cloud.net/www.abc6.com/content/uploads/2020/05/nfl-logo-newer-1.jpg" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",NFL Nr: 8: 2025-12-28 22:05 CET - New York Giants at Las Vegas Raiders
+#EXTINF:-1 tvg-logo="https://wpcdn.us-east-1.vip.tn-cloud.net/www.abc6.com/content/uploads/2020/05/nfl-logo-newer-1.jpg" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",NFL Nr: 8: 2026-01-04 22:25 CET - Detroit Lions at Chicago Bears
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/119323.m3u8
-#EXTINF:-1 tvg-logo="https://wpcdn.us-east-1.vip.tn-cloud.net/www.abc6.com/content/uploads/2020/05/nfl-logo-newer-1.jpg" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",NFL Nr: 9: 2025-12-28 22:25 CET - Philadelphia Eagles at Buffalo Bills
+#EXTINF:-1 tvg-logo="https://wpcdn.us-east-1.vip.tn-cloud.net/www.abc6.com/content/uploads/2020/05/nfl-logo-newer-1.jpg" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",NFL Nr: 9: 2026-01-04 22:25 CET - Los Angeles Chargers at Denver Broncos
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/119324.m3u8
-#EXTINF:-1 tvg-logo="https://wpcdn.us-east-1.vip.tn-cloud.net/www.abc6.com/content/uploads/2020/05/nfl-logo-newer-1.jpg" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",NFL Nr: 10: 2025-12-29 02:20 CET - Chicago Bears at San Francisco 49ers
+#EXTINF:-1 tvg-logo="https://wpcdn.us-east-1.vip.tn-cloud.net/www.abc6.com/content/uploads/2020/05/nfl-logo-newer-1.jpg" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",NFL Nr: 10: 2026-01-04 22:25 CET - Kansas City Chiefs at Las Vegas Raiders
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/119325.m3u8
-#EXTINF:-1 tvg-logo="https://wpcdn.us-east-1.vip.tn-cloud.net/www.abc6.com/content/uploads/2020/05/nfl-logo-newer-1.jpg" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",NFL Nr: 11: 2025-12-21 22:25 CET - Las Vegas Raiders at Houston Texans
+#EXTINF:-1 tvg-logo="https://wpcdn.us-east-1.vip.tn-cloud.net/www.abc6.com/content/uploads/2020/05/nfl-logo-newer-1.jpg" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",NFL Nr: 11: 2026-01-04 22:25 CET - Arizona Cardinals at Los Angeles Rams
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/119326.m3u8
-#EXTINF:-1 tvg-logo="https://wpcdn.us-east-1.vip.tn-cloud.net/www.abc6.com/content/uploads/2020/05/nfl-logo-newer-1.jpg" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",NFL Nr: 12: 2025-12-22 02:20 CET - New England Patriots at Baltimore Ravens
+#EXTINF:-1 tvg-logo="https://wpcdn.us-east-1.vip.tn-cloud.net/www.abc6.com/content/uploads/2020/05/nfl-logo-newer-1.jpg" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",NFL Nr: 12: 2026-01-04 22:25 CET - Miami Dolphins at New England Patriots
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/119327.m3u8
-#EXTINF:-1 tvg-logo="https://wpcdn.us-east-1.vip.tn-cloud.net/www.abc6.com/content/uploads/2020/05/nfl-logo-newer-1.jpg" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",NFL Nr: 13: 2025-12-14 22:25 CET - Indianapolis Colts at Seattle Seahawks
+#EXTINF:-1 tvg-logo="https://wpcdn.us-east-1.vip.tn-cloud.net/www.abc6.com/content/uploads/2020/05/nfl-logo-newer-1.jpg" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",NFL Nr: 13: 2026-01-04 22:25 CET - Washington Commanders at Philadelphia Eagles
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/119328.m3u8
-#EXTINF:-1 tvg-logo="https://wpcdn.us-east-1.vip.tn-cloud.net/www.abc6.com/content/uploads/2020/05/nfl-logo-newer-1.jpg" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",NFL Nr: 14: 2025-12-15 02:20 CET - Minnesota Vikings at Dallas Cowboys
+#EXTINF:-1 tvg-logo="https://wpcdn.us-east-1.vip.tn-cloud.net/www.abc6.com/content/uploads/2020/05/nfl-logo-newer-1.jpg" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",NFL Nr: 14: 2026-01-05 02:20 CET - Baltimore Ravens at Pittsburgh Steelers
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/119329.m3u8
 #EXTINF:-1 tvg-logo="https://wpcdn.us-east-1.vip.tn-cloud.net/www.abc6.com/content/uploads/2020/05/nfl-logo-newer-1.jpg" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2025-01-06 01:00 - NFL Gamepass 15: Vikings @ Lions
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/119330.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2026-01-03 22:50 - NBA Gamepass 1 : Timberwolves @ Heat - FEED: NBA TV (In-Arena)
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2026-01-04 19:50 - NBA Gamepass 1 : Pistons @ Cavaliers - FEED: Cavaliers (In-Arena)
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/139163.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2026-01-03 22:50 - NBA Gamepass 2 : Timberwolves @ Heat - FEED: Heat (In-Arena)
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2026-01-04 19:50 - NBA Gamepass 2 : Pistons @ Cavaliers - FEED: Pistons (In-Arena)
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/139164.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2026-01-03 22:50 - NBA Gamepass 3 : Timberwolves @ Heat - FEED: Timberwolves (In-Arena)
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2026-01-04 20:50 - NBA Gamepass 3 : Pacers @ Magic - FEED: Magic (In-Arena)
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/139165.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2026-01-04 01:20 - NBA Gamepass 4 : 76ers @ Knicks - FEED: NBA TV (In-Arena)
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2026-01-04 20:50 - NBA Gamepass 4 : Pacers @ Magic - FEED: Pacers (In-Arena)
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/139166.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2026-01-04 01:20 - NBA Gamepass 5 : 76ers @ Knicks - FEED: Knicks (In-Arena)
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2026-01-04 21:20 - NBA Gamepass 5 : Nuggets @ Nets - FEED: Nets (In-Arena)
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/139167.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2026-01-04 01:20 - NBA Gamepass 6 : 76ers @ Knicks - FEED: Sixers (In-Arena)
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2026-01-04 21:20 - NBA Gamepass 6 : Nuggets @ Nets - FEED: Nuggets (In-Arena)
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/139168.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2026-01-04 01:20 - NBA Gamepass 7 : Hawks @ Raptors - FEED: Raptors (In-Arena)
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2026-01-04 23:50 - NBA Gamepass 7 : Pelicans @ Heat - FEED: Heat (In-Arena)
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/139169.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2026-01-04 01:20 - NBA Gamepass 8 : Hawks @ Raptors - FEED: Hawks (In-Arena)
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2026-01-04 23:50 - NBA Gamepass 8 : Pelicans @ Heat - FEED: Pelicans (In-Arena)
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/139170.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2026-01-04 01:50 - NBA Gamepass 9 : Hornets @ Bulls - FEED: Bulls (In-Arena)
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2026-01-04 23:50 - NBA Gamepass 9 : Timberwolves @ Wizards - FEED: Wizards (In-Arena)
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/139171.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2026-01-04 01:50 - NBA Gamepass 10 : Hornets @ Bulls - FEED: Hornets (In-Arena)
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2026-01-04 23:50 - NBA Gamepass 10 : Timberwolves @ Wizards - FEED: Timberwolves (In-Arena)
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/139172.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2026-01-04 01:50 - NBA Gamepass 11 : Trail Blazers @ Spurs - FEED: Spurs (In-Arena)
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2026-01-05 01:50 - NBA Gamepass 11 : Thunder @ Suns - FEED: Suns (In-Arena)
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/139183.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2026-01-04 01:50 - NBA Gamepass 12 : Trail Blazers @ Spurs - FEED: Trail Blazers (In-Arena)
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2026-01-05 01:50 - NBA Gamepass 12 : Thunder @ Suns - FEED: Thunder (In-Arena)
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/139184.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2026-01-04 02:20 - NBA Gamepass 13 : Rockets @ Mavericks - FEED: Mavericks (In-Arena)
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2026-01-05 02:50 - NBA Gamepass 13 : Bucks @ Kings - FEED: Kings (In-Arena)
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/139185.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2026-01-04 02:20 - NBA Gamepass 14 : Rockets @ Mavericks - FEED: Rockets (In-Arena)
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2026-01-05 02:50 - NBA Gamepass 14 : Bucks @ Kings - FEED: Bucks (In-Arena)
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/139186.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2026-01-04 03:50 - NBA Gamepass 15 : Jazz @ Warriors - FEED: Warriors (In-Arena)
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2026-01-05 03:20 - NBA Gamepass 15 : Grizzlies @ Lakers - FEED: Lakers (In-Arena)
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/139187.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2026-01-04 03:50 - NBA Gamepass 16 : Jazz @ Warriors - FEED: Jazz (In-Arena)
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2026-01-05 03:20 - NBA Gamepass 16 : Grizzlies @ Lakers - FEED: Grizzlies (In-Arena)
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157149.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2026-01-04 04:20 - NBA Gamepass 17 : Celtics @ Clippers - FEED: NBA TV (In-Arena)
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157150.m3u8
@@ -7209,4 +7211,4 @@ http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/37632.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Zuid Afrika / South Afrika",ZA: SuperSport Golf
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/37635.m3u8
 
-# Total: 3573
+# Total: 3574

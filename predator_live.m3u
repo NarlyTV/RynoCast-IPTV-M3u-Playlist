@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: predator.digital:8080
-# Generated: 2026-01-04 18:34:47
+# Generated: 2026-01-05 07:23:31
 # Expires: 2026-08-08
 # Family Safe Edition
 # ==============================================
@@ -1517,7 +1517,7 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/77997.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Digitalb",AL: FightBox HD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/77987.m3u8
 
-# --- Ex-Yu (314) ---
+# --- Ex-Yu (308) ---
 #EXTINF:-1 tvg-logo="" group-title="Ex-Yu",========Ex-Yu========
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/12486.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/hrttv1.png" group-title="Ex-Yu",HR: HRT 1 HD
@@ -2030,18 +2030,6 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/63460.m3u8
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/53390.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Ex-Yu",SR: Nova Sport
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/63426.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/sportklub1hdexyu.png" group-title="Ex-Yu",SR: Sport Klub 1 FHD
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/2738.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/sportklub2hdexyu.png" group-title="Ex-Yu",SR: Sport Klub 2 FHD
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/2737.m3u8
-#EXTINF:-1 tvg-logo="http://predator.digital:8080/images/2c37d20fe574daa6a99c9d5cfa7c2b8a.png" group-title="Ex-Yu",SR: Sport Klub 3 FHD
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/2736.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ex-Yu",SR: Sport Klub 4
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/47794.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ex-Yu",SR: Sport Klub 5 FHD
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/47795.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ex-Yu",SR: Sport Klub 6 FHD
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/47796.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Ex-Yu",SR: Zvezda TV
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/63458.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Ex-Yu",SR: Partizan TV
@@ -8959,4 +8947,4 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/13200.m3u8
 #EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: Real Madrid Tv
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/62225.m3u8
 
-# Total: 4449
+# Total: 4443
