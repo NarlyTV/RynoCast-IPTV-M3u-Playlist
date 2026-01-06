@@ -1,15 +1,13 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: tvproeuropa1.com:8008
-# Generated: 2026-01-06 07:09:52
+# Generated: 2026-01-06 18:39:09
 # Expires: 2027-01-07
 # Family Safe Edition
 # ==============================================
 
 
-# --- ⚜️ROMANIA TV⚜️ (585) ---
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wvFMSGRt/Whats-App-Image-2025-11-27-at-15-20-39-6e5d06cc.jpg" group-title="⚜️ROMANIA TV⚜️",⚜️PRO EUROPA INFO⚜️
-http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/540724.m3u8
+# --- ⚜️ROMANIA TV⚜️ (496) ---
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/WzfDK55q/resize.png" group-title="⚜️ROMANIA TV⚜️",PRO TV UHD
 http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/33760.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jSn8M9Mw/resize.png" group-title="⚜️ROMANIA TV⚜️",PRO TV HD
@@ -342,8 +340,6 @@ http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/33880.m3u8
 http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/260598.m3u8
 #EXTINF:-1 tvg-logo="https://logo.iptveditor.com/animalplanet.png" group-title="⚜️ROMANIA TV⚜️",ANIMAL PLANET FHD
 http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/260597.m3u8
-#EXTINF:-1 tvg-logo="https://logo.iptveditor.com/cbsreality.png" group-title="⚜️ROMANIA TV⚜️",CBS REALITY SD
-http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/260593.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ro/1/1d/Love_Nature_TV.png" group-title="⚜️ROMANIA TV⚜️",LOVE NATURE FHD
 http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/33873.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ro/1/1d/Love_Nature_TV.png" group-title="⚜️ROMANIA TV⚜️",LOVE NATURE 4K
@@ -512,16 +508,6 @@ http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/522171.m3u8
 http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/522170.m3u8
 #EXTINF:-1 tvg-logo="https://logo.iptveditor.com/a7tv.png" group-title="⚜️ROMANIA TV⚜️",A7 TV
 http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/331258.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/zfpQf3HR/resize.png" group-title="⚜️ROMANIA TV⚜️",LAS FIERBINTI SEZON 27 (2025)
-http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/533984.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/14/LOGO_.jpg/revision/latest/scale-to-width-down/250?cb=20250729105159" group-title="⚜️ROMANIA TV⚜️",ASIA EXPRESS (2025)
-http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/528829.m3u8
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g4CWVh9GeyEEmu9r2CV7tybz2RQ.jpg" group-title="⚜️ROMANIA TV⚜️",INSULA IUBIRII (2025)
-http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/531760.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/RFr9XmHN/GAME-OF-THRONES.jpg" group-title="⚜️ROMANIA TV⚜️",GAME OF THRONES (2011)
-http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/531762.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQ2Fkp5n/HOME-ALONE.jpg" group-title="⚜️ROMANIA TV⚜️",HOME ALONE
-http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/548298.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gcTHv7yY/logo.gif" group-title="⚜️ROMANIA TV⚜️",ROTV  ACTION
 http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/492847.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gcTHv7yY/logo.gif" group-title="⚜️ROMANIA TV⚜️",ROTV  ADVENTURE
@@ -544,18 +530,6 @@ http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/492839.m3u8
 http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/492838.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gcTHv7yY/logo.gif" group-title="⚜️ROMANIA TV⚜️",ROTV DOKU
 http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/492837.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/YCBssc5T/VOYO-MOVIE.jpg" group-title="⚜️ROMANIA TV⚜️",VOYO 24 MIX
-http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/492836.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/YCBssc5T/VOYO-MOVIE.jpg" group-title="⚜️ROMANIA TV⚜️",VOYO BOX
-http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/492835.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/YCBssc5T/VOYO-MOVIE.jpg" group-title="⚜️ROMANIA TV⚜️",VOYO TV
-http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/492834.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/YCBssc5T/VOYO-MOVIE.jpg" group-title="⚜️ROMANIA TV⚜️",VOYO PLEX
-http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/492832.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/YCBssc5T/VOYO-MOVIE.jpg" group-title="⚜️ROMANIA TV⚜️",VOYO ONE
-http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/492831.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/YCBssc5T/VOYO-MOVIE.jpg" group-title="⚜️ROMANIA TV⚜️",VOYO STAR
-http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/492830.m3u8
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/35/2/apple-tv-plus-logo-png_seeklogo-350508.png" group-title="⚜️ROMANIA TV⚜️",APPLE ACTION ONE
 http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/498654.m3u8
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/35/2/apple-tv-plus-logo-png_seeklogo-350508.png" group-title="⚜️ROMANIA TV⚜️",APPLE ACTION TWO
@@ -588,72 +562,8 @@ http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/498641.m3u8
 http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/498640.m3u8
 #EXTINF:-1 tvg-logo="https://images.icon-icons.com/2699/PNG/512/netflix_logo_icon_170919.png" group-title="⚜️ROMANIA TV⚜️",NETFLIX ACTION
 http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/498639.m3u8
-#EXTINF:-1 tvg-logo="https://master-devops.com/lalu.png" group-title="⚜️ROMANIA TV⚜️",SIGNAL TV - ASIA EXPRESS
-http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/348526.m3u8
-#EXTINF:-1 tvg-logo="armagedon9322" group-title="⚜️ROMANIA TV⚜️",SIGNAL TV - CRACIUN
-http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/382728.m3u8
-#EXTINF:-1 tvg-logo="https://master-devops.com/lalu.png" group-title="⚜️ROMANIA TV⚜️",SIGNAL TV - LAS FIERBINTI SEZ 1 - 5
-http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/344332.m3u8
-#EXTINF:-1 tvg-logo="https://master-devops.com/lalu.png" group-title="⚜️ROMANIA TV⚜️",SIGNAL TV - LAS FIERBINTI SEZ 6 - 10
-http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/344334.m3u8
-#EXTINF:-1 tvg-logo="https://master-devops.com/lalu.png" group-title="⚜️ROMANIA TV⚜️",SIGNAL TV - LAS FIERBINTI SEZ 11 - 15
-http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/344335.m3u8
-#EXTINF:-1 tvg-logo="https://master-devops.com/lalu.png" group-title="⚜️ROMANIA TV⚜️",SIGNAL TV - LAS FIERBINTI SEZ 16 - 20
-http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/344336.m3u8
-#EXTINF:-1 tvg-logo="https://master-devops.com/lalu.png" group-title="⚜️ROMANIA TV⚜️",SIGNAL TV - LAS FIERBINTI SEZ 21 - 25
-http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/344337.m3u8
-#EXTINF:-1 tvg-logo="https://master-devops.com/lalu.png" group-title="⚜️ROMANIA TV⚜️",SIGNAL TV - LAS FIERBINTI SEZ 26
-http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/344341.m3u8
-#EXTINF:-1 tvg-logo="https://master-devops.com/lalu.png" group-title="⚜️ROMANIA TV⚜️",SIGNAL TV 1 (2024)
-http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/344088.m3u8
-#EXTINF:-1 tvg-logo="https://master-devops.com/lalu.png" group-title="⚜️ROMANIA TV⚜️",SIGNAL TV 1 (2025)
-http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/344330.m3u8
-#EXTINF:-1 tvg-logo="https://master-devops.com/lalu.png" group-title="⚜️ROMANIA TV⚜️",SIGNAL TV 2 (2025)
-http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/344089.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/13WNWM5M/rrr.png" group-title="⚜️ROMANIA TV⚜️",▶️FluxRO ASIA EXPRES ᴴᴰ
 http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/296272.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QMDmMfqF/MAGURA.gif" group-title="⚜️ROMANIA TV⚜️",MAGURA HORROR
-http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/491404.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QMDmMfqF/MAGURA.gif" group-title="⚜️ROMANIA TV⚜️",MAGURA FANTEZIE
-http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/491403.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QMDmMfqF/MAGURA.gif" group-title="⚜️ROMANIA TV⚜️",MAGURA DRAMA
-http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/491402.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QMDmMfqF/MAGURA.gif" group-title="⚜️ROMANIA TV⚜️",MAGURA COMEDIE
-http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/491401.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QMDmMfqF/MAGURA.gif" group-title="⚜️ROMANIA TV⚜️",MAGURA BOLLYWOOD
-http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/491399.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QMDmMfqF/MAGURA.gif" group-title="⚜️ROMANIA TV⚜️",MAGURA BEN STILLER
-http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/491398.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QMDmMfqF/MAGURA.gif" group-title="⚜️ROMANIA TV⚜️",MAGURA AVENTURA
-http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/491397.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QMDmMfqF/MAGURA.gif" group-title="⚜️ROMANIA TV⚜️",MAGURA ANIMATIE
-http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/491396.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QMDmMfqF/MAGURA.gif" group-title="⚜️ROMANIA TV⚜️",MAGURA ISTORIC FANTASY
-http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/491406.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QMDmMfqF/MAGURA.gif" group-title="⚜️ROMANIA TV⚜️",MAGURA ANGELINA JOLIE
-http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/491395.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QMDmMfqF/MAGURA.gif" group-title="⚜️ROMANIA TV⚜️",MAGURA ADAM SANDLER
-http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/491394.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QMDmMfqF/MAGURA.gif" group-title="⚜️ROMANIA TV⚜️",MAGURA ACTIUNE
-http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/491393.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QMDmMfqF/MAGURA.gif" group-title="⚜️ROMANIA TV⚜️",MAGURA LEONARDO DI CAPRIO
-http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/491407.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QMDmMfqF/MAGURA.gif" group-title="⚜️ROMANIA TV⚜️",MAGURA JOHNNY DEEP
-http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/491405.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QMDmMfqF/MAGURA.gif" group-title="⚜️ROMANIA TV⚜️",MAGURA MARTIAL ARTS
-http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/491419.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QMDmMfqF/MAGURA.gif" group-title="⚜️ROMANIA TV⚜️",MAGURA MORGAN FREEMAN
-http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/491418.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QMDmMfqF/MAGURA.gif" group-title="⚜️ROMANIA TV⚜️",MAGURA ROMANESTI
-http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/491417.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QMDmMfqF/MAGURA.gif" group-title="⚜️ROMANIA TV⚜️",MAGURA SCIENCE FICTION
-http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/491416.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QMDmMfqF/MAGURA.gif" group-title="⚜️ROMANIA TV⚜️",MAGURA VAL KILMER
-http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/491415.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QMDmMfqF/MAGURA.gif" group-title="⚜️ROMANIA TV⚜️",MAGURA VAN DAMME
-http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/491414.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QMDmMfqF/MAGURA.gif" group-title="⚜️ROMANIA TV⚜️",MAGURA WAR
-http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/491413.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TwgLZzkM/logo-1.gif" group-title="⚜️ROMANIA TV⚜️",BEIN ACTION 1
 http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/498965.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TwgLZzkM/logo-1.gif" group-title="⚜️ROMANIA TV⚜️",BEIN ACTION 2
@@ -708,62 +618,6 @@ http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/498941.m3u8
 http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/498940.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TwgLZzkM/logo-1.gif" group-title="⚜️ROMANIA TV⚜️",BEIN HORROR 2
 http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/498939.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLNyv1GZ/Untitled.png" group-title="⚜️ROMANIA TV⚜️",TECTONIC WESTERN
-http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/491448.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/XJR30zqp/TECTONIC-WAR-2.png" group-title="⚜️ROMANIA TV⚜️",TECTONIC WAR 2
-http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/491447.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/XJR30zqp/TECTONIC-WAR-2.png" group-title="⚜️ROMANIA TV⚜️",TECTONIC WAR
-http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/491446.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3Jgr3Yg7/TECTONIC-THRILLER.png" group-title="⚜️ROMANIA TV⚜️",TECTONIC THRILLER 3
-http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/491445.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3Jgr3Yg7/TECTONIC-THRILLER.png" group-title="⚜️ROMANIA TV⚜️",TECTONIC THRILLER
-http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/491444.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3Jgr3Yg7/TECTONIC-THRILLER.png" group-title="⚜️ROMANIA TV⚜️",TECTONIC THRILLER 2
-http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/491443.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d0QVWpZF/TECTONIC-AVENTURA-3.png" group-title="⚜️ROMANIA TV⚜️",TECTONIC AVENTURA 3
-http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/491442.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9066vRxT/TECTONIC-AVENTURA.png" group-title="⚜️ROMANIA TV⚜️",TECTONIC AVENTURA
-http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/491441.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9Mt1W4FZ/TECTONIC-AVENTURA-2.png" group-title="⚜️ROMANIA TV⚜️",TECTONIC AVENTURA 2
-http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/491440.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/59KNssfd/seven-media-5.png" group-title="⚜️ROMANIA TV⚜️",SEVEN MEDIA 5
-http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/491454.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/6pk8YYL5/seven-media-4.png" group-title="⚜️ROMANIA TV⚜️",SEVEN MEDIA 4
-http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/491453.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3rXFpDhv/SEVEN-MEDIA-3.png" group-title="⚜️ROMANIA TV⚜️",SEVEN MEDIA 3
-http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/491451.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/50vqsXFD/SEVEN-MEDIA.png" group-title="⚜️ROMANIA TV⚜️",SEVEN MEDIA
-http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/491450.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/1RwJHjG4/ROG-MOVIES-COMEDIE-3.png" group-title="⚜️ROMANIA TV⚜️",ROGUE COMEDIE 3
-http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/491458.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3wNtFr1H/ROG-MOVIES-COMEDIE-2.png" group-title="⚜️ROMANIA TV⚜️",ROGUE COMEDIE 2
-http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/491457.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TwWQBkB7/ROG-MOVIES-COMEDIE.png" group-title="⚜️ROMANIA TV⚜️",ROGUE COMEDIE
-http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/491456.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/tC2hh6nH/logo.gif" group-title="⚜️ROMANIA TV⚜️",FLIX PRIME
-http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/491665.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/tC2hh6nH/logo.gif" group-title="⚜️ROMANIA TV⚜️",FLIX ZONE
-http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/491663.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4yY8QMS3/1.gif" group-title="⚜️ROMANIA TV⚜️",DIGI KINO ONE
-http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/491679.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4yY8QMS3/1.gif" group-title="⚜️ROMANIA TV⚜️",DIGI KINO TWO
-http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/491680.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4yY8QMS3/1.gif" group-title="⚜️ROMANIA TV⚜️",DIGI KINO FOUR
-http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/491682.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4yY8QMS3/1.gif" group-title="⚜️ROMANIA TV⚜️",DIGI KINO FIVE
-http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/491683.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4yY8QMS3/1.gif" group-title="⚜️ROMANIA TV⚜️",DIGI KINO SIX
-http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/491684.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4yY8QMS3/1.gif" group-title="⚜️ROMANIA TV⚜️",DIGI KINO SEVEN
-http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/491685.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7PJpVfW8/logo-4.gif" group-title="⚜️ROMANIA TV⚜️",LUNA STREAMVUE
-http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/491719.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7PJpVfW8/logo-4.gif" group-title="⚜️ROMANIA TV⚜️",LUNA ZONE
-http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/491718.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7PJpVfW8/logo-4.gif" group-title="⚜️ROMANIA TV⚜️",LUNA STREAM
-http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/491717.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7PJpVfW8/logo-4.gif" group-title="⚜️ROMANIA TV⚜️",LUNA PLAY
-http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/491716.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Fzc7CNjf/61gu3-QX74-L.png" group-title="⚜️ROMANIA TV⚜️",NionTV Special - Grizzy & the Lemmings
 http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/498376.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Fzc7CNjf/61gu3-QX74-L.png" group-title="⚜️ROMANIA TV⚜️",NionTV Special - Patrula cățelușilor
@@ -858,36 +712,6 @@ http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/503468.m3u8
 http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/503466.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bYx8WZ1b/sky.gif" group-title="⚜️ROMANIA TV⚜️",SKY SPIDEY
 http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/503465.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7PJpVfW8/logo-4.gif" group-title="⚜️ROMANIA TV⚜️",LUNA PRIME
-http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/491715.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/hPjMc2qw/classic.png" group-title="⚜️ROMANIA TV⚜️",ORIGINAL CLASSIC 1
-http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/491795.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/hPjMc2qw/classic.png" group-title="⚜️ROMANIA TV⚜️",ORIGINAL CLASSIC 2
-http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/491794.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/hPjMc2qw/classic.png" group-title="⚜️ROMANIA TV⚜️",ORIGINAL CLASSIC 3
-http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/491793.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/hPjMc2qw/classic.png" group-title="⚜️ROMANIA TV⚜️",ORIGINAL CLASSIC 4
-http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/491792.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/hPjMc2qw/classic.png" group-title="⚜️ROMANIA TV⚜️",ORIGINAL CLASSIC 5
-http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/491791.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/hPjMc2qw/classic.png" group-title="⚜️ROMANIA TV⚜️",ORIGINAL CLASSIC 6
-http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/491790.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/j5x3NKGq/NI.gif" group-title="⚜️ROMANIA TV⚜️",MOVIES ACTION 1
-http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/491789.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/j5x3NKGq/NI.gif" group-title="⚜️ROMANIA TV⚜️",MOVIES ACTION 2
-http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/491788.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/j5x3NKGq/NI.gif" group-title="⚜️ROMANIA TV⚜️",MOVIES ACTION 3
-http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/491787.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/j5x3NKGq/NI.gif" group-title="⚜️ROMANIA TV⚜️",MOVIES ACTION 5
-http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/491786.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/j5x3NKGq/NI.gif" group-title="⚜️ROMANIA TV⚜️",MOVIES ACTION 4
-http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/491785.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/j5x3NKGq/NI.gif" group-title="⚜️ROMANIA TV⚜️",MOVIES ACTION 6
-http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/491784.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x1mZV6vQ/universal-movies.png" group-title="⚜️ROMANIA TV⚜️",UNIVERSAL MOVIES 1
-http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/491783.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x1mZV6vQ/universal-movies.png" group-title="⚜️ROMANIA TV⚜️",UNIVERSAL MOVIES 2
-http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/491782.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5tn1Wr6d/images-1-removebg-preview.png" group-title="⚜️ROMANIA TV⚜️",ZOKKO ACTION 3
 http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/498637.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5tn1Wr6d/images-1-removebg-preview.png" group-title="⚜️ROMANIA TV⚜️",ZOKKO ACTION 4
@@ -1176,7 +1000,5 @@ http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/296307.m3u8
 http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/296306.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1Xsq73b1/rrr.png" group-title="⚜️ROMANIA TV⚜️",▶️FLY AVENTURA ᶠᴴᴰ
 http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/296305.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⚜️ROMANIA TV⚜️",GALA RXF
-http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/554858.m3u8
 
-# Total: 585
+# Total: 496

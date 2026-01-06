@@ -1,13 +1,13 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: ginafelea.ddns.net:8008
-# Generated: 2026-01-06 07:16:29
+# Generated: 2026-01-06 18:33:01
 # Expires: 2026-01-28
 # Family Safe Edition
 # ==============================================
 
 
-# --- RADIO ROMANIA (7) ---
+# --- RADIO ROMANIA (6) ---
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/449/543/png-transparent-kiss-fm-internet-radio-fm-broadcasting-music-chbn-fm-radio-television-electronics-fm-broadcasting.png" group-title="RADIO ROMANIA",Kiss FM
 http://ginafelea.ddns.net:8008/live/STAVARACHE_FLO/azxzn54fggty/287567.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa697ziuZrcaTpVVi_N0j6XTXmpugLwAeGRA&s" group-title="RADIO ROMANIA",Radio ZU
@@ -20,10 +20,8 @@ http://ginafelea.ddns.net:8008/live/STAVARACHE_FLO/azxzn54fggty/287566.m3u8
 http://ginafelea.ddns.net:8008/live/STAVARACHE_FLO/azxzn54fggty/287574.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq8un4ITirZKogAhkvss0CNes93z3B-IM38VU1rNOJ2A&s" group-title="RADIO ROMANIA",RO VALENCIA FM
 http://ginafelea.ddns.net:8008/live/STAVARACHE_FLO/azxzn54fggty/206557.m3u8
-#EXTINF:-1 tvg-logo="" group-title="RADIO ROMANIA",(Favorit FM)
-http://ginafelea.ddns.net:8008/live/STAVARACHE_FLO/azxzn54fggty/287654.m3u8
 
-# --- ⚜️ROMANIA TV⚜️ (585) ---
+# --- ⚜️ROMANIA TV⚜️ (502) ---
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wvFMSGRt/Whats-App-Image-2025-11-27-at-15-20-39-6e5d06cc.jpg" group-title="⚜️ROMANIA TV⚜️",⚜️PRO EUROPA INFO⚜️
 http://ginafelea.ddns.net:8008/live/STAVARACHE_FLO/azxzn54fggty/540724.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/WzfDK55q/resize.png" group-title="⚜️ROMANIA TV⚜️",PRO TV UHD
@@ -358,8 +356,6 @@ http://ginafelea.ddns.net:8008/live/STAVARACHE_FLO/azxzn54fggty/33880.m3u8
 http://ginafelea.ddns.net:8008/live/STAVARACHE_FLO/azxzn54fggty/260598.m3u8
 #EXTINF:-1 tvg-logo="https://logo.iptveditor.com/animalplanet.png" group-title="⚜️ROMANIA TV⚜️",ANIMAL PLANET FHD
 http://ginafelea.ddns.net:8008/live/STAVARACHE_FLO/azxzn54fggty/260597.m3u8
-#EXTINF:-1 tvg-logo="https://logo.iptveditor.com/cbsreality.png" group-title="⚜️ROMANIA TV⚜️",CBS REALITY SD
-http://ginafelea.ddns.net:8008/live/STAVARACHE_FLO/azxzn54fggty/260593.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ro/1/1d/Love_Nature_TV.png" group-title="⚜️ROMANIA TV⚜️",LOVE NATURE FHD
 http://ginafelea.ddns.net:8008/live/STAVARACHE_FLO/azxzn54fggty/33873.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ro/1/1d/Love_Nature_TV.png" group-title="⚜️ROMANIA TV⚜️",LOVE NATURE 4K
@@ -560,18 +556,6 @@ http://ginafelea.ddns.net:8008/live/STAVARACHE_FLO/azxzn54fggty/492839.m3u8
 http://ginafelea.ddns.net:8008/live/STAVARACHE_FLO/azxzn54fggty/492838.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gcTHv7yY/logo.gif" group-title="⚜️ROMANIA TV⚜️",ROTV DOKU
 http://ginafelea.ddns.net:8008/live/STAVARACHE_FLO/azxzn54fggty/492837.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/YCBssc5T/VOYO-MOVIE.jpg" group-title="⚜️ROMANIA TV⚜️",VOYO 24 MIX
-http://ginafelea.ddns.net:8008/live/STAVARACHE_FLO/azxzn54fggty/492836.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/YCBssc5T/VOYO-MOVIE.jpg" group-title="⚜️ROMANIA TV⚜️",VOYO BOX
-http://ginafelea.ddns.net:8008/live/STAVARACHE_FLO/azxzn54fggty/492835.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/YCBssc5T/VOYO-MOVIE.jpg" group-title="⚜️ROMANIA TV⚜️",VOYO TV
-http://ginafelea.ddns.net:8008/live/STAVARACHE_FLO/azxzn54fggty/492834.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/YCBssc5T/VOYO-MOVIE.jpg" group-title="⚜️ROMANIA TV⚜️",VOYO PLEX
-http://ginafelea.ddns.net:8008/live/STAVARACHE_FLO/azxzn54fggty/492832.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/YCBssc5T/VOYO-MOVIE.jpg" group-title="⚜️ROMANIA TV⚜️",VOYO ONE
-http://ginafelea.ddns.net:8008/live/STAVARACHE_FLO/azxzn54fggty/492831.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/YCBssc5T/VOYO-MOVIE.jpg" group-title="⚜️ROMANIA TV⚜️",VOYO STAR
-http://ginafelea.ddns.net:8008/live/STAVARACHE_FLO/azxzn54fggty/492830.m3u8
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/35/2/apple-tv-plus-logo-png_seeklogo-350508.png" group-title="⚜️ROMANIA TV⚜️",APPLE ACTION ONE
 http://ginafelea.ddns.net:8008/live/STAVARACHE_FLO/azxzn54fggty/498654.m3u8
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/35/2/apple-tv-plus-logo-png_seeklogo-350508.png" group-title="⚜️ROMANIA TV⚜️",APPLE ACTION TWO
@@ -604,72 +588,8 @@ http://ginafelea.ddns.net:8008/live/STAVARACHE_FLO/azxzn54fggty/498641.m3u8
 http://ginafelea.ddns.net:8008/live/STAVARACHE_FLO/azxzn54fggty/498640.m3u8
 #EXTINF:-1 tvg-logo="https://images.icon-icons.com/2699/PNG/512/netflix_logo_icon_170919.png" group-title="⚜️ROMANIA TV⚜️",NETFLIX ACTION
 http://ginafelea.ddns.net:8008/live/STAVARACHE_FLO/azxzn54fggty/498639.m3u8
-#EXTINF:-1 tvg-logo="https://master-devops.com/lalu.png" group-title="⚜️ROMANIA TV⚜️",SIGNAL TV - ASIA EXPRESS
-http://ginafelea.ddns.net:8008/live/STAVARACHE_FLO/azxzn54fggty/348526.m3u8
-#EXTINF:-1 tvg-logo="armagedon9322" group-title="⚜️ROMANIA TV⚜️",SIGNAL TV - CRACIUN
-http://ginafelea.ddns.net:8008/live/STAVARACHE_FLO/azxzn54fggty/382728.m3u8
-#EXTINF:-1 tvg-logo="https://master-devops.com/lalu.png" group-title="⚜️ROMANIA TV⚜️",SIGNAL TV - LAS FIERBINTI SEZ 1 - 5
-http://ginafelea.ddns.net:8008/live/STAVARACHE_FLO/azxzn54fggty/344332.m3u8
-#EXTINF:-1 tvg-logo="https://master-devops.com/lalu.png" group-title="⚜️ROMANIA TV⚜️",SIGNAL TV - LAS FIERBINTI SEZ 6 - 10
-http://ginafelea.ddns.net:8008/live/STAVARACHE_FLO/azxzn54fggty/344334.m3u8
-#EXTINF:-1 tvg-logo="https://master-devops.com/lalu.png" group-title="⚜️ROMANIA TV⚜️",SIGNAL TV - LAS FIERBINTI SEZ 11 - 15
-http://ginafelea.ddns.net:8008/live/STAVARACHE_FLO/azxzn54fggty/344335.m3u8
-#EXTINF:-1 tvg-logo="https://master-devops.com/lalu.png" group-title="⚜️ROMANIA TV⚜️",SIGNAL TV - LAS FIERBINTI SEZ 16 - 20
-http://ginafelea.ddns.net:8008/live/STAVARACHE_FLO/azxzn54fggty/344336.m3u8
-#EXTINF:-1 tvg-logo="https://master-devops.com/lalu.png" group-title="⚜️ROMANIA TV⚜️",SIGNAL TV - LAS FIERBINTI SEZ 21 - 25
-http://ginafelea.ddns.net:8008/live/STAVARACHE_FLO/azxzn54fggty/344337.m3u8
-#EXTINF:-1 tvg-logo="https://master-devops.com/lalu.png" group-title="⚜️ROMANIA TV⚜️",SIGNAL TV - LAS FIERBINTI SEZ 26
-http://ginafelea.ddns.net:8008/live/STAVARACHE_FLO/azxzn54fggty/344341.m3u8
-#EXTINF:-1 tvg-logo="https://master-devops.com/lalu.png" group-title="⚜️ROMANIA TV⚜️",SIGNAL TV 1 (2024)
-http://ginafelea.ddns.net:8008/live/STAVARACHE_FLO/azxzn54fggty/344088.m3u8
-#EXTINF:-1 tvg-logo="https://master-devops.com/lalu.png" group-title="⚜️ROMANIA TV⚜️",SIGNAL TV 1 (2025)
-http://ginafelea.ddns.net:8008/live/STAVARACHE_FLO/azxzn54fggty/344330.m3u8
-#EXTINF:-1 tvg-logo="https://master-devops.com/lalu.png" group-title="⚜️ROMANIA TV⚜️",SIGNAL TV 2 (2025)
-http://ginafelea.ddns.net:8008/live/STAVARACHE_FLO/azxzn54fggty/344089.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/13WNWM5M/rrr.png" group-title="⚜️ROMANIA TV⚜️",▶️FluxRO ASIA EXPRES ᴴᴰ
 http://ginafelea.ddns.net:8008/live/STAVARACHE_FLO/azxzn54fggty/296272.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QMDmMfqF/MAGURA.gif" group-title="⚜️ROMANIA TV⚜️",MAGURA HORROR
-http://ginafelea.ddns.net:8008/live/STAVARACHE_FLO/azxzn54fggty/491404.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QMDmMfqF/MAGURA.gif" group-title="⚜️ROMANIA TV⚜️",MAGURA FANTEZIE
-http://ginafelea.ddns.net:8008/live/STAVARACHE_FLO/azxzn54fggty/491403.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QMDmMfqF/MAGURA.gif" group-title="⚜️ROMANIA TV⚜️",MAGURA DRAMA
-http://ginafelea.ddns.net:8008/live/STAVARACHE_FLO/azxzn54fggty/491402.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QMDmMfqF/MAGURA.gif" group-title="⚜️ROMANIA TV⚜️",MAGURA COMEDIE
-http://ginafelea.ddns.net:8008/live/STAVARACHE_FLO/azxzn54fggty/491401.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QMDmMfqF/MAGURA.gif" group-title="⚜️ROMANIA TV⚜️",MAGURA BOLLYWOOD
-http://ginafelea.ddns.net:8008/live/STAVARACHE_FLO/azxzn54fggty/491399.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QMDmMfqF/MAGURA.gif" group-title="⚜️ROMANIA TV⚜️",MAGURA BEN STILLER
-http://ginafelea.ddns.net:8008/live/STAVARACHE_FLO/azxzn54fggty/491398.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QMDmMfqF/MAGURA.gif" group-title="⚜️ROMANIA TV⚜️",MAGURA AVENTURA
-http://ginafelea.ddns.net:8008/live/STAVARACHE_FLO/azxzn54fggty/491397.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QMDmMfqF/MAGURA.gif" group-title="⚜️ROMANIA TV⚜️",MAGURA ANIMATIE
-http://ginafelea.ddns.net:8008/live/STAVARACHE_FLO/azxzn54fggty/491396.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QMDmMfqF/MAGURA.gif" group-title="⚜️ROMANIA TV⚜️",MAGURA ISTORIC FANTASY
-http://ginafelea.ddns.net:8008/live/STAVARACHE_FLO/azxzn54fggty/491406.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QMDmMfqF/MAGURA.gif" group-title="⚜️ROMANIA TV⚜️",MAGURA ANGELINA JOLIE
-http://ginafelea.ddns.net:8008/live/STAVARACHE_FLO/azxzn54fggty/491395.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QMDmMfqF/MAGURA.gif" group-title="⚜️ROMANIA TV⚜️",MAGURA ADAM SANDLER
-http://ginafelea.ddns.net:8008/live/STAVARACHE_FLO/azxzn54fggty/491394.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QMDmMfqF/MAGURA.gif" group-title="⚜️ROMANIA TV⚜️",MAGURA ACTIUNE
-http://ginafelea.ddns.net:8008/live/STAVARACHE_FLO/azxzn54fggty/491393.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QMDmMfqF/MAGURA.gif" group-title="⚜️ROMANIA TV⚜️",MAGURA LEONARDO DI CAPRIO
-http://ginafelea.ddns.net:8008/live/STAVARACHE_FLO/azxzn54fggty/491407.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QMDmMfqF/MAGURA.gif" group-title="⚜️ROMANIA TV⚜️",MAGURA JOHNNY DEEP
-http://ginafelea.ddns.net:8008/live/STAVARACHE_FLO/azxzn54fggty/491405.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QMDmMfqF/MAGURA.gif" group-title="⚜️ROMANIA TV⚜️",MAGURA MARTIAL ARTS
-http://ginafelea.ddns.net:8008/live/STAVARACHE_FLO/azxzn54fggty/491419.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QMDmMfqF/MAGURA.gif" group-title="⚜️ROMANIA TV⚜️",MAGURA MORGAN FREEMAN
-http://ginafelea.ddns.net:8008/live/STAVARACHE_FLO/azxzn54fggty/491418.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QMDmMfqF/MAGURA.gif" group-title="⚜️ROMANIA TV⚜️",MAGURA ROMANESTI
-http://ginafelea.ddns.net:8008/live/STAVARACHE_FLO/azxzn54fggty/491417.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QMDmMfqF/MAGURA.gif" group-title="⚜️ROMANIA TV⚜️",MAGURA SCIENCE FICTION
-http://ginafelea.ddns.net:8008/live/STAVARACHE_FLO/azxzn54fggty/491416.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QMDmMfqF/MAGURA.gif" group-title="⚜️ROMANIA TV⚜️",MAGURA VAL KILMER
-http://ginafelea.ddns.net:8008/live/STAVARACHE_FLO/azxzn54fggty/491415.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QMDmMfqF/MAGURA.gif" group-title="⚜️ROMANIA TV⚜️",MAGURA VAN DAMME
-http://ginafelea.ddns.net:8008/live/STAVARACHE_FLO/azxzn54fggty/491414.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QMDmMfqF/MAGURA.gif" group-title="⚜️ROMANIA TV⚜️",MAGURA WAR
-http://ginafelea.ddns.net:8008/live/STAVARACHE_FLO/azxzn54fggty/491413.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TwgLZzkM/logo-1.gif" group-title="⚜️ROMANIA TV⚜️",BEIN ACTION 1
 http://ginafelea.ddns.net:8008/live/STAVARACHE_FLO/azxzn54fggty/498965.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TwgLZzkM/logo-1.gif" group-title="⚜️ROMANIA TV⚜️",BEIN ACTION 2
@@ -724,62 +644,6 @@ http://ginafelea.ddns.net:8008/live/STAVARACHE_FLO/azxzn54fggty/498941.m3u8
 http://ginafelea.ddns.net:8008/live/STAVARACHE_FLO/azxzn54fggty/498940.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TwgLZzkM/logo-1.gif" group-title="⚜️ROMANIA TV⚜️",BEIN HORROR 2
 http://ginafelea.ddns.net:8008/live/STAVARACHE_FLO/azxzn54fggty/498939.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CLNyv1GZ/Untitled.png" group-title="⚜️ROMANIA TV⚜️",TECTONIC WESTERN
-http://ginafelea.ddns.net:8008/live/STAVARACHE_FLO/azxzn54fggty/491448.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/XJR30zqp/TECTONIC-WAR-2.png" group-title="⚜️ROMANIA TV⚜️",TECTONIC WAR 2
-http://ginafelea.ddns.net:8008/live/STAVARACHE_FLO/azxzn54fggty/491447.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/XJR30zqp/TECTONIC-WAR-2.png" group-title="⚜️ROMANIA TV⚜️",TECTONIC WAR
-http://ginafelea.ddns.net:8008/live/STAVARACHE_FLO/azxzn54fggty/491446.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3Jgr3Yg7/TECTONIC-THRILLER.png" group-title="⚜️ROMANIA TV⚜️",TECTONIC THRILLER 3
-http://ginafelea.ddns.net:8008/live/STAVARACHE_FLO/azxzn54fggty/491445.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3Jgr3Yg7/TECTONIC-THRILLER.png" group-title="⚜️ROMANIA TV⚜️",TECTONIC THRILLER
-http://ginafelea.ddns.net:8008/live/STAVARACHE_FLO/azxzn54fggty/491444.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3Jgr3Yg7/TECTONIC-THRILLER.png" group-title="⚜️ROMANIA TV⚜️",TECTONIC THRILLER 2
-http://ginafelea.ddns.net:8008/live/STAVARACHE_FLO/azxzn54fggty/491443.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d0QVWpZF/TECTONIC-AVENTURA-3.png" group-title="⚜️ROMANIA TV⚜️",TECTONIC AVENTURA 3
-http://ginafelea.ddns.net:8008/live/STAVARACHE_FLO/azxzn54fggty/491442.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9066vRxT/TECTONIC-AVENTURA.png" group-title="⚜️ROMANIA TV⚜️",TECTONIC AVENTURA
-http://ginafelea.ddns.net:8008/live/STAVARACHE_FLO/azxzn54fggty/491441.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9Mt1W4FZ/TECTONIC-AVENTURA-2.png" group-title="⚜️ROMANIA TV⚜️",TECTONIC AVENTURA 2
-http://ginafelea.ddns.net:8008/live/STAVARACHE_FLO/azxzn54fggty/491440.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/59KNssfd/seven-media-5.png" group-title="⚜️ROMANIA TV⚜️",SEVEN MEDIA 5
-http://ginafelea.ddns.net:8008/live/STAVARACHE_FLO/azxzn54fggty/491454.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/6pk8YYL5/seven-media-4.png" group-title="⚜️ROMANIA TV⚜️",SEVEN MEDIA 4
-http://ginafelea.ddns.net:8008/live/STAVARACHE_FLO/azxzn54fggty/491453.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3rXFpDhv/SEVEN-MEDIA-3.png" group-title="⚜️ROMANIA TV⚜️",SEVEN MEDIA 3
-http://ginafelea.ddns.net:8008/live/STAVARACHE_FLO/azxzn54fggty/491451.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/50vqsXFD/SEVEN-MEDIA.png" group-title="⚜️ROMANIA TV⚜️",SEVEN MEDIA
-http://ginafelea.ddns.net:8008/live/STAVARACHE_FLO/azxzn54fggty/491450.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/1RwJHjG4/ROG-MOVIES-COMEDIE-3.png" group-title="⚜️ROMANIA TV⚜️",ROGUE COMEDIE 3
-http://ginafelea.ddns.net:8008/live/STAVARACHE_FLO/azxzn54fggty/491458.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3wNtFr1H/ROG-MOVIES-COMEDIE-2.png" group-title="⚜️ROMANIA TV⚜️",ROGUE COMEDIE 2
-http://ginafelea.ddns.net:8008/live/STAVARACHE_FLO/azxzn54fggty/491457.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TwWQBkB7/ROG-MOVIES-COMEDIE.png" group-title="⚜️ROMANIA TV⚜️",ROGUE COMEDIE
-http://ginafelea.ddns.net:8008/live/STAVARACHE_FLO/azxzn54fggty/491456.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/tC2hh6nH/logo.gif" group-title="⚜️ROMANIA TV⚜️",FLIX PRIME
-http://ginafelea.ddns.net:8008/live/STAVARACHE_FLO/azxzn54fggty/491665.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/tC2hh6nH/logo.gif" group-title="⚜️ROMANIA TV⚜️",FLIX ZONE
-http://ginafelea.ddns.net:8008/live/STAVARACHE_FLO/azxzn54fggty/491663.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4yY8QMS3/1.gif" group-title="⚜️ROMANIA TV⚜️",DIGI KINO ONE
-http://ginafelea.ddns.net:8008/live/STAVARACHE_FLO/azxzn54fggty/491679.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4yY8QMS3/1.gif" group-title="⚜️ROMANIA TV⚜️",DIGI KINO TWO
-http://ginafelea.ddns.net:8008/live/STAVARACHE_FLO/azxzn54fggty/491680.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4yY8QMS3/1.gif" group-title="⚜️ROMANIA TV⚜️",DIGI KINO FOUR
-http://ginafelea.ddns.net:8008/live/STAVARACHE_FLO/azxzn54fggty/491682.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4yY8QMS3/1.gif" group-title="⚜️ROMANIA TV⚜️",DIGI KINO FIVE
-http://ginafelea.ddns.net:8008/live/STAVARACHE_FLO/azxzn54fggty/491683.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4yY8QMS3/1.gif" group-title="⚜️ROMANIA TV⚜️",DIGI KINO SIX
-http://ginafelea.ddns.net:8008/live/STAVARACHE_FLO/azxzn54fggty/491684.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4yY8QMS3/1.gif" group-title="⚜️ROMANIA TV⚜️",DIGI KINO SEVEN
-http://ginafelea.ddns.net:8008/live/STAVARACHE_FLO/azxzn54fggty/491685.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7PJpVfW8/logo-4.gif" group-title="⚜️ROMANIA TV⚜️",LUNA STREAMVUE
-http://ginafelea.ddns.net:8008/live/STAVARACHE_FLO/azxzn54fggty/491719.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7PJpVfW8/logo-4.gif" group-title="⚜️ROMANIA TV⚜️",LUNA ZONE
-http://ginafelea.ddns.net:8008/live/STAVARACHE_FLO/azxzn54fggty/491718.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7PJpVfW8/logo-4.gif" group-title="⚜️ROMANIA TV⚜️",LUNA STREAM
-http://ginafelea.ddns.net:8008/live/STAVARACHE_FLO/azxzn54fggty/491717.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7PJpVfW8/logo-4.gif" group-title="⚜️ROMANIA TV⚜️",LUNA PLAY
-http://ginafelea.ddns.net:8008/live/STAVARACHE_FLO/azxzn54fggty/491716.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Fzc7CNjf/61gu3-QX74-L.png" group-title="⚜️ROMANIA TV⚜️",NionTV Special - Grizzy & the Lemmings
 http://ginafelea.ddns.net:8008/live/STAVARACHE_FLO/azxzn54fggty/498376.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Fzc7CNjf/61gu3-QX74-L.png" group-title="⚜️ROMANIA TV⚜️",NionTV Special - Patrula cățelușilor
@@ -874,36 +738,6 @@ http://ginafelea.ddns.net:8008/live/STAVARACHE_FLO/azxzn54fggty/503468.m3u8
 http://ginafelea.ddns.net:8008/live/STAVARACHE_FLO/azxzn54fggty/503466.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bYx8WZ1b/sky.gif" group-title="⚜️ROMANIA TV⚜️",SKY SPIDEY
 http://ginafelea.ddns.net:8008/live/STAVARACHE_FLO/azxzn54fggty/503465.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7PJpVfW8/logo-4.gif" group-title="⚜️ROMANIA TV⚜️",LUNA PRIME
-http://ginafelea.ddns.net:8008/live/STAVARACHE_FLO/azxzn54fggty/491715.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/hPjMc2qw/classic.png" group-title="⚜️ROMANIA TV⚜️",ORIGINAL CLASSIC 1
-http://ginafelea.ddns.net:8008/live/STAVARACHE_FLO/azxzn54fggty/491795.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/hPjMc2qw/classic.png" group-title="⚜️ROMANIA TV⚜️",ORIGINAL CLASSIC 2
-http://ginafelea.ddns.net:8008/live/STAVARACHE_FLO/azxzn54fggty/491794.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/hPjMc2qw/classic.png" group-title="⚜️ROMANIA TV⚜️",ORIGINAL CLASSIC 3
-http://ginafelea.ddns.net:8008/live/STAVARACHE_FLO/azxzn54fggty/491793.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/hPjMc2qw/classic.png" group-title="⚜️ROMANIA TV⚜️",ORIGINAL CLASSIC 4
-http://ginafelea.ddns.net:8008/live/STAVARACHE_FLO/azxzn54fggty/491792.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/hPjMc2qw/classic.png" group-title="⚜️ROMANIA TV⚜️",ORIGINAL CLASSIC 5
-http://ginafelea.ddns.net:8008/live/STAVARACHE_FLO/azxzn54fggty/491791.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/hPjMc2qw/classic.png" group-title="⚜️ROMANIA TV⚜️",ORIGINAL CLASSIC 6
-http://ginafelea.ddns.net:8008/live/STAVARACHE_FLO/azxzn54fggty/491790.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/j5x3NKGq/NI.gif" group-title="⚜️ROMANIA TV⚜️",MOVIES ACTION 1
-http://ginafelea.ddns.net:8008/live/STAVARACHE_FLO/azxzn54fggty/491789.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/j5x3NKGq/NI.gif" group-title="⚜️ROMANIA TV⚜️",MOVIES ACTION 2
-http://ginafelea.ddns.net:8008/live/STAVARACHE_FLO/azxzn54fggty/491788.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/j5x3NKGq/NI.gif" group-title="⚜️ROMANIA TV⚜️",MOVIES ACTION 3
-http://ginafelea.ddns.net:8008/live/STAVARACHE_FLO/azxzn54fggty/491787.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/j5x3NKGq/NI.gif" group-title="⚜️ROMANIA TV⚜️",MOVIES ACTION 5
-http://ginafelea.ddns.net:8008/live/STAVARACHE_FLO/azxzn54fggty/491786.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/j5x3NKGq/NI.gif" group-title="⚜️ROMANIA TV⚜️",MOVIES ACTION 4
-http://ginafelea.ddns.net:8008/live/STAVARACHE_FLO/azxzn54fggty/491785.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/j5x3NKGq/NI.gif" group-title="⚜️ROMANIA TV⚜️",MOVIES ACTION 6
-http://ginafelea.ddns.net:8008/live/STAVARACHE_FLO/azxzn54fggty/491784.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x1mZV6vQ/universal-movies.png" group-title="⚜️ROMANIA TV⚜️",UNIVERSAL MOVIES 1
-http://ginafelea.ddns.net:8008/live/STAVARACHE_FLO/azxzn54fggty/491783.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x1mZV6vQ/universal-movies.png" group-title="⚜️ROMANIA TV⚜️",UNIVERSAL MOVIES 2
-http://ginafelea.ddns.net:8008/live/STAVARACHE_FLO/azxzn54fggty/491782.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5tn1Wr6d/images-1-removebg-preview.png" group-title="⚜️ROMANIA TV⚜️",ZOKKO ACTION 3
 http://ginafelea.ddns.net:8008/live/STAVARACHE_FLO/azxzn54fggty/498637.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5tn1Wr6d/images-1-removebg-preview.png" group-title="⚜️ROMANIA TV⚜️",ZOKKO ACTION 4
@@ -1192,7 +1026,5 @@ http://ginafelea.ddns.net:8008/live/STAVARACHE_FLO/azxzn54fggty/296307.m3u8
 http://ginafelea.ddns.net:8008/live/STAVARACHE_FLO/azxzn54fggty/296306.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1Xsq73b1/rrr.png" group-title="⚜️ROMANIA TV⚜️",▶️FLY AVENTURA ᶠᴴᴰ
 http://ginafelea.ddns.net:8008/live/STAVARACHE_FLO/azxzn54fggty/296305.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⚜️ROMANIA TV⚜️",GALA RXF
-http://ginafelea.ddns.net:8008/live/STAVARACHE_FLO/azxzn54fggty/554858.m3u8
 
-# Total: 592
+# Total: 508

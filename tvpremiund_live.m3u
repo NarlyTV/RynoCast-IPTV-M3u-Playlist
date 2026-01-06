@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: tvpremiund.ddns.me:2082
-# Generated: 2026-01-06 07:13:06
+# Generated: 2026-01-06 18:38:07
 # Expires: 2026-01-13
 # Family Safe Edition
 # ==============================================
@@ -679,7 +679,7 @@ http://tvpremiund.ddns.me:2082/live/56992169723wsp3zero/12062023zero/82339.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A0BBS4z.png" group-title="CENTRO AMERICA",Telesistema
 http://tvpremiund.ddns.me:2082/live/56992169723wsp3zero/12062023zero/72550.m3u8
 
-# --- CHILE (44) ---
+# --- CHILE (45) ---
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Hkb12bwr/Mega-2020.png" group-title="CHILE",MEGA
 http://tvpremiund.ddns.me:2082/live/56992169723wsp3zero/12062023zero/2355.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Hkb12bwr/Mega-2020.png" group-title="CHILE",MEGA HD
@@ -738,6 +738,8 @@ http://tvpremiund.ddns.me:2082/live/56992169723wsp3zero/12062023zero/45941.m3u8
 http://tvpremiund.ddns.me:2082/live/56992169723wsp3zero/12062023zero/2359.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c1zd0nzH/TVN.png" group-title="CHILE",TVN FHD 2
 http://tvpremiund.ddns.me:2082/live/56992169723wsp3zero/12062023zero/2358.m3u8
+#EXTINF:-1 tvg-logo="https://tvdaldia.cl/guia-tv/imgs/logos/24horas.png" group-title="CHILE",TVN 24 Horas
+http://tvpremiund.ddns.me:2082/live/56992169723wsp3zero/12062023zero/130479.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/2ba64b67051e159ff48060da1a687fd0.png" group-title="CHILE",TVN 3
 http://tvpremiund.ddns.me:2082/live/56992169723wsp3zero/12062023zero/57192.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/TV-Chile-en-vivo-Online-1.png" group-title="CHILE",TV Chile
@@ -16677,4 +16679,4 @@ http://tvpremiund.ddns.me:2082/live/56992169723wsp3zero/12062023zero/54866.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/520_Venevision.png" group-title="VENEZUELA",Venevision
 http://tvpremiund.ddns.me:2082/live/56992169723wsp3zero/12062023zero/2429.m3u8
 
-# Total: 8303
+# Total: 8304
