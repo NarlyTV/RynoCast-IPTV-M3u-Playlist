@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: world-panel.co:8080
-# Generated: 2026-01-09 07:14:57
+# Generated: 2026-01-09 18:35:58
 # Expires: 2026-03-09
 # Family Safe Edition
 # ==============================================
@@ -1572,6 +1572,8 @@ http://world-panel.co:8080/live/PieraSalvatore1/K9vWdcuVnA/81411.m3u8
 http://world-panel.co:8080/live/PieraSalvatore1/K9vWdcuVnA/1565.m3u8
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/67dd311a111e3ad244b6d0dacf08e150.png" group-title="TIVUSAT",Motor Trend HD
 http://world-panel.co:8080/live/PieraSalvatore1/K9vWdcuVnA/802.m3u8
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/itv1.png" group-title="TIVUSAT",UK: ITV 1
+http://world-panel.co:8080/live/PieraSalvatore1/K9vWdcuVnA/65359.m3u8
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/italians.jpg" group-title="TIVUSAT",========= TIVU SPORT =========
 http://world-panel.co:8080/live/PieraSalvatore1/K9vWdcuVnA/14578.m3u8
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/italians.jpg" group-title="TIVUSAT",========= TIVU CULTURA  =========
@@ -1580,8 +1582,6 @@ http://world-panel.co:8080/live/PieraSalvatore1/K9vWdcuVnA/14581.m3u8
 http://world-panel.co:8080/live/PieraSalvatore1/K9vWdcuVnA/14579.m3u8
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/italians.jpg" group-title="TIVUSAT",========= BAMBINI =========
 http://world-panel.co:8080/live/PieraSalvatore1/K9vWdcuVnA/14580.m3u8
-#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/itv1.png" group-title="TIVUSAT",UK: ITV 1
-http://world-panel.co:8080/live/PieraSalvatore1/K9vWdcuVnA/65359.m3u8
 
 # --- TV_SPAGNA (66) ---
 #EXTINF:-1 tvg-logo="" group-title="TV_SPAGNA",==== SPAGNA ====

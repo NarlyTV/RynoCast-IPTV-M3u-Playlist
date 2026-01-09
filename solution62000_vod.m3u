@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: solution62000.mine.nu:8000
-# Generated: 2026-01-08 18:35:56
+# Generated: 2026-01-09 18:30:44
 # Expires: 2026-03-08
 # Family Safe Edition
 # ==============================================
@@ -4017,7 +4017,7 @@ http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/5879.mkv
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/RmmotqT-jZ0/mqdefault.jpg" group-title="Movies | Films Algerien",Aissa Story
 http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/5921.mkv
 
-# --- Movies | Films Arabe (80) ---
+# --- Movies | Films Arabe (81) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zMMXNX6GPhDSuegsJRYIBrAUSdn.jpg" group-title="Movies | Films Arabe",Maaly Mama - 2022
 http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/1451.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2An6vEAdQKmMDf6aae8YV1QZnOe.jpg" group-title="Movies | Films Arabe",Al Rajul Rabaa - 2022
@@ -4038,6 +4038,8 @@ http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/10269.mkv
 http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/1534.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/exVFIuYWYyLKXxYHylyVbYJVYnf.jpg" group-title="Movies | Films Arabe",Shahid Al Wahid - 2021
 http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/1536.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8LjhxTjblaE17VQSbKwNNvhXYc.jpg" group-title="Movies | Films Arabe",Al Sada Al Afadel. (2025)
+http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/21847.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/eU1iuYCeba88kNYv9KxOFqBE3io.jpg" group-title="Movies | Films Arabe",Kidnapping maison (2025)
 http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/21677.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wVMDUQo1ReToP57gLyLFR6xqGOF.jpg" group-title="Movies | Films Arabe",Daye (Seerat Ahl El Daye)  (2025)
@@ -4809,7 +4811,7 @@ http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/691.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | MARVEL STUDIOS",Ironheart
 http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/773.mp4
 
-# --- Movies | NETFLIX (430) ---
+# --- Movies | NETFLIX (431) ---
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jvgg5Q5PXJ2IVpMRrm3QZsS08pB.jpg" group-title="Movies | NETFLIX",Goodbye June (2025)
 http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/21641.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dkqhodrNPdwI25kNW8SmANQI7Wv.jpg" group-title="Movies | NETFLIX",Thérapie de choc (2025)
@@ -5670,6 +5672,8 @@ http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/939.mp4
 http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/953.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX",Les Survivants
 http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/954.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX",HIS & HERS
+http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/963.mp4
 
 # --- Movies | RAMADAN 2025 (32) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | RAMADAN 2025",المداح
@@ -5907,7 +5911,7 @@ http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/1803.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6HWjDWStk86YJr8ooYFQe4nVhF8.jpg" group-title="Movies | SPECTACLE",Yacine Belhousse : 2021 (2022)
 http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/1439.mkv
 
-# --- Movies | prime video (167) ---
+# --- Movies | prime video (168) ---
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/s8rCTOHsyM9vylRtpuQocVNQ5wO.jpg" group-title="Movies | prime video",The Tank (2025)
 http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/21712.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ctU9S47MoJDN9CB7SCaitcfyyIu.jpg" group-title="Movies | prime video",Trap House (2025)
@@ -6242,6 +6246,8 @@ http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/886.mp4
 http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/892.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | prime video",LOL : In Real Life
 http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/959.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | prime video",Beast Games
+http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/962.mp4
 
 # --- Series | Series Algerienne (17) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Algerienne",أولاد الحلال
@@ -7203,4 +7209,4 @@ http://solution62000.mine.nu:8000/series/Bendria_kouider/07032025/957
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Il était deux fois
 http://solution62000.mine.nu:8000/series/Bendria_kouider/07032025/960
 
-# Total: 3569
+# Total: 3572

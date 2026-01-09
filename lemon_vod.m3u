@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: lemon.catchmeifyo.com:8000
-# Generated: 2026-01-09 07:07:21
+# Generated: 2026-01-09 18:37:59
 # Expires: 2026-04-05
 # Family Safe Edition
 # ==============================================
@@ -17959,7 +17959,7 @@ http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/189678.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yutiEZ7taGDNau2jGjKIdDwQpDw.jpg" group-title="Movies | Nieuwe Releases 2024",Thelma De Eenhoorn (2024) NL Gesproken
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/190125.mkv
 
-# --- Movies | Nieuwe Releases 2025 (419) ---
+# --- Movies | Nieuwe Releases 2025 (421) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hHcG8FPk9yILRVPnHEcrwtrkAAN.jpg" group-title="Movies | Nieuwe Releases 2025",2025-01-05 22:25 - NFL Gamepass 16: Dolphins @ Jets
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/119331.avi
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ldEVs1GQiYLGXZEwa93tb5t3gsD.jpg" group-title="Movies | Nieuwe Releases 2025",2025-01-05 22:25 - NFL Gamepass 17: Chiefs @ Broncos
@@ -18798,6 +18798,10 @@ http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/196384.mkv
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/196390.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vUwyhNWBKkSwK8ELvEeBRwV724h.jpg" group-title="Movies | Nieuwe Releases 2025",I Swear (2025)
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/196396.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rM3NLZgjs7vVWX3htMAWfwHypO8.jpg" group-title="Movies | Nieuwe Releases 2025",Evil Influencer: The Jodi Hildebrandt Story (2025)
+http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/196400.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/65Jr1JAgWlu9em8zHhAfrNJJQBt.jpg" group-title="Movies | Nieuwe Releases 2025",Der tiger (2025)
+http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/196401.mkv
 
 # --- Movies | Oorlog / War (59) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LlqyjAik3Kh68QQ9AchSJEF0Z5.jpg" group-title="Movies | Oorlog / War",Jarhead: Law of Return
@@ -21169,7 +21173,7 @@ http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/77701.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/by6iZd4FxSTLCtnyCjyKYao57Ar.jpg" group-title="Movies | WWE PPV's",WWE WrestleMania Backlash (2021)
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/77702.mkv
 
-# --- Series | INTERNATIONALE SERIES (410) ---
+# --- Series | INTERNATIONALE SERIES (411) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | INTERNATIONALE SERIES",Tytgat Chocolat
 http://lemon.catchmeifyo.com:8000/series/4914756410/8072556864/17
 #EXTINF:-1 tvg-logo="" group-title="Series | INTERNATIONALE SERIES",Eigen Kweek
@@ -21990,6 +21994,8 @@ http://lemon.catchmeifyo.com:8000/series/4914756410/8072556864/3584
 http://lemon.catchmeifyo.com:8000/series/4914756410/8072556864/3586
 #EXTINF:-1 tvg-logo="" group-title="Series | INTERNATIONALE SERIES",The Copenhagen Test
 http://lemon.catchmeifyo.com:8000/series/4914756410/8072556864/3591
+#EXTINF:-1 tvg-logo="" group-title="Series | INTERNATIONALE SERIES",HIS & HERS
+http://lemon.catchmeifyo.com:8000/series/4914756410/8072556864/3598
 
 # --- Series | NL GESPROKEN KINDERSERIES (21) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | NL GESPROKEN KINDERSERIES",Pieter Konijn
@@ -22165,4 +22171,4 @@ http://lemon.catchmeifyo.com:8000/series/4914756410/8072556864/2750
 #EXTINF:-1 tvg-logo="" group-title="Series | NL GESPROKEN SERIES",The Hunt (Een van Ons)
 http://lemon.catchmeifyo.com:8000/series/4914756410/8072556864/2751
 
-# Total: 11027
+# Total: 11030

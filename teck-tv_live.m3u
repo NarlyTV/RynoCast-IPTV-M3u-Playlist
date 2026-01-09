@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: teck-tv.com
-# Generated: 2026-01-09 07:08:10
+# Generated: 2026-01-09 18:41:23
 # Expires: 2026-07-14
 # Family Safe Edition
 # ==============================================
@@ -4523,11 +4523,13 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/1119286.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/CANADA/tsn.png" group-title="AM | CA | TSN+ & SN+",CA - TSN+ 100 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/1119287.m3u8
 
-# --- AM | CARIBBIEAN (319) ---
+# --- AM | CARIBBIEAN (320) ---
 #EXTINF:-1 tvg-logo=" https://go4.pw/AMERICA/CARIBBIEAN/CARIBBEAN.png" group-title="AM | CARIBBIEAN",##### CARIBBEAN #####
 http://teck-tv.com/live/2605201443100597/C655BF416768/73567.m3u8
 #EXTINF:-1 tvg-logo=" https://go4.pw/AMERICA/CARIBBIEAN/CARIBBEAN.png" group-title="AM | CARIBBIEAN",#### CAR - GENERAL ####
 http://teck-tv.com/live/2605201443100597/C655BF416768/1185415.m3u8
+#EXTINF:-1 tvg-logo="" group-title="AM | CARIBBIEAN",CAR - FESTIVAL DI TUMBA FHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1366213.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/CARIBBIEAN/caribbeantv.png" group-title="AM | CARIBBIEAN",CAR - ONE CARIBBEAN TELEVISION
 http://teck-tv.com/live/2605201443100597/C655BF416768/1254747.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/CARIBBIEAN/TELEMICRO-INTERNACIONA.png" group-title="AM | CARIBBIEAN",CAR - TELEMICRO INTERNACIONAL UHD
@@ -5168,27 +5170,27 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/427704.m3u8
 http://teck-tv.com/live/2605201443100597/C655BF416768/1308977.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/USA/nhl.png" group-title="AM | CA | NHL PPV",CA - NHL NETWORK HD
 http://teck-tv.com/live/2605201443100597/C655BF416768/1308981.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/nhl.png" group-title="AM | CA | NHL PPV",CA - NHL GAME 01 : FLAMES @ BRUINS JAN 08 – 7:00 PM ET / 12:00 AM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/nhl.png" group-title="AM | CA | NHL PPV",CA - NHL GAME 01 : CAPITALS @ BLACKHAWKS JAN 9 – 8:00 PM ET / 1:00 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1308982.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/nhl.png" group-title="AM | CA | NHL PPV",CA - NHL GAME 02 : PANTHERS @ CANADIENS JAN 08 – 7:00 PM ET / 12:00 AM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/nhl.png" group-title="AM | CA | NHL PPV",CA - NHL GAME 02 : KINGS @ JETS JAN 9 – 8:00 PM ET / 1:00 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1308983.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/nhl.png" group-title="AM | CA | NHL PPV",CA - NHL GAME 03 : CANUCKS @ RED WINGS JAN 08 – 7:00 PM ET / 12:00 AM UK
-http://teck-tv.com/live/2605201443100597/C655BF416768/1308984.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/nhl.png" group-title="AM | CA | NHL PPV",CA - NHL GAME 04 : SABRES @ RANGERS JAN 08 – 7:00 PM ET / 12:00 AM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/nhl.png" group-title="AM | CA | NHL PPV",CA - NHL GAME 04 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/1308985.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/nhl.png" group-title="AM | CA | NHL PPV",CA - NHL GAME 05 : MAPLE LEAFS @ FLYERS JAN 08 – 7:00 PM ET / 12:00 AM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/nhl.png" group-title="AM | CA | NHL PPV",CA - NHL GAME 05 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/1308986.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/nhl.png" group-title="AM | CA | NHL PPV",CA - NHL GAME 06 : DEVILS @ PENGUINS JAN 08 – 7:00 PM ET / 12:00 AM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/nhl.png" group-title="AM | CA | NHL PPV",CA - NHL GAME 06 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/1308987.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/nhl.png" group-title="AM | CA | NHL PPV",CA - NHL GAME 07 : DUCKS @ HURRICANES JAN 08 – 7:00 PM ET / 12:00 AM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/nhl.png" group-title="AM | CA | NHL PPV",CA - NHL GAME 07 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/1308988.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/nhl.png" group-title="AM | CA | NHL PPV",CA - NHL GAME 08 : ISLANDERS @ PREDATORS JAN 08 – 8:00 PM ET / 1:00 AM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/nhl.png" group-title="AM | CA | NHL PPV",CA - NHL GAME 08 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/1308989.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/nhl.png" group-title="AM | CA | NHL PPV",CA - NHL GAME 09 : OILERS @ JETS JAN 08 – 8:00 PM ET / 1:00 AM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/nhl.png" group-title="AM | CA | NHL PPV",CA - NHL GAME 09 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/1308990.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/nhl.png" group-title="AM | CA | NHL PPV",CA - NHL GAME 10 : SENATORS @ AVALANCHE JAN 08 – 9:00 PM ET / 2:00 AM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/nhl.png" group-title="AM | CA | NHL PPV",CA - NHL GAME 10 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/1308991.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/nhl.png" group-title="AM | CA | NHL PPV",CA - NHL GAME 12 : WILD @ KRAKEN JAN 08 – 10:00 PM ET / 3:00 AM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/nhl.png" group-title="AM | CA | NHL PPV",CA - NHL GAME 11 :
+http://teck-tv.com/live/2605201443100597/C655BF416768/1308992.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/nhl.png" group-title="AM | CA | NHL PPV",CA - NHL GAME 12 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/1308993.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/USA/nhl.png" group-title="AM | CA | NHL PPV",CA - NHL GAME 13 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/1308994.m3u8
@@ -13262,13 +13264,13 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/1085328.m3u8
 # --- AM | USA | LIVE EVENT (26) ---
 #EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/USA.png" group-title="AM | USA | LIVE EVENT",##### LIVE EVENTS #####
 http://teck-tv.com/live/2605201443100597/C655BF416768/1248327.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ppvl.png" group-title="AM | USA | LIVE EVENT",US - LIVE EVENT 01 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ppvl.png" group-title="AM | USA | LIVE EVENT",US - LIVE EVENT 01 : ACA 198 JAN 9 – 12:00 PM ET / 5:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1248328.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ppvl.png" group-title="AM | USA | LIVE EVENT",US - LIVE EVENT 02 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ppvl.png" group-title="AM | USA | LIVE EVENT",US - LIVE EVENT 02 : WWE SMACKDOWN JAN 9 – 2:00 PM ET / 7:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1248329.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ppvl.png" group-title="AM | USA | LIVE EVENT",US - LIVE EVENT 03 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ppvl.png" group-title="AM | USA | LIVE EVENT",US - LIVE EVENT 03 : BKB BILOXI JAN 9 – 7:00 PM ET / 12:00 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1248330.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/ppvl.png" group-title="AM | USA | LIVE EVENT",US - LIVE EVENT 04 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/ppvl.png" group-title="AM | USA | LIVE EVENT",US - LIVE EVENT 04 : 559 FIGHTS 120 JAN 9 – 9:00 PM ET / 2:00 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/1248331.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/USA/ppvl.png" group-title="AM | USA | LIVE EVENT",US - LIVE EVENT 05 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/1248332.m3u8
@@ -14918,27 +14920,27 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/578370.m3u8
 http://teck-tv.com/live/2605201443100597/C655BF416768/145535.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/USA/nhl.png" group-title="AM | USA | NHL",US - NHL NETWORK HD
 http://teck-tv.com/live/2605201443100597/C655BF416768/71912.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/nhl.png" group-title="AM | USA | NHL",US - NHL GAME 01 : FLAMES @ BRUINS JAN 08 – 7:00 PM ET / 12:00 AM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/nhl.png" group-title="AM | USA | NHL",US - NHL GAME 01 : CAPITALS @ BLACKHAWKS JAN 9 – 8:00 PM ET / 1:00 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/232815.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/nhl.png" group-title="AM | USA | NHL",US - NHL GAME 02 : PANTHERS @ CANADIENS JAN 08 – 7:00 PM ET / 12:00 AM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/nhl.png" group-title="AM | USA | NHL",US - NHL GAME 02 : KINGS @ JETS JAN 9 – 8:00 PM ET / 1:00 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/232816.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/nhl.png" group-title="AM | USA | NHL",US - NHL GAME 03 : CANUCKS @ RED WINGS JAN 08 – 7:00 PM ET / 12:00 AM UK
-http://teck-tv.com/live/2605201443100597/C655BF416768/232817.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/nhl.png" group-title="AM | USA | NHL",US - NHL GAME 04 : SABRES @ RANGERS JAN 08 – 7:00 PM ET / 12:00 AM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/nhl.png" group-title="AM | USA | NHL",US - NHL GAME 04 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/232818.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/USA/nhl.png" group-title="AM | USA | NHL",US - NHL GAME 05 : MAPLE LEAFS @ FLYERS JAN 08 – 7:00 PM ET / 12:00 AM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/430814.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/nhl.png" group-title="AM | USA | NHL",US - NHL GAME 06 : DEVILS @ PENGUINS JAN 08 – 7:00 PM ET / 12:00 AM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/nhl.png" group-title="AM | USA | NHL",US - NHL GAME 06 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/232820.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/nhl.png" group-title="AM | USA | NHL",US - NHL GAME 07 : DUCKS @ HURRICANES JAN 08 – 7:00 PM ET / 12:00 AM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/nhl.png" group-title="AM | USA | NHL",US - NHL GAME 07 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/232821.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/nhl.png" group-title="AM | USA | NHL",US - NHL GAME 08 : ISLANDERS @ PREDATORS JAN 08 – 8:00 PM ET / 1:00 AM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/nhl.png" group-title="AM | USA | NHL",US - NHL GAME 08 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/232822.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/nhl.png" group-title="AM | USA | NHL",US - NHL GAME 09 : OILERS @ JETS JAN 08 – 8:00 PM ET / 1:00 AM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/nhl.png" group-title="AM | USA | NHL",US - NHL GAME 09 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/232823.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/nhl.png" group-title="AM | USA | NHL",US - NHL GAME 10 : SENATORS @ AVALANCHE JAN 08 – 9:00 PM ET / 2:00 AM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/nhl.png" group-title="AM | USA | NHL",US - NHL GAME 10 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/232824.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/NHLNETWORK.png" group-title="AM | USA | NHL",US - NHL GAME 12 : WILD @ KRAKEN JAN 08 – 10:00 PM ET / 3:00 AM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/nhl.png" group-title="AM | USA | NHL",US - NHL GAME 11 :
+http://teck-tv.com/live/2605201443100597/C655BF416768/233314.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/NHLNETWORK.png" group-title="AM | USA | NHL",US - NHL GAME 12 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/235532.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/USA/nhl.png" group-title="AM | USA | NHL",US - NHL GAME 13 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/235533.m3u8
@@ -28118,9 +28120,9 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/1024113.m3u8
 # --- VIP | SERIE A (27) ---
 #EXTINF:-1 tvg-logo="https://go4.pw/MAGFLAGS/ITALY.png" group-title="VIP | SERIE A",##### ITALY #####
 http://teck-tv.com/live/2605201443100597/C655BF416768/1018093.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",IT - CREMONESE VS CAGLIARI 18:30 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",IT - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/1100791.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",IT - MILAN VS GENOA 20:45 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",IT - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/1100790.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",IT - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/1033757.m3u8
@@ -28138,9 +28140,9 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/1018102.m3u8
 http://teck-tv.com/live/2605201443100597/C655BF416768/1018103.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/UK.png" group-title="VIP | SERIE A",##### ENGLISH #####
 http://teck-tv.com/live/2605201443100597/C655BF416768/1001778.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",EN - CREMONESE VS CAGLIARI 18:30 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",EN - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/1100792.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",EN - MILAN VS GENOA 20:45 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",EN - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/1028898.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",EN - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/1028731.m3u8
@@ -28158,9 +28160,9 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/1018094.m3u8
 http://teck-tv.com/live/2605201443100597/C655BF416768/1018095.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ASIA/SAUDI/SAUDI.png" group-title="VIP | SERIE A",##### ARABIC #####
 http://teck-tv.com/live/2605201443100597/C655BF416768/1001752.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",AR - CREMONESE VS CAGLIARI 18:30 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",AR - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/1018113.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",AR - MILAN VS GENOA 20:45 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",AR - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/1018112.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",AR - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/1018111.m3u8
@@ -28447,4 +28449,4 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/363875.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/champ/europaleague.png" group-title="VIP | UEFA EUROPA LEAGUE",ES - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/682940.m3u8
 
-# Total: 14056
+# Total: 14057
