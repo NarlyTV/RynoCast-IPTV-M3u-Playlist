@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: squid.game-tv.org:8080
-# Generated: 2026-01-12 18:37:20
+# Generated: 2026-01-13 07:12:41
 # Expires: 2026-01-17
 # Family Safe Edition
 # ==============================================
@@ -15093,7 +15093,9 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/31665.mp
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/dhHpbBemuyEBgcYGrmm7bHpjgdO.jpg" group-title="Movies | Filme SCI-FI (NOU)",Battle Drone  (2018)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/9682.mp4
 
-# --- Movies | Filme Thriller (205) ---
+# --- Movies | Filme Thriller (206) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mEWKXuCMv7mFMxXVSTI3v8UOQuq.jpg" group-title="Movies | Filme Thriller",2010 - 1984
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/66999.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vY5j2xQzMGWmxBuhQo0HfA4Lxqb.jpg" group-title="Movies | Filme Thriller",The Place Beyond the Pines - 2013
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/66083.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cVUDMnskSc01rdbyH0tLATTJUdP.jpg" group-title="Movies | Filme Thriller",The Lives of Others - 2006
@@ -16769,6 +16771,10 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/858.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Heartbreak High",Heartbreak High
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/591.mp4
 
+# --- Movies | Heirs of the Night (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | Heirs of the Night",Heirs of the Night (2019)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1155.mp4
+
 # --- Movies | Heirs to the Land (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Heirs to the Land",Heirs to the Land (2022)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/703.mp4
@@ -18134,6 +18140,10 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/619.mp4
 # --- Movies | Sanditon (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Sanditon",Sanditon
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/825.mp4
+
+# --- Movies | Sandokan (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | Sandokan",Sandokan (2025)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1156.mp4
 
 # --- Movies | Sariti de pe Fix (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Sariti de pe Fix",Sariti de pe Fix
@@ -19741,4 +19751,4 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/383.mp4
 #EXTINF:-1 tvg-logo="" group-title="Series | A Series of Unfortunate Events",A Series of Unfortunate Events
 http://squid.game-tv.org:8080/series/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/276
 
-# Total: 8681
+# Total: 8684

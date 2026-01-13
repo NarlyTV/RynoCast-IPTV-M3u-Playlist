@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: fastream.xyz:8080
-# Generated: 2026-01-12 18:40:35
+# Generated: 2026-01-13 07:06:34
 # Expires: 2026-10-20
 # Family Safe Edition
 # ==============================================
@@ -10559,7 +10559,7 @@ http://fastream.xyz:8080/live/940246862tv/12ws79/239422.m3u8
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e8/16/ee/e816ee95-b41b-f18d-5142-43340bc6436f/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/1200x630wa.png" group-title="→ ENTRETENIMIENTO ←",ENT| Tigo
 http://fastream.xyz:8080/live/940246862tv/12ws79/267922.m3u8
 
-# --- → ESPAÑA DAZN ← (30) ---
+# --- → ESPAÑA DAZN ← (35) ---
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" group-title="→ ESPAÑA DAZN ←",DAZN LALIGA  FHD
 http://fastream.xyz:8080/live/940246862tv/12ws79/60244.m3u8
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" group-title="→ ESPAÑA DAZN ←",DAZN LALIGA SD
@@ -10620,6 +10620,16 @@ http://fastream.xyz:8080/live/940246862tv/12ws79/12364.m3u8
 http://fastream.xyz:8080/live/940246862tv/12ws79/12363.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-6yQx-SeRO77SL9O0aeLuPJlERxrr_LGhv7RHY63-VKmoQ1akSjZwDXyV2pT-G3NruRk&usqp=CAU" group-title="→ ESPAÑA DAZN ←",DAZN ACB
 http://fastream.xyz:8080/live/940246862tv/12ws79/278317.m3u8
+#EXTINF:-1 tvg-logo="https://basketworld.com/blog/wp-content/uploads/2020/06/liga-endesa-2020.jpg" group-title="→ ESPAÑA DAZN ←",LIGA ENDESA 1
+http://fastream.xyz:8080/live/940246862tv/12ws79/279299.m3u8
+#EXTINF:-1 tvg-logo="https://basketworld.com/blog/wp-content/uploads/2020/06/liga-endesa-2020.jpg" group-title="→ ESPAÑA DAZN ←",LIGA ENDESA 2
+http://fastream.xyz:8080/live/940246862tv/12ws79/279300.m3u8
+#EXTINF:-1 tvg-logo="https://basketworld.com/blog/wp-content/uploads/2020/06/liga-endesa-2020.jpg" group-title="→ ESPAÑA DAZN ←",LIGA ENDESA 3
+http://fastream.xyz:8080/live/940246862tv/12ws79/279301.m3u8
+#EXTINF:-1 tvg-logo="https://basketworld.com/blog/wp-content/uploads/2020/06/liga-endesa-2020.jpg" group-title="→ ESPAÑA DAZN ←",LIGA ENDESA 4
+http://fastream.xyz:8080/live/940246862tv/12ws79/279302.m3u8
+#EXTINF:-1 tvg-logo="https://basketworld.com/blog/wp-content/uploads/2020/06/liga-endesa-2020.jpg" group-title="→ ESPAÑA DAZN ←",LIGA ENDESA 5
+http://fastream.xyz:8080/live/940246862tv/12ws79/279303.m3u8
 
 # --- → ESPAÑA DEPORTES ← (65) ---
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VD98408/descarga.png" group-title="→ ESPAÑA DEPORTES ←",ED• M+ VAMOS (HD) »1«
@@ -18471,4 +18481,4 @@ http://fastream.xyz:8080/live/940246862tv/12ws79/56873.m3u8
 #EXTINF:-1 tvg-logo="https://www.comunidad-ola.com/portal/images/Logosempresas/tigo_sports_logo_2.jpg" group-title="→ ZAPPING CHILE ←",ZCL• TIGO SPORTS (HD)
 http://fastream.xyz:8080/live/940246862tv/12ws79/253657.m3u8
 
-# Total: 9110
+# Total: 9115

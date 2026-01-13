@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: nisay.xyz:8080
-# Generated: 2026-01-12 18:39:40
+# Generated: 2026-01-13 07:05:11
 # Expires: 2026-10-04
 # Family Safe Edition
 # ==============================================
@@ -17311,7 +17311,13 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/138221.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tbA3OJWaIL8PKp1IX9ETcZo5trv.jpg" group-title="Movies | SERI FILMLER",Muzede Bir Gece 2006
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/138220.mkv
 
-# --- Movies | SON EKLENEN 300 FILM (326) ---
+# --- Movies | SON EKLENEN 300 FILM (329) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6z0fM39EC7xrETMoN0s4HYbZDpT.jpg" group-title="Movies | SON EKLENEN 300 FILM",Siccîn 8 (2025)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/160070.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2ZqZ1olQyizSwwPTpYlTRH2Vguv.jpg" group-title="Movies | SON EKLENEN 300 FILM",Freddy'nin Pizza Dükkanında Beş Gece 2 (2025)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/160066.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Th6b9F0n2h1qqJXV7P4QkfdwYl.jpg" group-title="Movies | SON EKLENEN 300 FILM",Elinden Gelenin En İyisi (2025)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/160067.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qMdftf1ri9Vum5f6yUKintwfNrV.jpg" group-title="Movies | SON EKLENEN 300 FILM",Sınır Avcıları (2025)
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/159988.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oxgsAQDAAxA92mFGYCZllgWkH9J.jpg" group-title="Movies | SON EKLENEN 300 FILM",Bugonia (2025)
@@ -18277,7 +18283,9 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1743.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TURK DIZILERI",Rüya Gibi
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1812.mp4
 
-# --- Movies | TURKCE ALTYAZI FILMLER (505) ---
+# --- Movies | TURKCE ALTYAZI FILMLER (506) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xdvMX5L7bdonl2geaXL3laTCSr2.jpg" group-title="Movies | TURKCE ALTYAZI FILMLER",Zootropolis 2 (2025) TRAltyazi
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/160071.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vxx3YItVn0JOXnh7tQw8WPB0T62.jpg" group-title="Movies | TURKCE ALTYAZI FILMLER",Yalnız Kurtlar (2024)
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/160063.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cNJLuyHnli2kEDoI7i5THArU2cB.jpg" group-title="Movies | TURKCE ALTYAZI FILMLER",Fierce Town  (2025) TRAltyazi
@@ -20057,4 +20065,4 @@ http://nisay.xyz:8080/series/atillaerdoganDE/sa95x6VSFx/1503
 #EXTINF:-1 tvg-logo="" group-title="Series | TR ALTYAZI SERIES",Pluribus
 http://nisay.xyz:8080/series/atillaerdoganDE/sa95x6VSFx/1803
 
-# Total: 9961
+# Total: 9965

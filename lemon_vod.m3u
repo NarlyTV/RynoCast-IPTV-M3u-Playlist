@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: lemon.catchmeifyo.com:8000
-# Generated: 2026-01-12 18:42:53
+# Generated: 2026-01-13 07:05:53
 # Expires: 2026-04-05
 # Family Safe Edition
 # ==============================================
@@ -10744,7 +10744,7 @@ http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/168681.mkv
 # --- Movies | MXGP Races (2) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | MXGP Races",MXGP
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/1783.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | MXGP Races",AMA Supercross
+#EXTINF:-1 tvg-logo="" group-title="Movies | MXGP Races",Monster Energy AMA Supercross
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/2230.mp4
 
 # --- Movies | Marvel Films (32) ---
@@ -12193,7 +12193,7 @@ http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/138978.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cs8sKGIFzEZcIPLMHGmMkQeKh5D.jpg" group-title="Movies | NL GESPROKEN KINDERFILMS",Plop in de Wolken (2000)
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/138979.mkv
 
-# --- Movies | NLZIET (114) ---
+# --- Movies | NLZIET (117) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | NLZIET",Penoza
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/14.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NLZIET",Nieuwe Buren
@@ -12322,6 +12322,8 @@ http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/2424.mp4
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/2440.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NLZIET",Secret Duets
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/2456.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | NLZIET",Anoniem
+http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/2485.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NLZIET",Zeeman Confronteert: Stalkers
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/2498.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NLZIET",Klusklauwen (2023)
@@ -12422,8 +12424,12 @@ http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/3579.mp4
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/3589.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NLZIET",The Masked Singer
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/3592.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | NLZIET",Oh Oh Den Haag
+http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/3601.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | NLZIET",Toppers In Concert
+http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/3602.mp4
 
-# --- Movies | NPO Start (148) ---
+# --- Movies | NPO Start (147) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | NPO Start",B.A.B.S.
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/8.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NPO Start",KLEM
@@ -12650,8 +12656,6 @@ http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/2474.mp4
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/2475.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NPO Start",Harley and the Davidsons
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/2476.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | NPO Start",Anoniem
-http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/2485.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NPO Start",Het Beste Van 50 jaar Ter Land Ter Zee En In De Lucht
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/2516.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NPO Start",Stadsmormels
@@ -17963,7 +17967,7 @@ http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/189678.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yutiEZ7taGDNau2jGjKIdDwQpDw.jpg" group-title="Movies | Nieuwe Releases 2024",Thelma De Eenhoorn (2024) NL Gesproken
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/190125.mkv
 
-# --- Movies | Nieuwe Releases 2025 (426) ---
+# --- Movies | Nieuwe Releases 2025 (427) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hHcG8FPk9yILRVPnHEcrwtrkAAN.jpg" group-title="Movies | Nieuwe Releases 2025",2025-01-05 22:25 - NFL Gamepass 16: Dolphins @ Jets
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/119331.avi
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ldEVs1GQiYLGXZEwa93tb5t3gsD.jpg" group-title="Movies | Nieuwe Releases 2025",2025-01-05 22:25 - NFL Gamepass 17: Chiefs @ Broncos
@@ -18816,6 +18820,8 @@ http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/196431.mkv
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/196432.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Byv6nznAb2Izd0gHpODOXnuSbo.jpg" group-title="Movies | Nieuwe Releases 2025",Icefall (2025)
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/196436.mkv
+#EXTINF:-1 tvg-logo="" group-title="Movies | Nieuwe Releases 2025",All You Need Is Love Kerst Special 2025
+http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/196468.mkv
 
 # --- Movies | Oorlog / War (59) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LlqyjAik3Kh68QQ9AchSJEF0Z5.jpg" group-title="Movies | Oorlog / War",Jarhead: Law of Return
@@ -21187,7 +21193,7 @@ http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/77701.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/by6iZd4FxSTLCtnyCjyKYao57Ar.jpg" group-title="Movies | WWE PPV's",WWE WrestleMania Backlash (2021)
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/77702.mkv
 
-# --- Series | INTERNATIONALE SERIES (411) ---
+# --- Series | INTERNATIONALE SERIES (412) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | INTERNATIONALE SERIES",Tytgat Chocolat
 http://lemon.catchmeifyo.com:8000/series/4914756410/8072556864/17
 #EXTINF:-1 tvg-logo="" group-title="Series | INTERNATIONALE SERIES",Eigen Kweek
@@ -22010,6 +22016,8 @@ http://lemon.catchmeifyo.com:8000/series/4914756410/8072556864/3586
 http://lemon.catchmeifyo.com:8000/series/4914756410/8072556864/3591
 #EXTINF:-1 tvg-logo="" group-title="Series | INTERNATIONALE SERIES",HIS & HERS
 http://lemon.catchmeifyo.com:8000/series/4914756410/8072556864/3598
+#EXTINF:-1 tvg-logo="" group-title="Series | INTERNATIONALE SERIES",The Night Manager
+http://lemon.catchmeifyo.com:8000/series/4914756410/8072556864/3603
 
 # --- Series | NL GESPROKEN KINDERSERIES (21) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | NL GESPROKEN KINDERSERIES",Pieter Konijn
@@ -22185,4 +22193,4 @@ http://lemon.catchmeifyo.com:8000/series/4914756410/8072556864/2750
 #EXTINF:-1 tvg-logo="" group-title="Series | NL GESPROKEN SERIES",The Hunt (Een van Ons)
 http://lemon.catchmeifyo.com:8000/series/4914756410/8072556864/2751
 
-# Total: 11037
+# Total: 11041

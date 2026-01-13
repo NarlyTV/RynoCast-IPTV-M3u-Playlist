@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: predator.digital:8080
-# Generated: 2026-01-12 07:16:37
+# Generated: 2026-01-13 07:02:45
 # Expires: 2026-08-08
 # Family Safe Edition
 # ==============================================
@@ -771,7 +771,7 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/17433.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Denmark",DK: TV 2 Sport X HD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/17425.m3u8
 
-# --- Deutschland (285) ---
+# --- Deutschland (284) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/1920px-Flag_of_Germany.svg.png" group-title="Deutschland",========Deutschland ========
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/12489.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: Das Erste FHD RAW
@@ -804,8 +804,6 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/78372.m3u8
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/67314.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: Pro Sieben HD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/11767.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: Big Brother 24/7
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/81555.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: SAT 1 FHD SAT
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/67315.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: Sat 1 FHD
@@ -8811,4 +8809,4 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/13200.m3u8
 #EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: Real Madrid Tv
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/62225.m3u8
 
-# Total: 4375
+# Total: 4374

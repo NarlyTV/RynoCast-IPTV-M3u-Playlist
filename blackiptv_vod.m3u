@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: blackiptv.net:8080
-# Generated: 2026-01-12 18:40:40
+# Generated: 2026-01-13 07:01:37
 # Expires: 2026-12-21
 # Family Safe Edition
 # ==============================================
@@ -10763,7 +10763,9 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/23.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ ALL",Aska Mahkum (2025)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1618.mp4
 
-# --- Movies | TR/DIZI ~ AMAZON PRIME (61) ---
+# --- Movies | TR/DIZI ~ AMAZON PRIME (62) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ AMAZON PRIME",Spartacus: House of Ashur (2025)
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1910.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ AMAZON PRIME",11.22.63 (2016)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1878.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ AMAZON PRIME",Aşkın Gücü (2022)
@@ -12588,10 +12590,10 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/60873.mp4
 # --- Movies | TR/DIZI ~ PAZARTESI (3) ---
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/82/322/png-clipart-flag-of-turkey-national-flag-yukselen-bayrak-turk-bayra%C4%9F%C4%B1-100x150-flag-miscellaneous-flag.png" group-title="Movies | TR/DIZI ~ PAZARTESI",*****TURK DIZI*****
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/4968.mp4
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/b6QGAQBiAWXVPQvc9um8o9Q90jY.jpg" group-title="Movies | TR/DIZI ~ PAZARTESI",PAZT: Cennetin Cocuklari 16.Bölüm (YENI DIZI)
-http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/39132.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/E8tR39iX2XNZdqeDA5REFDquU6.jpg" group-title="Movies | TR/DIZI ~ PAZARTESI",PAZT: Uzak Sehir 44.Bölüm (YENI SEZON)
-http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/376.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/b6QGAQBiAWXVPQvc9um8o9Q90jY.jpg" group-title="Movies | TR/DIZI ~ PAZARTESI",PAZT: Cennetin Cocuklari 17.Bölüm (YENI DIZI)
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/39132.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/E8tR39iX2XNZdqeDA5REFDquU6.jpg" group-title="Movies | TR/DIZI ~ PAZARTESI",PAZT: Uzak Sehir 45.Bölüm (YENI SEZON)
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/376.mp4
 
 # --- Movies | TR/DIZI ~ PERSEMBE (2) ---
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/sQTx2hiwi9CmRYyt6CAV5sf8C1T.jpg" group-title="Movies | TR/DIZI ~ PERSEMBE",PER: Halef Koklerin Cagrisi 15.Bölüm (YENI DIZI)
@@ -20647,7 +20649,9 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/64411.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6bNsvD8cCDQ62ExRTXrALNk5Sl7.jpg" group-title="Movies | TR/FILM ~ YERLI 2024",Sırrını Biliyorum (2024)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/57623.mkv
 
-# --- Movies | TR/FILM ~ YERLI 2025 (39) ---
+# --- Movies | TR/FILM ~ YERLI 2025 (40) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6z0fM39EC7xrETMoN0s4HYbZDpT.jpg" group-title="Movies | TR/FILM ~ YERLI 2025",Siccîn 8 (2025)
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/65313.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5pWCpxei0x4JYi26vqS5iXFuUgF.jpg" group-title="Movies | TR/FILM ~ YERLI 2025",Sihirli Annem: Hepimiz Biriz (2025)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/64853.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i37ytdJc0YpRSTGSD4C9lfCNiTP.jpg" group-title="Movies | TR/FILM ~ YERLI 2025",Doğu Demirkol ile Kuşaklar Arası (2025)
@@ -20731,4 +20735,4 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/63372.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t8EQllq34VC5mooiJw1vVFOlM4x.jpg" group-title="Movies | TR/FILM ~ YILBASI ÖZEL",O Ses Türkiye  Yilbasi Özel 2025
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/54778.mp4
 
-# Total: 10217
+# Total: 10219

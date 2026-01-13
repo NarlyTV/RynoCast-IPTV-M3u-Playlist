@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: platinumz.xyz:8080
-# Generated: 2026-01-12 18:37:37
+# Generated: 2026-01-13 07:02:23
 # Expires: 2026-12-23
 # Family Safe Edition
 # ==============================================
@@ -8667,42 +8667,38 @@ http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/444910.m3u8
 #EXTINF:-1 tvg-logo="http://a-panel.online:80/images/54e07b7f9c6a4609d8b8178cf72d541f.png" group-title="DE ✨ MYTEAM MAGENTA",MAGENTA MYTEAM 18
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/444909.m3u8
 
-# --- DE ✨ NACHRICHTEN (18) ---
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z0UjZlp.png" group-title="DE ✨ NACHRICHTEN",N-TV FHD
+# --- DE ✨ NACHRICHTEN (16) ---
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/ntvhd.png" group-title="DE ✨ NACHRICHTEN",N-TV FHD
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/859.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/v9DZxym.png" group-title="DE ✨ NACHRICHTEN",N-TV HD
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/ntvhd.png" group-title="DE ✨ NACHRICHTEN",N-TV HD
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/860.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SO6iI4I.png" group-title="DE ✨ NACHRICHTEN",WELT FHD
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/WELT.png" group-title="DE ✨ NACHRICHTEN",WELT FHD
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/861.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yu5w8tV.png" group-title="DE ✨ NACHRICHTEN",WELT HD
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/WELT.png" group-title="DE ✨ NACHRICHTEN",WELT HD
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/862.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/ktv.png" group-title="DE ✨ NACHRICHTEN",K-TV FHD
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/863.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/ktv.png" group-title="DE ✨ NACHRICHTEN",K-TV HD
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/864.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dtBLfQS.png" group-title="DE ✨ NACHRICHTEN",EURONEWS DEUTSCH FHD
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/euronews.png" group-title="DE ✨ NACHRICHTEN",EURONEWS DEUTSCH HD
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/872.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UF9f4zr.png" group-title="DE ✨ NACHRICHTEN",EURONEWS DEUTSCH HD
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/euronews.png" group-title="DE ✨ NACHRICHTEN",EURONEWS DEUTSCH
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/871.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/dw-de.png" group-title="DE ✨ NACHRICHTEN",DW DEUTSCH FHD
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/597491.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/dw-de.png" group-title="DE ✨ NACHRICHTEN",DW DEUTSCH HD
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/944.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NFCDsRW.png" group-title="DE ✨ NACHRICHTEN",TAGESSCHAU 24 HD
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/tagesschau24hd.png" group-title="DE ✨ NACHRICHTEN",TAGESSCHAU 24 HD
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/868.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NFCDsRW.png" group-title="DE ✨ NACHRICHTEN",TAGESSCHAU 24
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/tagesschau24hd.png" group-title="DE ✨ NACHRICHTEN",TAGESSCHAU 24
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/867.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/n4Ynv5x.png" group-title="DE ✨ NACHRICHTEN",PHOENIX HD
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/GERMANY/phoenix.png" group-title="DE ✨ NACHRICHTEN",PHOENIX FHD
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/865.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/n4Ynv5x.png" group-title="DE ✨ NACHRICHTEN",PHOENIX
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/GERMANY/phoenix.png" group-title="DE ✨ NACHRICHTEN",PHOENIX HD
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/866.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oQs1PR2.png" group-title="DE ✨ NACHRICHTEN",BILD TV FHD
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/855.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YuIun4t.png" group-title="DE ✨ NACHRICHTEN",BILD TV HD
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/856.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/800px-Russia-today-logo.svg.png" group-title="DE ✨ NACHRICHTEN",RT DEUTSCH NEWS FHD
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/RT..png" group-title="DE ✨ NACHRICHTEN",RT DEUTSCH NEWS FHD
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/857.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/800px-Russia-today-logo.svg.png" group-title="DE ✨ NACHRICHTEN",RT DEUTSCH NEWS HD
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/RT..png" group-title="DE ✨ NACHRICHTEN",RT DEUTSCH NEWS HD
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/858.m3u8
 
 # --- DE ✨ QHD-2K (16) ---
@@ -26395,4 +26391,4 @@ http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/809948.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/ArenaSport_6.png" group-title="VIP ✨ SPORTS EX-YU",BH⚜️ ARENA SPORT 6
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/809947.m3u8
 
-# Total: 12939
+# Total: 12937
