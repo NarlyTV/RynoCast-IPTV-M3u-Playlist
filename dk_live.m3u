@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: dk.2665.ninja:8080
-# Generated: 2026-01-15 07:08:02
+# Generated: 2026-01-16 07:19:45
 # Expires: 2026-02-28
 # Family Safe Edition
 # ==============================================
@@ -2253,7 +2253,7 @@ http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/597908.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/24-7Kino.png" group-title="DE KINO - SERIEN 24 - 7",DE: DRAGONBALL Z 24 - 7 HD
 http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/597907.m3u8
 
-# --- DE MAGENTA TV (218) ---
+# --- DE MAGENTA TV (220) ---
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/flag/ger.png" group-title="DE MAGENTA TV",DE: ----- MAGENTA TV -----
 http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/633476.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/das_erste.png" group-title="DE MAGENTA TV",DE: |MAGENTA| DAS ERSTE
@@ -2628,6 +2628,10 @@ http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/633373.m3u8
 http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/633372.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/a-z/--T--/tv5monde.png" group-title="DE MAGENTA TV",DE: |MAGENTA| TV5MONDE EUROPE
 http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/633371.m3u8
+#EXTINF:-1 tvg-logo="https://www.telekom.com/resource/image/1100584/landscape_ratio4x3/1296/972/9b59c796a555d5ec42c5f353c9822424/C5EDA4E806F2762161351164BC5BF258/bi-251222-magentatv-golf.jpg" group-title="DE MAGENTA TV",DE: |MAGENTA| MS GOLF 1
+http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/657212.m3u8
+#EXTINF:-1 tvg-logo="https://www.telekom.com/resource/image/1100584/landscape_ratio4x3/1296/972/9b59c796a555d5ec42c5f353c9822424/C5EDA4E806F2762161351164BC5BF258/bi-251222-magentatv-golf.jpg" group-title="DE MAGENTA TV",DE: |MAGENTA| MS GOLF 2
+http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/657213.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/AMZ/MORETHANSPORTSTV.png" group-title="DE MAGENTA TV",DE: |MAGENTA| MORE THAN SPORTS TV
 http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/633448.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/red-bull-tv.png" group-title="DE MAGENTA TV",DE: |MAGENTA| RED BULL TV
@@ -2758,7 +2762,7 @@ http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/497453.m3u8
 http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/195545.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/bild.png" group-title="DE NEWS - INFORMATION",DE: BILD
 http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/528342.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/Channel21.png" group-title="DE NEWS - INFORMATION",DE: CHANNEL 21
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/Channel21.png" group-title="DE NEWS - INFORMATION",DE: CHANNEL21
 http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/497459.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/2021mixlogo/dw.png" group-title="DE NEWS - INFORMATION",DE: DW TV
 http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/179554.m3u8
@@ -5405,4 +5409,4 @@ http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/531883.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/a_spor.png" group-title="TR VIP TURKIYE",TR: VIP A SPOR
 http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/531882.m3u8
 
-# Total: 2658
+# Total: 2660

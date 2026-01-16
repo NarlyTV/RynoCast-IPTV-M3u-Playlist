@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: predator.digital:8080
-# Generated: 2026-01-15 07:09:14
+# Generated: 2026-01-16 07:09:08
 # Expires: 2026-08-08
 # Family Safe Edition
 # ==============================================
@@ -2786,6 +2786,8 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/79663.m3u8
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/79664.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Italy",IT: Grande Fratello VIP - Regia 1
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/79665.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: Warner Discovery HD
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/68061.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Italy",IT: Discovery HGTV
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/61021.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Italy",IT: Food Network FHD
@@ -2836,8 +2838,6 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/356.m3u8
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/367.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Italy",IT: Sky Cinema Family FHD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/360.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Italy",IT: Warner Italy HD
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/68061.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/skyartehd.png" group-title="Italy",IT: Sky Arte FHD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/2724.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/skyunohd.png" group-title="Italy",IT: Sky Uno FHD

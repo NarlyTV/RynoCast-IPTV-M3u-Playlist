@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: canal-pro.xyz:8080
-# Generated: 2026-01-15 18:35:12
+# Generated: 2026-01-16 07:11:40
 # Expires: 2026-03-08
 # Family Safe Edition
 # ==============================================
@@ -18037,7 +18037,7 @@ http://canal-pro.xyz:8080/series/966119620tv/55ce67/2478
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES COMEDIA ←",Sin Frenos
 http://canal-pro.xyz:8080/series/966119620tv/55ce67/2481
 
-# --- Series | → SERIES CRIMEN ← (152) ---
+# --- Series | → SERIES CRIMEN ← (153) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES CRIMEN ←",¿Sabes quién es?
 http://canal-pro.xyz:8080/series/966119620tv/55ce67/5
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES CRIMEN ←",Chicago P.D.
@@ -18342,6 +18342,8 @@ http://canal-pro.xyz:8080/series/966119620tv/55ce67/2521
 http://canal-pro.xyz:8080/series/966119620tv/55ce67/2522
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES CRIMEN ←",Joven Secuestrada
 http://canal-pro.xyz:8080/series/966119620tv/55ce67/2523
+#EXTINF:-1 tvg-logo="" group-title="Series | → SERIES CRIMEN ←",Made in Korea
+http://canal-pro.xyz:8080/series/966119620tv/55ce67/2526
 
 # --- Series | → SERIES DC ← (15) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DC ←",Arrow
@@ -19649,4 +19651,4 @@ http://canal-pro.xyz:8080/series/966119620tv/55ce67/2345
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES TERROR-THRILLER-SUSPENSO ←",It: Bienvenidos a Derry
 http://canal-pro.xyz:8080/series/966119620tv/55ce67/2492
 
-# Total: 9748
+# Total: 9749

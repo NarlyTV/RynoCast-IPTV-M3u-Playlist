@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: user.scalecdn.co:8080
-# Generated: 2026-01-15 18:36:59
+# Generated: 2026-01-16 07:18:33
 # Expires: 2026-11-29
 # Family Safe Edition
 # ==============================================
@@ -11359,6 +11359,48 @@ http://user.scalecdn.co:8080/live/Moniesavatar/85678534/713464.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS - LACROSSE",Lacrosse 22:
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/713465.m3u8
 
+# --- SPORTS - MLS (20) ---
+#EXTINF:-1 tvg-logo="" group-title="SPORTS - MLS",MLS 01
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/715057.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS - MLS",MLS 02
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/715058.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS - MLS",MLS 03
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/715059.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS - MLS",MLS 04
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/715060.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS - MLS",MLS 05
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/715061.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS - MLS",MLS 06
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/715062.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS - MLS",MLS 07
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/715063.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS - MLS",MLS 08
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/715064.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS - MLS",MLS 09
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/715065.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS - MLS",MLS 10
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/715066.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS - MLS",MLS 11
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/715067.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS - MLS",MLS 12
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/715068.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS - MLS",MLS 13
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/715069.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS - MLS",MLS 14
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/715070.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS - MLS",MLS 15
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/715071.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS - MLS",MLS 16
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/715072.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS - MLS",MLS 17
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/715073.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS - MLS",MLS 18
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/715074.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS - MLS",MLS 19
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/715075.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS - MLS",MLS 20
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/715076.m3u8
+
 # --- SPORTS - MOTORSPORT (3) ---
 #EXTINF:-1 tvg-logo="" group-title="SPORTS - MOTORSPORT",MOTORSPORT 01: F1 Academy  En Español-F1 Academy Saudi Arabia Feature Race 2	@ 08:00 PM
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/712482.m3u8
@@ -11384,7 +11426,7 @@ http://user.scalecdn.co:8080/live/Moniesavatar/85678534/214176.m3u8
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/214177.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="SPORTS - NBA",USA Real NBA 08: Charlotte Hornets vs Los Angeles Lakers @ 10:30 PM EST
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/214178.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="SPORTS - NBA",USA Real NBA 09:
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="SPORTS - NBA",USA Real NBA 09: Memphis Grizzlies vs Orlando Magic @ 07:30 PM EST
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/214179.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="SPORTS - NBA",USA Real NBA 10:
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/214180.m3u8
@@ -13153,484 +13195,468 @@ http://user.scalecdn.co:8080/live/Moniesavatar/85678534/503214.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UAE",AR- MBC WANASH 4K
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/503200.m3u8
 
-# --- UK DOCUMENTARIES (2) ---
-#EXTINF:-1 tvg-logo="" group-title="UK DOCUMENTARIES",UK HORSE AND COUNTRY
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/88861.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.images.express.co.uk/img/dynamic/59/590x/secondary/Sky-Nature-New-Channels-Free-UK-2420167.jpg" group-title="UK DOCUMENTARIES",UK Sky Nature
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/103905.m3u8
-
-# --- UK ENTERTAINMENT (35) ---
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/4seven_logo_2018.svg/1200px-4seven_logo_2018.svg.png" group-title="UK ENTERTAINMENT",UK 4SEVEN
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/89380.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/5Star_logo_2019.svg/1200px-5Star_logo_2019.svg.png" group-title="UK ENTERTAINMENT",UK 5 STAR
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/88922.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/5USA_logo.svg" group-title="UK ENTERTAINMENT",UK 5USA
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/89023.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK ENTERTAINMENT",UK Boomerang
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/650438.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.imgbin.com/25/1/9/imgbin-citv-logo-television-itv-hub-hub-group-t12qLaU6ThTptJ7FeEm7UGEhN.jpg" group-title="UK ENTERTAINMENT",UK C ITV
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2324.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK ENTERTAINMENT",UK Cartoon Network
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/650437.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/CBS_Justice_2018.svg/640px-CBS_Justice_2018.svg.png" group-title="UK ENTERTAINMENT",UK CBS Action
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2319.m3u8
-#EXTINF:-1 tvg-logo="https://www.cbsjustice.tv/grfx/stuff/cbs-justice-logo.png" group-title="UK ENTERTAINMENT",UK CBS Justice
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2318.m3u8
-#EXTINF:-1 tvg-logo="https://media.info/i/lf/0/1405279334/1209.png" group-title="UK ENTERTAINMENT",UK CBS Reality
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2317.m3u8
-#EXTINF:-1 tvg-logo="https://www.tv-films.co.uk/media/channels/dave-hd.png" group-title="UK ENTERTAINMENT",UK Dave HD
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2303.m3u8
-#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/detail/432-4328623_discovery-channel-logo-discovery-channel-uk-logo.png" group-title="UK ENTERTAINMENT",UK Discovery
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2302.m3u8
-#EXTINF:-1 tvg-logo="https://cached.imagescaler.hbpl.co.uk/resize/scaleWidth/743/cached.offlinehbpl.hbpl.co.uk/news/OMC/85B1580A-9FA6-F2E6-EC5F13E7C57BD7A7.jpg" group-title="UK ENTERTAINMENT",UK Discovery History
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2301.m3u8
-#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/50f9d6752428.5600ad44bb1c7.jpg" group-title="UK ENTERTAINMENT",UK Discovery Science
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2300.m3u8
-#EXTINF:-1 tvg-logo="https://bestmediainfo.com/uploads/2014/11/Turbo-logo-Black-top.jpg" group-title="UK ENTERTAINMENT",UK Discovery Turbo
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2298.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1149726013800288256/vxn81YgX_400x400.jpg" group-title="UK ENTERTAINMENT",UK E!
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2293.m3u8
-#EXTINF:-1 tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/1/1122.1539639917.png" group-title="UK ENTERTAINMENT",UK E4
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2292.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/ITV2_logo_2015.svg/1200px-ITV2_logo_2015.svg.png" group-title="UK ENTERTAINMENT",UK ITV2
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/527498.m3u8
-#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/middle/219-2198115_lifetime-uk-and-ireland-logopedia-fandom-powered-by-life-time-logo-png.png" group-title="UK ENTERTAINMENT",UK LIFETIME
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/88853.m3u8
-#EXTINF:-1 tvg-logo="https://www.entertainment-iuk.com/wp-content/more4_2012.jpg" group-title="UK ENTERTAINMENT",UK More 4 HD
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2254.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/61/ClubMTVLogo.png" group-title="UK ENTERTAINMENT",UK MTV Club
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2311.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK ENTERTAINMENT",UK Nickelodeon
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/650439.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK ENTERTAINMENT",UK NickSpongeBob
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/650440.m3u8
-#EXTINF:-1 tvg-logo="https://res.cloudinary.com/uktv/image/upload/h_720,q_80,w_1280/v1407238183/nmtk2jrvoux45o1mdw0y.jpg" group-title="UK ENTERTAINMENT",UK Really
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2224.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK ENTERTAINMENT",UK Sky Batman
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/650428.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK ENTERTAINMENT",UK Sky Cinema Drama
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/650435.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK ENTERTAINMENT",UK Sky Cinema Family
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/650430.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK ENTERTAINMENT",UK Sky Cinema Thriller
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/650433.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK ENTERTAINMENT",UK Sky Crime
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/650418.m3u8
-#EXTINF:-1 tvg-logo="https://stopgendercide.org/wp-content/uploads/2018/09/sky-news-logo2-1.png" group-title="UK ENTERTAINMENT",UK Sky News
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2197.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK ENTERTAINMENT",UK Sky Showcase
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/650417.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Sky_Sport_News_HD_Logo_2016.png" group-title="UK ENTERTAINMENT",UK Sky Sports News HD
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2179.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK ENTERTAINMENT",UK Sky Superheroes
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/650429.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="UK ENTERTAINMENT",UK Sony Channel
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2176.m3u8
-#EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2017/04/Travel_Channel_United_Kingdom_UK_logo.png" group-title="UK ENTERTAINMENT",UK Travel Channel
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2159.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Universal_TV_2018.svg/1200px-Universal_TV_2018.svg.png" group-title="UK ENTERTAINMENT",UK Universal Channel HD
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2151.m3u8
-
-# --- UK General (27) ---
-#EXTINF:-1 tvg-logo="https://d2ivesio5kogrp.cloudfront.net/static/images/aastha_logo_white.png" group-title="UK General",UK Aastha
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/88352.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2016/12/al-jazeera-logo.png" group-title="UK General",UK AL JAZEERA
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/89034.m3u8
-#EXTINF:-1 tvg-logo="https://www.rapidtvnews.com/images/AJ_English_HD_5_Nov_2016.jpg" group-title="UK General",UK AL JAZEERA HD
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/88349.m3u8
-#EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/22/221fc18ea6e8055a207635f54186d032.jpeg" group-title="UK General",UK Ary Qtv
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/88351.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/db/ARY_Digital_Network.jpg" group-title="UK General",UK Ary World
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/88350.m3u8
-#EXTINF:-1 tvg-logo="https://www.comedy.co.uk/images/library/comedies/300/c/channel_bbc1.jpg" group-title="UK General",UK BBC 1
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2359.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/BBC_Two_%282001%29.svg/220px-BBC_Two_%282001%29.svg.png" group-title="UK General",UK BBC 2
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2358.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/BBC_Three_%282020%29.svg/1200px-BBC_Three_%282020%29.svg.png" group-title="UK General",UK BBC 3
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/88915.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/BBC_Four.svg/1280px-BBC_Four.svg.png" group-title="UK General",UK BBC 4
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2356.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/BBC_Alba_%28new%29.svg/1200px-BBC_Alba_%28new%29.svg.png" group-title="UK General",UK BBC Alba
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2355.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/BBC_News_2019.svg/1200px-BBC_News_2019.svg.png" group-title="UK General",UK BBC News HD
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2354.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/BBC_One_%282002%29.svg/1280px-BBC_One_%282002%29.svg.png" group-title="UK General",UK BBC One
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/542826.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/BBC_Region_East_logo.svg/1200px-BBC_Region_East_logo.svg.png" group-title="UK General",UK BBC One East E
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/527502.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/BBC_One_Northern_Ireland.svg/1280px-BBC_One_Northern_Ireland.svg.png" group-title="UK General",UK BBC One Northern Ireland
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2353.m3u8
-#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a306.png" group-title="UK General",UK BBC One Scotland
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2352.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/BBC_Region_South_logo.svg/1200px-BBC_Region_South_logo.svg.png" group-title="UK General",UK BBC One South
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/527505.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/BBC_One_%282002%29.svg/220px-BBC_One_%282002%29.svg.png" group-title="UK General",UK BBC One W Mid
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/527506.m3u8
-#EXTINF:-1 tvg-logo="https://www.comedy.co.uk/images/channels/bbc_one_wales.jpg" group-title="UK General",UK BBC One Wales
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2351.m3u8
-#EXTINF:-1 tvg-logo="https://up.metropol247.co.uk/mikey88772/parliamewnt.png" group-title="UK General",UK BBC Parliament
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2350.m3u8
-#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/tv-station-bbc-2-scotland-104.png" group-title="UK General",UK BBC Two Scotland
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2347.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/BBC_Two_Wales_logo.svg/1200px-BBC_Two_Wales_logo.svg.png" group-title="UK General",UK BBC Two Wales
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2346.m3u8
-#EXTINF:-1 tvg-logo="https://www.wearethemoment.com/wp-content/uploads/case-study/BBC_world_news.png" group-title="UK General",UK BBC World News
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2345.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c8/BoxNation2014Logo.png" group-title="UK General",UK Box Nation
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/5394.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/cnbc-4.svg" group-title="UK General",UK CNBC
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2310.m3u8
-#EXTINF:-1 tvg-logo="http://www.horrorchannel.co.uk/grfx/stuff/horror-channel-logo.png" group-title="UK General",UK HORROR CHANNEL
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/88862.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/True_Crime.png" group-title="UK General",UK True Crime
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/93544.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK General",UK HD: ITV4
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/550191.m3u8
-
-# --- UK KIDS (11) ---
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png" group-title="UK KIDS",UK CARTOONITO
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2323.m3u8
-#EXTINF:-1 tvg-logo="https://www.contentcreatures.com/wp-content/uploads/2018/03/cartoonito.png" group-title="UK KIDS",UK Cartoonito
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2322.m3u8
-#EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/51YzkOdC2AL.png" group-title="UK KIDS",UK CBBC
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2321.m3u8
-#EXTINF:-1 tvg-logo="https://www.bbc.co.uk/blogs/cbeebiesgrownups/waybulootrail.jpg" group-title="UK KIDS",UK CBeebies HD
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2320.m3u8
-#EXTINF:-1 tvg-logo="https://www.jedinews.co.uk/wp-content/uploads/2020/04/disney-xd-logo.jpg" group-title="UK KIDS",UK Disney XD
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2296.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/InvestigationDiscovery.png/200px-InvestigationDiscovery.png" group-title="UK KIDS",UK Investigation Discovery
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2266.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1207673467665080324/DIGHXSMJ_400x400.jpg" group-title="UK KIDS",UK NICK JUNIOR
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2237.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/SrlMtW5AKsU/maxresdefault.jpg" group-title="UK KIDS",UK Nick Junior Too
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2238.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/891Udu9wKc8/maxresdefault.jpg" group-title="UK KIDS",UK NICKTOONS
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2236.m3u8
-#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/4811817-pop-png-download-26051580-free-transparent-pop-png-download-pop-png-900_560_preview.png" group-title="UK KIDS",UK POP
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2229.m3u8
-#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/uk-tiny-pop-tv.jpg" group-title="UK KIDS",UK Tiny Pop
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2162.m3u8
-
-# --- UK MOVIES (26) ---
-#EXTINF:-1 tvg-logo="" group-title="UK MOVIES",BR CINEMAX
+# --- UNITED KINGDOM (231) ---
+#EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM",BR CINEMAX
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/96377.m3u8
-#EXTINF:-1 tvg-logo="https://media.info/i/lf/0/1598063422/7361.png" group-title="UK MOVIES",Sky Cinema Animation (SHD)
+#EXTINF:-1 tvg-logo="https://media.info/i/lf/0/1598063422/7361.png" group-title="UNITED KINGDOM",Sky Cinema Animation (SHD)
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/587861.m3u8
-#EXTINF:-1 tvg-logo="https://www.bizasialive.com/wp-content/uploads/2017/03/b4umovies001.jpg" group-title="UK MOVIES",UK B4U Movies
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2363.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f1/Drama_%28TV_channel%29_logo.png" group-title="UK MOVIES",UK Drama
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2294.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1047130346519695360/hqJuU6JW_400x400.jpg" group-title="UK MOVIES",UK Film 4 HD
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2284.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK MOVIES",UK Film 4 HD
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2283.m3u8
-#EXTINF:-1 tvg-logo="https://alchetron.com/cdn/itv2-1888a69a-a6fc-4e05-8b6f-28872922199-resize-750.png" group-title="UK MOVIES",UK ITV 2
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2264.m3u8
-#EXTINF:-1 tvg-logo="https://www.chortle.co.uk/images/photos/small/itv3_logo.jpg" group-title="UK MOVIES",UK ITV 3
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2263.m3u8
-#EXTINF:-1 tvg-logo="https://www.kingcricket.co.uk/wp-content/uploads/2016/10/ITV4-logo.jpg" group-title="UK MOVIES",UK Itv 4
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2262.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148276559884820484/oDBU18m-_400x400.png" group-title="UK MOVIES",UK ITVBE
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2261.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Sky_Cinema_Action_DE_Logo_2016.png" group-title="UK MOVIES",UK Sky Cinema Action & Adventure (SHD)
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2207.m3u8
-#EXTINF:-1 tvg-logo="https://media.info/i/lf/0/1598063422/7361.png" group-title="UK MOVIES",UK Sky Cinema Animation FHD
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/587860.m3u8
-#EXTINF:-1 tvg-logo="https://www.studiouniversal.it/logo_thumb/sky-cinema-comedy-thumb.png" group-title="UK MOVIES",UK Sky Cinema Comedy
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2206.m3u8
-#EXTINF:-1 tvg-logo="https://www.silversirens.co.uk/gifs/thumb3_sky-cinema-drama-romance.png" group-title="UK MOVIES",UK Sky Cinema Drama
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2205.m3u8
-#EXTINF:-1 tvg-logo="https://media.info/i/lf/0/1507843147/1420.png" group-title="UK MOVIES",UK Sky Cinema Family
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2204.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK MOVIES",UK Sky Cinema Gangsters
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/650426.m3u8
-#EXTINF:-1 tvg-logo="https://media.info/i/lf/0/1507843189/1424.png" group-title="UK MOVIES",UK Sky Cinema Greats
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2203.m3u8
-#EXTINF:-1 tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2020/06/SKY-CINEMA-HITS-June-2020.png" group-title="UK MOVIES",UK Sky Cinema Hits
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/487358.m3u8
-#EXTINF:-1 tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2017/11/Sky-Cinema-Premiere.png" group-title="UK MOVIES",UK Sky Cinema Premiere
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2202.m3u8
-#EXTINF:-1 tvg-logo="https://media.info/i/lf/300/1507843243/1423.png" group-title="UK MOVIES",UK Sky Cinema Select
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2200.m3u8
-#EXTINF:-1 tvg-logo="https://broadbanddeals.co.uk/wp-content/uploads/2018/11/sky-thriller-300x113.jpg" group-title="UK MOVIES",UK Sky Cinema Thriller
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2198.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/800029326812946433/USzCzkZL_400x400.jpg" group-title="UK MOVIES",UK Sony Movies
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2175.m3u8
-#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/uk-movies-4-men-6944.jpg" group-title="UK MOVIES",UK Sony Movies Action
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2252.m3u8
-#EXTINF:-1 tvg-logo="https://presentationarchive.com/truechristmas/icon1.jpg" group-title="UK MOVIES",UK True Movies
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2157.m3u8
-#EXTINF:-1 tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2017/12/Zee-CINEMA.png" group-title="UK MOVIES",UK Zee Cinema
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2143.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK MOVIES",USA Asian Zee Cinema (Hindi)
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/543967.m3u8
-
-# --- UK MUSIC (15) ---
-#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/uk-4music-tv-2287.jpg" group-title="UK MUSIC",UK 4Music
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/uk-4music-tv-2287.jpg" group-title="UNITED KINGDOM",UK 4Music
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2374.m3u8
-#EXTINF:-1 tvg-logo="https://www.comedy.co.uk/images/library/comedies/300x200/5/5star.jpg" group-title="UK MUSIC",UK 5 Star
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/4seven_logo_2018.svg/1200px-4seven_logo_2018.svg.png" group-title="UNITED KINGDOM",UK 4SEVEN
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/89380.m3u8
+#EXTINF:-1 tvg-logo="https://www.comedy.co.uk/images/library/comedies/300x200/5/5star.jpg" group-title="UNITED KINGDOM",UK 5 Star
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2372.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.imgbin.com/15/13/5/imgbin-b4u-music-b4u-movies-television-channel-others-g7J7riQkxQ3axPppCZQt14Sg4.jpg" group-title="UK MUSIC",UK B4U Music
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2362.m3u8
-#EXTINF:-1 tvg-logo="https://rts.org.uk/sites/default/files/mtv.png" group-title="UK MUSIC",UK MTV
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2251.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/MTV_Base_2017_logo.svg/1200px-MTV_Base_2017_logo.svg.png" group-title="UK MUSIC",UK MTV Base
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2250.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/MTV_Classic_2017_logo.svg/1200px-MTV_Classic_2017_logo.svg.png" group-title="UK MUSIC",UK MTV Classic
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2249.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/MTV_Dance_2017_logo.svg/1200px-MTV_Dance_2017_logo.svg.png" group-title="UK MUSIC",UK MTV Dance
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2248.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/MTV_Live_HD_2013_logo.svg" group-title="UK MUSIC",UK MTV HD
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2247.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MTV_Hits_2017_logo.svg/1200px-MTV_Hits_2017_logo.svg.png" group-title="UK MUSIC",UK MTV Hits
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2246.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/MTV_Music_2017_logo_Australia.svg/1200px-MTV_Music_2017_logo_Australia.svg.png" group-title="UK MUSIC",UK MTV Music
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2245.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/MTV_Rocks_2017_logo.svg/1200px-MTV_Rocks_2017_logo.svg.png" group-title="UK MUSIC",UK MTV Rocks
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2243.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/40/Star_Bharat_Official_Logo.jpg" group-title="UK MUSIC",UK Star Bharat
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2173.m3u8
-#EXTINF:-1 tvg-logo="https://admin.thecricketer.com/weblab/sites/96c8b790-b593-bfda-0ba4-ecd3a9fdefc2/resources/images/site/stargold190301-min.jpg" group-title="UK MUSIC",UK Star Gold
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2172.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/af/f9/88/aff988264f4370f3aa193f95c3c6a575.jpg" group-title="UK MUSIC",UK Star Plus
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2170.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/Zing_2011_logo.png" group-title="UK MUSIC",UK Zing
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2140.m3u8
-
-# --- UK NEWS (9) ---
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-8h477LsRhSc/UiWI908GqoI/AAAAAAAAAI4/Kso7lM3v-D4/s1600/abp_logo_english002.jpg" group-title="UK NEWS",UK ABP News
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/5Star_logo_2019.svg/1200px-5Star_logo_2019.svg.png" group-title="UNITED KINGDOM",UK 5 STAR
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/88922.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/5USA_logo.svg" group-title="UNITED KINGDOM",UK 5USA
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/89023.m3u8
+#EXTINF:-1 tvg-logo="https://d2ivesio5kogrp.cloudfront.net/static/images/aastha_logo_white.png" group-title="UNITED KINGDOM",UK Aastha
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/88352.m3u8
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-8h477LsRhSc/UiWI908GqoI/AAAAAAAAAI4/Kso7lM3v-D4/s1600/abp_logo_english002.jpg" group-title="UNITED KINGDOM",UK ABP News
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2369.m3u8
-#EXTINF:-1 tvg-logo="https://up.metropol247.co.uk/RDJ/594d03579d6e7c90627d9a8ed10f75fb%202.png" group-title="UK NEWS",UK Channel 4 HD
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2315.m3u8
-#EXTINF:-1 tvg-logo="https://www.gadgetlayman.com/_images/logos/channel-5-hd-logo-2016-560.gif" group-title="UK NEWS",UK Channel 5 HD
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2314.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-sQT7MeNqXZM/Wd6O3PFO6QI/AAAAAAAAEyA/G13n7GY0vNkI0Nx1z2MaZI0oDEM_Osd2QCLcBGAs/s1600/Fox_logo-e1363861555921.jpg" group-title="UK NEWS",UK Fox
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2279.m3u8
-#EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/51upjzLqxKL.png" group-title="UK NEWS",UK Fox News HD
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2278.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png" group-title="UK NEWS",UK France 24 News
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2277.m3u8
-#EXTINF:-1 tvg-logo="https://www.londonlive.co.uk/wp-content/themes/londonlive/images/logo-londonlive.png" group-title="UK NEWS",UK London Live
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2257.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/db/Rtenewsnownewlogo.png" group-title="UK NEWS",UK RTE News Now
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2218.m3u8
-#EXTINF:-1 tvg-logo="https://www.rokt.co.uk/wp-content/uploads/sky-sports-news-UK-logo.png" group-title="UK NEWS",UK Sky Sports News
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2183.m3u8
-
-# --- UK REGIONALS (3) ---
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/ITV_logo_2019.svg/1200px-ITV_logo_2019.svg.png" group-title="UK REGIONALS",UK ITV1
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/527497.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/ITV3_logo_2013.svg/1200px-ITV3_logo_2013.svg.png" group-title="UK REGIONALS",UK ITV3
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/527499.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/ITV4_logo_2013.svg/1200px-ITV4_logo_2013.svg.png" group-title="UK REGIONALS",UK ITV4
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/527500.m3u8
-
-# --- UK SPORTS (103) ---
-#EXTINF:-1 tvg-logo="https://www.ukchallenge.co.uk/wp-content/uploads/2019/09/UK-Challenge-logo.png" group-title="UK SPORTS",UK Challenge
+#EXTINF:-1 tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2016/12/al-jazeera-logo.png" group-title="UNITED KINGDOM",UK AL JAZEERA
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/89034.m3u8
+#EXTINF:-1 tvg-logo="https://www.rapidtvnews.com/images/AJ_English_HD_5_Nov_2016.jpg" group-title="UNITED KINGDOM",UK AL JAZEERA HD
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/88349.m3u8
+#EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/22/221fc18ea6e8055a207635f54186d032.jpeg" group-title="UNITED KINGDOM",UK Ary Qtv
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/88351.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/db/ARY_Digital_Network.jpg" group-title="UNITED KINGDOM",UK Ary World
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/88350.m3u8
+#EXTINF:-1 tvg-logo="https://www.bizasialive.com/wp-content/uploads/2017/03/b4umovies001.jpg" group-title="UNITED KINGDOM",UK B4U Movies
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2363.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.imgbin.com/15/13/5/imgbin-b4u-music-b4u-movies-television-channel-others-g7J7riQkxQ3axPppCZQt14Sg4.jpg" group-title="UNITED KINGDOM",UK B4U Music
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2362.m3u8
+#EXTINF:-1 tvg-logo="https://www.comedy.co.uk/images/library/comedies/300/c/channel_bbc1.jpg" group-title="UNITED KINGDOM",UK BBC 1
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2359.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/BBC_Two_%282001%29.svg/220px-BBC_Two_%282001%29.svg.png" group-title="UNITED KINGDOM",UK BBC 2
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2358.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/BBC_Three_%282020%29.svg/1200px-BBC_Three_%282020%29.svg.png" group-title="UNITED KINGDOM",UK BBC 3
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/88915.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/BBC_Four.svg/1280px-BBC_Four.svg.png" group-title="UNITED KINGDOM",UK BBC 4
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2356.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/BBC_Alba_%28new%29.svg/1200px-BBC_Alba_%28new%29.svg.png" group-title="UNITED KINGDOM",UK BBC Alba
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2355.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/BBC_News_2019.svg/1200px-BBC_News_2019.svg.png" group-title="UNITED KINGDOM",UK BBC News HD
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2354.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/BBC_One_%282002%29.svg/1280px-BBC_One_%282002%29.svg.png" group-title="UNITED KINGDOM",UK BBC One
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/542826.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/BBC_Region_East_logo.svg/1200px-BBC_Region_East_logo.svg.png" group-title="UNITED KINGDOM",UK BBC One East E
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/527502.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/BBC_One_Northern_Ireland.svg/1280px-BBC_One_Northern_Ireland.svg.png" group-title="UNITED KINGDOM",UK BBC One Northern Ireland
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2353.m3u8
+#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a306.png" group-title="UNITED KINGDOM",UK BBC One Scotland
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2352.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/BBC_Region_South_logo.svg/1200px-BBC_Region_South_logo.svg.png" group-title="UNITED KINGDOM",UK BBC One South
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/527505.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/BBC_One_%282002%29.svg/220px-BBC_One_%282002%29.svg.png" group-title="UNITED KINGDOM",UK BBC One W Mid
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/527506.m3u8
+#EXTINF:-1 tvg-logo="https://www.comedy.co.uk/images/channels/bbc_one_wales.jpg" group-title="UNITED KINGDOM",UK BBC One Wales
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2351.m3u8
+#EXTINF:-1 tvg-logo="https://up.metropol247.co.uk/mikey88772/parliamewnt.png" group-title="UNITED KINGDOM",UK BBC Parliament
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2350.m3u8
+#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/tv-station-bbc-2-scotland-104.png" group-title="UNITED KINGDOM",UK BBC Two Scotland
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2347.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/BBC_Two_Wales_logo.svg/1200px-BBC_Two_Wales_logo.svg.png" group-title="UNITED KINGDOM",UK BBC Two Wales
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2346.m3u8
+#EXTINF:-1 tvg-logo="https://www.wearethemoment.com/wp-content/uploads/case-study/BBC_world_news.png" group-title="UNITED KINGDOM",UK BBC World News
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2345.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM",UK Boomerang
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/650438.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c8/BoxNation2014Logo.png" group-title="UNITED KINGDOM",UK Box Nation
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/5394.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.imgbin.com/25/1/9/imgbin-citv-logo-television-itv-hub-hub-group-t12qLaU6ThTptJ7FeEm7UGEhN.jpg" group-title="UNITED KINGDOM",UK C ITV
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2324.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM",UK Cartoon Network
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/650437.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png" group-title="UNITED KINGDOM",UK CARTOONITO
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2323.m3u8
+#EXTINF:-1 tvg-logo="https://www.contentcreatures.com/wp-content/uploads/2018/03/cartoonito.png" group-title="UNITED KINGDOM",UK Cartoonito
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2322.m3u8
+#EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/51YzkOdC2AL.png" group-title="UNITED KINGDOM",UK CBBC
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2321.m3u8
+#EXTINF:-1 tvg-logo="https://www.bbc.co.uk/blogs/cbeebiesgrownups/waybulootrail.jpg" group-title="UNITED KINGDOM",UK CBeebies HD
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2320.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/CBS_Justice_2018.svg/640px-CBS_Justice_2018.svg.png" group-title="UNITED KINGDOM",UK CBS Action
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2319.m3u8
+#EXTINF:-1 tvg-logo="https://www.cbsjustice.tv/grfx/stuff/cbs-justice-logo.png" group-title="UNITED KINGDOM",UK CBS Justice
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2318.m3u8
+#EXTINF:-1 tvg-logo="https://media.info/i/lf/0/1405279334/1209.png" group-title="UNITED KINGDOM",UK CBS Reality
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2317.m3u8
+#EXTINF:-1 tvg-logo="https://www.ukchallenge.co.uk/wp-content/uploads/2019/09/UK-Challenge-logo.png" group-title="UNITED KINGDOM",UK Challenge
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2316.m3u8
-#EXTINF:-1 tvg-logo="https://officialtvstream.net/wp-content/uploads/2015/05/Chelsea-TV1.png" group-title="UK SPORTS",UK Chelsea TV HD
+#EXTINF:-1 tvg-logo="https://up.metropol247.co.uk/RDJ/594d03579d6e7c90627d9a8ed10f75fb%202.png" group-title="UNITED KINGDOM",UK Channel 4 HD
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2315.m3u8
+#EXTINF:-1 tvg-logo="https://www.gadgetlayman.com/_images/logos/channel-5-hd-logo-2016-560.gif" group-title="UNITED KINGDOM",UK Channel 5 HD
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2314.m3u8
+#EXTINF:-1 tvg-logo="https://officialtvstream.net/wp-content/uploads/2015/05/Chelsea-TV1.png" group-title="UNITED KINGDOM",UK Chelsea TV HD
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2312.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/1200px-Flag_of_the_United_Kingdom.svg.png" group-title="UK SPORTS",UK Colors
+#EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/cnbc-4.svg" group-title="UNITED KINGDOM",UK CNBC
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2310.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/1200px-Flag_of_the_United_Kingdom.svg.png" group-title="UNITED KINGDOM",UK Colors
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2308.m3u8
-#EXTINF:-1 tvg-logo="https://c8.alamy.com/comp/KEARAC/brexit-concept-flags-of-the-european-union-eu-and-united-kingdom-uk-KEARAC.jpg" group-title="UK SPORTS",UK Colors TV
+#EXTINF:-1 tvg-logo="https://c8.alamy.com/comp/KEARAC/brexit-concept-flags-of-the-european-union-eu-and-united-kingdom-uk-KEARAC.jpg" group-title="UNITED KINGDOM",UK Colors TV
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2307.m3u8
-#EXTINF:-1 tvg-logo="https://www.paramount.co.uk/sites/all/modules/custom/pmount_grid/images/paramount-logo-grid-new.png" group-title="UK SPORTS",UK Paramount
+#EXTINF:-1 tvg-logo="https://www.tv-films.co.uk/media/channels/dave-hd.png" group-title="UNITED KINGDOM",UK Dave HD
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2303.m3u8
+#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/detail/432-4328623_discovery-channel-logo-discovery-channel-uk-logo.png" group-title="UNITED KINGDOM",UK Discovery
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2302.m3u8
+#EXTINF:-1 tvg-logo="https://cached.imagescaler.hbpl.co.uk/resize/scaleWidth/743/cached.offlinehbpl.hbpl.co.uk/news/OMC/85B1580A-9FA6-F2E6-EC5F13E7C57BD7A7.jpg" group-title="UNITED KINGDOM",UK Discovery History
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2301.m3u8
+#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/50f9d6752428.5600ad44bb1c7.jpg" group-title="UNITED KINGDOM",UK Discovery Science
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2300.m3u8
+#EXTINF:-1 tvg-logo="https://bestmediainfo.com/uploads/2014/11/Turbo-logo-Black-top.jpg" group-title="UNITED KINGDOM",UK Discovery Turbo
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2298.m3u8
+#EXTINF:-1 tvg-logo="https://www.jedinews.co.uk/wp-content/uploads/2020/04/disney-xd-logo.jpg" group-title="UNITED KINGDOM",UK Disney XD
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2296.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f1/Drama_%28TV_channel%29_logo.png" group-title="UNITED KINGDOM",UK Drama
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2294.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1149726013800288256/vxn81YgX_400x400.jpg" group-title="UNITED KINGDOM",UK E!
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2293.m3u8
+#EXTINF:-1 tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/1/1122.1539639917.png" group-title="UNITED KINGDOM",UK E4
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2292.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1047130346519695360/hqJuU6JW_400x400.jpg" group-title="UNITED KINGDOM",UK Film 4 HD
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2284.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM",UK Film 4 HD
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2283.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-sQT7MeNqXZM/Wd6O3PFO6QI/AAAAAAAAEyA/G13n7GY0vNkI0Nx1z2MaZI0oDEM_Osd2QCLcBGAs/s1600/Fox_logo-e1363861555921.jpg" group-title="UNITED KINGDOM",UK Fox
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2279.m3u8
+#EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/51upjzLqxKL.png" group-title="UNITED KINGDOM",UK Fox News HD
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2278.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png" group-title="UNITED KINGDOM",UK France 24 News
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2277.m3u8
+#EXTINF:-1 tvg-logo="http://www.horrorchannel.co.uk/grfx/stuff/horror-channel-logo.png" group-title="UNITED KINGDOM",UK HORROR CHANNEL
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/88862.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM",UK HORSE AND COUNTRY
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/88861.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/InvestigationDiscovery.png/200px-InvestigationDiscovery.png" group-title="UNITED KINGDOM",UK Investigation Discovery
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2266.m3u8
+#EXTINF:-1 tvg-logo="https://alchetron.com/cdn/itv2-1888a69a-a6fc-4e05-8b6f-28872922199-resize-750.png" group-title="UNITED KINGDOM",UK ITV 2
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2264.m3u8
+#EXTINF:-1 tvg-logo="https://www.chortle.co.uk/images/photos/small/itv3_logo.jpg" group-title="UNITED KINGDOM",UK ITV 3
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2263.m3u8
+#EXTINF:-1 tvg-logo="https://www.kingcricket.co.uk/wp-content/uploads/2016/10/ITV4-logo.jpg" group-title="UNITED KINGDOM",UK Itv 4
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2262.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/ITV_logo_2019.svg/1200px-ITV_logo_2019.svg.png" group-title="UNITED KINGDOM",UK ITV1
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/527497.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/ITV2_logo_2015.svg/1200px-ITV2_logo_2015.svg.png" group-title="UNITED KINGDOM",UK ITV2
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/527498.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/ITV3_logo_2013.svg/1200px-ITV3_logo_2013.svg.png" group-title="UNITED KINGDOM",UK ITV3
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/527499.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/ITV4_logo_2013.svg/1200px-ITV4_logo_2013.svg.png" group-title="UNITED KINGDOM",UK ITV4
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/527500.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148276559884820484/oDBU18m-_400x400.png" group-title="UNITED KINGDOM",UK ITVBE
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2261.m3u8
+#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/middle/219-2198115_lifetime-uk-and-ireland-logopedia-fandom-powered-by-life-time-logo-png.png" group-title="UNITED KINGDOM",UK LIFETIME
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/88853.m3u8
+#EXTINF:-1 tvg-logo="https://www.londonlive.co.uk/wp-content/themes/londonlive/images/logo-londonlive.png" group-title="UNITED KINGDOM",UK London Live
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2257.m3u8
+#EXTINF:-1 tvg-logo="https://www.entertainment-iuk.com/wp-content/more4_2012.jpg" group-title="UNITED KINGDOM",UK More 4 HD
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2254.m3u8
+#EXTINF:-1 tvg-logo="https://rts.org.uk/sites/default/files/mtv.png" group-title="UNITED KINGDOM",UK MTV
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2251.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/MTV_Base_2017_logo.svg/1200px-MTV_Base_2017_logo.svg.png" group-title="UNITED KINGDOM",UK MTV Base
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2250.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/MTV_Classic_2017_logo.svg/1200px-MTV_Classic_2017_logo.svg.png" group-title="UNITED KINGDOM",UK MTV Classic
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2249.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/61/ClubMTVLogo.png" group-title="UNITED KINGDOM",UK MTV Club
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2311.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/MTV_Dance_2017_logo.svg/1200px-MTV_Dance_2017_logo.svg.png" group-title="UNITED KINGDOM",UK MTV Dance
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2248.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/MTV_Live_HD_2013_logo.svg" group-title="UNITED KINGDOM",UK MTV HD
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2247.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MTV_Hits_2017_logo.svg/1200px-MTV_Hits_2017_logo.svg.png" group-title="UNITED KINGDOM",UK MTV Hits
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2246.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/MTV_Music_2017_logo_Australia.svg/1200px-MTV_Music_2017_logo_Australia.svg.png" group-title="UNITED KINGDOM",UK MTV Music
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2245.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/MTV_Rocks_2017_logo.svg/1200px-MTV_Rocks_2017_logo.svg.png" group-title="UNITED KINGDOM",UK MTV Rocks
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2243.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1207673467665080324/DIGHXSMJ_400x400.jpg" group-title="UNITED KINGDOM",UK NICK JUNIOR
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2237.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/SrlMtW5AKsU/maxresdefault.jpg" group-title="UNITED KINGDOM",UK Nick Junior Too
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2238.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM",UK Nickelodeon
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/650439.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM",UK NickSpongeBob
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/650440.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/891Udu9wKc8/maxresdefault.jpg" group-title="UNITED KINGDOM",UK NICKTOONS
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2236.m3u8
+#EXTINF:-1 tvg-logo="https://www.paramount.co.uk/sites/all/modules/custom/pmount_grid/images/paramount-logo-grid-new.png" group-title="UNITED KINGDOM",UK Paramount
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2174.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/RT%C3%892_logo.svg/290px-RT%C3%892_logo.svg.png" group-title="UK SPORTS",UK RTE 2
+#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/4811817-pop-png-download-26051580-free-transparent-pop-png-download-pop-png-900_560_preview.png" group-title="UNITED KINGDOM",UK POP
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2229.m3u8
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/uktv/image/upload/h_720,q_80,w_1280/v1407238183/nmtk2jrvoux45o1mdw0y.jpg" group-title="UNITED KINGDOM",UK Really
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2224.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/RT%C3%892_logo.svg/290px-RT%C3%892_logo.svg.png" group-title="UNITED KINGDOM",UK RTE 2
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2216.m3u8
-#EXTINF:-1 tvg-logo="https://rtejr.rte.ie/wp-content/themes/rtejr-2013/img/rtejr-logo-large.jpg" group-title="UK SPORTS",UK RTE Junior
+#EXTINF:-1 tvg-logo="https://rtejr.rte.ie/wp-content/themes/rtejr-2013/img/rtejr-logo-large.jpg" group-title="UNITED KINGDOM",UK RTE Junior
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2215.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvsa.co.za/images/uploads/thumbs/0052655.png" group-title="UK SPORTS",UK RTE One
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/db/Rtenewsnownewlogo.png" group-title="UNITED KINGDOM",UK RTE News Now
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2218.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvsa.co.za/images/uploads/thumbs/0052655.png" group-title="UNITED KINGDOM",UK RTE One
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2217.m3u8
-#EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/21tH7Frr1lL.png" group-title="UK SPORTS",UK S4C
+#EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/21tH7Frr1lL.png" group-title="UNITED KINGDOM",UK S4C
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2214.m3u8
-#EXTINF:-1 tvg-logo="https://www.adgully.com/img/400/2010-07-SAB-TV.jpg" group-title="UK SPORTS",UK Sab TV (SET)
+#EXTINF:-1 tvg-logo="https://www.adgully.com/img/400/2010-07-SAB-TV.jpg" group-title="UNITED KINGDOM",UK Sab TV (SET)
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2213.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Sky1_Germany_Logo_2016.png" group-title="UK SPORTS",UK SKY 1 HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Sky1_Germany_Logo_2016.png" group-title="UNITED KINGDOM",UK SKY 1 HD
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2211.m3u8
-#EXTINF:-1 tvg-logo="https://www.skyartsartistoftheyear.tv/wp-content/themes/skyarts/assets/images/logoHD2018@2x.jpg" group-title="UK SPORTS",UK Sky Arts
+#EXTINF:-1 tvg-logo="https://www.skyartsartistoftheyear.tv/wp-content/themes/skyarts/assets/images/logoHD2018@2x.jpg" group-title="UNITED KINGDOM",UK Sky Arts
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2210.m3u8
-#EXTINF:-1 tvg-logo="https://static.skyassets.com/contentstack/assets/blt143e20b03d72047e/blt5efc2d29001a586b/5def40d8d03adf37d49cc4fc/Sky_Atlantic_-_Logo_2018.png" group-title="UK SPORTS",UK Sky Atlantic
+#EXTINF:-1 tvg-logo="https://static.skyassets.com/contentstack/assets/blt143e20b03d72047e/blt5efc2d29001a586b/5def40d8d03adf37d49cc4fc/Sky_Atlantic_-_Logo_2018.png" group-title="UNITED KINGDOM",UK Sky Atlantic
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2209.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Sky_One_-_Logo_2017.svg/1280px-Sky_One_-_Logo_2017.svg.png" group-title="UK SPORTS",UK Sky One
+#EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM",UK Sky Batman
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/650428.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Sky_Cinema_Action_DE_Logo_2016.png" group-title="UNITED KINGDOM",UK Sky Cinema Action & Adventure (SHD)
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2207.m3u8
+#EXTINF:-1 tvg-logo="https://media.info/i/lf/0/1598063422/7361.png" group-title="UNITED KINGDOM",UK Sky Cinema Animation FHD
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/587860.m3u8
+#EXTINF:-1 tvg-logo="https://www.studiouniversal.it/logo_thumb/sky-cinema-comedy-thumb.png" group-title="UNITED KINGDOM",UK Sky Cinema Comedy
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2206.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM",UK Sky Cinema Drama
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/650435.m3u8
+#EXTINF:-1 tvg-logo="https://www.silversirens.co.uk/gifs/thumb3_sky-cinema-drama-romance.png" group-title="UNITED KINGDOM",UK Sky Cinema Drama
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2205.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM",UK Sky Cinema Family
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/650430.m3u8
+#EXTINF:-1 tvg-logo="https://media.info/i/lf/0/1507843147/1420.png" group-title="UNITED KINGDOM",UK Sky Cinema Family
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2204.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM",UK Sky Cinema Gangsters
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/650426.m3u8
+#EXTINF:-1 tvg-logo="https://media.info/i/lf/0/1507843189/1424.png" group-title="UNITED KINGDOM",UK Sky Cinema Greats
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2203.m3u8
+#EXTINF:-1 tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2020/06/SKY-CINEMA-HITS-June-2020.png" group-title="UNITED KINGDOM",UK Sky Cinema Hits
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/487358.m3u8
+#EXTINF:-1 tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2017/11/Sky-Cinema-Premiere.png" group-title="UNITED KINGDOM",UK Sky Cinema Premiere
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2202.m3u8
+#EXTINF:-1 tvg-logo="https://media.info/i/lf/300/1507843243/1423.png" group-title="UNITED KINGDOM",UK Sky Cinema Select
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2200.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM",UK Sky Cinema Thriller
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/650433.m3u8
+#EXTINF:-1 tvg-logo="https://broadbanddeals.co.uk/wp-content/uploads/2018/11/sky-thriller-300x113.jpg" group-title="UNITED KINGDOM",UK Sky Cinema Thriller
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2198.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM",UK Sky Crime
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/650418.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.images.express.co.uk/img/dynamic/59/590x/secondary/Sky-Nature-New-Channels-Free-UK-2420167.jpg" group-title="UNITED KINGDOM",UK Sky Nature
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/103905.m3u8
+#EXTINF:-1 tvg-logo="https://stopgendercide.org/wp-content/uploads/2018/09/sky-news-logo2-1.png" group-title="UNITED KINGDOM",UK Sky News
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2197.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Sky_One_-_Logo_2017.svg/1280px-Sky_One_-_Logo_2017.svg.png" group-title="UNITED KINGDOM",UK Sky One
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2196.m3u8
-#EXTINF:-1 tvg-logo="https://sekdrive.net/wp-content/uploads/2018/08/Sky-Sports-Action-HD-UK-1-1280x720.png" group-title="UK SPORTS",UK Sky Sports Action
+#EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM",UK Sky Showcase
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/650417.m3u8
+#EXTINF:-1 tvg-logo="https://sekdrive.net/wp-content/uploads/2018/08/Sky-Sports-Action-HD-UK-1-1280x720.png" group-title="UNITED KINGDOM",UK Sky Sports Action
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2195.m3u8
-#EXTINF:-1 tvg-logo="https://sekdrive.net/wp-content/uploads/2018/08/Sky-Sports-Action-HD-UK-1-1280x720.png" group-title="UK SPORTS",UK Sky Sports Action HD
+#EXTINF:-1 tvg-logo="https://sekdrive.net/wp-content/uploads/2018/08/Sky-Sports-Action-HD-UK-1-1280x720.png" group-title="UNITED KINGDOM",UK Sky Sports Action HD
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2194.m3u8
-#EXTINF:-1 tvg-logo="https://www.webtv.so/uploads/images/channel_141_1516257859_thumb.png" group-title="UK SPORTS",UK Sky Sports Arena HD
+#EXTINF:-1 tvg-logo="https://www.webtv.so/uploads/images/channel_141_1516257859_thumb.png" group-title="UNITED KINGDOM",UK Sky Sports Arena HD
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2193.m3u8
-#EXTINF:-1 tvg-logo="https://sportsjournalism.myblog.arts.ac.uk/files/2015/01/JpMroqIH.png" group-title="UK SPORTS",UK Sky Sports Cricket
+#EXTINF:-1 tvg-logo="https://sportsjournalism.myblog.arts.ac.uk/files/2015/01/JpMroqIH.png" group-title="UNITED KINGDOM",UK Sky Sports Cricket
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2192.m3u8
-#EXTINF:-1 tvg-logo="https://sportsjournalism.myblog.arts.ac.uk/files/2015/01/JpMroqIH.png" group-title="UK SPORTS",UK Sky Sports Cricket HD
+#EXTINF:-1 tvg-logo="https://sportsjournalism.myblog.arts.ac.uk/files/2015/01/JpMroqIH.png" group-title="UNITED KINGDOM",UK Sky Sports Cricket HD
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2191.m3u8
-#EXTINF:-1 tvg-logo="https://www.sporteconomy.it/wp-content/uploads/2016/01/Sky-Sport-F1-HD-IT-CMYK-267136.jpg" group-title="UK SPORTS",UK Sky Sports F1
+#EXTINF:-1 tvg-logo="https://www.sporteconomy.it/wp-content/uploads/2016/01/Sky-Sport-F1-HD-IT-CMYK-267136.jpg" group-title="UNITED KINGDOM",UK Sky Sports F1
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2190.m3u8
-#EXTINF:-1 tvg-logo="https://www.sporteconomy.it/wp-content/uploads/2016/01/Sky-Sport-F1-HD-IT-CMYK-267136.jpg" group-title="UK SPORTS",UK Sky Sports F1 HD
+#EXTINF:-1 tvg-logo="https://www.sporteconomy.it/wp-content/uploads/2016/01/Sky-Sport-F1-HD-IT-CMYK-267136.jpg" group-title="UNITED KINGDOM",UK Sky Sports F1 HD
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2189.m3u8
-#EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Sky_Sports_Football.png" group-title="UK SPORTS",UK Sky Sports Football HD
+#EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Sky_Sports_Football.png" group-title="UNITED KINGDOM",UK Sky Sports Football HD
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2188.m3u8
-#EXTINF:-1 tvg-logo="https://media.info/i/lf/0/1507600318/1110.png" group-title="UK SPORTS",UK Sky Sports Golf
+#EXTINF:-1 tvg-logo="https://media.info/i/lf/0/1507600318/1110.png" group-title="UNITED KINGDOM",UK Sky Sports Golf
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2187.m3u8
-#EXTINF:-1 tvg-logo="https://www.eir.ie/opencms/export/sites/default/.galleries/eir/tv/logos/skysports/skysportsgolf_130x130.png" group-title="UK SPORTS",UK Sky Sports Golf HD
+#EXTINF:-1 tvg-logo="https://www.eir.ie/opencms/export/sites/default/.galleries/eir/tv/logos/skysports/skysportsgolf_130x130.png" group-title="UNITED KINGDOM",UK Sky Sports Golf HD
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2186.m3u8
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-6fz4IHYpdg8/WzWW31npvGI/AAAAAAAAAUg/oIwjzlSngxAaUS9EdGQna-LvJBglsmxVgCLcBGAs/s320/download.png" group-title="UK SPORTS",UK Sky Sports Main Events
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-6fz4IHYpdg8/WzWW31npvGI/AAAAAAAAAUg/oIwjzlSngxAaUS9EdGQna-LvJBglsmxVgCLcBGAs/s320/download.png" group-title="UNITED KINGDOM",UK Sky Sports Main Events
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2185.m3u8
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-6fz4IHYpdg8/WzWW31npvGI/AAAAAAAAAUg/oIwjzlSngxAaUS9EdGQna-LvJBglsmxVgCLcBGAs/s320/download.png" group-title="UK SPORTS",UK Sky Sports Main Events HD
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-6fz4IHYpdg8/WzWW31npvGI/AAAAAAAAAUg/oIwjzlSngxAaUS9EdGQna-LvJBglsmxVgCLcBGAs/s320/download.png" group-title="UNITED KINGDOM",UK Sky Sports Main Events HD
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2184.m3u8
-#EXTINF:-1 tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2016/03/Sky-Sports-Mix.jpg" group-title="UK SPORTS",UK Sky Sports MIX
+#EXTINF:-1 tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2016/03/Sky-Sports-Mix.jpg" group-title="UNITED KINGDOM",UK Sky Sports MIX
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2180.m3u8
-#EXTINF:-1 tvg-logo="https://www.sportda.com/wp-content/uploads/2018/10/SKY-SPORTS-PREMIER-LEAGUE-HD.png" group-title="UK SPORTS",UK Sky Sports Premier League
+#EXTINF:-1 tvg-logo="https://www.rokt.co.uk/wp-content/uploads/sky-sports-news-UK-logo.png" group-title="UNITED KINGDOM",UK Sky Sports News
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2183.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Sky_Sport_News_HD_Logo_2016.png" group-title="UNITED KINGDOM",UK Sky Sports News HD
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2179.m3u8
+#EXTINF:-1 tvg-logo="https://www.sportda.com/wp-content/uploads/2018/10/SKY-SPORTS-PREMIER-LEAGUE-HD.png" group-title="UNITED KINGDOM",UK Sky Sports Premier League
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2182.m3u8
-#EXTINF:-1 tvg-logo="https://www.sportda.com/wp-content/uploads/2018/10/SKY-SPORTS-PREMIER-LEAGUE-HD.png" group-title="UK SPORTS",UK Sky Sports Premier League HD
+#EXTINF:-1 tvg-logo="https://www.sportda.com/wp-content/uploads/2018/10/SKY-SPORTS-PREMIER-LEAGUE-HD.png" group-title="UNITED KINGDOM",UK Sky Sports Premier League HD
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2181.m3u8
-#EXTINF:-1 tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2018/01/SKY_TWO_WITHOUT_KEYLINE_CMYK.png" group-title="UK SPORTS",UK Sky Two
+#EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM",UK Sky Superheroes
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/650429.m3u8
+#EXTINF:-1 tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2018/01/SKY_TWO_WITHOUT_KEYLINE_CMYK.png" group-title="UNITED KINGDOM",UK Sky Two
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2178.m3u8
-#EXTINF:-1 tvg-logo="https://tvhighlights.bradfordzone.co.uk/wp-content/uploads/sites/4/2019/01/Sky-Witness.jpg" group-title="UK SPORTS",UK Sky Witness
+#EXTINF:-1 tvg-logo="https://tvhighlights.bradfordzone.co.uk/wp-content/uploads/sites/4/2019/01/Sky-Witness.jpg" group-title="UNITED KINGDOM",UK Sky Witness
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2177.m3u8
-#EXTINF:-1 tvg-logo="https://static.stv.tv/img/misc/stv-hd-logo.gif" group-title="UK SPORTS",UK STV HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="UNITED KINGDOM",UK Sony Channel
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2176.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/800029326812946433/USzCzkZL_400x400.jpg" group-title="UNITED KINGDOM",UK Sony Movies
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2175.m3u8
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/uk-movies-4-men-6944.jpg" group-title="UNITED KINGDOM",UK Sony Movies Action
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2252.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/40/Star_Bharat_Official_Logo.jpg" group-title="UNITED KINGDOM",UK Star Bharat
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2173.m3u8
+#EXTINF:-1 tvg-logo="https://admin.thecricketer.com/weblab/sites/96c8b790-b593-bfda-0ba4-ecd3a9fdefc2/resources/images/site/stargold190301-min.jpg" group-title="UNITED KINGDOM",UK Star Gold
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2172.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/af/f9/88/aff988264f4370f3aa193f95c3c6a575.jpg" group-title="UNITED KINGDOM",UK Star Plus
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2170.m3u8
+#EXTINF:-1 tvg-logo="https://static.stv.tv/img/misc/stv-hd-logo.gif" group-title="UNITED KINGDOM",UK STV HD
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2168.m3u8
-#EXTINF:-1 tvg-logo="https://www.gateworld.net/wp-content/uploads/syfy_logo.gif" group-title="UK SPORTS",UK Syfy
+#EXTINF:-1 tvg-logo="https://www.gateworld.net/wp-content/uploads/syfy_logo.gif" group-title="UNITED KINGDOM",UK Syfy
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2167.m3u8
-#EXTINF:-1 tvg-logo="https://talkingpicturestv.co.uk/wp-content/uploads/2015/03/logo-550-300x273.png" group-title="UK SPORTS",UK Talking Pictures HD
+#EXTINF:-1 tvg-logo="https://talkingpicturestv.co.uk/wp-content/uploads/2015/03/logo-550-300x273.png" group-title="UNITED KINGDOM",UK Talking Pictures HD
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2166.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/TCM_HD.png" group-title="UK SPORTS",UK TCM HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/TCM_HD.png" group-title="UNITED KINGDOM",UK TCM HD
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2165.m3u8
-#EXTINF:-1 tvg-logo="https://media.glassdoor.com/sqll/1161918/tg4-squarelogo-1452886334240.png" group-title="UK SPORTS",UK TG4
+#EXTINF:-1 tvg-logo="https://media.glassdoor.com/sqll/1161918/tg4-squarelogo-1452886334240.png" group-title="UNITED KINGDOM",UK TG4
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2164.m3u8
-#EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2017/04/Travel_Channel_United_Kingdom_UK_logo.png" group-title="UK SPORTS",UK TLC
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/uk-tiny-pop-tv.jpg" group-title="UNITED KINGDOM",UK Tiny Pop
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2162.m3u8
+#EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2017/04/Travel_Channel_United_Kingdom_UK_logo.png" group-title="UNITED KINGDOM",UK TLC
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2161.m3u8
-#EXTINF:-1 tvg-logo="https://tvadvertising.co.uk/wp-content/uploads/2023/12/8_image.png" group-title="UK SPORTS",UK TNT Sports 1
+#EXTINF:-1 tvg-logo="https://tvadvertising.co.uk/wp-content/uploads/2023/12/8_image.png" group-title="UNITED KINGDOM",UK TNT Sports 1
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/737805.m3u8
-#EXTINF:-1 tvg-logo="https://www.digitaltveurope.com/files/2017/02/TruTV_logo.jpeg" group-title="UK SPORTS",UK True Drama
+#EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2017/04/Travel_Channel_United_Kingdom_UK_logo.png" group-title="UNITED KINGDOM",UK Travel Channel
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2159.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/True_Crime.png" group-title="UNITED KINGDOM",UK True Crime
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/93544.m3u8
+#EXTINF:-1 tvg-logo="https://www.digitaltveurope.com/files/2017/02/TruTV_logo.jpeg" group-title="UNITED KINGDOM",UK True Drama
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2156.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/50/21/df/5021dfa6d282cd686d4976384e51bfb7.png" group-title="UK SPORTS",UK True Entertainment
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/50/21/df/5021dfa6d282cd686d4976384e51bfb7.png" group-title="UNITED KINGDOM",UK True Entertainment
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2158.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/UTV_2016.svg/1200px-UTV_2016.svg.png" group-title="UK SPORTS",UK UTV Ireland
+#EXTINF:-1 tvg-logo="https://presentationarchive.com/truechristmas/icon1.jpg" group-title="UNITED KINGDOM",UK True Movies
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2157.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Universal_TV_2018.svg/1200px-Universal_TV_2018.svg.png" group-title="UNITED KINGDOM",UK Universal Channel HD
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2151.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/UTV_2016.svg/1200px-UTV_2016.svg.png" group-title="UNITED KINGDOM",UK UTV Ireland
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2150.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/c2JAcCunW8Y/maxresdefault.jpg" group-title="UK SPORTS",UK Viceland HD
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/c2JAcCunW8Y/maxresdefault.jpg" group-title="UNITED KINGDOM",UK Viceland HD
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2148.m3u8
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-wqDn69IKQHA/Tx1ifLhdbGI/AAAAAAAAD34/6tpfjTKwJyo/s1600/Watch+logo+2012.jpg" group-title="UK SPORTS",UK Watch
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-wqDn69IKQHA/Tx1ifLhdbGI/AAAAAAAAD34/6tpfjTKwJyo/s1600/Watch+logo+2012.jpg" group-title="UNITED KINGDOM",UK Watch
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2145.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Yesterday_logo_2012.svg/1200px-Yesterday_logo_2012.svg.png" group-title="UK SPORTS",UK Yesterday HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Yesterday_logo_2012.svg/1200px-Yesterday_logo_2012.svg.png" group-title="UNITED KINGDOM",UK Yesterday HD
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2144.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Zee_TV_Logo_2014.png" group-title="UK SPORTS",UK Zee TV
+#EXTINF:-1 tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2017/12/Zee-CINEMA.png" group-title="UNITED KINGDOM",UK Zee Cinema
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2143.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Zee_TV_Logo_2014.png" group-title="UNITED KINGDOM",UK Zee TV
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2142.m3u8
-#EXTINF:-1 tvg-logo="https://media.info/i/lf/0/1546303327/1161.png" group-title="UK SPORTS",UK Sky Sports Racing (HD)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/Zing_2011_logo.png" group-title="UNITED KINGDOM",UK Zing
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2140.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM",USA Asian Zee Cinema (Hindi)
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/543967.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM",UK HD: ITV4
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/550191.m3u8
+#EXTINF:-1 tvg-logo="https://media.info/i/lf/0/1546303327/1161.png" group-title="UNITED KINGDOM",UK Sky Sports Racing (HD)
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/527483.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Alibi.svg/1200px-Alibi.svg.png" group-title="UK SPORTS",UK Alibi
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Alibi.svg/1200px-Alibi.svg.png" group-title="UNITED KINGDOM",UK Alibi
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2368.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Aaj_tak_logo.png" group-title="UK SPORTS",UK Aaj Tak
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Aaj_tak_logo.png" group-title="UNITED KINGDOM",UK Aaj Tak
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2370.m3u8
-#EXTINF:-1 tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2020/09/Sky-Sports-Football-2020-logo-250.png" group-title="UK SPORTS",UK Sky Sports Football
+#EXTINF:-1 tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2020/09/Sky-Sports-Football-2020-logo-250.png" group-title="UNITED KINGDOM",UK Sky Sports Football
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/30822.m3u8
-#EXTINF:-1 tvg-logo="https://www.premiersports.com/assets/components/mor/General/img/premier-sports-logo.png" group-title="UK SPORTS",UK PREMIER  SPORTS 1
+#EXTINF:-1 tvg-logo="https://www.premiersports.com/assets/components/mor/General/img/premier-sports-logo.png" group-title="UNITED KINGDOM",UK PREMIER  SPORTS 1
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/89089.m3u8
-#EXTINF:-1 tvg-logo="https://www.premiersports.com/assets/components/mor/General/img/premier-sports-logo.png" group-title="UK SPORTS",UK PREMIER SPORTS 2
+#EXTINF:-1 tvg-logo="https://www.premiersports.com/assets/components/mor/General/img/premier-sports-logo.png" group-title="UNITED KINGDOM",UK PREMIER SPORTS 2
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/89090.m3u8
-#EXTINF:-1 tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2020/09/Sky-Sports-Racing-2020-logo-250.png" group-title="UK SPORTS",UK Sky Sports Racing
+#EXTINF:-1 tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2020/09/Sky-Sports-Racing-2020-logo-250.png" group-title="UNITED KINGDOM",UK Sky Sports Racing
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/102182.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK SPORTS",UK TNT Sports 4 FHD
+#EXTINF:-1 tvg-logo="" group-title="UNITED KINGDOM",UK TNT Sports 4 FHD
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/675021.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/fd/da/27/fdda27d0e10f6edd4650f4192cb4752a.png" group-title="UK SPORTS",UK TNT Sports 3 FHD 50fps
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/fd/da/27/fdda27d0e10f6edd4650f4192cb4752a.png" group-title="UNITED KINGDOM",UK TNT Sports 3 FHD 50fps
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2335.m3u8
-#EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/164-1646718_bt-sports-2-logo-hd-png-download.png" group-title="UK SPORTS",UK TNT Sports 2 FHD 50fps
+#EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/164-1646718_bt-sports-2-logo-hd-png-download.png" group-title="UNITED KINGDOM",UK TNT Sports 2 FHD 50fps
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2336.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/F2R303x.png" group-title="UK SPORTS",UK TNT Sports 1 FHD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F2R303x.png" group-title="UNITED KINGDOM",UK TNT Sports 1 FHD
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2337.m3u8
-#EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/51xUI0%2B-ClL.png" group-title="UK SPORTS",UK Box Nation HD
+#EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/51xUI0%2B-ClL.png" group-title="UNITED KINGDOM",UK Box Nation HD
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2338.m3u8
-#EXTINF:-1 tvg-logo="https://london.theaisummit.com/wp-content/uploads/2016/09/Bloomberg-logo.jpg" group-title="UK SPORTS",UK Bloomberg
+#EXTINF:-1 tvg-logo="https://london.theaisummit.com/wp-content/uploads/2016/09/Bloomberg-logo.jpg" group-title="UNITED KINGDOM",UK Bloomberg
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2341.m3u8
-#EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/41tKMKrOAaL.png" group-title="UK SPORTS",UK Blaze
+#EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/41tKMKrOAaL.png" group-title="UNITED KINGDOM",UK Blaze
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2342.m3u8
-#EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/tpd/logos/51d9294d0000640005537c3e/0x0.png" group-title="UK SPORTS",UK BET
+#EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/tpd/logos/51d9294d0000640005537c3e/0x0.png" group-title="UNITED KINGDOM",UK BET
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2344.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="UK SPORTS",UK baby tv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="UNITED KINGDOM",UK baby tv
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2360.m3u8
-#EXTINF:-1 tvg-logo="https://tipstersempire.co.uk/wp-content/uploads/2017/01/attheraces.png" group-title="UK SPORTS",UK At The Races
+#EXTINF:-1 tvg-logo="https://tipstersempire.co.uk/wp-content/uploads/2017/01/attheraces.png" group-title="UNITED KINGDOM",UK At The Races
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2364.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/1200px-Animal_Planet_logo.svg.png" group-title="UK SPORTS",UK Animal Planet
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/1200px-Animal_Planet_logo.svg.png" group-title="UNITED KINGDOM",UK Animal Planet
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2365.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/41/67/14/4167141e1f17472f8bc0027555f57a3a.png" group-title="UK SPORTS",UK AMC
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/41/67/14/4167141e1f17472f8bc0027555f57a3a.png" group-title="UNITED KINGDOM",UK AMC
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2367.m3u8
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-eir-sport-2-214.png" group-title="UK SPORTS",UK Eir Sport 2
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-eir-sport-2-214.png" group-title="UNITED KINGDOM",UK Eir Sport 2
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2287.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9d/Eirsport1logo.png" group-title="UK SPORTS",UK Eir Sport 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9d/Eirsport1logo.png" group-title="UNITED KINGDOM",UK Eir Sport 1
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2289.m3u8
-#EXTINF:-1 tvg-logo="https://www.spaceanswers.com/wp-content/uploads/2012/07/Eden.jpg" group-title="UK SPORTS",UK EDEN HD
+#EXTINF:-1 tvg-logo="https://www.spaceanswers.com/wp-content/uploads/2012/07/Eden.jpg" group-title="UNITED KINGDOM",UK EDEN HD
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2290.m3u8
-#EXTINF:-1 tvg-logo="https://res.cloudinary.com/uktv/image/upload/v1474640968/uttlencimysvuz2gs41p.jpg" group-title="UK SPORTS",UK DMAX HD
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/uktv/image/upload/v1474640968/uttlencimysvuz2gs41p.jpg" group-title="UNITED KINGDOM",UK DMAX HD
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2295.m3u8
-#EXTINF:-1 tvg-logo="https://thumborcdn.acast.com/3OIcgPPJ3d0TxXY6pylST7nHWiA=/1500x1500/https://mediacdn.acast.com/assets/afceb62a-3487-4c96-b760-72421fdf7891/-jrosbpfb-insidecrimeinvestigation.png" group-title="UK SPORTS",UK Crime & Investigation HD
+#EXTINF:-1 tvg-logo="https://thumborcdn.acast.com/3OIcgPPJ3d0TxXY6pylST7nHWiA=/1500x1500/https://mediacdn.acast.com/assets/afceb62a-3487-4c96-b760-72421fdf7891/-jrosbpfb-insidecrimeinvestigation.png" group-title="UNITED KINGDOM",UK Crime & Investigation HD
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2304.m3u8
-#EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/29-295452_transparent-comedian-png-comedy-central-new-png-download.png" group-title="UK SPORTS",UK Comedy Central HD
+#EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/29-295452_transparent-comedian-png-comedy-central-new-png-download.png" group-title="UNITED KINGDOM",UK Comedy Central HD
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2305.m3u8
-#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/225-2251469_comedy-central-extra-logo-with-copyright-symbol.png" group-title="UK SPORTS",UK Comedy Central Extra
+#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/225-2251469_comedy-central-extra-logo-with-copyright-symbol.png" group-title="UNITED KINGDOM",UK Comedy Central Extra
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2306.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/fd/da/27/fdda27d0e10f6edd4650f4192cb4752a.png" group-title="UK SPORTS",UK BT Sports 3 HD
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/fd/da/27/fdda27d0e10f6edd4650f4192cb4752a.png" group-title="UNITED KINGDOM",UK BT Sports 3 HD
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2325.m3u8
-#EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/164-1646718_bt-sports-2-logo-hd-png-download.png" group-title="UK SPORTS",UK BT Sports 2 HD
+#EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/164-1646718_bt-sports-2-logo-hd-png-download.png" group-title="UNITED KINGDOM",UK BT Sports 2 HD
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2326.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/F2R303x.png" group-title="UK SPORTS",UK BT Sports 9 Extra 5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F2R303x.png" group-title="UNITED KINGDOM",UK BT Sports 9 Extra 5
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2327.m3u8
-#EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/bt_sport_extra_4.png" group-title="UK SPORTS",UK BT Sports 10 Extra 6
+#EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/bt_sport_extra_4.png" group-title="UNITED KINGDOM",UK BT Sports 10 Extra 6
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2329.m3u8
-#EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/bt_sport_extra_3.png" group-title="UK SPORTS",UK BT Sports 7 Extra 3
+#EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/bt_sport_extra_3.png" group-title="UNITED KINGDOM",UK BT Sports 7 Extra 3
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2330.m3u8
-#EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/bt_sport_extra_2.png" group-title="UK SPORTS",UK BT Sports 6 Extra 2
+#EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/bt_sport_extra_2.png" group-title="UNITED KINGDOM",UK BT Sports 6 Extra 2
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2331.m3u8
-#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a101.png" group-title="UK SPORTS",UK TNT Sports 5 Extra 1
+#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a101.png" group-title="UNITED KINGDOM",UK TNT Sports 5 Extra 1
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2332.m3u8
-#EXTINF:-1 tvg-logo="https://archive.org/download/BtSportExtra4/bt%20sport%20extra%204.png" group-title="UK SPORTS",UK BT Sports 8 Extra 4
+#EXTINF:-1 tvg-logo="https://archive.org/download/BtSportExtra4/bt%20sport%20extra%204.png" group-title="UNITED KINGDOM",UK BT Sports 8 Extra 4
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2333.m3u8
-#EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/49-490263_bt-sport-espn-bt-sports-espn-hd-hd.png" group-title="UK SPORTS",UK TNT Sports 4
+#EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/49-490263_bt-sport-espn-bt-sports-espn-hd-hd.png" group-title="UNITED KINGDOM",UK TNT Sports 4
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2334.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Pick%27s_new_logo.png" group-title="UK SPORTS",UK PICK
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Pick%27s_new_logo.png" group-title="UNITED KINGDOM",UK PICK
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2230.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-57LmKp3r8Yc/W1IaKpMa0HI/AAAAAAAAH3w/CHG21k-ARJQLg1oks8Qpnv02C1I6LGqTQCLcBGAs/s1600/nat-geo-wild-logo-featured.jpg" group-title="UK SPORTS",UK Nat Geo Wild
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-57LmKp3r8Yc/W1IaKpMa0HI/AAAAAAAAH3w/CHG21k-ARJQLg1oks8Qpnv02C1I6LGqTQCLcBGAs/s1600/nat-geo-wild-logo-featured.jpg" group-title="UNITED KINGDOM",UK Nat Geo Wild
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2239.m3u8
-#EXTINF:-1 tvg-logo="https://logodix.com/logo/1356605.jpg" group-title="UK SPORTS",UK Nat Geo
+#EXTINF:-1 tvg-logo="https://logodix.com/logo/1356605.jpg" group-title="UNITED KINGDOM",UK Nat Geo
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2240.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/a1/Man_Utd_FC_.svg/1200px-Man_Utd_FC_.svg.png" group-title="UK SPORTS",UK MUTV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/a1/Man_Utd_FC_.svg/1200px-Man_Utd_FC_.svg.png" group-title="UNITED KINGDOM",UK MUTV
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2242.m3u8
-#EXTINF:-1 tvg-logo="https://assets.tvplayer.com/common/logos/256/Colour/281.png" group-title="UK SPORTS",UK Life Time HD
+#EXTINF:-1 tvg-logo="https://assets.tvplayer.com/common/logos/256/Colour/281.png" group-title="UNITED KINGDOM",UK Life Time HD
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2258.m3u8
-#EXTINF:-1 tvg-logo="https://e0.365dm.com/19/05/768x432/skysports-lfctv-new-strapline-image_4662616.jpg" group-title="UK SPORTS",UK LFC TV
+#EXTINF:-1 tvg-logo="https://e0.365dm.com/19/05/768x432/skysports-lfctv-new-strapline-image_4662616.jpg" group-title="UNITED KINGDOM",UK LFC TV
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2259.m3u8
-#EXTINF:-1 tvg-logo="https://www.equine-careers.co.uk/logos/52316141525.jpg" group-title="UK SPORTS",UK Horse and Country
+#EXTINF:-1 tvg-logo="https://www.equine-careers.co.uk/logos/52316141525.jpg" group-title="UNITED KINGDOM",UK Horse and Country
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2267.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/897476761637842944/pCBqvRdq.jpg" group-title="UK SPORTS",UK Home Health
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/897476761637842944/pCBqvRdq.jpg" group-title="UNITED KINGDOM",UK Home Health
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2269.m3u8
-#EXTINF:-1 tvg-logo="https://banner2.cleanpng.com/20180404/kfq/kisspng-home-television-channel-uktv-free-to-air-uk-5ac49001242e59.6270709115228313611482.jpg" group-title="UK SPORTS",UK Home
+#EXTINF:-1 tvg-logo="https://banner2.cleanpng.com/20180404/kfq/kisspng-home-television-channel-uktv-free-to-air-uk-5ac49001242e59.6270709115228313611482.jpg" group-title="UNITED KINGDOM",UK Home
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2270.m3u8
-#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/history-logo-png-8.png" group-title="UK SPORTS",UK History HD
+#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/history-logo-png-8.png" group-title="UNITED KINGDOM",UK History HD
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2271.m3u8
-#EXTINF:-1 tvg-logo="https://img.favpng.com/18/3/8/h2-logo-television-channel-history-png-favpng-nm0j4zQPc406YNUkpdvQSp1dm.jpg" group-title="UK SPORTS",UK History 2
+#EXTINF:-1 tvg-logo="https://img.favpng.com/18/3/8/h2-logo-television-channel-history-png-favpng-nm0j4zQPc406YNUkpdvQSp1dm.jpg" group-title="UNITED KINGDOM",UK History 2
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2273.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Good_Food.svg/1200px-Good_Food.svg.png" group-title="UK SPORTS",UK Good Food
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Good_Food.svg/1200px-Good_Food.svg.png" group-title="UNITED KINGDOM",UK Good Food
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2274.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/Gold_2014.svg/1200px-Gold_2014.svg.png" group-title="UK SPORTS",UK Gold
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/Gold_2014.svg/1200px-Gold_2014.svg.png" group-title="UNITED KINGDOM",UK Gold
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2275.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/www.broadbandtvnews.com/wp-content/uploads/2017/08/FreeSports-Logo.jpg" group-title="UK SPORTS",UK FreeSports
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.broadbandtvnews.com/wp-content/uploads/2017/08/FreeSports-Logo.jpg" group-title="UNITED KINGDOM",UK FreeSports
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2276.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="UK SPORTS",UK Food Network
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="UNITED KINGDOM",UK Food Network
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2280.m3u8
-#EXTINF:-1 tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/1/1150.1443374382.png" group-title="UK SPORTS",UK EuroSport 2
+#EXTINF:-1 tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/1/1150.1443374382.png" group-title="UNITED KINGDOM",UK EuroSport 2
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2285.m3u8
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/618/97/png-clipart-television-channel-eurosport-2-eurosport-1-eurosport-hd-television-blue.png" group-title="UK SPORTS",UK EuroSport 1
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/618/97/png-clipart-television-channel-eurosport-2-eurosport-1-eurosport-hd-television-blue.png" group-title="UNITED KINGDOM",UK EuroSport 1
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2286.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/RT%C3%892_logo.svg" group-title="UK SPORTS",UK RTE 2 HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/RT%C3%892_logo.svg" group-title="UNITED KINGDOM",UK RTE 2 HD
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2219.m3u8
-#EXTINF:-1 tvg-logo="https://i2-prod.irishmirror.ie/incoming/article13884835.ece/ALTERNATES/s615/0_sdaasdsdJPG.jpg" group-title="UK SPORTS",UK RTE 1 HD
+#EXTINF:-1 tvg-logo="https://i2-prod.irishmirror.ie/incoming/article13884835.ece/ALTERNATES/s615/0_sdaasdsdJPG.jpg" group-title="UNITED KINGDOM",UK RTE 1 HD
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2220.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1107539116072161280/FDsDfyO4_400x400.png" group-title="UK SPORTS",UK Colors Rishtey
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1107539116072161280/FDsDfyO4_400x400.png" group-title="UNITED KINGDOM",UK Colors Rishtey
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2223.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-JGqN-L9KhIQ/WMBKT4-R3rI/AAAAAAAADUs/bY3a0dLMsc8SI_cSfylUfR71LUsopzwTACLcB/s1600/racing-hd.jpg" group-title="UK SPORTS",UK Sky Sport Racing HD
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-JGqN-L9KhIQ/WMBKT4-R3rI/AAAAAAAADUs/bY3a0dLMsc8SI_cSfylUfR71LUsopzwTACLcB/s1600/racing-hd.jpg" group-title="UNITED KINGDOM",UK Sky Sport Racing HD
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2226.m3u8
-#EXTINF:-1 tvg-logo="https://tbivision.com/files/2017/02/quest-red.png" group-title="UK SPORTS",UK Quest Red
+#EXTINF:-1 tvg-logo="https://tbivision.com/files/2017/02/quest-red.png" group-title="UNITED KINGDOM",UK Quest Red
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2227.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/42/Quest_logo_2014.svg/1200px-Quest_logo_2014.svg.png" group-title="UK SPORTS",UK Quest
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/42/Quest_logo_2014.svg/1200px-Quest_logo_2014.svg.png" group-title="UNITED KINGDOM",UK Quest
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/2228.m3u8
 
 # --- USA ENTERTAINMENT (240) ---
@@ -17253,48 +17279,6 @@ http://user.scalecdn.co:8080/live/Moniesavatar/85678534/177096.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="USA MLB",USA Real MLB 61:
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/177097.m3u8
 
-# --- USA MLS (20) ---
-#EXTINF:-1 tvg-logo="" group-title="USA MLS",MLS 01
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/715057.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USA MLS",MLS 02
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/715058.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USA MLS",MLS 03
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/715059.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USA MLS",MLS 04
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/715060.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USA MLS",MLS 05
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/715061.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USA MLS",MLS 06
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/715062.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USA MLS",MLS 07
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/715063.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USA MLS",MLS 08
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/715064.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USA MLS",MLS 09
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/715065.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USA MLS",MLS 10
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/715066.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USA MLS",MLS 11
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/715067.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USA MLS",MLS 12
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/715068.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USA MLS",MLS 13
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/715069.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USA MLS",MLS 14
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/715070.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USA MLS",MLS 15
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/715071.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USA MLS",MLS 16
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/715072.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USA MLS",MLS 17
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/715073.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USA MLS",MLS 18
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/715074.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USA MLS",MLS 19
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/715075.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USA MLS",MLS 20
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/715076.m3u8
-
 # --- USA MOVIES (133) ---
 #EXTINF:-1 tvg-logo="" group-title="USA MOVIES",USA 5 Star Max
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/694516.m3u8
@@ -18071,7 +18055,7 @@ http://user.scalecdn.co:8080/live/Moniesavatar/85678534/390429.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/images/large/2x/minnesota-vikings-logo-transparent.png" group-title="USA NFL",USA NFL: Vikings
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/390428.m3u8
 
-# --- USA NHL (88) ---
+# --- USA NHL (89) ---
 #EXTINF:-1 tvg-logo="" group-title="USA NHL",USA NHL Anaheim Ducks
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/509719.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA NHL",USA NHL Arizona Coyotes
@@ -18144,11 +18128,13 @@ http://user.scalecdn.co:8080/live/Moniesavatar/85678534/205050.m3u8
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/205051.m3u8
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA NHL",USA Real NHL 07: NYI VS EDM (TVAS Feed ) @ 9:00 pm
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/205052.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA NHL",USA Real NHL 09: Winnipeg Jets vs Minnesota Wild @ 08:00 PM
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA NHL",USA Real NHL 08:
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/205053.m3u8
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA NHL",USA Real NHL 09:
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/205054.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA NHL",USA Real NHL 10: Dallas Stars vs Utah Mammoth @ 09:00 PM
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA NHL",USA Real NHL 10:
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/205055.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA NHL",USA Real NHL 11: Toronto Maple Leafs vs Vegas Golden Knights @ 09:30 PM
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA NHL",USA Real NHL 11:
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/205056.m3u8
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA NHL",USA Real NHL 12:
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/205057.m3u8
@@ -18907,4 +18893,4 @@ http://user.scalecdn.co:8080/live/Moniesavatar/85678534/660965.m3u8
 #EXTINF:-1 tvg-logo="" group-title="VIETNAM",VN Vietface TV
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/660966.m3u8
 
-# Total: 9328
+# Total: 9329

@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: uzay.pro:8080
-# Generated: 2026-01-15 07:12:06
+# Generated: 2026-01-16 07:07:15
 # Expires: 2026-04-13
 # Family Safe Edition
 # ==============================================
@@ -2885,7 +2885,7 @@ http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/597908.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/24-7Kino.png" group-title="DE KINO - SERIEN 24 - 7",DE: DRAGONBALL Z 24 - 7 HD
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/597907.m3u8
 
-# --- DE MAGENTA TV (218) ---
+# --- DE MAGENTA TV (220) ---
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/flag/ger.png" group-title="DE MAGENTA TV",DE: ----- MAGENTA TV -----
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/633476.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/das_erste.png" group-title="DE MAGENTA TV",DE: |MAGENTA| DAS ERSTE
@@ -3260,6 +3260,10 @@ http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/633373.m3u8
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/633372.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/a-z/--T--/tv5monde.png" group-title="DE MAGENTA TV",DE: |MAGENTA| TV5MONDE EUROPE
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/633371.m3u8
+#EXTINF:-1 tvg-logo="https://www.telekom.com/resource/image/1100584/landscape_ratio4x3/1296/972/9b59c796a555d5ec42c5f353c9822424/C5EDA4E806F2762161351164BC5BF258/bi-251222-magentatv-golf.jpg" group-title="DE MAGENTA TV",DE: |MAGENTA| MS GOLF 1
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/657212.m3u8
+#EXTINF:-1 tvg-logo="https://www.telekom.com/resource/image/1100584/landscape_ratio4x3/1296/972/9b59c796a555d5ec42c5f353c9822424/C5EDA4E806F2762161351164BC5BF258/bi-251222-magentatv-golf.jpg" group-title="DE MAGENTA TV",DE: |MAGENTA| MS GOLF 2
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/657213.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/AMZ/MORETHANSPORTSTV.png" group-title="DE MAGENTA TV",DE: |MAGENTA| MORE THAN SPORTS TV
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/633448.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/red-bull-tv.png" group-title="DE MAGENTA TV",DE: |MAGENTA| RED BULL TV
@@ -3390,7 +3394,7 @@ http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/497453.m3u8
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/195545.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/bild.png" group-title="DE NEWS - INFORMATION",DE: BILD
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/528342.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/Channel21.png" group-title="DE NEWS - INFORMATION",DE: CHANNEL 21
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/Channel21.png" group-title="DE NEWS - INFORMATION",DE: CHANNEL21
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/497459.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/2021mixlogo/dw.png" group-title="DE NEWS - INFORMATION",DE: DW TV
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/179554.m3u8
@@ -4633,4 +4637,4 @@ http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/210664.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/macedonia/alsat.png" group-title="MK MACEDONIA",MK: ALSAT M TV
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/290212.m3u8
 
-# Total: 2281
+# Total: 2283

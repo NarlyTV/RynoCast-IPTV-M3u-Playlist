@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: cms.weltiptv.com:8000
-# Generated: 2026-01-15 18:34:16
+# Generated: 2026-01-16 07:17:00
 # Expires: 2026-02-16
 # Family Safe Edition
 # ==============================================
@@ -367,7 +367,7 @@ http://cms.weltiptv.com:8000/live/hVTQBPN8sG/UxLLyQjNzf/62099.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TR |  beiN SPORT & EXXEN",TABii SPOR 10 ꜰʜᴅ
 http://cms.weltiptv.com:8000/live/hVTQBPN8sG/UxLLyQjNzf/62100.m3u8
 
-# --- TR | BELGESEL (18) ---
+# --- TR | BELGESEL (20) ---
 #EXTINF:-1 tvg-logo="" group-title="TR | BELGESEL",TRT BELGESEL ʜᴅ
 http://cms.weltiptv.com:8000/live/hVTQBPN8sG/UxLLyQjNzf/61948.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TR | BELGESEL",NAT GEO WILD ꜰʜᴅ
@@ -404,6 +404,10 @@ http://cms.weltiptv.com:8000/live/hVTQBPN8sG/UxLLyQjNzf/61963.m3u8
 http://cms.weltiptv.com:8000/live/hVTQBPN8sG/UxLLyQjNzf/61964.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TR | BELGESEL",YABAN TV ʜᴅ
 http://cms.weltiptv.com:8000/live/hVTQBPN8sG/UxLLyQjNzf/61965.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TR | BELGESEL",BeiN Gurme
+http://cms.weltiptv.com:8000/live/hVTQBPN8sG/UxLLyQjNzf/62545.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TR | BELGESEL",BeiN iZ TV
+http://cms.weltiptv.com:8000/live/hVTQBPN8sG/UxLLyQjNzf/62546.m3u8
 
 # --- TR | COCUK (13) ---
 #EXTINF:-1 tvg-logo="" group-title="TR | COCUK",TRT COCUK ʜᴅ
@@ -771,4 +775,4 @@ http://cms.weltiptv.com:8000/live/hVTQBPN8sG/UxLLyQjNzf/59706.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TR | ULUSAL UHD",TRT 1 FHD
 http://cms.weltiptv.com:8000/live/hVTQBPN8sG/UxLLyQjNzf/59707.m3u8
 
-# Total: 368
+# Total: 370

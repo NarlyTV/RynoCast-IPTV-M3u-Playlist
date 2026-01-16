@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: dnsit.click:80
-# Generated: 2026-01-15 18:33:55
+# Generated: 2026-01-16 07:12:41
 # Expires: 2026-01-26
 # Family Safe Edition
 # ==============================================
@@ -96,6 +96,8 @@ http://dnsit.click:80/live/1junior6227luiz/62728juni73729/913992.m3u8
 http://dnsit.click:80/live/1junior6227luiz/62728juni73729/940846.m3u8
 
 # --- BBB 26 (12) ---
+#EXTINF:-1 tvg-logo="http://st1.binctv.org:8080/icon/1829-b-1767991318524.png" group-title="BBB 26",Mosaico
+http://dnsit.click:80/live/1junior6227luiz/62728juni73729/1278721.m3u8
 #EXTINF:-1 tvg-logo="http://st1.binctv.org:8080/icon/1829-b-1767991318524.png" group-title="BBB 26",BBB 01
 http://dnsit.click:80/live/1junior6227luiz/62728juni73729/1271892.m3u8
 #EXTINF:-1 tvg-logo="http://st1.binctv.org:8080/icon/1829-b-1767991318524.png" group-title="BBB 26",BBB 02
@@ -118,8 +120,6 @@ http://dnsit.click:80/live/1junior6227luiz/62728juni73729/1278718.m3u8
 http://dnsit.click:80/live/1junior6227luiz/62728juni73729/1278719.m3u8
 #EXTINF:-1 tvg-logo="http://st1.binctv.org:8080/icon/1829-b-1767991318524.png" group-title="BBB 26",Academia Nivea
 http://dnsit.click:80/live/1junior6227luiz/62728juni73729/1278720.m3u8
-#EXTINF:-1 tvg-logo="http://st1.binctv.org:8080/icon/1829-b-1767991318524.png" group-title="BBB 26",Mosaico
-http://dnsit.click:80/live/1junior6227luiz/62728juni73729/1278721.m3u8
 
 # --- CINE SKY (10) ---
 #EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/Cine%20Sky.png" group-title="CINE SKY",Cine Sky 1
@@ -1978,29 +1978,29 @@ http://dnsit.click:80/live/1junior6227luiz/62728juni73729/2160.m3u8
 http://dnsit.click:80/live/1junior6227luiz/62728juni73729/2159.m3u8
 
 # --- HORA DO JOGO (13) ---
-#EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/horadojogonew.png" group-title="HORA DO JOGO",14h00 Senegal x Egito
+#EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/horadojogonew.png" group-title="HORA DO JOGO",15h00 Palmeiras x Flamengo-SP (CP)
 http://dnsit.click:80/live/1junior6227luiz/62728juni73729/981577.m3u8
-#EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/horadojogonew.png" group-title="HORA DO JOGO",16h30 Colonia x Bayern
+#EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/horadojogonew.png" group-title="HORA DO JOGO",16h45 Como x Milan
 http://dnsit.click:80/live/1junior6227luiz/62728juni73729/981578.m3u8
-#EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/horadojogonew.png" group-title="HORA DO JOGO",17h00 Chelsea x Arsenal
+#EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/horadojogonew.png" group-title="HORA DO JOGO",17h00 Racing Santander x Barcelona
 http://dnsit.click:80/live/1junior6227luiz/62728juni73729/981579.m3u8
-#EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/horadojogonew.png" group-title="HORA DO JOGO",17h00 Albacete x Real Madrid
+#EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/horadojogonew.png" group-title="HORA DO JOGO",17h00 Fluminense x Ituano (CP)
 http://dnsit.click:80/live/1junior6227luiz/62728juni73729/981580.m3u8
-#EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/horadojogonew.png" group-title="HORA DO JOGO",17h45 Porto x Benfica
+#EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/horadojogonew.png" group-title="HORA DO JOGO",19h00 Portuguesa-RJ x Botafogo
 http://dnsit.click:80/live/1junior6227luiz/62728juni73729/981581.m3u8
-#EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/horadojogonew.png" group-title="HORA DO JOGO",19h30 Palmeiras x Santos
+#EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/horadojogonew.png" group-title="HORA DO JOGO",19h00 Monsoon x Internacional
 http://dnsit.click:80/live/1junior6227luiz/62728juni73729/981582.m3u8
-#EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/horadojogonew.png" group-title="HORA DO JOGO",21h30 Tombense x Cruzeiro
+#EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/horadojogonew.png" group-title="HORA DO JOGO",19h30 RB Bragantino x Corinthians
 http://dnsit.click:80/live/1junior6227luiz/62728juni73729/981817.m3u8
-#EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/horadojogonew.png" group-title="HORA DO JOGO",21h30 Gremio x Sao Jose
+#EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/horadojogonew.png" group-title="HORA DO JOGO",20h30 Fortaleza x Quixada
 http://dnsit.click:80/live/1junior6227luiz/62728juni73729/981818.m3u8
-#EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/horadojogonew.png" group-title="HORA DO JOGO",21h30 Bangu x Flamengo
+#EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/horadojogonew.png" group-title="HORA DO JOGO",21h00 Olimpia x Colo-Colo
 http://dnsit.click:80/live/1junior6227luiz/62728juni73729/981819.m3u8
-#EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/horadojogonew.png" group-title="HORA DO JOGO",21h30 Sport x Retro
+#EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/horadojogonew.png" group-title="HORA DO JOGO",21h30 Vasco x Marica
 http://dnsit.click:80/live/1junior6227luiz/62728juni73729/982820.m3u8
-#EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/horadojogonew.png" group-title="HORA DO JOGO",21h30 Ceara x Maranguape
+#EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/horadojogonew.png" group-title="HORA DO JOGO",21h30 Juventude x Botafogo (CP)
 http://dnsit.click:80/live/1junior6227luiz/62728juni73729/1119431.m3u8
-#EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/horadojogonew.png" group-title="HORA DO JOGO",Hora do Jogo! 12
+#EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/horadojogonew.png" group-title="HORA DO JOGO",21h45 Sao Paulo x Sao Bernardo
 http://dnsit.click:80/live/1junior6227luiz/62728juni73729/1203221.m3u8
 #EXTINF:-1 tvg-logo="http://channelart.8b90287dn2.online/images/logos/horadojogonew.png" group-title="HORA DO JOGO",Hora do Jogo! 13
 http://dnsit.click:80/live/1junior6227luiz/62728juni73729/1268343.m3u8
