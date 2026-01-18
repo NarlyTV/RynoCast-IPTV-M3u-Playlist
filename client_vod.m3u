@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: client.newborntv.xyz:88
-# Generated: 2026-01-17 18:33:40
+# Generated: 2026-01-18 07:19:54
 # Expires: 2026-02-22
 # Family Safe Edition
 # ==============================================
@@ -7507,7 +7507,9 @@ http://client.newborntv.xyz:88/movie/khFzEWQn/fP85XcC7E/89822.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xidZacCXALZTTxg3kAeIyqxRmkI.jpg" group-title="Movies | Riyadh Season 2024 - Kingdom Arena Boxing",Artur Beterbiev vs. Dmitry Bivol (2024)
 http://client.newborntv.xyz:88/movie/khFzEWQn/fP85XcC7E/89781.mkv
 
-# --- Movies | Seriale Turke Me Titra Shqip (14) ---
+# --- Movies | Seriale Turke Me Titra Shqip (15) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | Seriale Turke Me Titra Shqip",Mahkum  (I Burgosuri)
+http://client.newborntv.xyz:88/movie/khFzEWQn/fP85XcC7E/550.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Seriale Turke Me Titra Shqip",A.B.I. (2026)
 http://client.newborntv.xyz:88/movie/khFzEWQn/fP85XcC7E/549.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Seriale Turke Me Titra Shqip",Kuzey Yıldızı: İlk Aşk (2019)
@@ -12155,4 +12157,4 @@ http://client.newborntv.xyz:88/series/khFzEWQn/fP85XcC7E/248
 #EXTINF:-1 tvg-logo="" group-title="Series | Netflix Series",Squid Game: The Challenge
 http://client.newborntv.xyz:88/series/khFzEWQn/fP85XcC7E/247
 
-# Total: 6044
+# Total: 6045

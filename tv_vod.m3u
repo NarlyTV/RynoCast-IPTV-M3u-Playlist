@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: tv.streamid.tv:8080
-# Generated: 2026-01-17 18:30:40
+# Generated: 2026-01-18 07:18:18
 # Expires: 2026-01-20
 # Family Safe Edition
 # ==============================================
@@ -16581,7 +16581,7 @@ http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/234844.mkv
 #EXTINF:-1 tvg-logo="http://tv.streamid.tv:8080/images/b61ee53830970e300ebba30882a35502.jpg" group-title="Movies | VOD ESTRENOS 2025",Dune: Parte dos (2024) dual
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/191610.mkv
 
-# --- Movies | VOD FAMILIA (129) ---
+# --- Movies | VOD FAMILIA (130) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zI6O0Bf3BB3eSxp04Lkz0ficrvm.jpg" group-title="Movies | VOD FAMILIA",La telaraña de Carlota (2006) DUAL
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/294013.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oWf77GNpcgNz8HMP5XujV6gNwWx.jpg" group-title="Movies | VOD FAMILIA",CJ7 (2008) dual
@@ -16840,6 +16840,8 @@ http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/209407.mkv
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/209408.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nqsjEyilkis7Z62uvchjxXfHktF.jpg" group-title="Movies | VOD FAMILIA",VOD Nuestros maravillosos aliados (1987) dual
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/227668.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b8mT42o3MXAuvRdElJZaqY6eUiZ.jpg" group-title="Movies | VOD FAMILIA",Una serie de catastróficas desdichas de Lemony Snicket (2004) dual
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/306086.mkv
 
 # --- Movies | VOD FITNESS (49) ---
 #EXTINF:-1 tvg-logo="http://144.217.253.135:25461/images/tJFpFNxsPr1q9FvUB4OOg9A28ttjCeel.jpg" group-title="Movies | VOD FITNESS",VOD | FITNESS 01 FISICO
@@ -27163,7 +27165,7 @@ http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/3797
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES  - HISTORIA",Los Forsytes (PBS -SUB)
 http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/3915
 
-# --- Series | SERIES -  EN ESTRENO (34) ---
+# --- Series | SERIES -  EN ESTRENO (35) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES -  EN ESTRENO",Suits LA (NBC - SUB)
 http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/3401
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES -  EN ESTRENO",Gachiakuta (crunshrll - dual)
@@ -27232,6 +27234,8 @@ http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/3972
 http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/3977
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES -  EN ESTRENO",Cielo: Un Año en el Infierno (MAX -SUB)
 http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/3982
+#EXTINF:-1 tvg-logo="" group-title="Series | SERIES -  EN ESTRENO",Star Trek: Academia de la Flota Estelar (PRMT+ DUAL)
+http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/3996
 
 # --- Series | SERIES - 4K (17) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES - 4K",4K Wandavision (DSNY+ DUAL)
@@ -33971,4 +33975,4 @@ http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/3456
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES- ROMANCE",La Realeza (NTFX -DUAL)
 http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/3465
 
-# Total: 16906
+# Total: 16908

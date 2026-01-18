@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: predator.digital:8080
-# Generated: 2026-01-17 18:24:24
+# Generated: 2026-01-18 07:20:21
 # Expires: 2026-08-08
 # Family Safe Edition
 # ==============================================
@@ -329,11 +329,13 @@ http://predator.digital:8080/movie/Edi/dWP7KSb4CM/61100.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | Filma Per femije",The Smurfs
 http://predator.digital:8080/movie/Edi/dWP7KSb4CM/61116.mkv
 
-# --- Movies | Filma me titra Shqip (1102) ---
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7hCXcZeB3C9K2lI6wZ0OPHBbEcT.jpg" group-title="Movies | Filma me titra Shqip",Not Without Hope (2025)
-http://predator.digital:8080/movie/Edi/dWP7KSb4CM/82068.mp4
+# --- Movies | Filma me titra Shqip (1103) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="Movies | Filma me titra Shqip",======Filma me Titra Shqip======
 http://predator.digital:8080/movie/Edi/dWP7KSb4CM/13114.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p4bW2sJKAwcHuLpfoZK7Zo63osA.jpg" group-title="Movies | Filma me titra Shqip",The Rip (2026)
+http://predator.digital:8080/movie/Edi/dWP7KSb4CM/82091.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7hCXcZeB3C9K2lI6wZ0OPHBbEcT.jpg" group-title="Movies | Filma me titra Shqip",Not Without Hope (2025)
+http://predator.digital:8080/movie/Edi/dWP7KSb4CM/82068.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dbRCtN9I9qjgcNb2WDglv9zkVn8.jpg" group-title="Movies | Filma me titra Shqip",Njerëz dhe Fate 2 (2024)
 http://predator.digital:8080/movie/Edi/dWP7KSb4CM/81958.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u7x3I5V9aP4tMZACmM8ClY8lK6K.jpg" group-title="Movies | Filma me titra Shqip",Wicked: For Good (2025)
@@ -6291,9 +6293,11 @@ http://predator.digital:8080/movie/Edi/dWP7KSb4CM/67418.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j8NBvEukRr7LAMbnpTUtXSajXwF.jpg" group-title="Movies | Vod Ita",Troll- (2022)
 http://predator.digital:8080/movie/Edi/dWP7KSb4CM/67409.mkv
 
-# --- Movies | Vod de (1351) ---
+# --- Movies | Vod de (1352) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Vod de",=====Vod De=====
 http://predator.digital:8080/movie/Edi/dWP7KSb4CM/80934.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t8DBuGkmnEEZi0UqhbUtiZZDWkG.jpg" group-title="Movies | Vod de",The Rip (2026) DE
+http://predator.digital:8080/movie/Edi/dWP7KSb4CM/82090.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rA5LzNIAyxA186x2plh2fRRGOOH.jpg" group-title="Movies | Vod de",Avatar: Fire and Ash (2025) DE
 http://predator.digital:8080/movie/Edi/dWP7KSb4CM/81957.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zl2JpACU88KpcaQXWCUiUiYJTrI.jpg" group-title="Movies | Vod de",Predator: Badlands (2025) DE
@@ -8995,4 +8999,4 @@ http://predator.digital:8080/movie/Edi/dWP7KSb4CM/69013.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | Vod de",Your Place or Mine (2023) [DE]
 http://predator.digital:8080/movie/Edi/dWP7KSb4CM/69012.mkv
 
-# Total: 4485
+# Total: 4487

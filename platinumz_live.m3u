@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: platinumz.xyz:8080
-# Generated: 2026-01-17 18:39:00
+# Generated: 2026-01-18 07:16:33
 # Expires: 2026-12-23
 # Family Safe Edition
 # ==============================================
@@ -8381,7 +8381,7 @@ http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/824254.m3u8
 #EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/GERMANY/kino.png" group-title="DE ✨ KINO ⁕ VIP",STERN FILME 10
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/824253.m3u8
 
-# --- DE ✨ MUSIK ⁕ 24/7 (70) ---
+# --- DE ✨ MUSIK ⁕ 24/7 (63) ---
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/Magenta.music.png" group-title="DE ✨ MUSIK ⁕ 24/7",MAGENTA MUSIC 1
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/837049.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/Magenta.music.png" group-title="DE ✨ MUSIK ⁕ 24/7",MAGENTA MUSIC 2
@@ -8402,20 +8402,6 @@ http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/951.m3u8
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/952.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7RmQsMT/image.png" group-title="DE ✨ MUSIK ⁕ 24/7",VEVO TRUE SCHOOL HIP-HOP
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/953.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/R6HtPxL/image.png" group-title="DE ✨ MUSIK ⁕ 24/7",MTV DANCE
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/956.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0sXSJzV/image.png" group-title="DE ✨ MUSIK ⁕ 24/7",MTV FHD
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/957.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0sXSJzV/image.png" group-title="DE ✨ MUSIK ⁕ 24/7",MTV NOW
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/958.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HtHX8ty/image.png" group-title="DE ✨ MUSIK ⁕ 24/7",MTV HITS
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/959.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yFF2dGG/image.png" group-title="DE ✨ MUSIK ⁕ 24/7",MTV 90S
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/960.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XD0x8Nv/image.png" group-title="DE ✨ MUSIK ⁕ 24/7",MTV 80S HD
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/961.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pZZfmX6/image.png" group-title="DE ✨ MUSIK ⁕ 24/7",MTV LIVE FHD
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/962.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kHr62RL/image.png" group-title="DE ✨ MUSIK ⁕ 24/7",MEZZO
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/963.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/28G1wCr/image.png" group-title="DE ✨ MUSIK ⁕ 24/7",NRJ HITS TV
@@ -9078,9 +9064,9 @@ http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/849710.m3u8
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/849709.m3u8
 
 # --- DE ✨ RTL+ EVENTS (12) ---
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/rIAyX-.jpg" group-title="DE ✨ RTL+ EVENTS",RTL+ PPV
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/GERMANY/rtl_plus.png" group-title="DE ✨ RTL+ EVENTS",RTL+ PPV
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/708662.m3u8
-#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/GERMANY/rtl_plus.png" group-title="DE ✨ RTL+ EVENTS",RTL+ KONFERENZ
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/GERMANY/rtl_plus.png" group-title="DE ✨ RTL+ EVENTS",RTL+ PPV
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/867753.m3u8
 #EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/GERMANY/rtl_plus.png" group-title="DE ✨ RTL+ EVENTS",RTL+ SPORT EVENT 1
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/579894.m3u8
@@ -10228,21 +10214,21 @@ http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/823800.m3u8
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/823799.m3u8
 
 # --- DE ✨ Z1 FUßBALL EVENT (20) ---
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/EV18HN3Z7wB.png" group-title="DE ✨ Z1 FUßBALL EVENT",German 1. Bundesliga Konferenz FHD
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/EV18HN3Z7wB.png" group-title="DE ✨ Z1 FUßBALL EVENT",✨ Stadion 1
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/861243.m3u8
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/EVIr25fQFtj.png" group-title="DE ✨ Z1 FUßBALL EVENT",German 1. Bundesliga Konferenz HD
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/EVIr25fQFtj.png" group-title="DE ✨ Z1 FUßBALL EVENT",✨ Stadion 2
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/861242.m3u8
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/z_tUWxi.png" group-title="DE ✨ Z1 FUßBALL EVENT",Union Berlin v Mainz 05 - FHD
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/z_tUWxi.png" group-title="DE ✨ Z1 FUßBALL EVENT",✨ Stadion 3
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/861241.m3u8
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/af7OD.png" group-title="DE ✨ Z1 FUßBALL EVENT",Union Berlin v Mainz 05 - HD
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/af7OD.png" group-title="DE ✨ Z1 FUßBALL EVENT",✨ Stadion 4
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/861240.m3u8
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/cfi1hWpLTEu.png" group-title="DE ✨ Z1 FUßBALL EVENT",Freiburg v Hamburg - FHD
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/cfi1hWpLTEu.png" group-title="DE ✨ Z1 FUßBALL EVENT",✨ Stadion 5
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/861239.m3u8
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/dJlK5_9mNZ.png" group-title="DE ✨ Z1 FUßBALL EVENT",Freiburg v Hamburg - HD
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/dJlK5_9mNZ.png" group-title="DE ✨ Z1 FUßBALL EVENT",✨ Stadion 6
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/861238.m3u8
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/bnZOSHz74.png" group-title="DE ✨ Z1 FUßBALL EVENT",Heidenheim v FC Cologne - FHD
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/bnZOSHz74.png" group-title="DE ✨ Z1 FUßBALL EVENT",✨ Stadion 7
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/861237.m3u8
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/T5A9xv-.png" group-title="DE ✨ Z1 FUßBALL EVENT",Heidenheim v FC Cologne - HD
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/T5A9xv-.png" group-title="DE ✨ Z1 FUßBALL EVENT",✨ Stadion 8
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/861236.m3u8
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/M5BRdpI.png" group-title="DE ✨ Z1 FUßBALL EVENT",✨ Stadion 9
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/861235.m3u8
@@ -19408,6 +19394,10 @@ http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/814821.m3u8
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/814823.m3u8
 
 # --- TR  ✨ DIZI SON BÖLÜMLER (67) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lZL5RSSgLSewP0pi8rK4znb9FYZ.jpg" group-title="TR  ✨ DIZI SON BÖLÜMLER",GONUL DAGI ⚜️ SON BOLUM
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/597539.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Qwhs7xxf9LILllWLnxbSaCBNDf.jpg" group-title="TR  ✨ DIZI SON BÖLÜMLER",Güller ve Günahlar ⚜️ SON BOLUM
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/858987.m3u8
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/osDIFW8dp2CwYnFKTzdKDm66Mr4.jpg" group-title="TR  ✨ DIZI SON BÖLÜMLER",KONUSANLAR ⚜️ SON BOLUM
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/645431.m3u8
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mxFzuKK8yEz9KdJXb6sPlhUU07s.jpg" group-title="TR  ✨ DIZI SON BÖLÜMLER",ARKA SOKAKLAR ⚜️ SON BOLUM
@@ -19442,16 +19432,12 @@ http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/853202.m3u8
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/638071.m3u8
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zgVgcthDQ8pYgBkKzi1AaXmmeFO.jpg" group-title="TR  ✨ DIZI SON BÖLÜMLER",Sahtekarlar ⚜️ SON BOLUM
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/859093.m3u8
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lZL5RSSgLSewP0pi8rK4znb9FYZ.jpg" group-title="TR  ✨ DIZI SON BÖLÜMLER",GONUL DAGI ⚜️ SON BOLUM
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/597539.m3u8
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/u28XMjRU7i0xdqlplNE080uD4Gj.jpg" group-title="TR  ✨ DIZI SON BÖLÜMLER",BAHAR ⚜️ SON BOLUM
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/643889.m3u8
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6nmdHwVErYl9HOFhesRSMFC3HKj.jpg" group-title="TR  ✨ DIZI SON BÖLÜMLER",Güldür Güldür Show  ⚜️ SON BOLUM
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/746494.m3u8
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5AsAnZWVQ6clW8IM4cL9XgnoFY6.jpg" group-title="TR  ✨ DIZI SON BÖLÜMLER",Çok Güzel Hareketler 2 ⚜️ SON BOLUM
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/781553.m3u8
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Qwhs7xxf9LILllWLnxbSaCBNDf.jpg" group-title="TR  ✨ DIZI SON BÖLÜMLER",Güller ve Günahlar ⚜️ SON BOLUM
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/858987.m3u8
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1mPhUUEGZFZdlLHUtPHENZae91g.jpg" group-title="TR  ✨ DIZI SON BÖLÜMLER",Ben Leman  ⚜️ SON BOLUM
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/857696.m3u8
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/azacGGRNAp3tRO197rEznDTdg7s.jpg" group-title="TR  ✨ DIZI SON BÖLÜMLER",Sakıncalı ⚜️ SON BOLUM
@@ -26393,4 +26379,4 @@ http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/809948.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/ArenaSport_6.png" group-title="VIP ✨ SPORTS EX-YU",BH⚜️ ARENA SPORT 6
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/809947.m3u8
 
-# Total: 12937
+# Total: 12930

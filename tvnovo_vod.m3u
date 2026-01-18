@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: tvnovo.giize.com:8080
-# Generated: 2026-01-17 18:38:24
+# Generated: 2026-01-18 07:12:43
 # Expires: 2026-06-30
 # Family Safe Edition
 # ==============================================
@@ -1001,7 +1001,7 @@ http://tvnovo.giize.com:8080/movie/heydmilsongomes/b8nsR7x4dpkf/50768.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/izYZGeOHhPWiga8Hb5P4JYfcH8T.jpg" group-title="Movies | VOD: INFANTIL / ANIME",The Twits (2025)
 http://tvnovo.giize.com:8080/movie/heydmilsongomes/b8nsR7x4dpkf/50854.mkv
 
-# --- Movies | VOD: NOVIDADES (133) ---
+# --- Movies | VOD: NOVIDADES (138) ---
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/nLTs9SNBuk3DuB8D0p3mSsPYN7J.jpg" group-title="Movies | VOD: NOVIDADES",Fall for Me (2025)
 http://tvnovo.giize.com:8080/movie/heydmilsongomes/b8nsR7x4dpkf/50748.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/A06yXys3hrCWu8xiNoHCFLTG5SH.jpg" group-title="Movies | VOD: NOVIDADES",I Know What You Did Last Summer (2025)
@@ -1268,6 +1268,16 @@ http://tvnovo.giize.com:8080/movie/heydmilsongomes/b8nsR7x4dpkf/50926.mkv
 http://tvnovo.giize.com:8080/movie/heydmilsongomes/b8nsR7x4dpkf/50927.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fwpdRe6WGmzqXFEJYJVepDQ6jrw.jpg" group-title="Movies | VOD: NOVIDADES",Fackham Hall (2025)
 http://tvnovo.giize.com:8080/movie/heydmilsongomes/b8nsR7x4dpkf/50928.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/u54OhdSaaLBh02Y4Nf5cETkh8Ku.jpg" group-title="Movies | VOD: NOVIDADES",Ricky Gervais: Mortality (2025)
+http://tvnovo.giize.com:8080/movie/heydmilsongomes/b8nsR7x4dpkf/50929.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/tsE3nySukwrfUjouz8vzvKTcXNC.jpg" group-title="Movies | VOD: NOVIDADES",Oscar Shaw (2026)
+http://tvnovo.giize.com:8080/movie/heydmilsongomes/b8nsR7x4dpkf/50930.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/evnbvmkoon2YTjlAodCwSmfU8Od.jpg" group-title="Movies | VOD: NOVIDADES",Not Without Hope (2025)
+http://tvnovo.giize.com:8080/movie/heydmilsongomes/b8nsR7x4dpkf/50931.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yXPmDhPj26JqEekHIruDtENSrsj.jpg" group-title="Movies | VOD: NOVIDADES",Kevin Costner Presents: The First Christmas (2025)
+http://tvnovo.giize.com:8080/movie/heydmilsongomes/b8nsR7x4dpkf/50932.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/p4bW2sJKAwcHuLpfoZK7Zo63osA.jpg" group-title="Movies | VOD: NOVIDADES",The Rip (2026)
+http://tvnovo.giize.com:8080/movie/heydmilsongomes/b8nsR7x4dpkf/50933.mkv
 
 # --- Movies | VOD: ROMANCE (40) ---
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zsvD0BjEQIIoh2PpE5X7VXmSrQO.jpg" group-title="Movies | VOD: ROMANCE",Someone Like You (2024)
@@ -2319,4 +2329,4 @@ http://tvnovo.giize.com:8080/series/heydmilsongomes/b8nsR7x4dpkf/775
 #EXTINF:-1 tvg-logo="" group-title="Series | [SERIES] Português",Tempest
 http://tvnovo.giize.com:8080/series/heydmilsongomes/b8nsR7x4dpkf/776
 
-# Total: 1145
+# Total: 1150

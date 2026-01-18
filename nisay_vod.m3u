@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: nisay.xyz:8080
-# Generated: 2026-01-17 18:39:02
+# Generated: 2026-01-18 07:17:08
 # Expires: 2026-10-04
 # Family Safe Edition
 # ==============================================
@@ -14663,7 +14663,7 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1422.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | EX-XEN",Karma
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1762.mp4
 
-# --- Movies | GAIN (30) ---
+# --- Movies | GAIN (31) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | GAIN",10 Bin Adım
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/207.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | GAIN",Terapist
@@ -14724,6 +14724,8 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1535.mp4
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1583.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | GAIN",FER
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1763.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | GAIN",Son Kare
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1865.mp4
 
 # --- Movies | GERMANY BOLLYWOOD FILME (49) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ynE0PcdNdcUSJOUfRgfRE6EDgQO.jpg" group-title="Movies | GERMANY BOLLYWOOD FILME",DE: Die Kriegerkönigin von Jhansi 2019
@@ -16083,7 +16085,7 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/91667.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | MUZIK VOD",Bulgaria Music
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/83163.mkv
 
-# --- Movies | NETFLIX (370) ---
+# --- Movies | NETFLIX (371) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX",Altered Carbon
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/36.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX",Dogs of Berlin
@@ -16824,6 +16826,8 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1848.mp4
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1849.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX",Ne Yaptığını Biliyorum - His and Hers
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1853.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX",Marianne
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1864.mp4
 
 # --- Movies | NOSTALJI FILM (73) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oJmoR4kdHEw6w8CncTKJ058RV7o.jpg" group-title="Movies | NOSTALJI FILM",Pearl Harbor (2001)
@@ -20091,4 +20095,4 @@ http://nisay.xyz:8080/series/atillaerdoganDE/sa95x6VSFx/1503
 #EXTINF:-1 tvg-logo="" group-title="Series | TR ALTYAZI SERIES",Pluribus
 http://nisay.xyz:8080/series/atillaerdoganDE/sa95x6VSFx/1803
 
-# Total: 9978
+# Total: 9980

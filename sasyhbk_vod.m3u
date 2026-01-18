@@ -1,13 +1,13 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: sasyhbk.ddns.net:8000
-# Generated: 2026-01-17 18:33:18
+# Generated: 2026-01-18 07:11:22
 # Expires: 2026-03-11
 # Family Safe Edition
 # ==============================================
 
 
-# --- Movies | Animazione e Manga Tv (88) ---
+# --- Movies | Animazione e Manga Tv (89) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Animazione e Manga Tv",Sampei
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/383.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Animazione e Manga Tv",Lady Oscar
@@ -184,6 +184,8 @@ http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/3211.mp4
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/3242.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Animazione e Manga Tv",Marvel Zombies
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/3314.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Animazione e Manga Tv",Creature Commandos
+http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/3496.mp4
 
 # --- Movies | Arti Marziali (25) ---
 #EXTINF:-1 tvg-logo="http://servicelocandine.goldsecurepro.com:8000/loca-Sm.png" group-title="Movies | Arti Marziali",----- ARTI MARZIALI -----
@@ -5351,7 +5353,7 @@ http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/89438.mkv
 #EXTINF:-1 tvg-logo="http://servicelocandine.goldsecurepro.com:8000/images/891631828725367cf18f144772a0cbef.jpg" group-title="Movies | Classici",Zucchero, miele e peperoncino (1980)
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/89359.mkv
 
-# --- Movies | Commedia (2269) ---
+# --- Movies | Commedia (2270) ---
 #EXTINF:-1 tvg-logo="http://servicelocandine.goldsecurepro.com:8000/loca-Sm.png" group-title="Movies | Commedia",----- COMMEDIA -----
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/54009.mp4
 #EXTINF:-1 tvg-logo="http://service.fullapple.me:80/images/7c2f5e0a3bcb4d6c3a840ef750e3327b.jpg" group-title="Movies | Commedia",(500) giorni insieme (2009)
@@ -9890,6 +9892,8 @@ http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/230896.mp4
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/230922.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oxKw1UkPojpYoreMkjqCqjZ1dyG.jpg" group-title="Movies | Commedia",Le città di pianura (2025)
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/230923.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oI8WlSN36vdicXRb5utc9l3MuMh.jpg" group-title="Movies | Commedia",Io e Annie (1977)
+http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/231048.mp4
 
 # --- Movies | Concerti (137) ---
 #EXTINF:-1 tvg-logo="http://servicelocandine.goldsecurepro.com:8000/images/410cf889fabc224e145b0c49ea8d1bc1.png" group-title="Movies | Concerti",----- CONCERTI -----
@@ -10499,7 +10503,7 @@ http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/230690.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bWgvTgcStRka2FO8kXI9isj2Imd.jpg" group-title="Movies | Disney+",Un topolino sotto l’albero (2025)
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/230766.mp4
 
-# --- Movies | Documentario (382) ---
+# --- Movies | Documentario (383) ---
 #EXTINF:-1 tvg-logo="http://servicelocandine.goldsecurepro.com:8000/images/410cf889fabc224e145b0c49ea8d1bc1.png" group-title="Movies | Documentario",------ DOCUMENTARIO ------
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/102284.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/edQkko2wbsbHx3wPmadHCmmmtl5.jpg" group-title="Movies | Documentario",14 vette: scalate ai limiti del possibile (2021)
@@ -11264,8 +11268,10 @@ http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/230759.mp4
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/230763.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aZhrAx5CevLfjXcGIG3wBXxDiAL.jpg" group-title="Movies | Documentario",Un'ultima avventura: Stranger Things 5: dietro le quinte (2026)
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/230962.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uj6xBteIR6xFsEwCAGKeMwAv1Jn.jpg" group-title="Movies | Documentario",Chiamami pure Bill (2024)
+http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/231044.mp4
 
-# --- Movies | Drammatico (2482) ---
+# --- Movies | Drammatico (2483) ---
 #EXTINF:-1 tvg-logo="http://servicelocandine.goldsecurepro.com:8000/loca-Sm.png" group-title="Movies | Drammatico",----- DRAMMATICO -----
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/54122.mp4
 #EXTINF:-1 tvg-logo="http://service.fullapple.me:8000/images/7bbce1ff06740329b7bfdb03dfd89deb.jpg" group-title="Movies | Drammatico",.45 (2006)
@@ -11821,7 +11827,7 @@ http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/122026.mkv
 #EXTINF:-1 tvg-logo="http://service.fullapple.me:80/images/40863f3d7354f99e4e0bf25b36bdbc97.jpg" group-title="Movies | Drammatico",Boxer (2024)
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/219278.mp4
 #EXTINF:-1 tvg-logo="http://servicelocandine.goldsecurepro.com:8000/images/c296471c87d7a4c996f3b2bac699849f.jpg" group-title="Movies | Drammatico",Boyhood (2014)
-http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/85367.mkv
+http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/85367.mp4
 #EXTINF:-1 tvg-logo="http://service.fullapple.me:8000/images/c8b610376cb05ec716500e81459e4c43.jpg" group-title="Movies | Drammatico",Boyz n the hood - Strade violente (1991)
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/200057.mp4
 #EXTINF:-1 tvg-logo="http://service.fullapple.me:8000/images/4cf16cceccb7c76bc26562a6ad1e3a2c.jpg" group-title="Movies | Drammatico",Boğa Boğa (2023)
@@ -16230,8 +16236,10 @@ http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/230765.mp4
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/230807.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yZuUmM9U5P6v6eBOeEbD85vV7oQ.jpg" group-title="Movies | Drammatico",Il paese del melodramma (2023)
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/230895.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w7LTgu7kiwvBgoKLhtc9vP1IDgr.jpg" group-title="Movies | Drammatico",Segreti nella polvere (2024)
+http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/231067.mp4
 
-# --- Movies | Fantascienza (344) ---
+# --- Movies | Fantascienza (345) ---
 #EXTINF:-1 tvg-logo="http://servicelocandine.goldsecurepro.com:8000/loca-Sm.png" group-title="Movies | Fantascienza",----- FANTASCIENZA -----
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/54171.mp4
 #EXTINF:-1 tvg-logo="http://servicelocandine.goldsecurepro.com:8000/images/f940b23ab2aedf3676e5ad5ba31c5875.jpg" group-title="Movies | Fantascienza",10 Cloverfield Lane (2016)
@@ -16920,8 +16928,10 @@ http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/84816.mkv
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/229712.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AqjIBXRK5UN4rx7TItQRXjOxpHe.jpg" group-title="Movies | Fantascienza",Incanto (2025)
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/229759.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p5vl4gMThsyw5C6ByYTVqPmF7HZ.jpg" group-title="Movies | Fantascienza",Memories (1995)
+http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/231050.mp4
 
-# --- Movies | Film 4K (274) ---
+# --- Movies | Film 4K (286) ---
 #EXTINF:-1 tvg-logo="http://servicelocandine.goldsecurepro.com:8000/loca-Sm.png" group-title="Movies | Film 4K",----- 4K ONDEMAND -----
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/62234.mkv
 #EXTINF:-1 tvg-logo="http://servicelocandine.goldsecurepro.com:8000/images/f940b23ab2aedf3676e5ad5ba31c5875.jpg" group-title="Movies | Film 4K",10 Cloverfield Lane (2016)
@@ -16984,6 +16994,8 @@ http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/104950.mkv
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/104941.mp4
 #EXTINF:-1 tvg-logo="http://servicelocandine.goldsecurepro.com:8000/images/82fb343f4abdf824c78b0460dfc6f246.jpg" group-title="Movies | Film 4K",Black Phone (2022)
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/184437.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zzMmJl4XHqID7tQOnY3SNvYsnwa.jpg" group-title="Movies | Film 4K",Black Phone 2 (2025) 4K
+http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/231043.mp4
 #EXTINF:-1 tvg-logo="http://servicelocandine.goldsecurepro.com:8000/images/f592cdda9fa8439610d91659714847bd.jpg" group-title="Movies | Film 4K",Black Widow (2021)
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/147524.mp4
 #EXTINF:-1 tvg-logo="http://servicelocandine.goldsecurepro.com:8000/images/15161bc2f9ff4d3d30b5abc7b847bbf9.jpg" group-title="Movies | Film 4K",Blacklight (2022)
@@ -17032,6 +17044,8 @@ http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/218397.mp4
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/104921.mp4
 #EXTINF:-1 tvg-logo="http://service.fullapple.me:8000/images/4d748de8879d5c4a9947bd6dfe2050de.jpg" group-title="Movies | Film 4K",Demeter - Il risveglio di Dracula (2023) 4K
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/211007.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3AZaRbAF0J8mHJKmu0iTaqmEtH8.jpg" group-title="Movies | Film 4K",Der Tiger - Viaggio all'inferno (2025) 4K
+http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/231046.mp4
 #EXTINF:-1 tvg-logo="http://service.fullapple.me:8000/images/10712c43a3b21ce40f48011a4ee66482.jpg" group-title="Movies | Film 4K",Detective Marlowe (2023) 4K
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/209547.mp4
 #EXTINF:-1 tvg-logo="http://service.fullapple.me:80/images/cd0eb9661becad1b5c0a4f76b2ce3916.jpg" group-title="Movies | Film 4K",Die Hart (2023) 4K
@@ -17050,6 +17064,8 @@ http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/203554.mp4
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/104920.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/80fwjYfHmeDXobIErpNvCFCOAYd.jpg" group-title="Movies | Film 4K",Eddie the Eagle - Il coraggio della follia (2016)
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/104911.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tGMs4Ji6CH33GIx5aHAXc0uhu3F.jpg" group-title="Movies | Film 4K",F1 - Il film (2025) 4K
+http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/231047.mp4
 #EXTINF:-1 tvg-logo="http://service.fullapple.me:80/images/4f99184d6e6b38d6e6c4376c0a62acb9.jpg" group-title="Movies | Film 4K",Fancy Dance (2024) 4K
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/218400.mp4
 #EXTINF:-1 tvg-logo="http://servicelocandine.goldsecurepro.com:8000/images/8d24a6f56a3155d6a3f0d43948b96454.jpg" group-title="Movies | Film 4K",Fast & Furious - Hobbs & Shaw (2019) 4k
@@ -17256,6 +17272,8 @@ http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/104909.mkv
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/215494.mp4
 #EXTINF:-1 tvg-logo="http://servicelocandine.goldsecurepro.com:8000/images/68fa69931fc306eaadf1baedd8edf0b3.jpg" group-title="Movies | Film 4K",Madre (2019)
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/104930.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3xgcQHcYxGOrJNbwgXRGPPHCXVu.jpg" group-title="Movies | Film 4K",MadS (2024) 4K
+http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/231049.mp4
 #EXTINF:-1 tvg-logo="http://service.fullapple.me:8000/images/718c167a4ae11eb6893536bf38e48453.jpg" group-title="Movies | Film 4K",Margaux (2022) 4K
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/212496.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/51iCOe2YvzWUbdNDbccYxFOiPYb.jpg" group-title="Movies | Film 4K",Matrix Resurrections 4K (2021)
@@ -17306,6 +17324,8 @@ http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/203153.mp4
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/209550.mp4
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fTPjIMo1CaXEdElemT4ykxyM8fC.jpg" group-title="Movies | Film 4K",Povere creature! (2023)
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/215208.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uhCp7eKGDTzMT5t3ibybcgeOCG9.jpg" group-title="Movies | Film 4K",Predator: Badlands (2025) 4K
+http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/230762.mp4
 #EXTINF:-1 tvg-logo="http://service.fullapple.me:80/images/2c85155f9351ef5339c20665cf06b748.jpg" group-title="Movies | Film 4K",Race for Glory - Audi vs Lancia (2024) 4K
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/216819.mp4
 #EXTINF:-1 tvg-logo="http://servicelocandine.goldsecurepro.com:8000/images/304afb796a7c64b93ec16fec1978743b.jpg" group-title="Movies | Film 4K",Red Sparrow (2018)
@@ -17340,6 +17360,8 @@ http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/203155.mp4
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/216299.mp4
 #EXTINF:-1 tvg-logo="http://service.fullapple.me:8000/images/f33c7b5211605429f0d097222b015251.jpg" group-title="Movies | Film 4K",Silent Night - Il silenzio della vendetta (2023) 4K
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/213812.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kiNeaEXHkOauCB0jwwYrQV6sU2.jpg" group-title="Movies | Film 4K",Sisu: Il vendicatore (2025) 4K
+http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/231051.mp4
 #EXTINF:-1 tvg-logo="http://servicelocandine.goldsecurepro.com:8000/images/22ec6d687f3c8706e699b073b3ace8fc.jpg" group-title="Movies | Film 4K",Solo: A Star Wars Story (2018) 4K
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/185692.mp4
 #EXTINF:-1 tvg-logo="http://service.fullapple.me:80/images/81310d0a7ae49d690b927fd5d6c0714d.jpg" group-title="Movies | Film 4K",Space Cadet (2024) 4K
@@ -17398,6 +17420,8 @@ http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/209554.mp4
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/214720.mp4
 #EXTINF:-1 tvg-logo="http://service.fullapple.me:80/images/eba4462915d3c2cad2f8ebe7e3c0f862.jpg" group-title="Movies | Film 4K",The Boys in the Boat (2023) 4K
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/215210.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/36pYugctLa70NmwMEgXTR1G31Kq.jpg" group-title="Movies | Film 4K",The Bricklayer (2023) 4K
+http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/231052.mp4
 #EXTINF:-1 tvg-logo="http://servicelocandine.goldsecurepro.com:8000/images/351947cc6037a7205138f2df5c27f8ab.jpg" group-title="Movies | Film 4K",The Bunker Game (2022)
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/184434.mp4
 #EXTINF:-1 tvg-logo="http://service.myvisio.life:80/images/80cf1f54a65ef2f42c26b4b73b647be6.jpg" group-title="Movies | Film 4K",The Calendar Killer (2025) 4K
@@ -17416,6 +17440,8 @@ http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/210436.mp4
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/185695.mp4
 #EXTINF:-1 tvg-logo="http://service.fullapple.me:8000/images/741d34b9966aa0c76b8e616d2e8a65d4.jpg" group-title="Movies | Film 4K",The Flash (2023) 4k
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/209281.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lixw8nq5UWOQE1SOQkkIEWrPRYw.jpg" group-title="Movies | Film 4K",The Home - Il segreto del quarto piano (2025) 4K
+http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/231053.mp4
 #EXTINF:-1 tvg-logo="http://service.fullapple.me:80/images/0447e203b320ade4aa6dd8c1d916d189.jpg" group-title="Movies | Film 4K",The Idea of You (2024) 4K
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/216906.mp4
 #EXTINF:-1 tvg-logo="http://service.fullapple.me:8000/images/4edf4eee65d3a4b6cb95c8e71a4205c0.jpg" group-title="Movies | Film 4K",The Infernal Machine (2022) 4K
@@ -17454,24 +17480,32 @@ http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/210150.mp4
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/209283.mp4
 #EXTINF:-1 tvg-logo="http://servicelocandine.goldsecurepro.com:8000/images/0a146ede287e851875d9a52574727001.jpg" group-title="Movies | Film 4K",Tredici vite (2022)
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/184433.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ZitP1wuUsDA1Ci74OWe7X4FmPn.jpg" group-title="Movies | Film 4K",Troll 2 (2025) 4K
+http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/231054.mp4
 #EXTINF:-1 tvg-logo="http://service.fullapple.me:8000/images/681ccc5a8dd9b9a0dab9f34b08507445.jpg" group-title="Movies | Film 4K",Trolls 3 - Tutti insieme (2023) 4K
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/213065.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tb0eHTbOEKviO4EhZzuknUoTjOe.jpg" group-title="Movies | Film 4K",Tron Ares (2025) 4K
+http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/231055.mp4
 #EXTINF:-1 tvg-logo="http://service.myvisio.life:80/images/f03d1b9e627395c3d4913b6e911c4521.jpg" group-title="Movies | Film 4K",Uno Rosso (2024) 4K
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/222617.mp4
 #EXTINF:-1 tvg-logo="http://service.fullapple.me:8000/images/124a79dd8e78c9a887cda3c85921bd0d.jpg" group-title="Movies | Film 4K",Upgraded Amore, arte e bugie (2024) 4K
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/214292.mp4
 #EXTINF:-1 tvg-logo="http://service.fullapple.me:80/images/5f029472f735ada3136ec514b8090329.jpg" group-title="Movies | Film 4K",Venom: The Last Dance (2024) 4K
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/221725.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tWH1Z5RTNbZD6B5xW3A4CX39ddn.jpg" group-title="Movies | Film 4K",Visions (2023) 4K
+http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/231056.mp4
 #EXTINF:-1 tvg-logo="http://service.fullapple.me:8000/images/0563ba679a0fd6a57a2b91a6d0f6a90c.jpg" group-title="Movies | Film 4K",What's Love? (2023) 4k
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/209284.mp4
 #EXTINF:-1 tvg-logo="http://service.fullapple.me:8000/images/d0621b5d11ddd5e5077c11e8d91135a7.jpg" group-title="Movies | Film 4K",Wonka (2023) 4K
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/213680.mp4
 #EXTINF:-1 tvg-logo="http://service.fullapple.me:8000/images/c45be7b93f014eb76f475ce6cd537787.jpg" group-title="Movies | Film 4K",È colpa mia? (2023) 4K
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/204309.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uhCp7eKGDTzMT5t3ibybcgeOCG9.jpg" group-title="Movies | Film 4K",Predator: Badlands (2025) 4K
-http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/230762.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yYNEQnwnExMcvLVRGhLuWOGDY0r.jpg" group-title="Movies | Film 4K",È colpa nostra? (2025) 4K
+http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/231057.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2KFcXaBoLbFTLj7gUXHM0sRb5pP.jpg" group-title="Movies | Film 4K",The Rip - Soldi sporchi (2026) 4K
+http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/231064.mp4
 
-# --- Movies | Film Amazon Prime (88) ---
+# --- Movies | Film Amazon Prime (89) ---
 #EXTINF:-1 tvg-logo="http://service.fullapple.me:8000/images/410cf889fabc224e145b0c49ea8d1bc1.png" group-title="Movies | Film Amazon Prime",----- FILM AMAZON PRIME -----
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/196642.mp4
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jcR9pghz3EEL91S5gqA3BRyYFFR.jpg" group-title="Movies | Film Amazon Prime",7500 (2019)
@@ -17646,6 +17680,8 @@ http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/225616.mp4
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/226386.mp4
 #EXTINF:-1 tvg-logo="http://service.fullapple.me:80/images/8b7a2fad97d3d0ff40c7fcca36bd4605.jpg" group-title="Movies | Film Amazon Prime",Wildland (2020)
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/221176.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mSL6truNrWP1Bn9ng1rN0SkMI4f.jpg" group-title="Movies | Film Amazon Prime",The bad boy and me (2025)
+http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/231062.mp4
 #EXTINF:-1 tvg-logo="http://service.fullapple.me:8000/images/3e2b8ce4a96d134be04aefa4a7105eec.jpg" group-title="Movies | Film Amazon Prime",Batman Forever (1995)
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/209608.mp4
 
@@ -18127,7 +18163,7 @@ http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/85946.mkv
 #EXTINF:-1 tvg-logo="http://servicelocandine.goldsecurepro.com:8000/images/97ffb4191fa6d525e8816580542f123a.jpg" group-title="Movies | Film Natale",Zampa e la magia del Natale (2010)
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/85879.mp4
 
-# --- Movies | Film Netflix (665) ---
+# --- Movies | Film Netflix (666) ---
 #EXTINF:-1 tvg-logo="http://servicelocandine.goldsecurepro.com:8000/loca-Sm.png" group-title="Movies | Film Netflix",----- FILM NETFLIX -----
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/62359.mp4
 #EXTINF:-1 tvg-logo="http://servicelocandine.goldsecurepro.com:8000/images/24899fee95c7f1e22feb1727196f3281.jpg" group-title="Movies | Film Netflix",#realityhigh (2017)
@@ -19458,6 +19494,8 @@ http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/130910.mp4
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/149449.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="Movies | Film Netflix",Ánimas (1998)
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/131979.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2KFcXaBoLbFTLj7gUXHM0sRb5pP.jpg" group-title="Movies | Film Netflix",The Rip - Soldi sporchi (2026)
+http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/231063.mp4
 
 # --- Movies | Film Now Tv (189) ---
 #EXTINF:-1 tvg-logo="http://servicelocandine.goldsecurepro.com:8000/assets/images/loca-Sm.png" group-title="Movies | Film Now Tv",----- NOW TV -----
@@ -30369,7 +30407,7 @@ http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/3443.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Serie Disney+",SuperKitties
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/3468.mp4
 
-# --- Movies | Serie Mediaset Play (162) ---
+# --- Movies | Serie Mediaset Play (163) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Serie Mediaset Play",Kavak Yelleri
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/124.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Serie Mediaset Play",Blindspot
@@ -30694,8 +30732,10 @@ http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/3450.mp4
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/3472.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Serie Mediaset Play",A testa alta - il coraggio di una donna
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/3481.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Serie Mediaset Play",Alieni: I casi riaperti
+http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/3493.mp4
 
-# --- Movies | Serie Netflix (1334) ---
+# --- Movies | Serie Netflix (1336) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Serie Netflix",Dynasty
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/3.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Serie Netflix",13 Reasons Why: Beyond the Reasons
@@ -33364,8 +33404,12 @@ http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/3487.mp4
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/3491.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Serie Netflix",Amare e perdere
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/3492.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Serie Netflix",Come si dice "amore"?
+http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/3494.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Serie Netflix",WWE: la storia dietro le quinte
+http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/3498.mp4
 
-# --- Movies | Serie Rai Play (193) ---
+# --- Movies | Serie Rai Play (194) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Serie Rai Play",L'amica geniale
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/142.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Serie Rai Play",Capri
@@ -33752,8 +33796,10 @@ http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/3467.mp4
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/3473.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Serie Rai Play",La Preside
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/3486.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Serie Rai Play",Prima di noi
+http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/3495.mp4
 
-# --- Movies | Serie Sky Box (329) ---
+# --- Movies | Serie Sky Box (330) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Serie Sky Box",Arrow
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/143.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Serie Sky Box",Chernobyl
@@ -34412,6 +34458,8 @@ http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/3454.mp4
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/3455.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Serie Sky Box",Gomorra - Le origini
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/3476.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Serie Sky Box",L'anno Di Del Piero
+http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/3497.mp4
 
 # --- Movies | Serie Tv Cult (34) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Serie Tv Cult",A-Team
@@ -34909,7 +34957,7 @@ http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/188115.mp4
 #EXTINF:-1 tvg-logo="http://servicelocandine.goldsecurepro.com:8000/images/fc3ec8a11b93ef9a481ab3237ced3c28.jpg" group-title="Movies | Teatro",Vincenzo Salemme - Di mamma ce n’è una sola (2020)
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/188116.mp4
 
-# --- Movies | Thriller (965) ---
+# --- Movies | Thriller (966) ---
 #EXTINF:-1 tvg-logo="http://servicelocandine.goldsecurepro.com:8000/images/410cf889fabc224e145b0c49ea8d1bc1.png" group-title="Movies | Thriller",----- THRILLER -----
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/54511.mp4
 #EXTINF:-1 tvg-logo="http://servicelocandine.goldsecurepro.com:8000/images/f940b23ab2aedf3676e5ad5ba31c5875.jpg" group-title="Movies | Thriller",10 Cloverfield Lane (2016)
@@ -36840,6 +36888,8 @@ http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/230861.mp4
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/230898.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hmQRx3Fv6Cg500GVqPhCHDyidr7.jpg" group-title="Movies | Thriller",Vite Parallele (2022)
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/230964.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tyKP70x6aI4K05mYjswhsfmA0ZO.jpg" group-title="Movies | Thriller",Dead Money (2024)
+http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/231045.mp4
 
 # --- Movies | Video Musicali (126) ---
 #EXTINF:-1 tvg-logo="http://servicelocandine.goldsecurepro.com:8000/loca-Sm.png" group-title="Movies | Video Musicali",----- VIDEO MUSICALI -----
@@ -37095,7 +37145,7 @@ http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/210079.mkv
 #EXTINF:-1 tvg-logo="http://service.fullapple.me:80/images/73cbd6f30626fc6265f65208e09b5acd.jpg" group-title="Movies | Video Musicali",Negramaro Back Home - Ora so restare (2023)
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/216597.mp4
 
-# --- Movies | Western (161) ---
+# --- Movies | Western (162) ---
 #EXTINF:-1 tvg-logo="http://servicelocandine.goldsecurepro.com:8000/loca-Sm.png" group-title="Movies | Western",----- WESTERN -----
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/54570.mp4
 #EXTINF:-1 tvg-logo="http://servicelocandine.goldsecurepro.com:8000/images/fef3c4e8b2ba9153af81a2c749e70eeb.jpg" group-title="Movies | Western",Alamo - Gli ultimi eroi (2004)
@@ -37418,5 +37468,7 @@ http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/86692.mkv
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/86697.mkv
 #EXTINF:-1 tvg-logo="http://servicelocandine.goldsecurepro.com:8000/images/5537d21a012d0e46b9ebddd4a137ef26.jpg" group-title="Movies | Western",… E continuavano a fregarsi il milione di dollari (1971)
 http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/86638.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wdkN3OGE6QeoF1FGFhOQMILm4AG.jpg" group-title="Movies | Western",Testa o croce? (2025)
+http://sasyhbk.ddns.net:8000/movie/mgg_148879419/secapir/231068.mp4
 
-# Total: 18659
+# Total: 18685

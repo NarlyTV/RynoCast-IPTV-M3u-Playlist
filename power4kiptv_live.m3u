@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: power4kiptv.info:8080
-# Generated: 2026-01-17 18:35:06
+# Generated: 2026-01-18 07:18:13
 # Expires: 2026-01-21
 # Family Safe Edition
 # ==============================================
@@ -763,13 +763,15 @@ http://power4kiptv.info:8080/live/ernstalex/17012022/625201.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Ozel/dazn-nfl.png" group-title="DE | DAZN EVENT",DAZN NFL 15 FHD
 http://power4kiptv.info:8080/live/ernstalex/17012022/625200.m3u8
 
-# --- DE | DAZN SPORT (15) ---
+# --- DE | DAZN SPORT (17) ---
 #EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/%C4%B0TALYA/DAZNSPORT1.png" group-title="DE | DAZN SPORT",★☆★ DAZN SPORT ★☆★
 http://power4kiptv.info:8080/live/ernstalex/17012022/197298.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/dazn1.png" group-title="DE | DAZN SPORT",DAZN 1 UHD
 http://power4kiptv.info:8080/live/ernstalex/17012022/698216.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/dazn1.png" group-title="DE | DAZN SPORT",DAZN 1 QHD
 http://power4kiptv.info:8080/live/ernstalex/17012022/698219.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/dazn1.png" group-title="DE | DAZN SPORT",DAZN 1 VIP
+http://power4kiptv.info:8080/live/ernstalex/17012022/868045.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/dazn1.png" group-title="DE | DAZN SPORT",DAZN 1 FHD
 http://power4kiptv.info:8080/live/ernstalex/17012022/698215.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/dazn1.png" group-title="DE | DAZN SPORT",DAZN 1 FHD ERSATZ
@@ -784,6 +786,8 @@ http://power4kiptv.info:8080/live/ernstalex/17012022/698226.m3u8
 http://power4kiptv.info:8080/live/ernstalex/17012022/698220.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/dazn2.png" group-title="DE | DAZN SPORT",DAZN 2 QHD
 http://power4kiptv.info:8080/live/ernstalex/17012022/698228.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/dazn2.png" group-title="DE | DAZN SPORT",DAZN 2 VIP
+http://power4kiptv.info:8080/live/ernstalex/17012022/868046.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/dazn2.png" group-title="DE | DAZN SPORT",DAZN 2 FHD
 http://power4kiptv.info:8080/live/ernstalex/17012022/698223.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/dazn2.png" group-title="DE | DAZN SPORT",DAZN 2 FHD ERSATZ
@@ -1614,21 +1618,21 @@ http://power4kiptv.info:8080/live/ernstalex/17012022/210703.m3u8
 # --- DE | FUßBALL EVENT (21) ---
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/vt4OhU.png" group-title="DE | FUßBALL EVENT",★☆★ FOCUS  FUßBALL ★☆★
 http://power4kiptv.info:8080/live/ernstalex/17012022/706386.m3u8
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/vt4OhU.png" group-title="DE | FUßBALL EVENT",German 1. Bundesliga Konferenz FHD
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/vt4OhU.png" group-title="DE | FUßBALL EVENT",✨ Stadion 1
 http://power4kiptv.info:8080/live/ernstalex/17012022/706385.m3u8
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/vt4OhU.png" group-title="DE | FUßBALL EVENT",German 1. Bundesliga Konferenz HD
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/vt4OhU.png" group-title="DE | FUßBALL EVENT",✨ Stadion 2
 http://power4kiptv.info:8080/live/ernstalex/17012022/706384.m3u8
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/vt4OhU.png" group-title="DE | FUßBALL EVENT",Union Berlin v Mainz 05 - FHD
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/vt4OhU.png" group-title="DE | FUßBALL EVENT",✨ Stadion 3
 http://power4kiptv.info:8080/live/ernstalex/17012022/706383.m3u8
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/vt4OhU.png" group-title="DE | FUßBALL EVENT",Union Berlin v Mainz 05 - HD
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/vt4OhU.png" group-title="DE | FUßBALL EVENT",✨ Stadion 4
 http://power4kiptv.info:8080/live/ernstalex/17012022/706382.m3u8
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/vt4OhU.png" group-title="DE | FUßBALL EVENT",Freiburg v Hamburg - FHD
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/vt4OhU.png" group-title="DE | FUßBALL EVENT",✨ Stadion 5
 http://power4kiptv.info:8080/live/ernstalex/17012022/706381.m3u8
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/vt4OhU.png" group-title="DE | FUßBALL EVENT",Freiburg v Hamburg - HD
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/vt4OhU.png" group-title="DE | FUßBALL EVENT",✨ Stadion 6
 http://power4kiptv.info:8080/live/ernstalex/17012022/706380.m3u8
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/vt4OhU.png" group-title="DE | FUßBALL EVENT",Heidenheim v FC Cologne - FHD
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/vt4OhU.png" group-title="DE | FUßBALL EVENT",✨ Stadion 7
 http://power4kiptv.info:8080/live/ernstalex/17012022/706379.m3u8
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/vt4OhU.png" group-title="DE | FUßBALL EVENT",Heidenheim v FC Cologne - HD
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/vt4OhU.png" group-title="DE | FUßBALL EVENT",✨ Stadion 8
 http://power4kiptv.info:8080/live/ernstalex/17012022/706378.m3u8
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/vt4OhU.png" group-title="DE | FUßBALL EVENT",✨ Stadion 9
 http://power4kiptv.info:8080/live/ernstalex/17012022/706377.m3u8
@@ -2295,25 +2299,13 @@ http://power4kiptv.info:8080/live/ernstalex/17012022/278868.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DE | KINOVISION 2024 - 2023",VISION 10 Mission Impossible Dead Reckoning Teil Eins
 http://power4kiptv.info:8080/live/ernstalex/17012022/278869.m3u8
 
-# --- DE | MUSIK (30) ---
+# --- DE | MUSIK (24) ---
 #EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/GERMANY/ger-musik.png" group-title="DE | MUSIK",★☆★ MUSIK ★☆★
 http://power4kiptv.info:8080/live/ernstalex/17012022/95680.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/Magenta.music.png" group-title="DE | MUSIK",MAGENTA MUSIC 1
 http://power4kiptv.info:8080/live/ernstalex/17012022/677969.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/Magenta.music.png" group-title="DE | MUSIK",MAGENTA MUSIC 2
 http://power4kiptv.info:8080/live/ernstalex/17012022/677970.m3u8
-#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/DAN%C4%B0MARKA/mtv_us.png" group-title="DE | MUSIK",MTV FHD
-http://power4kiptv.info:8080/live/ernstalex/17012022/95681.m3u8
-#EXTINF:-1 tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/mtvHits.png" group-title="DE | MUSIK",MTV HITS
-http://power4kiptv.info:8080/live/ernstalex/17012022/187452.m3u8
-#EXTINF:-1 tvg-logo="http://logo.sltv.site/logo/germanynew/mtvLive.png" group-title="DE | MUSIK",MTV LIVE FHD
-http://power4kiptv.info:8080/live/ernstalex/17012022/187449.m3u8
-#EXTINF:-1 tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/mtv_dance.png" group-title="DE | MUSIK",MTV DANCE
-http://power4kiptv.info:8080/live/ernstalex/17012022/187455.m3u8
-#EXTINF:-1 tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/MTV_80s.png" group-title="DE | MUSIK",MTV 80S HD
-http://power4kiptv.info:8080/live/ernstalex/17012022/187454.m3u8
-#EXTINF:-1 tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/mtv90s.png" group-title="DE | MUSIK",MTV 90S
-http://power4kiptv.info:8080/live/ernstalex/17012022/187453.m3u8
 #EXTINF:-1 tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/mezzo.png" group-title="DE | MUSIK",MEZZO
 http://power4kiptv.info:8080/live/ernstalex/17012022/187448.m3u8
 #EXTINF:-1 tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/NRJ_Hits_TV.png" group-title="DE | MUSIK",NRJ HITS TV
@@ -2822,7 +2814,7 @@ http://power4kiptv.info:8080/live/ernstalex/17012022/694496.m3u8
 http://power4kiptv.info:8080/live/ernstalex/17012022/314486.m3u8
 #EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/GERMANY/rtl_plus.png" group-title="DE | RTL EVENT",RTL+ PPV
 http://power4kiptv.info:8080/live/ernstalex/17012022/624175.m3u8
-#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/GERMANY/rtl_plus.png" group-title="DE | RTL EVENT",RTL+ KONFERENZ
+#EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/GERMANY/rtl_plus.png" group-title="DE | RTL EVENT",RTL+ PPV
 http://power4kiptv.info:8080/live/ernstalex/17012022/866132.m3u8
 #EXTINF:-1 tvg-logo="https://tvlogo.nl/files/ch/GERMANY/rtl_plus.png" group-title="DE | RTL EVENT",RTL EVENT 1 FHD
 http://power4kiptv.info:8080/live/ernstalex/17012022/314487.m3u8
@@ -4825,4 +4817,4 @@ http://power4kiptv.info:8080/live/ernstalex/17012022/601228.m3u8
 #EXTINF:-1 tvg-logo="http://a-panel.online:80/images/2743dd0d089dc21998bfc5358d6ac7ec.jpg" group-title="VIP | SPORT VIAPLAY",VIAPLAY XTRA 53
 http://power4kiptv.info:8080/live/ernstalex/17012022/601227.m3u8
 
-# Total: 2360
+# Total: 2356

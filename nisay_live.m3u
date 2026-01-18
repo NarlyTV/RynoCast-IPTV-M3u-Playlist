@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: nisay.xyz:8080
-# Generated: 2026-01-17 18:39:02
+# Generated: 2026-01-18 07:17:07
 # Expires: 2026-10-04
 # Family Safe Edition
 # ==============================================
@@ -5023,7 +5023,7 @@ http://nisay.xyz:8080/live/atillaerdoganDE/sa95x6VSFx/129469.m3u8
 #EXTINF:-1 tvg-logo="" group-title="FR: SPORTS",FR: ELEVEN 1 FR Ⓜ
 http://nisay.xyz:8080/live/atillaerdoganDE/sa95x6VSFx/129509.m3u8
 
-# --- GR: GREECE (36) ---
+# --- GR: GREECE (35) ---
 #EXTINF:-1 tvg-logo="" group-title="GR: GREECE",GR: ERT 1 Ⓡ
 http://nisay.xyz:8080/live/atillaerdoganDE/sa95x6VSFx/152770.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GR: GREECE",GR: ERT 1 HD Ⓡ
@@ -5064,8 +5064,6 @@ http://nisay.xyz:8080/live/atillaerdoganDE/sa95x6VSFx/152787.m3u8
 http://nisay.xyz:8080/live/atillaerdoganDE/sa95x6VSFx/152788.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GR: GREECE",GR: Xplore TV Ⓡ
 http://nisay.xyz:8080/live/atillaerdoganDE/sa95x6VSFx/152789.m3u8
-#EXTINF:-1 tvg-logo="" group-title="GR: GREECE",GR: VOULI (Griekenland) Ⓡ
-http://nisay.xyz:8080/live/atillaerdoganDE/sa95x6VSFx/152790.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GR: GREECE",GR: Play TV Ⓡ
 http://nisay.xyz:8080/live/atillaerdoganDE/sa95x6VSFx/152791.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GR: GREECE",GR: Groovy Ⓡ
@@ -10729,4 +10727,4 @@ http://nisay.xyz:8080/live/atillaerdoganDE/sa95x6VSFx/154856.m3u8
 #EXTINF:-1 tvg-logo="" group-title="WORLD SPORTS",VIP SPORT: WWE Network (US)
 http://nisay.xyz:8080/live/atillaerdoganDE/sa95x6VSFx/154857.m3u8
 
-# Total: 5281
+# Total: 5280
