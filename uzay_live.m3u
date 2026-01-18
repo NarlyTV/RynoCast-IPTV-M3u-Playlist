@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: uzay.pro:8080
-# Generated: 2026-01-17 18:29:06
+# Generated: 2026-01-18 18:37:34
 # Expires: 2026-04-13
 # Family Safe Edition
 # ==============================================
@@ -770,9 +770,9 @@ http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/412403.m3u8
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/375196.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/orf_sport+.png" group-title="AT AUSTRIA",AT: ORF SPORT+ HD
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/260865.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/daznFast.png" group-title="AT AUSTRIA",AT: DAZN FAST FHD
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/daznFast.png" group-title="AT AUSTRIA",AT: DAZN FAST
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/478231.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/daznRise.png" group-title="AT AUSTRIA",AT: DAZN RISE FHD
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/daznRise.png" group-title="AT AUSTRIA",AT: DAZN RISE
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/478230.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/sky_sport_austria.png" group-title="AT AUSTRIA",AT: SKY SPORT AUSTRIA 1 HD
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/212526.m3u8
@@ -907,7 +907,7 @@ http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/227546.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/Switzerland/mysports9.png" group-title="CH SUISSE - SWITZERLAND SPORT",CH: MYSPORTS 9 HD
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/339591.m3u8
 
-# --- DE AMZ DEUTSCHLAND (111) ---
+# --- DE AMZ DEUTSCHLAND (117) ---
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/flag/ger.png" group-title="DE AMZ DEUTSCHLAND",DE: ----- AMZ DEUTSCHLAND -----
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/626969.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/das_erste.png" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| DAS ERSTE
@@ -1018,13 +1018,25 @@ http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/626883.m3u8
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/626887.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/AMZ/JUDYJUSTICE.png" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| JUDY JUSTICE
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/626899.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| SWAMP PEOPLE
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/SWAMP PEOPLE.png" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| SWAMP PEOPLE
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/640743.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| TIME2RLX
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/TIME2RLX.png" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| TIME2RLX
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/640742.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| STROMBERG BY MYSPASS
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/WEDOTV.png" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| WEDOTV SPORTS
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/658661.m3u8
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/WEDOTV.png" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| WEDOTV TRUE STORIES
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/658660.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/GREECE/bbcEart.png" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| BBC EARTH
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/658659.m3u8
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/TELENOVELA ZDF.png" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| TELENOVELA ZDF
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/658658.m3u8
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/WEDOTV.png" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| WEDOTV MOVIES
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/658657.m3u8
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/KULTKRIMI.png" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| KULTKRIMI
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/658656.m3u8
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/STROMBERG BY MYSPASS.png" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| STROMBERG BY MYSPASS
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/640741.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| 7 VS. WILD
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/7 VS. WILD.png" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| 7 VS. WILD
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/640740.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/AMZ/TOPTRUECRIME.png" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| TOP TRUE CRIME
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/626945.m3u8
@@ -3260,9 +3272,9 @@ http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/633373.m3u8
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/633372.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/a-z/--T--/tv5monde.png" group-title="DE MAGENTA TV",DE: |MAGENTA| TV5MONDE EUROPE
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/633371.m3u8
-#EXTINF:-1 tvg-logo="https://www.telekom.com/resource/image/1100584/landscape_ratio4x3/1296/972/9b59c796a555d5ec42c5f353c9822424/C5EDA4E806F2762161351164BC5BF258/bi-251222-magentatv-golf.jpg" group-title="DE MAGENTA TV",DE: |MAGENTA| MS GOLF 1
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/ms golf 1.png" group-title="DE MAGENTA TV",DE: |MAGENTA| MS GOLF 1
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/657212.m3u8
-#EXTINF:-1 tvg-logo="https://www.telekom.com/resource/image/1100584/landscape_ratio4x3/1296/972/9b59c796a555d5ec42c5f353c9822424/C5EDA4E806F2762161351164BC5BF258/bi-251222-magentatv-golf.jpg" group-title="DE MAGENTA TV",DE: |MAGENTA| MS GOLF 2
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/ms golf 2.png" group-title="DE MAGENTA TV",DE: |MAGENTA| MS GOLF 2
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/657213.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/AMZ/MORETHANSPORTSTV.png" group-title="DE MAGENTA TV",DE: |MAGENTA| MORE THAN SPORTS TV
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/633448.m3u8
@@ -4240,7 +4252,7 @@ http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/583153.m3u8
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/378116.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/daznCompat.png" group-title="DE VIP SPORT",DE: VIP DAZN COMBAT
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/497247.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/daznFast.png" group-title="DE VIP SPORT",DE: VIP DAZN FAST FHD
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/daznFast.png" group-title="DE VIP SPORT",DE: VIP DAZN FAST
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/478235.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/vipdaznlfctvhd.png" group-title="DE VIP SPORT",DE: VIP DAZN LFC TV
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/444917.m3u8
@@ -4254,7 +4266,7 @@ http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/444919.m3u8
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/635475.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/red-bull-tv.png" group-title="DE VIP SPORT",DE: VIP DAZN RED BULL TV
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/421732.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/daznRise.png" group-title="DE VIP SPORT",DE: VIP DAZN RISE FHD
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/daznRise.png" group-title="DE VIP SPORT",DE: VIP DAZN RISE
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/478234.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/vipdaznunbeatenhd.png" group-title="DE VIP SPORT",DE: VIP DAZN UNBEATEN
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/445412.m3u8
@@ -4637,4 +4649,4 @@ http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/210664.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/macedonia/alsat.png" group-title="MK MACEDONIA",MK: ALSAT M TV
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/290212.m3u8
 
-# Total: 2283
+# Total: 2289

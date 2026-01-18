@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: satpower.shop:8080
-# Generated: 2026-01-17 18:36:30
+# Generated: 2026-01-18 18:33:37
 # Expires: 2026-03-06
 # Family Safe Edition
 # ==============================================
@@ -898,9 +898,9 @@ http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/412403.m3u8
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/375196.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/orf_sport+.png" group-title="AT AUSTRIA",AT: ORF SPORT+ HD
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/260865.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/daznFast.png" group-title="AT AUSTRIA",AT: DAZN FAST FHD
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/daznFast.png" group-title="AT AUSTRIA",AT: DAZN FAST
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/478231.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/daznRise.png" group-title="AT AUSTRIA",AT: DAZN RISE FHD
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/daznRise.png" group-title="AT AUSTRIA",AT: DAZN RISE
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/478230.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/sky_sport_austria.png" group-title="AT AUSTRIA",AT: SKY SPORT AUSTRIA 1 HD
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/212526.m3u8
@@ -1057,7 +1057,7 @@ http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/520840.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/Bosnia%20and%20Herzegovina/tv7.png" group-title="BH BOSNIA AND HERZEGOVINA",BH: TV 7
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/520839.m3u8
 
-# --- DE AMZ DEUTSCHLAND (111) ---
+# --- DE AMZ DEUTSCHLAND (117) ---
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/flag/ger.png" group-title="DE AMZ DEUTSCHLAND",DE: ----- AMZ DEUTSCHLAND -----
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/626969.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/das_erste.png" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| DAS ERSTE
@@ -1168,13 +1168,25 @@ http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/626883.m3u8
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/626887.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/AMZ/JUDYJUSTICE.png" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| JUDY JUSTICE
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/626899.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| SWAMP PEOPLE
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/SWAMP PEOPLE.png" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| SWAMP PEOPLE
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/640743.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| TIME2RLX
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/TIME2RLX.png" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| TIME2RLX
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/640742.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| STROMBERG BY MYSPASS
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/WEDOTV.png" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| WEDOTV SPORTS
+http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/658661.m3u8
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/WEDOTV.png" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| WEDOTV TRUE STORIES
+http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/658660.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/GREECE/bbcEart.png" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| BBC EARTH
+http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/658659.m3u8
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/TELENOVELA ZDF.png" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| TELENOVELA ZDF
+http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/658658.m3u8
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/WEDOTV.png" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| WEDOTV MOVIES
+http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/658657.m3u8
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/KULTKRIMI.png" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| KULTKRIMI
+http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/658656.m3u8
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/STROMBERG BY MYSPASS.png" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| STROMBERG BY MYSPASS
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/640741.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| 7 VS. WILD
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/7 VS. WILD.png" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| 7 VS. WILD
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/640740.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/AMZ/TOPTRUECRIME.png" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| TOP TRUE CRIME
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/626945.m3u8
@@ -3410,9 +3422,9 @@ http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/633373.m3u8
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/633372.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/a-z/--T--/tv5monde.png" group-title="DE MAGENTA TV",DE: |MAGENTA| TV5MONDE EUROPE
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/633371.m3u8
-#EXTINF:-1 tvg-logo="https://www.telekom.com/resource/image/1100584/landscape_ratio4x3/1296/972/9b59c796a555d5ec42c5f353c9822424/C5EDA4E806F2762161351164BC5BF258/bi-251222-magentatv-golf.jpg" group-title="DE MAGENTA TV",DE: |MAGENTA| MS GOLF 1
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/ms golf 1.png" group-title="DE MAGENTA TV",DE: |MAGENTA| MS GOLF 1
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/657212.m3u8
-#EXTINF:-1 tvg-logo="https://www.telekom.com/resource/image/1100584/landscape_ratio4x3/1296/972/9b59c796a555d5ec42c5f353c9822424/C5EDA4E806F2762161351164BC5BF258/bi-251222-magentatv-golf.jpg" group-title="DE MAGENTA TV",DE: |MAGENTA| MS GOLF 2
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/ms golf 2.png" group-title="DE MAGENTA TV",DE: |MAGENTA| MS GOLF 2
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/657213.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/AMZ/MORETHANSPORTSTV.png" group-title="DE MAGENTA TV",DE: |MAGENTA| MORE THAN SPORTS TV
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/633448.m3u8
@@ -4390,7 +4402,7 @@ http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/583153.m3u8
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/378116.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/daznCompat.png" group-title="DE VIP SPORT",DE: VIP DAZN COMBAT
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/497247.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/daznFast.png" group-title="DE VIP SPORT",DE: VIP DAZN FAST FHD
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/daznFast.png" group-title="DE VIP SPORT",DE: VIP DAZN FAST
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/478235.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/vipdaznlfctvhd.png" group-title="DE VIP SPORT",DE: VIP DAZN LFC TV
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/444917.m3u8
@@ -4404,7 +4416,7 @@ http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/444919.m3u8
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/635475.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/red-bull-tv.png" group-title="DE VIP SPORT",DE: VIP DAZN RED BULL TV
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/421732.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/daznRise.png" group-title="DE VIP SPORT",DE: VIP DAZN RISE FHD
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/daznRise.png" group-title="DE VIP SPORT",DE: VIP DAZN RISE
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/478234.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/vipdaznunbeatenhd.png" group-title="DE VIP SPORT",DE: VIP DAZN UNBEATEN
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/445412.m3u8
@@ -6784,21 +6796,21 @@ http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/632486.m3u8
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/632485.m3u8
 #EXTINF:-1 tvg-logo="http://95.134.201.48:80/images/fSfLWc_prkZCYL-V3ibAfiBGpuxGLwdpCasLhUu5KGIUvl_rOMwxFf6HkuZy4zNA.png" group-title="TR SINEMA 24 - 7",TR: 7/24 CINETIGER AMAZON PRIME 4
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/632484.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TR SINEMA 24 - 7",TR: 7/24 CINETIGER ZEKI METIN 1
+#EXTINF:-1 tvg-logo="http://95.134.201.48:80/images/fSfLWc_prkZCYL-V3ibAfiBGpuxGLwdpCasLhUu5KGIUvl_rOMwxFf6HkuZy4zNA.png" group-title="TR SINEMA 24 - 7",TR: 7/24 CINETIGER ZEKI METIN 1
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/632483.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TR SINEMA 24 - 7",TR: 7/24 CINETIGER ZEKI METIN 2
+#EXTINF:-1 tvg-logo="http://95.134.201.48:80/images/fSfLWc_prkZCYL-V3ibAfiBGpuxGLwdpCasLhUu5KGIUvl_rOMwxFf6HkuZy4zNA.png" group-title="TR SINEMA 24 - 7",TR: 7/24 CINETIGER ZEKI METIN 2
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/632482.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TR SINEMA 24 - 7",TR: 7/24 CINETIGER ZEKI METIN 3
+#EXTINF:-1 tvg-logo="http://95.134.201.48:80/images/fSfLWc_prkZCYL-V3ibAfiBGpuxGLwdpCasLhUu5KGIUvl_rOMwxFf6HkuZy4zNA.png" group-title="TR SINEMA 24 - 7",TR: 7/24 CINETIGER ZEKI METIN 3
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/632481.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TR SINEMA 24 - 7",TR: 7/24 CINETIGER KEMAL SUNAL 1
+#EXTINF:-1 tvg-logo="http://95.134.201.48:80/images/fSfLWc_prkZCYL-V3ibAfiBGpuxGLwdpCasLhUu5KGIUvl_rOMwxFf6HkuZy4zNA.png" group-title="TR SINEMA 24 - 7",TR: 7/24 CINETIGER KEMAL SUNAL 1
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/632480.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TR SINEMA 24 - 7",TR: 7/24 CINETIGER KEMAL SUNAL 2
+#EXTINF:-1 tvg-logo="http://95.134.201.48:80/images/fSfLWc_prkZCYL-V3ibAfiBGpuxGLwdpCasLhUu5KGIUvl_rOMwxFf6HkuZy4zNA.png" group-title="TR SINEMA 24 - 7",TR: 7/24 CINETIGER KEMAL SUNAL 2
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/632479.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TR SINEMA 24 - 7",TR: 7/24 CINETIGER KEMAL SUNAL 3
+#EXTINF:-1 tvg-logo="http://95.134.201.48:80/images/fSfLWc_prkZCYL-V3ibAfiBGpuxGLwdpCasLhUu5KGIUvl_rOMwxFf6HkuZy4zNA.png" group-title="TR SINEMA 24 - 7",TR: 7/24 CINETIGER KEMAL SUNAL 3
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/632478.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TR SINEMA 24 - 7",TR: 7/24 CINETIGER KEMAL SUNAL 4
+#EXTINF:-1 tvg-logo="http://95.134.201.48:80/images/fSfLWc_prkZCYL-V3ibAfiBGpuxGLwdpCasLhUu5KGIUvl_rOMwxFf6HkuZy4zNA.png" group-title="TR SINEMA 24 - 7",TR: 7/24 CINETIGER KEMAL SUNAL 4
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/632477.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TR SINEMA 24 - 7",TR: 7/24 CINETIGER KEMAL SUNAL 5
+#EXTINF:-1 tvg-logo="http://95.134.201.48:80/images/fSfLWc_prkZCYL-V3ibAfiBGpuxGLwdpCasLhUu5KGIUvl_rOMwxFf6HkuZy4zNA.png" group-title="TR SINEMA 24 - 7",TR: 7/24 CINETIGER KEMAL SUNAL 5
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/632476.m3u8
 #EXTINF:-1 tvg-logo="http://95.134.201.48:80/images/fSfLWc_prkZCYL-V3ibAfiBGpuxGLwdpCasLhUu5KGIUvl_rOMwxFf6HkuZy4zNA.png" group-title="TR SINEMA 24 - 7",TR: 7/24 CINETIGER AMAZON PRIME 5
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/632475.m3u8
@@ -10347,4 +10359,4 @@ http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/505896.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/USA/TVJ%20channel.png" group-title="US SPORTS",US: TVJ
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/282779.m3u8
 
-# Total: 5095
+# Total: 5101

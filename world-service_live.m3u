@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: world-service.us:8080
-# Generated: 2026-01-18 07:22:14
+# Generated: 2026-01-18 18:35:28
 # Expires: 2026-02-19
 # Family Safe Edition
 # ==============================================
@@ -705,7 +705,17 @@ http://world-service.us:8080/live/giovanmer/merante/57089.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DE - Sky Kultur",DE: Spiegel TV Wissen HD
 http://world-service.us:8080/live/giovanmer/merante/57090.m3u8
 
-# --- DE - Sky Sport (47) ---
+# --- DE - Sky Sport (49) ---
+#EXTINF:-1 tvg-logo="" group-title="DE - Sky Sport",DE: RTL+ 1 FHD
+http://world-service.us:8080/live/giovanmer/merante/85318.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE - Sky Sport",DE: RTL+ 2 FHD
+http://world-service.us:8080/live/giovanmer/merante/85319.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE - Sky Sport",DE: RTL+ 3 FHD
+http://world-service.us:8080/live/giovanmer/merante/85320.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE - Sky Sport",DE: RTL+ 4 FHD
+http://world-service.us:8080/live/giovanmer/merante/86578.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE - Sky Sport",DE: RTL+ 5 FHD
+http://world-service.us:8080/live/giovanmer/merante/86579.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DE - Sky Sport",DE: Sky Sport News HD
 http://world-service.us:8080/live/giovanmer/merante/57112.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DE - Sky Sport",DE: Sport 1 HD
@@ -794,12 +804,6 @@ http://world-service.us:8080/live/giovanmer/merante/59336.m3u8
 http://world-service.us:8080/live/giovanmer/merante/59335.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DE - Sky Sport",DE: DAZN 17 HD (Only Live Event)
 http://world-service.us:8080/live/giovanmer/merante/59334.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE - Sky Sport",DE: RTL+ 1 FHD
-http://world-service.us:8080/live/giovanmer/merante/85318.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE - Sky Sport",DE: RTL+ 2 FHD
-http://world-service.us:8080/live/giovanmer/merante/85319.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE - Sky Sport",DE: RTL+ 3 FHD
-http://world-service.us:8080/live/giovanmer/merante/85320.m3u8
 
 # --- DE - Sky Unterhaltung (14) ---
 #EXTINF:-1 tvg-logo="" group-title="DE - Sky Unterhaltung",DE - AXN White HD
@@ -1719,4 +1723,4 @@ http://world-service.us:8080/live/giovanmer/merante/65388.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV_SPAGNA",ES: NICKELODEON HD
 http://world-service.us:8080/live/giovanmer/merante/65389.m3u8
 
-# Total: 822
+# Total: 824

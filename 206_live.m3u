@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: 206.212.244.71:8080
-# Generated: 2026-01-18 07:12:26
+# Generated: 2026-01-18 18:35:46
 # Expires: 2026-06-05
 # Family Safe Edition
 # ==============================================
@@ -535,7 +535,7 @@ http://206.212.244.71:8080/live/BRIDGITS@YAHOO.COM/BRIDGITS@2022/164950.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BRAZIL",BR: TNT SERIES HD
 http://206.212.244.71:8080/live/BRIDGITS@YAHOO.COM/BRIDGITS@2022/164958.m3u8
 
-# --- CANADA (169) ---
+# --- CANADA (168) ---
 #EXTINF:-1 tvg-logo="" group-title="CANADA",CA : APTN
 http://206.212.244.71:8080/live/BRIDGITS@YAHOO.COM/BRIDGITS@2022/57320.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CANADA",CA: A&E
@@ -734,8 +734,6 @@ http://206.212.244.71:8080/live/BRIDGITS@YAHOO.COM/BRIDGITS@2022/57281.m3u8
 http://206.212.244.71:8080/live/BRIDGITS@YAHOO.COM/BRIDGITS@2022/47338.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CANADA",CA National Geographic Wild
 http://206.212.244.71:8080/live/BRIDGITS@YAHOO.COM/BRIDGITS@2022/57280.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANADA",CA: NATIONAL GEOGRAPHIC
-http://206.212.244.71:8080/live/BRIDGITS@YAHOO.COM/BRIDGITS@2022/47339.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CANADA",CA: NFL NETWORK HD
 http://206.212.244.71:8080/live/BRIDGITS@YAHOO.COM/BRIDGITS@2022/47346.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CANADA",CA (ZH) NTD (E)
@@ -12188,7 +12186,7 @@ http://206.212.244.71:8080/live/BRIDGITS@YAHOO.COM/BRIDGITS@2022/11645.m3u8
 http://206.212.244.71:8080/live/BRIDGITS@YAHOO.COM/BRIDGITS@2022/20930.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports Fanatic's",US Bally Sports Midwest (A)
 http://206.212.244.71:8080/live/BRIDGITS@YAHOO.COM/BRIDGITS@2022/66795.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports Fanatic's",US Bally Sports Oklahoma (A)
+#EXTINF:-1 tvg-logo="" group-title="Sports Fanatic's",US FanDuel Sports Oklahoma
 http://206.212.244.71:8080/live/BRIDGITS@YAHOO.COM/BRIDGITS@2022/20934.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports Fanatic's",US Bally Sports Southeast
 http://206.212.244.71:8080/live/BRIDGITS@YAHOO.COM/BRIDGITS@2022/2213.m3u8
@@ -13675,4 +13673,4 @@ http://206.212.244.71:8080/live/BRIDGITS@YAHOO.COM/BRIDGITS@2022/121046.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Vietnam",VN DA NANG 1 HD
 http://206.212.244.71:8080/live/BRIDGITS@YAHOO.COM/BRIDGITS@2022/121048.m3u8
 
-# Total: 6798
+# Total: 6797

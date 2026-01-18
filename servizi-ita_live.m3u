@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: servizi-ita.com:8080
-# Generated: 2026-01-18 07:18:37
+# Generated: 2026-01-18 18:27:53
 # Expires: 2026-05-01
 # Family Safe Edition
 # ==============================================
@@ -705,7 +705,7 @@ http://servizi-ita.com:8080/live/DarioLecce/jjpi76SAWP78v/57089.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DE - Sky Kultur",DE: Spiegel TV Wissen HD
 http://servizi-ita.com:8080/live/DarioLecce/jjpi76SAWP78v/57090.m3u8
 
-# --- DE - Sky Sport (30) ---
+# --- DE - Sky Sport (32) ---
 #EXTINF:-1 tvg-logo="" group-title="DE - Sky Sport",DE: Sky Sport News HD
 http://servizi-ita.com:8080/live/DarioLecce/jjpi76SAWP78v/57112.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DE - Sky Sport",DE: Sport 1 HD
@@ -766,6 +766,10 @@ http://servizi-ita.com:8080/live/DarioLecce/jjpi76SAWP78v/85318.m3u8
 http://servizi-ita.com:8080/live/DarioLecce/jjpi76SAWP78v/85319.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DE - Sky Sport",DE: RTL+ 3 FHD
 http://servizi-ita.com:8080/live/DarioLecce/jjpi76SAWP78v/85320.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE - Sky Sport",DE: RTL+ 4 FHD
+http://servizi-ita.com:8080/live/DarioLecce/jjpi76SAWP78v/86578.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE - Sky Sport",DE: RTL+ 5 FHD
+http://servizi-ita.com:8080/live/DarioLecce/jjpi76SAWP78v/86579.m3u8
 
 # --- DE - Sky Unterhaltung (13) ---
 #EXTINF:-1 tvg-logo="" group-title="DE - Sky Unterhaltung",DE: AXN black HD
@@ -1683,4 +1687,4 @@ http://servizi-ita.com:8080/live/DarioLecce/jjpi76SAWP78v/65405.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV_SPAGNA",ES: M+ LaLiga SmartBank Tv 2 HD
 http://servizi-ita.com:8080/live/DarioLecce/jjpi76SAWP78v/65406.m3u8
 
-# Total: 804
+# Total: 806

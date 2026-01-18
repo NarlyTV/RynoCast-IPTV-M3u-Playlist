@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: teck-tv.com
-# Generated: 2026-01-18 07:18:11
+# Generated: 2026-01-18 18:35:50
 # Expires: 2026-07-14
 # Family Safe Edition
 # ==============================================
@@ -744,6 +744,42 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/1089392.m3u8
 http://teck-tv.com/live/2605201443100597/C655BF416768/1305668.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/mand.png" group-title="AF | C+ AFRICA",AF - MANDEKA
 http://teck-tv.com/live/2605201443100597/C655BF416768/1306744.m3u8
+
+# --- AF | COTEDIVOIRE (17) ---
+#EXTINF:-1 tvg-logo="https://go4.pw/COTEDIVOIRE/IVOIRE.png" group-title="AF | COTEDIVOIRE",IC - A+IVOIRE FHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/109786.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/COTEDIVOIR/IVOIRE CHANNEL.png" group-title="AF | COTEDIVOIRE",IC - IVOIRE CHANNEL FHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/588513.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/COTEDIVOIR/RTI1.png" group-title="AF | COTEDIVOIRE",IC -  RTI1 ◉ FHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/109960.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/COTEDIVOIRE/RTI2.png" group-title="AF | COTEDIVOIRE",IC - RTI2 FHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/109961.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/COTEDIVOIRE/NCI.png" group-title="AF | COTEDIVOIRE",IC - NCI HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/333520.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/COTEDIVOIR/AL BAYANE TV.png" group-title="AF | COTEDIVOIRE",IC - AL BAYANE TV FHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/422399.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/COTEDIVOIRE/l3.png" group-title="AF | COTEDIVOIRE",IC - LA 3 FHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/588404.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/COTEDIVOIRE/L’INTELLIGENT.TV.png" group-title="AF | COTEDIVOIRE",IC - L’INTELLIGENT.TV FHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/588509.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/COTEDIVOIRE/LIFE_TV.png" group-title="AF | COTEDIVOIRE",IC - LIFE TV FHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/588510.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/COTEDIVOIR/Romanza.png" group-title="AF | COTEDIVOIRE",IC -  Romanza+ AFRICA TV FHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/588511.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/COTEDIVOIRE/CEN.png" group-title="AF | COTEDIVOIRE",IC - CEN FHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/588512.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/COTEDIVOIRE/BENIE TV.png" group-title="AF | COTEDIVOIRE",IC - BENIE TV FHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/588514.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/COTEDIVOIRE/A12_TV.png" group-title="AF | COTEDIVOIRE",IC - A12 TV FHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/588515.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/COTEDIVOIRE/LUMIÈRE TV.png" group-title="AF | COTEDIVOIRE",IC -  LUMIÈRE TV FHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/588516.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/COTEDIVOIRE/NTV.png" group-title="AF | COTEDIVOIRE",IC -  NTV FHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/588517.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/7INFO.png" group-title="AF | COTEDIVOIRE",IC - 7INFO FHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1135437.m3u8
+#EXTINF:-1 tvg-logo="" group-title="AF | COTEDIVOIRE",IC - ECCLESIA TV
+http://teck-tv.com/live/2605201443100597/C655BF416768/1171941.m3u8
 
 # --- AF | MALI (10) ---
 #EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/MALI/ORTM.png" group-title="AF | MALI",ML -  ORTM FHD
@@ -14760,17 +14796,17 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/71983.m3u8
 http://teck-tv.com/live/2605201443100597/C655BF416768/71984.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/USA/nfl.png" group-title="AM | USA | NFL",US - NFL REDZONE HD [BK]
 http://teck-tv.com/live/2605201443100597/C655BF416768/1009486.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/nfl.png" group-title="AM | USA | NFL",US - NFL GAME 01 : BILLS @ BRONCOS JAN 17 – 4:30 PM ET / 9:30 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/nfl.png" group-title="AM | USA | NFL",US - NFL GAME 01 : HOUSTON TEXANS @ NEW ENGLAND PATRIOTS – 3:00 PM ET / 8:00 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/79450.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/nfl.png" group-title="AM | USA | NFL",US - NFL GAME 02 : 49ERS @ SEAHAWKS JAN 17 – 8:00 PM ET / 1:00 AM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/nfl.png" group-title="AM | USA | NFL",US - NFL GAME 02 : HOUSTON TEXANS @ NEW ENGLAND PATRIOTS – 3:00 PM ET / 8:00 PM UK [BK1]
 http://teck-tv.com/live/2605201443100597/C655BF416768/79451.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/nfl.png" group-title="AM | USA | NFL",US - NFL GAME 03 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/nfl.png" group-title="AM | USA | NFL",US - NFL GAME 03 : HOUSTON TEXANS @ NEW ENGLAND PATRIOTS – 3:00 PM ET / 8:00 PM UK [BK2]
 http://teck-tv.com/live/2605201443100597/C655BF416768/79452.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/nfl.png" group-title="AM | USA | NFL",US - NFL GAME 04 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/nfl.png" group-title="AM | USA | NFL",US - NFL GAME 04 : LOS ANGELES RAMS @ CHICAGO BEARS – 6:30 PM ET / 11:30 PM UK
 http://teck-tv.com/live/2605201443100597/C655BF416768/79453.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/nfl.png" group-title="AM | USA | NFL",US - NFL GAME 05 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/nfl.png" group-title="AM | USA | NFL",US - NFL GAME 05 : LOS ANGELES RAMS @ CHICAGO BEARS – 6:30 PM ET / 11:30 PM UK [BK1]
 http://teck-tv.com/live/2605201443100597/C655BF416768/79454.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/USA/nfl.png" group-title="AM | USA | NFL",US - NFL GAME 06 :
+#EXTINF:-1 tvg-logo="https://go4.pw/USA/nfl.png" group-title="AM | USA | NFL",US - NFL GAME 06 : LOS ANGELES RAMS @ CHICAGO BEARS – 6:30 PM ET / 11:30 PM UK [BK2]
 http://teck-tv.com/live/2605201443100597/C655BF416768/79455.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/USA/nfl.png" group-title="AM | USA | NFL",US - NFL GAME 07 :
 http://teck-tv.com/live/2605201443100597/C655BF416768/79456.m3u8
@@ -16996,6 +17032,114 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/1339246.m3u8
 http://teck-tv.com/live/2605201443100597/C655BF416768/1339247.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="AR | ALWAN ENTERTAINMENT",AR - ALWAN AFLAM 4 4K
 http://teck-tv.com/live/2605201443100597/C655BF416768/1339248.m3u8
+
+# --- AR | BEIN ENTERTAINMENT (53) ---
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN1.png" group-title="AR | BEIN ENTERTAINMENT",##### AR - BEIN HD #####
+http://teck-tv.com/live/2605201443100597/C655BF416768/1226645.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_MOVIES1.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN MOVIES 1 4K
+http://teck-tv.com/live/2605201443100597/C655BF416768/1348401.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_MOVIES1.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN MOVIES 1 HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/27974.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_MOVIES2.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN MOVIES 2 4k
+http://teck-tv.com/live/2605201443100597/C655BF416768/1348402.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_MOVIES2.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN MOVIES 2 HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/27973.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_MOVIES3.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN MOVIES 3 4k
+http://teck-tv.com/live/2605201443100597/C655BF416768/1348403.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_MOVIES3.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN MOVIES 3 HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/27972.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_MOVIES4.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN MOVIES 4 4k
+http://teck-tv.com/live/2605201443100597/C655BF416768/1348404.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_MOVIES4.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN MOVIES 4 HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/27971.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SERIES_1.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN SERIES  1 4k
+http://teck-tv.com/live/2605201443100597/C655BF416768/1348405.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SERIES_1.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN SERIES 1 HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/27969.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SERIES_1.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN SERIES  2 4k
+http://teck-tv.com/live/2605201443100597/C655BF416768/1348406.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SERIES_1.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN SERIES 2 HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/27968.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_DRAMA_1.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN DRAMA 4k
+http://teck-tv.com/live/2605201443100597/C655BF416768/1348407.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_DRAMA_1.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN DRAMA 1 HD ◉
+http://teck-tv.com/live/2605201443100597/C655BF416768/27967.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_GLOBAL.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN ACTION 4k
+http://teck-tv.com/live/2605201443100597/C655BF416768/1348409.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/BEIN/starmovies.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN STAR MOVIES 4k
+http://teck-tv.com/live/2605201443100597/C655BF416768/1348408.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/BEIN/starmovies.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN STAR MOVIES HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1348416.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/BEIN/starfilmes.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN STAR FILMS 4k
+http://teck-tv.com/live/2605201443100597/C655BF416768/1348410.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/BEIN/starfilmes.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN STAR FILMS HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1348414.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/BEIN/starseries.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN STAR SERIRES 4k
+http://teck-tv.com/live/2605201443100597/C655BF416768/1348411.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/BEIN/starseries.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN STAR SERIES HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1348417.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/BEIN/starlife.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN STAR LIFE HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1348415.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/BEIN/BARAEAM.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN BARAEAM 4k
+http://teck-tv.com/live/2605201443100597/C655BF416768/1348412.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/JEEM KIDS.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN JEEM 4k
+http://teck-tv.com/live/2605201443100597/C655BF416768/1348413.m3u8
+#EXTINF:-1 tvg-logo="http://core.itsall.pro:80/allgoodmgnm/aPgEDlC0m1/286354" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN CARTOONITO HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1348418.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/BEIN/FOXACTIONMOVIES-1.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN FOX ACTION MOVIES HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/27948.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_BOX_OFFICE1.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN BOX OFFICE HD 1
+http://teck-tv.com/live/2605201443100597/C655BF416768/312491.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_BOX_OFFICE2.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN BOX OFFICE HD 2
+http://teck-tv.com/live/2605201443100597/C655BF416768/312492.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_GOURMET.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN GOURMET HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/27965.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_BBC_EARTH.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN BBC EARTH HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1226343.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_DISCOVERY_FAMILY.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN DISCOVERY FAMILY HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1224819.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_DREAM_WORK.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN DREAM WORK HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1224817.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_FOOD_NETWORK.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN FOOD NETWORK HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1224814.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_HGTV.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN HGTV HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1224816.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_TRAVEL.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN TRAVEL HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1224815.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_JUNIOR_KIDS.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN JUNIOR KIDS HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1224818.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN1.png" group-title="AR | BEIN ENTERTAINMENT",##### AR - BEIN UHD #####
+http://teck-tv.com/live/2605201443100597/C655BF416768/1226644.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/odbein.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN OD 1 MOVIES UHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1224820.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/odbein.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN OD 2 MOVIES UHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1224821.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/odbein.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN OD 3 MOVIES UHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1224822.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/odbein.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN OD 4 MOVIES UHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1224823.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/odbein.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN OD 5 MOVIES UHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1224824.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/odbein.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN OD 6 MOVIES UHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1224825.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/odbein.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN OD 7 MOVIES UHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1224826.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/odbein.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN OD 8 MOVIES UHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1224827.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/odbein.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN OD 1 KIDS UHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1224832.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/odbein.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN OD 2 KIDS UHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1224833.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/odbein.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN OD 3 KIDS UHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1224834.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/odbein.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN OD 2023 1 UHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1224828.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/odbein.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN OD 2023 2 UHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1224829.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/odbein.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN OD 2023 3 UHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1224830.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/odbein.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN OD 2023 4 UHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1224831.m3u8
 
 # --- AR | BEIN SPORTS 4K (75) ---
 #EXTINF:-1 tvg-logo="https://go4.pw/BEIN/bss4k.png" group-title="AR | BEIN SPORTS 4K",##### AR - BEIN SPORTS 4K #####
@@ -22029,6 +22173,226 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/74836.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/EXYU/NOVA_DOCUMENTARY.png" group-title="EU | EXYU | DOKUMENTARNI",EXYU - NOVA DOCUMENTARY
 http://teck-tv.com/live/2605201443100597/C655BF416768/1192980.m3u8
 
+# --- EU | EXYU | HRVATSKA (32) ---
+#EXTINF:-1 tvg-logo="https://go4.pw/EXYU/CROATIA.png" group-title="EU | EXYU | HRVATSKA",##### EXYU - HRVATSKA#####
+http://teck-tv.com/live/2605201443100597/C655BF416768/74670.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EXYU/HRT.png" group-title="EU | EXYU | HRVATSKA",HR - HRT 1 HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/74672.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EXYU/HRT.png" group-title="EU | EXYU | HRVATSKA",HR - HRT 1 HD²
+http://teck-tv.com/live/2605201443100597/C655BF416768/74671.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EXYU/HRT.png" group-title="EU | EXYU | HRVATSKA",HR - HRT 2 HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/74674.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EXYU/HRT.png" group-title="EU | EXYU | HRVATSKA",HR- HRT 2 HD²
+http://teck-tv.com/live/2605201443100597/C655BF416768/74673.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EXYU/HRT.png" group-title="EU | EXYU | HRVATSKA",HR - HRT 3 HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/74676.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EXYU/HRT.png" group-title="EU | EXYU | HRVATSKA",HR - HRT 3 HD²
+http://teck-tv.com/live/2605201443100597/C655BF416768/74675.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EXYU/HRT.png" group-title="EU | EXYU | HRVATSKA",HR - HRT 4 HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/74678.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EXYU/HRT.png" group-title="EU | EXYU | HRVATSKA",HR - HRT 4 HD²
+http://teck-tv.com/live/2605201443100597/C655BF416768/74677.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EXYU/HRT.png" group-title="EU | EXYU | HRVATSKA",HR - HRT 5 HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/181618.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/Aurora TV.png" group-title="EU | EXYU | HRVATSKA",HR - AURORA TV HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1132282.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/CMC-1.png" group-title="EU | EXYU | HRVATSKA",HR - CMC HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/335627.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/DOMATVHD.png" group-title="EU | EXYU | HRVATSKA",HR - DOMA TV HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/74682.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/DOMATVHD.png" group-title="EU | EXYU | HRVATSKA",HR - DOMA TV HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/74681.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/LAUDATOTV.png" group-title="EU | EXYU | HRVATSKA",HR - LAUDATO TV HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/74694.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/N1BOSNA.png" group-title="EU | EXYU | HRVATSKA",HR - N1 HR HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/74689.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/NOVABHHD-1.png" group-title="EU | EXYU | HRVATSKA",HR - NOVA TV HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/74679.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/NOVABHHD-1.png" group-title="EU | EXYU | HRVATSKA",HR - NOVA TV HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/74680.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/OSJECKATV.png" group-title="EU | EXYU | HRVATSKA",HR - OSJECKA TV HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/74690.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EXYU/Plava.png" group-title="EU | EXYU | HRVATSKA",HR - Plava VINKOVACKA TV HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/74691.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/EXYU/MK/RTLTELEVIZIJA.png" group-title="EU | EXYU | HRVATSKA",HR - RTL 2 HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/74684.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/EXYU/MK/RTLTELEVIZIJA.png" group-title="EU | EXYU | HRVATSKA",HR - RTL CRIME HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/74686.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/EXYU/MK/RTLTELEVIZIJA.png" group-title="EU | EXYU | HRVATSKA",HR - RTL LIVING HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/74687.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/EXYU/MK/RTLTELEVIZIJA.png" group-title="EU | EXYU | HRVATSKA",HR - RTL PASSION HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/74688.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/EXYU/MK/RTLTELEVIZIJA.png" group-title="EU | EXYU | HRVATSKA",HR- RTL HR HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/74683.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/TVBANOVINA.png" group-title="EU | EXYU | HRVATSKA",HR - TV BANOVINA HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/74692.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/Z1.png" group-title="EU | EXYU | HRVATSKA",HR - Z 1 HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/74693.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EXYU/LIBERTAS_TV.png" group-title="EU | EXYU | HRVATSKA",HR - LIBERTAS TV FHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1239896.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EXYU/TREND_KARLOVAC.png" group-title="EU | EXYU | HRVATSKA",HR - TREND KARLOVAC HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1239897.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EXYU/ZELINA_TV.png" group-title="EU | EXYU | HRVATSKA",HR - ZELINA TV HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1239898.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EXYU/SLAVONSKA_TV.png" group-title="EU | EXYU | HRVATSKA",HR - SLAVONSKA TV HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1239899.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EXYU/Hajduk_tv.png" group-title="EU | EXYU | HRVATSKA",HR - HAJDUK TV
+http://teck-tv.com/live/2605201443100597/C655BF416768/1264923.m3u8
+
+# --- EU | EXYU | MAKEDONIJA (76) ---
+#EXTINF:-1 tvg-logo="https://go4.pw/EXYU/MAKEDONIA.png" group-title="EU | EXYU | MAKEDONIJA",##### EXYU - MAKEDONIJA GENERAL #####
+http://teck-tv.com/live/2605201443100597/C655BF416768/1277834.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/ALBANIA/alsat-m.png" group-title="EU | EXYU | MAKEDONIJA",MK - ALSAT M HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/304985.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/SITEL-1.png" group-title="EU | EXYU | MAKEDONIJA",MK - SITEL HD ◉
+http://teck-tv.com/live/2605201443100597/C655BF416768/74988.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/Alfa_tv.png" group-title="EU | EXYU | MAKEDONIJA",MK - ALFA HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/74972.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/TELMA-1.png" group-title="EU | EXYU | MAKEDONIJA",MK - TELMA HD ◉
+http://teck-tv.com/live/2605201443100597/C655BF416768/74993.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/MRT1-1.png" group-title="EU | EXYU | MAKEDONIJA",MK - MRT 1 HD ◉
+http://teck-tv.com/live/2605201443100597/C655BF416768/74968.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/MRT2-1.png" group-title="EU | EXYU | MAKEDONIJA",MK - MRT 2 HD ◉
+http://teck-tv.com/live/2605201443100597/C655BF416768/74969.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EXYU/MRT3.png" group-title="EU | EXYU | MAKEDONIJA",MK - MRT 3 HD ◉
+http://teck-tv.com/live/2605201443100597/C655BF416768/272530.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EXYU/MRT4.png" group-title="EU | EXYU | MAKEDONIJA",MK - MRT 4 HD ◉
+http://teck-tv.com/live/2605201443100597/C655BF416768/272531.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EXYU/MRT5.png" group-title="EU | EXYU | MAKEDONIJA",MK - MRT 5 HD ◉
+http://teck-tv.com/live/2605201443100597/C655BF416768/272532.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/24VESTI-1.png" group-title="EU | EXYU | MAKEDONIJA",MK - 24 VESTI HD  ◉
+http://teck-tv.com/live/2605201443100597/C655BF416768/74971.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EXYU/BALKANTRIP.png" group-title="EU | EXYU | MAKEDONIJA",MK - BALKAN TRIP HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/305008.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EXYU/HUGO_1.png" group-title="EU | EXYU | MAKEDONIJA",MK - HUGO 1
+http://teck-tv.com/live/2605201443100597/C655BF416768/1239888.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EXYU/HUGO_1.png" group-title="EU | EXYU | MAKEDONIJA",MK - HUGO 2
+http://teck-tv.com/live/2605201443100597/C655BF416768/1239887.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EXYU/HUGO_1.png" group-title="EU | EXYU | MAKEDONIJA",MK - HUGO 3
+http://teck-tv.com/live/2605201443100597/C655BF416768/1239886.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EXYU/HUGO_1.png" group-title="EU | EXYU | MAKEDONIJA",MK - HUGO 4
+http://teck-tv.com/live/2605201443100597/C655BF416768/1239885.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EXYU/OTV%7F.png" group-title="EU | EXYU | MAKEDONIJA",MK - OTV  HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/305071.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/SPORTSKATV-1.png" group-title="EU | EXYU | MAKEDONIJA",MK - RTL ADRIA HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/305079.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EXYU/SB.TV.png" group-title="EU | EXYU | MAKEDONIJA",MK - SBTV HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/305084.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EXYU/TELEVIZIJADALMACIJA.png" group-title="EU | EXYU | MAKEDONIJA",MK - TELEVIZIJA DALMACIJA HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/305091.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EXYU/TV21.png" group-title="EU | EXYU | MAKEDONIJA",MK - TV 21 HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/305087.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/tv-jadran.png" group-title="EU | EXYU | MAKEDONIJA",MK - TV JADRAN HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/305088.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EXYU/nova(1).png" group-title="EU | EXYU | MAKEDONIJA",MK - TV NOVA HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/305089.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/globi.png" group-title="EU | EXYU | MAKEDONIJA",MK - TV GLOBI HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1288117.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EXYU/VTV_televizij.png" group-title="EU | EXYU | MAKEDONIJA",MK - VTV VARAZDIN HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/305096.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EXYU/TV_EDO.png" group-title="EU | EXYU | MAKEDONIJA",MK - TV EDO HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1239878.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EXYU/IN_TV_AUSTRALIA.png" group-title="EU | EXYU | MAKEDONIJA",MK - IN TV AUSTRALIA HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1239879.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EXYU/B_TV_VISTINSKA.png" group-title="EU | EXYU | MAKEDONIJA",MK - B TV VISTINSKA HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1239880.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EXYU/MPT_SOBRANISKI.png" group-title="EU | EXYU | MAKEDONIJA",MK - MPT SOBRANISKI HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1239882.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EXYU/ROMA_TV.png" group-title="EU | EXYU | MAKEDONIJA",MK - ROMA TV HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1239883.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/Zdrava_TV.png" group-title="EU | EXYU | MAKEDONIJA",MK - ZDRAVA TV HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/305102.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EXYU/MAKEDONIA.png" group-title="EU | EXYU | MAKEDONIJA",##### EXYU - MAKEDONIJA DOCUMENTARY #####
+http://teck-tv.com/live/2605201443100597/C655BF416768/1277836.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/FRANCE/NATIONIALGEOGRAPHICCHANNELHD.png" group-title="EU | EXYU | MAKEDONIJA",MK - NATIONAL GEOGRAPHIC HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/305065.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/FRANCE/NATGEOWILDHD.png" group-title="EU | EXYU | MAKEDONIJA",MK - NATIONAL GEOGRAPHIC WILD HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/305066.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/FRANCE/NAUTICAL CHANNEL.png" group-title="EU | EXYU | MAKEDONIJA",MK - NAUTICAL CHANNEL HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/305067.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EXYU/Viasat%20Explore.png" group-title="EU | EXYU | MAKEDONIJA",MK - VIASAT EXPLORE HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/305097.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EXYU/VIASATNATURE.png" group-title="EU | EXYU | MAKEDONIJA",MK - VIASAT NATURE HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/305099.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/TURKIYE/Da_Vinci.png" group-title="EU | EXYU | MAKEDONIJA",MK - DA VINCI HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/305026.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/DOKUTV-1.png" group-title="EU | EXYU | MAKEDONIJA",MK - DOKU TV HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/305028.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/ALBANIA/bbc-first-hd-.png" group-title="EU | EXYU | MAKEDONIJA",MK - BBC FIRST HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/305007.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/MALTA/AMC.png" group-title="EU | EXYU | MAKEDONIJA",MK - AMC HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/304982.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/TURKIYE/Da_Vinci.png" group-title="EU | EXYU | MAKEDONIJA",MK - DA VINCI LEARNING HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/74975.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EXYU/LESKOVAC%20TV.png" group-title="EU | EXYU | MAKEDONIJA",MK - LESKOVAC TV HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/272539.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EXYU/sunce%20(1).png" group-title="EU | EXYU | MAKEDONIJA",MK - SONCE TV HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/272534.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EXYU/TERA%20BITOLA.png" group-title="EU | EXYU | MAKEDONIJA",MK - TERA BITOLA HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/272536.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/TERA-BITOLA.png" group-title="EU | EXYU | MAKEDONIJA",MK - TERA BITOLA HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/272535.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/TV+KUMANOVO.png" group-title="EU | EXYU | MAKEDONIJA",MK - TV+ KUMANOVO HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/272538.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/SPORTSKATV-1.png" group-title="EU | EXYU | MAKEDONIJA",MK - SPORTSKA TV HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/272547.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EXYU/MAKEDONIA.png" group-title="EU | EXYU | MAKEDONIJA",##### EXYU - MAKEDONIJA MOVIES #####
+http://teck-tv.com/live/2605201443100597/C655BF416768/74967.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/CINEMAX-1.png" group-title="EU | EXYU | MAKEDONIJA",MK - CINEMAX HD [HR]
+http://teck-tv.com/live/2605201443100597/C655BF416768/305019.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/EPICDRAMA.png" group-title="EU | EXYU | MAKEDONIJA",MK - EPIC DRAMA HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/305033.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/CYPRUS/Extra_.png" group-title="EU | EXYU | MAKEDONIJA",MK - EXTRA TV HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/305034.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/ALBANIA/digitalb.png" group-title="EU | EXYU | MAKEDONIJA",MK - FILM AKSION HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/305036.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/ROMANIA/FILMBOX.png" group-title="EU | EXYU | MAKEDONIJA",MK - FILM BOX ARTHOUSE HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/305037.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/ALBANIA/digitalb.png" group-title="EU | EXYU | MAKEDONIJA",MK - FILM KOMEDI HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/305039.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/ALBANIA/t-hd.png" group-title="EU | EXYU | MAKEDONIJA",MK - FILM TRILLER HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/305040.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/HBO.png" group-title="EU | EXYU | MAKEDONIJA",MK - HBO HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/272549.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/HBO.png" group-title="EU | EXYU | MAKEDONIJA",MK - HBO HD [HR]
+http://teck-tv.com/live/2605201443100597/C655BF416768/305042.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/HBO.png" group-title="EU | EXYU | MAKEDONIJA",MK - HBO2 HD [HR]
+http://teck-tv.com/live/2605201443100597/C655BF416768/305043.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/HBO.png" group-title="EU | EXYU | MAKEDONIJA",MK - HBO3 HD [HR]
+http://teck-tv.com/live/2605201443100597/C655BF416768/305044.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/CINEMAX-1.png" group-title="EU | EXYU | MAKEDONIJA",MK - CINEMAX 2 HD [HR]
+http://teck-tv.com/live/2605201443100597/C655BF416768/305021.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EXYU/TV1000.png" group-title="EU | EXYU | MAKEDONIJA",MK - TV 1000 HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/305086.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EXYU/Pink.png" group-title="EU | EXYU | MAKEDONIJA",MK - PICKBOX TV HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/305074.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/GP1_HD.png" group-title="EU | EXYU | MAKEDONIJA",MK - GP1 HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/305041.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/USA/HBO.png" group-title="EU | EXYU | MAKEDONIJA",MK - HBO 2 HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/272563.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EXYU/MAKEDONIA.png" group-title="EU | EXYU | MAKEDONIJA",##### EXYU - MAKEDONIJA KIDS #####
+http://teck-tv.com/live/2605201443100597/C655BF416768/1277835.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EXYU/NICKELODEONSR.png" group-title="EU | EXYU | MAKEDONIJA",MK - NICKELODEON HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/305069.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EXYU/NICKJUNIOR.png" group-title="EU | EXYU | MAKEDONIJA",MK - NICKJR MASTER HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/305068.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EXYU/NET_KIDS_HD.png" group-title="EU | EXYU | MAKEDONIJA",MK - M:NET KIDS HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1239877.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EXYU/MAKEDONIA.png" group-title="EU | EXYU | MAKEDONIJA",##### EXYU - MAKEDONIJA MUSIC #####
+http://teck-tv.com/live/2605201443100597/C655BF416768/1277837.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EXYU/SKY_FOLK_TV.png" group-title="EU | EXYU | MAKEDONIJA",MK - SKY FOLK TV HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1239884.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EXYU/m1-film.png" group-title="EU | EXYU | MAKEDONIJA",MK - M1 GOLD HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/305056.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EXYU/MTV_00s.png" group-title="EU | EXYU | MAKEDONIJA",MK - MTV 00s HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/305059.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EXYU/TOXIC.png" group-title="EU | EXYU | MAKEDONIJA",MK - TOXIC TV HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/305095.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AMERICA/CARIBBIEAN/mtm-tv.png" group-title="EU | EXYU | MAKEDONIJA",MK - FOLK Plus HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/272540.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EXYU/nasa.png" group-title="EU | EXYU | MAKEDONIJA",MK - NASA TV HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/272544.m3u8
+
 # --- EU | EXYU | SRBIJA (98) ---
 #EXTINF:-1 tvg-logo="https://go4.pw/EXYU/SRBIJA.png" group-title="EU | EXYU | SRBIJA",##### EXYU - SRBIJA GENERAL #####
 http://teck-tv.com/live/2605201443100597/C655BF416768/1277828.m3u8
@@ -26585,6 +26949,150 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/655599.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/KARAOKE.png" group-title="EU | ES | RADIO",ES - KARAOKE 1 HD
 http://teck-tv.com/live/2605201443100597/C655BF416768/1027035.m3u8
 
+# --- EU | PT | ESPORTES (71) ---
+#EXTINF:-1 tvg-logo="https://go4.pw/MAGFLAGS/PORTUGAL.png" group-title="EU | PT | ESPORTES",##### PT - DESPORTO #####
+http://teck-tv.com/live/2605201443100597/C655BF416768/68260.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/germany/EUROSPORT.png" group-title="EU | PT | ESPORTES",PT - EUROSPORT 1 UHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1030825.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/germany/EUROSPORT.png" group-title="EU | PT | ESPORTES",PT - EUROSPORT 1 FHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/763983.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/germany/EUROSPORT.png" group-title="EU | PT | ESPORTES",PT - EUROSPORT 1 HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/68413.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/germany/EUROSPORT.png" group-title="EU | PT | ESPORTES",PT - EUROSPORT 2 HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/763986.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/BULGARIA/BTV.png" group-title="EU | PT | ESPORTES",PT - BTV UHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1030818.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/BULGARIA/BTV.png" group-title="EU | PT | ESPORTES",PT - BTV FHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/763939.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/BULGARIA/BTV.png" group-title="EU | PT | ESPORTES",PT - BTV HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/763941.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/PORTUGAL/SPORTTV-1.png" group-title="EU | PT | ESPORTES",PT - SPORT TV+ FHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1028206.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/PORTUGAL/SPORTTV-1.png" group-title="EU | PT | ESPORTES",PT - SPORT TV+ HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1030788.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/PORTUGAL/SPORTTV-1.png" group-title="EU | PT | ESPORTES",PT - SPORT TV + HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/764057.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/PORTUGAL/SPORTTV-1.png" group-title="EU | PT | ESPORTES",PT - SPORT TV+ SD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1030779.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/PORTUGAL/SPORTTV-1.png" group-title="EU | PT | ESPORTES",PT - SPORT TV+ SD²
+http://teck-tv.com/live/2605201443100597/C655BF416768/68273.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/PORTUGAL/SPORTTV-1.png" group-title="EU | PT | ESPORTES",PT - SPORT TV 1 FHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1030794.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/PORTUGAL/SPORTTV-1.png" group-title="EU | PT | ESPORTES",PT - SPORT TV 1 HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/68419.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/PORTUGAL/SPORTTV-1.png" group-title="EU | PT | ESPORTES",PT - SPORT TV 1 SD
+http://teck-tv.com/live/2605201443100597/C655BF416768/21280.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/PORTUGAL/SPORTTV-1.png" group-title="EU | PT | ESPORTES",PT - SPORT TV 2 FHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/764059.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/PORTUGAL/SPORTTV-1.png" group-title="EU | PT | ESPORTES",PT - SPORT TV 2 FHD²
+http://teck-tv.com/live/2605201443100597/C655BF416768/68423.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/PORTUGAL/SPORTTV-1.png" group-title="EU | PT | ESPORTES",PT - SPORT TV 2 HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/68418.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/PORTUGAL/SPORTTV-1.png" group-title="EU | PT | ESPORTES",PT -  SPORT TV 2 SD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1030796.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/PORTUGAL/SPORTTV-1.png" group-title="EU | PT | ESPORTES",PT - SPORT TV 3 FHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/68422.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/PORTUGAL/SPORTTV-1.png" group-title="EU | PT | ESPORTES",PT - SPORT TV 3 HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1030799.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/PORTUGAL/SPORTTV-1.png" group-title="EU | PT | ESPORTES",PT -  SPORT TV 3 HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1030798.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/PORTUGAL/SPORTTV-1.png" group-title="EU | PT | ESPORTES",PT - SPORT TV 3 HD²
+http://teck-tv.com/live/2605201443100597/C655BF416768/68417.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/PORTUGAL/SPORTTV-1.png" group-title="EU | PT | ESPORTES",PT -  SPORT TV 3 SD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1030797.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/PORTUGAL/SPORTTV-1.png" group-title="EU | PT | ESPORTES",PT - SPORT TV 4 FHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/68421.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/PORTUGAL/SPORTTV-1.png" group-title="EU | PT | ESPORTES",PT - SPORT TV 4 FHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/764062.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/PORTUGAL/SPORTTV-1.png" group-title="EU | PT | ESPORTES",PT -  SPORT TV 4 HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1030801.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/PORTUGAL/SPORTTV-1.png" group-title="EU | PT | ESPORTES",PT -  SPORT TV 4 SD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1030800.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/PORTUGAL/SPORTTV-1.png" group-title="EU | PT | ESPORTES",PT - SPORT TV 5 FHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/764064.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/PORTUGAL/SPORTTV-1.png" group-title="EU | PT | ESPORTES",PT - SPORT TV 5 FHD²
+http://teck-tv.com/live/2605201443100597/C655BF416768/68420.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/PORTUGAL/SPORTTV-1.png" group-title="EU | PT | ESPORTES",PT -  SPORT TV 5 HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1054413.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/PORTUGAL/SPORTTV-1.png" group-title="EU | PT | ESPORTES",PT - SPORT TV 6 FHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/764066.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/PORTUGAL/SPORTTV-1.png" group-title="EU | PT | ESPORTES",PT - SPORT TV 6 SD
+http://teck-tv.com/live/2605201443100597/C655BF416768/254527.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/PORTUGAL/SPORTTV-1.png" group-title="EU | PT | ESPORTES",PT - SPORT TV 7 HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/974660.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/PORTUGAL/11tv.png" group-title="EU | PT | ESPORTES",PT - 11 HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1030778.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/PORTUGAL/MOTORVISION.png" group-title="EU | PT | ESPORTES",PT - MOTORVISION FHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1030827.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/PORTUGAL/KOMBATSPORT.png" group-title="EU | PT | ESPORTES",PT - KOMBAT SPORT FHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/68364.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/PORTUGAL/NBATV.png" group-title="EU | PT | ESPORTES",PT - NBA TV FHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/68415.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/PORTUGAL/NBATV.png" group-title="EU | PT | ESPORTES",PT - NBA TV HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/764021.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/PORTUGAL/NBATV.png" group-title="EU | PT | ESPORTES",PT - SPORT TV NBA HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1030805.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/PORTUGAL/FUELTV.png" group-title="EU | PT | ESPORTES",PT - FUEL TV HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/68297.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/PORTUGAL/FUELTV.png" group-title="EU | PT | ESPORTES",PT - FUEL TV HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/763990.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/PORTUGAL/ben.png" group-title="EU | PT | ESPORTES",PT - LATIN BENFICA TV FHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/335646.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/PORTUGAL/ben.png" group-title="EU | PT | ESPORTES",PT - BENFICA TV HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/68416.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/PORTUGAL/PFC.png" group-title="EU | PT | ESPORTES",PT - PFC HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/763988.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/sportingg.png" group-title="EU | PT | ESPORTES",PT - SPORTING TV HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/764069.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/PORTUGAL/aglobo.png" group-title="EU | PT | ESPORTES",PT - A BOLA TV HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1265943.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/MAGFLAGS/PORTUGAL.png" group-title="EU | PT | ESPORTES",##### PT - DAZN #####
+http://teck-tv.com/live/2605201443100597/C655BF416768/1126184.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/FRANCE/DAZN.png" group-title="EU | PT | ESPORTES",PT - DAZN 1 FHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/763969.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/FRANCE/DAZN.png" group-title="EU | PT | ESPORTES",PT - DAZN 1 HEVC
+http://teck-tv.com/live/2605201443100597/C655BF416768/942694.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/FRANCE/DAZN.png" group-title="EU | PT | ESPORTES",PT - DAZN 2 FHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/763971.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/FRANCE/DAZN.png" group-title="EU | PT | ESPORTES",PT - DAZN 2 HEVC
+http://teck-tv.com/live/2605201443100597/C655BF416768/942695.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/FRANCE/DAZN.png" group-title="EU | PT | ESPORTES",PT - DAZN 3 FHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/763973.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/FRANCE/DAZN.png" group-title="EU | PT | ESPORTES",PT - DAZN 3 HEVC
+http://teck-tv.com/live/2605201443100597/C655BF416768/942696.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/FRANCE/DAZN.png" group-title="EU | PT | ESPORTES",PT - DAZN 4 FHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/763975.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/FRANCE/DAZN.png" group-title="EU | PT | ESPORTES",PT - DAZN 4 HEVC
+http://teck-tv.com/live/2605201443100597/C655BF416768/942697.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/FRANCE/DAZN.png" group-title="EU | PT | ESPORTES",PT - DAZN 5 FHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/763977.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/FRANCE/DAZN.png" group-title="EU | PT | ESPORTES",PT - DAZN 6 FHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/763979.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/MAGFLAGS/PORTUGAL.png" group-title="EU | PT | ESPORTES",##### PT - ELEVEN SPORTS #####
+http://teck-tv.com/live/2605201443100597/C655BF416768/1126183.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/PORTUGAL/eleven.png" group-title="EU | PT | ESPORTES",PT - ELEVEN SPORTS 1 UHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1030807.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/PORTUGAL/eleven.png" group-title="EU | PT | ESPORTES",PT - ELEVEN SPORTS 1 HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/151547.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/PORTUGAL/eleven.png" group-title="EU | PT | ESPORTES",PT - ELEVEN SPORTS 2 UHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1030809.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/PORTUGAL/eleven.png" group-title="EU | PT | ESPORTES",PT - ELEVEN SPORTS 2 HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/68307.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/PORTUGAL/eleven.png" group-title="EU | PT | ESPORTES",PT - ELEVEN SPORTS 3 UHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1030811.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/PORTUGAL/eleven.png" group-title="EU | PT | ESPORTES",PT -  ELEVEN SPORTS 3 HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1030810.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/PORTUGAL/eleven.png" group-title="EU | PT | ESPORTES",PT - ELEVEN SPORTS 4 UHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1030813.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/PORTUGAL/eleven.png" group-title="EU | PT | ESPORTES",PT - ELEVEN SPORTS 5 UHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1030815.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/PORTUGAL/eleven.png" group-title="EU | PT | ESPORTES",PT - ELEVEN SPORTS 5 HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/323599.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/PORTUGAL/eleven.png" group-title="EU | PT | ESPORTES",PT - ELEVEN SPORTS 6 UHD
+http://teck-tv.com/live/2605201443100597/C655BF416768/1030817.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/PORTUGAL/eleven.png" group-title="EU | PT | ESPORTES",PT - ELEVEN SPORTS 6 HD
+http://teck-tv.com/live/2605201443100597/C655BF416768/323600.m3u8
+
 # --- VIP | 4 GOLDEN RELAX (70) ---
 #EXTINF:-1 tvg-logo="https://go4.pw/VIP/VIP_logo.png" group-title="VIP | 4 GOLDEN RELAX",##### 4 GOLDEN RELAX 4K #####
 http://teck-tv.com/live/2605201443100597/C655BF416768/1016884.m3u8
@@ -27348,13 +27856,13 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/1117242.m3u8
 # --- VIP | LIGA PORTUGAL BETCLIC (10) ---
 #EXTINF:-1 tvg-logo="https://go4.pw/MAGFLAGS/PORTUGAL.png" group-title="VIP | LIGA PORTUGAL BETCLIC",#### PORTUGAL ####
 http://teck-tv.com/live/2605201443100597/C655BF416768/1032044.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/PORTUGAL/LIGA_PORTUGAL_BETCLIC24.png" group-title="VIP | LIGA PORTUGAL BETCLIC",PT - GIL VICENTE VS NACIONAL 16:30 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/PORTUGAL/LIGA_PORTUGAL_BETCLIC24.png" group-title="VIP | LIGA PORTUGAL BETCLIC",PT - SANTA CLARA VS FAMALICÃO 16:30 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/1100839.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/PORTUGAL/LIGA_PORTUGAL_BETCLIC24.png" group-title="VIP | LIGA PORTUGAL BETCLIC",PT - ALVERCA VS MOREIRENSE 19:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/PORTUGAL/LIGA_PORTUGAL_BETCLIC24.png" group-title="VIP | LIGA PORTUGAL BETCLIC",PT - TONDELA VS SPORTING BRAGA 19:00 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/1100840.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/PORTUGAL/LIGA_PORTUGAL_BETCLIC24.png" group-title="VIP | LIGA PORTUGAL BETCLIC",PT - AVS VS AROUCA 19:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/PORTUGAL/LIGA_PORTUGAL_BETCLIC24.png" group-title="VIP | LIGA PORTUGAL BETCLIC",PT - VITÓRIA GUIMARÃES VS PORTO 21:30 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/1100841.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/PORTUGAL/LIGA_PORTUGAL_BETCLIC24.png" group-title="VIP | LIGA PORTUGAL BETCLIC",PT - RIO AVE VS BENFICA 21:30 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/PORTUGAL/LIGA_PORTUGAL_BETCLIC24.png" group-title="VIP | LIGA PORTUGAL BETCLIC",PT - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/1127869.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/PORTUGAL/LIGA_PORTUGAL_BETCLIC24.png" group-title="VIP | LIGA PORTUGAL BETCLIC",PT - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/1150149.m3u8
@@ -27670,13 +28178,13 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/1024113.m3u8
 # --- VIP | SERIE A (27) ---
 #EXTINF:-1 tvg-logo="https://go4.pw/MAGFLAGS/ITALY.png" group-title="VIP | SERIE A",##### ITALY #####
 http://teck-tv.com/live/2605201443100597/C655BF416768/1018093.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",IT - UDINESE VS INTERNAZIONALE 15:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",IT - PARMA VS GENOA 12:30 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/1100791.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",IT - NAPOLI VS SASSUOLO 18:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",IT - BOLOGNA VS FIORENTINA 15:00 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/1100790.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",IT - CAGLIARI VS JUVENTUS 20:45 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",IT - TORINO VS ROMA 18:00 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/1033757.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",IT - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",IT - MILAN VS LECCE 20:45 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/1033756.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",IT - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/1018106.m3u8
@@ -27690,13 +28198,13 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/1018102.m3u8
 http://teck-tv.com/live/2605201443100597/C655BF416768/1018103.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/UK.png" group-title="VIP | SERIE A",##### ENGLISH #####
 http://teck-tv.com/live/2605201443100597/C655BF416768/1001778.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",EN - UDINESE VS INTERNAZIONALE 15:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",EN - PARMA VS GENOA 12:30 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/1100792.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",EN - NAPOLI VS SASSUOLO 18:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",EN - BOLOGNA VS FIORENTINA 15:00 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/1028898.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",EN - CAGLIARI VS JUVENTUS 20:45 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",EN - TORINO VS ROMA 18:00 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/1028731.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",EN - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",EN - MILAN VS LECCE 20:45 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/1028730.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",EN - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/1018098.m3u8
@@ -27710,13 +28218,13 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/1018094.m3u8
 http://teck-tv.com/live/2605201443100597/C655BF416768/1018095.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ASIA/SAUDI/SAUDI.png" group-title="VIP | SERIE A",##### ARABIC #####
 http://teck-tv.com/live/2605201443100597/C655BF416768/1001752.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",AR - UDINESE VS INTERNAZIONALE 15:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",AR - PARMA VS GENOA 12:30 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/1018113.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",AR - NAPOLI VS SASSUOLO 18:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",AR - BOLOGNA VS FIORENTINA 15:00 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/1018112.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",AR - CAGLIARI VS JUVENTUS 20:45 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",AR - TORINO VS ROMA 18:00 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/1018111.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",AR - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",AR - MILAN VS LECCE 20:45 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/1018110.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",AR - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/1018109.m3u8
@@ -27987,4 +28495,4 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/363875.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/champ/europaleague.png" group-title="VIP | UEFA EUROPA LEAGUE",ES - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/682940.m3u8
 
-# Total: 13831
+# Total: 14080

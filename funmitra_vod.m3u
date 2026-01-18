@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: funmitra.com:8080
-# Generated: 2026-01-17 18:31:46
+# Generated: 2026-01-18 18:35:54
 # Expires: 2027-01-11
 # Family Safe Edition
 # ==============================================
@@ -511,7 +511,7 @@ http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/11703.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Animation Serien",(DE-) DoReMi
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/11704.mp4
 
-# --- Movies | (S|DE) Deutsche Serien (1367) ---
+# --- Movies | (S|DE) Deutsche Serien (1368) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) 4 Blocks
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/274.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) American Horror Story
@@ -3246,6 +3246,8 @@ http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/11701.mp4
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/11705.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) Vampire Diaries
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/11724.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) Stumptown
+http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/11741.mp4
 
 # --- Movies | (S|TR) Animasyon - Cizgi Diziler (131) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Animasyon - Cizgi Diziler",(TR-) Ben 10 Omniverse
@@ -8305,7 +8307,13 @@ http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/243352.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/8WgLM4DAHEqhBS65QV58Jb5IGoU.jpg" group-title="Movies | (V|DE) Bollywood Filme",(DE-) Bahubali: The Beginning - 2015
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/255929.mkv
 
-# --- Movies | (V|DE) Filme (1166) ---
+# --- Movies | (V|DE) Filme (1169) ---
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/iqd9I49CgbGLkoOk2bCH9uWSrc9_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) The Secret Man - 2017
+http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/658699.mp4
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/ydHpXgxJZWw0BlGv0PsGDo0oIL4_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) Eins und Eins macht Vier - 1995
+http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/658698.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/8wUxE0aFqSyNpCrQlonzJYeuCq_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) Vor Ihren Augen - 2015
+http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/658697.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/sSABNmy52mUcbzopIdVMBe4sKwQ_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) Eine Wie Keine - 1999
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/657984.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/t4MxhCDLlWPg0ZhSJFD4n4ElKpD_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) Mission Impossible: Rogue Nation - 2015
@@ -22127,7 +22135,11 @@ http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/275545.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/o3dRENAwLg8Gs8oGPh8gLO5MHWB.jpg" group-title="Movies | (V|TR) Belgeseller",(TR-) Anafartalar - 2019
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/275553.mkv
 
-# --- Movies | (V|TR) Dizi Son Bölümleri (142) ---
+# --- Movies | (V|TR) Dizi Son Bölümleri (144) ---
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/3Qwhs7xxf9LILllWLnxbSaCBNDf_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Güller Ve Günahlar (Bolum 13)
+http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/658668.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/lZL5RSSgLSewP0pi8rK4znb9FYZ.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Gönül Dagi (Bolum 201)
+http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/658667.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/uHIOTJXN9nNTc51WyunL43Fvge3_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Tasacak Bu Deniz (Bolum 14)
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/658407.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/mUYV9u68G0EEYXl0u6WMHOIGU7G.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Kizilcik Serbeti (Bolum 121)
@@ -28873,7 +28885,11 @@ http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/508684.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/zDjpCBr7fleewKN7HpF2EPQT1jN_big.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2024",(TR-) Parthenope - 2024
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/635435.mkv
 
-# --- Movies | (V|TR) Turkce Dublaj - 2025 (203) ---
+# --- Movies | (V|TR) Turkce Dublaj - 2025 (205) ---
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/fJm3kmd9NLZWypMas7g34oNFgbk_big.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2025",(TR-) Honey Don't! - 2025
+http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/658669.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/eFQOK12Wn11cMSLbN7zfueK1BOY_big.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2025",(TR-) Caught Stealing - 2025
+http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/658666.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/vEIrctCS6ESyJzgnxHSgSsREMyn_big.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2025",(TR-) Together - 2025
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/658409.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/2ZqZ1olQyizSwwPTpYlTRH2Vguv_big.jpg" group-title="Movies | (V|TR) Turkce Dublaj - 2025",(TR-) Five Nights At Freddy's 2 - 2025
@@ -31963,4 +31979,4 @@ http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/583470.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | Unknown",(DE-) Anaon:  Hüter Der Nacht
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/10625.mp4
 
-# Total: 15932
+# Total: 15940

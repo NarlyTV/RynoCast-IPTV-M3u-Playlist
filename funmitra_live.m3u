@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: funmitra.com:8080
-# Generated: 2026-01-17 18:31:46
+# Generated: 2026-01-18 18:35:54
 # Expires: 2027-01-11
 # Family Safe Edition
 # ==============================================
@@ -220,9 +220,9 @@ http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/412403.m3u8
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/375196.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/orf_sport+.png" group-title="AT AUSTRIA",AT: ORF SPORT+ HD
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/260865.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/daznFast.png" group-title="AT AUSTRIA",AT: DAZN FAST FHD
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/daznFast.png" group-title="AT AUSTRIA",AT: DAZN FAST
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/478231.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/daznRise.png" group-title="AT AUSTRIA",AT: DAZN RISE FHD
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/daznRise.png" group-title="AT AUSTRIA",AT: DAZN RISE
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/478230.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/sky_sport_austria.png" group-title="AT AUSTRIA",AT: SKY SPORT AUSTRIA 1 HD
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/212526.m3u8
@@ -357,7 +357,7 @@ http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/227546.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/Switzerland/mysports9.png" group-title="CH SUISSE - SWITZERLAND SPORT",CH: MYSPORTS 9 HD
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/339591.m3u8
 
-# --- DE AMZ DEUTSCHLAND (111) ---
+# --- DE AMZ DEUTSCHLAND (117) ---
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/flag/ger.png" group-title="DE AMZ DEUTSCHLAND",DE: ----- AMZ DEUTSCHLAND -----
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/626969.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/das_erste.png" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| DAS ERSTE
@@ -468,13 +468,25 @@ http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/626883.m3u8
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/626887.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/AMZ/JUDYJUSTICE.png" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| JUDY JUSTICE
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/626899.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| SWAMP PEOPLE
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/SWAMP PEOPLE.png" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| SWAMP PEOPLE
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/640743.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| TIME2RLX
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/TIME2RLX.png" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| TIME2RLX
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/640742.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| STROMBERG BY MYSPASS
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/WEDOTV.png" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| WEDOTV SPORTS
+http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/658661.m3u8
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/WEDOTV.png" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| WEDOTV TRUE STORIES
+http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/658660.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/GREECE/bbcEart.png" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| BBC EARTH
+http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/658659.m3u8
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/TELENOVELA ZDF.png" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| TELENOVELA ZDF
+http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/658658.m3u8
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/WEDOTV.png" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| WEDOTV MOVIES
+http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/658657.m3u8
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/KULTKRIMI.png" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| KULTKRIMI
+http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/658656.m3u8
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/STROMBERG BY MYSPASS.png" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| STROMBERG BY MYSPASS
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/640741.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| 7 VS. WILD
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/7 VS. WILD.png" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| 7 VS. WILD
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/640740.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/AMZ/TOPTRUECRIME.png" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| TOP TRUE CRIME
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/626945.m3u8
@@ -2710,9 +2722,9 @@ http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/633373.m3u8
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/633372.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/a-z/--T--/tv5monde.png" group-title="DE MAGENTA TV",DE: |MAGENTA| TV5MONDE EUROPE
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/633371.m3u8
-#EXTINF:-1 tvg-logo="https://www.telekom.com/resource/image/1100584/landscape_ratio4x3/1296/972/9b59c796a555d5ec42c5f353c9822424/C5EDA4E806F2762161351164BC5BF258/bi-251222-magentatv-golf.jpg" group-title="DE MAGENTA TV",DE: |MAGENTA| MS GOLF 1
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/ms golf 1.png" group-title="DE MAGENTA TV",DE: |MAGENTA| MS GOLF 1
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/657212.m3u8
-#EXTINF:-1 tvg-logo="https://www.telekom.com/resource/image/1100584/landscape_ratio4x3/1296/972/9b59c796a555d5ec42c5f353c9822424/C5EDA4E806F2762161351164BC5BF258/bi-251222-magentatv-golf.jpg" group-title="DE MAGENTA TV",DE: |MAGENTA| MS GOLF 2
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/ms golf 2.png" group-title="DE MAGENTA TV",DE: |MAGENTA| MS GOLF 2
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/657213.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/AMZ/MORETHANSPORTSTV.png" group-title="DE MAGENTA TV",DE: |MAGENTA| MORE THAN SPORTS TV
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/633448.m3u8
@@ -3690,7 +3702,7 @@ http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/583153.m3u8
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/378116.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/daznCompat.png" group-title="DE VIP SPORT",DE: VIP DAZN COMBAT
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/497247.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/daznFast.png" group-title="DE VIP SPORT",DE: VIP DAZN FAST FHD
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/daznFast.png" group-title="DE VIP SPORT",DE: VIP DAZN FAST
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/478235.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/vipdaznlfctvhd.png" group-title="DE VIP SPORT",DE: VIP DAZN LFC TV
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/444917.m3u8
@@ -3704,7 +3716,7 @@ http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/444919.m3u8
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/635475.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/red-bull-tv.png" group-title="DE VIP SPORT",DE: VIP DAZN RED BULL TV
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/421732.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/daznRise.png" group-title="DE VIP SPORT",DE: VIP DAZN RISE FHD
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/daznRise.png" group-title="DE VIP SPORT",DE: VIP DAZN RISE
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/478234.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/vipdaznunbeatenhd.png" group-title="DE VIP SPORT",DE: VIP DAZN UNBEATEN
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/445412.m3u8
@@ -8216,21 +8228,21 @@ http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/632486.m3u8
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/632485.m3u8
 #EXTINF:-1 tvg-logo="http://95.134.201.48:80/images/fSfLWc_prkZCYL-V3ibAfiBGpuxGLwdpCasLhUu5KGIUvl_rOMwxFf6HkuZy4zNA.png" group-title="TR SINEMA 24 - 7",TR: 7/24 CINETIGER AMAZON PRIME 4
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/632484.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TR SINEMA 24 - 7",TR: 7/24 CINETIGER ZEKI METIN 1
+#EXTINF:-1 tvg-logo="http://95.134.201.48:80/images/fSfLWc_prkZCYL-V3ibAfiBGpuxGLwdpCasLhUu5KGIUvl_rOMwxFf6HkuZy4zNA.png" group-title="TR SINEMA 24 - 7",TR: 7/24 CINETIGER ZEKI METIN 1
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/632483.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TR SINEMA 24 - 7",TR: 7/24 CINETIGER ZEKI METIN 2
+#EXTINF:-1 tvg-logo="http://95.134.201.48:80/images/fSfLWc_prkZCYL-V3ibAfiBGpuxGLwdpCasLhUu5KGIUvl_rOMwxFf6HkuZy4zNA.png" group-title="TR SINEMA 24 - 7",TR: 7/24 CINETIGER ZEKI METIN 2
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/632482.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TR SINEMA 24 - 7",TR: 7/24 CINETIGER ZEKI METIN 3
+#EXTINF:-1 tvg-logo="http://95.134.201.48:80/images/fSfLWc_prkZCYL-V3ibAfiBGpuxGLwdpCasLhUu5KGIUvl_rOMwxFf6HkuZy4zNA.png" group-title="TR SINEMA 24 - 7",TR: 7/24 CINETIGER ZEKI METIN 3
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/632481.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TR SINEMA 24 - 7",TR: 7/24 CINETIGER KEMAL SUNAL 1
+#EXTINF:-1 tvg-logo="http://95.134.201.48:80/images/fSfLWc_prkZCYL-V3ibAfiBGpuxGLwdpCasLhUu5KGIUvl_rOMwxFf6HkuZy4zNA.png" group-title="TR SINEMA 24 - 7",TR: 7/24 CINETIGER KEMAL SUNAL 1
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/632480.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TR SINEMA 24 - 7",TR: 7/24 CINETIGER KEMAL SUNAL 2
+#EXTINF:-1 tvg-logo="http://95.134.201.48:80/images/fSfLWc_prkZCYL-V3ibAfiBGpuxGLwdpCasLhUu5KGIUvl_rOMwxFf6HkuZy4zNA.png" group-title="TR SINEMA 24 - 7",TR: 7/24 CINETIGER KEMAL SUNAL 2
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/632479.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TR SINEMA 24 - 7",TR: 7/24 CINETIGER KEMAL SUNAL 3
+#EXTINF:-1 tvg-logo="http://95.134.201.48:80/images/fSfLWc_prkZCYL-V3ibAfiBGpuxGLwdpCasLhUu5KGIUvl_rOMwxFf6HkuZy4zNA.png" group-title="TR SINEMA 24 - 7",TR: 7/24 CINETIGER KEMAL SUNAL 3
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/632478.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TR SINEMA 24 - 7",TR: 7/24 CINETIGER KEMAL SUNAL 4
+#EXTINF:-1 tvg-logo="http://95.134.201.48:80/images/fSfLWc_prkZCYL-V3ibAfiBGpuxGLwdpCasLhUu5KGIUvl_rOMwxFf6HkuZy4zNA.png" group-title="TR SINEMA 24 - 7",TR: 7/24 CINETIGER KEMAL SUNAL 4
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/632477.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TR SINEMA 24 - 7",TR: 7/24 CINETIGER KEMAL SUNAL 5
+#EXTINF:-1 tvg-logo="http://95.134.201.48:80/images/fSfLWc_prkZCYL-V3ibAfiBGpuxGLwdpCasLhUu5KGIUvl_rOMwxFf6HkuZy4zNA.png" group-title="TR SINEMA 24 - 7",TR: 7/24 CINETIGER KEMAL SUNAL 5
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/632476.m3u8
 #EXTINF:-1 tvg-logo="http://95.134.201.48:80/images/fSfLWc_prkZCYL-V3ibAfiBGpuxGLwdpCasLhUu5KGIUvl_rOMwxFf6HkuZy4zNA.png" group-title="TR SINEMA 24 - 7",TR: 7/24 CINETIGER AMAZON PRIME 5
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/632475.m3u8
@@ -9133,4 +9145,4 @@ http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/199554.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/red-bull-tv.png" group-title="UK SPORT",UK: RED BULL TV FHD
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/199548.m3u8
 
-# Total: 4493
+# Total: 4499

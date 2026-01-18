@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: world-panel.co:8080
-# Generated: 2026-01-18 07:24:32
+# Generated: 2026-01-18 18:35:25
 # Expires: 2026-03-09
 # Family Safe Edition
 # ==============================================
@@ -705,7 +705,7 @@ http://world-panel.co:8080/live/PieraSalvatore1/K9vWdcuVnA/57089.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DE - Sky Kultur",DE: Spiegel TV Wissen HD
 http://world-panel.co:8080/live/PieraSalvatore1/K9vWdcuVnA/57090.m3u8
 
-# --- DE - Sky Sport (47) ---
+# --- DE - Sky Sport (49) ---
 #EXTINF:-1 tvg-logo="" group-title="DE - Sky Sport",DE: Sky Sport News HD
 http://world-panel.co:8080/live/PieraSalvatore1/K9vWdcuVnA/57112.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DE - Sky Sport",DE: Sport 1 HD
@@ -766,6 +766,10 @@ http://world-panel.co:8080/live/PieraSalvatore1/K9vWdcuVnA/85318.m3u8
 http://world-panel.co:8080/live/PieraSalvatore1/K9vWdcuVnA/85319.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DE - Sky Sport",DE: RTL+ 3 FHD
 http://world-panel.co:8080/live/PieraSalvatore1/K9vWdcuVnA/85320.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE - Sky Sport",DE: RTL+ 4 FHD
+http://world-panel.co:8080/live/PieraSalvatore1/K9vWdcuVnA/86578.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE - Sky Sport",DE: RTL+ 5 FHD
+http://world-panel.co:8080/live/PieraSalvatore1/K9vWdcuVnA/86579.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DE - Sky Sport",DE: DAZN 1 HD (Only Live Event)
 http://world-panel.co:8080/live/PieraSalvatore1/K9vWdcuVnA/59350.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DE - Sky Sport",DE: DAZN 2 HD (Only Live Event)
@@ -1717,4 +1721,4 @@ http://world-panel.co:8080/live/PieraSalvatore1/K9vWdcuVnA/65405.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV_SPAGNA",ES: M+ LaLiga SmartBank Tv 2 HD
 http://world-panel.co:8080/live/PieraSalvatore1/K9vWdcuVnA/65406.m3u8
 
-# Total: 821
+# Total: 823

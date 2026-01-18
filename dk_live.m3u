@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: dk.2665.ninja:8080
-# Generated: 2026-01-17 18:37:00
+# Generated: 2026-01-18 18:32:16
 # Expires: 2026-02-28
 # Family Safe Edition
 # ==============================================
@@ -250,9 +250,9 @@ http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/412403.m3u8
 http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/375196.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/orf_sport+.png" group-title="AT AUSTRIA",AT: ORF SPORT+ HD
 http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/260865.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/daznFast.png" group-title="AT AUSTRIA",AT: DAZN FAST FHD
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/daznFast.png" group-title="AT AUSTRIA",AT: DAZN FAST
 http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/478231.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/daznRise.png" group-title="AT AUSTRIA",AT: DAZN RISE FHD
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/daznRise.png" group-title="AT AUSTRIA",AT: DAZN RISE
 http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/478230.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/sky_sport_austria.png" group-title="AT AUSTRIA",AT: SKY SPORT AUSTRIA 1 HD
 http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/212526.m3u8
@@ -275,7 +275,7 @@ http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/547027.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/Cyprus/rikSATcy.png" group-title="CY CYPRUS - ΚΥΠΡΟΣ",CY: RIK SAT CY
 http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/155277.m3u8
 
-# --- DE AMZ DEUTSCHLAND (111) ---
+# --- DE AMZ DEUTSCHLAND (117) ---
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/flag/ger.png" group-title="DE AMZ DEUTSCHLAND",DE: ----- AMZ DEUTSCHLAND -----
 http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/626969.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/das_erste.png" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| DAS ERSTE
@@ -386,13 +386,25 @@ http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/626883.m3u8
 http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/626887.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/AMZ/JUDYJUSTICE.png" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| JUDY JUSTICE
 http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/626899.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| SWAMP PEOPLE
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/SWAMP PEOPLE.png" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| SWAMP PEOPLE
 http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/640743.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| TIME2RLX
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/TIME2RLX.png" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| TIME2RLX
 http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/640742.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| STROMBERG BY MYSPASS
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/WEDOTV.png" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| WEDOTV SPORTS
+http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/658661.m3u8
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/WEDOTV.png" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| WEDOTV TRUE STORIES
+http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/658660.m3u8
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/GREECE/bbcEart.png" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| BBC EARTH
+http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/658659.m3u8
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/TELENOVELA ZDF.png" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| TELENOVELA ZDF
+http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/658658.m3u8
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/WEDOTV.png" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| WEDOTV MOVIES
+http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/658657.m3u8
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/KULTKRIMI.png" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| KULTKRIMI
+http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/658656.m3u8
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/STROMBERG BY MYSPASS.png" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| STROMBERG BY MYSPASS
 http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/640741.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| 7 VS. WILD
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/7 VS. WILD.png" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| 7 VS. WILD
 http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/640740.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/AMZ/TOPTRUECRIME.png" group-title="DE AMZ DEUTSCHLAND",DE: |AMZ| TOP TRUE CRIME
 http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/626945.m3u8
@@ -2628,9 +2640,9 @@ http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/633373.m3u8
 http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/633372.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/a-z/--T--/tv5monde.png" group-title="DE MAGENTA TV",DE: |MAGENTA| TV5MONDE EUROPE
 http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/633371.m3u8
-#EXTINF:-1 tvg-logo="https://www.telekom.com/resource/image/1100584/landscape_ratio4x3/1296/972/9b59c796a555d5ec42c5f353c9822424/C5EDA4E806F2762161351164BC5BF258/bi-251222-magentatv-golf.jpg" group-title="DE MAGENTA TV",DE: |MAGENTA| MS GOLF 1
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/ms golf 1.png" group-title="DE MAGENTA TV",DE: |MAGENTA| MS GOLF 1
 http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/657212.m3u8
-#EXTINF:-1 tvg-logo="https://www.telekom.com/resource/image/1100584/landscape_ratio4x3/1296/972/9b59c796a555d5ec42c5f353c9822424/C5EDA4E806F2762161351164BC5BF258/bi-251222-magentatv-golf.jpg" group-title="DE MAGENTA TV",DE: |MAGENTA| MS GOLF 2
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/ms golf 2.png" group-title="DE MAGENTA TV",DE: |MAGENTA| MS GOLF 2
 http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/657213.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/AMZ/MORETHANSPORTSTV.png" group-title="DE MAGENTA TV",DE: |MAGENTA| MORE THAN SPORTS TV
 http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/633448.m3u8
@@ -3608,7 +3620,7 @@ http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/583153.m3u8
 http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/378116.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/daznCompat.png" group-title="DE VIP SPORT",DE: VIP DAZN COMBAT
 http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/497247.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/daznFast.png" group-title="DE VIP SPORT",DE: VIP DAZN FAST FHD
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/daznFast.png" group-title="DE VIP SPORT",DE: VIP DAZN FAST
 http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/478235.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/vipdaznlfctvhd.png" group-title="DE VIP SPORT",DE: VIP DAZN LFC TV
 http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/444917.m3u8
@@ -3622,7 +3634,7 @@ http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/444919.m3u8
 http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/635475.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/red-bull-tv.png" group-title="DE VIP SPORT",DE: VIP DAZN RED BULL TV
 http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/421732.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/daznRise.png" group-title="DE VIP SPORT",DE: VIP DAZN RISE FHD
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/daznRise.png" group-title="DE VIP SPORT",DE: VIP DAZN RISE
 http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/478234.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/vipdaznunbeatenhd.png" group-title="DE VIP SPORT",DE: VIP DAZN UNBEATEN
 http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/445412.m3u8
@@ -4944,21 +4956,21 @@ http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/632486.m3u8
 http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/632485.m3u8
 #EXTINF:-1 tvg-logo="http://95.134.201.48:80/images/fSfLWc_prkZCYL-V3ibAfiBGpuxGLwdpCasLhUu5KGIUvl_rOMwxFf6HkuZy4zNA.png" group-title="TR SINEMA 24 - 7",TR: 7/24 CINETIGER AMAZON PRIME 4
 http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/632484.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TR SINEMA 24 - 7",TR: 7/24 CINETIGER ZEKI METIN 1
+#EXTINF:-1 tvg-logo="http://95.134.201.48:80/images/fSfLWc_prkZCYL-V3ibAfiBGpuxGLwdpCasLhUu5KGIUvl_rOMwxFf6HkuZy4zNA.png" group-title="TR SINEMA 24 - 7",TR: 7/24 CINETIGER ZEKI METIN 1
 http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/632483.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TR SINEMA 24 - 7",TR: 7/24 CINETIGER ZEKI METIN 2
+#EXTINF:-1 tvg-logo="http://95.134.201.48:80/images/fSfLWc_prkZCYL-V3ibAfiBGpuxGLwdpCasLhUu5KGIUvl_rOMwxFf6HkuZy4zNA.png" group-title="TR SINEMA 24 - 7",TR: 7/24 CINETIGER ZEKI METIN 2
 http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/632482.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TR SINEMA 24 - 7",TR: 7/24 CINETIGER ZEKI METIN 3
+#EXTINF:-1 tvg-logo="http://95.134.201.48:80/images/fSfLWc_prkZCYL-V3ibAfiBGpuxGLwdpCasLhUu5KGIUvl_rOMwxFf6HkuZy4zNA.png" group-title="TR SINEMA 24 - 7",TR: 7/24 CINETIGER ZEKI METIN 3
 http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/632481.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TR SINEMA 24 - 7",TR: 7/24 CINETIGER KEMAL SUNAL 1
+#EXTINF:-1 tvg-logo="http://95.134.201.48:80/images/fSfLWc_prkZCYL-V3ibAfiBGpuxGLwdpCasLhUu5KGIUvl_rOMwxFf6HkuZy4zNA.png" group-title="TR SINEMA 24 - 7",TR: 7/24 CINETIGER KEMAL SUNAL 1
 http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/632480.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TR SINEMA 24 - 7",TR: 7/24 CINETIGER KEMAL SUNAL 2
+#EXTINF:-1 tvg-logo="http://95.134.201.48:80/images/fSfLWc_prkZCYL-V3ibAfiBGpuxGLwdpCasLhUu5KGIUvl_rOMwxFf6HkuZy4zNA.png" group-title="TR SINEMA 24 - 7",TR: 7/24 CINETIGER KEMAL SUNAL 2
 http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/632479.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TR SINEMA 24 - 7",TR: 7/24 CINETIGER KEMAL SUNAL 3
+#EXTINF:-1 tvg-logo="http://95.134.201.48:80/images/fSfLWc_prkZCYL-V3ibAfiBGpuxGLwdpCasLhUu5KGIUvl_rOMwxFf6HkuZy4zNA.png" group-title="TR SINEMA 24 - 7",TR: 7/24 CINETIGER KEMAL SUNAL 3
 http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/632478.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TR SINEMA 24 - 7",TR: 7/24 CINETIGER KEMAL SUNAL 4
+#EXTINF:-1 tvg-logo="http://95.134.201.48:80/images/fSfLWc_prkZCYL-V3ibAfiBGpuxGLwdpCasLhUu5KGIUvl_rOMwxFf6HkuZy4zNA.png" group-title="TR SINEMA 24 - 7",TR: 7/24 CINETIGER KEMAL SUNAL 4
 http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/632477.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TR SINEMA 24 - 7",TR: 7/24 CINETIGER KEMAL SUNAL 5
+#EXTINF:-1 tvg-logo="http://95.134.201.48:80/images/fSfLWc_prkZCYL-V3ibAfiBGpuxGLwdpCasLhUu5KGIUvl_rOMwxFf6HkuZy4zNA.png" group-title="TR SINEMA 24 - 7",TR: 7/24 CINETIGER KEMAL SUNAL 5
 http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/632476.m3u8
 #EXTINF:-1 tvg-logo="http://95.134.201.48:80/images/fSfLWc_prkZCYL-V3ibAfiBGpuxGLwdpCasLhUu5KGIUvl_rOMwxFf6HkuZy4zNA.png" group-title="TR SINEMA 24 - 7",TR: 7/24 CINETIGER AMAZON PRIME 5
 http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/632475.m3u8
@@ -5409,4 +5421,4 @@ http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/531883.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/a_spor.png" group-title="TR VIP TURKIYE",TR: VIP A SPOR
 http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/531882.m3u8
 
-# Total: 2660
+# Total: 2666

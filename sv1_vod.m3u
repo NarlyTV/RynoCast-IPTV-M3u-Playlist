@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: sv1.casahd.com
-# Generated: 2026-01-18 07:14:45
+# Generated: 2026-01-18 18:25:38
 # Expires: 2026-01-31
 # Family Safe Edition
 # ==============================================
@@ -29957,6 +29957,16 @@ http://sv1.casahd.com/movie/123456/123456/45285.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Programas de TV",The Voice Mais
 http://sv1.casahd.com/movie/123456/123456/46245.mp4
 
+# --- Movies | Unknown (4) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="Movies | Unknown",
+http://sv1.casahd.com/movie/123456/123456/2253299.
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="Movies | Unknown",
+http://sv1.casahd.com/movie/123456/123456/2253300.
+#EXTINF:-1 tvg-logo="" group-title="Movies | Unknown",
+http://sv1.casahd.com/movie/123456/123456/53445.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Unknown",
+http://sv1.casahd.com/movie/123456/123456/53446.mp4
+
 # --- Series | Series | AMC Plus (3) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | AMC Plus",Channel Zero
 http://sv1.casahd.com/series/123456/123456/47329
@@ -44245,4 +44255,4 @@ http://sv1.casahd.com/series/123456/123456/52667
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Univer",O Senhor e a Serva
 http://sv1.casahd.com/series/123456/123456/52936
 
-# Total: 22074
+# Total: 22078

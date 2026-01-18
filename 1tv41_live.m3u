@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: 1tv41.icu:8080
-# Generated: 2026-01-18 07:16:38
+# Generated: 2026-01-18 18:37:42
 # Expires: 2026-05-07
 # Family Safe Edition
 # ==============================================
@@ -535,7 +535,7 @@ http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/164950.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BRAZIL",BR: TNT SERIES HD
 http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/164958.m3u8
 
-# --- CANADA (169) ---
+# --- CANADA (168) ---
 #EXTINF:-1 tvg-logo="" group-title="CANADA",CA : APTN
 http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/57320.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CANADA",CA: A&E
@@ -734,8 +734,6 @@ http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/57281.m3u8
 http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/47338.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CANADA",CA National Geographic Wild
 http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/57280.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANADA",CA: NATIONAL GEOGRAPHIC
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/47339.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CANADA",CA: NFL NETWORK HD
 http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/47346.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CANADA",CA (ZH) NTD (E)
@@ -12188,7 +12186,7 @@ http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/11645.m3u8
 http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/20930.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports Fanatic's",US Bally Sports Midwest (A)
 http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/66795.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports Fanatic's",US Bally Sports Oklahoma (A)
+#EXTINF:-1 tvg-logo="" group-title="Sports Fanatic's",US FanDuel Sports Oklahoma
 http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/20934.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports Fanatic's",US Bally Sports Southeast
 http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/2213.m3u8
@@ -13675,4 +13673,4 @@ http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/121046.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Vietnam",VN DA NANG 1 HD
 http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/121048.m3u8
 
-# Total: 6798
+# Total: 6797

@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: blackiptv.net:8080
-# Generated: 2026-01-18 07:13:27
+# Generated: 2026-01-18 18:28:09
 # Expires: 2026-12-21
 # Family Safe Edition
 # ==============================================
@@ -4135,7 +4135,7 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/18230.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/eba-tv-lise-tr.png" group-title="TURK EGITIM",TR: TRT EBA TV LISE
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/18231.m3u8
 
-# --- TURK HABER (45) ---
+# --- TURK HABER (44) ---
 #EXTINF:-1 tvg-logo="" group-title="TURK HABER",TR: HABER 61
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/407.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/flags/turkey-flag.png" group-title="TURK HABER",*****TURK HABER*****
@@ -4198,8 +4198,6 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/20814.m3u8
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/83.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/ulke-tv-tr.png" group-title="TURK HABER",TR: ULKE TV HD
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/84.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/tele1-tr.png" group-title="TURK HABER",TR: TELE 1
-http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/3350.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/tv100-tr.png" group-title="TURK HABER",TR: TV 100
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/73.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/tv100-tr.png" group-title="TURK HABER",TR: TV 100 HD+
@@ -5329,7 +5327,9 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/828.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/line-tv-tr.png" group-title="TURK ULUSAL",TR: LINE TV
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/103.m3u8
 
-# --- TURK YEREL (72) ---
+# --- TURK YEREL (73) ---
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/tele1-tr.png" group-title="TURK YEREL",TR: TELE 1
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/3350.m3u8
 #EXTINF:-1 tvg-logo="https://logo.hdiptv.app/TurkeyAll/Flag_of_Turkey.png" group-title="TURK YEREL",*****TURK YEREL*****
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/20794.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TURK YEREL",TR: Cine 5 HD
