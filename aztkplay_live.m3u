@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: aztkplay.pro:8080
-# Generated: 2026-01-19 07:09:54
+# Generated: 2026-01-19 18:38:35
 # Expires: 2026-02-19
 # Family Safe Edition
 # ==============================================
@@ -3505,6 +3505,38 @@ http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/315066.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/telemundo-mx.png" group-title="PUERTO RICO",WKAQ PR FHD #Op3
 http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/315067.m3u8
 
+# --- REALITY: APOSTARIAS POR MI (15) ---
+#EXTINF:-1 tvg-logo="https://assets.stickpng.com/images/58afdad6829958a978a4a693.png" group-title="REALITY: APOSTARIAS POR MI",* APOSTARIAS POR MI? *
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/597678.m3u8
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/6967ee663f622e5734649255/06032a6defef1ade3018c6f7591d5c23?tr=q-80&w=1920" group-title="REALITY: APOSTARIAS POR MI",Villa en vivo
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/597679.m3u8
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/6967eefc942ecbaf66898723/b4e74320a11c2b2d7b15ff44c115ba98?tr=q-80&w=1920" group-title="REALITY: APOSTARIAS POR MI",Habitación Corazón
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/597680.m3u8
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/6967ef8826e61e0bc8bb2e01/ad6997175d1757290b94dacc2160c77a?tr=q-80&w=1920" group-title="REALITY: APOSTARIAS POR MI",Habitación Trébol
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/597681.m3u8
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/6967effd5b1678140785ca80/5873749f08f911c814888d16db439121?tr=q-80&w=1920" group-title="REALITY: APOSTARIAS POR MI",Baños
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/597682.m3u8
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/6967f09fe557e6c0782706b9/4e3936c97bda29d3d5509bae082ad485?tr=q-80&w=1920" group-title="REALITY: APOSTARIAS POR MI",Cocina
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/597683.m3u8
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/6967f0f3f25c6ad4a1d9cbd4/493526d0948001373749842dc7011421?tr=q-80&w=1920" group-title="REALITY: APOSTARIAS POR MI",Sala
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/597684.m3u8
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/6967f1a7ebef4d5efd06875f/e0b88e99f4f71af55b075803370f4f81?tr=q-80&w=1920" group-title="REALITY: APOSTARIAS POR MI",Multicámaras
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/597685.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WsFaz4L.png" group-title="REALITY: APOSTARIAS POR MI",APM 24/7
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/597686.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WsFaz4L.png" group-title="REALITY: APOSTARIAS POR MI",APM VILLA EN VIVO
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/597687.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WsFaz4L.png" group-title="REALITY: APOSTARIAS POR MI",APM BAÑOS
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/597689.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WsFaz4L.png" group-title="REALITY: APOSTARIAS POR MI",APM COCINA
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/597690.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WsFaz4L.png" group-title="REALITY: APOSTARIAS POR MI",APM HABITACION CORAZON
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/597691.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WsFaz4L.png" group-title="REALITY: APOSTARIAS POR MI",APM HABITACION TREBOL
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/597692.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WsFaz4L.png" group-title="REALITY: APOSTARIAS POR MI",APM SALA
+http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/597693.m3u8
+
 # --- RELIGION (4) ---
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mariavision.png" group-title="RELIGION",Maria Vision
 http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/58806.m3u8
@@ -4047,22 +4079,4 @@ http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/206304.m3u8
 #EXTINF:-1 tvg-logo="" group-title="VIX Plus",Las Estrellas -1 VIX
 http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/206305.m3u8
 
-# --- ¿APOSTARIAS POR MI? (8) ---
-#EXTINF:-1 tvg-logo="https://assets.stickpng.com/images/58afdad6829958a978a4a693.png" group-title="¿APOSTARIAS POR MI?",* APOSTARIAS POR MI? *
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/597670.m3u8
-#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/6967ee663f622e5734649255/06032a6defef1ade3018c6f7591d5c23?tr=q-80&w=1920" group-title="¿APOSTARIAS POR MI?",Villa en vivo
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/597671.m3u8
-#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/6967eefc942ecbaf66898723/b4e74320a11c2b2d7b15ff44c115ba98?tr=q-80&w=1920" group-title="¿APOSTARIAS POR MI?",Habitación Corazón
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/597672.m3u8
-#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/6967ef8826e61e0bc8bb2e01/ad6997175d1757290b94dacc2160c77a?tr=q-80&w=1920" group-title="¿APOSTARIAS POR MI?",Habitación Trébol
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/597673.m3u8
-#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/6967effd5b1678140785ca80/5873749f08f911c814888d16db439121?tr=q-80&w=1920" group-title="¿APOSTARIAS POR MI?",Baños
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/597674.m3u8
-#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/6967f09fe557e6c0782706b9/4e3936c97bda29d3d5509bae082ad485?tr=q-80&w=1920" group-title="¿APOSTARIAS POR MI?",Cocina
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/597675.m3u8
-#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/6967f0f3f25c6ad4a1d9cbd4/493526d0948001373749842dc7011421?tr=q-80&w=1920" group-title="¿APOSTARIAS POR MI?",Sala
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/597676.m3u8
-#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/6967f1a7ebef4d5efd06875f/e0b88e99f4f71af55b075803370f4f81?tr=q-80&w=1920" group-title="¿APOSTARIAS POR MI?",Multicámaras
-http://aztkplay.pro:8080/live/eliseoVICENTE6060/orRAY2FalJ/597677.m3u8
-
-# Total: 1963
+# Total: 1970

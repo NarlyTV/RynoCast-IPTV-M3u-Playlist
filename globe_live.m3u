@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: globe.midomed.com:80
-# Generated: 2026-01-19 07:10:26
+# Generated: 2026-01-19 18:40:52
 # Expires: 2026-04-07
 # Family Safe Edition
 # ==============================================
@@ -616,20 +616,6 @@ http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/4548.m3u8
 http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/4550.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CARTOON",KIDS_BaraemEurope
 http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/4551.m3u8
-
-# --- COUPE AFRIQUE 2025 (6) ---
-#EXTINF:-1 tvg-logo="" group-title="COUPE AFRIQUE 2025",BEINAFCON1FULLHD
-http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/40347.m3u8
-#EXTINF:-1 tvg-logo="" group-title="COUPE AFRIQUE 2025",BEINAFCON1HD
-http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/40381.m3u8
-#EXTINF:-1 tvg-logo="" group-title="COUPE AFRIQUE 2025",BEINAFCON1SD
-http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/40353.m3u8
-#EXTINF:-1 tvg-logo="" group-title="COUPE AFRIQUE 2025",BEINAFCON2FULLHD
-http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/40348.m3u8
-#EXTINF:-1 tvg-logo="" group-title="COUPE AFRIQUE 2025",BEINAFCON2HD
-http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/40382.m3u8
-#EXTINF:-1 tvg-logo="" group-title="COUPE AFRIQUE 2025",BEINAFCON2SD
-http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/40354.m3u8
 
 # --- CSAT-FRANCE (111) ---
 #EXTINF:-1 tvg-logo="http://tvchallenge.tn/logo/canalsat/csat.png" group-title="CSAT-FRANCE",---------CSAT-FRANCE---------
@@ -2007,4 +1993,4 @@ http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/1026.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UK",|UK|TotalCountry
 http://globe.midomed.com:80/live/wadiejouili/jouiliwadie/1027.m3u8
 
-# Total: 978
+# Total: 972

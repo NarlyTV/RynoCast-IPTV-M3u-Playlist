@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: lemon.catchmeifyo.com:8000
-# Generated: 2026-01-19 07:09:43
+# Generated: 2026-01-19 18:35:22
 # Expires: 2026-04-05
 # Family Safe Edition
 # ==============================================
@@ -8979,7 +8979,7 @@ http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/72955.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | Glory Kickboxing",Glory Rivals 1
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/115194.mkv
 
-# --- Movies | HBO MAX (188) ---
+# --- Movies | HBO MAX (189) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | HBO MAX",Splitting Up Together - 2018
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/4.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | HBO MAX",The Dag
@@ -9356,6 +9356,8 @@ http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/3527.mp4
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/3528.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | HBO MAX",The Cult Behind the Killer: The Andrea Yates Story
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/3600.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | HBO MAX",A Knight of the Seven Kingdoms
+http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/3610.mp4
 
 # --- Movies | Historisch / History (25) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mB8sqwHkVZWBvhEn71ICewPCfNS.jpg" group-title="Movies | Historisch / History",The Great War
@@ -20275,7 +20277,7 @@ http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/78533.mkv
 #EXTINF:-1 tvg-logo="https://marvel-b1-cdn.bc0a.com/f00000000104050/www.monsterenergy.com/media/uploads_image/2022/05/04/1600/800/03e4f544c96052fd615fd95a6d9df324.png?mod=v1_31fc2dfe1c799e47a790613a344d9a60" group-title="Movies | UFC: Ultimate Fighting Championship",UFC Fight Night: Błachowicz vs Rakić
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/111468.mkv
 
-# --- Movies | VTM GO / Streamz (92) ---
+# --- Movies | VTM GO / Streamz (93) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | VTM GO / Streamz",Bevergem
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/24.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | VTM GO / Streamz",Dertigers (BE)
@@ -20460,6 +20462,8 @@ http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/3484.mp4
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/3485.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | VTM GO / Streamz",The Masked Singer BE Behind The Mask
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/3486.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | VTM GO / Streamz",Zot!
+http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/3609.mp4
 
 # --- Movies | Viaplay (37) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Viaplay",Wisting - 2019
@@ -22223,4 +22227,4 @@ http://lemon.catchmeifyo.com:8000/series/4914756410/8072556864/2750
 #EXTINF:-1 tvg-logo="" group-title="Series | NL GESPROKEN SERIES",The Hunt (Een van Ons)
 http://lemon.catchmeifyo.com:8000/series/4914756410/8072556864/2751
 
-# Total: 11056
+# Total: 11058

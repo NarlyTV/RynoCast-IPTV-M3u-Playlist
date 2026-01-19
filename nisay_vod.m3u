@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: nisay.xyz:8080
-# Generated: 2026-01-19 07:17:29
+# Generated: 2026-01-19 18:40:41
 # Expires: 2026-10-04
 # Family Safe Edition
 # ==============================================
@@ -17335,7 +17335,11 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/138221.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tbA3OJWaIL8PKp1IX9ETcZo5trv.jpg" group-title="Movies | SERI FILMLER",Muzede Bir Gece 2006
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/138220.mkv
 
-# --- Movies | SON EKLENEN 300 FILM (332) ---
+# --- Movies | SON EKLENEN 300 FILM (334) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eFQOK12Wn11cMSLbN7zfueK1BOY.jpg" group-title="Movies | SON EKLENEN 300 FILM",Suçüstü (2025)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/160172.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fJm3kmd9NLZWypMas7g34oNFgbk.jpg" group-title="Movies | SON EKLENEN 300 FILM",Honey Don't! (2025)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/160173.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lb8D9uTxV1hoY6AFkkrxhwzGHsm.jpg" group-title="Movies | SON EKLENEN 300 FILM",The Bad Shepherd (2024)
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/160087.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rFz0Pf7XhPPXZptfJvpPuJk9N.jpg" group-title="Movies | SON EKLENEN 300 FILM",The Getback (2023)
@@ -20099,4 +20103,4 @@ http://nisay.xyz:8080/series/atillaerdoganDE/sa95x6VSFx/1503
 #EXTINF:-1 tvg-logo="" group-title="Series | TR ALTYAZI SERIES",Pluribus
 http://nisay.xyz:8080/series/atillaerdoganDE/sa95x6VSFx/1803
 
-# Total: 9982
+# Total: 9984
