@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: exclusifott.pro:80
-# Generated: 2026-01-19 18:38:51
+# Generated: 2026-01-20 07:09:42
 # Expires: 2026-05-21
 # Family Safe Edition
 # ==============================================
@@ -6370,7 +6370,7 @@ http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/1984033.mkv
 # --- Movies | |EN| 4K MOVIES (38) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hfMMazpaneI5dMeTT8zZwJib0wt.jpg" group-title="Movies | |EN| 4K MOVIES",4K - Dust Bunny (2025)
 http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/2006009.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/evnbvmkoon2YTjlAodCwSmfU8Od.jpg" group-title="Movies | |EN| 4K MOVIES",EN - Not Without Hope 4K (2025)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/6NXonER0WWIq13I0nlOkivhSj8i.jpg" group-title="Movies | |EN| 4K MOVIES",EN - Not Without Hope 4K (2025)
 http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/2006017.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/uASgLY1TOWTDHEL6HcAvsrqg1PF.jpg" group-title="Movies | |EN| 4K MOVIES",EN - Pillion 4K (2025)
 http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/2006018.mkv
@@ -14767,7 +14767,9 @@ http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/1492099.mp4
 #EXTINF:-1 tvg-logo="" group-title="Series | |EN| 4K SERIES",NF - 1899 4K (2022)
 http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/38387
 
-# --- Series | |EN| TOP SERIES (1) ---
+# --- Series | |EN| TOP SERIES (2) ---
+#EXTINF:-1 tvg-logo="" group-title="Series | |EN| TOP SERIES",EN - Mr.Bean The Animated Series (2002)
+http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/11444
 #EXTINF:-1 tvg-logo="" group-title="Series | |EN| TOP SERIES",EN - Dracula (2013)
 http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/38490
 
@@ -15645,7 +15647,9 @@ http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/20559
 #EXTINF:-1 tvg-logo="" group-title="Series | |MULTI| DISNEY+ SERIES",D+ - American Born Chinese (2023)
 http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/28051
 
-# --- Series | |MULTI| NETFLIX SERIES (1122) ---
+# --- Series | |MULTI| NETFLIX SERIES (1123) ---
+#EXTINF:-1 tvg-logo="" group-title="Series | |MULTI| NETFLIX SERIES",NF - Taskaree: The Smuggler's Web (2026) (IN)
+http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/47562
 #EXTINF:-1 tvg-logo="" group-title="Series | |MULTI| NETFLIX SERIES",NF - Land Of Sin (2026) (SE)
 http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/47261
 #EXTINF:-1 tvg-logo="" group-title="Series | |MULTI| NETFLIX SERIES",NF - Love From 9 To 5 (2026) (MX)
@@ -18099,4 +18103,4 @@ http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/35745
 #EXTINF:-1 tvg-logo="" group-title="Series | |RO| ROMANIAN SERIES",RO - Resident Evil: Infinite Darkness (2021)
 http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/35746
 
-# Total: 9002
+# Total: 9004

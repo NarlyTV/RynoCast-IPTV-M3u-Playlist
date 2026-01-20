@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: platinumz.xyz:8080
-# Generated: 2026-01-19 18:41:25
+# Generated: 2026-01-20 07:06:13
 # Expires: 2026-12-23
 # Family Safe Edition
 # ==============================================
@@ -7238,20 +7238,20 @@ http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/811504.m3u8
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/622645.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/primevideo.png" group-title="DE ✨ CHAMPIONS LEAGUE",AMAZON PRIME VIDEO HD
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/622646.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/dazn1.png" group-title="DE ✨ CHAMPIONS LEAGUE",DAZN 1 RAW
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/dazn1.png" group-title="DE ✨ CHAMPIONS LEAGUE",DAZN 1 FHD+
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/622639.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/dazn1.png" group-title="DE ✨ CHAMPIONS LEAGUE",DAZN 1 HEVC
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/663805.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/dazn1.png" group-title="DE ✨ CHAMPIONS LEAGUE",DAZN 1 FHD
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/622640.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/dazn1.png" group-title="DE ✨ CHAMPIONS LEAGUE",DAZN 1 HD+
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/663805.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/dazn1.png" group-title="DE ✨ CHAMPIONS LEAGUE",DAZN 1 HD
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/622641.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/dazn2.png" group-title="DE ✨ CHAMPIONS LEAGUE",DAZN 2 HEVC
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/783075.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/dazn2.png" group-title="DE ✨ CHAMPIONS LEAGUE",DAZN 2 RAW
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/dazn2.png" group-title="DE ✨ CHAMPIONS LEAGUE",DAZN 2 FHD+
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/622642.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/dazn2.png" group-title="DE ✨ CHAMPIONS LEAGUE",DAZN 2 FHD
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/622643.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/dazn2.png" group-title="DE ✨ CHAMPIONS LEAGUE",DAZN 2 HD+
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/783075.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/dazn2.png" group-title="DE ✨ CHAMPIONS LEAGUE",DAZN 2 HD
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/622644.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/dazn/dazn.png" group-title="DE ✨ CHAMPIONS LEAGUE",DAZN CL EVENT 1
@@ -8877,7 +8877,7 @@ http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/706.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/comedycentral.png" group-title="DE ✨ RAW",COMEDY CENTRAL RAW
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/710.m3u8
 
-# --- DE ✨ REGIONAL (54) ---
+# --- DE ✨ REGIONAL (58) ---
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XRh38wt.png" group-title="DE ✨ REGIONAL",WDR KOLN HD
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/798.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XRh38wt.png" group-title="DE ✨ REGIONAL",WDR FERNSEHEN BIELEFELD
@@ -8924,6 +8924,14 @@ http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/818.m3u8
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/819.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6wEnGD9.png" group-title="DE ✨ REGIONAL",NDR FERNSEHEN HD
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/820.m3u8
+#EXTINF:-1 tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/ndr.png" group-title="DE ✨ REGIONAL",NDR FERNSEHEN HAMBURG
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/871781.m3u8
+#EXTINF:-1 tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/ndr.png" group-title="DE ✨ REGIONAL",NDR FERNSEHEN MECKLENBURG-VORPOMMERN
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/871780.m3u8
+#EXTINF:-1 tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/ndr.png" group-title="DE ✨ REGIONAL",NDR FERNSEHEN NIEDERSACHSEN
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/871779.m3u8
+#EXTINF:-1 tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/ndr.png" group-title="DE ✨ REGIONAL",NDR FERNSEHEN SCHLESWIG-HOLSTEIN
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/871778.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/I3ln2U3.png" group-title="DE ✨ REGIONAL",BR FERNSEHEN FHD
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/821.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/I3ln2U3.png" group-title="DE ✨ REGIONAL",BR FERNSEHEN HD
@@ -10213,47 +10221,43 @@ http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/823800.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/zero1/7-24_movies.png" group-title="DE ✨ Z1 24/7 ACTOR",THE EXPENDABLES
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/823799.m3u8
 
-# --- DE ✨ Z1 FUßBALL EVENT (20) ---
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/EV18HN3Z7wB.png" group-title="DE ✨ Z1 FUßBALL EVENT",✨ Stadion 1
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/861243.m3u8
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/EVIr25fQFtj.png" group-title="DE ✨ Z1 FUßBALL EVENT",✨ Stadion 2
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/861242.m3u8
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/z_tUWxi.png" group-title="DE ✨ Z1 FUßBALL EVENT",✨ Stadion 3
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/861241.m3u8
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/af7OD.png" group-title="DE ✨ Z1 FUßBALL EVENT",✨ Stadion 4
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/861240.m3u8
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/cfi1hWpLTEu.png" group-title="DE ✨ Z1 FUßBALL EVENT",✨ Stadion 5
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/861239.m3u8
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/dJlK5_9mNZ.png" group-title="DE ✨ Z1 FUßBALL EVENT",✨ Stadion 6
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/861238.m3u8
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/bnZOSHz74.png" group-title="DE ✨ Z1 FUßBALL EVENT",✨ Stadion 7
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/861237.m3u8
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/T5A9xv-.png" group-title="DE ✨ Z1 FUßBALL EVENT",✨ Stadion 8
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/861236.m3u8
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/M5BRdpI.png" group-title="DE ✨ Z1 FUßBALL EVENT",✨ Stadion 9
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/861235.m3u8
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/OMGufml2ZrTd.png" group-title="DE ✨ Z1 FUßBALL EVENT",✨ Stadion 10
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/861234.m3u8
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/f5G2U1z48Ix.png" group-title="DE ✨ Z1 FUßBALL EVENT",✨ Stadion 11
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/861233.m3u8
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/SNRxF.png" group-title="DE ✨ Z1 FUßBALL EVENT",✨ Stadion 12
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/861232.m3u8
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/Mrw5HDSvCJ.png" group-title="DE ✨ Z1 FUßBALL EVENT",✨ Stadion 13
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/861231.m3u8
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/qTly6OV.png" group-title="DE ✨ Z1 FUßBALL EVENT",✨ Stadion 14
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/861230.m3u8
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/jrQ8SAu3f.png" group-title="DE ✨ Z1 FUßBALL EVENT",✨ Stadion 15
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/861229.m3u8
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/F5lOWAs0HT.png" group-title="DE ✨ Z1 FUßBALL EVENT",✨ Stadion 16
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/861228.m3u8
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/ybGqM3m_.png" group-title="DE ✨ Z1 FUßBALL EVENT",✨ Stadion 17
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/861227.m3u8
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/mPRzNBGJpde.png" group-title="DE ✨ Z1 FUßBALL EVENT",✨ Stadion 18
-http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/861226.m3u8
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/J1Rny-.png" group-title="DE ✨ Z1 FUßBALL EVENT",✨ Stadion 19
+# --- DE ✨ Z1 FUßBALL EVENT (18) ---
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/J1Rny-.png" group-title="DE ✨ Z1 FUßBALL EVENT",✨ UCL KONFERENZ DAZN
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/861225.m3u8
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/u3_GA.png" group-title="DE ✨ Z1 FUßBALL EVENT",✨ Stadion 20
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/u3_GA.png" group-title="DE ✨ Z1 FUßBALL EVENT",✨ UCL KONFERENZ SKY AT
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/861224.m3u8
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/z_tUWxi.png" group-title="DE ✨ Z1 FUßBALL EVENT",✨ Olympiacos v Bayer Leverkusen FHD
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/861241.m3u8
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/af7OD.png" group-title="DE ✨ Z1 FUßBALL EVENT",✨ Olympiacos v Bayer Leverkusen HD
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/861240.m3u8
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/cfi1hWpLTEu.png" group-title="DE ✨ Z1 FUßBALL EVENT",✨ Inter Milan v Arsenal FHD
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/861239.m3u8
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/dJlK5_9mNZ.png" group-title="DE ✨ Z1 FUßBALL EVENT",✨ Inter Milan v Arsenal HD
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/861238.m3u8
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/bnZOSHz74.png" group-title="DE ✨ Z1 FUßBALL EVENT",✨ Villarreal v Ajax FHD
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/861237.m3u8
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/T5A9xv-.png" group-title="DE ✨ Z1 FUßBALL EVENT",✨ Villarreal v Ajax HD
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/861236.m3u8
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/M5BRdpI.png" group-title="DE ✨ Z1 FUßBALL EVENT",✨ Real Madrid v Monaco FHD
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/861235.m3u8
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/OMGufml2ZrTd.png" group-title="DE ✨ Z1 FUßBALL EVENT",✨ Real Madrid v Monaco HD
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/861234.m3u8
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/f5G2U1z48Ix.png" group-title="DE ✨ Z1 FUßBALL EVENT",✨ Sporting Lisbon v Paris St Germain FHD
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/861233.m3u8
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/SNRxF.png" group-title="DE ✨ Z1 FUßBALL EVENT",✨ Sporting Lisbon v Paris St Germain HD
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/861232.m3u8
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/Mrw5HDSvCJ.png" group-title="DE ✨ Z1 FUßBALL EVENT",✨ FC Copenhagen v Napoli FHD
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/861231.m3u8
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/qTly6OV.png" group-title="DE ✨ Z1 FUßBALL EVENT",✨ FC Copenhagen v Napoli HD
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/861230.m3u8
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/jrQ8SAu3f.png" group-title="DE ✨ Z1 FUßBALL EVENT",✨ Bodø/Glimt v Manchester City FHD
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/861229.m3u8
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/F5lOWAs0HT.png" group-title="DE ✨ Z1 FUßBALL EVENT",✨ Bodø/Glimt v Manchester City HD
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/861228.m3u8
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/ybGqM3m_.png" group-title="DE ✨ Z1 FUßBALL EVENT",✨ Kairat Almaty v Club Brugge FHD
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/861227.m3u8
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/mPRzNBGJpde.png" group-title="DE ✨ Z1 FUßBALL EVENT",✨ ✨ Kairat Almaty v Club Brugge HD
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/861226.m3u8
 
 # --- DE ✨ Z1 KINO 2025 (11) ---
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/zero1/7-24_movies.png" group-title="DE ✨ Z1 KINO 2025",―――⁆ LOUNGE ⁅―――
@@ -26375,4 +26379,4 @@ http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/809948.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/ArenaSport_6.png" group-title="VIP ✨ SPORTS EX-YU",BH⚜️ ARENA SPORT 6
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/809947.m3u8
 
-# Total: 12928
+# Total: 12930

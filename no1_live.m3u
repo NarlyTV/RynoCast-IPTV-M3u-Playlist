@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: no1.no1turk.com:2086
-# Generated: 2026-01-19 18:42:35
+# Generated: 2026-01-20 07:14:15
 # Expires: 2026-09-21
 # Family Safe Edition
 # ==============================================
@@ -1388,13 +1388,13 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/27080.m3u8
 # --- DE-MAGENTA SPORT (38) ---
 #EXTINF:-1 tvg-logo="http://147.135.221.50/img/germany.png" group-title="DE-MAGENTA SPORT",##### DE MAGENTA/TELEKOM SPORT #####
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/36250.m3u8
-#EXTINF:-1 tvg-logo="http://store.picbg.net/pubpic/97/75/98420e63784d9775.png" group-title="DE-MAGENTA SPORT",DE: MS Sport
+#EXTINF:-1 tvg-logo="http://store.picbg.net/pubpic/97/75/98420e63784d9775.png" group-title="DE-MAGENTA SPORT",DE: Magenta MS Sport
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/175416.m3u8
-#EXTINF:-1 tvg-logo="http://store.picbg.net/pubpic/97/75/98420e63784d9775.png" group-title="DE-MAGENTA SPORT",DE: Magenta Golf 1
+#EXTINF:-1 tvg-logo="http://store.picbg.net/pubpic/97/75/98420e63784d9775.png" group-title="DE-MAGENTA SPORT",DE: Magenta MS Golf 1
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/175414.m3u8
-#EXTINF:-1 tvg-logo="http://store.picbg.net/pubpic/97/75/98420e63784d9775.png" group-title="DE-MAGENTA SPORT",DE: Magenta Golf 2
+#EXTINF:-1 tvg-logo="http://store.picbg.net/pubpic/97/75/98420e63784d9775.png" group-title="DE-MAGENTA SPORT",DE: Magenta MS Golf 2
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/175415.m3u8
-#EXTINF:-1 tvg-logo="http://store.picbg.net/pubpic/97/75/98420e63784d9775.png" group-title="DE-MAGENTA SPORT",DE: MagentaSport
+#EXTINF:-1 tvg-logo="http://store.picbg.net/pubpic/97/75/98420e63784d9775.png" group-title="DE-MAGENTA SPORT",DE: Magenta Sport INFO
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/123191.m3u8
 #EXTINF:-1 tvg-logo="http://store.picbg.net/pubpic/97/75/98420e63784d9775.png" group-title="DE-MAGENTA SPORT",DE: Magenta Sport 1 HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/48773.m3u8
@@ -5619,7 +5619,7 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/62557.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/f2p0og2.png" group-title="TR | MUZIK",TR: Relaxing  HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/62558.m3u8
 
-# --- TR | S SPORT (13) ---
+# --- TR | S SPORT (14) ---
 #EXTINF:-1 tvg-logo="http://icon.sporcpu.com/spor/ssport.png" group-title="TR | S SPORT",TR: S Sport HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/8020.m3u8
 #EXTINF:-1 tvg-logo="http://icon.sporcpu.com/spor/ssport2.png" group-title="TR | S SPORT",TR: S Sport 2 HD
@@ -5646,6 +5646,8 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/137554.m3u8
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/165256.m3u8
 #EXTINF:-1 tvg-logo="http://icon.sporcpu.com/spor/ssportplus10.png" group-title="TR | S SPORT",TR: S Sport Plus 10 HD (only Match Time)
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/165257.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TR | S SPORT",TEST123
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/175498.m3u8
 
 # --- TR | SINEMA (81) ---
 #EXTINF:-1 tvg-logo="http://147.135.221.50/img/turkey.png" group-title="TR | SINEMA",##### TURK SINEMA PAKETI #####
@@ -6591,4 +6593,4 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/165820.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/JEtHjJs.png" group-title="WORLD SPORTS",Sky Sport Action HD [UK]
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/165884.m3u8
 
-# Total: 3237
+# Total: 3238

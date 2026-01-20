@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: squid.game-tv.org:8080
-# Generated: 2026-01-19 18:44:30
+# Generated: 2026-01-20 07:18:12
 # Expires: 2026-04-17
 # Family Safe Edition
 # ==============================================
@@ -18007,6 +18007,10 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/928.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Ratched",Ratched
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/122.mp4
 
+# --- Movies | Ray Donovan (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | Ray Donovan",Ray Donovan (2013)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1159.mp4
+
 # --- Movies | Reacher (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Reacher",Reacher
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/448.mp4
@@ -18760,6 +18764,10 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/82.mp4
 # --- Movies | The Continental from the World of John Wick (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | The Continental from the World of John Wick",The Continental: From the World of John Wick
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/479.mp4
+
+# --- Movies | The Copenhagen Test (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | The Copenhagen Test",The Copenhagen Test (2025)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1158.mp4
 
 # --- Movies | The Crew (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | The Crew",The Crew
@@ -19779,4 +19787,4 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/383.mp4
 #EXTINF:-1 tvg-logo="" group-title="Series | A Series of Unfortunate Events",A Series of Unfortunate Events
 http://squid.game-tv.org:8080/series/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/276
 
-# Total: 8697
+# Total: 8699

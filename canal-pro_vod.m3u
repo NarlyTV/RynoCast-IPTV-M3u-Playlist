@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: canal-pro.xyz:8080
-# Generated: 2026-01-19 18:36:09
+# Generated: 2026-01-20 07:05:27
 # Expires: 2026-03-08
 # Family Safe Edition
 # ==============================================
@@ -18571,7 +18571,7 @@ http://canal-pro.xyz:8080/series/966119620tv/55ce67/2499
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DOCUMENTALES ←",MARINES
 http://canal-pro.xyz:8080/series/966119620tv/55ce67/2502
 
-# --- Series | → SERIES DRAMA ← (293) ---
+# --- Series | → SERIES DRAMA ← (294) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DRAMA ←",4 Blocks
 http://canal-pro.xyz:8080/series/966119620tv/55ce67/7
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DRAMA ←",Por trece razones
@@ -19158,6 +19158,8 @@ http://canal-pro.xyz:8080/series/966119620tv/55ce67/2519
 http://canal-pro.xyz:8080/series/966119620tv/55ce67/2520
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DRAMA ←",Hijack
 http://canal-pro.xyz:8080/series/966119620tv/55ce67/2525
+#EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DRAMA ←",El Caballero de los Siete Reinos
+http://canal-pro.xyz:8080/series/966119620tv/55ce67/2529
 
 # --- Series | → SERIES INFANTILES ← (43) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES INFANTILES ←",¡La serie de Cuphead!
@@ -19663,4 +19665,4 @@ http://canal-pro.xyz:8080/series/966119620tv/55ce67/2345
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES TERROR-THRILLER-SUSPENSO ←",It: Bienvenidos a Derry
 http://canal-pro.xyz:8080/series/966119620tv/55ce67/2492
 
-# Total: 9755
+# Total: 9756

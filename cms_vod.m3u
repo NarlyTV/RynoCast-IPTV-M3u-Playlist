@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: cms.weltiptv.com:8000
-# Generated: 2026-01-19 18:40:14
+# Generated: 2026-01-20 07:15:20
 # Expires: 2026-02-16
 # Family Safe Edition
 # ==============================================
@@ -2143,7 +2143,7 @@ http://cms.weltiptv.com:8000/movie/hVTQBPN8sG/UxLLyQjNzf/55788.
 #EXTINF:-1 tvg-logo="None" group-title="Movies | Kemal Sunal Filmleri",iyi aile cocugu 1978
 http://cms.weltiptv.com:8000/movie/hVTQBPN8sG/UxLLyQjNzf/55789.mkv
 
-# --- Movies | Konusanlar (190) ---
+# --- Movies | Konusanlar (196) ---
 #EXTINF:-1 tvg-logo="None" group-title="Movies | Konusanlar",Konusanlar S01E01
 http://cms.weltiptv.com:8000/movie/hVTQBPN8sG/UxLLyQjNzf/55474.mkv
 #EXTINF:-1 tvg-logo="None" group-title="Movies | Konusanlar",Konusanlar S01E02
@@ -2524,6 +2524,18 @@ http://cms.weltiptv.com:8000/movie/hVTQBPN8sG/UxLLyQjNzf/61773.mkv
 http://cms.weltiptv.com:8000/movie/hVTQBPN8sG/UxLLyQjNzf/61774.mkv
 #EXTINF:-1 tvg-logo="None" group-title="Movies | Konusanlar",Konuşanlar YENi S01E03
 http://cms.weltiptv.com:8000/movie/hVTQBPN8sG/UxLLyQjNzf/61775.mkv
+#EXTINF:-1 tvg-logo="None" group-title="Movies | Konusanlar",Konusanlar S01E11
+http://cms.weltiptv.com:8000/movie/hVTQBPN8sG/UxLLyQjNzf/62547.mkv
+#EXTINF:-1 tvg-logo="None" group-title="Movies | Konusanlar",Konusanlar S01E12
+http://cms.weltiptv.com:8000/movie/hVTQBPN8sG/UxLLyQjNzf/62548.mkv
+#EXTINF:-1 tvg-logo="None" group-title="Movies | Konusanlar",Konusanlar S01E13
+http://cms.weltiptv.com:8000/movie/hVTQBPN8sG/UxLLyQjNzf/62549.mkv
+#EXTINF:-1 tvg-logo="None" group-title="Movies | Konusanlar",Konusanlar S01E14
+http://cms.weltiptv.com:8000/movie/hVTQBPN8sG/UxLLyQjNzf/62550.mkv
+#EXTINF:-1 tvg-logo="None" group-title="Movies | Konusanlar",Konusanlar S01E15
+http://cms.weltiptv.com:8000/movie/hVTQBPN8sG/UxLLyQjNzf/62551.mkv
+#EXTINF:-1 tvg-logo="None" group-title="Movies | Konusanlar",Konusanlar S01E16
+http://cms.weltiptv.com:8000/movie/hVTQBPN8sG/UxLLyQjNzf/62552.mkv
 
 # --- Movies | Mahsun J (14) ---
 #EXTINF:-1 tvg-logo="None" group-title="Movies | Mahsun J",Mahsun J S01E01
@@ -3245,4 +3257,4 @@ http://cms.weltiptv.com:8000/movie/hVTQBPN8sG/UxLLyQjNzf/55658.mkv
 #EXTINF:-1 tvg-logo="None" group-title="Movies | iBrahimTatlises Filmleri",Yıkılmısım Ben
 http://cms.weltiptv.com:8000/movie/hVTQBPN8sG/UxLLyQjNzf/55659.mkv
 
-# Total: 1601
+# Total: 1607

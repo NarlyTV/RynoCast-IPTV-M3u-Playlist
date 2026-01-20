@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: italians-app.net:8080
-# Generated: 2026-01-19 18:34:37
+# Generated: 2026-01-20 07:19:00
 # Expires: 2026-01-21
 # Family Safe Edition
 # ==============================================
@@ -10147,9 +10147,11 @@ http://italians-app.net:8080/movie/hele/cart@/1613.mkv
 #EXTINF:-1 tvg-logo="n/A" group-title="Movies | NETFLIX AMAZON DOCUMENTARI",Zanetti Story
 http://italians-app.net:8080/movie/hele/cart@/1761.mkv
 
-# --- Movies | NETFLIX AMAZON DRAMMATICO (1552) ---
+# --- Movies | NETFLIX AMAZON DRAMMATICO (1553) ---
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/italians.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",====NETFLIX DRAMMATICO====
 http://italians-app.net:8080/movie/hele/cart@/1662.mkv
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/9f798362d1885197250cb5fa9d7b2f84.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",Orwell 1984 (1984)
+http://italians-app.net:8080/movie/hele/cart@/86597.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/cf8473618fc146efbd93867d129e285b.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",The Last Showgirl (2024)
 http://italians-app.net:8080/movie/hele/cart@/86586.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/dd70bede7ec603bbda9f1a49b94ba817.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",Zvanì  Il romanzo famigliare di Giovanni Pascoli (2025)
@@ -11122,7 +11124,7 @@ http://italians-app.net:8080/movie/hele/cart@/69663.mkv
 http://italians-app.net:8080/movie/hele/cart@/69664.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/fda6ee6ceccfbe49b011ccb4352b0de6.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",Wonder - White Bird (2024)
 http://italians-app.net:8080/movie/hele/cart@/69666.mkv
-#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/75a300961d56f2d97a4d672392d140b8.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",Non è mai troppo tardi (2007)
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/75a300961d56f2d97a4d672392d140b8.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",Non e mai troppo tardi (2007)
 http://italians-app.net:8080/movie/hele/cart@/72435.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/773c56f19c972916cb5ea932a497b842.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",Maria Maddalena (2018)
 http://italians-app.net:8080/movie/hele/cart@/72430.mkv
@@ -32941,4 +32943,4 @@ http://italians-app.net:8080/movie/hele/cart@/2669.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | SerieTV",Timeless.S01E01 german
 http://italians-app.net:8080/movie/hele/cart@/20654.mkv
 
-# Total: 16439
+# Total: 16440

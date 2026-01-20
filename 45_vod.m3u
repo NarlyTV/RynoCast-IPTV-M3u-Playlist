@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: 45.139.122.199:8080
-# Generated: 2026-01-19 18:31:45
+# Generated: 2026-01-20 07:10:38
 # Expires: 2026-08-11
 # Family Safe Edition
 # ==============================================
@@ -3297,7 +3297,9 @@ http://45.139.122.199:8080/movie/Martin1/Martin1/105090.mkv
 #EXTINF:-1 tvg-logo="http://Ptv.is:2095/images/bf79c78beca3513d9d21f4ae33697400.jpg" group-title="Movies | VOD: IMDB Top Movies [Multi-Sub]",The Pianist [IMDB] [2002]
 http://45.139.122.199:8080/movie/Martin1/Martin1/217821.mkv
 
-# --- Movies | VOD: Kids Movies (1003) ---
+# --- Movies | VOD: Kids Movies (1004) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h5emrp6FCB6zwZIJSiut9VppQ9y.jpg" group-title="Movies | VOD: Kids Movies",Djurexpressen [KIDS] [MULTI-AUDIO] [2025]
+http://45.139.122.199:8080/movie/Martin1/Martin1/2241204.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/khcQB7EDZUbo0AVqFORK9pWkZrJ.jpg" group-title="Movies | VOD: Kids Movies",Snowflake, the White Gorilla [KIDS] [MULTI-AUDIO] [2011]
 http://45.139.122.199:8080/movie/Martin1/Martin1/2235193.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/agRbLOHgN46TQO4YdKR462iR7To.jpg" group-title="Movies | VOD: Kids Movies",Madagascar: Escape 2 Africa [KIDS] [MULTI-AUDIO] [2008]
@@ -5305,7 +5307,7 @@ http://45.139.122.199:8080/movie/Martin1/Martin1/2160326.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fjWiVF2vFwd3mhs1dNoS0SOHxqt.jpg" group-title="Movies | VOD: Kids Movies",Ternet Ninja 2 [DK] [2021]
 http://45.139.122.199:8080/movie/Martin1/Martin1/135645.mkv
 
-# --- Movies | VOD: Old Popular Movies [Multi-Sub] (7564) ---
+# --- Movies | VOD: Old Popular Movies [Multi-Sub] (7565) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ivo09vYN76w3epqAv9jS9BEXi5N.jpg" group-title="Movies | VOD: Old Popular Movies [Multi-Sub]",How to Build a Better Boy [PRE] [Multi-AUDIO] [2014]
 http://45.139.122.199:8080/movie/Martin1/Martin1/617857.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8gsWYYYOCVWFy2JyMD7HRg6KfyC.jpg" group-title="Movies | VOD: Old Popular Movies [Multi-Sub]",Bad Hair Day [PRE] [Multi-AUDIO] [2015]
@@ -20434,6 +20436,8 @@ http://45.139.122.199:8080/movie/Martin1/Martin1/2219957.mkv
 http://45.139.122.199:8080/movie/Martin1/Martin1/2224699.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sukxYMaUTNizM7bcEJ4YeH80e8h.jpg" group-title="Movies | VOD: Old Popular Movies [Multi-Sub]",Red Lights [PRE] [2012]
 http://45.139.122.199:8080/movie/Martin1/Martin1/2228748.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mXNxee2ix6Ke0bSIqFST0UhbVLR.jpg" group-title="Movies | VOD: Old Popular Movies [Multi-Sub]",Catfish [PRE] [2010]
+http://45.139.122.199:8080/movie/Martin1/Martin1/2241228.mkv
 
 # --- Movies | VOD: Premiere Cinemas [Multi-Sub] (5425) ---
 #EXTINF:-1 tvg-logo="http://Ptv.is:2095/images/movies//hPXSWiuYdJXHtcDS5wluYWgZldE.jpg" group-title="Movies | VOD: Premiere Cinemas [Multi-Sub]",Mickey's Once Upon a Christmas [KIDS] [1999]
@@ -31303,7 +31307,11 @@ http://45.139.122.199:8080/movie/Martin1/Martin1/503168.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | VOD: Relaxing Music",10 Hours of Relaxing Music Calm Piano Guitar, Sleep Music, Study Music 0003
 http://45.139.122.199:8080/movie/Martin1/Martin1/503169.mp4
 
-# --- Movies | VOD: Svenska (780) ---
+# --- Movies | VOD: Svenska (782) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jQ6hh5edIj2YVIG1YrhDvIuNvSj.jpg" group-title="Movies | VOD: Svenska",Trolösa [SE] [Multi-Sub] [2000]
+http://45.139.122.199:8080/movie/Martin1/Martin1/2241301.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nWF85GxUO6617gsQEB75GuUMv4b.jpg" group-title="Movies | VOD: Svenska",Varg [SE] [Multi-Sub] [2008]
+http://45.139.122.199:8080/movie/Martin1/Martin1/2241298.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uDcUl7u3MTvhZuClmo9CGLNodds.jpg" group-title="Movies | VOD: Svenska",Underbar och älskad av alla [SE] [Multi-Sub] [2007]
 http://45.139.122.199:8080/movie/Martin1/Martin1/2227766.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7tpd6pg0YgeDRoGByjfmIQYNgYq.jpg" group-title="Movies | VOD: Svenska",Gröna Linjen [SE] [Multi-Sub] [2025]
@@ -32907,4 +32915,4 @@ http://45.139.122.199:8080/movie/Martin1/Martin1/1036211.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a9sa6ERZCpplbPEO7OMWE763CLD.jpg" group-title="Movies | VOD: [Dolby Vision] 4k Movies [Multi-Sub] [Only On Dolby Vision Devices]",First Blood [1982] [Dolby Vision] [Multi-Sub] [4K]
 http://45.139.122.199:8080/movie/Martin1/Martin1/2173473.mkv
 
-# Total: 16434
+# Total: 16438

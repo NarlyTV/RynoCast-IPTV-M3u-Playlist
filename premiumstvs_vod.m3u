@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: premiumstvs.net:8080
-# Generated: 2026-01-19 18:37:13
+# Generated: 2026-01-20 07:10:41
 # Expires: 2026-02-22
 # Family Safe Edition
 # ==============================================
@@ -7511,7 +7511,9 @@ http://premiumstvs.net:8080/movie/khFzEWQn/fP85XcC7E/89822.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xidZacCXALZTTxg3kAeIyqxRmkI.jpg" group-title="Movies | Riyadh Season 2024 - Kingdom Arena Boxing",Artur Beterbiev vs. Dmitry Bivol (2024)
 http://premiumstvs.net:8080/movie/khFzEWQn/fP85XcC7E/89781.mkv
 
-# --- Movies | Seriale Turke Me Titra Shqip (15) ---
+# --- Movies | Seriale Turke Me Titra Shqip (16) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | Seriale Turke Me Titra Shqip",Bahar (Loja e Fatit)
+http://premiumstvs.net:8080/movie/khFzEWQn/fP85XcC7E/551.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Seriale Turke Me Titra Shqip",Mahkum  (I Burgosuri)
 http://premiumstvs.net:8080/movie/khFzEWQn/fP85XcC7E/550.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Seriale Turke Me Titra Shqip",A.B.I. (2026)
@@ -8981,7 +8983,29 @@ http://premiumstvs.net:8080/movie/khFzEWQn/fP85XcC7E/97774.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mgsuykSOauo485poG3CNmn3EwY7.jpg" group-title="Movies | VOD DE",10 Tage eines neugierigen Mannes (2024)
 http://premiumstvs.net:8080/movie/khFzEWQn/fP85XcC7E/97773.mkv
 
-# --- Movies | VOD FR (549) ---
+# --- Movies | VOD FR (560) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e08WqjLKqcw6HqHK9QlH0XGxyGb.jpg" group-title="Movies | VOD FR",Les Orphelins (2025)
+http://premiumstvs.net:8080/movie/khFzEWQn/fP85XcC7E/115185.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nTBVcWzrO2dbvt8nJYnmPm2kkW1.jpg" group-title="Movies | VOD FR",Le Roi Soleil (2025)
+http://premiumstvs.net:8080/movie/khFzEWQn/fP85XcC7E/115184.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/LvLGtQiQ4tIeNbR4jjiLs5UAOL.jpg" group-title="Movies | VOD FR",Le Rendez-vous de l'été (2025)
+http://premiumstvs.net:8080/movie/khFzEWQn/fP85XcC7E/115183.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rQfs7iuWYt0sqgxm76sC9l8nMa.jpg" group-title="Movies | VOD FR",L'Intérêt d'Adam (2025)
+http://premiumstvs.net:8080/movie/khFzEWQn/fP85XcC7E/115182.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lDoCR7MoG1QX5PAQBorbj5aXR3C.jpg" group-title="Movies | VOD FR",L'Épreuve du feu (2025)
+http://premiumstvs.net:8080/movie/khFzEWQn/fP85XcC7E/115181.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rlpI8BqpCccQ9zx6UlQ72g8KJPb.jpg" group-title="Movies | VOD FR",Un simple accident (2025)
+http://premiumstvs.net:8080/movie/khFzEWQn/fP85XcC7E/115180.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uC3lzzgOUgkubje7HR20qznAAGj.jpg" group-title="Movies | VOD FR",It Feeds (2025)
+http://premiumstvs.net:8080/movie/khFzEWQn/fP85XcC7E/115179.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jD3HZaNeolV5Y1cAoQP1Wkd233f.jpg" group-title="Movies | VOD FR",Carol (2015)
+http://premiumstvs.net:8080/movie/khFzEWQn/fP85XcC7E/115178.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/16aP0pZDH5s4Gyg80Tc5A9RRTeS.jpg" group-title="Movies | VOD FR",Border Hunters (2025)
+http://premiumstvs.net:8080/movie/khFzEWQn/fP85XcC7E/115177.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dkqhodrNPdwI25kNW8SmANQI7Wv.jpg" group-title="Movies | VOD FR",Thérapie de choc (2025)
+http://premiumstvs.net:8080/movie/khFzEWQn/fP85XcC7E/115175.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iQOIOz8BZ2QLMyFJ7Leo9izSyti.jpg" group-title="Movies | VOD FR",10 Dance (2025)
+http://premiumstvs.net:8080/movie/khFzEWQn/fP85XcC7E/115174.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/53t9pEQTaTLQtxNz9lgmTOAcR2W.jpg" group-title="Movies | VOD FR",Yōkai : Le Monde des esprits (2025)
 http://premiumstvs.net:8080/movie/khFzEWQn/fP85XcC7E/114500.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dy8V2rixzbklwB0aSSrYPkhsLoT.jpg" group-title="Movies | VOD FR",Y’a pas de réseau (2025)
@@ -12161,4 +12185,4 @@ http://premiumstvs.net:8080/series/khFzEWQn/fP85XcC7E/248
 #EXTINF:-1 tvg-logo="" group-title="Series | Netflix Series",Squid Game: The Challenge
 http://premiumstvs.net:8080/series/khFzEWQn/fP85XcC7E/247
 
-# Total: 6047
+# Total: 6059
