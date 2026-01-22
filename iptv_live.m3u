@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: iptv.darktv.eu:25461
-# Generated: 2026-01-22 07:11:26
+# Generated: 2026-01-22 18:32:43
 # Expires: 2026-02-05
 # Family Safe Edition
 # ==============================================
@@ -7295,7 +7295,7 @@ http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/143807.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/viaplay.png" group-title="NL - VIAPLAY PREMIER LEAGUE",(NL) ViaPlay Premiere League 8 4K+
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/143808.m3u8
 
-# --- NL - VIDEOLAND (8) ---
+# --- NL - VIDEOLAND (9) ---
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="NL - VIDEOLAND",(NL) Videoland Events 1 FHD
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/187394.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="NL - VIDEOLAND",(NL) Videoland Events 2 FHD
@@ -7308,6 +7308,8 @@ http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/187393.m3u8
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/188919.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="NL - VIDEOLAND",(NL) ⁷-²⁴ Videoland HD 2
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/188920.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="NL - VIDEOLAND",(NL) ⁷-²⁴ Videoland HD 3
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/237206.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="NL - VIDEOLAND",(NL) ⁷-²⁴ Mocro Maffia
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/188943.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="NL - VIDEOLAND",(NL) ⁷-²⁴ Gooische Vrouwen
@@ -11497,4 +11499,4 @@ http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/153506.m3u8
 #EXTINF:-1 tvg-logo="" group-title="İR : PERSİAN",(IR) TIN TV
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/153497.m3u8
 
-# Total: 5585
+# Total: 5586

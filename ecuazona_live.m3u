@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: ecuazona.live:8080
-# Generated: 2026-01-22 07:08:35
+# Generated: 2026-01-22 18:33:01
 # Expires: 2026-02-21
 # Family Safe Edition
 # ==============================================
@@ -1175,7 +1175,7 @@ http://ecuazona.live:8080/live/Shirley20/Shirley20/1039469.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-L37dYVb9R9mWoURIGgwa1ENpFg6A_IqIEw&s" group-title="▶️ TV COLOMBIA",Teleantioquia
 http://ecuazona.live:8080/live/Shirley20/Shirley20/1039470.m3u8
 
-# --- ▶️ TV COSTA RICA (53) ---
+# --- ▶️ TV COSTA RICA (54) ---
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Y9rnw9M1/Logos-Canales-PNG-880-x-700-px-20250624-234627-0000.jpg" group-title="▶️ TV COSTA RICA",CR | LIMON TV
 http://ecuazona.live:8080/live/Shirley20/Shirley20/852870.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yNGjYFCX/Logos-Canales-PNG-880-x-700-px-20250628-231916-0001.jpg" group-title="▶️ TV COSTA RICA",CR | REPRETEL 4
@@ -1282,6 +1282,8 @@ http://ecuazona.live:8080/live/Shirley20/Shirley20/1002947.m3u8
 http://ecuazona.live:8080/live/Shirley20/Shirley20/1002948.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bYtG6L37/Logos-Canales-PNG-880-x-700-px-20250629-224035-0000.jpg" group-title="▶️ TV COSTA RICA",CR | TICAVISION
 http://ecuazona.live:8080/live/Shirley20/Shirley20/1002949.m3u8
+#EXTINF:-1 tvg-logo="" group-title="▶️ TV COSTA RICA",CR | SAN VITO TV
+http://ecuazona.live:8080/live/Shirley20/Shirley20/1054107.m3u8
 
 # --- ▶️ TV CUBA (5) ---
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ki9ipMU.png" group-title="▶️ TV CUBA",CUBAVISION
@@ -5536,21 +5538,21 @@ http://ecuazona.live:8080/live/Shirley20/Shirley20/935523.m3u8
 http://ecuazona.live:8080/live/Shirley20/Shirley20/935524.m3u8
 
 # --- ⚽ DEPORTES COSTA RICA (8) ---
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mD6iSbyba0alApPcJ6xEpKuWlr8ECBcaCpyqChjoCSRg=s900-c-k-c0x00ffffff-no-rj" group-title="⚽ DEPORTES COSTA RICA",CR | 01 • TD + 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F4fJzqV4/CR-TD-1.png" group-title="⚽ DEPORTES COSTA RICA",CR | 01 • TD + 1
 http://ecuazona.live:8080/live/Shirley20/Shirley20/409455.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mD6iSbyba0alApPcJ6xEpKuWlr8ECBcaCpyqChjoCSRg=s900-c-k-c0x00ffffff-no-rj" group-title="⚽ DEPORTES COSTA RICA",CR | 02 • TD+ 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F4fJzqV4/CR-TD-1.png" group-title="⚽ DEPORTES COSTA RICA",CR | 02 • TD+ 1
 http://ecuazona.live:8080/live/Shirley20/Shirley20/409466.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/1Xf7nfJV/Sin_t%C3%ADtulo_(200_x_200_px)_(250_x_250_px)_(300_x_250_px)_(300_x_300_px)_(300_20240521_174222_0000.png" group-title="⚽ DEPORTES COSTA RICA",CR | 01 • TD+2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXkmMg3/CR-TD-2.png" group-title="⚽ DEPORTES COSTA RICA",CR | 01 • TD+2
 http://ecuazona.live:8080/live/Shirley20/Shirley20/409465.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/1Xf7nfJV/Sin_t%C3%ADtulo_(200_x_200_px)_(250_x_250_px)_(300_x_250_px)_(300_x_300_px)_(300_20240521_174222_0000.png" group-title="⚽ DEPORTES COSTA RICA",CR | 02 • TD + 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXkmMg3/CR-TD-2.png" group-title="⚽ DEPORTES COSTA RICA",CR | 02 • TD + 2
 http://ecuazona.live:8080/live/Shirley20/Shirley20/816483.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/5tSRZcXy/Sin_t%C3%ADtulo_(200_x_200_px)_(250_x_250_px)_(300_x_250_px)_(300_x_300_px)_(300_20240521_173642_0000.png" group-title="⚽ DEPORTES COSTA RICA",CR | 01 • FUTV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ttjc3zk/FUTV.png" group-title="⚽ DEPORTES COSTA RICA",CR | 01 • FUTV
 http://ecuazona.live:8080/live/Shirley20/Shirley20/409505.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/5tSRZcXy/Sin_t%C3%ADtulo_(200_x_200_px)_(250_x_250_px)_(300_x_250_px)_(300_x_300_px)_(300_20240521_173642_0000.png" group-title="⚽ DEPORTES COSTA RICA",CR | 02 • FUTV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ttjc3zk/FUTV.png" group-title="⚽ DEPORTES COSTA RICA",CR | 02 • FUTV
 http://ecuazona.live:8080/live/Shirley20/Shirley20/409457.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/5tSRZcXy/Sin_t%C3%ADtulo_(200_x_200_px)_(250_x_250_px)_(300_x_250_px)_(300_x_300_px)_(300_20240521_173642_0000.png" group-title="⚽ DEPORTES COSTA RICA",CR | 03 • FUTV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ttjc3zk/FUTV.png" group-title="⚽ DEPORTES COSTA RICA",CR | 03 • FUTV
 http://ecuazona.live:8080/live/Shirley20/Shirley20/816485.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/y8gsgsK4/20240730-143642-0000.png" group-title="⚽ DEPORTES COSTA RICA",CR | 01 • TIGO SPORTS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4Z9SFtYr/CR-01-TIGO-SPORTS.png" group-title="⚽ DEPORTES COSTA RICA",CR | 01 • TIGO SPORTS
 http://ecuazona.live:8080/live/Shirley20/Shirley20/396926.m3u8
 
 # --- ⚽ DEPORTES ECUADOR (7) ---
@@ -6099,30 +6101,6 @@ http://ecuazona.live:8080/live/Shirley20/Shirley20/1050529.m3u8
 #EXTINF:-1 tvg-logo="http://onerestream.us:80/images/E8KGoSwj2u7k1yTTl5XI6QIw5RHsM5idmSlUbG46URGX8wBLkH5gGJQgakPfOeiMRQgvrX3IcM5U61YnNb-unrOPNZk-qAH1PKzvUTxdPgpGBgL0Q-EAOMk0BaaOhjXOg1TTh0u50E7Rtn8Rb_0M11fVHLnSVrnP5RazLhPJhFScetU427qhFi60qE5pDh5-.jpg" group-title="⭐ | CASA DE LOS FAMOSOS COLOMBIA",LA CASA DE LOS FAMOSOS HABITACION TORMENTA
 http://ecuazona.live:8080/live/Shirley20/Shirley20/1050530.m3u8
 
-# --- ⭐ | CHAMPIONS LEAGUE (11) ---
-#EXTINF:-1 tvg-logo="https://brandemia.org/contenido/subidas/2021/05/portada3-uefa-imagenes-brandemia-web-1000x670.jpg" group-title="⭐ | CHAMPIONS LEAGUE",CHAMPIONS • 02 | 12:45 Qarabag vs Frankfurt 21/01
-http://ecuazona.live:8080/live/Shirley20/Shirley20/1051912.m3u8
-#EXTINF:-1 tvg-logo="https://brandemia.org/contenido/subidas/2021/05/portada3-uefa-imagenes-brandemia-web-1000x670.jpg" group-title="⭐ | CHAMPIONS LEAGUE",CHAMPIONS • 01 | 12:45 Galatasaray vs Atlético Madrid 21/01
-http://ecuazona.live:8080/live/Shirley20/Shirley20/1051911.m3u8
-#EXTINF:-1 tvg-logo="https://brandemia.org/contenido/subidas/2021/05/portada3-uefa-imagenes-brandemia-web-1000x670.jpg" group-title="⭐ | CHAMPIONS LEAGUE",CHAMPIONS • 03 | 15:00 Marsella vs Liverpool 21/01
-http://ecuazona.live:8080/live/Shirley20/Shirley20/1051913.m3u8
-#EXTINF:-1 tvg-logo="https://brandemia.org/contenido/subidas/2021/05/portada3-uefa-imagenes-brandemia-web-1000x670.jpg" group-title="⭐ | CHAMPIONS LEAGUE",CHAMPIONS • 04 | 15:00 Marsella vs Liverpool 21/01
-http://ecuazona.live:8080/live/Shirley20/Shirley20/1051914.m3u8
-#EXTINF:-1 tvg-logo="https://brandemia.org/contenido/subidas/2021/05/portada3-uefa-imagenes-brandemia-web-1000x670.jpg" group-title="⭐ | CHAMPIONS LEAGUE",CHAMPIONS • 05 | 15:00 Slavia Praga vs Barcelona 21/01
-http://ecuazona.live:8080/live/Shirley20/Shirley20/1051915.m3u8
-#EXTINF:-1 tvg-logo="https://brandemia.org/contenido/subidas/2021/05/portada3-uefa-imagenes-brandemia-web-1000x670.jpg" group-title="⭐ | CHAMPIONS LEAGUE",CHAMPIONS • 06 | 15:00 Slavia Praga vs Barcelona 21/01
-http://ecuazona.live:8080/live/Shirley20/Shirley20/1051916.m3u8
-#EXTINF:-1 tvg-logo="https://brandemia.org/contenido/subidas/2021/05/portada3-uefa-imagenes-brandemia-web-1000x670.jpg" group-title="⭐ | CHAMPIONS LEAGUE",CHAMPIONS • 07 | 15:00 Newcastle vs PSV 21/01
-http://ecuazona.live:8080/live/Shirley20/Shirley20/1051917.m3u8
-#EXTINF:-1 tvg-logo="https://brandemia.org/contenido/subidas/2021/05/portada3-uefa-imagenes-brandemia-web-1000x670.jpg" group-title="⭐ | CHAMPIONS LEAGUE",CHAMPIONS • 08 | 15:00 Juventus vs Benfica 21/01
-http://ecuazona.live:8080/live/Shirley20/Shirley20/1051918.m3u8
-#EXTINF:-1 tvg-logo="https://brandemia.org/contenido/subidas/2021/05/portada3-uefa-imagenes-brandemia-web-1000x670.jpg" group-title="⭐ | CHAMPIONS LEAGUE",CHAMPIONS • 09 | 15:00 Chelsea vs Pafos 21/01
-http://ecuazona.live:8080/live/Shirley20/Shirley20/1051919.m3u8
-#EXTINF:-1 tvg-logo="https://brandemia.org/contenido/subidas/2021/05/portada3-uefa-imagenes-brandemia-web-1000x670.jpg" group-title="⭐ | CHAMPIONS LEAGUE",CHAMPIONS • 10 | 15:00 Bayern vs Unión Saint-gilloise 21/01
-http://ecuazona.live:8080/live/Shirley20/Shirley20/1051920.m3u8
-#EXTINF:-1 tvg-logo="https://brandemia.org/contenido/subidas/2021/05/portada3-uefa-imagenes-brandemia-web-1000x670.jpg" group-title="⭐ | CHAMPIONS LEAGUE",CHAMPIONS • 11 | 15:00 Atalanta vs Athletic 21/01
-http://ecuazona.live:8080/live/Shirley20/Shirley20/1051921.m3u8
-
 # --- ⭐ | CINE PREMIUM EXCLUSIVO (70) ---
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/bb/50/99/bb50999fb2860f8760ef4b22ef8bf09e.jpg" group-title="⭐ | CINE PREMIUM EXCLUSIVO",STAR Channel FHD
 http://ecuazona.live:8080/live/Shirley20/Shirley20/429951.m3u8
@@ -6309,55 +6287,7 @@ http://ecuazona.live:8080/live/Shirley20/Shirley20/662328.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.vox-cdn.com/thumbor/yDcDkg5256nShkwb7J5ZelaLf2k=/0x0:1920x1080/1400x1050/filters:focal(960x540:961x541)/cdn.vox-cdn.com/uploads/chorus_asset/file/25357066/Disney__Logo_March_2024.png" group-title="⭐ | EVENTOS DISNEY+ (A LA HORA DEL EVENTO)",EVENTOS DISNEY+ 5 (SOLO EVENTOS)
 http://ecuazona.live:8080/live/Shirley20/Shirley20/662342.m3u8
 
-# --- ⭐ | EVENTOS PPV DEL DIA (29) ---
-#EXTINF:-1 tvg-logo="http://onerestream.us:80/images/_PrLqx4L5B3C3mbSsx-dHlUDQ0GY2jZm3-rxO0IYXjBhbH55x2t62fHStrEb4bP5njjke9sUX8NTh2DiFpPB_EdlHqBEssKK0MShn3VByeIEjKJGTK0KK2VI5oRU3kqlCmwBvbzol2Z3MrKw-yX0Vg.jpg" group-title="⭐ | EVENTOS PPV DEL DIA",01/21 Soccer 10:00am Croatia vs France = EspnMx
-http://ecuazona.live:8080/live/Shirley20/Shirley20/1053998.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/349-uefa-futsal-championship.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/21 Soccer  10:00am Croatia vs France = VixPremiun
-http://ecuazona.live:8080/live/Shirley20/Shirley20/1053999.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/270-pro-league.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/21 Soccer 12:30pm Damac vs Al Nassr = FoxDeportes
-http://ecuazona.live:8080/live/Shirley20/Shirley20/1054000.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/270-pro-league.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/21 Soccer 12:30pm Damac vs Al Nassr = FS2
-http://ecuazona.live:8080/live/Shirley20/Shirley20/1054001.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/13-eredivisie.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/21 Soccer 12:45pm AZ vs Excelsior = Espn2Mx
-http://ecuazona.live:8080/live/Shirley20/Shirley20/1054002.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/349-uefa-futsal-championship.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/21 Soccer 01:00pm Latvia vs Georgia = VixPremiun
-http://ecuazona.live:8080/live/Shirley20/Shirley20/1054003.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/753-supercopa-femenina.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/21 Soccer 01:00pm Barcelona vs Athletic Club = TDP
-http://ecuazona.live:8080/live/Shirley20/Shirley20/1054004.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/511-coppa-italia-femminile.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/21 Soccer 02:30pm Lazio vs Roma = Directv
-http://ecuazona.live:8080/live/Shirley20/Shirley20/1054005.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/19-championship.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/21 Soccer 03:00pm Stoke City vs Middlesbrough = FoxSports2
-http://ecuazona.live:8080/live/Shirley20/Shirley20/1054006.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/19-championship.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/21 Soccer 03:00pm Stoke City vs Middlesbrough = Espn2Mx
-http://ecuazona.live:8080/live/Shirley20/Shirley20/1054007.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/37-liga-nacional.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/21 Soccer 03:00pm Cobán Imperial vs Antigua GFC = TigoSports
-http://ecuazona.live:8080/live/Shirley20/Shirley20/1054008.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/674-supercopa-de-chile.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/21 Soccer 05:00pm Coquimbo Unido vs Deportes Limache = TNT Premiun
-http://ecuazona.live:8080/live/Shirley20/Shirley20/1054009.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/882-serie-rio-de-la-plata.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/21 Soccer 06:45pm Colo-Colo vs Peñarol = EspnPremiun
-http://ecuazona.live:8080/live/Shirley20/Shirley20/1054010.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/700-liga-mx-femenil.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/21 Soccer 07:00pm Toluca vs Tigres UANL = VixPremiun
-http://ecuazona.live:8080/live/Shirley20/Shirley20/1054011.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/700-liga-mx-femenil.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/21 Soccer 07:00pm Necaxa vs Pumas UNAM = VixPremiun
-http://ecuazona.live:8080/live/Shirley20/Shirley20/1054012.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/90-primera-division.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/21 Soccer 07:00pm San Carlos vs Puntarenas = Futv
-http://ecuazona.live:8080/live/Shirley20/Shirley20/1054013.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/378-copa-argentina.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/21 Soccer 07:15pm Argentinos Juniors vs Midland = TycSports
-http://ecuazona.live:8080/live/Shirley20/Shirley20/1054014.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/77-campeonato-mineiro.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/21 Soccer 07:30pm América Mineiro vs Atlético Mineiro = PremierTv
-http://ecuazona.live:8080/live/Shirley20/Shirley20/1054015.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/829-superliga.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/21 Soccer 07:30pm Santa Fe vs Junior = RCN
-http://ecuazona.live:8080/live/Shirley20/Shirley20/1054016.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/700-liga-mx-femenil.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/21 Soccer 08:00pm Santos Laguna vs León = TubiMx
-http://ecuazona.live:8080/live/Shirley20/Shirley20/1054017.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/700-liga-mx-femenil.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/21 Soccer 08:06pm Guadalajara vs Querétaro = FoxDeportes
-http://ecuazona.live:8080/live/Shirley20/Shirley20/1054018.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/90-primera-division.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/21 Soccer 09:00pm Cartaginés vs Alajuelense = Futv
-http://ecuazona.live:8080/live/Shirley20/Shirley20/1054019.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/700-liga-mx-femenil.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/21 Soccer 09:00pm Monterrey vs Cruz Azul = VixPremiun
-http://ecuazona.live:8080/live/Shirley20/Shirley20/1054020.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/700-liga-mx-femenil.png?q=75&w=50" group-title="⭐ | EVENTOS PPV DEL DIA",01/21 Soccer 10:06pm Mazatlán vs Atlas = TubiMx
-http://ecuazona.live:8080/live/Shirley20/Shirley20/1054021.m3u8
+# --- ⭐ | EVENTOS PPV DEL DIA (5) ---
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kW2397C.png" group-title="⭐ | EVENTOS PPV DEL DIA",Eventos Varios #1 Tennis
 http://ecuazona.live:8080/live/Shirley20/Shirley20/1051257.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kW2397C.png" group-title="⭐ | EVENTOS PPV DEL DIA",CA: GOLF CHANNEL
@@ -6406,50 +6336,6 @@ http://ecuazona.live:8080/live/Shirley20/Shirley20/1047072.m3u8
 http://ecuazona.live:8080/live/Shirley20/Shirley20/1047073.m3u8
 #EXTINF:-1 tvg-logo="http://novatv.us:80/images/e5Dm5xXpV7xsyO75rxsOH52w_EJ9T7fAvOg9FvziWpT9kUV1RKYlxt3CkExdAeguFwx0tK61gutBtWq6eSEd04y1EuyAOq9SCbgAbSZ3FxJuNY60xvr3ojZvjiMovu69iXCGBNAbdPhCMnpBVfjw3RXIMydT2puvfjHhJQG9LHg.png" group-title="⭐ | EVENTOS UFC - BOX - WWE",EVE | 19 UFC FIGHT PASS 5
 http://ecuazona.live:8080/live/Shirley20/Shirley20/1047074.m3u8
-
-# --- ⭐ | NBA - NFL - NHL - MLB - LMP DEL DIA (21) ---
-#EXTINF:-1 tvg-logo="http://onerestream.us:80/images/H8l4FgEC0zFunEkcBk8tms5HKFWZztTBfEOBeCJS625lm106hdTUNRLyfJBXfaFAsLrUQMOzOUHMrbBsVKj3OKqvXB8G-UzIOu0d1KwroSM.png" group-title="⭐ | NBA - NFL - NHL - MLB - LMP DEL DIA",01/21 07:00pm Australian Open = EspnDeportes
-http://ecuazona.live:8080/live/Shirley20/Shirley20/1054022.m3u8
-#EXTINF:-1 tvg-logo="http://onerestream.us:80/images/H8l4FgEC0zFunEkcBk8tms5HKFWZztTBfEOBeCJS625lm106hdTUNRLyfJBXfaFAsLrUQMOzOUHMrbBsVKj3OKqvXB8G-UzIOu0d1KwroSM.png" group-title="⭐ | NBA - NFL - NHL - MLB - LMP DEL DIA",01/21 07:00pm Australian Open = TENNIS CHANNEL
-http://ecuazona.live:8080/live/Shirley20/Shirley20/1054023.m3u8
-#EXTINF:-1 tvg-logo="http://onerestream.us:80/images/H8l4FgEC0zFunEkcBk8tms5HKFWZztTBfEOBeCJS625lm106hdTUNRLyfJBXfaFAsLrUQMOzOUHMrbBsVKj3OKqvXB8G-UzIOu0d1KwroSM.png" group-title="⭐ | NBA - NFL - NHL - MLB - LMP DEL DIA",01/21 07:00pm Australian Open = TSN
-http://ecuazona.live:8080/live/Shirley20/Shirley20/1054024.m3u8
-#EXTINF:-1 tvg-logo="http://onerestream.us:80/images/H8l4FgEC0zFunEkcBk8tmiSd9TqLY7c7hEGTjbQPcxiNR9UPbxrV_qzMUtPpnVKJ0ACmRAyUshNmsDRoW9XueamFXdcV0sVyIrRHkr5B00U.png" group-title="⭐ | NBA - NFL - NHL - MLB - LMP DEL DIA",01/21 NBA 07:00pm Charlotte Hornets vs Cleveland Cavaliers
-http://ecuazona.live:8080/live/Shirley20/Shirley20/1054025.m3u8
-#EXTINF:-1 tvg-logo="http://onerestream.us:80/images/H8l4FgEC0zFunEkcBk8tmgs-nlOdyVBnSr2RHTXPeDbwoOwEGnEmuDnr6HSQqz-qg87HZphF04YqpgPXKCqrWJ5y-LKkgGOsmhrSny3BGXI.png" group-title="⭐ | NBA - NFL - NHL - MLB - LMP DEL DIA",01/21 NBA 07:30pm Boston Celtics vs Indiana Pacers
-http://ecuazona.live:8080/live/Shirley20/Shirley20/1054026.m3u8
-#EXTINF:-1 tvg-logo="http://onerestream.us:80/images/H8l4FgEC0zFunEkcBk8tmmcE0USQUrJCw3Tfy7W4FtKHlCYwAwbe1k7rKf1BxoOlALyDYOY5sQGbJfE2ssfJyd2Fe3O-JVCnQEN4DKMcc7Q.png" group-title="⭐ | NBA - NFL - NHL - MLB - LMP DEL DIA",01/21 NBA 07:30pm New York Knicks vs Brooklyn Nets
-http://ecuazona.live:8080/live/Shirley20/Shirley20/1054027.m3u8
-#EXTINF:-1 tvg-logo="http://onerestream.us:80/images/H8l4FgEC0zFunEkcBk8tmh2uc4EE9zS9zuCa0v1GuJ1qGdhM09Sm8mWRPqUG4TitZStPHJbbHQPGTbYrAZdbxyjIBTulVqhdg_9LwdNOXKY.png" group-title="⭐ | NBA - NFL - NHL - MLB - LMP DEL DIA",01/21 NBA 08:00pm Memphis Grizzlies vs Atlanta Hawks
-http://ecuazona.live:8080/live/Shirley20/Shirley20/1054028.m3u8
-#EXTINF:-1 tvg-logo="http://onerestream.us:80/images/H8l4FgEC0zFunEkcBk8tmk0U0xA05IXv_tLFjV15BdK4xPWlStLqmZbDJz5-pJ_vY06j0_CslVWkZEAdjPtEpBaoIEanBQxlxx1NxZI4PHA.png" group-title="⭐ | NBA - NFL - NHL - MLB - LMP DEL DIA",01/21 NBA 08:00pm New Orleans Pelicans vs Detroit Pistons
-http://ecuazona.live:8080/live/Shirley20/Shirley20/1054029.m3u8
-#EXTINF:-1 tvg-logo="http://onerestream.us:80/images/H8l4FgEC0zFunEkcBk8tmja-qypj9LarBMDR55E41dNui6pD6ooVBO2rWE9i_XLJNCL3-SKJCsgFWeANktoqisKrv_K8OUbJWtjyuAEBtSY.png" group-title="⭐ | NBA - NFL - NHL - MLB - LMP DEL DIA",01/21 NBA 09:30pm Milwaukee Bucks vs Oklahoma City Thunder
-http://ecuazona.live:8080/live/Shirley20/Shirley20/1054030.m3u8
-#EXTINF:-1 tvg-logo="http://onerestream.us:80/images/H8l4FgEC0zFunEkcBk8tmjIcFO7Z1ljXjDycvvizQPQ-_frWWFQ8oAowbIH95vzC9OOJfRpHEDmJori0cBdNBvY6SRJWcoYnHl8H1wl-xjs.png" group-title="⭐ | NBA - NFL - NHL - MLB - LMP DEL DIA",01/21 NBA 10:00pm Sacramento Kings vs Toronto Raptors
-http://ecuazona.live:8080/live/Shirley20/Shirley20/1054031.m3u8
-#EXTINF:-1 tvg-logo="http://onerestream.us:80/images/H8l4FgEC0zFunEkcBk8tmhKupry5qfa9xjDTPMYYqg-WrDIzCxoT0ideihGx64f7YXQyOSXYPxhcFAFacuyz-MPdniwcQy4KHz6UDiFTmQ8.png" group-title="⭐ | NBA - NFL - NHL - MLB - LMP DEL DIA",01/21 NHL 07:00pm Toronto Maple Leafs vs Detroit Red Wings
-http://ecuazona.live:8080/live/Shirley20/Shirley20/1054032.m3u8
-#EXTINF:-1 tvg-logo="http://onerestream.us:80/images/H8l4FgEC0zFunEkcBk8tmkrdi8Pa88HilPXhj8qNGMNaCJK-b4rYSqQ5YB33O0kf_u2TpjBXQkMLrQ9gAEzRuI9ldXV2xwx1nsCQbnYxM2Y.png" group-title="⭐ | NBA - NFL - NHL - MLB - LMP DEL DIA",01/21 NHL 09:00pm Utah Mammoth vs Philadelphia Flyers
-http://ecuazona.live:8080/live/Shirley20/Shirley20/1054033.m3u8
-#EXTINF:-1 tvg-logo="http://onerestream.us:80/images/H8l4FgEC0zFunEkcBk8tmsjeQhTzjoSjZRNX3yjX2PBkQ5uqjuVlyohuYyC1cK37jMqlEBg1VtCWDINhKmTiM9-Ur0g6ikHkwSvKy6mquQQ.png" group-title="⭐ | NBA - NFL - NHL - MLB - LMP DEL DIA",01/21 NHL 09:00pm Colorado Avalanche vs Anaheim Ducks
-http://ecuazona.live:8080/live/Shirley20/Shirley20/1054034.m3u8
-#EXTINF:-1 tvg-logo="http://onerestream.us:80/images/H8l4FgEC0zFunEkcBk8tmn_Hop60nfQ8Zp5syqsVAFoolv0SI0fUFllVuMhEDZ8_y1VR5shSaypyLbebrmybdU9xQNKT5xTq5-09ocv0_hM.png" group-title="⭐ | NBA - NFL - NHL - MLB - LMP DEL DIA",01/21 NHL 09:30pm Seattle Kraken vs New York Islanders
-http://ecuazona.live:8080/live/Shirley20/Shirley20/1054035.m3u8
-#EXTINF:-1 tvg-logo="http://onerestream.us:80/images/H8l4FgEC0zFunEkcBk8tmiC34DGynun0n1PekWbLxCVq-CPiiQunS76cQddwIxJ9UfTZdoHZxvdfLfFQXAB5Ed2gAEm3QK6S6Td38u4u2sM.png" group-title="⭐ | NBA - NFL - NHL - MLB - LMP DEL DIA",01/21 NHL 09:30pm Calgary Flames vs Pittsburgh Penguins
-http://ecuazona.live:8080/live/Shirley20/Shirley20/1054036.m3u8
-#EXTINF:-1 tvg-logo="http://onerestream.us:80/images/H8l4FgEC0zFunEkcBk8tmgfuG6zGONvlaeoHciH127HQYLig2CwXovpCPx2G5zg-xeuO2Lk3Xab3WQTY_xXG2u6PGK4ggFxbu0ynp4N3C8Q.png" group-title="⭐ | NBA - NFL - NHL - MLB - LMP DEL DIA",01/21 NHL 10:00pm Vancouver Canucks vs Washington Capitals
-http://ecuazona.live:8080/live/Shirley20/Shirley20/1054037.m3u8
-#EXTINF:-1 tvg-logo="https://arestv.vip:443/images/An8Hurw1IFGFd1h2rIjTzLHYhbtml5dlRqDMB9djTb_VE9qA_Be1Aiq7GF8w036yXs4wBv6PiYAVnmMjY8mBDF_21XSj-z54_pu3sZMsOpk.png" group-title="⭐ | NBA - NFL - NHL - MLB - LMP DEL DIA",LMP  20:00 Venados de Mazatlan vs Tucson
-http://ecuazona.live:8080/live/Shirley20/Shirley20/1054076.m3u8
-#EXTINF:-1 tvg-logo="https://arestv.vip:443/images/An8Hurw1IFGFd1h2rIjTzLHYhbtml5dlRqDMB9djTb_VE9qA_Be1Aiq7GF8w036yXs4wBv6PiYAVnmMjY8mBDF_21XSj-z54_pu3sZMsOpk.png" group-title="⭐ | NBA - NFL - NHL - MLB - LMP DEL DIA",LMP  20:05 Tomateros de Culiacan vs Charros de Jalisco
-http://ecuazona.live:8080/live/Shirley20/Shirley20/1054077.m3u8
-#EXTINF:-1 tvg-logo="https://arestv.vip:443/images/An8Hurw1IFGFd1h2rIjTzLHYhbtml5dlRqDMB9djTb_VE9qA_Be1Aiq7GF8w036yXs4wBv6PiYAVnmMjY8mBDF_21XSj-z54_pu3sZMsOpk.png" group-title="⭐ | NBA - NFL - NHL - MLB - LMP DEL DIA",LMP  20:10 Yaquis de Obregon vs Aguilas de Mexicali
-http://ecuazona.live:8080/live/Shirley20/Shirley20/1054078.m3u8
-#EXTINF:-1 tvg-logo="https://arestv.vip:443/images/An8Hurw1IFGFd1h2rIjTzLHYhbtml5dlRqDMB9djTb_VE9qA_Be1Aiq7GF8w036yXs4wBv6PiYAVnmMjY8mBDF_21XSj-z54_pu3sZMsOpk.png" group-title="⭐ | NBA - NFL - NHL - MLB - LMP DEL DIA",LMP  20:30 Cañeros de Los Mochis vs Algodoneros de Guasave
-http://ecuazona.live:8080/live/Shirley20/Shirley20/1054079.m3u8
-#EXTINF:-1 tvg-logo="https://arestv.vip:443/images/An8Hurw1IFGFd1h2rIjTzLHYhbtml5dlRqDMB9djTb_VE9qA_Be1Aiq7GF8w036yXs4wBv6PiYAVnmMjY8mBDF_21XSj-z54_pu3sZMsOpk.png" group-title="⭐ | NBA - NFL - NHL - MLB - LMP DEL DIA",LMP  20:30 Naranjeros de Hermosillo vs Jaguares de Nayarit
-http://ecuazona.live:8080/live/Shirley20/Shirley20/1054080.m3u8
 
 # --- ⭐ | NETFLIX CINEMA (12) ---
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/andro4all/hero/2023/03/netflix-png.1679383505.1312.png?width=1200" group-title="⭐ | NETFLIX CINEMA",✨24/7 MOV NETFLIX KIDS (01)
@@ -7293,4 +7179,4 @@ http://ecuazona.live:8080/live/Shirley20/Shirley20/871822.m3u8
 #EXTINF:-1 tvg-logo="http://wolkplay.com:80/images/xEvaOFQbbArDVATVOes4SCNT2AwVOINR3fEWR7_9mINP3iqHNreI7mzJhmkHc16K4Uu2_ayBmdoLco9Kup6MoHCbhP8bAtU8V8qhThTy4HlazFx2qdQesOCHpA9a4YKSYnWDOTT3E5A5njgPuLthoA.jpg" group-title="⭐️ | HBO CINEMA",✨24/7 MOVIES HBO (22)
 http://ecuazona.live:8080/live/Shirley20/Shirley20/871823.m3u8
 
-# Total: 3538
+# Total: 3483

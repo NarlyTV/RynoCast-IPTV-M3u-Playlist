@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: com.trt1000.com:80
-# Generated: 2026-01-22 07:11:31
+# Generated: 2026-01-22 18:33:17
 # Expires: 2027-01-09
 # Family Safe Edition
 # ==============================================
@@ -748,7 +748,7 @@ http://com.trt1000.com:80/live/kayaciahmet/08012023bas/40864.m3u8
 http://com.trt1000.com:80/live/kayaciahmet/08012023bas/40865.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GERMANY LIVE",DISNEY XD
 http://com.trt1000.com:80/live/kayaciahmet/08012023bas/28585.m3u8
-#EXTINF:-1 tvg-logo="" group-title="GERMANY LIVE",DISNEY JUNIOR
+#EXTINF:-1 tvg-logo="" group-title="GERMANY LIVE",DISNEY XD++
 http://com.trt1000.com:80/live/kayaciahmet/08012023bas/28586.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GERMANY LIVE",DISNEY JUNIOR +
 http://com.trt1000.com:80/live/kayaciahmet/08012023bas/40868.m3u8
@@ -997,7 +997,7 @@ http://com.trt1000.com:80/live/kayaciahmet/08012023bas/64724.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GERMANY SPORT",DE:  AMZN PRME EVNT 2
 http://com.trt1000.com:80/live/kayaciahmet/08012023bas/64725.m3u8
 
-# --- TURK SPOR (78) ---
+# --- TURK SPOR (77) ---
 #EXTINF:-1 tvg-logo="" group-title="TURK SPOR",HUZUR
 http://com.trt1000.com:80/live/kayaciahmet/08012023bas/60705.m3u8
 #EXTINF:-1 tvg-logo="http://logo-chanell.dyndns.tv:40200/logo-chanel/ates.png" group-title="TURK SPOR",SOMINE KEYFI
@@ -1152,8 +1152,6 @@ http://com.trt1000.com:80/live/kayaciahmet/08012023bas/44451.m3u8
 http://com.trt1000.com:80/live/kayaciahmet/08012023bas/44452.m3u8
 #EXTINF:-1 tvg-logo="http://logo-chanell.dyndns.tv:40200/logo-chanel/BS.PNG" group-title="TURK SPOR",L.G CONNECT 5
 http://com.trt1000.com:80/live/kayaciahmet/08012023bas/44453.m3u8
-#EXTINF:-1 tvg-logo="http://logo-chanell.dyndns.tv:40200/logo-chanel/BS.PNG" group-title="TURK SPOR",L.G CONNECT 6
-http://com.trt1000.com:80/live/kayaciahmet/08012023bas/44454.m3u8
 
 # --- Unknown (8) ---
 #EXTINF:-1 tvg-logo="" group-title="Unknown",TR: KRAL FM
@@ -1173,4 +1171,4 @@ http://com.trt1000.com:80/live/kayaciahmet/08012023bas/32345.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Unknown",TR: ALEM FM
 http://com.trt1000.com:80/live/kayaciahmet/08012023bas/32347.m3u8
 
-# Total: 573
+# Total: 572

@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: awsxxscore.uk:8080
-# Generated: 2026-01-20 18:35:12
+# Generated: 2026-01-22 18:33:04
 # Expires: 2026-04-25
 # Family Safe Edition
 # ==============================================
@@ -160,6 +160,16 @@ http://awsxxscore.uk:8080/live/Troaca_Viorica/kH5eCv3f6Bam/33.m3u8
 http://awsxxscore.uk:8080/live/Troaca_Viorica/kH5eCv3f6Bam/172410.m3u8
 #EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/digi_sport_4.png" group-title="⭐ROMANIA",DIGI SPORT 4 FHD
 http://awsxxscore.uk:8080/live/Troaca_Viorica/kH5eCv3f6Bam/35.m3u8
+#EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/eurosport_1.png" group-title="⭐ROMANIA",EUROSPORT 1 FHD
+http://awsxxscore.uk:8080/live/Troaca_Viorica/kH5eCv3f6Bam/45.m3u8
+#EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/eurosport_1.png" group-title="⭐ROMANIA",EUROSPORT 1 SD
+http://awsxxscore.uk:8080/live/Troaca_Viorica/kH5eCv3f6Bam/46.m3u8
+#EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/eurosport_2.png" group-title="⭐ROMANIA",EUROSPORT 2 FHD
+http://awsxxscore.uk:8080/live/Troaca_Viorica/kH5eCv3f6Bam/47.m3u8
+#EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/eurosport_2.png" group-title="⭐ROMANIA",EUROSPORT 2 SD
+http://awsxxscore.uk:8080/live/Troaca_Viorica/kH5eCv3f6Bam/48.m3u8
+#EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/eurosport_4k.png" group-title="⭐ROMANIA",EUROSPORT 4K
+http://awsxxscore.uk:8080/live/Troaca_Viorica/kH5eCv3f6Bam/266.m3u8
 #EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/fightbox.png" group-title="⭐ROMANIA",FIGHTBOX FHD
 http://awsxxscore.uk:8080/live/Troaca_Viorica/kH5eCv3f6Bam/209382.m3u8
 #EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/motorvision_plus.png" group-title="⭐ROMANIA",MOTORVISION+ FHD
@@ -1050,15 +1060,5 @@ http://awsxxscore.uk:8080/live/Troaca_Viorica/kH5eCv3f6Bam/134883.m3u8
 http://awsxxscore.uk:8080/live/Troaca_Viorica/kH5eCv3f6Bam/111281.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kXdwSw5d/GOLD.png" group-title="⭐ROMANIA",GOLD HORROR 2 FHD
 http://awsxxscore.uk:8080/live/Troaca_Viorica/kH5eCv3f6Bam/135155.m3u8
-#EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/eurosport_1.png" group-title="⭐ROMANIA",EUROSPORT 1 FHD
-http://awsxxscore.uk:8080/live/Troaca_Viorica/kH5eCv3f6Bam/45.m3u8
-#EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/eurosport_1.png" group-title="⭐ROMANIA",EUROSPORT 1 SD
-http://awsxxscore.uk:8080/live/Troaca_Viorica/kH5eCv3f6Bam/46.m3u8
-#EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/eurosport_2.png" group-title="⭐ROMANIA",EUROSPORT 2 FHD
-http://awsxxscore.uk:8080/live/Troaca_Viorica/kH5eCv3f6Bam/47.m3u8
-#EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/eurosport_2.png" group-title="⭐ROMANIA",EUROSPORT 2 SD
-http://awsxxscore.uk:8080/live/Troaca_Viorica/kH5eCv3f6Bam/48.m3u8
-#EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/eurosport_4k.png" group-title="⭐ROMANIA",EUROSPORT 4K
-http://awsxxscore.uk:8080/live/Troaca_Viorica/kH5eCv3f6Bam/266.m3u8
 
 # Total: 525

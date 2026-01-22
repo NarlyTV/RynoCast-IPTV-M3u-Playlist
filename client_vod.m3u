@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: client.newborntv.xyz:88
-# Generated: 2026-01-22 07:22:02
+# Generated: 2026-01-22 18:32:20
 # Expires: 2026-02-22
 # Family Safe Edition
 # ==============================================
@@ -8983,7 +8983,11 @@ http://client.newborntv.xyz:88/movie/khFzEWQn/fP85XcC7E/97774.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mgsuykSOauo485poG3CNmn3EwY7.jpg" group-title="Movies | VOD DE",10 Tage eines neugierigen Mannes (2024)
 http://client.newborntv.xyz:88/movie/khFzEWQn/fP85XcC7E/97773.mkv
 
-# --- Movies | VOD FR (570) ---
+# --- Movies | VOD FR (569) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4JuDIlhJ8wDp8d2icbwOKS64KUr.jpg" group-title="Movies | VOD FR",The Home (2025)
+http://client.newborntv.xyz:88/movie/khFzEWQn/fP85XcC7E/115219.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7eO8JlexvT8uyqBVdsPcbk3CE7a.jpg" group-title="Movies | VOD FR",Submersion (2025)
+http://client.newborntv.xyz:88/movie/khFzEWQn/fP85XcC7E/115218.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eU1iuYCeba88kNYv9KxOFqBE3io.jpg" group-title="Movies | VOD FR",Kidnapping maison (2025)
 http://client.newborntv.xyz:88/movie/khFzEWQn/fP85XcC7E/115217.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6NugNYN0Q2VUwYh3JwtVYPQFfHX.jpg" group-title="Movies | VOD FR",Dis-le-moi tout bas (2025)
@@ -8992,18 +8996,12 @@ http://client.newborntv.xyz:88/movie/khFzEWQn/fP85XcC7E/115216.mkv
 http://client.newborntv.xyz:88/movie/khFzEWQn/fP85XcC7E/115215.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ph0MJbmQACNTXbfu9Of8DzKbPYg.jpg" group-title="Movies | VOD FR",Primadonna or Nothing (2025)
 http://client.newborntv.xyz:88/movie/khFzEWQn/fP85XcC7E/115214.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/20lz5Ld3ulxVPQTX5p9DvD1hgk1.jpg" group-title="Movies | VOD FR",Sniper: The Last Stand (2025)
-http://client.newborntv.xyz:88/movie/khFzEWQn/fP85XcC7E/115213.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5zShXWMi5f4Cb883DnQbrpPZYIN.jpg" group-title="Movies | VOD FR",Sisu : Le Chemin de la vengeance (2025)
 http://client.newborntv.xyz:88/movie/khFzEWQn/fP85XcC7E/115212.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rmoaCJYM2qVYL2LfJmQCkiEwMl.jpg" group-title="Movies | VOD FR",Red Sonja (2025)
 http://client.newborntv.xyz:88/movie/khFzEWQn/fP85XcC7E/115211.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xIwzeCCShj5N8dSHPDMkKvzi1Al.jpg" group-title="Movies | VOD FR",Osiris (2025)
 http://client.newborntv.xyz:88/movie/khFzEWQn/fP85XcC7E/115210.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a451h9T8FGFesCy6CXHKkzGL64e.jpg" group-title="Movies | VOD FR",Un diadème pour Caro (2025)
-http://client.newborntv.xyz:88/movie/khFzEWQn/fP85XcC7E/115209.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zfyMO2tOwicucKVtNBA6Gdv5KJ2.jpg" group-title="Movies | VOD FR",Folklore Moderne (2025)
-http://client.newborntv.xyz:88/movie/khFzEWQn/fP85XcC7E/115207.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e08WqjLKqcw6HqHK9QlH0XGxyGb.jpg" group-title="Movies | VOD FR",Les Orphelins (2025)
 http://client.newborntv.xyz:88/movie/khFzEWQn/fP85XcC7E/115185.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nTBVcWzrO2dbvt8nJYnmPm2kkW1.jpg" group-title="Movies | VOD FR",Le Roi Soleil (2025)
@@ -12205,4 +12203,4 @@ http://client.newborntv.xyz:88/series/khFzEWQn/fP85XcC7E/248
 #EXTINF:-1 tvg-logo="" group-title="Series | Netflix Series",Squid Game: The Challenge
 http://client.newborntv.xyz:88/series/khFzEWQn/fP85XcC7E/247
 
-# Total: 6069
+# Total: 6068

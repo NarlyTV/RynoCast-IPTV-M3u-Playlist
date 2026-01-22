@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: squid.game-tv.org:8080
-# Generated: 2026-01-22 07:12:54
+# Generated: 2026-01-22 18:42:49
 # Expires: 2026-04-17
 # Family Safe Edition
 # ==============================================
@@ -5905,7 +5905,13 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/14154.mp
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/qndubIQalyxBJI5EBNZKGXEX74q.jpg" group-title="Movies | Filme 2024",Y2K (2024)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/48365.mp4
 
-# --- Movies | Filme 2025 (622) ---
+# --- Movies | Filme 2025 (625) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ArDLn658OjT3dMThIi4GDQJRuY3.jpg" group-title="Movies | Filme 2025",Truth & Treason - 2025
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/67201.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5WtE3XOgnYRkB5vagppTX9TdUOj.jpg" group-title="Movies | Filme 2025",The Orphans - 2025
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/67200.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b0oS5FReEJ3rhGzGKY16Qz0Q7w1.jpg" group-title="Movies | Filme 2025",The Last One for the Road - 2025
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/67199.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/94HFrSbCqKpM5vUo3AqmNO9Mpjf.jpg" group-title="Movies | Filme 2025",Vecina - 2025
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/67196.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pDWYW9v8fmJdA7N0I1MOdQA3ETq.jpg" group-title="Movies | Filme 2025",The SpongeBob Movie: Search for SquarePants (2025)
@@ -18969,6 +18975,10 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/235.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | The Last Don II",The Last Don II
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/236.mp4
 
+# --- Movies | The Last Frontier (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | The Last Frontier",The Last Frontier (2025)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1160.mp4
+
 # --- Movies | The Last Kingdom (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | The Last Kingdom",The Last Kingdom
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/165.mp4
@@ -19791,4 +19801,4 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/383.mp4
 #EXTINF:-1 tvg-logo="" group-title="Series | A Series of Unfortunate Events",A Series of Unfortunate Events
 http://squid.game-tv.org:8080/series/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/276
 
-# Total: 8701
+# Total: 8705
