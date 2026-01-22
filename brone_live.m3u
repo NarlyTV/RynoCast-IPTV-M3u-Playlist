@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: brone.fyi
-# Generated: 2026-01-21 18:41:40
+# Generated: 2026-01-22 07:21:59
 # Expires: 2026-02-18
 # Family Safe Edition
 # ==============================================
@@ -501,6 +501,10 @@ http://brone.fyi/live/felipe_irma/Teste44/297798.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BAND",BAND TVBV SC FHD
 http://brone.fyi/live/felipe_irma/Teste44/320516.m3u8
 
+# --- BBB 2026 (1) ---
+#EXTINF:-1 tvg-logo="https://marcasmais.com.br/wp-content/uploads/2023/01/bbb_23-1024x576.png" group-title="BBB 2026",BBB MOSAICO (ALT 2)
+http://brone.fyi/live/felipe_irma/Teste44/332926.m3u8
+
 # --- CANADA (135) ---
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/internacionais/canada.png" group-title="CANADA",CA: A&E HD
 http://brone.fyi/live/felipe_irma/Teste44/277401.m3u8
@@ -919,7 +923,7 @@ http://brone.fyi/live/felipe_irma/Teste44/308222.m3u8
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/streaming/netflix.png" group-title="COMBATE | +FIGHT",NETFLIX (ALT 2)
 http://brone.fyi/live/felipe_irma/Teste44/320455.m3u8
 
-# --- COPINHA 2026 (27) ---
+# --- COPINHA 2026 (28) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/27/Copinha-2026.png?20260102193020" group-title="COPINHA 2026",COPINHA 01
 http://brone.fyi/live/felipe_irma/Teste44/332210.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/27/Copinha-2026.png?20260102193020" group-title="COPINHA 2026",COPINHA 02
@@ -974,6 +978,8 @@ http://brone.fyi/live/felipe_irma/Teste44/332816.m3u8
 http://brone.fyi/live/felipe_irma/Teste44/332818.m3u8
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/streaming/nsportshd.png" group-title="COPINHA 2026",NSPORTS YTB 02
 http://brone.fyi/live/felipe_irma/Teste44/332819.m3u8
+#EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/abertos/tvehd.png" group-title="COPINHA 2026",TVE BAHIA
+http://brone.fyi/live/felipe_irma/Teste44/332927.m3u8
 
 # --- DESENHOS 24H (213) ---
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/especiais/24hd.png" group-title="DESENHOS 24H",[24H] 101 DALMATAS
@@ -7943,4 +7949,4 @@ http://brone.fyi/live/felipe_irma/Teste44/327934.m3u8
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/especiais/24hd.png" group-title="VARIEDADES 24H",[24H] YOGA
 http://brone.fyi/live/felipe_irma/Teste44/328699.m3u8
 
-# Total: 3918
+# Total: 3920

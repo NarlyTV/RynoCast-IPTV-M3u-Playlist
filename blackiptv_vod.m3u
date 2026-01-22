@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: blackiptv.net:8080
-# Generated: 2026-01-21 18:38:25
+# Generated: 2026-01-22 07:17:18
 # Expires: 2026-12-21
 # Family Safe Edition
 # ==============================================
@@ -9771,7 +9771,9 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1870.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ ALL",DE: Weiss & Morales (2025)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1871.mp4
 
-# --- Movies | DE/SERIE ~ AMAZON PRIME (26) ---
+# --- Movies | DE/SERIE ~ AMAZON PRIME (27) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ AMAZON PRIME",Steal (2026)
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1937.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ AMAZON PRIME",Die rote Königin (2024)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1206.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ AMAZON PRIME",Peripherie (2022)
@@ -9997,7 +9999,9 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1551.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ MARVEL",Agatha All Along (2024)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1567.mp4
 
-# --- Movies | DE/SERIE ~ NETFLIX (77) ---
+# --- Movies | DE/SERIE ~ NETFLIX (78) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ NETFLIX",Diplomatische Beziehungen (2023)
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1930.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ NETFLIX",ONE PIECE (2023)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1109.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ NETFLIX",How to Sell Drugs Online (Fast) (2019)
@@ -10803,7 +10807,17 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/23.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ ALL",Aska Mahkum (2025)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1618.mp4
 
-# --- Movies | TR/DIZI ~ AMAZON PRIME (66) ---
+# --- Movies | TR/DIZI ~ AMAZON PRIME (71) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ AMAZON PRIME",Soygun (2026)
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1936.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ AMAZON PRIME",Suits LA (2025)
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1935.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ AMAZON PRIME",Gece Müdürü (2016)
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1934.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ AMAZON PRIME",Hyper Knife (2025)
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1933.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ AMAZON PRIME",A Knight of the Seven Kingdoms (2026)
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1932.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ AMAZON PRIME",Fleabag (2016)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1924.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ AMAZON PRIME",Luther (2010)
@@ -10988,11 +11002,11 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1318.mp4
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1834.mp4
 
 # --- Movies | TR/DIZI ~ CARSAMBA (4) ---
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pYr58J7eePyXbUpUA9jhxPsabum.jpg" group-title="Movies | TR/DIZI ~ CARSAMBA",CAR: Esref Ruya 28.Bölüm
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pYr58J7eePyXbUpUA9jhxPsabum.jpg" group-title="Movies | TR/DIZI ~ CARSAMBA",CAR: Esref Ruya 29.Bölüm
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/44385.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k1FZ5cpY9kDaHrVpCFlZTlkcCkP.jpg" group-title="Movies | TR/DIZI ~ CARSAMBA",CAR: Sahipsizler 44.Bölüm
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k1FZ5cpY9kDaHrVpCFlZTlkcCkP.jpg" group-title="Movies | TR/DIZI ~ CARSAMBA",CAR: Sahipsizler 45.Bölüm
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/377.mp4
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1kEgzEvhJmw5eSxuGwn0o1cgHlK.jpg" group-title="Movies | TR/DIZI ~ CARSAMBA",CAR: Kurulus Orhan 10.Bölüm  (YENI DIZI)
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1kEgzEvhJmw5eSxuGwn0o1cgHlK.jpg" group-title="Movies | TR/DIZI ~ CARSAMBA",CAR: Kurulus Orhan 11.Bölüm  (YENI DIZI)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/5148.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/azacGGRNAp3tRO197rEznDTdg7s.jpg" group-title="Movies | TR/DIZI ~ CARSAMBA",CAR: Sakincali  5.Bölüm (YENI DIZI)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/38136.mkv
@@ -11701,7 +11715,9 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1637.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ HBO MAX/BLUTV",The Chair Company (2025)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1658.mp4
 
-# --- Movies | TR/DIZI ~ NETFLIX (DUAL) (470) ---
+# --- Movies | TR/DIZI ~ NETFLIX (DUAL) (471) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ NETFLIX (DUAL)",Norsemen (2016)
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1931.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ NETFLIX (DUAL)",Büyük İskender Nasıl Büyük Oldu? (2024)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1928.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ NETFLIX (DUAL)",Control Z (2020)
@@ -20825,4 +20841,4 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/63372.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t8EQllq34VC5mooiJw1vVFOlM4x.jpg" group-title="Movies | TR/FILM ~ YILBASI ÖZEL",O Ses Türkiye  Yilbasi Özel 2025
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/54778.mp4
 
-# Total: 10264
+# Total: 10272

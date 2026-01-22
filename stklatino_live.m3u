@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: stklatino.dynns.com:2082
-# Generated: 2026-01-21 18:38:55
+# Generated: 2026-01-22 07:12:19
 # Expires: 2026-05-11
 # Family Safe Edition
 # ==============================================
@@ -1628,6 +1628,8 @@ http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/5600.m3u8
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/5601.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wvc3v6Lq/espn3.png" group-title="DEPORTES",ES*PN ARG 3 HD
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/31026.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/ESPN_Premium_%28red_and_white%29_2022.png" group-title="DEPORTES",Es*pn Premium Argentina
+http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/6463.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/ESPN_Premium_%28red_and_white%29_2022.png" group-title="DEPORTES",Es*pn Premium Argentina HD
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/3085.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Dfcvzc3w/61a4c896fc740bb1476f0225-LOGO-ESPN4-2.png" group-title="DEPORTES",ES*PN 4
@@ -1912,12 +1914,10 @@ http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/36.m3u8
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/123399.m3u8
 #EXTINF:-1 tvg-logo="https://espnpressroom.com/us/files/2011/04/RS1129_ESPN_Deportes_CLR_Pos-scr.jpg" group-title="DEPORTES",ES*PN Deportes
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/130533.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/ESPN_Premium_%28red_and_white%29_2022.png" group-title="DEPORTES",Es*pn Premium Argentina
-http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/6463.m3u8
 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/bandsports.png" group-title="DEPORTES",Band Sports
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/5190.m3u8
 
-# --- DEPORTES PREMIUM (24) ---
+# --- DEPORTES PREMIUM (23) ---
 #EXTINF:-1 tvg-logo="https://auvaromaia.com/wp-content/uploads/2024/10/Max-e-TNT-900x333.png" group-title="DEPORTES PREMIUM",TNT SPORTS MAX
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/57153.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sp4wTqb/descarga.png" group-title="DEPORTES PREMIUM",TNT CHILE PREMIUM SD
@@ -1936,8 +1936,6 @@ http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/57108.m3u8
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/57133.m3u8
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/168/253/png-clipart-disney-logo-tech-companies.png" group-title="DEPORTES PREMIUM",DISNEY+
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/56934.m3u8
-#EXTINF:-1 tvg-logo="https://assets.diarioconcepcion.cl/2024/02/Liga-2D.jpg" group-title="DEPORTES PREMIUM",LIGA 2D & DISNEY+
-http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/76785.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/images/t/x/1/xmovistar-la-liga.jpg.pagespeed.ic.ms2Jjy3cbG.jpg" group-title="DEPORTES PREMIUM",LIGA MOVIST
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/76981.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J7gQ1JJW/D1.png" group-title="DEPORTES PREMIUM",DIRECTV SPORTS
@@ -16677,4 +16675,4 @@ http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/54866.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/520_Venevision.png" group-title="VENEZUELA",Venevision
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/2429.m3u8
 
-# Total: 8303
+# Total: 8302
