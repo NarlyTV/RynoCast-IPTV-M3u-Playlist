@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: uzay.pro:8080
-# Generated: 2026-01-22 07:17:20
+# Generated: 2026-01-23 07:07:00
 # Expires: 2026-04-13
 # Family Safe Edition
 # ==============================================
@@ -745,7 +745,7 @@ http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/11703.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Animation Serien",(DE-) DoReMi
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/11704.mp4
 
-# --- Movies | (S|DE) Deutsche Serien (1369) ---
+# --- Movies | (S|DE) Deutsche Serien (1370) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) 4 Blocks
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/274.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) American Horror Story
@@ -3484,6 +3484,8 @@ http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/11724.mp4
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/11741.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) Dharma & Greg
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/11782.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) Alle Lieben Raymond
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/11783.mp4
 
 # --- Movies | (V|AL) Filma (3292) ---
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/A5mQcSgBeML2OBQLCH6RXn7gNNy_big.jpg" group-title="Movies | (V|AL) Filma",(AL-) Unseen Enemy
@@ -12284,6 +12286,8 @@ http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/243352.mkv
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/255929.mkv
 
 # --- Movies | (V|DE) Filme (1170) ---
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/2mcdhj7a8PrlUkvTBeXq7Dv5eC1_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) The Green Inferno - 2013
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/661510.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/d4aTe8Ga4KS5vTjR5GGML0naFAy_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) Gesetz Der Rache - 2009
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/660874.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/iqd9I49CgbGLkoOk2bCH9uWSrc9_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) The Secret Man - 2017
@@ -14502,21 +14506,19 @@ http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/259534.mp4
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/259535.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/887EWUloOJyJha8rlQ2OAT5MdYm.jpg" group-title="Movies | (V|DE) Filme",(DE-) Terminator 5: Genisys - 2015
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/259536.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/crUUE14AROxNWsMdmyyqZNcUB6L.jpg" group-title="Movies | (V|DE) Filme",(DE-) Star Wars 1: Krieg Der Sterne - 1977
-http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/259659.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/3gf6BSpJziIgOSXIeFDcjfLnncM.jpg" group-title="Movies | (V|DE) Filme",(DE-) Star Wars 2: Das Imperium Schlägt Zurück - 1980
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/3gf6BSpJziIgOSXIeFDcjfLnncM.jpg" group-title="Movies | (V|DE) Filme",(DE-) Star Wars V: Das Imperium Schlägt Zurück - 1980
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/259660.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/nBCUkvi2IXYeRA7V7ZSsdetmgOB.jpg" group-title="Movies | (V|DE) Filme",(DE-) Star Wars 3: Die Rückkehr Der Jedi-Ritter - 1983
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/nBCUkvi2IXYeRA7V7ZSsdetmgOB.jpg" group-title="Movies | (V|DE) Filme",(DE-) Star Wars VI: Die Rückkehr Der Jedi-Ritter - 1983
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/259661.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/mxhaOjcX1BdWw26s6c8vcZeKqzj.jpg" group-title="Movies | (V|DE) Filme",(DE-) Star Wars 4: Die Dunkle Bedrohung - 1999
+#EXTINF:-1 tvg-logo="http://b2f98pkgl.11121367.xyz:8080/images/6wkfovpn7Eq8dYNKaG5PY3q2oq6_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) Star Wars: Episode I: Die dunkle Bedrohung - 1999
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/259662.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/zPVqU4O2XtDzy9Adva0CBX6PoJc.jpg" group-title="Movies | (V|DE) Filme",(DE-) Star Wars 5: Angriff Der Klonkrieger  - 2002
+#EXTINF:-1 tvg-logo="http://b2f98pkgl.11121367.xyz:8080/images/oZNPzxqM2s5DyVWab09NTQScDQt_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) Star Wars: Episode II: Angriff der Klonkrieger - 2002
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/259663.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/nvYfX1KsUi3ajgtFhcZ2BQxVWq3.jpg" group-title="Movies | (V|DE) Filme",(DE-) Star Wars 6: Die Rache Der Sith - 2005
+#EXTINF:-1 tvg-logo="http://b2f98pkgl.11121367.xyz:8080/images/xfSAoBEm9MNBjmlNcDYLvLSMlnq_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) Star Wars: Episode III: Die Rache der Sith  - 2005
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/259664.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/gV2bG8dPbxaUMllgRxCj0MMsYGw.jpg" group-title="Movies | (V|DE) Filme",(DE-) Star Wars 7: Das Erwachen Der Macht - 2015
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/gV2bG8dPbxaUMllgRxCj0MMsYGw.jpg" group-title="Movies | (V|DE) Filme",(DE-) Star Wars VII: Das Erwachen Der Macht - 2015
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/259665.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/cBRoeauknmTrcmv7jAbFKluOtSV.jpg" group-title="Movies | (V|DE) Filme",(DE-) Star Wars 8: Die Letzten Jedi - 2017
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/cBRoeauknmTrcmv7jAbFKluOtSV.jpg" group-title="Movies | (V|DE) Filme",(DE-) Star Wars VIII: Die Letzten Jedi - 2017
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/259666.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/gucv9gRRnVFDyqeIS1KC7irnX0b.jpg" group-title="Movies | (V|DE) Filme",(DE-) The Transporter 3 - 2008
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/260048.mkv
@@ -23817,4 +23819,4 @@ http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/248353.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | Unknown",(DE-) Anaon:  Hüter Der Nacht
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/10625.mp4
 
-# Total: 11883
+# Total: 11884

@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: world-service.us:8080
-# Generated: 2026-01-22 18:39:58
+# Generated: 2026-01-23 07:15:10
 # Expires: 2026-02-19
 # Family Safe Edition
 # ==============================================
@@ -1041,26 +1041,24 @@ http://world-service.us:8080/live/giovanmer/merante/17286.m3u8
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/musica.png" group-title="MUSICA",LuongeMusicTV Italia 70 live
 http://world-service.us:8080/live/giovanmer/merante/17260.m3u8
 
-# --- PRIMAFILA (10) ---
+# --- PRIMAFILA (9) ---
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/italians.jpg" group-title="PRIMAFILA",=======PRIMAFILA=======
 http://world-service.us:8080/live/giovanmer/merante/6878.m3u8
-#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/288a544ae17819be978179436ee68cd0.png" group-title="PRIMAFILA",PRIMAFILA 2HD  TRON Ares (2025)
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/288a544ae17819be978179436ee68cd0.png" group-title="PRIMAFILA",PRIMAFILA 2HD  Un film fatto per Bene (2025)
 http://world-service.us:8080/live/giovanmer/merante/6879.m3u8
-#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/288a544ae17819be978179436ee68cd0.png" group-title="PRIMAFILA",PRIMAFILA 4HD Trap House (2025)
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/288a544ae17819be978179436ee68cd0.png" group-title="PRIMAFILA",PRIMAFILA 4HD Reinas (2024)
 http://world-service.us:8080/live/giovanmer/merante/6881.m3u8
-#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/288a544ae17819be978179436ee68cd0.png" group-title="PRIMAFILA",PRIMAFILA 6HD The Accountant 2 (2025)
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/288a544ae17819be978179436ee68cd0.png" group-title="PRIMAFILA",PRIMAFILA 6HD L illusione perfetta Now You See Me Now You Don't (2025)
 http://world-service.us:8080/live/giovanmer/merante/6884.m3u8
-#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/288a544ae17819be978179436ee68cd0.png" group-title="PRIMAFILA",PRIMAFILA 8HD  Predator Badlands (2025)
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/288a544ae17819be978179436ee68cd0.png" group-title="PRIMAFILA",PRIMAFILA 8HD   Natural Disaster (2005)
 http://world-service.us:8080/live/giovanmer/merante/6885.m3u8
-#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/288a544ae17819be978179436ee68cd0.png" group-title="PRIMAFILA",PRIMAFILA 10HD  Mission Impossible The Final Reckoning (2025
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/288a544ae17819be978179436ee68cd0.png" group-title="PRIMAFILA",PRIMAFILA 10HD  Dangerous Game (2020)
 http://world-service.us:8080/live/giovanmer/merante/6886.m3u8
-#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/288a544ae17819be978179436ee68cd0.png" group-title="PRIMAFILA",PRIMAFILA 12HD Ice Road La vendetta (2025)
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/288a544ae17819be978179436ee68cd0.png" group-title="PRIMAFILA",PRIMAFILA 12HD il caso Elizabeth Smart (2026)
 http://world-service.us:8080/live/giovanmer/merante/6889.m3u8
-#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/288a544ae17819be978179436ee68cd0.png" group-title="PRIMAFILA",PRIMAFILA 14HD Duse (2025)
-http://world-service.us:8080/live/giovanmer/merante/6891.m3u8
-#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/288a544ae17819be978179436ee68cd0.png" group-title="PRIMAFILA",PRIMAFILA 16HD  Captain America Brave New World (2025)
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/288a544ae17819be978179436ee68cd0.png" group-title="PRIMAFILA",PRIMAFILA 16HD  Dalle ceneri 2 La voragine
 http://world-service.us:8080/live/giovanmer/merante/56390.m3u8
-#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/288a544ae17819be978179436ee68cd0.png" group-title="PRIMAFILA",PRIMAFILA 18HD   Azrael L'angelo della morte (2024)
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/288a544ae17819be978179436ee68cd0.png" group-title="PRIMAFILA",PRIMAFILA 18HD  Cosmic Princess Kaguya! (2026)
 http://world-service.us:8080/live/giovanmer/merante/56392.m3u8
 
 # --- RaiMediasetPlus (5) ---
@@ -1723,4 +1721,4 @@ http://world-service.us:8080/live/giovanmer/merante/65388.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV_SPAGNA",ES: NICKELODEON HD
 http://world-service.us:8080/live/giovanmer/merante/65389.m3u8
 
-# Total: 824
+# Total: 823

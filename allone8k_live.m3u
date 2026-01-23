@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: allone8k.info:8080
-# Generated: 2026-01-22 18:31:07
+# Generated: 2026-01-23 07:15:08
 # Expires: 2026-02-28
 # Family Safe Edition
 # ==============================================
@@ -3899,7 +3899,7 @@ http://allone8k.info:8080/live/mai/mai1234/141288.m3u8
 #EXTINF:-1 tvg-logo="http://139.99.250.54/ActiveCode-Panel/Photo/Groups/UEFA-Nations-League.png" group-title="AR | INTERNATIONAL SPORTS 4K",SPO: Sport TV 5 HD (PT)
 http://allone8k.info:8080/live/mai/mai1234/141289.m3u8
 
-# --- AR | IRAQ 4K | العراق (64) ---
+# --- AR | IRAQ 4K | العراق (62) ---
 #EXTINF:-1 tvg-logo="https://www.alnahrain.com/templates/default/assets/images/black-logo.png" group-title="AR | IRAQ 4K | العراق",IRQ : Al Nahrain TV
 http://allone8k.info:8080/live/mai/mai1234/606076.m3u8
 #EXTINF:-1 tvg-logo="http://139.99.250.54/ActiveCode-Panel/Photo/Groups/IRAQ.FLAG.png" group-title="AR | IRAQ 4K | العراق",IRQ: Iraqia TV 4K العراقية
@@ -3918,8 +3918,6 @@ http://allone8k.info:8080/live/mai/mai1234/444579.m3u8
 http://allone8k.info:8080/live/mai/mai1234/444583.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/%D8%B4%D8%B9%D8%A7%D8%B1_%D9%82%D9%86%D8%A7%D8%A9_%D8%A7%D9%84%D8%B1%D8%A7%D8%A8%D8%B9%D8%A9.svg/400px-%D8%B4%D8%B9%D8%A7%D8%B1_%D9%82%D9%86%D8%A7%D8%A9_%D8%A7%D9%84%D8%B1%D8%A7%D8%A8%D8%B9%D8%A9.svg.png?20240414131431" group-title="AR | IRAQ 4K | العراق",AL RABIAA SPORT 2
 http://allone8k.info:8080/live/mai/mai1234/444584.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/%D8%B4%D8%B9%D8%A7%D8%B1_%D9%82%D9%86%D8%A7%D8%A9_%D8%A7%D9%84%D8%B1%D8%A7%D8%A8%D8%B9%D8%A9.svg/400px-%D8%B4%D8%B9%D8%A7%D8%B1_%D9%82%D9%86%D8%A7%D8%A9_%D8%A7%D9%84%D8%B1%D8%A7%D8%A8%D8%B9%D8%A9.svg.png?20240414131431" group-title="AR | IRAQ 4K | العراق",AL RABIAA SPORT 1 +
-http://allone8k.info:8080/live/mai/mai1234/444585.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/%D8%B4%D8%B9%D8%A7%D8%B1_%D9%82%D9%86%D8%A7%D8%A9_%D8%A7%D9%84%D8%B1%D8%A7%D8%A8%D8%B9%D8%A9.svg/400px-%D8%B4%D8%B9%D8%A7%D8%B1_%D9%82%D9%86%D8%A7%D8%A9_%D8%A7%D9%84%D8%B1%D8%A7%D8%A8%D8%B9%D8%A9.svg.png?20240414131431" group-title="AR | IRAQ 4K | العراق",Al Rabiaa Series
 http://allone8k.info:8080/live/mai/mai1234/444586.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AR | IRAQ 4K | العراق",IRQ: IRAQI TV HD العراقية
@@ -3980,8 +3978,6 @@ http://allone8k.info:8080/live/mai/mai1234/297346.m3u8
 http://allone8k.info:8080/live/mai/mai1234/297347.m3u8
 #EXTINF:-1 tvg-logo="http://139.99.250.54/ActiveCode-Panel/Photo/Groups/IRAQ.FLAG.png" group-title="AR | IRAQ 4K | العراق",IRQ: Iraq 24 4K
 http://allone8k.info:8080/live/mai/mai1234/297348.m3u8
-#EXTINF:-1 tvg-logo="http://139.99.250.54/ActiveCode-Panel/Photo/Groups/IRAQ.FLAG.png" group-title="AR | IRAQ 4K | العراق",IRQ: Al Hurra Iraq HD
-http://allone8k.info:8080/live/mai/mai1234/297349.m3u8
 #EXTINF:-1 tvg-logo="http://139.99.250.54/ActiveCode-Panel/Photo/Groups/IRAQ.FLAG.png" group-title="AR | IRAQ 4K | العراق",IRQ: Al Rabiaa TV 4K الرابعة
 http://allone8k.info:8080/live/mai/mai1234/297355.m3u8
 #EXTINF:-1 tvg-logo="http://139.99.250.54/ActiveCode-Panel/Photo/Groups/IRAQ.FLAG.png" group-title="AR | IRAQ 4K | العراق",IRQ: Al TaghierHD
@@ -18139,4 +18135,4 @@ http://allone8k.info:8080/live/mai/mai1234/453199.m3u8
 #EXTINF:-1 tvg-logo="" group-title="مهم",mbc masr test
 http://allone8k.info:8080/live/mai/mai1234/473269.m3u8
 
-# Total: 8860
+# Total: 8858

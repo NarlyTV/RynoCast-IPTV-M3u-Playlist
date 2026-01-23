@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: premiumstvs.net:8080
-# Generated: 2026-01-22 18:40:03
+# Generated: 2026-01-23 07:17:56
 # Expires: 2026-02-22
 # Family Safe Edition
 # ==============================================
@@ -8983,7 +8983,13 @@ http://premiumstvs.net:8080/movie/khFzEWQn/fP85XcC7E/97774.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mgsuykSOauo485poG3CNmn3EwY7.jpg" group-title="Movies | VOD DE",10 Tage eines neugierigen Mannes (2024)
 http://premiumstvs.net:8080/movie/khFzEWQn/fP85XcC7E/97773.mkv
 
-# --- Movies | VOD FR (569) ---
+# --- Movies | VOD FR (572) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jRuiKL4S9UpLma2ZlM47xIu2gbe.jpg" group-title="Movies | VOD FR",Turbulence (2025)
+http://premiumstvs.net:8080/movie/khFzEWQn/fP85XcC7E/115223.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6y2QXF1tNVEpELPXS6XQEySlnI7.jpg" group-title="Movies | VOD FR",Tornado (2025)
+http://premiumstvs.net:8080/movie/khFzEWQn/fP85XcC7E/115222.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gcTioolbpuS3NyRyfKgltHSUCQ4.jpg" group-title="Movies | VOD FR",Mariage entre amis (2025)
+http://premiumstvs.net:8080/movie/khFzEWQn/fP85XcC7E/115220.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4JuDIlhJ8wDp8d2icbwOKS64KUr.jpg" group-title="Movies | VOD FR",The Home (2025)
 http://premiumstvs.net:8080/movie/khFzEWQn/fP85XcC7E/115219.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7eO8JlexvT8uyqBVdsPcbk3CE7a.jpg" group-title="Movies | VOD FR",Submersion (2025)
@@ -12203,4 +12209,4 @@ http://premiumstvs.net:8080/series/khFzEWQn/fP85XcC7E/248
 #EXTINF:-1 tvg-logo="" group-title="Series | Netflix Series",Squid Game: The Challenge
 http://premiumstvs.net:8080/series/khFzEWQn/fP85XcC7E/247
 
-# Total: 6068
+# Total: 6071

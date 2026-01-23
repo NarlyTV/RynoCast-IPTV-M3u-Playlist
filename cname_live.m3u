@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: cname.dino.ws:80
-# Generated: 2026-01-22 18:35:28
+# Generated: 2026-01-23 07:07:22
 # Expires: 2026-01-31
 # Family Safe Edition
 # ==============================================
@@ -9708,7 +9708,7 @@ http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/249865.m3u8
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/249875.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/249869.png" group-title="|AR| TUNISA",TN - CARTHAGE+
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/249869.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|AR| TUNISA",TN - MOSAIQUE FM TV
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/arabic/1343741.png" group-title="|AR| TUNISA",TN - MOSAIQUE FM TV
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1343741.m3u8
 #EXTINF:-1 tvg-logo="" group-title="|AR| TUNISA",Mosaïque FM
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/651420.m3u8
@@ -16420,9 +16420,9 @@ http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/750139.m3u8
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1142828.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SPORT-DEUTSCHLAND.png" group-title="|DE| SPORT DEUTSCHLAND PPV",DE: SPORT DEUTSCHLAND PPV 1 - NO EVENT STREAMING -
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1177699.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SPORT-DEUTSCHLAND.png" group-title="|DE| SPORT DEUTSCHLAND PPV",DE: SPORT DEUTSCHLAND PPV 2 - DIE PRESSEKONFERENZ VOR DEM WOCHENENDE SPIELTAG 38 UND 39 | Thu 22 Jan 10:55
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SPORT-DEUTSCHLAND.png" group-title="|DE| SPORT DEUTSCHLAND PPV",DE: SPORT DEUTSCHLAND PPV 2 - NO EVENT STREAMING -
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1177698.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SPORT-DEUTSCHLAND.png" group-title="|DE| SPORT DEUTSCHLAND PPV",DE: SPORT DEUTSCHLAND PPV 3 - NO EVENT STREAMING -
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SPORT-DEUTSCHLAND.png" group-title="|DE| SPORT DEUTSCHLAND PPV",DE: SPORT DEUTSCHLAND PPV 3 - JBL B-JUGEND: FÜCHSE BERLIN VS. SC DHFK LEIPZIG | Thu 22 Jan 17:25
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1177697.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SPORT-DEUTSCHLAND.png" group-title="|DE| SPORT DEUTSCHLAND PPV",DE: SPORT DEUTSCHLAND PPV 14 - NO EVENT STREAMING -
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1177696.m3u8
@@ -24338,11 +24338,11 @@ http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1075316.m3u8
 # --- |EU| SW MAX PPV (101) ---
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",####### MAX PPV #######
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1307816.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",SE: MAX PPV 1 - JAUME MUNAR - CASPER RUUD | Thu 22 Jan 11:19 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",SE: MAX PPV 1 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1307815.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",SE: MAX PPV 2 - AUSTRALIAN OPEN | COURTSIDE | Thu 22 Jan 12:55 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",SE: MAX PPV 2 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1307814.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",SE: MAX PPV 3 - NIKOLA BARTUNKOVÁ - BELINDA BENCIC | Thu 22 Jan 10:25 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",SE: MAX PPV 3 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1307813.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",SE: MAX PPV 4 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1307812.m3u8
@@ -24350,7 +24350,7 @@ http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1307812.m3u8
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1307811.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",SE: MAX PPV 6 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1307810.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",SE: MAX PPV 7 - ELENA RYBAKINA - VARVARA GRACHEVA | Thu 22 Jan 11:20 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",SE: MAX PPV 7 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1307809.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",SE: MAX PPV 8 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1307808.m3u8
@@ -24358,13 +24358,13 @@ http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1307808.m3u8
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1307807.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",SE: MAX PPV 10 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1307806.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",SE: MAX PPV 11 - T. KOKKINAKIS / N. KYRGIOS - J.  KUBLER / M. POLMANS | Thu 22 Jan 10:55 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",SE: MAX PPV 11 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1307805.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",SE: MAX PPV 12 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1307804.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",SE: MAX PPV 13 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1307803.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",SE: MAX PPV 14 - MULTIVIEW | Thu 22 Jan 01:00 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",SE: MAX PPV 14 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1307802.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",SE: MAX PPV 15 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1307801.m3u8
@@ -27790,11 +27790,11 @@ http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/988160.m3u8
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/988161.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/USA-FLAG.png" group-title="|NA| PPV LIVE EVENT",###### PPV LIVE EVENTS ######
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/994285.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/ppv.png" group-title="|NA| PPV LIVE EVENT",LIVE EVENT 01 - NO EVENT
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/ppv.png" group-title="|NA| PPV LIVE EVENT",LIVE EVENT 01 - 9AM US Street Nationals Brandenton
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/615651.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/ppv.png" group-title="|NA| PPV LIVE EVENT",LIVE EVENT 02 - NO EVENT
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/ppv.png" group-title="|NA| PPV LIVE EVENT",LIVE EVENT 02 - 3:45PM Volusia Late Models
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/615650.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/ppv.png" group-title="|NA| PPV LIVE EVENT",LIVE EVENT 03 - NO EVENT
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/ppv.png" group-title="|NA| PPV LIVE EVENT",LIVE EVENT 03 - 10pm Tuff N Uff 151
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/615649.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/ppv.png" group-title="|NA| PPV LIVE EVENT",LIVE EVENT 04 - NO EVENT
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/615648.m3u8
@@ -34812,7 +34812,7 @@ http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/660756.m3u8
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/660755.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nhlnetwork.jpg" group-title="|NA| USA NHL",NHL | 02 - 7pm Sabres @ Canadiens
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/660754.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nhlnetwork.jpg" group-title="|NA| USA NHL",Real Kyper & Bourne Jan 21 @ Jan 21 4:00 PM :Sportsnet+  07
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nhlnetwork.jpg" group-title="|NA| USA NHL",NHL: Dallas vs Columbus @ Jan 22 7:00 PM :Sportsnet+  07
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/660753.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nhlnetwork.jpg" group-title="|NA| USA NHL",NHL | 05 - 8pm Senators @ Predators
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/660751.m3u8
@@ -35632,19 +35632,19 @@ http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/891385.m3u8
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/891386.m3u8
 
 # --- |NL| ESPN PPV (50) ---
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png" group-title="|NL| ESPN PPV",NL: ESPN PPV 1 - TEKENGELD | Thu 22 Jan 12:00 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png" group-title="|NL| ESPN PPV",NL: ESPN PPV 1 - CBB: UAB VS SOUTH FLORIDA | Fri 23 Jan 00:00 | 8K EXCLUSIVE
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1317799.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png" group-title="|NL| ESPN PPV",NL: ESPN PPV 2 - NHL ON THE FLY | Thu 22 Jan 12:00 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png" group-title="|NL| ESPN PPV",NL: ESPN PPV 2 - ESPN VANDAAG | Fri 23 Jan 00:46 | 8K EXCLUSIVE
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1317798.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png" group-title="|NL| ESPN PPV",NL: ESPN PPV 3 - VOETBALPRAAT | Thu 22 Jan 12:00 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png" group-title="|NL| ESPN PPV",NL: ESPN PPV 3 - VOETBALPRAAT | Fri 23 Jan 00:46 | 8K EXCLUSIVE
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1317797.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png" group-title="|NL| ESPN PPV",NL: ESPN PPV 4 - ESPN VANDAAG | Thu 22 Jan 12:00 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png" group-title="|NL| ESPN PPV",NL: ESPN PPV 4 - NBA: MAVERICKS VS WARRIORS | Fri 23 Jan 00:30 | 8K EXCLUSIVE
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1317796.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png" group-title="|NL| ESPN PPV",NL: ESPN PPV 5 - NO EVENT STREAMING - 8K EXCLUSIVE
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1317795.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png" group-title="|NL| ESPN PPV",NL: ESPN PPV 6 - NO EVENT STREAMING - 8K EXCLUSIVE
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1317794.m3u8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png" group-title="|NL| ESPN PPV",NL: ESPN PPV 2 - NHL ON THE FLY | Thu 22 Jan 12:00 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png" group-title="|NL| ESPN PPV",NL: ESPN PPV 2 - ESPN VANDAAG | Fri 23 Jan 00:46 | 8K EXCLUSIVE
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1317793.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/ESPN.png" group-title="|NL| ESPN PPV",NL: ESPN PPV 8 - NO EVENT STREAMING - 8K EXCLUSIVE
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1317792.m3u8
@@ -36382,31 +36382,31 @@ http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/689761.m3u8
 # --- |PL| MAX PPV (101) ---
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="|PL| MAX PPV",####### MAX PPV #######
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1168966.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="|PL| MAX PPV",PL: MAX PPV 1 - COURTSIDE | Thu 22 Jan 12:55 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="|PL| MAX PPV",PL: MAX PPV 1 - THE AMERICAN EXPRESS | 1. DZIEŃ | Thu 22 Jan 17:30 | 8K EXCLUSIVE
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1168965.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="|PL| MAX PPV",PL: MAX PPV 2 - AUSTRALIAN OPEN | MULTIVIEW | Thu 22 Jan 01:00 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="|PL| MAX PPV",PL: MAX PPV 2 - KRAWIETZ/PUETZ - LUZ/MATOS | Fri 23 Jan 01:00 | 8K EXCLUSIVE
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1168964.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="|PL| MAX PPV",PL: MAX PPV 3 - KOKKINAKIS/KYRGIOS - KUBLER/POLMANS | Thu 22 Jan 10:55 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="|PL| MAX PPV",PL: MAX PPV 3 - MALECKOVA/SKOCH - KATO/STOLLAR | Fri 23 Jan 01:00 | 8K EXCLUSIVE
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1168963.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="|PL| MAX PPV",PL: MAX PPV 4 - JAUME MUNAR - CASPER RUUD | Thu 22 Jan 11:19 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="|PL| MAX PPV",PL: MAX PPV 4 - MITSUBISHI ELECTRIC CLASSIC | 1. DZIEŃ | Fri 23 Jan 01:00 | 8K EXCLUSIVE
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1168962.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="|PL| MAX PPV",PL: MAX PPV 5 - JELENA RYBAKINA - WARWARA GRACZOWA | Thu 22 Jan 11:20 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="|PL| MAX PPV",PL: MAX PPV 5 - ARANGO/JACQUEMOT - DABROWSKI/STEFANI | Fri 23 Jan 01:00 | 8K EXCLUSIVE
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1168961.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="|PL| MAX PPV",PL: MAX PPV 6 - PEKIN | PROGRAM KRÓTKICH PAR SPORTOWYCH | Thu 22 Jan 12:56 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="|PL| MAX PPV",PL: MAX PPV 6 - AUSTRALIAN OPEN | MULTIVIEW | Fri 23 Jan 01:00 | 8K EXCLUSIVE
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1168960.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="|PL| MAX PPV",PL: MAX PPV 7 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="|PL| MAX PPV",PL: MAX PPV 7 - BUCSA/MELICHAR-MARTÍNEZ - OLMOS/SUTJIADI | Fri 23 Jan 01:00 | 8K EXCLUSIVE
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1168959.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="|PL| MAX PPV",PL: MAX PPV 8 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="|PL| MAX PPV",PL: MAX PPV 8 - ARYNA SABALENKA - ANASTASIA POTAPOVA | Fri 23 Jan 01:30 | 8K EXCLUSIVE
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1168958.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="|PL| MAX PPV",PL: MAX PPV 9 - PUNE GRAND TOUR | 3. ETAP | Thu 22 Jan 07:30 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="|PL| MAX PPV",PL: MAX PPV 9 - DANIIŁ MIEDWIEDIEW - FABIAN MAROZSAN | Fri 23 Jan 01:30 | 8K EXCLUSIVE
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1168957.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="|PL| MAX PPV",PL: MAX PPV 10 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="|PL| MAX PPV",PL: MAX PPV 10 - TOUR DOWN UNDER | 3. ETAP | Fri 23 Jan 01:30 | 8K EXCLUSIVE
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1168956.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="|PL| MAX PPV",PL: MAX PPV 11 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1168955.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="|PL| MAX PPV",PL: MAX PPV 12 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1168954.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="|PL| MAX PPV",PL: MAX PPV 13 - JAMES DUCKWORTH - JANNIK SINNER  | Thu 22 Jan 09:09 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="|PL| MAX PPV",PL: MAX PPV 13 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1168953.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="|PL| MAX PPV",PL: MAX PPV 14 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1168952.m3u8
@@ -36414,11 +36414,11 @@ http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1168952.m3u8
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1168951.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="|PL| MAX PPV",PL: MAX PPV 16 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1168950.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="|PL| MAX PPV",PL: MAX PPV 17 - NAOMI OSAKA - SORANA CIRSTEA  | Thu 22 Jan 09:02 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="|PL| MAX PPV",PL: MAX PPV 17 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1168949.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="|PL| MAX PPV",PL: MAX PPV 18 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1168948.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="|PL| MAX PPV",PL: MAX PPV 19 - NIKOLA BARTUNKOVÁ - BELINDA BENCIC | Thu 22 Jan 10:25 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="|PL| MAX PPV",PL: MAX PPV 19 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1168947.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/MAX.png" group-title="|PL| MAX PPV",PL: MAX PPV 20 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/1168946.m3u8
@@ -40096,11 +40096,11 @@ http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/677310.m3u8
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/677309.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/ppv.png" group-title="|UK| PPV EVENTS",SBO 4: SKY SPORT BOX OFFICE FHD
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/677308.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/ppv.png" group-title="|UK| PPV EVENTS",LIVE EVENT 01 - NO EVENT
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/ppv.png" group-title="|UK| PPV EVENTS",LIVE EVENT 01 - 9AM US Street Nationals Brandenton
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/677307.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/ppv.png" group-title="|UK| PPV EVENTS",LIVE EVENT 02 - NO EVENT
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/ppv.png" group-title="|UK| PPV EVENTS",LIVE EVENT 02 - 3:45PM Volusia Late Models
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/677306.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/ppv.png" group-title="|UK| PPV EVENTS",LIVE EVENT 03 - NO EVENT
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/ppv.png" group-title="|UK| PPV EVENTS",LIVE EVENT 03 - 10pm Tuff N Uff 151
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/677305.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/ppv.png" group-title="|UK| PPV EVENTS",LIVE EVENT 04 - NO EVENT
 http://cname.dino.ws:80/live/c6cd1c10a7/615b4f7d1ab1/677304.m3u8

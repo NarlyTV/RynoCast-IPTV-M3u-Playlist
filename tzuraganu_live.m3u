@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: tzuraganu.gotdns.ch:8008
-# Generated: 2026-01-22 18:33:16
+# Generated: 2026-01-23 07:07:18
 # Expires: 2026-09-22
 # Family Safe Edition
 # ==============================================
@@ -21,7 +21,7 @@ http://tzuraganu.gotdns.ch:8008/live/ovidiu@ulariu/90775688/287574.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq8un4ITirZKogAhkvss0CNes93z3B-IM38VU1rNOJ2A&s" group-title="RADIO ROMANIA",RO VALENCIA FM
 http://tzuraganu.gotdns.ch:8008/live/ovidiu@ulariu/90775688/206557.m3u8
 
-# --- ⚜️ROMANIA TV⚜️ (518) ---
+# --- ⚜️ROMANIA TV⚜️ (510) ---
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wvFMSGRt/Whats-App-Image-2025-11-27-at-15-20-39-6e5d06cc.jpg" group-title="⚜️ROMANIA TV⚜️",⚜️PRO EUROPA INFO⚜️
 http://tzuraganu.gotdns.ch:8008/live/ovidiu@ulariu/90775688/540724.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/WzfDK55q/resize.png" group-title="⚜️ROMANIA TV⚜️",PRO TV UHD
@@ -300,10 +300,6 @@ http://tzuraganu.gotdns.ch:8008/live/ovidiu@ulariu/90775688/33856.m3u8
 http://tzuraganu.gotdns.ch:8008/live/ovidiu@ulariu/90775688/121401.m3u8
 #EXTINF:-1 tvg-logo="http://fluxro.live:8080/images/Lwj2xm0-MaoTBtfyWZVzujfx9r3mLYu2IOdAbL-HDNPZwfrviNU0nmCcgUCtOC__2C820G3wTDtI_4ZfoVceMuvoPSxRUIl4NSXXagY1RQ4.png" group-title="⚜️ROMANIA TV⚜️",BOLLYWOOD CLASSIC HD
 http://tzuraganu.gotdns.ch:8008/live/ovidiu@ulariu/90775688/491389.m3u8
-#EXTINF:-1 tvg-logo="https://logo.iptveditor.com/bollywoodfilm.png" group-title="⚜️ROMANIA TV⚜️",BOLLYWOOD FILM SD
-http://tzuraganu.gotdns.ch:8008/live/ovidiu@ulariu/90775688/297536.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⚜️ROMANIA TV⚜️",BOLLYWOOD STARS SD
-http://tzuraganu.gotdns.ch:8008/live/ovidiu@ulariu/90775688/491391.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hPXpRSnr/SKYSHOWTIME-1-HD.jpg" group-title="⚜️ROMANIA TV⚜️",SKY SHOWTIME 1 HD
 http://tzuraganu.gotdns.ch:8008/live/ovidiu@ulariu/90775688/216214.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/m21N683d/SKYSHOWTIME-2-HD.jpg" group-title="⚜️ROMANIA TV⚜️",SKY SHOWTIME 2 HD
@@ -416,8 +412,6 @@ http://tzuraganu.gotdns.ch:8008/live/ovidiu@ulariu/90775688/56162.m3u8
 http://tzuraganu.gotdns.ch:8008/live/ovidiu@ulariu/90775688/34093.m3u8
 #EXTINF:-1 tvg-logo="http://vsvgroup.co.uk/wp-content/uploads/2019/12/cinemaraton-e1577020331629.jpg" group-title="⚜️ROMANIA TV⚜️",CINEMARATON SD
 http://tzuraganu.gotdns.ch:8008/live/ovidiu@ulariu/90775688/33857.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/e7-jy8MGE6Lzg0wa6gjjaO3SR-OtWlQO1lIUrsmvC2_1u9vyE_GUp1B1hnL7mnDenAXR1_DE=s900-c-k-c0x00ffffff-no-rj" group-title="⚜️ROMANIA TV⚜️",VIASAT KINO FHD
-http://tzuraganu.gotdns.ch:8008/live/ovidiu@ulariu/90775688/33838.m3u8
 #EXTINF:-1 tvg-logo="http://vsvgroup.co.uk/wp-content/uploads/2019/12/AXN-e1577020663698.png" group-title="⚜️ROMANIA TV⚜️",AXN SD
 http://tzuraganu.gotdns.ch:8008/live/ovidiu@ulariu/90775688/33847.m3u8
 #EXTINF:-1 tvg-logo="https://logo.iptveditor.com/axnwhite.png" group-title="⚜️ROMANIA TV⚜️",AXN WHITE SD
@@ -494,16 +488,8 @@ http://tzuraganu.gotdns.ch:8008/live/ovidiu@ulariu/90775688/296284.m3u8
 http://tzuraganu.gotdns.ch:8008/live/ovidiu@ulariu/90775688/287446.m3u8
 #EXTINF:-1 tvg-logo="https://logo.m3uassets.com/inedittv.png" group-title="⚜️ROMANIA TV⚜️",INEDIT TV FHD
 http://tzuraganu.gotdns.ch:8008/live/ovidiu@ulariu/90775688/522598.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⚜️ROMANIA TV⚜️",TVR IASI
-http://tzuraganu.gotdns.ch:8008/live/ovidiu@ulariu/90775688/522234.m3u8
 #EXTINF:-1 tvg-logo="http://fluxro.live:8080/images/RFpGgiFIwD-zg89GX_bnrLd8I6goRRFfXTdLMhD-Wubv79sdyf43bW7l-uwO-wfE_Nxz94CHLXWBwydAE-QNO-16JF-DKvVgHcyLWg31E8sUE3niSzy7NB3OyxVTV5Qa.png" group-title="⚜️ROMANIA TV⚜️",TVR CRAIOVA
 http://tzuraganu.gotdns.ch:8008/live/ovidiu@ulariu/90775688/522244.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⚜️ROMANIA TV⚜️",TVR TG. MURES
-http://tzuraganu.gotdns.ch:8008/live/ovidiu@ulariu/90775688/522265.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⚜️ROMANIA TV⚜️",TVR TIMISOARA
-http://tzuraganu.gotdns.ch:8008/live/ovidiu@ulariu/90775688/522246.m3u8
-#EXTINF:-1 tvg-logo="" group-title="⚜️ROMANIA TV⚜️",TVR CLUJ
-http://tzuraganu.gotdns.ch:8008/live/ovidiu@ulariu/90775688/522245.m3u8
 #EXTINF:-1 tvg-logo="http://135.125.239.110/icon/892301.png" group-title="⚜️ROMANIA TV⚜️",ALEPH NEWS
 http://tzuraganu.gotdns.ch:8008/live/ovidiu@ulariu/90775688/526873.m3u8
 #EXTINF:-1 tvg-logo="https://logo.m3uassets.com/alfaomega2.png" group-title="⚜️ROMANIA TV⚜️",ALFA OMEGA TV
@@ -692,8 +678,6 @@ http://tzuraganu.gotdns.ch:8008/live/ovidiu@ulariu/90775688/498371.m3u8
 http://tzuraganu.gotdns.ch:8008/live/ovidiu@ulariu/90775688/498370.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Fzc7CNjf/61gu3-QX74-L.png" group-title="⚜️ROMANIA TV⚜️",NionTV Special - Maşa şi ursul
 http://tzuraganu.gotdns.ch:8008/live/ovidiu@ulariu/90775688/498369.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Fzc7CNjf/61gu3-QX74-L.png" group-title="⚜️ROMANIA TV⚜️",NionTV Bucatarul
-http://tzuraganu.gotdns.ch:8008/live/ovidiu@ulariu/90775688/498368.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Fzc7CNjf/61gu3-QX74-L.png" group-title="⚜️ROMANIA TV⚜️",NionTV Special: Robert De Niro
 http://tzuraganu.gotdns.ch:8008/live/ovidiu@ulariu/90775688/498365.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Fzc7CNjf/61gu3-QX74-L.png" group-title="⚜️ROMANIA TV⚜️",NionTV Special: Crime
@@ -1059,4 +1043,4 @@ http://tzuraganu.gotdns.ch:8008/live/ovidiu@ulariu/90775688/296306.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1Xsq73b1/rrr.png" group-title="⚜️ROMANIA TV⚜️",▶️FLY AVENTURA ᶠᴴᴰ
 http://tzuraganu.gotdns.ch:8008/live/ovidiu@ulariu/90775688/296305.m3u8
 
-# Total: 524
+# Total: 516
