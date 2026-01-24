@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: talibanul.net:8080
-# Generated: 2026-01-23 18:39:00
+# Generated: 2026-01-24 07:03:40
 # Expires: 2026-03-26
 # Family Safe Edition
 # ==============================================
@@ -10947,6 +10947,10 @@ http://talibanul.net:8080/movie/Cristian_Beles/jAmX2Et2MK4F8G8QoMOTEHtKHkud8Z/19
 #EXTINF:-1 tvg-logo="" group-title="Movies | Serial Fallout",Fallout 2024
 http://talibanul.net:8080/movie/Cristian_Beles/jAmX2Et2MK4F8G8QoMOTEHtKHkud8Z/142.mp4
 
+# --- Movies | Serial Finding Her Edge 2026 (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | Serial Finding Her Edge 2026",Finding Her Edge
+http://talibanul.net:8080/movie/Cristian_Beles/jAmX2Et2MK4F8G8QoMOTEHtKHkud8Z/268.mp4
+
 # --- Movies | Serial Flesh and Blood (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Serial Flesh and Blood",Flesh and Blood
 http://talibanul.net:8080/movie/Cristian_Beles/jAmX2Et2MK4F8G8QoMOTEHtKHkud8Z/69.mp4
@@ -11747,4 +11751,4 @@ http://talibanul.net:8080/movie/Cristian_Beles/jAmX2Et2MK4F8G8QoMOTEHtKHkud8Z/14
 #EXTINF:-1 tvg-logo="" group-title="Movies | Vikings Valhalla",Vikings: Valhalla
 http://talibanul.net:8080/movie/Cristian_Beles/jAmX2Et2MK4F8G8QoMOTEHtKHkud8Z/152.mp4
 
-# Total: 5592
+# Total: 5593

@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: allone8k.info:8080
-# Generated: 2026-01-23 18:31:45
+# Generated: 2026-01-24 07:05:17
 # Expires: 2026-02-28
 # Family Safe Edition
 # ==============================================
@@ -6449,7 +6449,21 @@ http://allone8k.info:8080/live/mai/mai1234/298328.m3u8
 #EXTINF:-1 tvg-logo="https://i5.satexpat.com/cha/ye/aleiman-tv-95x53.gif" group-title="AR | YEMEN 4K | اليمن",YEM: El Iman TV
 http://allone8k.info:8080/live/mai/mai1234/298329.m3u8
 
-# --- AR | YES - عاموس (27) ---
+# --- AR | YES - عاموس (34) ---
+#EXTINF:-1 tvg-logo="" group-title="AR | YES - عاموس",IL: KAN EDUCATIONAL
+http://allone8k.info:8080/live/mai/mai1234/642019.m3u8
+#EXTINF:-1 tvg-logo="" group-title="AR | YES - عاموس",IL: KESHET 12
+http://allone8k.info:8080/live/mai/mai1234/642018.m3u8
+#EXTINF:-1 tvg-logo="" group-title="AR | YES - عاموس",IL: KNESSET
+http://allone8k.info:8080/live/mai/mai1234/642017.m3u8
+#EXTINF:-1 tvg-logo="" group-title="AR | YES - عاموس",IL: NEWS 24
+http://allone8k.info:8080/live/mai/mai1234/642016.m3u8
+#EXTINF:-1 tvg-logo="" group-title="AR | YES - عاموس",IL: KAN 11
+http://allone8k.info:8080/live/mai/mai1234/642015.m3u8
+#EXTINF:-1 tvg-logo="" group-title="AR | YES - عاموس",IL: CHANNEL 14
+http://allone8k.info:8080/live/mai/mai1234/642014.m3u8
+#EXTINF:-1 tvg-logo="" group-title="AR | YES - عاموس",IL: MAKAN HD
+http://allone8k.info:8080/live/mai/mai1234/642013.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AR | YES - عاموس",IL: Kabbalah TV
 http://allone8k.info:8080/live/mai/mai1234/519955.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AR | YES - عاموس",IL: Home+
@@ -18135,4 +18149,4 @@ http://allone8k.info:8080/live/mai/mai1234/453199.m3u8
 #EXTINF:-1 tvg-logo="" group-title="مهم",mbc masr test
 http://allone8k.info:8080/live/mai/mai1234/473269.m3u8
 
-# Total: 8858
+# Total: 8865

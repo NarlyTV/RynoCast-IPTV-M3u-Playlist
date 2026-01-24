@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: 51.89.76.111:2086
-# Generated: 2026-01-23 18:31:11
+# Generated: 2026-01-24 07:09:43
 # Expires: 2026-10-09
 # Family Safe Edition
 # ==============================================
@@ -1159,21 +1159,11 @@ http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/110104.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/gy51zip.png" group-title="DE-DAZN",DE: DAZN Eurosport 2 HD
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/170928.m3u8
 
-# --- DE-DAZN EVENT (60) ---
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/atzptk7nr1fw1n2av8tlr7o3e_image-header_pDach_1767991182000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Jeddah - Qualifying Time Trials (2026-01-23 08:25:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/175584.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/a27qfs4ti9rpjafibax4v9wmn_image-header_pDach_1767646863000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Alpiner Skiweltcup Kitzbühel | Super-G (2026-01-23 10:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/175585.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1vvqhw75nx5c31rpd3xktgx7ys_image-header_pDach_1767992420000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Jeddah - Qualifying Sessions and Pole Shootout (2026-01-23 11:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/175586.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/eyrulae0xoslwybss1isc86qp_image-header_pDach_1768900650000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Ministry of Media, UK and North America Cups Race Night (2026-01-23 12:10:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/175587.m3u8
+# --- DE-DAZN EVENT (55) ---
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/e435fisnrsqoz8xpz0fkco8ou_image-header_pDach_1765873618000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",1. FC Union Berlin - Bayer Leverkusen (2026-01-23 17:30:00)
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/175588.m3u8
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/brwr5nuwmuy6meblv5hapm0gi_image-header_pDach_1765927867000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Auxerre - PSG (2026-01-23 19:00:00)
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/175589.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1n2gdri4m7l23bl8kupehlt8j_image-header_pDach_1765959954000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Inter - Pisa (deutscher Kommentar) (2026-01-23 19:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/175590.m3u8
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/nlualkdg6nh1s1ugpagokz8j_image-header_pDach_1765805019000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Leicester Riders - Surrey 89ers | Viertelfinale (2026-01-23 19:30:00)
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/175591.m3u8
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1o3pghtyeacy003brfyoire5h_image-header_pDach_1765288035000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Newcastle Eagles - London Lions | Viertelfinale (2026-01-23 19:30:00)
@@ -6285,6 +6275,42 @@ http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/148827.m3u8
 #EXTINF:-1 tvg-logo="http://icon.sporcpu.com/spor/fransalig1haftaninozetleri.png" group-title="TR | beIN SPORTS",TR: Fransa Ligue1 TV HD (Mac Ozetleri)
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/148828.m3u8
 
+# --- Tennis Channel (17) ---
+#EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/449-4494136_tennis-channel-hd-png-download.png" group-title="Tennis Channel",##### TENNIS CHANNEL #####
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/175678.m3u8
+#EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/449-4494136_tennis-channel-hd-png-download.png" group-title="Tennis Channel",TENNIS CHANNEL
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/175679.m3u8
+#EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/449-4494136_tennis-channel-hd-png-download.png" group-title="Tennis Channel",TENNIS CHANNEL 2
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/175680.m3u8
+#EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/449-4494136_tennis-channel-hd-png-download.png" group-title="Tennis Channel",TENNIS PLUS 1
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/175681.m3u8
+#EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/449-4494136_tennis-channel-hd-png-download.png" group-title="Tennis Channel",TENNIS PLUS 2
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/175682.m3u8
+#EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/449-4494136_tennis-channel-hd-png-download.png" group-title="Tennis Channel",TENNIS PLUS 3
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/175683.m3u8
+#EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/449-4494136_tennis-channel-hd-png-download.png" group-title="Tennis Channel",TENNIS PLUS 4
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/175684.m3u8
+#EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/449-4494136_tennis-channel-hd-png-download.png" group-title="Tennis Channel",TENNIS PLUS 5
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/175685.m3u8
+#EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/449-4494136_tennis-channel-hd-png-download.png" group-title="Tennis Channel",TENNIS PLUS 6
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/175686.m3u8
+#EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/449-4494136_tennis-channel-hd-png-download.png" group-title="Tennis Channel",TENNIS PLUS 7
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/175687.m3u8
+#EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/449-4494136_tennis-channel-hd-png-download.png" group-title="Tennis Channel",TENNIS PLUS 8
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/175688.m3u8
+#EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/449-4494136_tennis-channel-hd-png-download.png" group-title="Tennis Channel",TENNIS PLUS 9
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/175689.m3u8
+#EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/449-4494136_tennis-channel-hd-png-download.png" group-title="Tennis Channel",TENNIS PLUS 10
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/175690.m3u8
+#EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/449-4494136_tennis-channel-hd-png-download.png" group-title="Tennis Channel",TENNIS PLUS 11
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/175691.m3u8
+#EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/449-4494136_tennis-channel-hd-png-download.png" group-title="Tennis Channel",TENNIS PLUS 12
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/175692.m3u8
+#EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/449-4494136_tennis-channel-hd-png-download.png" group-title="Tennis Channel",TENNIS PLUS 13
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/175693.m3u8
+#EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/449-4494136_tennis-channel-hd-png-download.png" group-title="Tennis Channel",TENNIS PLUS 14
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/175694.m3u8
+
 # --- Unknown (27) ---
 #EXTINF:-1 tvg-logo="http://147.135.221.50/img/turkey.png" group-title="Unknown",##### TURK RADIO #####
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/134861.m3u8
@@ -6645,4 +6671,4 @@ http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/165820.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/JEtHjJs.png" group-title="WORLD SPORTS",Sky Sport Action HD [UK]
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/165884.m3u8
 
-# Total: 3263
+# Total: 3275

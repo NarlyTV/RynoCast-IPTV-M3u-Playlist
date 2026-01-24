@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: line.cee-ott.xyz
-# Generated: 2026-01-23 18:36:06
+# Generated: 2026-01-24 07:06:31
 # Expires: 2026-02-06
 # Family Safe Edition
 # ==============================================
@@ -18295,7 +18295,7 @@ http://line.cee-ott.xyz/live/8686DA/178C15/1353413.m3u8
 #EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/bnrnieuwsradio.png" group-title="NL ▎REGIONALE",NL ▎BNR NIEUWS RADIO 8ᴋ
 http://line.cee-ott.xyz/live/8686DA/178C15/1353440.m3u8
 
-# --- NL ▎SPORT (15) ---
+# --- NL ▎SPORT (16) ---
 #EXTINF:-1 tvg-logo="http://img.logo-cdn.cc/espn.png" group-title="NL ▎SPORT",NL ▎ESPN UHD 8ᴋ
 http://line.cee-ott.xyz/live/8686DA/178C15/552369.m3u8
 #EXTINF:-1 tvg-logo="http://img.logo-cdn.cc/espn.png" group-title="NL ▎SPORT",NL ▎ESPN 1 HD 8ᴋ ◉ rec
@@ -18322,6 +18322,8 @@ http://line.cee-ott.xyz/live/8686DA/178C15/311520.m3u8
 http://line.cee-ott.xyz/live/8686DA/178C15/311522.m3u8
 #EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/eurosport2hd.png" group-title="NL ▎SPORT",NL ▎EUROSPORT 2 HD 8ᴋ ◉ rec
 http://line.cee-ott.xyz/live/8686DA/178C15/311523.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NL ▎SPORT",NL ▎REDBULL TV HD 8ᴋ
+http://line.cee-ott.xyz/live/8686DA/178C15/1801940.m3u8
 #EXTINF:-1 tvg-logo="http://img.logo-cdn.cc/wwenetwork.png" group-title="NL ▎SPORT",NL ▎WWE TV HD 8ᴋ
 http://line.cee-ott.xyz/live/8686DA/178C15/98145.m3u8
 #EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/ufchd.png" group-title="NL ▎SPORT",NL ▎UFC TV HD 8ᴋ
@@ -33421,4 +33423,4 @@ http://line.cee-ott.xyz/live/8686DA/178C15/1770572.m3u8
 #EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/CHRISTMAS.png" group-title="XMAS ▎CHRISTMAS",XMAS ▎ONEPLAY XMAS-MUSIC 2 HD
 http://line.cee-ott.xyz/live/8686DA/178C15/1770573.m3u8
 
-# Total: 16298
+# Total: 16299
