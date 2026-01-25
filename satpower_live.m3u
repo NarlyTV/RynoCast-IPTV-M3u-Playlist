@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: satpower.shop:8080
-# Generated: 2026-01-24 07:11:39
+# Generated: 2026-01-25 18:31:29
 # Expires: 2026-03-06
 # Family Safe Edition
 # ==============================================
@@ -3485,7 +3485,7 @@ http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/633258.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/magentaSport.png" group-title="DE MAGENTA TV",DE: |MAGENTA| SPORT 18 - MYTEAMTV
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/633257.m3u8
 
-# --- DE MUSIK (28) ---
+# --- DE MUSIK (27) ---
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/flag/ger.png" group-title="DE MUSIK",DE: ----- MUSIK -----
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/135929.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/DLXdance-by-kontor.png" group-title="DE MUSIK",DE: DELUXE DANCE
@@ -3518,8 +3518,6 @@ http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/390903.m3u8
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/330019.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/mtv.png" group-title="DE MUSIK",DE: MTV
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/228971.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/mtv_dance.png" group-title="DE MUSIK",DE: MTV DANCE
-http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/230251.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/mtvHits.png" group-title="DE MUSIK",DE: MTV HITS
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/240631.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/MyTVplus.png" group-title="DE MUSIK",DE: MYTVPLUS
@@ -10349,4 +10347,4 @@ http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/505896.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/USA/TVJ%20channel.png" group-title="US SPORTS",US: TVJ
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/282779.m3u8
 
-# Total: 5096
+# Total: 5095

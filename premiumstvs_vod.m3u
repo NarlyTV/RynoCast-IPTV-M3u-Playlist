@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: premiumstvs.net:8080
-# Generated: 2026-01-25 07:16:16
+# Generated: 2026-01-25 18:28:45
 # Expires: 2026-02-22
 # Family Safe Edition
 # ==============================================
@@ -1539,11 +1539,9 @@ http://premiumstvs.net:8080/movie/khFzEWQn/fP85XcC7E/85805.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2J5eeroLDY0d45mVjpuGhcLZs3W.jpg" group-title="Movies | Fantasy/Sci",The Thundermans Return 2024
 http://premiumstvs.net:8080/movie/khFzEWQn/fP85XcC7E/85794.mp4
 
-# --- Movies | Femije/Animuar (58) ---
+# --- Movies | Femije/Animuar (57) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zT7Lhw3BhJbMkRqm9Zlx2YGMsY0.jpg" group-title="Movies | Femije/Animuar",KPop Demon Hunters (2025)
 http://premiumstvs.net:8080/movie/khFzEWQn/fP85XcC7E/114536.ts
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/tUae3mefrDVTgm5mRzqWnZK6fOP.jpg" group-title="Movies | Femije/Animuar",Lilo & Stitch (2025)
-http://premiumstvs.net:8080/movie/khFzEWQn/fP85XcC7E/105192.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8o6lkhL32xQJeB52IIG1us5BVey.jpg" group-title="Movies | Femije/Animuar",Smurfs (2025)
 http://premiumstvs.net:8080/movie/khFzEWQn/fP85XcC7E/105171.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k1vCU25JMegFVlj1bsWUbxEcaG0.jpg" group-title="Movies | Femije/Animuar",Descendants: The Royal Wedding (2021)
@@ -2983,7 +2981,7 @@ http://premiumstvs.net:8080/movie/khFzEWQn/fP85XcC7E/83917.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/6oH378KUfCEitzJkm07r97L0RsZ.jpg" group-title="Movies | Filma Te Dubluar Në Shqip Për Femijë",Elementet - Dubluar në Shqip 2023
 http://premiumstvs.net:8080/movie/khFzEWQn/fP85XcC7E/83914.mp4
 
-# --- Movies | Filma Te Fundit Me Titra Shqip (1194) ---
+# --- Movies | Filma Te Fundit Me Titra Shqip (1193) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jbnazCHr8S2l2glyvjPTpa4NbEw.jpg" group-title="Movies | Filma Te Fundit Me Titra Shqip",The Thursday Murder Club - 2025
 http://premiumstvs.net:8080/movie/khFzEWQn/fP85XcC7E/115262.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zpygCOYY1DPBkeUsrrznLRN5js5.jpg" group-title="Movies | Filma Te Fundit Me Titra Shqip",The Lost Bus - 2025
@@ -3182,8 +3180,6 @@ http://premiumstvs.net:8080/movie/khFzEWQn/fP85XcC7E/112132.mp4
 http://premiumstvs.net:8080/movie/khFzEWQn/fP85XcC7E/112118.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/9PXZIUsSDh4alB80jheWX4fhZmy.jpg" group-title="Movies | Filma Te Fundit Me Titra Shqip",F1 (2025)
 http://premiumstvs.net:8080/movie/khFzEWQn/fP85XcC7E/105244.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/tUae3mefrDVTgm5mRzqWnZK6fOP.jpg" group-title="Movies | Filma Te Fundit Me Titra Shqip",Lilo & Stitch (2025)
-http://premiumstvs.net:8080/movie/khFzEWQn/fP85XcC7E/105191.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/1RICxzeoNCAO5NpcRMIgg1XT6fm.jpg" group-title="Movies | Filma Te Fundit Me Titra Shqip",Jurassic World Rebirth (2025)
 http://premiumstvs.net:8080/movie/khFzEWQn/fP85XcC7E/105189.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9tk3Si960hg4E49eMt81dS7Qe9Z.jpg" group-title="Movies | Filma Te Fundit Me Titra Shqip",Dangerous Animals (2025)
@@ -12259,4 +12255,4 @@ http://premiumstvs.net:8080/series/khFzEWQn/fP85XcC7E/248
 #EXTINF:-1 tvg-logo="" group-title="Series | Netflix Series",Squid Game: The Challenge
 http://premiumstvs.net:8080/series/khFzEWQn/fP85XcC7E/247
 
-# Total: 6096
+# Total: 6094

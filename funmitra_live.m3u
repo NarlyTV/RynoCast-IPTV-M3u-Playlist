@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: funmitra.com:8080
-# Generated: 2026-01-24 07:10:08
+# Generated: 2026-01-25 18:38:41
 # Expires: 2027-01-11
 # Family Safe Edition
 # ==============================================
@@ -2787,7 +2787,7 @@ http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/633258.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/magentaSport.png" group-title="DE MAGENTA TV",DE: |MAGENTA| SPORT 18 - MYTEAMTV
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/633257.m3u8
 
-# --- DE MUSIK (28) ---
+# --- DE MUSIK (27) ---
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/flag/ger.png" group-title="DE MUSIK",DE: ----- MUSIK -----
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/135929.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/DLXdance-by-kontor.png" group-title="DE MUSIK",DE: DELUXE DANCE
@@ -2820,8 +2820,6 @@ http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/390903.m3u8
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/330019.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/mtv.png" group-title="DE MUSIK",DE: MTV
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/228971.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/mtv_dance.png" group-title="DE MUSIK",DE: MTV DANCE
-http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/230251.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/mtvHits.png" group-title="DE MUSIK",DE: MTV HITS
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/240631.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/MyTVplus.png" group-title="DE MUSIK",DE: MYTVPLUS
@@ -4214,35 +4212,35 @@ http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/150671.m3u8
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/150672.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/franceT-220x132/canal_play.png" group-title="FR CINEMA",FR: A LA CARTE 10 HD
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/150673.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FR CINEMA",FR:|VIP| DRIVE IN MOVIE CHANNEL HD
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/franceT-220x132/DRIVE IN MOVIE CHANNEL.png" group-title="FR CINEMA",FR:|VIP| DRIVE IN MOVIE CHANNEL HD
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/636152.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FR CINEMA",FR:|VIP| UNIVERS CINÉ HD
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/franceT-220x132/UNIVERS CINÉ.png" group-title="FR CINEMA",FR:|VIP| UNIVERS CINÉ HD
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/636151.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FR CINEMA",FR:|VIP| CINÉ NANAR HD
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/a-z/--C--/cinenanar.png" group-title="FR CINEMA",FR:|VIP| CINÉ NANAR HD
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/636150.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FR CINEMA",FR:|VIP| EMOTION' L HD
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/a-z/--E--/emotionl.png" group-title="FR CINEMA",FR:|VIP| EMOTION' L HD
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/636149.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FR CINEMA",FR:|VIP| MY TIME MOVIE NETWORK HD
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/franceT-220x132/MY TIME MOVIE NETWORK.png" group-title="FR CINEMA",FR:|VIP| MY TIME MOVIE NETWORK HD
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/636147.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FR CINEMA",FR:|VIP| CINÉ WESTERN HD
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/franceT-220x132/CINÉ WESTERN.png" group-title="FR CINEMA",FR:|VIP| CINÉ WESTERN HD
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/636146.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FR CINEMA",FR:|VIP| HITS ACTION HD
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/franceT-220x132/HITS ACTION.png" group-title="FR CINEMA",FR:|VIP| HITS ACTION HD
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/636142.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FR CINEMA",FR:|VIP| HITS COMÉDIE HD
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/franceT-220x132/HITS COMÉDIE.png" group-title="FR CINEMA",FR:|VIP| HITS COMÉDIE HD
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/636141.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FR CINEMA",FR:|VIP| SÉRIES COMÉDIE HD
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/franceT-220x132/SÉRIES COMÉDIE.png" group-title="FR CINEMA",FR:|VIP| SÉRIES COMÉDIE HD
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/636140.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FR CINEMA",FR:|VIP| FRÉQUENCE NOVELAS HD
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/franceT-220x132/FRÉQUENCE NOVELAS.png" group-title="FR CINEMA",FR:|VIP| FRÉQUENCE NOVELAS HD
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/636136.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FR CINEMA",FR:|VIP| PASSION BOLLYWOOD HD
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/a-z/--P--/passion-bollywood-ci.png" group-title="FR CINEMA",FR:|VIP| PASSION BOLLYWOOD HD
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/636135.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FR CINEMA",FR:|VIP| PASSION NOVELAS HD
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/a-z/--P--/passion-novelas-ci.png" group-title="FR CINEMA",FR:|VIP| PASSION NOVELAS HD
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/636134.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FR CINEMA",FR:|VIP| FRANCE TV SERIES FHD
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/franceT-220x132/FRANCE TV SERIES.png" group-title="FR CINEMA",FR:|VIP| FRANCE TV SERIES FHD
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/636132.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FR CINEMA",FR:|VIP| BREF CINÉMA HD
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/franceT-220x132/BREF CINÉMA.png" group-title="FR CINEMA",FR:|VIP| BREF CINÉMA HD
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/636091.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FR CINEMA",FR:|VIP| STORMCAST NOVELAS HD
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/franceT-220x132/STORMCAST NOVELAS.png" group-title="FR CINEMA",FR:|VIP| STORMCAST NOVELAS HD
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/636083.m3u8
 
 # --- FR DAZN EVENT - FORMULE 1 - NBA (209) ---
@@ -4990,11 +4988,11 @@ http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/490909.m3u8
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/642627.m3u8
 #EXTINF:-1 tvg-logo="https://additimedia.ouest-france.fr/wp-content/uploads/2025/08/logo-novo19-v2.png" group-title="FR FRANCE",FR: NOVO 19 FHD
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/627224.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FR FRANCE",FR: RMC LIFE HD
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/franceT-220x132/RMC LIFE.png" group-title="FR FRANCE",FR: RMC LIFE HD
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/642641.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FR FRANCE",FR: RMC LIFE FHD
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/franceT-220x132/RMC LIFE.png" group-title="FR FRANCE",FR: RMC LIFE FHD
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/642663.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FR FRANCE",FR: L'EQUIPE HD
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/franceT-220x132/L'EQUIPE.png" group-title="FR FRANCE",FR: L'EQUIPE HD
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/642629.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/franceT-220x132/TFX.png" group-title="FR FRANCE",FR: TFX HD
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/1949.m3u8
@@ -5214,7 +5212,7 @@ http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/610436.m3u8
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/610433.m3u8
 #EXTINF:-1 tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/1fe37ff8-c6b7-4123-8c68-653d657b4c5f-width200-quality90.jpeg" group-title="FR PLUTO - RAKUTEN",FR: BIGTIME
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/610432.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FR PLUTO - RAKUTEN",FR: BREF CINÉMA 100% COURT MÉTRAGE
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/franceT-220x132/BREF CINÉMA.png" group-title="FR PLUTO - RAKUTEN",FR: BREF CINÉMA 100% COURT MÉTRAGE
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/610429.m3u8
 #EXTINF:-1 tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/bd356b80-79d9-46ff-9674-e69aaf10022f-width200-quality90.jpeg" group-title="FR PLUTO - RAKUTEN",FR: CAR CITY ADVENTURES
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/610428.m3u8
@@ -5242,43 +5240,43 @@ http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/610412.m3u8
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/610410.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a8RuRUQ.png" group-title="FR PLUTO - RAKUTEN",FR: LE FIGARO IDF
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/610409.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FR PLUTO - RAKUTEN",FR: LE MEILLEUR D'ARTHUR
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/franceT-220x132/LE MEILLEUR D'ARTHUR.png" group-title="FR PLUTO - RAKUTEN",FR: LE MEILLEUR D'ARTHUR
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/610408.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FR PLUTO - RAKUTEN",FR: LES ANGES
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/franceT-220x132/LES ANGES.png" group-title="FR PLUTO - RAKUTEN",FR: LES ANGES
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/610405.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FR PLUTO - RAKUTEN",FR: LES SECRETS DE NOS RÉGIONS
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/franceT-220x132/LES SECRETS DE NOS RÉGIONS.png" group-title="FR PLUTO - RAKUTEN",FR: LES SECRETS DE NOS RÉGIONS
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/610399.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FR PLUTO - RAKUTEN",FR: LES Z'AMOURS
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/franceT-220x132/LES Z'AMOURS.png" group-title="FR PLUTO - RAKUTEN",FR: LES Z'AMOURS
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/610398.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DCZKAQ1.png" group-title="FR PLUTO - RAKUTEN",FR: LITTORAL FM
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/franceT-220x132/LITTORAL FM.png" group-title="FR PLUTO - RAKUTEN",FR: LITTORAL FM
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/610397.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/I1w7rFb.png" group-title="FR PLUTO - RAKUTEN",FR: LOUIS LA BROCANTE
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/franceT-220x132/LOUIS LA BROCANTE.png" group-title="FR PLUTO - RAKUTEN",FR: LOUIS LA BROCANTE
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/610396.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FR PLUTO - RAKUTEN",FR: MOTORVISION TV
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/motorvision.png" group-title="FR PLUTO - RAKUTEN",FR: MOTORVISION TV
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/610394.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FR PLUTO - RAKUTEN",FR: MOTUS LA CHAÎNE
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/franceT-220x132/MOTUS LA CHAÎNE.png" group-title="FR PLUTO - RAKUTEN",FR: MOTUS LA CHAÎNE
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/610393.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FR PLUTO - RAKUTEN",FR: QUI VEUT GAGNER DES MILLIONS LA CHAÎNE
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/franceT-220x132/QUI VEUT GAGNER DES MILLIONS LA CHAÎNE.png" group-title="FR PLUTO - RAKUTEN",FR: QUI VEUT GAGNER DES MILLIONS LA CHAÎNE
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/610389.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NJYEYE3.png" group-title="FR PLUTO - RAKUTEN",FR: RAKUTEN TV FILMS ACTION
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/franceT-220x132/RAKUTEN.png" group-title="FR PLUTO - RAKUTEN",FR: RAKUTEN TV FILMS ACTION
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/610385.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NJYEYE3.png" group-title="FR PLUTO - RAKUTEN",FR: RAKUTEN TV FILMS COMÉDIE
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/franceT-220x132/RAKUTEN.png" group-title="FR PLUTO - RAKUTEN",FR: RAKUTEN TV FILMS COMÉDIE
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/610384.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FR PLUTO - RAKUTEN",FR: RAKUTEN TV FILMS DRAMES
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/franceT-220x132/RAKUTEN.png" group-title="FR PLUTO - RAKUTEN",FR: RAKUTEN TV FILMS DRAMES
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/610383.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FR PLUTO - RAKUTEN",FR: RAKUTEN TV FILMS FAMILLE
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/franceT-220x132/RAKUTEN.png" group-title="FR PLUTO - RAKUTEN",FR: RAKUTEN TV FILMS FAMILLE
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/610382.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FR PLUTO - RAKUTEN",FR: RAKUTEN TV FILMS ROMANCE
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/franceT-220x132/RAKUTEN.png" group-title="FR PLUTO - RAKUTEN",FR: RAKUTEN TV FILMS ROMANCE
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/610380.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FR PLUTO - RAKUTEN",FR: RAKUTEN TV SÉRIES CRIME
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/franceT-220x132/RAKUTEN.png" group-title="FR PLUTO - RAKUTEN",FR: RAKUTEN TV SÉRIES CRIME
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/610376.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NJYEYE3.png" group-title="FR PLUTO - RAKUTEN",FR: RAKUTEN TV TOP FILMS
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/franceT-220x132/RAKUTEN.png" group-title="FR PLUTO - RAKUTEN",FR: RAKUTEN TV TOP FILMS
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/610373.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FR PLUTO - RAKUTEN",FR: RAKUTEN TV TRAILERS
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/franceT-220x132/RAKUTEN.png" group-title="FR PLUTO - RAKUTEN",FR: RAKUTEN TV TRAILERS
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/610372.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FR PLUTO - RAKUTEN",FR: REUTERS
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/a-z/--R--/reuters.png" group-title="FR PLUTO - RAKUTEN",FR: REUTERS
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/610371.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FR PLUTO - RAKUTEN",FR: TELEVISA TELENOVELA CHANNEL
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/a-z/--T--/televisa.png" group-title="FR PLUTO - RAKUTEN",FR: TELEVISA TELENOVELA CHANNEL
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/610369.m3u8
 #EXTINF:-1 tvg-logo="" group-title="FR PLUTO - RAKUTEN",FR: VEVO HIP-HOP ET RNB
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/610363.m3u8
@@ -5286,19 +5284,19 @@ http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/610363.m3u8
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/610362.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XVCV9rj.png" group-title="FR PLUTO - RAKUTEN",FR: VIÀ MATÉLÉ
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/610361.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FR PLUTO - RAKUTEN",FR: WASABI LA CHAÎNE ANIME
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/franceT-220x132/WASABI LA CHAÎNE ANIME.png" group-title="FR PLUTO - RAKUTEN",FR: WASABI LA CHAÎNE ANIME
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/610357.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FR PLUTO - RAKUTEN",FR: Y'A QUE LA VÉRITÉ QUI COMPTE LA CHAÎNE
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/franceT-220x132/Y'A QUE LA VÉRITÉ QUI COMPTE LA CHAÎNE.png" group-title="FR PLUTO - RAKUTEN",FR: Y'A QUE LA VÉRITÉ QUI COMPTE LA CHAÎNE
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/610356.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FR PLUTO - RAKUTEN",FR: ZYLO CINÉ NANAR
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/a-z/--C--/cinenanar.png" group-title="FR PLUTO - RAKUTEN",FR: ZYLO CINÉ NANAR
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/610354.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FR PLUTO - RAKUTEN",FR: ZYLO CINÉ WESTERN
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/franceT-220x132/CINÉ WESTERN.png" group-title="FR PLUTO - RAKUTEN",FR: ZYLO CINÉ WESTERN
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/610353.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FR PLUTO - RAKUTEN",FR: ZYLO EMOTION' L
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/franceT-220x132/ZYLO EMOTION' L.png" group-title="FR PLUTO - RAKUTEN",FR: ZYLO EMOTION' L
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/610352.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FR PLUTO - RAKUTEN",FR: ZYLO FRÉQUENCE NOVELAS
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/franceT-220x132/FRÉQUENCE NOVELAS.png" group-title="FR PLUTO - RAKUTEN",FR: ZYLO FRÉQUENCE NOVELAS
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/610351.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FR PLUTO - RAKUTEN",FR: ZYLO SCREAMIN
+#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/franceT-220x132/ZYLO EMOTION' L.png" group-title="FR PLUTO - RAKUTEN",FR: ZYLO SCREAMIN
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/610350.m3u8
 #EXTINF:-1 tvg-logo="" group-title="FR PLUTO - RAKUTEN",FR:|VIP| CHEVAL TV HD
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/636177.m3u8
@@ -9137,4 +9135,4 @@ http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/199554.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/red-bull-tv.png" group-title="UK SPORT",UK: RED BULL TV FHD
 http://funmitra.com:8080/live/mehmettaskiran2/dVf91xR5r9/199548.m3u8
 
-# Total: 4495
+# Total: 4494

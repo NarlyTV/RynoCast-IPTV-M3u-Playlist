@@ -1,14 +1,14 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: danbitman.ddns.net:8008
-# Generated: 2026-01-25 07:15:55
+# Generated: 2026-01-25 18:27:31
 # Expires: 2026-09-28
 # Family Safe Edition
 # ==============================================
 
 
 # --- ⚜️ROMANIA TV⚜️ (510) ---
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wvFMSGRt/Whats-App-Image-2025-11-27-at-15-20-39-6e5d06cc.jpg" group-title="⚜️ROMANIA TV⚜️",⚜️PRO EUROPA INFO⚜️
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wvFMSGRt/Whats-App-Image-2025-11-27-at-15-20-39-6e5d06cc.jpg" group-title="⚜️ROMANIA TV⚜️",⚜️PRO HD⚜️
 http://danbitman.ddns.net:8008/live/Cristinel_Ciorascu/jkAEH821DU/540724.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/WzfDK55q/resize.png" group-title="⚜️ROMANIA TV⚜️",PRO TV UHD
 http://danbitman.ddns.net:8008/live/Cristinel_Ciorascu/jkAEH821DU/33760.m3u8

@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: uzay.pro:8080
-# Generated: 2026-01-24 07:09:48
+# Generated: 2026-01-25 18:36:12
 # Expires: 2026-04-13
 # Family Safe Edition
 # ==============================================
@@ -3339,7 +3339,7 @@ http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/633258.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/magentaSport.png" group-title="DE MAGENTA TV",DE: |MAGENTA| SPORT 18 - MYTEAMTV
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/633257.m3u8
 
-# --- DE MUSIK (28) ---
+# --- DE MUSIK (27) ---
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/flag/ger.png" group-title="DE MUSIK",DE: ----- MUSIK -----
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/135929.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/DLXdance-by-kontor.png" group-title="DE MUSIK",DE: DELUXE DANCE
@@ -3372,8 +3372,6 @@ http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/390903.m3u8
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/330019.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/mtv.png" group-title="DE MUSIK",DE: MTV
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/228971.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/mtv_dance.png" group-title="DE MUSIK",DE: MTV DANCE
-http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/230251.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/mtvHits.png" group-title="DE MUSIK",DE: MTV HITS
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/240631.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/MyTVplus.png" group-title="DE MUSIK",DE: MYTVPLUS
@@ -4649,4 +4647,4 @@ http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/210664.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/macedonia/alsat.png" group-title="MK MACEDONIA",MK: ALSAT M TV
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/290212.m3u8
 
-# Total: 2289
+# Total: 2288

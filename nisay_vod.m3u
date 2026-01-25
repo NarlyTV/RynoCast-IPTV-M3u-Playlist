@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: nisay.xyz:8080
-# Generated: 2026-01-25 07:14:06
+# Generated: 2026-01-25 18:42:19
 # Expires: 2026-10-04
 # Family Safe Edition
 # ==============================================
@@ -7985,7 +7985,9 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1116.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE: DOKUMANTARE",DE: Planet der Liebe
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/1117.mp4
 
-# --- Movies | DE: FILME 2021 (495) ---
+# --- Movies | DE: FILME 2021 (496) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/RO4KoJyoQMQzh9z76d4v4FJMmJ.jpg" group-title="Movies | DE: FILME 2021",DE: In the Heights (2021)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/160334.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gNv20Mnfcku1qnN4q0d7ayNQafZ.jpg" group-title="Movies | DE: FILME 2021",DE: The Village in the Woods (2021)
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/160051.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gmNcvtlUx3oxsycZskJZLdGPWt4.jpg" group-title="Movies | DE: FILME 2021",DE: Kaiserschmarrndrama (2021)
@@ -12883,7 +12885,17 @@ http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/139884.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5y0hFRhfx34Be04B7GGqg5TMTM0.jpg" group-title="Movies | DE: FILME 2024",DE: City Hunter (2024)
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/139885.mp4
 
-# --- Movies | DE: FILME 2025 (409) ---
+# --- Movies | DE: FILME 2025 (414) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ppOwa6PEtGsIiDPdZHUbEqgIY7.jpg" group-title="Movies | DE: FILME 2025",DE: No Escape - Grizzly Night (2026)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/160329.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qC9CVkVyCma2sfpLfCuLUOH56d3.jpg" group-title="Movies | DE: FILME 2025",DE: Shadow Chase - Im Netz der Diebe (2025)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/160330.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nFx8JqrzQRkNCqTDSv8ybOgJmb6.jpg" group-title="Movies | DE: FILME 2025",DE: Influencer 2 (2025)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/160331.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/96Yif71GHkhtZlo8ytZvD6njsGe.jpg" group-title="Movies | DE: FILME 2025",DE: The Senior - Ein Traum, Ein Wille, Ein letztes Spiel (2025)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/160332.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vTeJgz2mtk4VHp1pMW9hfwbnXiv.jpg" group-title="Movies | DE: FILME 2025",DE: Rental Family (2025)
+http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/160333.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/68HSGJXngNTPs5D7hiUjooKJV5r.jpg" group-title="Movies | DE: FILME 2025",DE: How to Make a Killing (2025)
 http://nisay.xyz:8080/movie/atillaerdoganDE/sa95x6VSFx/160285.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bGLgIRasU93kIZbmOClkBA51E5T.jpg" group-title="Movies | DE: FILME 2025",DE: Il falsario (2025)
@@ -20189,4 +20201,4 @@ http://nisay.xyz:8080/series/atillaerdoganDE/sa95x6VSFx/1503
 #EXTINF:-1 tvg-logo="" group-title="Series | TR ALTYAZI SERIES",Pluribus
 http://nisay.xyz:8080/series/atillaerdoganDE/sa95x6VSFx/1803
 
-# Total: 10027
+# Total: 10033

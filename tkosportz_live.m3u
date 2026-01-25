@@ -1,13 +1,13 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: tkosportz.live:25461
-# Generated: 2026-01-25 07:15:08
+# Generated: 2026-01-25 18:26:38
 # Expires: 2026-03-09
 # Family Safe Edition
 # ==============================================
 
 
-# --- 01. PPV EVENTS / RACING (ET) (8) ---
+# --- 01. PPV EVENTS / RACING (ET) (7) ---
 #EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Sky_Sports_F1_2020.png" group-title="01. PPV EVENTS / RACING (ET)",03.  MOTOR RACING
 http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/105962.m3u8
 #EXTINF:-1 tvg-logo="https://d2779tscntxxsw.cloudfront.net/5fd7eced045fd.png" group-title="01. PPV EVENTS / RACING (ET)",05. FloRacing 24/7
@@ -22,34 +22,16 @@ http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/204207.m3u8
 http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/207543.m3u8
 #EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2025/02/NHRA.png" group-title="01. PPV EVENTS / RACING (ET)",02. NHRA TV
 http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/175763.m3u8
-#EXTINF:-1 tvg-logo="" group-title="01. PPV EVENTS / RACING (ET)",PPV 05 | Tulsa Shootout
-http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/218617.m3u8
 
-# --- 01. PPV FIGHTS/WWE (ET) (7) ---
+# --- 01. PPV FIGHTS/WWE (ET) (4) ---
 #EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2025/01/wwe.png" group-title="01. PPV FIGHTS/WWE (ET)",01: 3p MONDAY NIGHT RAW
 http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/41056.m3u8
-#EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/dazn2.jpg" group-title="01. PPV FIGHTS/WWE (ET)",02. DAZN1
+#EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2026/01/Dazn-logo.png" group-title="01. PPV FIGHTS/WWE (ET)",02. DAZN1
 http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/199228.m3u8
 #EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/UFC3D.png" group-title="01. PPV FIGHTS/WWE (ET)",03. UFC TV
 http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/206859.m3u8
 #EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2026/01/Dazn-logo.png" group-title="01. PPV FIGHTS/WWE (ET)",02. DAZN RINGSIDE
 http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/218787.m3u8
-#EXTINF:-1 tvg-logo="" group-title="01. PPV FIGHTS/WWE (ET)",8p WWE Saturday Nights Main Event
-http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/219732.m3u8
-#EXTINF:-1 tvg-logo="" group-title="01. PPV FIGHTS/WWE (ET)",8p Muratalla vs. Cruz
-http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/219733.m3u8
-#EXTINF:-1 tvg-logo="" group-title="01. PPV FIGHTS/WWE (ET)",7p TOUGHMAN
-http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/219734.m3u8
-
-# --- 01. UFC 324 (4) ---
-#EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Ultimate_Fighting_Championship.png" group-title="01. UFC 324",530p UFC EARLY
-http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/38153.m3u8
-#EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Ultimate_Fighting_Championship.png" group-title="01. UFC 324",530p UFC Prelims
-http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/38154.m3u8
-#EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Ultimate_Fighting_Championship.png" group-title="01. UFC 324",UFC MAIN PPV
-http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/38155.m3u8
-#EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Ultimate_Fighting_Championship.png" group-title="01. UFC 324",UFC MAIN PPV #2
-http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/38156.m3u8
 
 # --- 02. USA CABLE  TV #1 (149) ---
 #EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/ae-logo-black-and-white.png" group-title="02. USA CABLE  TV #1",A&E
@@ -19630,20 +19612,20 @@ http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/99189.m3u8
 http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/99194.m3u8
 #EXTINF:-1 tvg-logo="http://onlytimewilltell.xyz:2086/images/17ffd1ea778c1cb452db2523ce91419e.png" group-title="28. NHL",US : NHL CHICAGO BLACKHAWKS
 http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/99186.m3u8
-#EXTINF:-1 tvg-logo="https://www.sportsmediawatch.com/wp-content/uploads/2012/01/nhl_logo.png" group-title="28. NHL",NHL 01 | Buffalo Sabres vs. New York Islanders  | 1 PM ET | 1.24
-http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/219590.m3u8
-#EXTINF:-1 tvg-logo="https://www.sportsmediawatch.com/wp-content/uploads/2012/01/nhl_logo.png" group-title="28. NHL",NHL 02 | Utah Mammoth vs. Nashville Predators  | 1.30 PM ET | 1.24
-http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/219591.m3u8
-#EXTINF:-1 tvg-logo="https://www.sportsmediawatch.com/wp-content/uploads/2012/01/nhl_logo.png" group-title="28. NHL",NHL 03 | Carolina Hurricanes vs. Ottawa Senators  | 7 PM ET | 1.24
-http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/219592.m3u8
-#EXTINF:-1 tvg-logo="https://www.sportsmediawatch.com/wp-content/uploads/2012/01/nhl_logo.png" group-title="28. NHL",NHL 04 | Detroit Red Wings vs. Winnipeg Jets  | 7 PM ET | 1.24
+#EXTINF:-1 tvg-logo="https://www.sportsmediawatch.com/wp-content/uploads/2012/01/nhl_logo.png" group-title="28. NHL",3p Devils @ Kraken
 http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/219593.m3u8
-#EXTINF:-1 tvg-logo="https://www.sportsmediawatch.com/wp-content/uploads/2012/01/nhl_logo.png" group-title="28. NHL",NHL 05 | Montreal Canadiens vs. Boston Bruins  | 7 PM ET | 1.24
+#EXTINF:-1 tvg-logo="https://www.sportsmediawatch.com/wp-content/uploads/2012/01/nhl_logo.png" group-title="28. NHL",5p Golden Knights @ Senators
 http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/219594.m3u8
-#EXTINF:-1 tvg-logo="https://www.sportsmediawatch.com/wp-content/uploads/2012/01/nhl_logo.png" group-title="28. NHL",NHL 08 | Florida Panthers vs. Minnesota Wild  | 9 PM ET | 1.24
+#EXTINF:-1 tvg-logo="https://www.sportsmediawatch.com/wp-content/uploads/2012/01/nhl_logo.png" group-title="28. NHL",6p Penguins @ Canucks
+http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/219595.m3u8
+#EXTINF:-1 tvg-logo="https://www.sportsmediawatch.com/wp-content/uploads/2012/01/nhl_logo.png" group-title="28. NHL",7p Panthers @ Blackhawks
+http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/219596.m3u8
+#EXTINF:-1 tvg-logo="https://www.sportsmediawatch.com/wp-content/uploads/2012/01/nhl_logo.png" group-title="28. NHL",8p Ducks @ Flames
 http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/219597.m3u8
-#EXTINF:-1 tvg-logo="https://www.sportsmediawatch.com/wp-content/uploads/2012/01/nhl_logo.png" group-title="28. NHL",NHL 09 | Washington Capitals vs. Edmonton Oilers  | 10 PM ET | 1.24
+#EXTINF:-1 tvg-logo="https://www.sportsmediawatch.com/wp-content/uploads/2012/01/nhl_logo.png" group-title="28. NHL",NHL 09
 http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/219598.m3u8
+#EXTINF:-1 tvg-logo="https://www.sportsmediawatch.com/wp-content/uploads/2012/01/nhl_logo.png" group-title="28. NHL",130p Avalanche @ Maple Leafs
+http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/219737.m3u8
 
 # --- 29. MLB TEAM FEEDS (31) ---
 #EXTINF:-1 tvg-logo="http://onlytimewilltell.xyz:2086/images/5d45e165ca38cb86952dd8ca8a86e4ce.png" group-title="29. MLB TEAM FEEDS",US : MLB ARIZONA DIAMONDBACKS
@@ -20017,4 +19999,4 @@ http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/191009.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/Red_Noticias2019.png/revision/latest/scale-to-width-down/274?cb=20210424015309&path-prefix=es" group-title="37. COLUMBIA",CO: Red+ Noticias FHD
 http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/191010.m3u8
 
-# Total: 9977
+# Total: 9969
