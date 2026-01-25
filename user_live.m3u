@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: user.scalecdn.co:8080
-# Generated: 2026-01-24 18:29:04
+# Generated: 2026-01-25 07:25:06
 # Expires: 2026-11-29
 # Family Safe Edition
 # ==============================================
@@ -9370,7 +9370,7 @@ http://user.scalecdn.co:8080/live/Moniesavatar/85678534/5598.m3u8
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/5599.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/674362068737232896/199ThBds_400x400.jpg" group-title="PAY PER VIEW (PPV)",USA PPV04: CSE Combat: The Gauntlet Tournament (fite tv) @ 06:00 PM EST
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/21292.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/674362068737232896/199ThBds_400x400.jpg" group-title="PAY PER VIEW (PPV)",USA PPV05:
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/674362068737232896/199ThBds_400x400.jpg" group-title="PAY PER VIEW (PPV)",USA PPV05: Netflix Skyscrapers 08:00 PM EST
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/21293.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/674362068737232896/199ThBds_400x400.jpg" group-title="PAY PER VIEW (PPV)",USA PPV06:
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/21817.m3u8
@@ -17965,7 +17965,7 @@ http://user.scalecdn.co:8080/live/Moniesavatar/85678534/390429.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/images/large/2x/minnesota-vikings-logo-transparent.png" group-title="USA NFL",USA NFL: Vikings
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/390428.m3u8
 
-# --- USA NHL (87) ---
+# --- USA NHL (89) ---
 #EXTINF:-1 tvg-logo="" group-title="USA NHL",USA NHL Anaheim Ducks
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/509719.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA NHL",USA NHL Arizona Coyotes
@@ -18046,7 +18046,11 @@ http://user.scalecdn.co:8080/live/Moniesavatar/85678534/205054.m3u8
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/205055.m3u8
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA NHL",USA Real NHL 11: WSH VS EDM (TVAS2 Feed ) @ 10:00 pm
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/205056.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA NHL",USA Real NHL 14: Florida Panthers vs Minnesota Wild @ @ 09:00 PM
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA NHL",USA Real NHL 12:
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/205057.m3u8
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA NHL",USA Real NHL 13:
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/205058.m3u8
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA NHL",USA Real NHL 14:
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/205059.m3u8
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA NHL",USA Real NHL 15:
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/205060.m3u8
@@ -18799,4 +18803,4 @@ http://user.scalecdn.co:8080/live/Moniesavatar/85678534/660965.m3u8
 #EXTINF:-1 tvg-logo="" group-title="VIETNAM",VN Vietface TV
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/660966.m3u8
 
-# Total: 9283
+# Total: 9285

@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: sv1.casahd.com
-# Generated: 2026-01-24 18:26:57
+# Generated: 2026-01-25 07:18:34
 # Expires: 2026-05-02
 # Family Safe Edition
 # ==============================================
@@ -295,7 +295,7 @@ http://sv1.casahd.com/live/528398/824141/1361474.m3u8
 #EXTINF:-1 tvg-logo="http://kazzaplay.shop:80/images/647b1b714ee4bc42a6c92da055ab4628.png" group-title="ESPORTES",FOX SPORTS 2 HD
 http://sv1.casahd.com/live/528398/824141/1361477.m3u8
 
-# --- ESPORTES ESPECIAIS & PPV (27) ---
+# --- ESPORTES ESPECIAIS & PPV (30) ---
 #EXTINF:-1 tvg-logo="http://kazzaplay.shop:80/images/21490c453c5d81019bd411c2fbc1c5b1.png" group-title="ESPORTES ESPECIAIS & PPV",CAZE TV HD
 http://sv1.casahd.com/live/528398/824141/1361498.m3u8
 #EXTINF:-1 tvg-logo="http://kazzaplay.shop:80/images/5869ca01b92e1e60a5ae805eea199ed0.png" group-title="ESPORTES ESPECIAIS & PPV",DAZN 03 HD
@@ -350,8 +350,14 @@ http://sv1.casahd.com/live/528398/824141/1535343.m3u8
 http://sv1.casahd.com/live/528398/824141/1361562.m3u8
 #EXTINF:-1 tvg-logo="http://kazzaplay.shop:80/images/PwklbJqcj1FbmegIoIsPFgIDZ7PIys0pzJqAbJMy3aSaWV00Ky1T0Yb8omurQ817BT8LlROCURXGgcCIlg_tEQ.png" group-title="ESPORTES ESPECIAIS & PPV",UFC PASS FIGHT 02 HD
 http://sv1.casahd.com/live/528398/824141/1361563.m3u8
+#EXTINF:-1 tvg-logo="http://kazzaplay.shop:80/images/PwklbJqcj1FbmegIoIsPFhi-nR3Gi2vpz7z5AkDMEU9sRYbo8TyrQRB505Zckg5b9WRRgP8zWgHskcnNMB6i9Q.png" group-title="ESPORTES ESPECIAIS & PPV",UFC SD
+http://sv1.casahd.com/live/528398/824141/2255070.m3u8
+#EXTINF:-1 tvg-logo="http://kazzaplay.shop:80/images/PwklbJqcj1FbmegIoIsPFhi-nR3Gi2vpz7z5AkDMEU9sRYbo8TyrQRB505Zckg5b9WRRgP8zWgHskcnNMB6i9Q.png" group-title="ESPORTES ESPECIAIS & PPV",UFC HD
+http://sv1.casahd.com/live/528398/824141/2255071.m3u8
+#EXTINF:-1 tvg-logo="http://kazzaplay.shop:80/images/PwklbJqcj1FbmegIoIsPFhi-nR3Gi2vpz7z5AkDMEU9sRYbo8TyrQRB505Zckg5b9WRRgP8zWgHskcnNMB6i9Q.png" group-title="ESPORTES ESPECIAIS & PPV",UFC FHD
+http://sv1.casahd.com/live/528398/824141/2255072.m3u8
 
-# --- FILMES E SERIES (55) ---
+# --- FILMES E SERIES (57) ---
 #EXTINF:-1 tvg-logo="http://kazzaplay.shop:80/images/uO0HTwVaPVayjnkPbvS5SP2LbnJ0Tsqp_qLojR_WdjBwTedrMVcNVdZ_SzSvophJnpS3qRLcAUpkrc3caQn7Pv_8fkOBJWx7-nLIKexfwqgp_kmjV7ivjVS1FYu_GsHUg0jO6gL4nHDealiLZ7GjMQ.jpg" group-title="FILMES E SERIES",A&E
 http://sv1.casahd.com/live/528398/824141/1361565.m3u8
 #EXTINF:-1 tvg-logo="http://kazzaplay.shop:80/images/uO0HTwVaPVayjnkPbvS5SP2LbnJ0Tsqp_qLojR_WdjBwTedrMVcNVdZ_SzSvophJnpS3qRLcAUpkrc3caQn7Pv_8fkOBJWx7-nLIKexfwqgp_kmjV7ivjVS1FYu_GsHUg0jO6gL4nHDealiLZ7GjMQ.jpg" group-title="FILMES E SERIES",A&E 4K
@@ -462,6 +468,10 @@ http://sv1.casahd.com/live/528398/824141/1361620.m3u8
 http://sv1.casahd.com/live/528398/824141/1361622.m3u8
 #EXTINF:-1 tvg-logo="http://kazzaplay.shop:80/images/PwklbJqcj1FbmegIoIsPFgIDZ7PIys0pzJqAbJMy3aTKCPG9JjU99apO3HrtoSx2XRGOjSDMifb528NcPplgkg.png" group-title="FILMES E SERIES",WARNER CHANNEL SD
 http://sv1.casahd.com/live/528398/824141/1361623.m3u8
+#EXTINF:-1 tvg-logo="http://kazzaplay.shop:80/images/PwklbJqcj1FbmegIoIsPFhi-nR3Gi2vpz7z5AkDMEU8WZcyGenEFLpbZI1cbrZ3nrzxzHMNhCAIyK09T5Ws3Ww.png" group-title="FILMES E SERIES",AMC Séries FHD
+http://sv1.casahd.com/live/528398/824141/2255073.m3u8
+#EXTINF:-1 tvg-logo="http://kazzaplay.shop:80/images/PwklbJqcj1FbmegIoIsPFhi-nR3Gi2vpz7z5AkDMEU8WZcyGenEFLpbZI1cbrZ3nrzxzHMNhCAIyK09T5Ws3Ww.png" group-title="FILMES E SERIES",AMC Séries SD
+http://sv1.casahd.com/live/528398/824141/2255074.m3u8
 
 # --- GLOBO (192) ---
 #EXTINF:-1 tvg-logo="http://kazzaplay.shop:80/images/acac8977460169d24820343637a3dac4.png" group-title="GLOBO",GLOBO  EPTV SUL DE MINAS HD
@@ -1125,7 +1135,7 @@ http://sv1.casahd.com/live/528398/824141/1526736.m3u8
 #EXTINF:-1 tvg-logo="" group-title="RADIOS",RÁDIO TRILHAS DE SUCESSO
 http://sv1.casahd.com/live/528398/824141/1526738.m3u8
 
-# --- REALITY SHOW (6) ---
+# --- REALITY SHOW (12) ---
 #EXTINF:-1 tvg-logo="http://kazzaplay.shop:80/images/PwklbJqcj1FbmegIoIsPFhi-nR3Gi2vpz7z5AkDMEU_QSJy27__3IHUa9DDt0hNqJ9DHFfcbeNFNkDHSbGcVUw.png" group-title="REALITY SHOW",BBB 01
 http://sv1.casahd.com/live/528398/824141/2248879.m3u8
 #EXTINF:-1 tvg-logo="http://kazzaplay.shop:80/images/PwklbJqcj1FbmegIoIsPFhi-nR3Gi2vpz7z5AkDMEU_QSJy27__3IHUa9DDt0hNqJ9DHFfcbeNFNkDHSbGcVUw.png" group-title="REALITY SHOW",BBB 02
@@ -1138,6 +1148,18 @@ http://sv1.casahd.com/live/528398/824141/2248882.m3u8
 http://sv1.casahd.com/live/528398/824141/2248883.m3u8
 #EXTINF:-1 tvg-logo="http://kazzaplay.shop:80/images/PwklbJqcj1FbmegIoIsPFhi-nR3Gi2vpz7z5AkDMEU_QSJy27__3IHUa9DDt0hNqJ9DHFfcbeNFNkDHSbGcVUw.png" group-title="REALITY SHOW",BBB 06
 http://sv1.casahd.com/live/528398/824141/2248884.m3u8
+#EXTINF:-1 tvg-logo="http://kazzaplay.shop:80/images/PwklbJqcj1FbmegIoIsPFhi-nR3Gi2vpz7z5AkDMEU_QSJy27__3IHUa9DDt0hNqJ9DHFfcbeNFNkDHSbGcVUw.png" group-title="REALITY SHOW",BBB 07
+http://sv1.casahd.com/live/528398/824141/2255064.m3u8
+#EXTINF:-1 tvg-logo="http://kazzaplay.shop:80/images/PwklbJqcj1FbmegIoIsPFhi-nR3Gi2vpz7z5AkDMEU_QSJy27__3IHUa9DDt0hNqJ9DHFfcbeNFNkDHSbGcVUw.png" group-title="REALITY SHOW",BBB 08
+http://sv1.casahd.com/live/528398/824141/2255065.m3u8
+#EXTINF:-1 tvg-logo="http://kazzaplay.shop:80/images/PwklbJqcj1FbmegIoIsPFhi-nR3Gi2vpz7z5AkDMEU_QSJy27__3IHUa9DDt0hNqJ9DHFfcbeNFNkDHSbGcVUw.png" group-title="REALITY SHOW",BBB 09
+http://sv1.casahd.com/live/528398/824141/2255066.m3u8
+#EXTINF:-1 tvg-logo="http://kazzaplay.shop:80/images/PwklbJqcj1FbmegIoIsPFhi-nR3Gi2vpz7z5AkDMEU_QSJy27__3IHUa9DDt0hNqJ9DHFfcbeNFNkDHSbGcVUw.png" group-title="REALITY SHOW",BBB 10
+http://sv1.casahd.com/live/528398/824141/2255067.m3u8
+#EXTINF:-1 tvg-logo="http://kazzaplay.shop:80/images/PwklbJqcj1FbmegIoIsPFhi-nR3Gi2vpz7z5AkDMEU_QSJy27__3IHUa9DDt0hNqJ9DHFfcbeNFNkDHSbGcVUw.png" group-title="REALITY SHOW",BBB 11
+http://sv1.casahd.com/live/528398/824141/2255068.m3u8
+#EXTINF:-1 tvg-logo="http://kazzaplay.shop:80/images/PwklbJqcj1FbmegIoIsPFhi-nR3Gi2vpz7z5AkDMEU_QSJy27__3IHUa9DDt0hNqJ9DHFfcbeNFNkDHSbGcVUw.png" group-title="REALITY SHOW",BBB 12
+http://sv1.casahd.com/live/528398/824141/2255069.m3u8
 
 # --- RECORD (56) ---
 #EXTINF:-1 tvg-logo="http://kazzaplay.shop:80/images/ayfdHaSGfQQ7HLxmvsjLeE3BKInEDKgcfqAWvXjT6hSymMHP6_ULmazxArW4G7mB243_vORXliYYjXaBUHCQsg.png" group-title="RECORD",RECORD MG HD
@@ -1437,4 +1459,4 @@ http://sv1.casahd.com/live/528398/824141/1361286.m3u8
 #EXTINF:-1 tvg-logo="http://kazzaplay.shop:80/images/PwklbJqcj1FbmegIoIsPFgIDZ7PIys0pzJqAbJMy3aQgwktDQuNiT9D5jC6bb--1Mo04VLW3E2flLdrSgdZ9mw.png" group-title="VARIEDADE",WOOHOO SD
 http://sv1.casahd.com/live/528398/824141/1526322.m3u8
 
-# Total: 691
+# Total: 702

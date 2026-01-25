@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: s.rocketdns.info:8080
-# Generated: 2026-01-24 18:26:08
+# Generated: 2026-01-25 07:18:17
 # Expires: Unlimited
 # Family Safe Edition
 # ==============================================
@@ -9370,7 +9370,7 @@ http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/5598.m3u8
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/5599.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/674362068737232896/199ThBds_400x400.jpg" group-title="PAY PER VIEW (PPV)",USA PPV04: CSE Combat: The Gauntlet Tournament (fite tv) @ 06:00 PM EST
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/21292.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/674362068737232896/199ThBds_400x400.jpg" group-title="PAY PER VIEW (PPV)",USA PPV05:
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/674362068737232896/199ThBds_400x400.jpg" group-title="PAY PER VIEW (PPV)",USA PPV05: Netflix Skyscrapers 08:00 PM EST
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/21293.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/674362068737232896/199ThBds_400x400.jpg" group-title="PAY PER VIEW (PPV)",USA PPV06:
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/21817.m3u8
@@ -17963,7 +17963,7 @@ http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/390429.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/images/large/2x/minnesota-vikings-logo-transparent.png" group-title="USA NFL",USA NFL: Vikings
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/390428.m3u8
 
-# --- USA NHL (87) ---
+# --- USA NHL (89) ---
 #EXTINF:-1 tvg-logo="" group-title="USA NHL",USA NHL Anaheim Ducks
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/509719.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA NHL",USA NHL Arizona Coyotes
@@ -18044,7 +18044,11 @@ http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/205054.m3u8
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/205055.m3u8
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA NHL",USA Real NHL 11: WSH VS EDM (TVAS2 Feed ) @ 10:00 pm
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/205056.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA NHL",USA Real NHL 14: Florida Panthers vs Minnesota Wild @ @ 09:00 PM
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA NHL",USA Real NHL 12:
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/205057.m3u8
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA NHL",USA Real NHL 13:
+http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/205058.m3u8
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA NHL",USA Real NHL 14:
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/205059.m3u8
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA NHL",USA Real NHL 15:
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/205060.m3u8
@@ -18797,4 +18801,4 @@ http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/660965.m3u8
 #EXTINF:-1 tvg-logo="" group-title="VIETNAM",VN Vietface TV
 http://s.rocketdns.info:8080/live/dana-restream/98jksd1JD78132/660966.m3u8
 
-# Total: 9282
+# Total: 9284

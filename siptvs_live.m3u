@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: siptvs.com:8080
-# Generated: 2026-01-24 18:26:09
+# Generated: 2026-01-25 07:20:35
 # Expires: 2026-05-16
 # Family Safe Edition
 # ==============================================
@@ -1067,33 +1067,79 @@ http://siptvs.com:8080/live/Biljana12/Biljana12/131425.m3u8
 #EXTINF:-1 tvg-logo="http://siptvs.com:8080/images/842357c286f89e9472ea61add866b6fd.png" group-title="|DE| KIDS",AT: ORF KIDS (TEST)
 http://siptvs.com:8080/live/Biljana12/Biljana12/184186.m3u8
 
-# --- |DE| MUSIC (13) ---
-#EXTINF:-1 tvg-logo="https://logos.siptvs.com/GERMANY/MTVHITS.png" group-title="|DE| MUSIC",MTV HITS
+# --- |DE| MUSIC (36) ---
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HimuPPb.png" group-title="|DE| MUSIC",DELUXE MUSIC
 http://siptvs.com:8080/live/Biljana12/Biljana12/67648.m3u8
-#EXTINF:-1 tvg-logo="https://logos.siptvs.com/GERMANY/mtv90.png" group-title="|DE| MUSIC",MTV 90S
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pgCA35z.png" group-title="|DE| MUSIC",DELUXE LOUNGE
 http://siptvs.com:8080/live/Biljana12/Biljana12/67647.m3u8
 #EXTINF:-1 tvg-logo="https://logos.siptvs.com/GERMANY/MTV.png" group-title="|DE| MUSIC",MTV
 http://siptvs.com:8080/live/Biljana12/Biljana12/67646.m3u8
 #EXTINF:-1 tvg-logo="https://logos.siptvs.com/GERMANY/mtvclassics.png" group-title="|DE| MUSIC",MTV CLASSICS
 http://siptvs.com:8080/live/Biljana12/Biljana12/67645.m3u8
-#EXTINF:-1 tvg-logo="https://logos.siptvs.com/GERMANY/clubmtv.png" group-title="|DE| MUSIC",CLUB MTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qu7t15Y.png" group-title="|DE| MUSIC",DELUXE DANCE
 http://siptvs.com:8080/live/Biljana12/Biljana12/67643.m3u8
-#EXTINF:-1 tvg-logo="https://logos.siptvs.com/GERMANY/mtv00.png" group-title="|DE| MUSIC",MTV 00S
+#EXTINF:-1 tvg-logo="https://i.imgur.com/s3h67hx.png" group-title="|DE| MUSIC",DELUXE RAP
 http://siptvs.com:8080/live/Biljana12/Biljana12/67644.m3u8
-#EXTINF:-1 tvg-logo="https://logos.siptvs.com/GERMANY/mtvlive.png" group-title="|DE| MUSIC",MTV LIVE
-http://siptvs.com:8080/live/Biljana12/Biljana12/67642.m3u8
-#EXTINF:-1 tvg-logo="https://logos.siptvs.com/GERMANY/mtvclassics.png" group-title="|DE| MUSIC",MTV CLASSICS
-http://siptvs.com:8080/live/Biljana12/Biljana12/38039.m3u8
 #EXTINF:-1 tvg-logo="https://logos.siptvs.com/GERMANY/oe3.png" group-title="|DE| MUSIC",HIT RADIO Ö3
 http://siptvs.com:8080/live/Biljana12/Biljana12/35367.m3u8
 #EXTINF:-1 tvg-logo="https://logos.siptvs.com/GERMANY/KRONEHIT.png" group-title="|DE| MUSIC",KRONE HIT
 http://siptvs.com:8080/live/Biljana12/Biljana12/35366.m3u8
 #EXTINF:-1 tvg-logo="https://logos.siptvs.com/GERMANY/mtvmusic.png" group-title="|DE| MUSIC",MTV MUSIC
 http://siptvs.com:8080/live/Biljana12/Biljana12/35364.m3u8
-#EXTINF:-1 tvg-logo="https://logos.siptvs.com/GERMANY/mtv80.png" group-title="|DE| MUSIC",MTV 80´ ᴴᴰ
-http://siptvs.com:8080/live/Biljana12/Biljana12/35363.m3u8
 #EXTINF:-1 tvg-logo="https://logos.siptvs.com/GERMANY/VH1.png" group-title="|DE| MUSIC",VH 1
 http://siptvs.com:8080/live/Biljana12/Biljana12/35362.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FBgu8yB.png" group-title="|DE| MUSIC",Stingray Classic Rock (1080p)
+http://siptvs.com:8080/live/Biljana12/Biljana12/199391.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nh1k5RC.png" group-title="|DE| MUSIC",Stingray Classica (1080p)
+http://siptvs.com:8080/live/Biljana12/Biljana12/199392.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3UppN5P.png" group-title="|DE| MUSIC",Stingray CMusic (1080p)
+http://siptvs.com:8080/live/Biljana12/Biljana12/199393.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Stingray_Djazz.png/512px-Stingray_Djazz.png" group-title="|DE| MUSIC",Stingray DJAZZ (1080p)
+http://siptvs.com:8080/live/Biljana12/Biljana12/199394.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/512px-Stingray_Music_logo.svg.png" group-title="|DE| MUSIC",Stingray Easy Listening (1080p)
+http://siptvs.com:8080/live/Biljana12/Biljana12/199395.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jf5C9QF.png" group-title="|DE| MUSIC",Stingray Flashback 70s (1080p)
+http://siptvs.com:8080/live/Biljana12/Biljana12/199396.m3u8
+#EXTINF:-1 tvg-logo="" group-title="|DE| MUSIC",Stingray Greatest Hits
+http://siptvs.com:8080/live/Biljana12/Biljana12/199397.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Hz2d6og.png" group-title="|DE| MUSIC",Stingray Greatest Holiday Hits
+http://siptvs.com:8080/live/Biljana12/Biljana12/199398.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lgpIwId.png" group-title="|DE| MUSIC",Stingray Hit List (1080p)
+http://siptvs.com:8080/live/Biljana12/Biljana12/199399.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lgpIwId.png" group-title="|DE| MUSIC",Stingray Hitlist
+http://siptvs.com:8080/live/Biljana12/Biljana12/199400.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4xVVKH8.png" group-title="|DE| MUSIC",Stingray Holiday Hits (1080p)
+http://siptvs.com:8080/live/Biljana12/Biljana12/199401.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9TLTLS3.png" group-title="|DE| MUSIC",Stingray Karaoke (1080p)
+http://siptvs.com:8080/live/Biljana12/Biljana12/199403.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/882kd90.png" group-title="|DE| MUSIC",Stingray Naturescape
+http://siptvs.com:8080/live/Biljana12/Biljana12/199404.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/882kd90.png" group-title="|DE| MUSIC",Stingray Naturescape (1080p)
+http://siptvs.com:8080/live/Biljana12/Biljana12/199405.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Tq3I0po.png" group-title="|DE| MUSIC",Stingray Nothin' But 90s (1080p)
+http://siptvs.com:8080/live/Biljana12/Biljana12/199406.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6E3wYrb.png" group-title="|DE| MUSIC",Stingray Remember the 80s (1080p)
+http://siptvs.com:8080/live/Biljana12/Biljana12/199408.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/duwc8E8.png" group-title="|DE| MUSIC",Stingray Remember the 80s
+http://siptvs.com:8080/live/Biljana12/Biljana12/199409.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/duwc8E8.png" group-title="|DE| MUSIC",Stingray Remember the 80s
+http://siptvs.com:8080/live/Biljana12/Biljana12/199410.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mt8ulVX.png" group-title="|DE| MUSIC",Stingray Rock Alternative (1080p)
+http://siptvs.com:8080/live/Biljana12/Biljana12/199411.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/512px-Stingray_Music_logo.svg.png" group-title="|DE| MUSIC",Stingray Romance Latino (1080p)
+http://siptvs.com:8080/live/Biljana12/Biljana12/199412.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h1DsOzH.png" group-title="|DE| MUSIC",Stingray Smooth Jazz (1080p)
+http://siptvs.com:8080/live/Biljana12/Biljana12/199413.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dU1KC3f.png" group-title="|DE| MUSIC",Stingray Soul Storm (1080p)
+http://siptvs.com:8080/live/Biljana12/Biljana12/199414.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ywAN923.png" group-title="|DE| MUSIC",Stingray The Spa (1080p)
+http://siptvs.com:8080/live/Biljana12/Biljana12/199415.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mMbntB5.png" group-title="|DE| MUSIC",Stingray Today's KPOP (1080p)
+http://siptvs.com:8080/live/Biljana12/Biljana12/199416.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Os3kRRP.png" group-title="|DE| MUSIC",Stingray Today's Latin Pop (1080p)
+http://siptvs.com:8080/live/Biljana12/Biljana12/199417.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Os3kRRP.png" group-title="|DE| MUSIC",Stingray Urban Beat (1080p)
+http://siptvs.com:8080/live/Biljana12/Biljana12/199418.m3u8
 
 # --- |DE| SKY (41) ---
 #EXTINF:-1 tvg-logo="https://logos.siptvs.com/GERMANY/sky1.png" group-title="|DE| SKY",* * * *  SKY GERMANY * * * *
@@ -1179,7 +1225,7 @@ http://siptvs.com:8080/live/Biljana12/Biljana12/129137.m3u8
 #EXTINF:-1 tvg-logo="https://lo1.in/LOGO/POLAND/AXNWHITE.png" group-title="|DE| SKY",AXN WHITE
 http://siptvs.com:8080/live/Biljana12/Biljana12/129138.m3u8
 
-# --- |DE| SPORT (97) ---
+# --- |DE| SPORT (99) ---
 #EXTINF:-1 tvg-logo="https://www.pinclipart.com/picdir/middle/192-1927409_deutschland-flagge-png-clipart.png" group-title="|DE| SPORT",* * * *  GERMANY  * * * *
 http://siptvs.com:8080/live/Biljana12/Biljana12/35170.m3u8
 #EXTINF:-1 tvg-logo="https://logos.siptvs.com/logonewtest/Sport1HD.png" group-title="|DE| SPORT",DE: SPORT 1ᴴᴰ
@@ -1370,6 +1416,10 @@ http://siptvs.com:8080/live/Biljana12/Biljana12/112055.m3u8
 http://siptvs.com:8080/live/Biljana12/Biljana12/112056.m3u8
 #EXTINF:-1 tvg-logo="https://logos.siptvs.com/logonewtest/magentasport.png" group-title="|DE| SPORT",DE: Magenta Sport 17
 http://siptvs.com:8080/live/Biljana12/Biljana12/112057.m3u8
+#EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/logonewtest/magentasport.png" group-title="|DE| SPORT",DE: MS GOLF 1
+http://siptvs.com:8080/live/Biljana12/Biljana12/199383.m3u8
+#EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/logonewtest/magentasport.png" group-title="|DE| SPORT",DE: MS GOLF 2
+http://siptvs.com:8080/live/Biljana12/Biljana12/199384.m3u8
 #EXTINF:-1 tvg-logo="https://logos.siptvs.com/logonewtest/ddaznweb.png" group-title="|DE| SPORT",DE: DAZN FIFA WORLD CUP 2025
 http://siptvs.com:8080/live/Biljana12/Biljana12/191504.m3u8
 #EXTINF:-1 tvg-logo="https://logos.siptvs.com/logonewtest/ddaznweb.png" group-title="|DE| SPORT",DE: DAZN FIFA WORLD CUP 2025 2
@@ -3413,4 +3463,4 @@ http://siptvs.com:8080/live/Biljana12/Biljana12/85905.m3u8
 #EXTINF:-1 tvg-logo="" group-title="|WSP| WORLD SPORT",MUTV
 http://siptvs.com:8080/live/Biljana12/Biljana12/126239.m3u8
 
-# Total: 1673
+# Total: 1698

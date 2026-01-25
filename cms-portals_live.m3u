@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: cms-portals.com:80
-# Generated: 2026-01-24 18:27:15
+# Generated: 2026-01-25 07:22:46
 # Expires: 2026-05-22
 # Family Safe Edition
 # ==============================================
@@ -1450,9 +1450,9 @@ http://cms-portals.com:80/live/norveska2/5q4bSDvhzT/12528.m3u8
 http://cms-portals.com:80/live/norveska2/5q4bSDvhzT/12529.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUZICKI",Muzzik Riviera HD
 http://cms-portals.com:80/live/norveska2/5q4bSDvhzT/12530.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MUZICKI",Muzzik HipHop HD
+#EXTINF:-1 tvg-logo="" group-title="MUZICKI",Muzzik SoniDozz HD
 http://cms-portals.com:80/live/norveska2/5q4bSDvhzT/12531.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MUZICKI",Muzzik OKK HD
+#EXTINF:-1 tvg-logo="" group-title="MUZICKI",Muzzik Electro HD
 http://cms-portals.com:80/live/norveska2/5q4bSDvhzT/12532.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUZICKI",CMC
 http://cms-portals.com:80/live/norveska2/5q4bSDvhzT/588.m3u8
@@ -1757,7 +1757,7 @@ http://cms-portals.com:80/live/norveska2/5q4bSDvhzT/8040.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SLOVENIA",Fox Life SLO
 http://cms-portals.com:80/live/norveska2/5q4bSDvhzT/8039.m3u8
 
-# --- SPORTSKI (141) ---
+# --- SPORTSKI (140) ---
 #EXTINF:-1 tvg-logo="http://116.203.156.75/logo/MAXSport_1_HR_logo_v2.png" group-title="SPORTSKI",MAX SPORT 1 HD
 http://cms-portals.com:80/live/norveska2/5q4bSDvhzT/12540.m3u8
 #EXTINF:-1 tvg-logo="http://116.203.156.75/logo/MAXSport_2_HR_logo_v2.png" group-title="SPORTSKI",MAX SPORT 2 HD
@@ -1922,8 +1922,6 @@ http://cms-portals.com:80/live/norveska2/5q4bSDvhzT/5509.m3u8
 http://cms-portals.com:80/live/norveska2/5q4bSDvhzT/10478.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTSKI",SOS
 http://cms-portals.com:80/live/norveska2/5q4bSDvhzT/438.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTSKI",Partizan TV HD
-http://cms-portals.com:80/live/norveska2/5q4bSDvhzT/5508.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTSKI",Zvezda TV
 http://cms-portals.com:80/live/norveska2/5q4bSDvhzT/8302.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTSKI",Sportska TV
@@ -2427,4 +2425,4 @@ http://cms-portals.com:80/live/norveska2/5q4bSDvhzT/9509.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA/UK",USA: CBS
 http://cms-portals.com:80/live/norveska2/5q4bSDvhzT/9511.m3u8
 
-# Total: 1180
+# Total: 1179

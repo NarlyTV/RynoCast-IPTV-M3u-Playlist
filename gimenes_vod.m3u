@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: gimenes.top:8080
-# Generated: 2026-01-24 18:34:29
+# Generated: 2026-01-25 07:22:18
 # Expires: 2026-11-07
 # Family Safe Edition
 # ==============================================
@@ -9201,7 +9201,9 @@ http://gimenes.top:8080/movie/denisfonseca/4915334/5691.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hCWCtn9WNXAzVSHRNjB1vkdiqwv.jpg" group-title="Movies | FILMES AVENTURA",Z - A CIDADE PERDIDA (2017)
 http://gimenes.top:8080/movie/denisfonseca/4915334/4588.mkv
 
-# --- Movies | FILMES AÇÃO (1469) ---
+# --- Movies | FILMES AÇÃO (1470) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eLHv7sZ0NojLNPR1v59nXyVOexT.jpg" group-title="Movies | FILMES AÇÃO",SOLDADO DE CHUMBO (2025)
+http://gimenes.top:8080/movie/denisfonseca/4915334/259279.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2wZ0IYkKL7xYRwcO2zFU4Jaj16Z.jpg" group-title="Movies | FILMES AÇÃO",CARGA FINAL (2025)
 http://gimenes.top:8080/movie/denisfonseca/4915334/259248.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fDXOdFhBoUNyY7GsM11z7EfKk68.jpg" group-title="Movies | FILMES AÇÃO",TEMPORADA DE SANGUE (2025)
@@ -12141,7 +12143,11 @@ http://gimenes.top:8080/movie/denisfonseca/4915334/251273.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/16k6yE0ctAGIBQbfIMYzvpI3Jwi.jpg" group-title="Movies | FILMES AÇÃO",A PRIMEIRA FILHA (1999)
 http://gimenes.top:8080/movie/denisfonseca/4915334/251850.mp4
 
-# --- Movies | FILMES COMÉDIA (1590) ---
+# --- Movies | FILMES COMÉDIA (1592) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5U7zOlb4nxt03c4rX8yhX9BQH38.jpg" group-title="Movies | FILMES COMÉDIA",MAE FORA DA CAIXA (2025)
+http://gimenes.top:8080/movie/denisfonseca/4915334/259277.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3XByXLTKeS9d26mzoMpGujIXbch.jpg" group-title="Movies | FILMES COMÉDIA",O GAROTO DO FUTURO (1985)
+http://gimenes.top:8080/movie/denisfonseca/4915334/259276.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sW23aL0W7iGCjN53XJTfXAuMzN3.jpg" group-title="Movies | FILMES COMÉDIA",PAPAI X DOIS (2025)
 http://gimenes.top:8080/movie/denisfonseca/4915334/259245.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w49qk2ZLSY7Nm9kjWJe3mNYvnYI.jpg" group-title="Movies | FILMES COMÉDIA",O GATO (2003)
@@ -21901,7 +21907,17 @@ http://gimenes.top:8080/movie/denisfonseca/4915334/142362.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7ZGqze3H7kNIIKZxWYf60Eng5jX.jpg" group-title="Movies | FILMES GUERRA",WHERE HANDS TOUCH
 http://gimenes.top:8080/movie/denisfonseca/4915334/48749.mp4
 
-# --- Movies | FILMES LANÇAMENTOS (20) ---
+# --- Movies | FILMES LANÇAMENTOS (25) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/euYHIYx8d6sNI2FMePFXYzp0sA7.jpg" group-title="Movies | FILMES LANÇAMENTOS",CAJU, MEU AMIGO (2026)
+http://gimenes.top:8080/movie/denisfonseca/4915334/259284.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kruMkxPyLf8bZIuu53JxgyZ29kj.jpg" group-title="Movies | FILMES LANÇAMENTOS",O FALSARIO (2026)
+http://gimenes.top:8080/movie/denisfonseca/4915334/259283.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tURYBXokwJf4ROrNTc8W3YGLait.jpg" group-title="Movies | FILMES LANÇAMENTOS",ALARME DE INCENDIO: ABAIXO DA TERRA (2026)
+http://gimenes.top:8080/movie/denisfonseca/4915334/259282.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jdjJZWxjmKACZtrebAcipm86cl3.jpg" group-title="Movies | FILMES LANÇAMENTOS",SEQUESTRO: ELIZABETH SMART (2026)
+http://gimenes.top:8080/movie/denisfonseca/4915334/259281.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9lHbzF8h1do99LlIis8iemMOZSj.jpg" group-title="Movies | FILMES LANÇAMENTOS",KAGUYA: A PRINCESA ESPACIAL (2026)
+http://gimenes.top:8080/movie/denisfonseca/4915334/259280.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bm04TGkE5ySrHbHlO6YloYZvs4P.jpg" group-title="Movies | FILMES LANÇAMENTOS",DINHEIRO SUSPEITO (2026)
 http://gimenes.top:8080/movie/denisfonseca/4915334/257633.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4C1EXyRhkG8WrNBVaA9rKo9pqxq.jpg" group-title="Movies | FILMES LANÇAMENTOS",A ULTIMA AVENTURA: NOS BASTIDORES DE STRANGER THINGS 5 (2026)
@@ -24121,7 +24137,9 @@ http://gimenes.top:8080/movie/denisfonseca/4915334/252410.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bMrUruq2lT3b7xwC5y3vEidGYfZ.jpg" group-title="Movies | FILMES LEGENDADOS",OS ESTRANHOS: CAPÍTULO 2 [L] (2025)
 http://gimenes.top:8080/movie/denisfonseca/4915334/252408.mp4
 
-# --- Movies | FILMES NACIONAL (436) ---
+# --- Movies | FILMES NACIONAL (437) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/17ZQyPCGaAnnaa6zuOgbLwWDGkA.jpg" group-title="Movies | FILMES NACIONAL",SILVIO SANTOS VEM AÍ (2025)
+http://gimenes.top:8080/movie/denisfonseca/4915334/259278.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t1DQ4XXIqTm5LvUjz8jypN43JjZ.jpg" group-title="Movies | FILMES NACIONAL",O AGENTE SECRETO (2025)
 http://gimenes.top:8080/movie/denisfonseca/4915334/259249.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ytdK03kYesKHtBHJvlCQjLNtMre.jpg" group-title="Movies | FILMES NACIONAL",O REI DA FEIRA (2025)
@@ -30337,4 +30355,4 @@ http://gimenes.top:8080/movie/denisfonseca/4915334/166843.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rhTm83svrLTM4JdwzJ1FjL63SQN.jpg" group-title="Movies | SHOWS",BEBE REXHA - THE TOWN (2023)
 http://gimenes.top:8080/movie/denisfonseca/4915334/166842.mp4
 
-# Total: 15125
+# Total: 15134

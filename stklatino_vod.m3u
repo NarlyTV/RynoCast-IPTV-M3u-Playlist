@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: stklatino.dynns.com:2082
-# Generated: 2026-01-24 07:13:20
+# Generated: 2026-01-25 07:17:35
 # Expires: 2026-05-11
 # Family Safe Edition
 # ==============================================
@@ -4871,7 +4871,7 @@ http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/90121.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wLNPoAHTtrQT1hEVRixtTD4k6Qm.jpg" group-title="Movies | ANIME",SPY x FAMILY CÓDIGO: Blanco (2023)
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/90456.mkv
 
-# --- Movies | ANIME & INFANTIL (111) ---
+# --- Movies | ANIME & INFANTIL (112) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | ANIME & INFANTIL",Chowder
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/1422.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | ANIME & INFANTIL",SAND LAND: THE SERIES
@@ -5094,6 +5094,8 @@ http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/2491.mp4
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/2497.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | ANIME & INFANTIL",Los Thunderman: Encubiertos
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/2518.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | ANIME & INFANTIL",Los Colorado
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/2535.mp4
 
 # --- Movies | ARTES MARCIALES (90) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rxD09NPHYthJNO8KbiYmpS01CwE.jpg" group-title="Movies | ARTES MARCIALES",Contacto Sangriento (1988)
@@ -21491,7 +21493,7 @@ http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/89878.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jRRe7UqPvkMSRgUk1xRNayRvBiO.jpg" group-title="Movies | WESTERN",Dos mulas para la hermana Sara (1970)
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/90187.mkv
 
-# --- Series | TELESERIES (130) ---
+# --- Series | TELESERIES (131) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | TELESERIES",La familia P. Luche
 http://stklatino.dynns.com:2082/series/maldonadoluis/frEbTPk9DN3L/1417
 #EXTINF:-1 tvg-logo="" group-title="Series | TELESERIES",Vencer el Desamor
@@ -21752,5 +21754,7 @@ http://stklatino.dynns.com:2082/series/maldonadoluis/frEbTPk9DN3L/2452
 http://stklatino.dynns.com:2082/series/maldonadoluis/frEbTPk9DN3L/2511
 #EXTINF:-1 tvg-logo="" group-title="Series | TELESERIES",Los hilos del pasado
 http://stklatino.dynns.com:2082/series/maldonadoluis/frEbTPk9DN3L/2529
+#EXTINF:-1 tvg-logo="" group-title="Series | TELESERIES",La Hija Del Mariachi 2025
+http://stklatino.dynns.com:2082/series/maldonadoluis/frEbTPk9DN3L/2534
 
-# Total: 10842
+# Total: 10844
