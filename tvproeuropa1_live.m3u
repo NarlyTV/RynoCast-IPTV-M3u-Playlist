@@ -1,15 +1,13 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: tvproeuropa1.com:8008
-# Generated: 2026-01-25 18:39:12
+# Generated: 2026-01-26 07:14:30
 # Expires: 2027-01-07
 # Family Safe Edition
 # ==============================================
 
 
-# --- ⚜️ROMANIA TV⚜️ (510) ---
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wvFMSGRt/Whats-App-Image-2025-11-27-at-15-20-39-6e5d06cc.jpg" group-title="⚜️ROMANIA TV⚜️",⚜️PRO HD⚜️
-http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/540724.m3u8
+# --- ⚜️ROMANIA TV⚜️ (509) ---
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/WzfDK55q/resize.png" group-title="⚜️ROMANIA TV⚜️",PRO TV UHD
 http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/33760.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jSn8M9Mw/resize.png" group-title="⚜️ROMANIA TV⚜️",PRO TV HD
@@ -1029,4 +1027,4 @@ http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/296306.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1Xsq73b1/rrr.png" group-title="⚜️ROMANIA TV⚜️",▶️FLY AVENTURA ᶠᴴᴰ
 http://tvproeuropa1.com:8008/live/marian_giuran/c1nQhgP/296305.m3u8
 
-# Total: 510
+# Total: 509

@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: platinumz.xyz:8080
-# Generated: 2026-01-25 18:28:08
+# Generated: 2026-01-26 07:25:03
 # Expires: 2026-12-23
 # Family Safe Edition
 # ==============================================
@@ -7865,7 +7865,9 @@ http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/553506.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RH4H08S/1-SPECIALBOX.png" group-title="DE ✨ DOKU ⁕ 24/7",DOKU 24/7 WISSEN A BIS Z
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/553505.m3u8
 
-# --- DE ✨ DYN SPORT (20) ---
+# --- DE ✨ DYN SPORT (21) ---
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cS8bG5dx/logo-dyn.png" group-title="DE ✨ DYN SPORT",DYN SPORT VM
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/872718.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cS8bG5dx/logo-dyn.png" group-title="DE ✨ DYN SPORT",DYN SPORT 1
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/622868.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cS8bG5dx/logo-dyn.png" group-title="DE ✨ DYN SPORT",DYN SPORT 2
@@ -15534,19 +15536,19 @@ http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/552803.m3u8
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/552802.m3u8
 
 # --- MR ✨ MOROCCO (7) ---
-#EXTINF:-1 tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/12709585801.png" group-title="MR ✨ MOROCCO",MOR: Aflam 7 HD
+#EXTINF:-1 tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/12709585801.png" group-title="MR ✨ MOROCCO",AFLAM 7
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/642710.m3u8
-#EXTINF:-1 tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/84173152221.png" group-title="MR ✨ MOROCCO",MOR: AL Maghribia HD
+#EXTINF:-1 tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/84173152221.png" group-title="MR ✨ MOROCCO",AL MAGHRIBIA
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/642709.m3u8
-#EXTINF:-1 tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/99489242921.png" group-title="MR ✨ MOROCCO",MOR: Laayoune TV HD
+#EXTINF:-1 tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/99489242921.png" group-title="MR ✨ MOROCCO",LAAYOUNE TV
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/642708.m3u8
-#EXTINF:-1 tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/81485248241.png" group-title="MR ✨ MOROCCO",MOR: M24 TV HD
+#EXTINF:-1 tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/81485248241.png" group-title="MR ✨ MOROCCO",M24TV
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/642707.m3u8
-#EXTINF:-1 tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/69493865491.png" group-title="MR ✨ MOROCCO",MOR: Tamazight HD
+#EXTINF:-1 tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/69493865491.png" group-title="MR ✨ MOROCCO",TAMAZIGHT
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/642706.m3u8
-#EXTINF:-1 tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/15335374821.png" group-title="MR ✨ MOROCCO",MOR: TELE Maroc HD
+#EXTINF:-1 tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/15335374821.png" group-title="MR ✨ MOROCCO",TELE MAROC
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/642705.m3u8
-#EXTINF:-1 tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/44656126381.png" group-title="MR ✨ MOROCCO",MOR: TV 5 Monde HD
+#EXTINF:-1 tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/44656126381.png" group-title="MR ✨ MOROCCO",TV5 MONDE
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/642704.m3u8
 
 # --- NL ✨ ALGEMEEN (24) ---
@@ -26377,4 +26379,4 @@ http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/809948.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/ArenaSport_6.png" group-title="VIP ✨ SPORTS EX-YU",BH⚜️ ARENA SPORT 6
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/809947.m3u8
 
-# Total: 12928
+# Total: 12929

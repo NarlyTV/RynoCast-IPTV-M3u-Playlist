@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: blackiptv.net:8080
-# Generated: 2026-01-25 18:37:23
+# Generated: 2026-01-26 07:20:15
 # Expires: 2026-12-21
 # Family Safe Edition
 # ==============================================
@@ -11079,13 +11079,13 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/17071.mp4
 
 # --- Movies | TR/DIZI ~ CUMARTESI (4) ---
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3Qwhs7xxf9LILllWLnxbSaCBNDf.jpg" group-title="Movies | TR/DIZI ~ CUMARTESI",CUMT: Güller ve Günahlar  14.Bölüm (YENI DIZI)
-http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/48482.mkv
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/48482.mp4
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1mPhUUEGZFZdlLHUtPHENZae91g.jpg" group-title="Movies | TR/DIZI ~ CUMARTESI",CUMT: Ben Leman 13.Bölüm (Yeni Dizi)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/362.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5HkjNXxhYNDsrJDPd9DEjk7wDqT.jpg" group-title="Movies | TR/DIZI ~ CUMARTESI",CUMT: Aynadaki Yabanci 7. Bölüm FINAL
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/28472.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vc20oOVlfVQI0YWocTvTv7wOILk.jpg" group-title="Movies | TR/DIZI ~ CUMARTESI",CUMT: Gönül Dagi 202.Bölüm (Yeni Sezon)
-http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/26836.mkv
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/26836.mp4
 
 # --- Movies | TR/DIZI ~ DISNEY + (76) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ DISNEY +",Konuşanlar - Disney+ (2025)
@@ -12665,16 +12665,18 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1728.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ NETFLIX (DUAL)",Kasaba (2025)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1835.mp4
 
-# --- Movies | TR/DIZI ~ PAZAR (5) ---
+# --- Movies | TR/DIZI ~ PAZAR (6) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gwlxk1YjsaNQdRrmZ1I6j4fr2Zd.jpg" group-title="Movies | TR/DIZI ~ PAZAR",PAZ: Bahar 64. Bölüm (FINAL)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/27209.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylpluerF3X4QQYBXEwztfYNMkOh.jpg" group-title="Movies | TR/DIZI ~ PAZAR",PAZ: Rüya Gibi  8.Bölüm (YENI DIZI)
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/28347.mp4
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/31zn3jriMaSAx9oflfn3ER5JRbn.jpg" group-title="Movies | TR/DIZI ~ PAZAR",PAZ: Bereketli Topraklar  5. Bölüm FINAL
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/28570.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vxyhUSVOh9RYsdVynVWKIRGGGg7.jpg" group-title="Movies | TR/DIZI ~ PAZAR",PAZ: Carpinti 13.Bölüm FINAL
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1059.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5gyIIZ7LKxrus2KaPcYQ7Zksf5m.jpg" group-title="Movies | TR/DIZI ~ PAZAR",PAZ: Teskilat 165.Bölüm (YENI SEZON)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5gyIIZ7LKxrus2KaPcYQ7Zksf5m.jpg" group-title="Movies | TR/DIZI ~ PAZAR",PAZ: Teskilat 166.Bölüm (YENI SEZON)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/33155.mp4
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zgVgcthDQ8pYgBkKzi1AaXmmeFO.jpg" group-title="Movies | TR/DIZI ~ PAZAR",PAZ: Sahtekarlar 14.Bölüm (YENI DIZI)
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zgVgcthDQ8pYgBkKzi1AaXmmeFO.jpg" group-title="Movies | TR/DIZI ~ PAZAR",PAZ: Sahtekarlar 15.Bölüm (YENI DIZI)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/60873.mp4
 
 # --- Movies | TR/DIZI ~ PAZARTESI (3) ---
@@ -12695,15 +12697,13 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/43582.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ PUHU TV",Gün On4
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/242.mp4
 
-# --- Movies | TR/DIZI ~ SALI (5) ---
+# --- Movies | TR/DIZI ~ SALI (4) ---
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/herjCgzFTKF3tCN8bW9cNfrvKjW.jpg" group-title="Movies | TR/DIZI ~ SALI",SAL: Kiskanmak 19.Bölüm
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1060.mp4
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vFmQa8yyuirssDatMME4FQtoG65.jpg" group-title="Movies | TR/DIZI ~ SALI",SAL: Gözleri Karadeniz  16.Bölüm FINAL
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/44256.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gLGXHS3o0BuJhd3wDTTYddrRsxZ.jpg" group-title="Movies | TR/DIZI ~ SALI",SAL: Mehmed: Fetihler Sultani 66.Bölüm
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/48868.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylpluerF3X4QQYBXEwztfYNMkOh.jpg" group-title="Movies | TR/DIZI ~ SALI",SAL: Rüya Gibi  7.Bölüm (YENI DIZI)
-http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/28347.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mGnrjWWi6ZeXlt0U3Ky8gzpOhO3.jpg" group-title="Movies | TR/DIZI ~ SALI",SAL: A.B.I  2.BLM (YENI DIZI)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/48923.mp4
 
@@ -18543,7 +18543,7 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/65309.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7iMBZzVZtG0oBug4TfqDb9ZxAOa.jpg" group-title="Movies | TR/FILM ~ YABANCI 2024 (DUAL)",The Gorge (2025) TR
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/65394.mp4
 
-# --- Movies | TR/FILM ~ YABANCI 2025 (DUAL) (132) ---
+# --- Movies | TR/FILM ~ YABANCI 2025 (DUAL) (134) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uP3Gup9tSqeDzc9pyMQb5PfLvxZ.jpg" group-title="Movies | TR/FILM ~ YABANCI 2025 (DUAL)",Tank (2025) TR
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/66074.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p2HlUfMufLsVArsoLgvphVCWJJK.jpg" group-title="Movies | TR/FILM ~ YABANCI 2025 (DUAL)",Sesimi Takip Et (2025) TR
@@ -18808,6 +18808,10 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/66235.mp4
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/66236.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aAqXIa3gl5IAZYiiGOwVZu72kNw.jpg" group-title="Movies | TR/FILM ~ YABANCI 2025 (DUAL)",The Conjuring: Last Rites (2025) TR
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/66237.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4P5TT9IXEfhBqzcgmDonrvMgbMv.jpg" group-title="Movies | TR/FILM ~ YABANCI 2025 (DUAL)",Jurassic World Rebirth (2025) TR
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/66272.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d2HIdVIzuIUgIBxL4N0C9XeNeSX.jpg" group-title="Movies | TR/FILM ~ YABANCI 2025 (DUAL)",Mission: Impossible - The Final Reckoning (2025) TR
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/66273.mp4
 
 # --- Movies | TR/FILM ~ YERLI 2017-2000 (344) ---
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/58VhE6SG6mVX6IrTu75FsKG9RLz.jpg" group-title="Movies | TR/FILM ~ YERLI 2017-2000",Kardeşim Benim 2 (2017)
@@ -20889,4 +20893,4 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/63372.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t8EQllq34VC5mooiJw1vVFOlM4x.jpg" group-title="Movies | TR/FILM ~ YILBASI ÖZEL",O Ses Türkiye  Yilbasi Özel 2025
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/54778.mp4
 
-# Total: 10296
+# Total: 10298

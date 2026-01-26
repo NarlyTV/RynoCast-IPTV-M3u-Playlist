@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: gimenes.top:8080
-# Generated: 2026-01-25 18:27:52
+# Generated: 2026-01-26 07:13:36
 # Expires: 2026-11-07
 # Family Safe Edition
 # ==============================================
@@ -2605,7 +2605,7 @@ http://gimenes.top:8080/movie/denisfonseca/4915334/9022713.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | > HBO MAX",O CAVALEIRO DOS SETE REINOS
 http://gimenes.top:8080/movie/denisfonseca/4915334/9022776.mp4
 
-# --- Movies | > NETFLIX (705) ---
+# --- Movies | > NETFLIX (706) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | > NETFLIX",VIKINGS
 http://gimenes.top:8080/movie/denisfonseca/4915334/5.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | > NETFLIX",SUPERGIRL
@@ -4016,6 +4016,8 @@ http://gimenes.top:8080/movie/denisfonseca/4915334/9022748.mp4
 http://gimenes.top:8080/movie/denisfonseca/4915334/9022763.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | > NETFLIX",OS SETE RELÓGIOS DE AGATHA CHRISTIE
 http://gimenes.top:8080/movie/denisfonseca/4915334/9022768.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | > NETFLIX",ROSARIO TIJERAS
+http://gimenes.top:8080/movie/denisfonseca/4915334/9022778.mp4
 
 # --- Movies | > NOVELAS & MINISSÉRIE (206) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | > NOVELAS & MINISSÉRIE",JOSÉ DO EGITO
@@ -30355,4 +30357,4 @@ http://gimenes.top:8080/movie/denisfonseca/4915334/166843.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rhTm83svrLTM4JdwzJ1FjL63SQN.jpg" group-title="Movies | SHOWS",BEBE REXHA - THE TOWN (2023)
 http://gimenes.top:8080/movie/denisfonseca/4915334/166842.mp4
 
-# Total: 15134
+# Total: 15135

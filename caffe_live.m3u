@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: caffe.link:25461
-# Generated: 2026-01-25 18:27:47
+# Generated: 2026-01-26 07:17:39
 # Expires: 2026-05-01
 # Family Safe Edition
 # ==============================================
@@ -717,7 +717,7 @@ http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/3705.m3u8
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/gulli_logo.png" group-title="France",Gulli HD(FR)
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/13938.m3u8
 
-# --- Hrvatska (36) ---
+# --- Hrvatska (37) ---
 #EXTINF:-1 tvg-logo="http://5.189.149.253/logo/Hrvatska/HRT1.png" group-title="Hrvatska",HRT 1
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1261.m3u8
 #EXTINF:-1 tvg-logo="http://5.189.149.253/logo/Hrvatska/HRT1.png" group-title="Hrvatska",HRT 1 (backup)
@@ -776,6 +776,8 @@ http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1248.m3u8
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1247.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/Plava_Vinkovacka_logo.png" group-title="Hrvatska",Vinkovacka TV
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1246.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Hrvatska",DALMACIJA (HR)
+http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/118816.m3u8
 #EXTINF:-1 tvg-logo="http://epg.netsolutionpro.com/logo-tv/124.hr.png" group-title="Hrvatska",Poljoprivredna TV
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/6870.m3u8
 #EXTINF:-1 tvg-logo="https://www.jabuka.tv/wp-content/uploads/2015/01/logo_jabuka_web1.png" group-title="Hrvatska",Jabuka TV
@@ -1605,4 +1607,4 @@ http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/7374.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Švicarska",CH: TELE 1 HD
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/7382.m3u8
 
-# Total: 775
+# Total: 776

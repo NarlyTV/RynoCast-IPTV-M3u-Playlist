@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: brone.fyi
-# Generated: 2026-01-25 18:28:42
+# Generated: 2026-01-26 07:23:15
 # Expires: 2026-02-18
 # Family Safe Edition
 # ==============================================
@@ -341,7 +341,7 @@ http://brone.fyi/live/felipe_irma/Teste44/4953.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a6/Logotipo_da_RBATV.png" group-title="ABERTOS",RBA TV FHD
 http://brone.fyi/live/felipe_irma/Teste44/332817.m3u8
 
-# --- ANIMES 24H (28) ---
+# --- ANIMES 24H (27) ---
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/especiais/24hd.png" group-title="ANIMES 24H",[24H] AVATAR: A LENDA DE AANG
 http://brone.fyi/live/felipe_irma/Teste44/252407.m3u8
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/especiais/24hd.png" group-title="ANIMES 24H",[24H] AVATAR: A LENDA DE KORRA
@@ -380,8 +380,6 @@ http://brone.fyi/live/felipe_irma/Teste44/259252.m3u8
 http://brone.fyi/live/felipe_irma/Teste44/251992.m3u8
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/especiais/24hd.png" group-title="ANIMES 24H",[24H] NARUTO SHIPPUDEN
 http://brone.fyi/live/felipe_irma/Teste44/251991.m3u8
-#EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/especiais/24hd.png" group-title="ANIMES 24H",[24H] ONE PIECE
-http://brone.fyi/live/felipe_irma/Teste44/251982.m3u8
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/especiais/24hd.png" group-title="ANIMES 24H",[24H] OS CAVALEIROS DO ZODIACO
 http://brone.fyi/live/felipe_irma/Teste44/296771.m3u8
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/especiais/24hd.png" group-title="ANIMES 24H",[24H] OS CAVALEIROS DO ZODIACO A SAGA DE HADES
@@ -5694,9 +5692,9 @@ http://brone.fyi/live/felipe_irma/Teste44/326109.m3u8
 http://brone.fyi/live/felipe_irma/Teste44/326193.m3u8
 #EXTINF:-1 tvg-logo="" group-title="REDE GLOBO - REGIONAIS",GLOBO TV ANHANGUERA LUZIANIA SD
 http://brone.fyi/live/felipe_irma/Teste44/326110.m3u8
-#EXTINF:-1 tvg-logo="" group-title="REDE GLOBO - REGIONAIS",GLOBO TV ANHANGUERA PARANGATU HD
+#EXTINF:-1 tvg-logo="" group-title="REDE GLOBO - REGIONAIS",GLOBO TV ANHANGUERA PORANGATU HD
 http://brone.fyi/live/felipe_irma/Teste44/326194.m3u8
-#EXTINF:-1 tvg-logo="" group-title="REDE GLOBO - REGIONAIS",GLOBO TV ANHANGUERA PARANGATU SD
+#EXTINF:-1 tvg-logo="" group-title="REDE GLOBO - REGIONAIS",GLOBO TV ANHANGUERA PORANGATU SD
 http://brone.fyi/live/felipe_irma/Teste44/326112.m3u8
 #EXTINF:-1 tvg-logo="" group-title="REDE GLOBO - REGIONAIS",GLOBO TV ANHANGUERA RIO VERDE HD
 http://brone.fyi/live/felipe_irma/Teste44/326195.m3u8
@@ -7949,4 +7947,4 @@ http://brone.fyi/live/felipe_irma/Teste44/327934.m3u8
 #EXTINF:-1 tvg-logo="https://static.imgb.in/logos/new/especiais/24hd.png" group-title="VARIEDADES 24H",[24H] YOGA
 http://brone.fyi/live/felipe_irma/Teste44/328699.m3u8
 
-# Total: 3920
+# Total: 3919
