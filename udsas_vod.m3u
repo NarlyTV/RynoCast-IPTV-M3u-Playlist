@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: udsas.my:80
-# Generated: 2026-01-31 07:19:41
+# Generated: 2026-01-31 18:30:27
 # Expires: 2026-02-23
 # Family Safe Edition
 # ==============================================
@@ -1205,7 +1205,7 @@ http://udsas.my:80/movie/98751818/55956584/1219235.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w780/gvs9N8wsyetx8WFaQOhD5o8MtVg.jpg" group-title="Movies | Documentarios",Óvnis: Tecnologias Ultrassecretas (2019)
 http://udsas.my:80/movie/98751818/55956584/1175591.mp4
 
-# --- Movies | Filmes | Acao (1878) ---
+# --- Movies | Filmes | Acao (1879) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w780/mx0CB8H78PQu0g9YUWG47hdi93S.jpg" group-title="Movies | Filmes | Acao",+ Velozes + Furiosos (2003)
 http://udsas.my:80/movie/98751818/55956584/1181746.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w780/cTRASi09SKtyzWrjmakEW3196IB.jpg" group-title="Movies | Filmes | Acao",007 - Permissão para Matar (1989)
@@ -4962,6 +4962,8 @@ http://udsas.my:80/movie/98751818/55956584/1180465.mp4
 http://udsas.my:80/movie/98751818/55956584/1178739.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w780/8p3mhjyLjHKtaAv8tFKfvEBtir0.jpg" group-title="Movies | Filmes | Acao",सूर्यवंशी (2021)
 http://udsas.my:80/movie/98751818/55956584/1180179.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vDN8VDEQjh8QBEeT7C6Ml5Uqln8.jpg" group-title="Movies | Filmes | Acao",Corra Que a Polícia Vem Aí! (2025)
+http://udsas.my:80/movie/98751818/55956584/1433906.mp4
 
 # --- Movies | Filmes | Animacao (916) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w780/n1oFUoYmj4JuJl5T417VQnZNCgB.jpg" group-title="Movies | Filmes | Animacao",100% Lobo (2020)
@@ -42113,4 +42115,4 @@ http://udsas.my:80/series/98751818/55956584/7729
 #EXTINF:-1 tvg-logo="" group-title="Series | Series | Univer",Paulo O Apostolo (2025)
 http://udsas.my:80/series/98751818/55956584/7073
 
-# Total: 21008
+# Total: 21009

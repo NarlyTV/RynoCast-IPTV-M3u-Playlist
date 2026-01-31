@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: caffe.link:25461
-# Generated: 2026-01-31 07:22:13
+# Generated: 2026-01-31 18:35:15
 # Expires: 2026-05-01
 # Family Safe Edition
 # ==============================================
@@ -5805,7 +5805,7 @@ http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/8250.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/fDgetHTgdrxC4jjxB1cUEJPPeZT.jpg" group-title="Movies | Novi filmovi 2026",Život krivotvoritelja (2026)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/9078.ts
 
-# --- Movies | Strane serije (288) ---
+# --- Movies | Strane serije (289) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Strane serije",Kakvi frajeri! (1991)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/40.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Strane serije",Vera (2025)
@@ -6382,6 +6382,8 @@ http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/651.mp4
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/657.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Strane serije",Bijeli lotos (2025)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/658.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Strane serije",Vještac (2025)
+http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/659.mp4
 
 # --- Movies | Strani filmovi (2954) ---
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/uRy6fpVNrxtjt03YgO2YdY4yoje.jpg" group-title="Movies | Strani filmovi",Blizanci (2025
@@ -12293,4 +12295,4 @@ http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/9049.ts
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w154/meKYRGK9oDAGHkB0mI7KIcWRMxU.jpg" group-title="Movies | Strani filmovi",The Match (2024)
 http://caffe.link:25461/movie/Anerroditelji/TGCZeJBZz5Bf/9056.ts
 
-# Total: 6133
+# Total: 6134

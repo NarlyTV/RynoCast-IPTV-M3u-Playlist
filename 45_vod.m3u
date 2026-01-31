@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: 45.139.122.199:8080
-# Generated: 2026-01-31 07:15:17
+# Generated: 2026-01-31 18:30:11
 # Expires: 2026-08-11
 # Family Safe Edition
 # ==============================================
@@ -2129,7 +2129,7 @@ http://45.139.122.199:8080/movie/Martin1/martin1/140832.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rfeNBaiMBg0UQsBQFv1qsjTjZWn.jpg" group-title="Movies | VOD: Christmas Movies [Multi-Sub]",The Night Before [PRE] [2015]
 http://45.139.122.199:8080/movie/Martin1/martin1/471479.mkv
 
-# --- Movies | VOD: Danske - Norska - Suomalainen Film (557) ---
+# --- Movies | VOD: Danske - Norska - Suomalainen Film (558) ---
 #EXTINF:-1 tvg-logo="http://ptv.is:2095/images/movies/yVGFU6vGrbSoKrchWTWUoru3zLG.jpg" group-title="Movies | VOD: Danske - Norska - Suomalainen Film",Margrete Den Foerste - Margrete Queen of the North [DK] [Multi-Sub] [2021]
 http://45.139.122.199:8080/movie/Martin1/martin1/146747.mkv
 #EXTINF:-1 tvg-logo="http://ptv.is:2095/images/movies/3KDOQCNvSsHGIvQorqntNBZ3mbd.jpg" group-title="Movies | VOD: Danske - Norska - Suomalainen Film",Mormor og de åtte ungene [DK] [Multi-Sub] [2013]
@@ -2146,6 +2146,8 @@ http://45.139.122.199:8080/movie/Martin1/martin1/693967.mkv
 http://45.139.122.199:8080/movie/Martin1/martin1/741214.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c8B4DsVcFVDLVmbpHMHU3RjLNAV.jpg" group-title="Movies | VOD: Danske - Norska - Suomalainen Film",Underverden 2 - Darkland: The Return [DK] [2023]
 http://45.139.122.199:8080/movie/Martin1/martin1/757275.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rqrFGkSOEdKrwYn9u18CajycBfs.jpg" group-title="Movies | VOD: Danske - Norska - Suomalainen Film",Se meg [NO] [Multi-Sub] [2025]
+http://45.139.122.199:8080/movie/Martin1/martin1/2268705.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6YyG8iqdc7FZfdZcpy0cDsKJiNw.jpg" group-title="Movies | VOD: Danske - Norska - Suomalainen Film",Hvis ingen går i fella [NO] [Multi-Sub] [2025]
 http://45.139.122.199:8080/movie/Martin1/martin1/2232036.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o0m5yQ25YBooTocOKla9JBOVMm5.jpg" group-title="Movies | VOD: Danske - Norska - Suomalainen Film",Eksplosjoner i hjertet [NO] [Multi-Sub] [2024]
@@ -20451,7 +20453,7 @@ http://45.139.122.199:8080/movie/Martin1/martin1/2228748.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mXNxee2ix6Ke0bSIqFST0UhbVLR.jpg" group-title="Movies | VOD: Old Popular Movies [Multi-Sub]",Catfish [PRE] [2010]
 http://45.139.122.199:8080/movie/Martin1/martin1/2241228.mkv
 
-# --- Movies | VOD: Premiere Cinemas [Multi-Sub] (5463) ---
+# --- Movies | VOD: Premiere Cinemas [Multi-Sub] (5464) ---
 #EXTINF:-1 tvg-logo="http://Ptv.is:2095/images/movies//hPXSWiuYdJXHtcDS5wluYWgZldE.jpg" group-title="Movies | VOD: Premiere Cinemas [Multi-Sub]",Mickey's Once Upon a Christmas [KIDS] [1999]
 http://45.139.122.199:8080/movie/Martin1/martin1/45093.mkv
 #EXTINF:-1 tvg-logo="http://Ptv.is:2095/images/5cbece1549ed329e896796657dc4fcdf.jpg" group-title="Movies | VOD: Premiere Cinemas [Multi-Sub]",Straight Outta Nowhere: Scooby-Doo! Meets Courage the Cowardly Dog [PRE] [2021]
@@ -31378,6 +31380,8 @@ http://45.139.122.199:8080/movie/Martin1/martin1/2267012.mkv
 http://45.139.122.199:8080/movie/Martin1/martin1/2267013.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yUs4Sw9AyTg2sA1qWBkNpD2mGSj.jpg" group-title="Movies | VOD: Premiere Cinemas [Multi-Sub]",My Old Ass [PRE] [2024]
 http://45.139.122.199:8080/movie/Martin1/martin1/2267014.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pDWYW9v8fmJdA7N0I1MOdQA3ETq.jpg" group-title="Movies | VOD: Premiere Cinemas [Multi-Sub]",The SpongeBob Movie: Search for SquarePants [PRE] [2025]
+http://45.139.122.199:8080/movie/Martin1/martin1/2268685.mkv
 
 # --- Movies | VOD: Relaxing Music (7) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | VOD: Relaxing Music",Fall Asleep Fast Eliminates All Negative Energy
@@ -33013,4 +33017,4 @@ http://45.139.122.199:8080/movie/Martin1/martin1/1036211.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a9sa6ERZCpplbPEO7OMWE763CLD.jpg" group-title="Movies | VOD: [Dolby Vision] 4k Movies [Multi-Sub] [Only On Dolby Vision Devices]",First Blood [1982] [Dolby Vision] [Multi-Sub] [4K]
 http://45.139.122.199:8080/movie/Martin1/martin1/2173473.mkv
 
-# Total: 16487
+# Total: 16489

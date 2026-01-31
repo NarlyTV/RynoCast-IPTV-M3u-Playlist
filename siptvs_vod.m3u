@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: siptvs.com:8080
-# Generated: 2026-01-31 07:28:09
+# Generated: 2026-01-31 18:29:09
 # Expires: 2026-05-16
 # Family Safe Edition
 # ==============================================
@@ -12853,7 +12853,7 @@ http://siptvs.com:8080/movie/Biljana12/Biljana12/126820.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kEy48iCzGnp0ao1cZbNeWR6yIhC.jpg" group-title="Movies | |DE| WESTERN",The Power of the Dog (2021)
 http://siptvs.com:8080/movie/Biljana12/Biljana12/182017.mkv
 
-# --- Movies | |EXYU| 4K- UHD (53) ---
+# --- Movies | |EXYU| 4K- UHD (57) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jKuDyqx7jrjiR9cDzB5pxzhJAdv.jpg" group-title="Movies | |EXYU| 4K- UHD",Finch (2021)
 http://siptvs.com:8080/movie/Biljana12/Biljana12/105048.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/89K9PnKqi8dUlrTu2m5EMLeALt1.jpg" group-title="Movies | |EXYU| 4K- UHD",ROH: Without Remorse (2008)
@@ -12960,6 +12960,14 @@ http://siptvs.com:8080/movie/Biljana12/Biljana12/192632.mkv
 http://siptvs.com:8080/movie/Biljana12/Biljana12/199435.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/m1jFoahEbeQXtx4zArT2FKdbNIj.jpg" group-title="Movies | |EXYU| 4K- UHD",One Battle After Another (2025) 4K
 http://siptvs.com:8080/movie/Biljana12/Biljana12/199436.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/AfFD10ZqEx2vkxM2yvRZkybsGB7.jpg" group-title="Movies | |EXYU| 4K- UHD",Matrix (1998) 4K
+http://siptvs.com:8080/movie/Biljana12/Biljana12/199655.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bkkS61w94ZVMNVd8KEyyJl2tnY5.jpg" group-title="Movies | |EXYU| 4K- UHD",The Matrix Revolutions (2003) 4K
+http://siptvs.com:8080/movie/Biljana12/Biljana12/199656.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/aA5qHS0FbSXO8PxcxUIHbDrJyuh.jpg" group-title="Movies | |EXYU| 4K- UHD",The Matrix Reloaded (2003) 4K
+http://siptvs.com:8080/movie/Biljana12/Biljana12/199657.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8c4a8kE7PizaGQQnditMmI1xbRp.jpg" group-title="Movies | |EXYU| 4K- UHD",The Matrix Resurrections (2021) 4K
+http://siptvs.com:8080/movie/Biljana12/Biljana12/199658.mkv
 
 # --- Movies | |EXYU| AKCIJA (687) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ptURGAFktibhk7DEAbMazlmNqWa.jpg" group-title="Movies | |EXYU| AKCIJA",2 Igrača (2013)
@@ -33523,4 +33531,4 @@ http://siptvs.com:8080/movie/Biljana12/Biljana12/179055.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c44zM4fWJ55ImcEnqf7UL4dsCSB.jpg" group-title="Movies | |MU| MUSIC/CONCERTE",Avicii - Mein letztes Konzert (2024)
 http://siptvs.com:8080/movie/Biljana12/Biljana12/181880.mkv
 
-# Total: 16695
+# Total: 16699
