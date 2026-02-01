@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: allone8k.info:8080
-# Generated: 2026-02-01 07:28:45
+# Generated: 2026-02-01 18:41:20
 # Expires: 2026-06-20
 # Family Safe Edition
 # ==============================================
@@ -18017,4 +18017,16 @@ http://allone8k.info:8080/live/hany/hany1234/453199.m3u8
 #EXTINF:-1 tvg-logo="" group-title="مهم",mbc masr test
 http://allone8k.info:8080/live/hany/hany1234/473269.m3u8
 
-# Total: 8803
+# --- ☽ رمضان يجمعنا ☾ (5) ---
+#EXTINF:-1 tvg-logo="https://img5.pixhost.to/images/2809/565732768_ramadan.png" group-title="☽ رمضان يجمعنا ☾",RM: اغاني رمضانية
+http://allone8k.info:8080/live/hany/hany1234/642317.m3u8
+#EXTINF:-1 tvg-logo="https://img5.pixhost.to/images/2809/565732768_ramadan.png" group-title="☽ رمضان يجمعنا ☾",RM: ابتهالات رمضانية
+http://allone8k.info:8080/live/hany/hany1234/642318.m3u8
+#EXTINF:-1 tvg-logo="https://img5.pixhost.to/images/2809/565732768_ramadan.png" group-title="☽ رمضان يجمعنا ☾",RM: اعلانات رمضان
+http://allone8k.info:8080/live/hany/hany1234/642319.m3u8
+#EXTINF:-1 tvg-logo="https://img5.pixhost.to/images/2809/565732768_ramadan.png" group-title="☽ رمضان يجمعنا ☾",RM: مطبخ رمضان
+http://allone8k.info:8080/live/hany/hany1234/642321.m3u8
+#EXTINF:-1 tvg-logo="https://img5.pixhost.to/images/2809/565732768_ramadan.png" group-title="☽ رمضان يجمعنا ☾",RM: فنانيس
+http://allone8k.info:8080/live/hany/hany1234/642320.m3u8
+
+# Total: 8808
