@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: world-service.us:8080
-# Generated: 2026-02-03 07:27:58
+# Generated: 2026-02-03 18:47:08
 # Expires: 2026-02-19
 # Family Safe Edition
 # ==============================================
@@ -596,14 +596,14 @@ http://world-service.us:8080/live/giovanmer/merante/56982.m3u8
 http://world-service.us:8080/live/giovanmer/merante/56984.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DE - HDPLUS",DE: N-TV
 http://world-service.us:8080/live/giovanmer/merante/56996.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DE - HDPLUS",BR Fernsehen HD
+http://world-service.us:8080/live/giovanmer/merante/84722.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DE - HDPLUS",DE: Comedy Central HD
 http://world-service.us:8080/live/giovanmer/merante/57068.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DE - HDPLUS",DE: TLC HD
 http://world-service.us:8080/live/giovanmer/merante/57086.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DE - HDPLUS",DE: Welt HD
 http://world-service.us:8080/live/giovanmer/merante/57091.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE - HDPLUS",BR Fernsehen HD
-http://world-service.us:8080/live/giovanmer/merante/84722.m3u8
 
 # --- DE - Sky Bundesliga (13) ---
 #EXTINF:-1 tvg-logo="" group-title="DE - Sky Bundesliga",==== BUNDESLIGA ====
