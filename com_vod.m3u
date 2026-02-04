@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: com.trt1000.com:80
-# Generated: 2026-02-04 07:27:16
+# Generated: 2026-02-04 18:48:39
 # Expires: 2027-01-09
 # Family Safe Edition
 # ==============================================
@@ -13515,7 +13515,7 @@ http://com.trt1000.com:80/movie/kayaciahmet/08012023bas/1261.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TOD - BEIN CONNECT",Vicdansız
 http://com.trt1000.com:80/movie/kayaciahmet/08012023bas/1343.mp4
 
-# --- Movies | TURK FiLMLERi (1361) ---
+# --- Movies | TURK FiLMLERi (1364) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xlfTxlwcqFBU0OwTWQCHY7I6Tu2.jpg" group-title="Movies | TURK FiLMLERi",Nuh'un Gemisi Cudi'de 2  (2022)
 http://com.trt1000.com:80/movie/kayaciahmet/08012023bas/48216.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yXYLyeMFspuPBjJBYk72GXI5lCn.jpg" group-title="Movies | TURK FiLMLERi",Evcilik (2024)
@@ -16238,6 +16238,12 @@ http://com.trt1000.com:80/movie/kayaciahmet/08012023bas/64833.mp4
 http://com.trt1000.com:80/movie/kayaciahmet/08012023bas/64866.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6z0fM39EC7xrETMoN0s4HYbZDpT.jpg" group-title="Movies | TURK FiLMLERi",Sijjin 8 (2025)
 http://com.trt1000.com:80/movie/kayaciahmet/08012023bas/64869.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ag0w5xWeQJZh3xEQmCds8fBmE5.jpg" group-title="Movies | TURK FiLMLERi",Program (2025)
+http://com.trt1000.com:80/movie/kayaciahmet/08012023bas/64906.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1yhTZRtl7ZSMoPGpmMhL1iq0fxD.jpg" group-title="Movies | TURK FiLMLERi",Aşkın Yüzü (2025)
+http://com.trt1000.com:80/movie/kayaciahmet/08012023bas/64907.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9npjIsIb8iBQrz62kehNKNzJoOK.jpg" group-title="Movies | TURK FiLMLERi",Kayıkçı (2025)
+http://com.trt1000.com:80/movie/kayaciahmet/08012023bas/64908.mp4
 
 # --- Movies | TV+ (2) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | TV+",The Walking Dead: Dead City
@@ -23341,7 +23347,7 @@ http://com.trt1000.com:80/movie/kayaciahmet/08012023bas/38008.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jtlDK3r8G282Vi0cGMxLVJJkhke.jpg" group-title="Movies | YABANCI TURKCE DUBLAJ",Asla Pes Etme 3: Never Back Down (2013)
 http://com.trt1000.com:80/movie/kayaciahmet/08012023bas/59554.mkv
 
-# --- Series | TURK DIZILERI SERIES (95) ---
+# --- Series | TURK DIZILERI SERIES (96) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | TURK DIZILERI SERIES",Güzel Köylü
 http://com.trt1000.com:80/series/kayaciahmet/08012023bas/67
 #EXTINF:-1 tvg-logo="" group-title="Series | TURK DIZILERI SERIES",Kudus Fatihi: Selahaddin Eyyubi
@@ -23532,5 +23538,7 @@ http://com.trt1000.com:80/series/kayaciahmet/08012023bas/1314
 http://com.trt1000.com:80/series/kayaciahmet/08012023bas/1328
 #EXTINF:-1 tvg-logo="" group-title="Series | TURK DIZILERI SERIES",A.B.I.
 http://com.trt1000.com:80/series/kayaciahmet/08012023bas/1344
+#EXTINF:-1 tvg-logo="" group-title="Series | TURK DIZILERI SERIES",Yeraltı
+http://com.trt1000.com:80/series/kayaciahmet/08012023bas/1345
 
-# Total: 11733
+# Total: 11737

@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: dk.2665.ninja:8080
-# Generated: 2026-02-04 07:28:13
+# Generated: 2026-02-04 18:40:15
 # Expires: 2026-02-28
 # Family Safe Edition
 # ==============================================
@@ -875,7 +875,7 @@ http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/515437.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/Eurosport_extra.png" group-title="DE DISCOVERY+ - EUROSPORT EXTRA",DE: VIP EUROSPORT EXTRA 16 HD (SPIELZEIT)
 http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/515436.m3u8
 
-# --- DE DOKU (35) ---
+# --- DE DOKU (34) ---
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/flag/ger.png" group-title="DE DOKU",DE: ----- DOKU -----
 http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/135928.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/animal_planet.png" group-title="DE DOKU",DE: ANIMAL PLANET
@@ -898,8 +898,6 @@ http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/3464.m3u8
 http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/415591.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/hgtv.png" group-title="DE DOKU",DE: HGTV
 http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/321043.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/hipTrips.png" group-title="DE DOKU",DE: HIP TRIPS
-http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/474614.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/history.png" group-title="DE DOKU",DE: HISTORY HD
 http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/3439.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/history.png" group-title="DE DOKU",DE: HISTORY FHD
@@ -5413,4 +5411,4 @@ http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/531883.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/a_spor.png" group-title="TR VIP TURKIYE",TR: VIP A SPOR
 http://dk.2665.ninja:8080/live/holga1234holga/abcdefg/531882.m3u8
 
-# Total: 2662
+# Total: 2661

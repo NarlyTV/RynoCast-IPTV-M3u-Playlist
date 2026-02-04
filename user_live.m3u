@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: user.scalecdn.co:8080
-# Generated: 2026-02-04 07:29:09
+# Generated: 2026-02-04 18:51:47
 # Expires: 2026-11-29
 # Family Safe Edition
 # ==============================================
@@ -9364,9 +9364,9 @@ http://user.scalecdn.co:8080/live/Moniesavatar/85678534/503239.m3u8
 # --- PAY PER VIEW (PPV) (59) ---
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/674362068737232896/199ThBds_400x400.jpg" group-title="PAY PER VIEW (PPV)",USA PPV01: Volusia Speedway Park @ 05:15 PM EST
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/5597.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/674362068737232896/199ThBds_400x400.jpg" group-title="PAY PER VIEW (PPV)",USA PPV02: Labor of Love: Welcome to the Wasteland @ 06:00 PM EST
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/674362068737232896/199ThBds_400x400.jpg" group-title="PAY PER VIEW (PPV)",USA PPV02:
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/5598.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/674362068737232896/199ThBds_400x400.jpg" group-title="PAY PER VIEW (PPV)",USA PPV03: House of Glory: City of Angels 2026 @ 11:00 PM EST
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/674362068737232896/199ThBds_400x400.jpg" group-title="PAY PER VIEW (PPV)",USA PPV03:
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/5599.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/674362068737232896/199ThBds_400x400.jpg" group-title="PAY PER VIEW (PPV)",USA PPV04:
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/21292.m3u8
@@ -10106,39 +10106,39 @@ http://user.scalecdn.co:8080/live/Moniesavatar/85678534/596484.m3u8
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/596483.m3u8
 
 # --- SPORTS - CANADIAN HOCKEY (70) ---
-#EXTINF:-1 tvg-logo="" group-title="SPORTS - CANADIAN HOCKEY",SPORTS - CANADIAN HOCKEY 01: ECHL Savannah vs Jacksonville @ 10:30 AM EST
+#EXTINF:-1 tvg-logo="" group-title="SPORTS - CANADIAN HOCKEY",SPORTS - CANADIAN HOCKEY 01: ECHL Cincinnati vs Kalamazoo @ 7:00 PM EST
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/735219.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS - CANADIAN HOCKEY",SPORTS - CANADIAN HOCKEY 02: ECHL Trois-Rivières vs Reading @ 10:30 AM EST
+#EXTINF:-1 tvg-logo="" group-title="SPORTS - CANADIAN HOCKEY",SPORTS - CANADIAN HOCKEY 02: ECHL Worcester vs Adirondack @ 7:00 PM EST
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/735278.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS - CANADIAN HOCKEY",SPORTS - CANADIAN HOCKEY 03: ECHL Atlanta vs Greensboro @ 7:00 PM EST
+#EXTINF:-1 tvg-logo="" group-title="SPORTS - CANADIAN HOCKEY",SPORTS - CANADIAN HOCKEY 03: ECHL Fort Wayne vs Wheeling @ 7:10 PM EST
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/735279.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS - CANADIAN HOCKEY",SPORTS - CANADIAN HOCKEY 04:
+#EXTINF:-1 tvg-logo="" group-title="SPORTS - CANADIAN HOCKEY",SPORTS - CANADIAN HOCKEY 04: ECHL Florida vs Atlanta @ 7:10 PM EST
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/735280.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS - CANADIAN HOCKEY",SPORTS - CANADIAN HOCKEY 05:
+#EXTINF:-1 tvg-logo="" group-title="SPORTS - CANADIAN HOCKEY",SPORTS - CANADIAN HOCKEY 05: ECHL Iowa vs Kansas City @ 8:05 PM EST
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/735281.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS - CANADIAN HOCKEY",SPORTS - CANADIAN HOCKEY 06:
+#EXTINF:-1 tvg-logo="" group-title="SPORTS - CANADIAN HOCKEY",SPORTS - CANADIAN HOCKEY 06: ECHL Rapid City vs Wichita @ 8:05 PM EST
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/735282.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS - CANADIAN HOCKEY",SPORTS - CANADIAN HOCKEY 07:
+#EXTINF:-1 tvg-logo="" group-title="SPORTS - CANADIAN HOCKEY",SPORTS - CANADIAN HOCKEY 07: ECHL Norfolk vs Allen @ 8:10 PM EST
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/735283.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS - CANADIAN HOCKEY",SPORTS - CANADIAN HOCKEY 08:
+#EXTINF:-1 tvg-logo="" group-title="SPORTS - CANADIAN HOCKEY",SPORTS - CANADIAN HOCKEY 08: ECHL Greenville vs Idaho @ 9:10 PM EST
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/735284.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS - CANADIAN HOCKEY",SPORTS - CANADIAN HOCKEY 09:
+#EXTINF:-1 tvg-logo="" group-title="SPORTS - CANADIAN HOCKEY",SPORTS - CANADIAN HOCKEY 09: ECHL Utah vs Tahoe @ 10:00 PM EST
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/735285.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS - CANADIAN HOCKEY",SPORTS - CANADIAN HOCKEY 10:
+#EXTINF:-1 tvg-logo="" group-title="SPORTS - CANADIAN HOCKEY",SPORTS - CANADIAN HOCKEY 10:  OHL Kitchener vs London @ 6:30 PM EST
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/735286.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS - CANADIAN HOCKEY",SPORTS - CANADIAN HOCKEY 11:
+#EXTINF:-1 tvg-logo="" group-title="SPORTS - CANADIAN HOCKEY",SPORTS - CANADIAN HOCKEY 11: OHL Kingston vs Brantford @ 7:00 PM EST
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/735287.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS - CANADIAN HOCKEY",SPORTS - CANADIAN HOCKEY 12:
+#EXTINF:-1 tvg-logo="" group-title="SPORTS - CANADIAN HOCKEY",SPORTS - CANADIAN HOCKEY 12: OHL Soo vs Saginaw @ 7:05 PM EST
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/735288.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS - CANADIAN HOCKEY",SPORTS - CANADIAN HOCKEY 13:
+#EXTINF:-1 tvg-logo="" group-title="SPORTS - CANADIAN HOCKEY",SPORTS - CANADIAN HOCKEY 13: OHL Flint vs Sarnia @ 7:05 PM EST
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/735289.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS - CANADIAN HOCKEY",SPORTS - CANADIAN HOCKEY 14:
+#EXTINF:-1 tvg-logo="" group-title="SPORTS - CANADIAN HOCKEY",SPORTS - CANADIAN HOCKEY 14: LHJMQ Newfoundland vs Halifax @ 6:00 PM EST
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/735290.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS - CANADIAN HOCKEY",SPORTS - CANADIAN HOCKEY 15:
+#EXTINF:-1 tvg-logo="" group-title="SPORTS - CANADIAN HOCKEY",SPORTS - CANADIAN HOCKEY 15: LHJMQ Blainville vs Gatineau @ 7:00 PM EST
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/735291.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS - CANADIAN HOCKEY",SPORTS - CANADIAN HOCKEY 16:
+#EXTINF:-1 tvg-logo="" group-title="SPORTS - CANADIAN HOCKEY",SPORTS - CANADIAN HOCKEY 16 :LHJMQ Rouyn-Noranda vs Drummondville @ 7:00 PM EST
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/735292.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS - CANADIAN HOCKEY",SPORTS - CANADIAN HOCKEY 17:
+#EXTINF:-1 tvg-logo="" group-title="SPORTS - CANADIAN HOCKEY",SPORTS - CANADIAN HOCKEY 17: SPHL Peoria vs Evansville @ 8:00 PM EST
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/735293.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS - CANADIAN HOCKEY",SPORTS - CANADIAN HOCKEY 18:
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/735294.m3u8
@@ -11270,7 +11270,7 @@ http://user.scalecdn.co:8080/live/Moniesavatar/85678534/707580.m3u8
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/707490.m3u8
 
 # --- SPORTS - GOLF (20) ---
-#EXTINF:-1 tvg-logo="" group-title="SPORTS - GOLF",Golf 01:
+#EXTINF:-1 tvg-logo="" group-title="SPORTS - GOLF",Golf 01: Fairways of Life with Matt Adams @ 9:00 am
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/632037.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS - GOLF",Golf 02:
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/632038.m3u8
@@ -11410,25 +11410,25 @@ http://user.scalecdn.co:8080/live/Moniesavatar/85678534/714451.m3u8
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/714453.m3u8
 
 # --- SPORTS - NBA (90) ---
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="SPORTS - NBA",USA Real NBA 01: Denver Nuggets vs Detroit Pistons @ 07:00 PM EST
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="SPORTS - NBA",USA Real NBA 01: DEN Nuggets VS NYK Knicks ( ESPN Feed ) @ 7:00 PM
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/214171.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="SPORTS - NBA",USA Real NBA 02: Utah Jazz vs Indiana Pacers @ 07:00 PM EST
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="SPORTS - NBA",USA Real NBA 02: OKC Thunder VS SAS Spurs ( ESPN Feed ) @ 9:30 PM
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/214172.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="SPORTS - NBA",USA Real NBA 03: New York Knicks vs Washington Wizards @ 07:00 PM EST
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="SPORTS - NBA",USA Real NBA 03: Minnesota Timberwolves vs Toronto Raptors @ 07:30 PM EST
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/214173.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="SPORTS - NBA",USA Real NBA 04: Los Angeles Lakers vs Brooklyn Nets @ 07:30 PM EST
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="SPORTS - NBA",USA Real NBA 04: Boston Celtics vs Houston Rockets @ 08:00 PM EST
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/214174.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="SPORTS - NBA",USA Real NBA 05: Atlanta Hawks vs Miami Heat @ 07:30 PM EST
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="SPORTS - NBA",USA Real NBA 05: New Orleans Pelicans vs Milwaukee Bucks @ 08:00 PM EST
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/214175.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="SPORTS - NBA",USA Real NBA 06: Boston Celtics vs Dallas Mavericks @ 08:00 PM EST
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="SPORTS - NBA",USA Real NBA 06: Memphis Grizzlies vs Sacramento Kings @ 10:00 PM EST
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/214176.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="SPORTS - NBA",USA Real NBA 07: Chicago Bulls vs Milwaukee Bucks @ 08:00 PM EST
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="SPORTS - NBA",USA Real NBA 07: Cleveland Cavaliers vs LA Clippers @ 10:30 PM EST
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/214177.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="SPORTS - NBA",USA Real NBA 08: Orlando Magic vs Oklahoma City Thunder @ 08:00 PM EST
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="SPORTS - NBA",USA Real NBA 08:
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/214178.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="SPORTS - NBA",USA Real NBA 09: Philadelphia 76ers vs Golden State Warriors @ 10:00 PM EST
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="SPORTS - NBA",USA Real NBA 09:
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/214179.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="SPORTS - NBA",USA Real NBA 10: Phoenix Suns vs Portland Trail Blazers @ 11:00 PM EST
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="SPORTS - NBA",USA Real NBA 10:
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/214180.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="SPORTS - NBA",USA Real NBA 11:
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/214181.m3u8
@@ -11592,13 +11592,13 @@ http://user.scalecdn.co:8080/live/Moniesavatar/85678534/89087.m3u8
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/89088.m3u8
 
 # --- SPORTS - NBA G LEAGUE (6) ---
-#EXTINF:-1 tvg-logo="" group-title="SPORTS - NBA G LEAGUE",NBA G League 01: Memphis Hustle vs. Motor City Cruise 7:00 pm	EST
+#EXTINF:-1 tvg-logo="" group-title="SPORTS - NBA G LEAGUE",NBA G League 01: South Bay Lakers vs. Capital City Go-Go 7:00 pm EST
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/711755.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS - NBA G LEAGUE",NBA G League 02: En Español-Rip City Remix vs. Capitanes de Ciudad de México 9:00 pm	EST
+#EXTINF:-1 tvg-logo="" group-title="SPORTS - NBA G LEAGUE",NBA G League 02: Cleveland Charge vs. College Park Skyhawks 7:00 pm	EST
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/711756.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS - NBA G LEAGUE",NBA G League 03: Rip City Remix vs. Mexico City Capitanes 9:00 pm	EST
+#EXTINF:-1 tvg-logo="" group-title="SPORTS - NBA G LEAGUE",NBA G League 03: Noblesville Boom vs. Osceola Magic 7:00 pm EST
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/711757.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS - NBA G LEAGUE",NBA G League 04: Iowa Wolves vs. Stockton Kings 10:00 pm	EST
+#EXTINF:-1 tvg-logo="" group-title="SPORTS - NBA G LEAGUE",NBA G League 04: San Diego Clippers vs. Salt Lake City Stars 8:00 pm	EST
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/711758.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS - NBA G LEAGUE",NBA G League 05:
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/711759.m3u8
@@ -12054,117 +12054,117 @@ http://user.scalecdn.co:8080/live/Moniesavatar/85678534/725298.m3u8
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/725299.m3u8
 
 # --- SPORTS - NCAA MEN's BASKEBALL (82) ---
-#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA MEN's BASKEBALL",NCAAB 01 Canisius vs. Niagara 6:30 pm EST
+#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA MEN's BASKEBALL",NCAAB 01 Hawk Talk with Bill Self 11:00 am
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/487557.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA MEN's BASKEBALL",NCAAB 02 #23 Miami (OH) vs. Buffalo 6:30 pm	EST
+#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA MEN's BASKEBALL",NCAAB 02 Wofford vs. VMI 6:00 pm
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/487558.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA MEN's BASKEBALL",NCAAB 03 Akron vs. Eastern Michigan 6:30 pm	EST
+#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA MEN's BASKEBALL",NCAAB 03 Western Carolina vs. UNC Greensboro 6:00 pm
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/487559.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA MEN's BASKEBALL",NCAAB 04 Central Michigan vs. Massachusetts 7:00 pm	EST
+#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA MEN's BASKEBALL",NCAAB 04 South Carolina Upstate vs. UNC Asheville 6:30 pm
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/487560.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA MEN's BASKEBALL",NCAAB 05 Western Michigan vs. Ohio 7:00 pm	EST
+#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA MEN's BASKEBALL",NCAAB 05 South Alabama vs. App State 6:30 pm
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/487561.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA MEN's BASKEBALL",NCAAB 06 Southern Illinois vs. Illinois State 7:00 pm	EST
+#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA MEN's BASKEBALL",NCAAB 06 Longwood vs. Gardner-Webb 7:00 pm
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/487562.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA MEN's BASKEBALL",NCAAB 07 Kent State vs. Toledo 7:00 pm	EST
+#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA MEN's BASKEBALL",NCAAB 07 Liberty vs. Delaware 7:00 pm
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/487563.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA MEN's BASKEBALL",NCAAB 08 Ball State vs. Bowling Green 7:00 pm	EST
+#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA MEN's BASKEBALL",NCAAB 08 Youngstown State vs. Purdue Fort Wayne 7:00 pm
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/487564.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA MEN's BASKEBALL",NCAAB 09 VCU vs. Fordham 7:00 pm	EST
+#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA MEN's BASKEBALL",NCAAB 09 Navy vs. Lafayette 7:00 pm
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/487565.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA MEN's BASKEBALL",NCAAB 10 Indiana State vs. Evansville 8:00 pm	EST
+#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA MEN's BASKEBALL",NCAAB 10 Southern Miss vs. Marshall 7:00 pm
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/487566.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA MEN's BASKEBALL",NCAAB 11 La Salle vs. Loyola Chicago 8:00 pm	EST
+#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA MEN's BASKEBALL",NCAAB 11 UTSA vs. South Florida 7:00 pm
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/487567.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA MEN's BASKEBALL",NCAAB 12 Valparaiso vs. Bradley 8:00 pm	EST
+#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA MEN's BASKEBALL",NCAAB 12 UL Monroe vs. Old Dominion 7:00 pm
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/487568.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA MEN's BASKEBALL",NCAAB 13 UIC vs. Murray State 8:00 pm EST
+#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA MEN's BASKEBALL",NCAAB 13 Green Bay vs. Northern Kentucky 7:00 pm
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/487569.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA MEN's BASKEBALL",NCAAB 14 Little Rock vs. UT Martin 8:30 pm	EST
+#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA MEN's BASKEBALL",NCAAB 14 Army vs. Colgate 7:00 pm
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/487570.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA MEN's BASKEBALL",NCAAB 15 SIU Edwardsville vs. Lindenwood 8:30 pm	EST
+#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA MEN's BASKEBALL",NCAAB 15 Arkansas State vs. Coastal Carolina 7:00 pm
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/487571.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA MEN's BASKEBALL",NCAAB 16 Drake vs. Belmont 9:00 pm	EST
+#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA MEN's BASKEBALL",NCAAB 16 Bucknell vs. American University 7:00 pm
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/487572.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA MEN's BASKEBALL",NCAAB 17
+#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA MEN's BASKEBALL",NCAAB 17 Tulsa vs. Florida Atlantic 7:00 pm
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/487573.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA MEN's BASKEBALL",NCAAB 18
+#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA MEN's BASKEBALL",NCAAB 18 George Washington vs. Saint Joseph's 7:00 pm
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/487574.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA MEN's BASKEBALL",NCAAB 19
+#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA MEN's BASKEBALL",NCAAB 19 Wright State vs. Robert Morris 7:00 pm
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/487575.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA MEN's BASKEBALL",NCAAB 20
+#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA MEN's BASKEBALL",NCAAB 20 Charleston Southern vs. High Point 7:00 pm
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/487576.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA MEN's BASKEBALL",NCAAB 21
+#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA MEN's BASKEBALL",NCAAB 21 Duquesne vs. George Mason 7:00 pm
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/487577.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA MEN's BASKEBALL",NCAAB 22
+#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA MEN's BASKEBALL",NCAAB 22 Louisiana vs. James Madison 7:00 pm
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/487578.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA MEN's BASKEBALL",NCAAB 23
+#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA MEN's BASKEBALL",NCAAB 23 Troy vs. Georgia State 7:00 pm
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/487579.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA MEN's BASKEBALL",NCAAB 24
+#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA MEN's BASKEBALL",NCAAB 24 Charlotte vs. Wichita State 7:30 pm
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/487580.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA MEN's BASKEBALL",NCAAB 25
+#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA MEN's BASKEBALL",NCAAB 25 New Mexico State vs. Louisiana Tech 7:30 pm
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/487581.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA MEN's BASKEBALL",NCAAB 26
+#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA MEN's BASKEBALL",NCAAB 26 East Texas A&M vs. Northwestern State 7:30 pm
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/487582.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA MEN's BASKEBALL",NCAAB 27:
+#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA MEN's BASKEBALL",NCAAB 27 North Alabama vs. Central Arkansas 7:30 pm
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/487583.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA MEN's BASKEBALL",NCAAB 28:
+#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA MEN's BASKEBALL",NCAAB 28 Maryland-Eastern Shore vs. South Carolina State 8:00 pm
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/487584.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA MEN's BASKEBALL",NCAAB 29:
+#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA MEN's BASKEBALL",NCAAB 29 North Texas vs. Rice 8:00 pm
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/487585.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA MEN's BASKEBALL",NCAAB 30:
+#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA MEN's BASKEBALL",NCAAB 30 Lipscomb vs. Austin Peay 8:00 pm
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/487586.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA MEN's BASKEBALL",NCAAB 31:
+#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA MEN's BASKEBALL",NCAAB 31 Detroit Mercy vs. Milwaukee 8:00 pm
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/487587.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA MEN's BASKEBALL",NCAAB 32:
+#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA MEN's BASKEBALL",NCAAB 32 #6 Gonzaga vs. Portland 10:00 pm
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/487588.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA MEN's BASKEBALL",NCAAB 33:
+#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA MEN's BASKEBALL",NCAAB 33 Pepperdine vs. Seattle U 10:00 pm
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/487589.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA MEN's BASKEBALL",NCAAB 34:
+#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA MEN's BASKEBALL",NCAAB 34 Loyola Marymount vs. San Francisco 10:00 pm
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/487590.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA MEN's BASKEBALL",NCAAB 35:
+#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA MEN's BASKEBALL",NCAAB 35 San Diego vs. Saint Mary's 10:00 pm
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/487591.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA MEN's BASKEBALL",NCAAB 36:
+#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA MEN's BASKEBALL",NCAAB 36 Santa Clara vs. Pacific 10:00 pm
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/487592.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA MEN's BASKEBALL",NCAAB 37:
+#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA MEN's BASKEBALL",NCAAB 37
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/487593.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA MEN's BASKEBALL",NCAAB 38:
+#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA MEN's BASKEBALL",NCAAB 38
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/487594.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA MEN's BASKEBALL",NCAAB 39:
+#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA MEN's BASKEBALL",NCAAB 39
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/487595.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA MEN's BASKEBALL",NCAAB 40:
+#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA MEN's BASKEBALL",NCAAB 40
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/487596.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA MEN's BASKEBALL",NCAAB 41:
+#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA MEN's BASKEBALL",NCAAB 41
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/487597.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA MEN's BASKEBALL",NCAAB 42:
+#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA MEN's BASKEBALL",NCAAB 42
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/487598.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA MEN's BASKEBALL",NCAAB 43:
+#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA MEN's BASKEBALL",NCAAB 43
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/487599.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA MEN's BASKEBALL",NCAAB 44:
+#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA MEN's BASKEBALL",NCAAB 44
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/487600.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA MEN's BASKEBALL",NCAAB 45:
+#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA MEN's BASKEBALL",NCAAB 45
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/487601.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA MEN's BASKEBALL",NCAAB 46:
+#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA MEN's BASKEBALL",NCAAB 46
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/487602.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA MEN's BASKEBALL",NCAAB 47:
+#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA MEN's BASKEBALL",NCAAB 47
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/487603.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA MEN's BASKEBALL",NCAAB 48:
+#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA MEN's BASKEBALL",NCAAB 48
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/487604.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA MEN's BASKEBALL",NCAAB 49:
+#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA MEN's BASKEBALL",NCAAB 49
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/487605.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA MEN's BASKEBALL",NCAAB 50:
+#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA MEN's BASKEBALL",NCAAB 50
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/487606.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA MEN's BASKEBALL",NCAAB 51:
+#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA MEN's BASKEBALL",NCAAB 51
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/487607.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA MEN's BASKEBALL",NCAAB 52:
+#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA MEN's BASKEBALL",NCAAB 52
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/487608.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA MEN's BASKEBALL",NCAAB 53:
+#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA MEN's BASKEBALL",NCAAB 53
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/487609.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA MEN's BASKEBALL",NCAAB 54:
+#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA MEN's BASKEBALL",NCAAB 54
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/487610.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA MEN's BASKEBALL",NCAAB 55:
+#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA MEN's BASKEBALL",NCAAB 55
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/487611.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA MEN's BASKEBALL",NCAAB 56:
+#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA MEN's BASKEBALL",NCAAB 56
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/487612.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA MEN's BASKEBALL",NCAAB 57:
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/487613.m3u8
@@ -12500,63 +12500,63 @@ http://user.scalecdn.co:8080/live/Moniesavatar/85678534/715501.m3u8
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/715502.m3u8
 
 # --- SPORTS - NCAA WOMEN BASKETBALL (80) ---
-#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA WOMEN BASKETBALL",NCAAW B 01: Oakland vs. Northern Kentucky 6:00 pm EST
+#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA WOMEN BASKETBALL",NCAAW B 01: Central Michigan vs. Buffalo 11:00 am	EST
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/631957.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA WOMEN BASKETBALL",NCAAW B 02: SIUE vs. Lindenwood 6:00 pm	EST
+#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA WOMEN BASKETBALL",NCAAW B 02: Colgate vs. Army 11:00 am EST
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/631958.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA WOMEN BASKETBALL",NCAAW B 03: Washington Adventist vs. Coppin State 6:00 pm EST
+#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA WOMEN BASKETBALL",NCAAW B 03: South Florida vs. East Carolina 2:00 pm EST
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/631959.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA WOMEN BASKETBALL",NCAAW B 04: Little Rock vs. UT Martin 6:30  EST
+#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA WOMEN BASKETBALL",NCAAW B 04: Toledo vs. Akron 6:00 pm	EST
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/631960.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA WOMEN BASKETBALL",NCAAW B 05: Niagara vs. Canisius 6:30 pm	EST
+#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA WOMEN BASKETBALL",NCAAW B 05: Loyola Chicago vs. Fordham 6:00 pm	EST
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/631961.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA WOMEN BASKETBALL",NCAAW B 06: UTSA vs. UAB 7:00 pm EST
+#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA WOMEN BASKETBALL",NCAAW B 06: American University vs. Bucknell 6:00 pm	EST
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/631962.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA WOMEN BASKETBALL",NCAAW B 07: Tulsa vs. Wichita State 7:00 pm EST
+#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA WOMEN BASKETBALL",NCAAW B 07: Saint Joseph's vs. Rhode Island 6:00 pm	EST
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/631963.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA WOMEN BASKETBALL",NCAAW B 08: Tarleton State vs. Abilene Christian 7:00 pm EST
+#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA WOMEN BASKETBALL",NCAAW B 08: High Point vs. Winthrop 6:00 pm	EST
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/631964.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA WOMEN BASKETBALL",NCAAW B 09:
+#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA WOMEN BASKETBALL",NCAAW B 09: Davidson vs. St. Bonaventure 6:00 pm	EST
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/631965.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA WOMEN BASKETBALL",NCAAW B 10:
+#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA WOMEN BASKETBALL",NCAAW B 10: South Carolina Upstate vs. Presbyterian 6:00 pm	EST
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/631966.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA WOMEN BASKETBALL",NCAAW B 11:
+#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA WOMEN BASKETBALL",NCAAW B 11: UNC Asheville vs. Charleston Southern 6:00 pm	EST
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/631967.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA WOMEN BASKETBALL",NCAAW B 12:
+#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA WOMEN BASKETBALL",NCAAW B 12: Loyola Maryland vs. Lehigh 6:00 pm EST
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/631968.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA WOMEN BASKETBALL",NCAAW B 13:
+#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA WOMEN BASKETBALL",NCAAW B 13: Eastern Michigan vs. Massachusetts 6:00 pm	EST
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/631969.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA WOMEN BASKETBALL",NCAAW B 14:
+#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA WOMEN BASKETBALL",NCAAW B 14: #15 Baylor vs. Cincinnati 6:30 pm	EST
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/631970.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA WOMEN BASKETBALL",NCAAW B 15:
+#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA WOMEN BASKETBALL",NCAAW B 15: Dayton vs. La Salle 6:30 pm	EST
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/631971.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA WOMEN BASKETBALL",NCAAW B 16:
+#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA WOMEN BASKETBALL",NCAAW B 16: Northern Illinois vs. Ball State 6:30 pm	EST
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/631972.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA WOMEN BASKETBALL",NCAAW B 17:
+#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA WOMEN BASKETBALL",NCAAW B 17: Cleveland State vs. IU Indianapolis 6:30 pm	EST
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/631973.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA WOMEN BASKETBALL",NCAAW B 18:
+#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA WOMEN BASKETBALL",NCAAW B 18: Eastern Kentucky vs. Lipscomb 7:00 pm	EST
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/631974.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA WOMEN BASKETBALL",NCAAW B 19:
+#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA WOMEN BASKETBALL",NCAAW B 19: James Madison vs. Southern Miss 7:00 pm	EST
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/631975.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA WOMEN BASKETBALL",NCAAW B 20:
+#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA WOMEN BASKETBALL",NCAAW B 20: Georgia State vs. UL Monroe 7:30 pm	EST
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/631976.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA WOMEN BASKETBALL",NCAAW B 21:
+#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA WOMEN BASKETBALL",NCAAW B 21: Providence vs. Marquette 7:30 pm	EST
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/631977.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA WOMEN BASKETBALL",NCAAW B 22:
+#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA WOMEN BASKETBALL",NCAAW B 22: Houston vs. #14 TCU 7:30 pm EST
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/631978.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA WOMEN BASKETBALL",NCAAW B 23:
+#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA WOMEN BASKETBALL",NCAAW B 23:  Marshall vs. South Alabama 8:00 pm	EST
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/631979.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA WOMEN BASKETBALL",NCAAW B 24:
+#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA WOMEN BASKETBALL",NCAAW B 24: Kansas State vs. Arizona  8:00 pm	EST
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/631980.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA WOMEN BASKETBALL",NCAAW B 25:
+#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA WOMEN BASKETBALL",NCAAW B 25: Coastal Carolina vs. Arkansas State  8:00 pm	EST
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/631981.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA WOMEN BASKETBALL",NCAAW B 26:
+#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA WOMEN BASKETBALL",NCAAW B 26: Georgia Southern vs. Texas State 8:00 pm	EST
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/631982.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA WOMEN BASKETBALL",NCAAW B 27:
+#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA WOMEN BASKETBALL",NCAAW B 27: Richmond vs. Saint Louis 8:00 pm	EST
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/631983.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA WOMEN BASKETBALL",NCAAW B 28:
+#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA WOMEN BASKETBALL",NCAAW B 28: Oklahoma State vs. Arizona State 8:30 pm	EST
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/631984.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA WOMEN BASKETBALL",NCAAW B 29:
+#EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA WOMEN BASKETBALL",NCAAW B 29: #20 West Virginia vs. Colorado 9:00 pm	EST
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/631985.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS - NCAA WOMEN BASKETBALL",NCAAW B 30:
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/631986.m3u8
@@ -12682,205 +12682,205 @@ http://user.scalecdn.co:8080/live/Moniesavatar/85678534/711714.m3u8
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/711715.m3u8
 
 # --- SPORTS - PEACOCK EVENTS (100) ---
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 001) | Celtics vs. Mavericks (2026-02-03 19:00:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 001) | Seton Hall vs. Villanova (2026-02-04 18:30:00)
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/735096.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 002) | Xavier vs. UConn (2026-02-03 19:00:05)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 002) | Butler vs. Providence (2026-02-04 19:00:00)
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/735097.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 003) | Performance View: BOS vs. DAL (2026-02-03 19:00:10)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 003) | Creighton vs. Georgetown (2026-02-04 19:30:00)
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/735098.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 004) | St. John`s vs. DePaul (2026-02-03 20:00:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 004) | Colorado vs. Baylor (2026-02-04 20:00:00)
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/735099.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 005) | Indiana vs. USC (2026-02-03 22:00:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 005) | France v. Ireland (2026-02-05 15:00:00)
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/735100.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 006) | Suns vs. Trail Blazers (2026-02-03 23:00:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 006) | NFL Honors (2026-02-05 21:00:00)
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/735101.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 007) | Performance View: PHX vs. POR (2026-02-03 23:00:05)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 007) | Ohio State vs. Washington (2026-02-05 21:00:05)
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/735102.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 008) | Seton Hall vs. Villanova (2026-02-04 18:30:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 008) | Tigres vs. Santos (Español) (2026-02-06 19:30:00)
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/735103.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 009) | Butler vs. Providence (2026-02-04 19:00:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 009) | Italy v. Scotland (2026-02-07 09:00:00)
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/735104.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 010) | Creighton vs. Georgetown (2026-02-04 19:30:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 010) | Arsenal v. Sunderland (2026-02-07 09:30:00)
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/735105.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 011) | Colorado vs. Baylor (2026-02-04 20:00:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 011) | Goal Rush: Matchweek 25 (2026-02-07 09:50:00)
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/735106.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 012) | France v. Ireland (2026-02-05 15:00:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 012) | Burnley v. West Ham (2026-02-07 09:50:05)
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/735107.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 013) | NFL Honors (2026-02-05 21:00:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 013) | Fulham v. Everton (2026-02-07 09:50:10)
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/735108.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 014) | Ohio State vs. Washington (2026-02-05 21:00:05)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 014) | Wolves v. Chelsea (2026-02-07 09:50:15)
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/735109.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 015) | Tigres vs. Santos (Español) (2026-02-06 18:30:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 015) | Bournemouth v. Aston Villa (2026-02-07 09:50:20)
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/735110.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 016) | Italy v. Scotland (2026-02-07 09:00:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 016) | England v. Wales (2026-02-07 11:30:00)
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/735111.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 017) | Arsenal v. Sunderland (2026-02-07 09:30:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 017) | Newcastle v. Brentford (2026-02-07 12:00:00)
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/735112.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 018) | Goal Rush: Matchweek 25 (2026-02-07 09:50:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 018) | Race Day Live: Glendale (2026-02-07 13:00:00)
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/735113.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 019) | Burnley v. West Ham (2026-02-07 09:50:05)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 019) | Ascent FC v. Lexington SC (2026-02-07 14:00:00)
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/735114.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 020) | Wolves v. Chelsea (2026-02-07 09:50:10)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 020) | Sporting JAX v. Power FC (2026-02-07 17:00:00)
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/735115.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 021) | Fulham v. Everton (2026-02-07 09:50:15)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 021) | Seton Hall vs. Creighton (2026-02-07 18:00:00)
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/735116.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 022) | Bournemouth v. Aston Villa (2026-02-07 09:50:20)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 022) | Supercross Rd. 5: Glendale (2026-02-07 19:00:00)
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/735117.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 023) | England v. Wales (2026-02-07 11:30:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 023) | FTL United v. Trinity FC (2026-02-07 20:00:00)
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/735118.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 024) | Newcastle v. Brentford (2026-02-07 12:00:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 024) | Brighton v. Crystal Palace (2026-02-08 08:00:00)
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/735119.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 025) | Race Day Live: Glendale (2026-02-07 13:00:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 025) | Liverpool v. Man City (Español) (2026-02-08 11:25:00)
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/735120.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 026) | Ascent FC v. Lexington SC (2026-02-07 14:00:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 026) | Liverpool v. Man City (2026-02-08 11:30:00)
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/735121.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 027) | Sporting JAX v. Power FC (2026-02-07 17:00:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 027) | Road to the Super Bowl (2026-02-08 12:00:00)
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/735122.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 028) | Seton Hall vs. Creighton (2026-02-07 18:00:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 028) | Super Bowl LX Pregame (2026-02-08 13:00:00)
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/735123.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 029) | Supercross Rd. 5: Glendale (2026-02-07 19:00:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 029) | Super Bowl Pregame (Español) (2026-02-08 13:00:05)
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/735124.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 030) | FTL United v. Trinity FC (2026-02-07 19:30:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 030) | Super Bowl LX Tailgate Concert (2026-02-08 15:50:00)
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/735125.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 031) | Brighton v. Crystal Palace (2026-02-08 08:00:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 031) | Super Bowl LX: Seahawks vs. Patriots (2026-02-08 18:00:00)
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/735126.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 032) | Liverpool v. Man City (Español) (2026-02-08 11:25:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 032) | Super Bowl LX: Seahawks vs. Patriots (Español) (2026-02-08 18:00:05)
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/735127.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 033) | Liverpool v. Man City (2026-02-08 11:30:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 033) | Performance View: MIL vs. ORL (2026-02-09 19:30:00)
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/735128.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 034) | Road to the Super Bowl (2026-02-08 12:00:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 034) | Bucks vs. Magic (2026-02-09 19:30:05)
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/735129.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 035) | Super Bowl LX Pregame (2026-02-08 13:00:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 035) | Performance View: OKC vs. LAL (2026-02-09 22:00:00)
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/735130.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 036) | Super Bowl Pregame (Español) (2026-02-08 13:00:05)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 036) | Thunder vs. Lakers (2026-02-09 22:00:05)
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/735131.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 037) | Super Bowl LX Tailgate Concert (2026-02-08 15:50:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 037) | Spurs v. Newcastle (Español) (2026-02-10 14:00:00)
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/735132.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 038) | Super Bowl LX: Seahawks vs. Patriots (Español) (2026-02-08 18:00:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 038) | Chelsea v. Leeds United (2026-02-10 14:20:00)
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/735133.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 039) | Super Bowl LX: Seahawks vs. Patriots (2026-02-08 18:00:05)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 039) | Spurs v. Newcastle (2026-02-10 14:20:05)
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/735134.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 040) | Bucks vs. Magic (2026-02-09 19:30:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 040) | Everton v. Bournemouth (2026-02-10 14:20:10)
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/735135.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 041) | Performance View: MIL vs. ORL (2026-02-09 19:30:05)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 041) | Goal Rush: Matchweek 26 (2026-02-10 14:20:15)
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/735136.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 042) | Thunder vs. Lakers (2026-02-09 22:00:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 042) | West Ham v. Man United (2026-02-10 15:05:00)
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/735137.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 043) | Performance View: OKC vs. LAL (2026-02-09 22:00:05)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 043) | Wisconsin vs. Illinois (2026-02-10 20:00:00)
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/735138.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 044) | Spurs v. Newcastle (Español) (2026-02-10 14:00:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 044) | Man City v. Fulham (2026-02-11 14:20:00)
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/735139.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 045) | Chelsea v. Leeds United (2026-02-10 14:20:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 045) | Aston Villa v. Brighton (2026-02-11 14:20:05)
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/735140.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 046) | Everton v. Bournemouth (2026-02-10 14:20:05)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 046) | Crystal Palace v. Burnley (2026-02-11 14:20:10)
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/735141.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 047) | Goal Rush: Matchweek 26 (2026-02-10 14:20:10)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 047) | Nott`m Forest v. Wolves (2026-02-11 14:20:15)
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/735142.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 048) | Spurs v. Newcastle (2026-02-10 14:20:15)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 048) | Sunderland v. Liverpool (2026-02-11 15:05:00)
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/735143.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 049) | West Ham v. Man United (2026-02-10 15:05:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 049) | Sporting JAX v. Zephyr FC (2026-02-11 19:00:00)
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/735144.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 050) | Man City v. Fulham (2026-02-11 14:20:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 050) | Creighton vs. UConn (2026-02-11 19:00:05)
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/735145.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 051) | Aston Villa v. Brighton (2026-02-11 14:20:05)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 051) | Providence vs. Seton Hall (2026-02-11 19:30:00)
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/735146.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 052) | Nott`m Forest v. Wolves (2026-02-11 14:20:10)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 052) | UCLA vs. Michigan State (2026-02-11 20:00:00)
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/735147.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 053) | Crystal Palace v. Burnley (2026-02-11 14:20:15)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 053) | Creighton vs. DePaul (2026-02-11 21:00:00)
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/735148.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 054) | Sporting JAX v. Zephyr FC (2026-02-11 19:00:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 054) | Brentford v. Arsenal (2026-02-12 14:20:00)
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/735149.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 055) | Creighton vs. UConn (2026-02-11 19:00:05)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 055) | Penn State vs. Maryland (2026-02-12 19:00:00)
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/735150.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 056) | Providence vs. Seton Hall (2026-02-11 19:30:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 056) | Michigan vs. Northwestern (2026-02-12 21:00:00)
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/735151.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 057) | UCLA vs. Michigan State (2026-02-11 20:00:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 057) | Minnesota vs. Notre Dame (2026-02-13 19:00:00)
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/735152.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 058) | Creighton vs. DePaul (2026-02-11 21:00:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 058) | NBA Rising Stars (2026-02-13 21:00:00)
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/735153.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 059) | Penn State vs. Maryland (2026-02-12 19:00:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 059) | NBA HBCU Classic (2026-02-13 23:00:00)
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/735154.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 060) | Michigan vs. Northwestern (2026-02-12 21:00:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 060) | Ireland v. Italy (2026-02-14 09:00:00)
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/735155.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 061) | Minnesota vs. Notre Dame (2026-02-13 19:00:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 061) | Scotland v. England (2026-02-14 11:30:00)
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/735156.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 062) | NBA Rising Stars (2026-02-13 21:00:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 062) | Race Day Live: Seattle (2026-02-14 13:00:00)
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/735157.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 063) | Ireland v. Italy (2026-02-14 09:10:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 063) | Lexington SC v. Trinity FC (2026-02-14 14:00:00)
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/735158.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 064) | Scotland v. England (2026-02-14 11:30:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 064) | Ascent FC v. Zephyr FC (2026-02-14 14:00:05)
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/735159.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 065) | Race Day Live: Seattle (2026-02-14 13:00:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 065) | Kansas State vs. Houston (2026-02-14 16:00:00)
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/735160.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 066) | Lexington SC v. Trinity FC (2026-02-14 14:00:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 066) | NBA All_Star Saturday (2026-02-14 16:30:00)
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/735161.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 067) | Ascent FC v. Zephyr FC (2026-02-14 14:00:05)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 067) | Minnesota vs. Notre Dame (2026-02-14 18:00:00)
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/735162.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 068) | Kansas State vs. Houston (2026-02-14 16:00:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 068) | Supercross Rd. 6: Seattle (2026-02-14 19:00:00)
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/735163.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 069) | Minnesota vs. Notre Dame (2026-02-14 18:00:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 069) | FTL United v. Brooklyn FC (2026-02-14 19:30:00)
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/735164.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 070) | Supercross Rd. 6: Seattle (2026-02-14 19:00:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 070) | Sun FC v. Power FC (2026-02-14 19:30:05)
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/735165.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 071) | FTL United v. Brooklyn FC (2026-02-14 19:30:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 071) | Georgetown vs. UConn (2026-02-14 20:00:00)
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/735166.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 072) | Sun FC v. Power FC (2026-02-14 19:30:05)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 072) | Minnesota vs. Washington (2026-02-14 21:00:00)
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/735167.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 073) | Georgetown vs. UConn (2026-02-14 20:00:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 073) | Wales v. France (2026-02-15 10:00:00)
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/735168.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 074) | Minnesota vs. Washington (2026-02-14 21:00:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 074) | Indiana vs. UCLA (2026-02-15 15:00:00)
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/735169.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 075) | Wales v. France (2026-02-15 10:00:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 075) | NBA All_Star Game (Español) (2026-02-15 16:30:00)
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/735170.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 076) | Indiana vs. UCLA (2026-02-15 15:00:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 076) | NBA All_Star Game (2026-02-15 16:30:05)
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/735171.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 077) | NBA All_Star Game (Español) (2026-02-15 16:30:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 077) | UConn vs. Villanova (2026-02-18 19:00:00)
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/735172.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 078) | NBA All_Star Game (2026-02-15 16:30:05)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 078) | Kansas vs. Oklahoma State (2026-02-18 21:00:00)
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/735173.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 079) | UConn vs. Villanova (2026-02-18 19:00:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 079) | Wisconsin vs. USC (2026-02-19 21:00:00)
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/735174.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 080) | Kansas vs. Oklahoma State (2026-02-18 21:00:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 080) | England v. Ireland (2026-02-21 09:00:00)
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/735175.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 081) | Wisconsin vs. USC (2026-02-19 21:00:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 081) | Wales v. Scotland (2026-02-21 11:30:00)
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/735176.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 082) | England v. Ireland (2026-02-21 09:00:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 082) | Race Day Live: Arlington (2026-02-21 13:00:00)
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/735177.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 083) | Wales v. Scotland (2026-02-21 11:30:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 083) | Ascent FC v. Trinity FC (2026-02-21 14:00:00)
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/735178.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 084) | Race Day Live: Arlington (2026-02-21 13:00:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 084) | Lexington SC v. Sporting JAX (2026-02-21 14:00:05)
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/735179.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 085) | Ascent FC v. Trinity FC (2026-02-21 14:00:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 085) | West Virginia vs. TCU (2026-02-21 17:00:00)
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/735180.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 086) | Lexington SC v. Sporting JAX (2026-02-21 14:00:05)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 086) | Supercross Rd. 7: Arlington (2026-02-21 18:30:00)
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/735181.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 087) | West Virginia vs. TCU (2026-02-21 17:00:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 087) | Sun FC v. FTL United (2026-02-21 19:30:00)
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/735182.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 088) | Supercross Rd. 7: Arlington (2026-02-21 18:30:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 088) | France v. Italy (2026-02-22 10:00:00)
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/735183.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 089) | Sun FC v. FTL United (2026-02-21 19:30:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 089) | Marquette vs. Villanova (2026-02-22 15:30:00)
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/735184.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 090) | France v. Italy (2026-02-22 10:00:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 090) | Wisconsin vs. UCLA (2026-02-22 17:30:00)
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/735185.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 091) | Marquette vs. Villanova (2026-02-22 15:30:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 091) | Performance View: BOS vs. LAL (2026-02-22 18:00:00)
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/735186.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 092) | Wisconsin vs. UCLA (2026-02-22 17:30:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 092) | Celtics vs. Lakers (Español) (2026-02-22 18:00:05)
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/735187.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 093) | Celtics vs. Lakers (Español) (2026-02-22 18:00:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 093) | Celtics vs. Lakers (2026-02-22 18:00:10)
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/735188.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 094) | Celtics vs. Lakers (2026-02-22 18:00:05)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 094) | Performance View: SAS vs. DET (2026-02-23 18:30:00)
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/735189.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 095) | Performance View: BOS vs. LAL (2026-02-22 18:00:10)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 095) | Spurs vs. Pistons (2026-02-23 18:30:05)
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/735190.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 096) | Spurs vs. Pistons (2026-02-23 18:30:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 096) | Performance View: UTA vs. HOU (2026-02-23 21:30:00)
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/735191.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 097) | Performance View: SAS vs. DET (2026-02-23 18:30:05)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 097) | Jazz vs. Rockets (2026-02-23 21:30:05)
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/735192.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 098) | Jazz vs. Rockets (2026-02-23 21:30:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 098) | Marquette vs. Georgetown (2026-02-24 18:30:00)
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/735193.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 099) | Performance View: UTA vs. HOU (2026-02-23 21:30:05)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 099) | Performance View: NYK v. CLE (2026-02-24 19:00:00)
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/735194.m3u8
-#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 100) | Marquette vs. Georgetown (2026-02-24 18:30:00)
+#EXTINF:-1 tvg-logo="/logos/peacockusa.png" group-title="SPORTS - PEACOCK EVENTS",US (Peacock 100) | Knicks vs. Cavaliers (2026-02-24 19:00:05)
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/735195.m3u8
 
 # --- SPORTS - RUGBY (5) ---
@@ -12896,19 +12896,19 @@ http://user.scalecdn.co:8080/live/Moniesavatar/85678534/710829.m3u8
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/710830.m3u8
 
 # --- SPORTS - SOCCER (70) ---
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/e7/d7/19/e7d7190f0b5b3abd4f6c17e2c7989ec3.jpg" group-title="SPORTS - SOCCER",USA Soccer01: North America - CONCACAF Champions Cup : Forge vs Tigres UANL @ 07:00pm EST
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/e7/d7/19/e7d7190f0b5b3abd4f6c17e2c7989ec3.jpg" group-title="SPORTS - SOCCER",USA Soccer01: North America - CONCACAF Champions Cup : Xelajú vs Monterrey @ 08:00pm EST
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/38039.m3u8
-#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SPORTS - SOCCER",USA Soccer02: North America - CONCACAF Champions Cup : Olimpia vs América @ 09:00pm EST
+#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SPORTS - SOCCER",USA Soccer02: North America - CONCACAF Champions Cup : Vancouver FC vs Cruz Azul @ 10:00pm EST
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/21812.m3u8
-#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SPORTS - SOCCER",USA Soccer03: North America - CONCACAF Champions Cup : San Diego vs Pumas UNAM @ 11:00pm EST
+#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SPORTS - SOCCER",USA Soccer03: Portugal - Taça de Portugal : Fafe vs Torreense @ 03:15pm EST
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/21823.m3u8
-#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SPORTS - SOCCER",USA Soccer04: Italy - Serie A : Bologna vs Milan @ 02:45pm EST
+#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SPORTS - SOCCER",USA Soccer04: England - League Cup : Manchester City vs Newcastle United @ 03:00pm EST
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/21824.m3u8
-#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SPORTS - SOCCER",USA Soccer05: England - League Cup : Arsenal vs Chelsea @ 03:00pm EST
+#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SPORTS - SOCCER",USA Soccer05: Italy - Coppa Italia : Internazionale vs Torino @ 03:00pm EST
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/21825.m3u8
-#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SPORTS - SOCCER",USA Soccer06: Spain - Copa del Rey : Albacete vs Barcelona @ 03:00pm EST
+#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SPORTS - SOCCER",USA Soccer06: Spain - Copa del Rey : Valencia vs Athletic Club @ 03:00pm EST
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/21826.m3u8
-#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SPORTS - SOCCER",USA Soccer07: South America - Copa Libertadores : The Strongest vs Deportivo Táchira @ 07:30pm EST
+#EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SPORTS - SOCCER",USA Soccer07: South America - Copa Libertadores : 2 de Mayo vs Alianza Lima @ 07:30pm EST
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/21827.m3u8
 #EXTINF:-1 tvg-logo="https://img.clipartlook.com/soccer-ball-clipart-soccer-ball-clip-art-598_598.gif" group-title="SPORTS - SOCCER",USA Soccer08:
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/21828.m3u8
@@ -17875,7 +17875,7 @@ http://user.scalecdn.co:8080/live/Moniesavatar/85678534/390429.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/images/large/2x/minnesota-vikings-logo-transparent.png" group-title="USA NFL",USA NFL: Vikings
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/390428.m3u8
 
-# --- USA NHL (88) ---
+# --- USA NHL (87) ---
 #EXTINF:-1 tvg-logo="" group-title="USA NHL",USA NHL Anaheim Ducks
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/509719.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA NHL",USA NHL Arizona Coyotes
@@ -17934,31 +17934,29 @@ http://user.scalecdn.co:8080/live/Moniesavatar/85678534/509708.m3u8
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/509726.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA NHL",USA NHL Winnipeg Jets
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/509715.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA NHL",USA Real NHL 01: WSH VS PHI (NBCSP Feed ) @ 7:00 pm
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA NHL",USA Real NHL 01: BOS VS FLA (TVAS Feed ) @ 7:00 pm
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/205046.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA NHL",USA Real NHL 02: OTT VS CAR (RDS Feed ) @ 7:00 pm
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA NHL",USA Real NHL 02: MTL VS WPG (SN Feed ) @ 7:00 pm
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/205047.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA NHL",USA Real NHL 03: PIT VS NYI (TVAS Feed ) @ 7:30 pm
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA NHL",USA Real NHL 03: MTL VS WPG (RDS Feed ) @ 7:00 pm
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/205048.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA NHL",USA Real NHL 04: TOR VS EDM (SN Feed ) @ 8:30 pm
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA NHL",USA Real NHL 04: SJS VS COL (ALT Feed ) @ 9:00 pm
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/205049.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA NHL",USA Real NHL 05: TOR VS EDM (TVAS Feed ) @ 8:30 pm
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA NHL",USA Real NHL 05: SJS VS COL (NBCSCA Feed ) @ 9:00 pm
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/205050.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA NHL",USA Real NHL 07: Buffalo Sabres vs Tampa Bay Lightning @ 07:30 PM EST
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA NHL",USA Real NHL 06: EDM VS CGY (SN Feed ) @ 10:00 pm
+http://user.scalecdn.co:8080/live/Moniesavatar/85678534/205051.m3u8
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA NHL",USA Real NHL 07: EDM VS CGY (SN360 Feed ) @ 10:00 pm
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/205052.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA NHL",USA Real NHL 08: Seattle Kraken vs Anaheim Ducks @ 10:00 PM EST
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA NHL",USA Real NHL 08: EDM VS CGY (TVAS Feed ) @ 10:00 pm
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/205053.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA NHL",USA Real NHL 09:
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/205054.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA NHL",USA Real NHL 10:
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA NHL",USA Real NHL 10: Minnesota Wild vs Nashville Predators @ 08:00 PM EST
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/205055.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA NHL",USA Real NHL 11:
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA NHL",USA Real NHL 11: Detroit Red Wings vs Utah Mammoth @ 09:00 PM EST
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/205056.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA NHL",USA Real NHL 12:
-http://user.scalecdn.co:8080/live/Moniesavatar/85678534/205057.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA NHL",USA Real NHL 13:
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA NHL",USA Real NHL 13: Seattle Kraken vs Los Angeles Kings @ 10:00 PM EST
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/205058.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA NHL",USA Real NHL 14:
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA NHL",USA Real NHL 14: Vancouver Canucks vs Vegas Golden Knights @ 10:00 PM EST
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/205059.m3u8
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="USA NHL",USA Real NHL 15:
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/205060.m3u8
@@ -18701,4 +18699,4 @@ http://user.scalecdn.co:8080/live/Moniesavatar/85678534/660965.m3u8
 #EXTINF:-1 tvg-logo="" group-title="VIETNAM",VN Vietface TV
 http://user.scalecdn.co:8080/live/Moniesavatar/85678534/660966.m3u8
 
-# Total: 9234
+# Total: 9233
