@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: fastream.xyz:8080
-# Generated: 2026-02-05 07:27:47
+# Generated: 2026-02-05 18:50:29
 # Expires: 2026-10-20
 # Family Safe Edition
 # ==============================================
@@ -19181,7 +19181,7 @@ http://fastream.xyz:8080/series/940246862tv/12ws79/2525
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DRAMA ←",El Caballero de los Siete Reinos
 http://fastream.xyz:8080/series/940246862tv/12ws79/2529
 
-# --- Series | → SERIES INFANTILES ← (43) ---
+# --- Series | → SERIES INFANTILES ← (44) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES INFANTILES ←",¡La serie de Cuphead!
 http://fastream.xyz:8080/series/940246862tv/12ws79/3
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES INFANTILES ←",Anfibilandia
@@ -19268,6 +19268,8 @@ http://fastream.xyz:8080/series/940246862tv/12ws79/2270
 http://fastream.xyz:8080/series/940246862tv/12ws79/2407
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES INFANTILES ←",Zootopia+
 http://fastream.xyz:8080/series/940246862tv/12ws79/2487
+#EXTINF:-1 tvg-logo="" group-title="Series | → SERIES INFANTILES ←",Phineas y Ferb
+http://fastream.xyz:8080/series/940246862tv/12ws79/2531
 
 # --- Series | → SERIES MARVEL ← (30) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES MARVEL ←",Invasion secreta
@@ -19685,4 +19687,4 @@ http://fastream.xyz:8080/series/940246862tv/12ws79/2345
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES TERROR-THRILLER-SUSPENSO ←",It: Bienvenidos a Derry
 http://fastream.xyz:8080/series/940246862tv/12ws79/2492
 
-# Total: 9766
+# Total: 9767

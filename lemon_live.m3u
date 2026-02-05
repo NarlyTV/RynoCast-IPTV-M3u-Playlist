@@ -1,37 +1,11 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: lemon.catchmeifyo.com:8000
-# Generated: 2026-02-05 07:27:13
+# Generated: 2026-02-05 18:51:15
 # Expires: 2026-04-05
 # Family Safe Edition
 # ==============================================
 
-
-# --- AUopen 2026 - HBO MAX (12) ---
-#EXTINF:-1 tvg-logo="" group-title="AUopen 2026 - HBO MAX",[HBO] US OPEN 1
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/186947.m3u8
-#EXTINF:-1 tvg-logo="" group-title="AUopen 2026 - HBO MAX",[HBO] US OPEN 2
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/186948.m3u8
-#EXTINF:-1 tvg-logo="" group-title="AUopen 2026 - HBO MAX",[HBO] US OPEN 3
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/186949.m3u8
-#EXTINF:-1 tvg-logo="" group-title="AUopen 2026 - HBO MAX",[HBO] US OPEN 4
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/186950.m3u8
-#EXTINF:-1 tvg-logo="" group-title="AUopen 2026 - HBO MAX",[HBO] US OPEN 5
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/186951.m3u8
-#EXTINF:-1 tvg-logo="" group-title="AUopen 2026 - HBO MAX",[HBO] US OPEN 6
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/186952.m3u8
-#EXTINF:-1 tvg-logo="" group-title="AUopen 2026 - HBO MAX",[HBO] US OPEN 7
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/186953.m3u8
-#EXTINF:-1 tvg-logo="" group-title="AUopen 2026 - HBO MAX",[HBO] US OPEN 8
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/186954.m3u8
-#EXTINF:-1 tvg-logo="" group-title="AUopen 2026 - HBO MAX",[HBO] US OPEN 9
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/186955.m3u8
-#EXTINF:-1 tvg-logo="" group-title="AUopen 2026 - HBO MAX",[HBO] US OPEN 10
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/186956.m3u8
-#EXTINF:-1 tvg-logo="" group-title="AUopen 2026 - HBO MAX",[HBO] US OPEN 11
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/186957.m3u8
-#EXTINF:-1 tvg-logo="" group-title="AUopen 2026 - HBO MAX",[HBO] US OPEN 12
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/186958.m3u8
 
 # --- Amerika / USA (413) ---
 #EXTINF:-1 tvg-logo="https://xplatinmedia.com/images/6e96f41ee15a99a0495d11fef3915792.png" group-title="Amerika / USA",USA: 30A | Darcizzle Offshore
@@ -2854,7 +2828,7 @@ http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/60567.m3u8
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/150113.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Belgium Sports",BE: Eleven Sports 1 NL
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/186373.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Belgium Sports",2026-02-01 13:30: DAZN nr. 1 - Standard de Liège - RSC Anderlecht
+#EXTINF:-1 tvg-logo="" group-title="Belgium Sports",2026-02-05 20:30: DAZN nr. 1 - RSC Anderlecht - Royal Antwerp FC
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/186374.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Belgium Sports",2026-02-01 16:00: DAZN nr. 2 - FC Dender - KRC Genk
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/186375.m3u8
@@ -5618,11 +5592,11 @@ http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/181570.m3u8
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/150925.m3u8
 #EXTINF:-1 tvg-logo="https://www.internetvergelijk.nl/app/uploads/2022/03/viaplay-logo.png" group-title="NL Viaplay",VIAPLAY + ( Darts en F1 Live )
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/185698.m3u8
-#EXTINF:-1 tvg-logo="https://www.internetvergelijk.nl/app/uploads/2022/03/viaplay-logo.png" group-title="NL Viaplay",Nr.: 1 - 17:55: Frauen-Bundesliga Frankfurt - Hoffenheim (Ronde 15)
+#EXTINF:-1 tvg-logo="https://www.internetvergelijk.nl/app/uploads/2022/03/viaplay-logo.png" group-title="NL Viaplay",Nr.: 1 - 18:55: SHL Malmö - Rögle (Competitieseizoen)
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/77148.m3u8
-#EXTINF:-1 tvg-logo="https://www.internetvergelijk.nl/app/uploads/2022/03/viaplay-logo.png" group-title="NL Viaplay",Nr.: 2 - 20:50: Carabao Cup Man City - Newcastle (Halve finale 2:2)
+#EXTINF:-1 tvg-logo="https://www.internetvergelijk.nl/app/uploads/2022/03/viaplay-logo.png" group-title="NL Viaplay",Nr.: 2 - 19:55: PDC Darts Premier League Darts (Newcastle)
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/77149.m3u8
-#EXTINF:-1 tvg-logo="https://www.internetvergelijk.nl/app/uploads/2022/03/viaplay-logo.png" group-title="NL Viaplay",Nr.: 3 - Geen Wedstrijd - Ververs uw lijst / Zie telegram voor programma vandaag
+#EXTINF:-1 tvg-logo="https://www.internetvergelijk.nl/app/uploads/2022/03/viaplay-logo.png" group-title="NL Viaplay",Nr.: 3 - 20:55: League Two Accrington - Salford (Ronde 31)
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/77150.m3u8
 #EXTINF:-1 tvg-logo="https://www.internetvergelijk.nl/app/uploads/2022/03/viaplay-logo.png" group-title="NL Viaplay",Nr.: 4 - Geen Wedstrijd - Ververs uw lijst / Zie telegram voor programma vandaag
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/78650.m3u8
@@ -5748,6 +5722,42 @@ http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/127335.m3u8
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/127336.m3u8
 #EXTINF:-1 tvg-logo="https://www.internetvergelijk.nl/app/uploads/2022/03/viaplay-logo.png" group-title="NL Viaplay",Nr.: 65 - Geen Wedstrijd - Ververs uw lijst / Zie telegram voor programma vandaag
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/127337.m3u8
+
+# --- Olympische Spelen 2026 - HBO MAX (17) ---
+#EXTINF:-1 tvg-logo="" group-title="Olympische Spelen 2026 - HBO MAX",[HBO] Event 1
+http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/186947.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Olympische Spelen 2026 - HBO MAX",[HBO] Event 2
+http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/186948.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Olympische Spelen 2026 - HBO MAX",[HBO] Event 3
+http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/186949.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Olympische Spelen 2026 - HBO MAX",[HBO] Event 4
+http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/186950.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Olympische Spelen 2026 - HBO MAX",[HBO] Event 5
+http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/186951.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Olympische Spelen 2026 - HBO MAX",[HBO] Event 6
+http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/186952.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Olympische Spelen 2026 - HBO MAX",[HBO] Event 7
+http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/186953.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Olympische Spelen 2026 - HBO MAX",[HBO] Event 8
+http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/186954.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Olympische Spelen 2026 - HBO MAX",[HBO] Event 9
+http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/186955.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Olympische Spelen 2026 - HBO MAX",[HBO] Event 10
+http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/186956.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Olympische Spelen 2026 - HBO MAX",[HBO] Event 11
+http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/186957.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Olympische Spelen 2026 - HBO MAX",[HBO] Event 12
+http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/186958.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Olympische Spelen 2026 - HBO MAX",[HBO] Event 13
+http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/197375.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Olympische Spelen 2026 - HBO MAX",[HBO] Event 14
+http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/197379.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Olympische Spelen 2026 - HBO MAX",[HBO] Event 15
+http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/197380.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Olympische Spelen 2026 - HBO MAX",[HBO] Event 16
+http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/197381.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Olympische Spelen 2026 - HBO MAX",[HBO] Event 17
+http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/197382.m3u8
 
 # --- SPECIALS /  UFC / Glory / WWE (21) ---
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/U/ufc-one-logo-445D60C4F8-seeklogo.com.png" group-title="SPECIALS /  UFC / Glory / WWE",16-11 02:00 UFC322  Engels Commentaar
@@ -7155,4 +7165,4 @@ http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/37632.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Zuid Afrika / South Afrika",ZA: SuperSport Golf
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/37635.m3u8
 
-# Total: 3546
+# Total: 3551

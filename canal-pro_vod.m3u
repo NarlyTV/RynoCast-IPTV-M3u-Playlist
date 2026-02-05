@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: canal-pro.xyz:8080
-# Generated: 2026-02-05 07:26:35
+# Generated: 2026-02-05 18:45:29
 # Expires: 2026-03-08
 # Family Safe Edition
 # ==============================================
@@ -19181,7 +19181,7 @@ http://canal-pro.xyz:8080/series/966119620tv/55ce67/2525
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DRAMA ←",El Caballero de los Siete Reinos
 http://canal-pro.xyz:8080/series/966119620tv/55ce67/2529
 
-# --- Series | → SERIES INFANTILES ← (43) ---
+# --- Series | → SERIES INFANTILES ← (44) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES INFANTILES ←",¡La serie de Cuphead!
 http://canal-pro.xyz:8080/series/966119620tv/55ce67/3
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES INFANTILES ←",Anfibilandia
@@ -19268,6 +19268,8 @@ http://canal-pro.xyz:8080/series/966119620tv/55ce67/2270
 http://canal-pro.xyz:8080/series/966119620tv/55ce67/2407
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES INFANTILES ←",Zootopia+
 http://canal-pro.xyz:8080/series/966119620tv/55ce67/2487
+#EXTINF:-1 tvg-logo="" group-title="Series | → SERIES INFANTILES ←",Phineas y Ferb
+http://canal-pro.xyz:8080/series/966119620tv/55ce67/2531
 
 # --- Series | → SERIES MARVEL ← (30) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES MARVEL ←",Invasion secreta
@@ -19685,4 +19687,4 @@ http://canal-pro.xyz:8080/series/966119620tv/55ce67/2345
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES TERROR-THRILLER-SUSPENSO ←",It: Bienvenidos a Derry
 http://canal-pro.xyz:8080/series/966119620tv/55ce67/2492
 
-# Total: 9766
+# Total: 9767

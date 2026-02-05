@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: blackiptv.net:8080
-# Generated: 2026-02-05 07:30:03
+# Generated: 2026-02-05 18:57:26
 # Expires: 2026-12-21
 # Family Safe Edition
 # ==============================================
@@ -3998,7 +3998,7 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/123.m3u8
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/124.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-cocuk-tr.png" group-title="TURK COCUK",TR: TRT COCUK HD
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/125.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TURK COCUK",TR: TRT COCUK DIYANET
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-cocuk-tr.png" group-title="TURK COCUK",TR: TRT COCUK DIYANET
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/58560.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/minika-go-tr.png" group-title="TURK COCUK",TR: MINIKA GO
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/126.m3u8

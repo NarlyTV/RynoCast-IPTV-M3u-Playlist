@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: play.tecnomolly.com:8080
-# Generated: 2026-02-05 07:24:31
+# Generated: 2026-02-05 18:46:03
 # Expires: 2026-07-14
 # Family Safe Edition
 # ==============================================
@@ -809,31 +809,37 @@ http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/322825.m3u8
 #EXTINF:-1 tvg-logo="http://sunset-app.com/picons/kidsUSA/babyfirst.jpg" group-title="Kids",USA | Baby First
 http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/162310.m3u8
 
-# --- Live Soccer Miercoles (12) ---
-#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/imagenes2022/copaitalia.jpg" group-title="Live Soccer Miercoles",11:00 Bologna vs Lazio
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/520545.m3u8
-#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/imagenes2022/copaalemana.jpg" group-title="Live Soccer Miercoles",13:45 Holstein Kiel vs Stuttgart
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/520542.m3u8
-#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/ppv2025/copadelrey.jpg" group-title="Live Soccer Miercoles",14:00 Alaves vs Real Sociedad
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/520541.m3u8
-#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/imagenes2022/copaitalia.jpg" group-title="Live Soccer Miercoles",14:00 Inter vs Torino
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/520546.m3u8
-#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/ppv2025/ingchampionship.jpg" group-title="Live Soccer Miercoles",14:00 Manchester City vs Newcastle
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/520544.m3u8
-#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/ppv2025/copadelrey.jpg" group-title="Live Soccer Miercoles",14:00 Valencia vs Athletic Club
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/520543.m3u8
-#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/imagenes2022/copaargentina.jpg" group-title="Live Soccer Miercoles",16:00 Talleres Cordoba vs Argentino Merlo
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/520548.m3u8
-#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/ppv2025/mxfemenil.jpg" group-title="Live Soccer Miercoles",18:00 Toluca vs A. San Luis FEMENIL
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/520538.m3u8
-#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/imagenes2022/copaargentina.jpg" group-title="Live Soccer Miercoles",18:15 Platense vs Argentino Monte Maiz
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/520549.m3u8
-#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/ppv2025/libertadores.jpg" group-title="Live Soccer Miercoles",18:30 2 De Mayo vs Alianza Lima
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/520547.m3u8
-#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/ppv2025/concachamions.jpg" group-title="Live Soccer Miercoles",19:00 Xelaju vs Monterrey
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/520539.m3u8
-#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/ppv2025/concachamions.jpg" group-title="Live Soccer Miercoles",21:00 Vancouver vs Cruz Azul
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/520540.m3u8
+# --- Live Soccer Jueves (15) ---
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/ppv2025/mxfemenil.jpg" group-title="Live Soccer Jueves",17:00 Queretaro vs Leon FEMENIL
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/520710.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/ppv2025/mxfemenil.jpg" group-title="Live Soccer Jueves",18:00 Queretaro vs Chivas FEMENIL
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/520711.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/ppv2025/mxfemenil.jpg" group-title="Live Soccer Jueves",19:06 Juarez vs America FEMENIL
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/520712.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/ppv2025/mxfemenil.jpg" group-title="Live Soccer Jueves",19:06 Tigres vs Cruz Azul  FEMENIL
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/520713.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/ppv2025/mxfemenil.jpg" group-title="Live Soccer Jueves",21:06 Atlas vs Pumas FEMENIL
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/520714.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/ppv2025/copadelrey.jpg" group-title="Live Soccer Jueves",14:00 Real Betis vs Atletico de Madrid
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/520715.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/imagenes2022/copaitalia.jpg" group-title="Live Soccer Jueves",14:00 Atalanta vs Juventus
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/520716.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/ppv2025/libertadores.jpg" group-title="Live Soccer Jueves",18:30 Juventud vs Universidad Catolica
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/520717.m3u8
+#EXTINF:-1 tvg-logo="https://www.concacaf.com/media/vh2jab5j/u17-qualifiers-logo-02-1.png" group-title="Live Soccer Jueves",14:00 San Martin vs Mexico SUB17
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/520718.m3u8
+#EXTINF:-1 tvg-logo="https://www.concacaf.com/media/vh2jab5j/u17-qualifiers-logo-02-1.png" group-title="Live Soccer Jueves",16:00 Panama vs Dominica SUB17
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/520719.m3u8
+#EXTINF:-1 tvg-logo="https://www.concacaf.com/media/vh2jab5j/u17-qualifiers-logo-02-1.png" group-title="Live Soccer Jueves",17:00 Estados Unidos vs St Vicent SUB17
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/520720.m3u8
+#EXTINF:-1 tvg-logo="https://www.concacaf.com/media/vh2jab5j/u17-qualifiers-logo-02-1.png" group-title="Live Soccer Jueves",19:00 Guatemala vs Antigua SUB17
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/520721.m3u8
+#EXTINF:-1 tvg-logo="https://www.concacaf.com/media/vh2jab5j/u17-qualifiers-logo-02-1.png" group-title="Live Soccer Jueves",19:00 Nicaragua vs Anguila SUB17
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/520722.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/imagenes2022/copaargentina.jpg" group-title="Live Soccer Jueves",16:00 Deportivo Riestra vs Deportivo Maipu
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/520723.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/imagenes2022/copaargentina.jpg" group-title="Live Soccer Jueves",18:15 Barracas Central vs Temperley
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/520724.m3u8
 
 # --- Movies (47) ---
 #EXTINF:-1 tvg-logo="http://sunset-app.com/picons/movies/fxmoviechann.jpg" group-title="Movies",USA | FX Movie Channel
@@ -1757,4 +1763,4 @@ http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/279047.m3u8
 #EXTINF:-1 tvg-logo="http://valetv.info/wp-content/uploads/2019/10/LOGO-VALE-TV-1.jpg" group-title="Venezuela",VE | Vale tv
 http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/279058.m3u8
 
-# Total: 820
+# Total: 823
