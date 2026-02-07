@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: play.tecnomolly.com:8080
-# Generated: 2026-02-06 18:46:34
+# Generated: 2026-02-07 07:17:24
 # Expires: 2026-07-14
 # Family Safe Edition
 # ==============================================
@@ -983,45 +983,25 @@ http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/393607.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/999207042198880256/UHyziQ06_400x400.jpg" group-title="Musica",Mx | Mtv Club
 http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/436025.m3u8
 
-# --- NBA 5/2/26 (presiona boton update) (9) ---
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/25/de/21/25de21fc90070ec3bcbe776a8203bb3d.jpg" group-title="NBA 5/2/26 (presiona boton update)",NBA Tv
+# --- NBA 6/2/26 (presiona boton update) (7) ---
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/25/de/21/25de21fc90070ec3bcbe776a8203bb3d.jpg" group-title="NBA 6/2/26 (presiona boton update)",NBA Tv
 http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/496768.m3u8
-#EXTINF:-1 tvg-logo="https://blog.logomyway.com/wp-content/uploads/2017/01/nba-logo-design.jpg" group-title="NBA 5/2/26 (presiona boton update)",18:00 | Pistons vs Wizards
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/520813.m3u8
-#EXTINF:-1 tvg-logo="https://blog.logomyway.com/wp-content/uploads/2017/01/nba-logo-design.jpg" group-title="NBA 5/2/26 (presiona boton update)",18:00 | Magic vs Nets
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/520814.m3u8
-#EXTINF:-1 tvg-logo="https://blog.logomyway.com/wp-content/uploads/2017/01/nba-logo-design.jpg" group-title="NBA 5/2/26 (presiona boton update)",18:30 | Hawks vs Jazz
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/520815.m3u8
-#EXTINF:-1 tvg-logo="https://blog.logomyway.com/wp-content/uploads/2017/01/nba-logo-design.jpg" group-title="NBA 5/2/26 (presiona boton update)",18:30 | Raptors vs Bulls
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/520816.m3u8
-#EXTINF:-1 tvg-logo="https://blog.logomyway.com/wp-content/uploads/2017/01/nba-logo-design.jpg" group-title="NBA 5/2/26 (presiona boton update)",19:00 | Rockets vs Hornets
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/520817.m3u8
-#EXTINF:-1 tvg-logo="https://blog.logomyway.com/wp-content/uploads/2017/01/nba-logo-design.jpg" group-title="NBA 5/2/26 (presiona boton update)",19:30 | Mavericks vs Spurs
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/520818.m3u8
-#EXTINF:-1 tvg-logo="https://blog.logomyway.com/wp-content/uploads/2017/01/nba-logo-design.jpg" group-title="NBA 5/2/26 (presiona boton update)",21:00 | Suns vs Warriors
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/520819.m3u8
-#EXTINF:-1 tvg-logo="https://blog.logomyway.com/wp-content/uploads/2017/01/nba-logo-design.jpg" group-title="NBA 5/2/26 (presiona boton update)",21:00 | Lakers vs 76ers
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/520820.m3u8
+#EXTINF:-1 tvg-logo="https://blog.logomyway.com/wp-content/uploads/2017/01/nba-logo-design.jpg" group-title="NBA 6/2/26 (presiona boton update)",18:30 | Celtics vs Heat
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/521115.m3u8
+#EXTINF:-1 tvg-logo="https://blog.logomyway.com/wp-content/uploads/2017/01/nba-logo-design.jpg" group-title="NBA 6/2/26 (presiona boton update)",18:30 | Pistons vs Knicks
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/521116.m3u8
+#EXTINF:-1 tvg-logo="https://blog.logomyway.com/wp-content/uploads/2017/01/nba-logo-design.jpg" group-title="NBA 6/2/26 (presiona boton update)",19:00 | Bucks vs Pacers
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/521117.m3u8
+#EXTINF:-1 tvg-logo="https://blog.logomyway.com/wp-content/uploads/2017/01/nba-logo-design.jpg" group-title="NBA 6/2/26 (presiona boton update)",19:00 | Timberwolves vs Pelicans
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/521118.m3u8
+#EXTINF:-1 tvg-logo="https://blog.logomyway.com/wp-content/uploads/2017/01/nba-logo-design.jpg" group-title="NBA 6/2/26 (presiona boton update)",21:00 | Trail-Blazers vs Grizzlies
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/521119.m3u8
+#EXTINF:-1 tvg-logo="https://blog.logomyway.com/wp-content/uploads/2017/01/nba-logo-design.jpg" group-title="NBA 6/2/26 (presiona boton update)",21:00 | Kings vs Clippers
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/521120.m3u8
 
 # --- NFL 8/2/26 (presiona boton update) (1) ---
 #EXTINF:-1 tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2023/02/nfl-network_NFL-graphics.jpg" group-title="NFL 8/2/26 (presiona boton update)",NFL Network
 http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/485323.m3u8
-
-# --- NHL 05/02/26 (presiona boton update) (7) ---
-#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/imagenes2022/nhl.jpg" group-title="NHL 05/02/26 (presiona boton update)",19:00 Hurricanes vs Rangers
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/519870.m3u8
-#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/imagenes2022/nhl.jpg" group-title="NHL 05/02/26 (presiona boton update)",19:00 Senators vs Flyers
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/520142.m3u8
-#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/imagenes2022/nhl.jpg" group-title="NHL 05/02/26 (presiona boton update)",19:00 Penguins vs Sabres
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/520153.m3u8
-#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/imagenes2022/nhl.jpg" group-title="NHL 05/02/26 (presiona boton update)",19:00 Predators vs Capitals
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/520349.m3u8
-#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/imagenes2022/nhl.jpg" group-title="NHL 05/02/26 (presiona boton update)",19:30 Panthers vs Lightning
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/520351.m3u8
-#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/imagenes2022/nhl.jpg" group-title="NHL 05/02/26 (presiona boton update)",22:00 Kings vs Golden Knights
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/520701.m3u8
-#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/imagenes2022/nhl.jpg" group-title="NHL 05/02/26 (presiona boton update)",19:00 Islanders vs Devils
-http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/520896.m3u8
 
 # --- Networks USA (82) ---
 #EXTINF:-1 tvg-logo="http://sunset-app.com/picons/NETWORKSUSA/nbcsanantonio.jpg" group-title="Networks USA",USA | NBC San Antonio
@@ -1251,9 +1231,11 @@ http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/520899.m3u8
 #EXTINF:-1 tvg-logo="https://a.espncdn.com/photo/2019/0624/r561206_809x455_16-9.png" group-title="Olimpiadas 2026",Olympics 4
 http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/520900.m3u8
 
-# --- PAY PER VIEW - SUNSET EXCLUSIVE (1) ---
+# --- PAY PER VIEW - SUNSET EXCLUSIVE (2) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Australian_Open_Logo.png" group-title="PAY PER VIEW - SUNSET EXCLUSIVE",Open Australia
 http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/518289.m3u8
+#EXTINF:-1 tvg-logo="http://sunset-app.com/picons/Eventos/imagenes2022/smackdown.jpg" group-title="PAY PER VIEW - SUNSET EXCLUSIVE",19:00 Smackdown
+http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/521084.m3u8
 
 # --- Panama (7) ---
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bvFRyWkH/rpc.jpg" group-title="Panama",PA | RCP TV
@@ -1357,10 +1339,10 @@ http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/278167.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/mI0iNYB6wlI/hqdefault.jpg" group-title="Republica Dominicana",Tele Antillas
 http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/278184.m3u8
 
-# --- Serie del Caribe 05/02/26 (2) ---
-#EXTINF:-1 tvg-logo="https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1536/mlb/xtabdman0dqtgvgiwza7.jpg" group-title="Serie del Caribe 05/02/26",19:00 Republica Dominicana vs Mexico Verde
+# --- Serie del Caribe 06/02/26 (2) ---
+#EXTINF:-1 tvg-logo="https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1536/mlb/xtabdman0dqtgvgiwza7.jpg" group-title="Serie del Caribe 06/02/26",19:00 Puerto Rico vs Mexico Rojo
 http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/520182.m3u8
-#EXTINF:-1 tvg-logo="https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1536/mlb/xtabdman0dqtgvgiwza7.jpg" group-title="Serie del Caribe 05/02/26",14:00 Puerto Rico vs PAnama
+#EXTINF:-1 tvg-logo="https://img.mlbstatic.com/mlb-images/image/upload/t_16x9/t_w1536/mlb/xtabdman0dqtgvgiwza7.jpg" group-title="Serie del Caribe 06/02/26",14:00 Mexico Verde vs Republica Dominicana
 http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/520183.m3u8
 
 # --- Sports (72) ---
@@ -1785,4 +1767,4 @@ http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/279047.m3u8
 #EXTINF:-1 tvg-logo="http://valetv.info/wp-content/uploads/2019/10/LOGO-VALE-TV-1.jpg" group-title="Venezuela",VE | Vale tv
 http://play.tecnomolly.com:8080/live/Padilla2009/JgGpPheSXpLY/279058.m3u8
 
-# Total: 833
+# Total: 825

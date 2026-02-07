@@ -1,13 +1,13 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: tkosportz.live:25461
-# Generated: 2026-02-06 18:38:59
+# Generated: 2026-02-07 07:14:02
 # Expires: 2026-03-09
 # Family Safe Edition
 # ==============================================
 
 
-# --- 01. PPV EVENTS / RACING (ET) (8) ---
+# --- 01. PPV EVENTS / RACING (ET) (9) ---
 #EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Sky_Sports_F1_2020.png" group-title="01. PPV EVENTS / RACING (ET)",03.  MOTOR RACING
 http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/105962.m3u8
 #EXTINF:-1 tvg-logo="https://d2779tscntxxsw.cloudfront.net/5fd7eced045fd.png" group-title="01. PPV EVENTS / RACING (ET)",05. FloRacing 24/7
@@ -24,8 +24,10 @@ http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/207543.m3u8
 http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/175763.m3u8
 #EXTINF:-1 tvg-logo="" group-title="01. PPV EVENTS / RACING (ET)",Volusia Speedway
 http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/223011.m3u8
+#EXTINF:-1 tvg-logo="" group-title="01. PPV EVENTS / RACING (ET)",10p PBR Salt Lake City Bull Riding Day 1
+http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/223031.m3u8
 
-# --- 01. PPV FIGHTS/WWE (ET) (4) ---
+# --- 01. PPV FIGHTS/WWE (ET) (7) ---
 #EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2025/01/wwe.png" group-title="01. PPV FIGHTS/WWE (ET)",01: 3p MONDAY NIGHT RAW
 http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/41056.m3u8
 #EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2026/01/Dazn-logo.png" group-title="01. PPV FIGHTS/WWE (ET)",02. DAZN1
@@ -34,6 +36,12 @@ http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/199228.m3u8
 http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/206859.m3u8
 #EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2026/01/Dazn-logo.png" group-title="01. PPV FIGHTS/WWE (ET)",02. DAZN RINGSIDE
 http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/218787.m3u8
+#EXTINF:-1 tvg-logo="" group-title="01. PPV FIGHTS/WWE (ET)",3p Hexagone MMA 39
+http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/223029.m3u8
+#EXTINF:-1 tvg-logo="" group-title="01. PPV FIGHTS/WWE (ET)",8p Medina vs. Curiel (Boxing)
+http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/223030.m3u8
+#EXTINF:-1 tvg-logo="" group-title="01. PPV FIGHTS/WWE (ET)",7p Rothwell Vs. Pesaje BKFC
+http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/223032.m3u8
 
 # --- 01. SUPERBOWL 60 (1) ---
 #EXTINF:-1 tvg-logo="" group-title="01. SUPERBOWL 60",01. SUPERBOWL 60
@@ -20057,4 +20065,4 @@ http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/191009.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/Red_Noticias2019.png/revision/latest/scale-to-width-down/274?cb=20210424015309&path-prefix=es" group-title="37. COLUMBIA",CO: Red+ Noticias FHD
 http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/191010.m3u8
 
-# Total: 9997
+# Total: 10001

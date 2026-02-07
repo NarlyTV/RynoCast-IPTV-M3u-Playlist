@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: solution62000.mine.nu:8000
-# Generated: 2026-02-06 18:40:14
+# Generated: 2026-02-07 07:20:33
 # Expires: 2026-03-08
 # Family Safe Edition
 # ==============================================
@@ -1085,13 +1085,17 @@ http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/7300.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wkUCQaXIc9qkqplDJZIuxRHLQNq.jpg" group-title="Movies | FILMS TURK",Malazgirt 1071 - 2022
 http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/5531.mp4
 
-# --- Movies | Films (1445) ---
+# --- Movies | Films (1447) ---
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hluMzOgA98EXRRyc7qcXW3UgkO5.jpg" group-title="Movies | Films",Twisted (2026)
+http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/22640.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xC6zdIoIHjhOIFmjNyGgtzhuhiF.jpg" group-title="Movies | Films",Killer Whale (2026)
 http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/21982.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/cAyouRgS9Dt1epo8LGh8flvuIYR.jpg" group-title="Movies | Films",Bêtes de flic (2026)
 http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/21981.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/27j9fRcvtaskGPsuHXvVTAi1fEc.jpg" group-title="Movies | Films",The Internship (2026)
 http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/21941.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xfY2FZlnm5uaQbaWR9IYW41J1xG.jpg" group-title="Movies | Films",Un beau mariage indien (2025)
+http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/22641.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lnVyFnd0jBlD2PTGTgjZS29OxSI.jpg" group-title="Movies | Films",Joe Baby (2025)
 http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/22612.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hJ9qCQ3Dx9vwet09Lbqs8eZTd8e.jpg" group-title="Movies | Films",Exit 8 (2025)
@@ -7351,4 +7355,4 @@ http://solution62000.mine.nu:8000/series/Bendria_kouider/07032025/986
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Vaka - Les Éveillés
 http://solution62000.mine.nu:8000/series/Bendria_kouider/07032025/987
 
-# Total: 3643
+# Total: 3645

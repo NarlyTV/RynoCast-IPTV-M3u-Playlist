@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: iptv.darktv.eu:25461
-# Generated: 2026-02-06 18:43:01
+# Generated: 2026-02-07 07:19:27
 # Expires: 2026-03-07
 # Family Safe Edition
 # ==============================================
@@ -1833,7 +1833,39 @@ http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/154163.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/united-arab-emirates.png" group-title="AR : TUNISIA",(AR) Nessma El Khadra
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/154160.m3u8
 
-# --- AU - ÖSTERREICH (44) ---
+# --- AU - SPORTS (15) ---
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/orfsport.png" group-title="AU - SPORTS",(AT) Orf Sport HD
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/44806.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/orfsport.png" group-title="AU - SPORTS",(AT) Sport1 HD
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/44805.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/orf1hd.png" group-title="AU - SPORTS",(AT) Puls 24 FHD
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/122013.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/orf1hd.png" group-title="AU - SPORTS",(AT) Puls 24 HD
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/217705.m3u8
+#EXTINF:-1 tvg-logo="http://film.darktv.nl/logo/Logolar/servustv.png" group-title="AU - SPORTS",(AT) Servus TV FHD
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/117023.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/skysportaustriahd.png" group-title="AU - SPORTS",(AT) Sky Sport Austria 1 FHD
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/266648.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/skysportaustriahd.png" group-title="AU - SPORTS",(AT) Sky Sport Austria 2 FHD
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/266669.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/skysportaustriahd.png" group-title="AU - SPORTS",(AT) Sky Sport Austria 3 FHD
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/266693.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/skysportaustriahd.png" group-title="AU - SPORTS",(AT) Sky Sport Austria 4 FHD
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/266733.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/skysportaustriahd.png" group-title="AU - SPORTS",(AT) Sky Sport Austria 5 FHD
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/266757.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/skysportaustriahd.png" group-title="AU - SPORTS",(AT) Sky Sport Austria 6 FHD
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/266780.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/skysportaustriahd.png" group-title="AU - SPORTS",(AT) Sky Sport Austria 7 FHD
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/266799.m3u8
+#EXTINF:-1 tvg-logo="" group-title="AU - SPORTS",(AT) Gran Premio Austria MotoGP
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/266880.m3u8
+#EXTINF:-1 tvg-logo="" group-title="AU - SPORTS",(AT) Gran Premio Austria Moto2
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/266854.m3u8
+#EXTINF:-1 tvg-logo="" group-title="AU - SPORTS",(AT) Gran Premio Austria Moto3
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/266869.m3u8
+
+# --- AU - ÖSTERREICH (41) ---
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/orf1hd.png" group-title="AU - ÖSTERREICH",(AU) Orf 1 HD
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/44821.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/orf2hd.png" group-title="AU - ÖSTERREICH",(AU) Orf 2 HD
@@ -1846,16 +1878,8 @@ http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/44817.m3u8
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/44818.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/oe24.png" group-title="AU - ÖSTERREICH",(AU) Oe24 TV HD
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/122012.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/orfsport.png" group-title="AU - ÖSTERREICH",(AU) Orf Sport HD
-http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/44806.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/orf1hd.png" group-title="AU - ÖSTERREICH",(AU) PULS 24 HD
-http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/122013.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/puls4.png" group-title="AU - ÖSTERREICH",(AU) Puls 4
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/44814.m3u8
-#EXTINF:-1 tvg-logo="http://film.darktv.nl/logo/Logolar/servustv.png" group-title="AU - ÖSTERREICH",(AU) Servus TV 4K
-http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/117023.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/orfsport.png" group-title="AU - ÖSTERREICH",(AU) Sport1 HD
-http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/44805.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/srf1.png" group-title="AU - ÖSTERREICH",(AU) Srf 1 HD
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/44816.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/srf1.png" group-title="AU - ÖSTERREICH",(AU) Srf 2 HD
@@ -1898,8 +1922,6 @@ http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/184148.m3u8
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/184147.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AU - ÖSTERREICH",(AU) ProSieben MAXX HD Austria
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/184146.m3u8
-#EXTINF:-1 tvg-logo="" group-title="AU - ÖSTERREICH",(AU) Kabel Eins Doku HD Austria
-http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/184145.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AU - ÖSTERREICH",(AU) sixx HD
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/184144.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AU - ÖSTERREICH",(AU) SAT.1 Gold HD
@@ -1912,8 +1934,6 @@ http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/184141.m3u8
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/184140.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AU - ÖSTERREICH",(AU) Kurier TV
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/184139.m3u8
-#EXTINF:-1 tvg-logo="" group-title="AU - ÖSTERREICH",(AU) Kabel Eins HD Austria
-http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/184138.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AU - ÖSTERREICH",(AU) VOX HD Austria
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/184137.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AU - ÖSTERREICH",(AU) RTL HD Austria
@@ -1922,6 +1942,12 @@ http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/184136.m3u8
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/184135.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AU - ÖSTERREICH",(AU) ProSieben HD Austria
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/184134.m3u8
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/kabeleinshd.png" group-title="AU - ÖSTERREICH",(AT) Kabel1 Doku Austria
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/266905.m3u8
+#EXTINF:-1 tvg-logo="" group-title="AU - ÖSTERREICH",(AU) Kabel Eins Doku HD Austria
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/184145.m3u8
+#EXTINF:-1 tvg-logo="" group-title="AU - ÖSTERREICH",(AU) Kabel Eins HD Austria
+http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/184138.m3u8
 
 # --- AZ : AZARBAYCAN (19) ---
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/azerbaijan.png" group-title="AZ : AZARBAYCAN",(AZ) Arb
@@ -2457,7 +2483,7 @@ http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/149392.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/bayrakbulgar.jpg" group-title="BG - SPORT",(BG) Ring 4K+
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/56264.m3u8
 
-# --- BG : BULGARIJE (39) ---
+# --- BG : BULGARIJE (38) ---
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/bayrakbulgar.jpg" group-title="BG : BULGARIJE",(BG) BNT 1
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/56163.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/bayrakbulgar.jpg" group-title="BG : BULGARIJE",(BG) BNT 2
@@ -2532,8 +2558,6 @@ http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/217710.m3u8
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/217709.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/bayrakbulgar.jpg" group-title="BG : BULGARIJE",(BG) TV 999 HD
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/217708.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/bayrakbulgar.jpg" group-title="BG : BULGARIJE",(BG) BG+ HD
-http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/217705.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/bayrakbulgar.jpg" group-title="BG : BULGARIJE",(BG) CNN
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/217704.m3u8
 
@@ -11509,4 +11533,4 @@ http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/153506.m3u8
 #EXTINF:-1 tvg-logo="" group-title="İR : PERSİAN",(IR) TIN TV
 http://iptv.darktv.eu:25461/live/Resul.yildirim/czDhsWAs/153497.m3u8
 
-# Total: 5590
+# Total: 5601
