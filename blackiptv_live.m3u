@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: blackiptv.net:8080
-# Generated: 2026-02-07 07:19:43
+# Generated: 2026-02-07 18:31:30
 # Expires: 2026-12-21
 # Family Safe Edition
 # ==============================================
@@ -2204,7 +2204,7 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/33424.m3u8
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/39156.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-sport/sky-sport-tennis-alt-de.png" group-title="GERMANY SPORTS (DEU/AT/CH)",DE: SKY SPORT TENNIS
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/33463.m3u8
-#EXTINF:-1 tvg-logo="http://go.wrldonx.fyi:8000/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfEh452IcLfNQ-AhWWjGqiSdu0dCmNcxlPJfno9pdiQ8rQ.png" group-title="GERMANY SPORTS (DEU/AT/CH)",GOLF
+#EXTINF:-1 tvg-logo="http://go.wrldonx.fyi:8000/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfEh452IcLfNQ-AhWWjGqiSdu0dCmNcxlPJfno9pdiQ8rQ.png" group-title="GERMANY SPORTS (DEU/AT/CH)",DE: SKY SPORTS GOLF
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/58298.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-sport/sky-sport-top-event-alt-de.png" group-title="GERMANY SPORTS (DEU/AT/CH)",DE: SKY SPORT TOP EVENT HD
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/35887.m3u8
@@ -5594,7 +5594,7 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/58290.m3u8
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/58299.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA",USA: REVOLT TV
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/58300.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USA",HBO
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUBzyQ1kyqO3WCiA4oOfxsy-CkgmTnX_iDgTCf0fMhPC1Vq6Sb212OMp1fR5p4CpwQ2Go&usqp=CAU" group-title="USA",USA: HBO
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/58301.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA",USA: HALLMARK TV
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/58304.m3u8
@@ -5644,7 +5644,7 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/25015.m3u8
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/59087.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA KIDS",USA: BABY FIRST
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/59088.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USA KIDS",USA: DISNEY JUNIOR
+#EXTINF:-1 tvg-logo="http://195.211.191.31:808/logo/logo_1/UK/DISNEYJUNIOR.png" group-title="USA KIDS",USA: DISNEY JUNIOR
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/59090.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA KIDS",USA: DISNEY XD
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/59091.m3u8

@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: sistem.boss4k.com:2095
-# Generated: 2026-02-07 07:15:08
+# Generated: 2026-02-07 18:44:51
 # Expires: 2026-05-08
 # Family Safe Edition
 # ==============================================
@@ -1012,8 +1012,6 @@ http://sistem.boss4k.com:2095/movie/Sevketcanxx/a3jzB3rrbdAQSb/2366.mp4
 http://sistem.boss4k.com:2095/movie/Sevketcanxx/a3jzB3rrbdAQSb/2397.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE DE ANIME",A Gatherer's Adventure in Isekai
 http://sistem.boss4k.com:2095/movie/Sevketcanxx/a3jzB3rrbdAQSb/2453.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | SERIE DE ANIME",My Hero Academia
-http://sistem.boss4k.com:2095/movie/Sevketcanxx/a3jzB3rrbdAQSb/2594.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE DE ANIME",Akame ga Kill!
 http://sistem.boss4k.com:2095/movie/Sevketcanxx/a3jzB3rrbdAQSb/2738.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE DE ANIME",Attack on Titan
@@ -1046,6 +1044,8 @@ http://sistem.boss4k.com:2095/movie/Sevketcanxx/a3jzB3rrbdAQSb/2752.mp4
 http://sistem.boss4k.com:2095/movie/Sevketcanxx/a3jzB3rrbdAQSb/2753.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE DE ANIME",Digimon Tamers
 http://sistem.boss4k.com:2095/movie/Sevketcanxx/a3jzB3rrbdAQSb/2754.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | SERIE DE ANIME",Naruto
+http://sistem.boss4k.com:2095/movie/Sevketcanxx/a3jzB3rrbdAQSb/2757.mp4
 
 # --- Movies | SERIE DE APPLE TV+ (101) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE DE APPLE TV+",Bad Sisters
@@ -1517,7 +1517,7 @@ http://sistem.boss4k.com:2095/movie/Sevketcanxx/a3jzB3rrbdAQSb/2463.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE DE KIDS",Bossy Bär
 http://sistem.boss4k.com:2095/movie/Sevketcanxx/a3jzB3rrbdAQSb/2554.mp4
 
-# --- Movies | SERIE DE NETFLIX (315) ---
+# --- Movies | SERIE DE NETFLIX (316) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE DE NETFLIX",Frontier
 http://sistem.boss4k.com:2095/movie/Sevketcanxx/a3jzB3rrbdAQSb/1456.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE DE NETFLIX",Furies
@@ -2148,6 +2148,8 @@ http://sistem.boss4k.com:2095/movie/Sevketcanxx/a3jzB3rrbdAQSb/2693.mp4
 http://sistem.boss4k.com:2095/movie/Sevketcanxx/a3jzB3rrbdAQSb/2694.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE DE NETFLIX",At Home with the Furys
 http://sistem.boss4k.com:2095/movie/Sevketcanxx/a3jzB3rrbdAQSb/2695.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | SERIE DE NETFLIX",The Last Dance
+http://sistem.boss4k.com:2095/movie/Sevketcanxx/a3jzB3rrbdAQSb/2756.mp4
 
 # --- Movies | SERIE DE PARAMOUNT+ (40) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE DE PARAMOUNT+",Playing Gracie Darling
@@ -5665,7 +5667,7 @@ http://sistem.boss4k.com:2095/movie/Sevketcanxx/a3jzB3rrbdAQSb/194229.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aMLrX8qaagRUESyPSJCARNlT8Xd.jpg" group-title="Movies | VOD DE AMAZON PRIME",Don't Tell Mom the Babysitter's Dead (2024)
 http://sistem.boss4k.com:2095/movie/Sevketcanxx/a3jzB3rrbdAQSb/190590.mp4
 
-# --- Movies | VOD DE ANIME (17) ---
+# --- Movies | VOD DE ANIME (26) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | VOD DE ANIME",### VOD DE ANIMATION ###
 http://sistem.boss4k.com:2095/movie/Sevketcanxx/a3jzB3rrbdAQSb/150884.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zBa19Nsrq4faFYMjgwxSBZTIpwU.jpg" group-title="Movies | VOD DE ANIME",Pokémon - Der Film (1998)
@@ -5686,20 +5688,38 @@ http://sistem.boss4k.com:2095/movie/Sevketcanxx/a3jzB3rrbdAQSb/203681.mkv
 http://sistem.boss4k.com:2095/movie/Sevketcanxx/a3jzB3rrbdAQSb/203682.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lw6gMcbdMDYhWpobqXV0tayURwt.jpg" group-title="Movies | VOD DE ANIME",Pokémon 12: Arceus und das Juwel des Lebens (2009)
 http://sistem.boss4k.com:2095/movie/Sevketcanxx/a3jzB3rrbdAQSb/203683.mkv
-#EXTINF:-1 tvg-logo="None" group-title="Movies | VOD DE ANIME",13 Pokemon - Zoroark Meister der Illusionen [HD]
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z9UPPiHeLwjXP6VdEgp3ThBncd9.jpg" group-title="Movies | VOD DE ANIME",Pokémon 13: Zoroark - Meister der Illusionen (2010)
 http://sistem.boss4k.com:2095/movie/Sevketcanxx/a3jzB3rrbdAQSb/203684.mkv
-#EXTINF:-1 tvg-logo="None" group-title="Movies | VOD DE ANIME",14 Pokemon - Weiss - Victini und Zekrom [HD]
-http://sistem.boss4k.com:2095/movie/Sevketcanxx/a3jzB3rrbdAQSb/203685.mkv
-#EXTINF:-1 tvg-logo="None" group-title="Movies | VOD DE ANIME",14 Pokémon - Schwarz - Victini und Reshiram [HD]
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/357LocCMWCR9oL9agNuXSPLWZr6.jpg" group-title="Movies | VOD DE ANIME",Pokémon 14: Schwarz - Victini und Reshiram (2011)
 http://sistem.boss4k.com:2095/movie/Sevketcanxx/a3jzB3rrbdAQSb/203686.mkv
-#EXTINF:-1 tvg-logo="None" group-title="Movies | VOD DE ANIME",15 Pokemon - Kyurem gegen den Ritter der Redlichkeit [HD]
-http://sistem.boss4k.com:2095/movie/Sevketcanxx/a3jzB3rrbdAQSb/203687.mkv
-#EXTINF:-1 tvg-logo="None" group-title="Movies | VOD DE ANIME",16 Pokemon - Genesect und die wiedererwachte Legende [HD]
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kuxtfkXqM3igvQDCfUWvybRN8q7.jpg" group-title="Movies | VOD DE ANIME",Pokémon 16: Genesect und die wiedererwachte Legende (2013)
 http://sistem.boss4k.com:2095/movie/Sevketcanxx/a3jzB3rrbdAQSb/203688.mkv
-#EXTINF:-1 tvg-logo="None" group-title="Movies | VOD DE ANIME",17 Pokemon - Diancie und der Kokon der Zerstörung [HD]
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gZ7HdtSSCm9mcSrVPkWNNZUWVEW.jpg" group-title="Movies | VOD DE ANIME",Pokémon 17: Diancie und der Kokon der Zerstörung (2014)
 http://sistem.boss4k.com:2095/movie/Sevketcanxx/a3jzB3rrbdAQSb/203689.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4DbOamIh6qpriqZgJRoXfdUG5RG.jpg" group-title="Movies | VOD DE ANIME",Pokémon 18: Hoopa und der Kampf der Geschichte (2015)
 http://sistem.boss4k.com:2095/movie/Sevketcanxx/a3jzB3rrbdAQSb/203690.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/udC4JWerKEpz69g7wgnVCDKsBpS.jpg" group-title="Movies | VOD DE ANIME",Pokémon 15: Kyurem gegen den Ritter der Redlichkeit (2012)
+http://sistem.boss4k.com:2095/movie/Sevketcanxx/a3jzB3rrbdAQSb/203691.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x1lQ4d4LZtEx05afKL085JNi8Io.jpg" group-title="Movies | VOD DE ANIME",Pokémon 14: Weiß - Victini und Zekrom (2011)
+http://sistem.boss4k.com:2095/movie/Sevketcanxx/a3jzB3rrbdAQSb/203692.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1AfO2Jiyh9nKYxgYy7CmaVBTCXT.jpg" group-title="Movies | VOD DE ANIME",Pokémon: Mewtu kehrt zurück (2001)
+http://sistem.boss4k.com:2095/movie/Sevketcanxx/a3jzB3rrbdAQSb/203693.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lUPRzHIQoJNr2j3PZeVWIUeNYPm.jpg" group-title="Movies | VOD DE ANIME",Pokémon 22: Mewtu schlägt zurück – Evolution (2019)
+http://sistem.boss4k.com:2095/movie/Sevketcanxx/a3jzB3rrbdAQSb/203694.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6nUjtQF43SfylsTvpbhM0Q7PVx2.jpg" group-title="Movies | VOD DE ANIME",Pokémon 23: Geheimnisse des Dschungels (2020)
+http://sistem.boss4k.com:2095/movie/Sevketcanxx/a3jzB3rrbdAQSb/203695.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yu2al9lqlgZSznSTVVD1Ave4o6Z.jpg" group-title="Movies | VOD DE ANIME",Pokémon 4: Die zeitlose Begegnung (2001)
+http://sistem.boss4k.com:2095/movie/Sevketcanxx/a3jzB3rrbdAQSb/203696.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ycc9dW8gvhHWI4ERbaxxkQ77Mwf.jpg" group-title="Movies | VOD DE ANIME",Pokémon 5: Heroes (2002)
+http://sistem.boss4k.com:2095/movie/Sevketcanxx/a3jzB3rrbdAQSb/203697.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tFSUd2hBHHdXXZ3DXQ5h5XXZL4t.jpg" group-title="Movies | VOD DE ANIME",Pokémon 19: Volcanion und das mechanische Wunderwerk (2016)
+http://sistem.boss4k.com:2095/movie/Sevketcanxx/a3jzB3rrbdAQSb/203698.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j4MvfpDXO4fPHT5LgolcDVpZZxj.jpg" group-title="Movies | VOD DE ANIME",Pokémon 20:  Du bist dran! (2017)
+http://sistem.boss4k.com:2095/movie/Sevketcanxx/a3jzB3rrbdAQSb/203699.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vKWOR5pDZh9oj726bwRc4SzWfda.jpg" group-title="Movies | VOD DE ANIME",Pokémon 11: Giratina und der Himmelsritter (2008)
+http://sistem.boss4k.com:2095/movie/Sevketcanxx/a3jzB3rrbdAQSb/203703.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cZpBNt4KB9MySAGycAj2l0lDXve.jpg" group-title="Movies | VOD DE ANIME",Pokémon 21: Die Macht in uns (2018)
+http://sistem.boss4k.com:2095/movie/Sevketcanxx/a3jzB3rrbdAQSb/203704.mkv
 
 # --- Movies | VOD DE BOLLYWOOD (83) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ckFDMqLjhsYo2kH3X5auV1NnjPM.jpg" group-title="Movies | VOD DE BOLLYWOOD",Asoka - Der Weg des Kriegers (2001)
@@ -9481,7 +9501,7 @@ http://sistem.boss4k.com:2095/movie/Sevketcanxx/a3jzB3rrbdAQSb/170510.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fpBztdAKEYjOYmPfX5CYF0ow0Gy.jpg" group-title="Movies | VOD DE FAMILIE",Lene und die Geister des Waldes (2021)
 http://sistem.boss4k.com:2095/movie/Sevketcanxx/a3jzB3rrbdAQSb/187114.mp4
 
-# --- Movies | VOD DE FILME (2488) ---
+# --- Movies | VOD DE FILME (2487) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hOmRlth9fPJ1YrCm2e5c6pRTupd.jpg" group-title="Movies | VOD DE FILME",Harry Potter und der Stein der Weisen (2001)
 http://sistem.boss4k.com:2095/movie/Sevketcanxx/a3jzB3rrbdAQSb/185882.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bQNaLipvCgPvbXnyrJcGVOQyifD.jpg" group-title="Movies | VOD DE FILME",Harry Potter und der Halbblutprinz (2009)
@@ -12264,8 +12284,6 @@ http://sistem.boss4k.com:2095/movie/Sevketcanxx/a3jzB3rrbdAQSb/169068.mp4
 http://sistem.boss4k.com:2095/movie/Sevketcanxx/a3jzB3rrbdAQSb/169069.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/weAvkxl0dnPevIKD8fwHjiOi6tc.jpg" group-title="Movies | VOD DE FILME",Point Blank (2019)
 http://sistem.boss4k.com:2095/movie/Sevketcanxx/a3jzB3rrbdAQSb/169070.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lUPRzHIQoJNr2j3PZeVWIUeNYPm.jpg" group-title="Movies | VOD DE FILME",Pokémon 22: Mewtu schlägt zurück – Evolution (2019)
-http://sistem.boss4k.com:2095/movie/Sevketcanxx/a3jzB3rrbdAQSb/169071.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pjKSOWJhC93Be4buK2AsX9tXjNx.jpg" group-title="Movies | VOD DE FILME",Polar (2019)
 http://sistem.boss4k.com:2095/movie/Sevketcanxx/a3jzB3rrbdAQSb/169072.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cIH0olQrBg5yntTAl6vOvY0t3ep.jpg" group-title="Movies | VOD DE FILME",Porträt einer jungen Frau in Flammen (2019)
@@ -15251,7 +15269,7 @@ http://sistem.boss4k.com:2095/movie/Sevketcanxx/a3jzB3rrbdAQSb/195109.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lz0sEOSpELFXDInIazCyp5CDPLb.jpg" group-title="Movies | VOD DE HORROR",Zombieland 2: Doppelt hält besser (2019)
 http://sistem.boss4k.com:2095/movie/Sevketcanxx/a3jzB3rrbdAQSb/195110.mp4
 
-# --- Movies | VOD DE KIDS (448) ---
+# --- Movies | VOD DE KIDS (436) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aDFQtKWIUU4WmGxP8uyaBTMvEGz.jpg" group-title="Movies | VOD DE KIDS",Ring 0 (2000)
 http://sistem.boss4k.com:2095/movie/Sevketcanxx/a3jzB3rrbdAQSb/194337.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3uqXGOH4BQ2CLJWkDJZ0PzbUzOn.jpg" group-title="Movies | VOD DE KIDS",#9 (2009)
@@ -15890,30 +15908,6 @@ http://sistem.boss4k.com:2095/movie/Sevketcanxx/a3jzB3rrbdAQSb/194659.mp4
 http://sistem.boss4k.com:2095/movie/Sevketcanxx/a3jzB3rrbdAQSb/194660.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kTjNHCwPq167aCYfX5hfsjNG21I.jpg" group-title="Movies | VOD DE KIDS",Pocahontas: Beyond the Myth (2017)
 http://sistem.boss4k.com:2095/movie/Sevketcanxx/a3jzB3rrbdAQSb/194661.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yu2al9lqlgZSznSTVVD1Ave4o6Z.jpg" group-title="Movies | VOD DE KIDS",Pokémon 4: Die zeitlose Begegnung (2001)
-http://sistem.boss4k.com:2095/movie/Sevketcanxx/a3jzB3rrbdAQSb/194664.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ycc9dW8gvhHWI4ERbaxxkQ77Mwf.jpg" group-title="Movies | VOD DE KIDS",Pokémon 5: Heroes (2002)
-http://sistem.boss4k.com:2095/movie/Sevketcanxx/a3jzB3rrbdAQSb/194665.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xAgMceWRSbBlv3DY89yddau4Qjl.jpg" group-title="Movies | VOD DE KIDS",Pokémon 6: Jirachi Wishmaker (2003)
-http://sistem.boss4k.com:2095/movie/Sevketcanxx/a3jzB3rrbdAQSb/194666.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jxKqs0Xt51FSaAAlz9QdX4vEfnl.jpg" group-title="Movies | VOD DE KIDS",Pokémon 7: Destiny Deoxys (2004)
-http://sistem.boss4k.com:2095/movie/Sevketcanxx/a3jzB3rrbdAQSb/194667.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kcOk5NTe5k5QFA9x6IbhEIJJRTe.jpg" group-title="Movies | VOD DE KIDS",Pokémon 8: Lucario und das Geheimnis von Mew (2005)
-http://sistem.boss4k.com:2095/movie/Sevketcanxx/a3jzB3rrbdAQSb/194668.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rbgG8tEnJpIkxMkhJ0u37oPcZVs.jpg" group-title="Movies | VOD DE KIDS",Pokémon 9: Pokémon Ranger und der Tempel des Meeres (2006)
-http://sistem.boss4k.com:2095/movie/Sevketcanxx/a3jzB3rrbdAQSb/194669.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pB9JpuBGXw61h1I9ydjSi8KLjUU.jpg" group-title="Movies | VOD DE KIDS",Pokémon 10: Der Aufstieg von Darkrai (2007)
-http://sistem.boss4k.com:2095/movie/Sevketcanxx/a3jzB3rrbdAQSb/194670.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vKWOR5pDZh9oj726bwRc4SzWfda.jpg" group-title="Movies | VOD DE KIDS",Pokémon 11: Giratina und der Himmelsritter (2008)
-http://sistem.boss4k.com:2095/movie/Sevketcanxx/a3jzB3rrbdAQSb/194671.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lw6gMcbdMDYhWpobqXV0tayURwt.jpg" group-title="Movies | VOD DE KIDS",Pokémon 12: Arceus und das Juwel des Lebens (2009)
-http://sistem.boss4k.com:2095/movie/Sevketcanxx/a3jzB3rrbdAQSb/194672.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z9UPPiHeLwjXP6VdEgp3ThBncd9.jpg" group-title="Movies | VOD DE KIDS",Pokémon 13: Zoroark - Meister der Illusionen (2010)
-http://sistem.boss4k.com:2095/movie/Sevketcanxx/a3jzB3rrbdAQSb/194673.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x1lQ4d4LZtEx05afKL085JNi8Io.jpg" group-title="Movies | VOD DE KIDS",Pokémon 14: Weiß - Victini und Zekrom (2011)
-http://sistem.boss4k.com:2095/movie/Sevketcanxx/a3jzB3rrbdAQSb/194674.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/udC4JWerKEpz69g7wgnVCDKsBpS.jpg" group-title="Movies | VOD DE KIDS",Pokémon 15: Kyurem gegen den Ritter der Redlichkeit (2012)
-http://sistem.boss4k.com:2095/movie/Sevketcanxx/a3jzB3rrbdAQSb/194675.mp4
 #EXTINF:-1 tvg-logo="None" group-title="Movies | VOD DE KIDS",Popeye.Der.Seemann.2009
 http://sistem.boss4k.com:2095/movie/Sevketcanxx/a3jzB3rrbdAQSb/194677.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/TI7IZvj006iz24MYu5YwYr6Gj7.jpg" group-title="Movies | VOD DE KIDS",Ralph reichts (2012)
@@ -17871,7 +17865,7 @@ http://sistem.boss4k.com:2095/movie/Sevketcanxx/a3jzB3rrbdAQSb/195628.mp4
 #EXTINF:-1 tvg-logo="None" group-title="Movies | VOD DE KUNG FU",Wu.Dang.2012
 http://sistem.boss4k.com:2095/movie/Sevketcanxx/a3jzB3rrbdAQSb/195629.mp4
 
-# --- Movies | VOD DE NETFLIX FILME (456) ---
+# --- Movies | VOD DE NETFLIX FILME (454) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2kWVSZfK9gbbNQD93Qwi8VvYjlB.jpg" group-title="Movies | VOD DE NETFLIX FILME",Mü-Mo rettet Weihnachten (2020)
 http://sistem.boss4k.com:2095/movie/Sevketcanxx/a3jzB3rrbdAQSb/186092.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pkdxhdB3dRUqazqoy9lzUvhayjc.jpg" group-title="Movies | VOD DE NETFLIX FILME",To the Bone (2017)
@@ -18468,10 +18462,6 @@ http://sistem.boss4k.com:2095/movie/Sevketcanxx/a3jzB3rrbdAQSb/180459.mkv
 http://sistem.boss4k.com:2095/movie/Sevketcanxx/a3jzB3rrbdAQSb/180460.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/weAvkxl0dnPevIKD8fwHjiOi6tc.jpg" group-title="Movies | VOD DE NETFLIX FILME",Point Blank (2019)
 http://sistem.boss4k.com:2095/movie/Sevketcanxx/a3jzB3rrbdAQSb/180461.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6nUjtQF43SfylsTvpbhM0Q7PVx2.jpg" group-title="Movies | VOD DE NETFLIX FILME",Pokémon 23: Geheimnisse des Dschungels (2020)
-http://sistem.boss4k.com:2095/movie/Sevketcanxx/a3jzB3rrbdAQSb/180462.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lUPRzHIQoJNr2j3PZeVWIUeNYPm.jpg" group-title="Movies | VOD DE NETFLIX FILME",Pokémon 22: Mewtu schlägt zurück – Evolution (2019)
-http://sistem.boss4k.com:2095/movie/Sevketcanxx/a3jzB3rrbdAQSb/180463.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pjKSOWJhC93Be4buK2AsX9tXjNx.jpg" group-title="Movies | VOD DE NETFLIX FILME",Polar (2019)
 http://sistem.boss4k.com:2095/movie/Sevketcanxx/a3jzB3rrbdAQSb/180464.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uiDvd4A2IVEXwU6FdzC3EG6bhre.jpg" group-title="Movies | VOD DE NETFLIX FILME",Prey (2021)
@@ -19279,7 +19269,7 @@ http://sistem.boss4k.com:2095/movie/Sevketcanxx/a3jzB3rrbdAQSb/190839.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zcS9XuTuYqXCdYeyZjb8LUPavTp.jpg" group-title="Movies | VOD DE SCI-FI",World Invasion: Alien Attack (2023)
 http://sistem.boss4k.com:2095/movie/Sevketcanxx/a3jzB3rrbdAQSb/190840.mkv
 
-# --- Movies | VOD DE THRILLER (255) ---
+# --- Movies | VOD DE THRILLER (254) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c60Gc8ueoYLeo5h55VJg6f9JQvV.jpg" group-title="Movies | VOD DE THRILLER",Inside Man (2006)
 http://sistem.boss4k.com:2095/movie/Sevketcanxx/a3jzB3rrbdAQSb/188169.mkv
 #EXTINF:-1 tvg-logo="None" group-title="Movies | VOD DE THRILLER",10.Numarali.Kamara.2025
@@ -19738,8 +19728,6 @@ http://sistem.boss4k.com:2095/movie/Sevketcanxx/a3jzB3rrbdAQSb/191072.mkv
 http://sistem.boss4k.com:2095/movie/Sevketcanxx/a3jzB3rrbdAQSb/191073.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tDmWqD80zzxQZhgSzDEOW2llS0L.jpg" group-title="Movies | VOD DE THRILLER",The Possessed (2021)
 http://sistem.boss4k.com:2095/movie/Sevketcanxx/a3jzB3rrbdAQSb/191074.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t8DBuGkmnEEZi0UqhbUtiZZDWkG.jpg" group-title="Movies | VOD DE THRILLER",The Rip (2026)
-http://sistem.boss4k.com:2095/movie/Sevketcanxx/a3jzB3rrbdAQSb/191075.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mcw7lztkhv6VV5r0xXC2rhMsiYG.jpg" group-title="Movies | VOD DE THRILLER",The Silent Hour (2024)
 http://sistem.boss4k.com:2095/movie/Sevketcanxx/a3jzB3rrbdAQSb/191076.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5kb7I4p9xyEv8OB65UMI0w636N3.jpg" group-title="Movies | VOD DE THRILLER",The Thicket - Jagd auf Cut Throat Bill (2024)
@@ -23589,9 +23577,15 @@ http://sistem.boss4k.com:2095/movie/Sevketcanxx/a3jzB3rrbdAQSb/196655.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ig7z7PThOiKmKZ1QlV2s2H8zwfR.jpg" group-title="Movies | VOD TR DUBLAJ FILM",Napolyon. (2023)
 http://sistem.boss4k.com:2095/movie/Sevketcanxx/a3jzB3rrbdAQSb/199432.mp4
 
-# --- Movies | VOD TR GÜNLÜK DIZI (579) ---
+# --- Movies | VOD TR GÜNLÜK DIZI (582) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | VOD TR GÜNLÜK DIZI",### VOD TR Günlük Dizi ###
 http://sistem.boss4k.com:2095/movie/Sevketcanxx/a3jzB3rrbdAQSb/150696.mkv
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w188_and_h282_bestv2/uHIOTJXN9nNTc51WyunL43Fvge3.jpg" group-title="Movies | VOD TR GÜNLÜK DIZI",Taşacak Bu Deniz 17.Bölüm
+http://sistem.boss4k.com:2095/movie/Sevketcanxx/a3jzB3rrbdAQSb/203935.mkv
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w188_and_h282_bestv2/wQ7u0TTOz8pTshKMnxuNAa7MdMi.jpg" group-title="Movies | VOD TR GÜNLÜK DIZI",Kızılcık Şerbeti 124.Bölüm
+http://sistem.boss4k.com:2095/movie/Sevketcanxx/a3jzB3rrbdAQSb/203936.mkv
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w188_and_h282_bestv2/mxFzuKK8yEz9KdJXb6sPlhUU07s.jpg" group-title="Movies | VOD TR GÜNLÜK DIZI",Arka Sokaklar 738.Bölüm
+http://sistem.boss4k.com:2095/movie/Sevketcanxx/a3jzB3rrbdAQSb/203937.mkv
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w188_and_h282_bestv2/7kc0Mr2bRCpzIexZqq0ALnamvvY.jpg" group-title="Movies | VOD TR GÜNLÜK DIZI",Veliaht 20.Bölüm
 http://sistem.boss4k.com:2095/movie/Sevketcanxx/a3jzB3rrbdAQSb/200909.mkv
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w188_and_h282_bestv2/sQTx2hiwi9CmRYyt6CAV5sf8C1T.jpg" group-title="Movies | VOD TR GÜNLÜK DIZI",Halef: Köklerin Çağrısı 19.Bölüm
@@ -33643,4 +33637,4 @@ http://sistem.boss4k.com:2095/movie/Sevketcanxx/a3jzB3rrbdAQSb/177602.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gLXdi3q4cWToTvC3WqXMsMOV65X.jpg" group-title="Movies | VOD TR ÇOCUK FILM",Parmak Çocuk Emma (2024)
 http://sistem.boss4k.com:2095/movie/Sevketcanxx/a3jzB3rrbdAQSb/187312.mp4
 
-# Total: 16770
+# Total: 16767

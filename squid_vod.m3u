@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: squid.game-tv.org:8080
-# Generated: 2026-02-07 07:22:43
+# Generated: 2026-02-07 18:38:21
 # Expires: 2026-04-17
 # Family Safe Edition
 # ==============================================
@@ -338,6 +338,10 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/57.mp4
 # --- Movies | Ask Aglatir – Dragostea te va face sa plangi (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Ask Aglatir – Dragostea te va face sa plangi",Aşk Ağlatır (2019)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1010.mp4
+
+# --- Movies | Ask Mantik Intikam - Dragoste Ratiune Razbunare (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | Ask Mantik Intikam - Dragoste Ratiune Razbunare",Ask Mantık İntikam (2021)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1181.mp4
 
 # --- Movies | Ask ve Gözyasi – Dragoste si lacrimi (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Ask ve Gözyasi – Dragoste si lacrimi",Aşk ve Gözyaşı (2025)
@@ -1992,6 +1996,10 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1023.mp4
 # --- Movies | Fear The Walking Dead (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Fear The Walking Dead",Fear the Walking Dead
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/557.mp4
+
+# --- Movies | Fer – O luminita in intuneric (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | Fer – O luminita in intuneric",FER (2025)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1183.mp4
 
 # --- Movies | Feria: The Darkest Light (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Feria: The Darkest Light",Feria: The Darkest Light
@@ -7205,7 +7213,11 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/10776.mp
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/2Abt2GgscAGtGAXTrhH44qPhugI.jpg" group-title="Movies | Filme 2025",Dark Nuns (2025)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/25035.mp4
 
-# --- Movies | Filme 2026 (12) ---
+# --- Movies | Filme 2026 (14) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bR23eSZSnjYpYpAjbbwecnEROTq.jpg" group-title="Movies | Filme 2026",The Art of Telling Lies - 2026
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/67699.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2T4gc5njZ0JJVYLn6Q8VxS9RoM6.jpg" group-title="Movies | Filme 2026",Fabian and the Deadly Wedding - 2026
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/67698.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qhNThwc72GqihJhXaP29Af5hJ2A.jpg" group-title="Movies | Filme 2026",The Investigation of Lucy Letby - 2026
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/67696.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o7dVxvZIKnAB7k1eeeWp2k14Es7.jpg" group-title="Movies | Filme 2026",Relationship Goals - 2026
@@ -19233,6 +19245,10 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/705.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | The Peripheral",The Peripheral
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/542.mp4
 
+# --- Movies | The Pit - Cukur (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | The Pit - Cukur",Cukur (2017)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1184.mp4
+
 # --- Movies | The Pitt (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | The Pitt",The Pitt
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/775.mp4
@@ -19580,6 +19596,10 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/677.mp4
 # --- Movies | Under the Dome (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Under the Dome",Under the Dome
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/404.mp4
+
+# --- Movies | Unfamiliar (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | Unfamiliar",Unfamiliar (2026)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1185.mp4
 
 # --- Movies | Unforgettable (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Unforgettable",Unforgettable
@@ -19929,4 +19949,4 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/383.mp4
 #EXTINF:-1 tvg-logo="" group-title="Series | A Series of Unfortunate Events",A Series of Unfortunate Events
 http://squid.game-tv.org:8080/series/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/276
 
-# Total: 8749
+# Total: 8755

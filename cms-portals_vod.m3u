@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: cms-portals.com:80
-# Generated: 2026-02-07 07:18:06
+# Generated: 2026-02-07 18:31:06
 # Expires: 2026-05-22
 # Family Safe Edition
 # ==============================================
@@ -3731,7 +3731,13 @@ http://cms-portals.com:80/movie/norveska2/5q4bSDvhzT/13188.mp4
 #EXTINF:-1 tvg-logo="http://195.201.245.177:2451/img-proxy?url=https://m.media-amazon.com/images/M/MV5BM2IzNDEyNmUtNjE1OC00NzI5LThjZTQtMzNhMTNkNjMwZjczXkEyXkFqcGc@._V1_.jpg" group-title="Movies | VIDEOTEKA 2024",Bitconned (2024)
 http://cms-portals.com:80/movie/norveska2/5q4bSDvhzT/13189.mp4
 
-# --- Movies | VIDEOTEKA 2025 (137) ---
+# --- Movies | VIDEOTEKA 2025 (140) ---
+#EXTINF:-1 tvg-logo="http://195.201.245.177:2451/img-proxy?url=http://195.201.245.177:2451/img-proxy?url=https://upload.wikimedia.org/wikipedia/en/thumb/0/0f/Now_You_See_Me_Now_You_Don%27t_poster.jpg/250px-Now_You_See_Me_Now_You_Don%27t_poster.jpg" group-title="Movies | VIDEOTEKA 2025",Now You See Me: Now You Don't (2025)
+http://cms-portals.com:80/movie/norveska2/5q4bSDvhzT/13652.mp4
+#EXTINF:-1 tvg-logo="http://195.201.245.177:2451/img-proxy?url=https://upload.wikimedia.org/wikipedia/en/thumb/6/66/Turbulence_%282025_film%29.jpg/250px-Turbulence_%282025_film%29.jpg" group-title="Movies | VIDEOTEKA 2025",Turbulence (2025)
+http://cms-portals.com:80/movie/norveska2/5q4bSDvhzT/13653.mp4
+#EXTINF:-1 tvg-logo="http://195.201.245.177:2451/img-proxy?url=https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/WakeUpDeadMan_poster.jpg/250px-WakeUpDeadMan_poster.jpg" group-title="Movies | VIDEOTEKA 2025",Wake Up Dead Man (2025)
+http://cms-portals.com:80/movie/norveska2/5q4bSDvhzT/13654.mp4
 #EXTINF:-1 tvg-logo="http://195.201.245.177:2451/img-proxy?url=https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Die_My_Love_2025.jpeg/250px-Die_My_Love_2025.jpeg" group-title="Movies | VIDEOTEKA 2025",Die My Love (2025)
 http://cms-portals.com:80/movie/norveska2/5q4bSDvhzT/13649.mp4
 #EXTINF:-1 tvg-logo="http://195.201.245.177:2451/img-proxy?url=https://upload.wikimedia.org/wikipedia/en/thumb/4/49/The_Running_Man_2025_poster.jpg/250px-The_Running_Man_2025_poster.jpg" group-title="Movies | VIDEOTEKA 2025",The Running Man (2025)
@@ -4007,4 +4013,4 @@ http://cms-portals.com:80/movie/norveska2/5q4bSDvhzT/13432.mp4
 #EXTINF:-1 tvg-logo="http://85.14.243.71/images/220px-Den_of_thieves_two_pantera_ver2.jpg" group-title="Movies | VIDEOTEKA 2025",Den of Thieves 2: Pantera (2025)
 http://cms-portals.com:80/movie/norveska2/5q4bSDvhzT/13433.mp4
 
-# Total: 1985
+# Total: 1988
