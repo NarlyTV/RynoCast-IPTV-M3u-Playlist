@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: vip.europaiptv.vip:2086
-# Generated: 2026-02-09 07:22:31
+# Generated: 2026-02-09 18:50:27
 # Expires: 2027-01-25
 # Family Safe Edition
 # ==============================================
@@ -1171,37 +1171,59 @@ http://vip.europaiptv.vip:2086/live/Denizceylan/k29UqZnzsj/110104.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/gy51zip.png" group-title="DE-DAZN",DE: DAZN Eurosport 2 HD
 http://vip.europaiptv.vip:2086/live/Denizceylan/k29UqZnzsj/170928.m3u8
 
-# --- DE-DAZN EVENT (15) ---
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/9chpp4b0u8ajx9c553bdzz63n_image-header_pDach_1768900000000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Olympische Winterspiele Milano Cortina 2026 | Tag 2 (Eurosport 1) (2026-02-08 08:00:00)
-http://vip.europaiptv.vip:2086/live/Denizceylan/k29UqZnzsj/176745.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/cwq8a60ng8wzwypch43h60e2n_image-header_pDach_1767116248000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",FC Bayern München - TSG Hoffenheim (2026-02-08 17:30:00)
-http://vip.europaiptv.vip:2086/live/Denizceylan/k29UqZnzsj/176783.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1l0dlellbtm5316x0sx1pq8rif_image-header_pDach_1769191943000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",USC @ Penn State (2026-02-08 16:50:00)
-http://vip.europaiptv.vip:2086/live/Denizceylan/k29UqZnzsj/176791.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/7jfaax9ng69m1g8wj0ghihieg_image-header_pDach_1769191943000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Michigan @ Ohio State (2026-02-08 17:50:00)
-http://vip.europaiptv.vip:2086/live/Denizceylan/k29UqZnzsj/176795.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/bo9svar5chuz1nuskp217xbvj_image-header_pDach_1769191943000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Texas Tech @ West Virginia (2026-02-08 17:50:00)
-http://vip.europaiptv.vip:2086/live/Denizceylan/k29UqZnzsj/176796.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE-DAZN EVENT",Marquette @ Creighton (2026-02-08 17:50:00)
-http://vip.europaiptv.vip:2086/live/Denizceylan/k29UqZnzsj/176797.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE-DAZN EVENT",Juventus - Lazio (Italian commentary) (2026-02-08 18:20:00)
-http://vip.europaiptv.vip:2086/live/Denizceylan/k29UqZnzsj/176798.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1s7w56295lcpy15hxdqji2c8v0_image-header_pDach_1764603095000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Maryland @ Minnesota (2026-02-08 18:50:00)
-http://vip.europaiptv.vip:2086/live/Denizceylan/k29UqZnzsj/176799.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/8t5fo985lpwkdgtnhyfyrwo14_image-header_pDach_1766508928000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Juventus - Lazio (2026-02-08 19:35:00)
-http://vip.europaiptv.vip:2086/live/Denizceylan/k29UqZnzsj/176800.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/5j2e87afd0sjewmsv1kaf53ds_image-header_pDach_1769343658000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",PSG - Marseille (2026-02-08 19:35:00)
-http://vip.europaiptv.vip:2086/live/Denizceylan/k29UqZnzsj/176801.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/6z1b5e425z4894irog8qhxyql_image-header_pDach_1764530840000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Valencia - Real Madrid (2026-02-08 19:50:00)
-http://vip.europaiptv.vip:2086/live/Denizceylan/k29UqZnzsj/176802.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1lcx5c8jb30q71idyo6ctx9bwt_image-header_pDach_1769191943000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Northwestern @ Iowa (2026-02-08 19:50:00)
-http://vip.europaiptv.vip:2086/live/Denizceylan/k29UqZnzsj/176803.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/se7hatttx5n817madmspvikq4_image-header_pDach_1769191943000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",UCLA @ Michigan (2026-02-08 19:50:00)
-http://vip.europaiptv.vip:2086/live/Denizceylan/k29UqZnzsj/176804.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE-DAZN EVENT",Super Bowl LX | Seahawks @ Patriots (German commentary) (2026-02-08 21:50:00)
-http://vip.europaiptv.vip:2086/live/Denizceylan/k29UqZnzsj/176805.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE-DAZN EVENT",Super Bowl LX | Seahawks @ Patriots (Original commentary) (2026-02-08 23:20:00)
-http://vip.europaiptv.vip:2086/live/Denizceylan/k29UqZnzsj/176806.m3u8
+# --- DE-DAZN EVENT (26) ---
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/84uh491wj8grswdjhoxu06qdv_image-header_pDach_1768900000000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Olympische Winterspiele Milano Cortina 2026 | Tag 3 (Eurosport 1) (2026-02-09 10:00:00)
+http://vip.europaiptv.vip:2086/live/Denizceylan/k29UqZnzsj/176860.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/9ok99zreah291vtxemogdqebe_image-header_pDach_1768900000000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Olympische Winterspiele Milano Cortina 2026 | Tag 3 (Eurosport 2) (2026-02-09 10:00:00)
+http://vip.europaiptv.vip:2086/live/Denizceylan/k29UqZnzsj/176861.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/c7vk18zpyusl2xuc1tg5h3psh_image-header_pDach_1767770981000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",1. FC Köln - SGS Essen (2026-02-09 18:00:00)
+http://vip.europaiptv.vip:2086/live/Denizceylan/k29UqZnzsj/176862.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/bkigdhrq9kl8f5ssdjm0sk78w_image-header_pDach_1762210619000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Atalanta - Cremonese (2026-02-09 18:30:00)
+http://vip.europaiptv.vip:2086/live/Denizceylan/k29UqZnzsj/176863.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/mrlynfmnl5su1q70pth5tmqus_image-header_pDach_1765451847000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Inside The Ring - Feb 9 (2026-02-09 20:00:00)
+http://vip.europaiptv.vip:2086/live/Denizceylan/k29UqZnzsj/176864.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/834d4fhrhx9yi92ftnuyh0jlz_image-header_pDach_1766570776000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",AS Rom - Cagliari (italienischer Kommentar) (2026-02-09 20:00:00)
+http://vip.europaiptv.vip:2086/live/Denizceylan/k29UqZnzsj/176865.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/2i9zfmimm1dcalnryzrl8sngz_image-header_pDach_1748967139000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Santander - Mirandes (2026-02-09 02:30:00)
+http://vip.europaiptv.vip:2086/live/Denizceylan/k29UqZnzsj/176866.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/dwhg2gx0kc0k5uonv3yhmh34y_image-header_pDach_1766570776000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",AS Rom - Cagliari (2026-02-09 20:45:00)
+http://vip.europaiptv.vip:2086/live/Denizceylan/k29UqZnzsj/176867.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/6a8usdgnztcumgjqc5h2q7hl8_image-header_pDach_1764530971000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Villarreal - Espanyol (2026-02-09 21:00:00)
+http://vip.europaiptv.vip:2086/live/Denizceylan/k29UqZnzsj/176868.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/614yggtnb57cictzgaz9ggs3_image-header_pDach_1769792854000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Porto - Sporting (2026-02-09 21:45:00)
+http://vip.europaiptv.vip:2086/live/Denizceylan/k29UqZnzsj/176869.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/cg8z3401mkci1h62x803obp9r_image-header_pDach_1770037405000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Xavier @ St. John's (2026-02-10 00:30:00)
+http://vip.europaiptv.vip:2086/live/Denizceylan/k29UqZnzsj/176870.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/d3dg3aavyt0n07xtia43wp5ho_image-header_pDach_1768900000000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Olympische Winterspiele Milano Cortina 2026 | Tag 4 (Eurosport 1) (2026-02-10 08:45:00)
+http://vip.europaiptv.vip:2086/live/Denizceylan/k29UqZnzsj/176871.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/eypm5v19esa23t2de5cdldgrm_image-header_pDach_1768900000000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Olympische Winterspiele Milano Cortina 2026 | Tag 4 (Eurosport 2) (2026-02-10 10:00:00)
+http://vip.europaiptv.vip:2086/live/Denizceylan/k29UqZnzsj/176872.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/an0b0whxp04zz0q5tn6gaxm7x_image-header_pDach_1769584471000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Neapel - Como | Viertelfinale (2026-02-10 21:00:00)
+http://vip.europaiptv.vip:2086/live/Denizceylan/k29UqZnzsj/176873.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/18vwb07wmsuftzfi9gaf0omnd_image-header_pDach_1769787040000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Purdue @ Nebraska (2026-02-11 01:00:00)
+http://vip.europaiptv.vip:2086/live/Denizceylan/k29UqZnzsj/176874.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/kdzhz8qozhtj1wqdnwjw7s0uk_image-header_pDach_1767621607000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Pagan vs. Jimenez (2026-02-11 02:00:00)
+http://vip.europaiptv.vip:2086/live/Denizceylan/k29UqZnzsj/176875.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/eb07pbsohwx910c1idtnxoa0e_image-header_pDach_1769798571000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Wisconsin @ Illinois (2026-02-11 02:00:00)
+http://vip.europaiptv.vip:2086/live/Denizceylan/k29UqZnzsj/176876.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/qeuzi6tobg8319r8brw0yvma3_image-header_pDach_1770114050000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Iowa State @ TCU (2026-02-11 03:00:00)
+http://vip.europaiptv.vip:2086/live/Denizceylan/k29UqZnzsj/176877.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/76dixaller49fvplh16a3bti3_image-header_pDach_1768900000000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Olympische Winterspiele Milano Cortina 2026 | Tag 5 (Eurosport 1) (2026-02-11 09:30:00)
+http://vip.europaiptv.vip:2086/live/Denizceylan/k29UqZnzsj/176878.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/aivwh47xwwbyc5ce76gfqi186_image-header_pDach_1768900000000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Olympische Winterspiele Milano Cortina 2026 | Tag 5 (Eurosport 2) (2026-02-11 10:55:00)
+http://vip.europaiptv.vip:2086/live/Denizceylan/k29UqZnzsj/176879.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/876u1t90a0lj8ky0w2bvl9cuf_image-header_pDach_1767770970000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",FC Carl Zeiss Jena - FC Bayern München (2026-02-11 18:00:00)
+http://vip.europaiptv.vip:2086/live/Denizceylan/k29UqZnzsj/176880.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/3twg8g0ojo8fcsc8hl5n20cdq_image-header_pDach_1767359175000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Bologna - Lazio | Viertelfinale (2026-02-11 21:00:00)
+http://vip.europaiptv.vip:2086/live/Denizceylan/k29UqZnzsj/176881.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/vh3qqqhan1y31f9jxv2sqfamg_image-header_pDach_1769787040000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Iowa @ Maryland (2026-02-12 00:00:00)
+http://vip.europaiptv.vip:2086/live/Denizceylan/k29UqZnzsj/176882.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/wim7q03n678t1eibx17k09kdo_image-header_pDach_1768924467000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",LIV Golf Adelaide | Tag 1 (2026-02-12 02:00:00)
+http://vip.europaiptv.vip:2086/live/Denizceylan/k29UqZnzsj/176883.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/4g3kwnz1nl0w17uu31mto7ci0_image-header_pDach_1769787040000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",UCLA @ Michigan State (2026-02-12 02:00:00)
+http://vip.europaiptv.vip:2086/live/Denizceylan/k29UqZnzsj/176884.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/tuyftvqpm3gy1ohqvfbpe0tzu_image-header_pDach_1770201182000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Michigan @ Northwestern (2026-02-12 02:30:00)
+http://vip.europaiptv.vip:2086/live/Denizceylan/k29UqZnzsj/176885.m3u8
 
 # --- DE-DOKU/NEWS/KULTUR (54) ---
 #EXTINF:-1 tvg-logo="http://147.135.221.50/img/germany.png" group-title="DE-DOKU/NEWS/KULTUR",##### DE DOKU/NEWS/KULTUR #####
@@ -2228,6 +2250,26 @@ http://vip.europaiptv.vip:2086/live/Denizceylan/k29UqZnzsj/168076.m3u8
 http://vip.europaiptv.vip:2086/live/Denizceylan/k29UqZnzsj/168077.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ES: SPAIN",ES: XTRM FHD
 http://vip.europaiptv.vip:2086/live/Denizceylan/k29UqZnzsj/168078.m3u8
+
+# --- EURO NEWS CHANNELS (9) ---
+#EXTINF:-1 tvg-logo="" group-title="EURO NEWS CHANNELS",#####EURO NEWS CHANNELS #####
+http://vip.europaiptv.vip:2086/live/Denizceylan/k29UqZnzsj/147403.m3u8
+#EXTINF:-1 tvg-logo="" group-title="EURO NEWS CHANNELS",TRT WORLD
+http://vip.europaiptv.vip:2086/live/Denizceylan/k29UqZnzsj/176852.m3u8
+#EXTINF:-1 tvg-logo="" group-title="EURO NEWS CHANNELS",A NEWS
+http://vip.europaiptv.vip:2086/live/Denizceylan/k29UqZnzsj/176853.m3u8
+#EXTINF:-1 tvg-logo="" group-title="EURO NEWS CHANNELS",CNN NEWS
+http://vip.europaiptv.vip:2086/live/Denizceylan/k29UqZnzsj/176854.m3u8
+#EXTINF:-1 tvg-logo="" group-title="EURO NEWS CHANNELS",BLOOMBERG NEWS
+http://vip.europaiptv.vip:2086/live/Denizceylan/k29UqZnzsj/176855.m3u8
+#EXTINF:-1 tvg-logo="" group-title="EURO NEWS CHANNELS",DW NEWS
+http://vip.europaiptv.vip:2086/live/Denizceylan/k29UqZnzsj/176856.m3u8
+#EXTINF:-1 tvg-logo="" group-title="EURO NEWS CHANNELS",FRANCE 24
+http://vip.europaiptv.vip:2086/live/Denizceylan/k29UqZnzsj/176857.m3u8
+#EXTINF:-1 tvg-logo="" group-title="EURO NEWS CHANNELS",GGTN NEWS
+http://vip.europaiptv.vip:2086/live/Denizceylan/k29UqZnzsj/176858.m3u8
+#EXTINF:-1 tvg-logo="" group-title="EURO NEWS CHANNELS",Al Jazeera English
+http://vip.europaiptv.vip:2086/live/Denizceylan/k29UqZnzsj/176859.m3u8
 
 # --- EX.YUG: Yugoslavya (108) ---
 #EXTINF:-1 tvg-logo="" group-title="EX.YUG: Yugoslavya",##### EXYU #####
@@ -5101,10 +5143,6 @@ http://vip.europaiptv.vip:2086/live/Denizceylan/k29UqZnzsj/94804.m3u8
 #EXTINF:-1 tvg-logo="" group-title="RU: Russia",UPL TV 1 HD
 http://vip.europaiptv.vip:2086/live/Denizceylan/k29UqZnzsj/94805.m3u8
 
-# --- SW : SWEDEN (1) ---
-#EXTINF:-1 tvg-logo="" group-title="SW : SWEDEN",##### SWEDEN #####
-http://vip.europaiptv.vip:2086/live/Denizceylan/k29UqZnzsj/147403.m3u8
-
 # --- TR | 7/24 SERIES (16) ---
 #EXTINF:-1 tvg-logo="" group-title="TR | 7/24 SERIES",##### TR 7/24 SERIES #####
 http://vip.europaiptv.vip:2086/live/Denizceylan/k29UqZnzsj/157867.m3u8
@@ -6901,4 +6939,4 @@ http://vip.europaiptv.vip:2086/live/Denizceylan/k29UqZnzsj/165820.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/JEtHjJs.png" group-title="WORLD SPORTS",Sky Sport Action HD [UK]
 http://vip.europaiptv.vip:2086/live/Denizceylan/k29UqZnzsj/165884.m3u8
 
-# Total: 3389
+# Total: 3408

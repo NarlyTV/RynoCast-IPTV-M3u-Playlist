@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: world-service.us:8080
-# Generated: 2026-02-09 07:25:47
+# Generated: 2026-02-09 19:02:02
 # Expires: 2026-02-19
 # Family Safe Edition
 # ==============================================
@@ -1847,9 +1847,15 @@ http://world-service.us:8080/movie/giovanmer/merante/2034.mkv
 #EXTINF:-1 tvg-logo="n/A" group-title="Movies | NAPOLI",Tradimento
 http://world-service.us:8080/movie/giovanmer/merante/2046.mkv
 
-# --- Movies | NETFLIX AMAZON AZIONE (1478) ---
+# --- Movies | NETFLIX AMAZON AZIONE (1481) ---
 #EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/italians.jpg" group-title="Movies | NETFLIX AMAZON AZIONE",==== NETFLIX AZIONE ====
 http://world-service.us:8080/movie/giovanmer/merante/62556.mkv
+#EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/bf6a14d7b35b31f15a3a8a4c44e17443.jpg" group-title="Movies | NETFLIX AMAZON AZIONE",L'illusione perfetta  Now You See Me: Now You Don't (2025)
+http://world-service.us:8080/movie/giovanmer/merante/86692.mkv
+#EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/0f94660791512f70c32b422d574134b5.jpg" group-title="Movies | NETFLIX AMAZON AZIONE",Natural Disaster (2005)
+http://world-service.us:8080/movie/giovanmer/merante/86691.mkv
+#EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/a99df978f4cdab3b74109e7be3d751e5.jpg" group-title="Movies | NETFLIX AMAZON AZIONE",Most Dangerous Game
+http://world-service.us:8080/movie/giovanmer/merante/86690.mkv
 #EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/eb3722a50a8a83f7d438f839bf5494ad.jpg" group-title="Movies | NETFLIX AMAZON AZIONE",Progetto Tirocinio (2026)
 http://world-service.us:8080/movie/giovanmer/merante/86859.mkv
 #EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/4266c192f247249f2d9134df44844f3e.jpg" group-title="Movies | NETFLIX AMAZON AZIONE",Greenland 2 Migration (2026)
@@ -4805,9 +4811,11 @@ http://world-service.us:8080/movie/giovanmer/merante/35312.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2r3Z9Th1eplDoIQAtC14WONMrpI.jpg" group-title="Movies | NETFLIX AMAZON AZIONE",Thor: The Dark World (2013)
 http://world-service.us:8080/movie/giovanmer/merante/6011.mkv
 
-# --- Movies | NETFLIX AMAZON BAMBINI (1425) ---
+# --- Movies | NETFLIX AMAZON BAMBINI (1426) ---
 #EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/italians.jpg" group-title="Movies | NETFLIX AMAZON BAMBINI",====NETFLIX CARTONI BAMBINI====
 http://world-service.us:8080/movie/giovanmer/merante/1658.mkv
+#EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/a2c455a4258fc7d87a91417db993f9ee.jpg" group-title="Movies | NETFLIX AMAZON BAMBINI",Cosmic Princess Kaguya! (2026)
+http://world-service.us:8080/movie/giovanmer/merante/86686.mkv
 #EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/d125f72fdca8490d57a7263221adb4cb.jpg" group-title="Movies | NETFLIX AMAZON BAMBINI",SpongeBob  Un avventura da pirati (2025)
 http://world-service.us:8080/movie/giovanmer/merante/86390.mkv
 #EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/aaea92c1734d24e5bbe64e0999f093ce.jpg" group-title="Movies | NETFLIX AMAZON BAMBINI",Balto (1995)
@@ -10089,9 +10097,13 @@ http://world-service.us:8080/movie/giovanmer/merante/77935.mkv
 #EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/elisabetta.jpg" group-title="Movies | NETFLIX AMAZON COMMEDIA",Elisabetta II l'ultima grande regina
 http://world-service.us:8080/movie/giovanmer/merante/60798.mkv
 
-# --- Movies | NETFLIX AMAZON DOCUMENTARI (49) ---
+# --- Movies | NETFLIX AMAZON DOCUMENTARI (51) ---
 #EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/italians.jpg" group-title="Movies | NETFLIX AMAZON DOCUMENTARI",====NETFLIX DOCUMENTARI====
 http://world-service.us:8080/movie/giovanmer/merante/2053.mkv
+#EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/e009fb0094bb2e143a1001fa70c0b33c.jpg" group-title="Movies | NETFLIX AMAZON DOCUMENTARI",Un film fatto per Bene (2025)
+http://world-service.us:8080/movie/giovanmer/merante/86694.mkv
+#EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/ecbd93ece98716c10db2951313a5c86a.jpg" group-title="Movies | NETFLIX AMAZON DOCUMENTARI",Kidnapped il caso Elizabeth Smart (2026)
+http://world-service.us:8080/movie/giovanmer/merante/86689.mkv
 #EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/01579e15b51350afd2698f87f252be5a.jpg" group-title="Movies | NETFLIX AMAZON DOCUMENTARI",AG4IN  Il film del quarto scudetto del Napoli (2025)
 http://world-service.us:8080/movie/giovanmer/merante/85881.mkv
 #EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/85111c950cf3cf361afa8d5dfaa57342.jpg" group-title="Movies | NETFLIX AMAZON DOCUMENTARI",Il mio amico in fondo al mare (2020)
@@ -10189,11 +10201,15 @@ http://world-service.us:8080/movie/giovanmer/merante/1613.mkv
 #EXTINF:-1 tvg-logo="n/A" group-title="Movies | NETFLIX AMAZON DOCUMENTARI",Zanetti Story
 http://world-service.us:8080/movie/giovanmer/merante/1761.mkv
 
-# --- Movies | NETFLIX AMAZON DRAMMATICO (1563) ---
+# --- Movies | NETFLIX AMAZON DRAMMATICO (1565) ---
 #EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/ec1902c274189c6bd12ce4dd072c556a.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",Prisoner of War (2025)
 http://world-service.us:8080/movie/giovanmer/merante/86703.mkv
 #EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/italians.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",====NETFLIX DRAMMATICO====
 http://world-service.us:8080/movie/giovanmer/merante/1662.mkv
+#EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/fb6eedfccd5d5220e9afd8a764ff0c1b.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",Reinas (2024)
+http://world-service.us:8080/movie/giovanmer/merante/86693.mkv
+#EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/1636212b6fc69104e885a29f44d92a57.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",Dalle ceneri 2 La voragine (2026)
+http://world-service.us:8080/movie/giovanmer/merante/86687.mkv
 #EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/0615ad98c1fe042ea54ef6c3bea1fbf5.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",La grazia (2025)
 http://world-service.us:8080/movie/giovanmer/merante/86861.mkv
 #EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/f84e1ccb92d54b8675f67005b2d135a3.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",Christy (2025)
@@ -21018,22 +21034,22 @@ http://world-service.us:8080/movie/giovanmer/merante/1624.mp4
 http://world-service.us:8080/movie/giovanmer/merante/1626.mp4
 
 # --- Movies | PRIMAFILA (8) ---
-#EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/e009fb0094bb2e143a1001fa70c0b33c.jpg" group-title="Movies | PRIMAFILA",PRIMAFILA 1HD Un film fatto per Bene (2025)
-http://world-service.us:8080/movie/giovanmer/merante/86694.mkv
-#EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/fb6eedfccd5d5220e9afd8a764ff0c1b.jpg" group-title="Movies | PRIMAFILA",PRIMAFILA 3HD Reinas (2024)
-http://world-service.us:8080/movie/giovanmer/merante/86693.mkv
-#EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/bf6a14d7b35b31f15a3a8a4c44e17443.jpg" group-title="Movies | PRIMAFILA",PRIMAFILA 5HD L illusione perfetta  Now You See Me Now You Don't (2025)
-http://world-service.us:8080/movie/giovanmer/merante/86692.mkv
-#EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/0f94660791512f70c32b422d574134b5.jpg" group-title="Movies | PRIMAFILA",PRIMAFILA 7HD Natural Disaster (2005)
-http://world-service.us:8080/movie/giovanmer/merante/86691.mkv
-#EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/0423307b75076c7d3c9d12468f28144c.jpg" group-title="Movies | PRIMAFILA",PRIMAFILA 9HD  Dangerous Game (2020)
-http://world-service.us:8080/movie/giovanmer/merante/86690.mkv
-#EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/ecbd93ece98716c10db2951313a5c86a.jpg" group-title="Movies | PRIMAFILA",PRIMAFILA 11HD  il caso Elizabeth Smart (2026)
-http://world-service.us:8080/movie/giovanmer/merante/86689.mkv
-#EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/f006688875547b6acd33691beae8be93.jpg" group-title="Movies | PRIMAFILA",PRIMAFILA 15HD Dalle ceneri 2 La voragine
-http://world-service.us:8080/movie/giovanmer/merante/86687.mkv
-#EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/de398a0c4f644a45ce35b35d6d033c5e.jpg" group-title="Movies | PRIMAFILA",PRIMAFILA 17HD Cosmic Princess Kaguya! (2026)
-http://world-service.us:8080/movie/giovanmer/merante/86686.mkv
+#EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/9dc4d3255d54b21414587c15636827a7.jpg" group-title="Movies | PRIMAFILA",PRIMAFILA 1HD Yoh! Bestie (2026)
+http://world-service.us:8080/movie/giovanmer/merante/86884.mkv
+#EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/80878af9a1d0b3f17211684af21af9d6.jpg" group-title="Movies | PRIMAFILA",PRIMAFILA 5HD La vita va così (2025)
+http://world-service.us:8080/movie/giovanmer/merante/86882.mkv
+#EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/436652cb5d386ada7d9237ef27850606.jpg" group-title="Movies | PRIMAFILA",PRIMAFILA 7HD Invasione Domestica  Romanzo senza Titolo (2026)
+http://world-service.us:8080/movie/giovanmer/merante/86881.mkv
+#EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/3d6d692e43e27bcf5a04e99104711ecb.jpg" group-title="Movies | PRIMAFILA",PRIMAFILA 9HD F Valentine s Day (2026)
+http://world-service.us:8080/movie/giovanmer/merante/86880.mkv
+#EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/795678804da420ef078e6152295b4f56.jpg" group-title="Movies | PRIMAFILA",PRIMAFILA 11HD Fast Charlie (2023)
+http://world-service.us:8080/movie/giovanmer/merante/86879.mkv
+#EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/c3957fe620bf083f6234a5171bb43d90.jpg" group-title="Movies | PRIMAFILA",PRIMAFILA 13HD Ehi tu (2025)
+http://world-service.us:8080/movie/giovanmer/merante/86878.mkv
+#EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/7a255b68824386acf70e8c8d0bfa5bfc.jpg" group-title="Movies | PRIMAFILA",PRIMAFILA 15HD Compulsion (2024)
+http://world-service.us:8080/movie/giovanmer/merante/86877.mkv
+#EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/07d35ba4c6b2132781fd6e83e525651c.jpg" group-title="Movies | PRIMAFILA",PRIMAFILA 17HD Blood Brother (2018)
+http://world-service.us:8080/movie/giovanmer/merante/86876.mkv
 
 # --- Movies | PRIMAFILA 4K (15) ---
 #EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/italians.jpg" group-title="Movies | PRIMAFILA 4K",====PRIMAFILA 4K====
@@ -32829,4 +32845,4 @@ http://world-service.us:8080/movie/giovanmer/merante/2669.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | SerieTV",Timeless.S01E01 german
 http://world-service.us:8080/movie/giovanmer/merante/20654.mkv
 
-# Total: 16383
+# Total: 16391

@@ -1,13 +1,13 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: siptvs.com:8080
-# Generated: 2026-02-09 07:32:04
+# Generated: 2026-02-09 19:03:02
 # Expires: 2026-05-16
 # Family Safe Edition
 # ==============================================
 
 
-# --- RADIO (223) ---
+# --- RADIO (225) ---
 #EXTINF:-1 tvg-logo="" group-title="RADIO",AT: RADIO U1
 http://siptvs.com:8080/live/Biljana12/Biljana12/113413.m3u8
 #EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/Fullfull/yuplanet2.png" group-title="RADIO",YU-RADIO
@@ -454,6 +454,10 @@ http://siptvs.com:8080/live/Biljana12/Biljana12/197563.m3u8
 http://siptvs.com:8080/live/Biljana12/Biljana12/197564.m3u8
 #EXTINF:-1 tvg-logo="" group-title="RADIO",Radio Royal Njemačka
 http://siptvs.com:8080/live/Biljana12/Biljana12/197565.m3u8
+#EXTINF:-1 tvg-logo="" group-title="RADIO",Radio Karolina Beograd
+http://siptvs.com:8080/live/Biljana12/Biljana12/199914.m3u8
+#EXTINF:-1 tvg-logo="" group-title="RADIO",Radio LOLA Beograd
+http://siptvs.com:8080/live/Biljana12/Biljana12/199915.m3u8
 
 # --- Unknown (19) ---
 #EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/Fullfull/yuplanet2.png" group-title="Unknown",YU-RADIO
@@ -2169,7 +2173,7 @@ http://siptvs.com:8080/live/Biljana12/Biljana12/112980.m3u8
 #EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/MACEDONIA/hugo.png" group-title="|EXYU| MAKEDONIJA",MK: HUGO 4
 http://siptvs.com:8080/live/Biljana12/Biljana12/112981.m3u8
 
-# --- |EXYU| MUZICKI (69) ---
+# --- |EXYU| MUZICKI (73) ---
 #EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/Fullfull/yuplanet.png" group-title="|EXYU| MUZICKI",YU PLANET
 http://siptvs.com:8080/live/Biljana12/Biljana12/35357.m3u8
 #EXTINF:-1 tvg-logo="https://lo1.in/LOGO/EXYU/GENERAL/grand%20%281%29.png" group-title="|EXYU| MUZICKI",GRAND TV
@@ -2308,6 +2312,14 @@ http://siptvs.com:8080/live/Biljana12/Biljana12/198847.m3u8
 http://siptvs.com:8080/live/Biljana12/Biljana12/198848.m3u8
 #EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/luzerimages/obelix-juznivetar.png" group-title="|EXYU| MUZICKI",Obelix - Juzni Vetar
 http://siptvs.com:8080/live/Biljana12/Biljana12/198849.m3u8
+#EXTINF:-1 tvg-logo="" group-title="|EXYU| MUZICKI",TV LOLA RADIO
+http://siptvs.com:8080/live/Biljana12/Biljana12/199916.m3u8
+#EXTINF:-1 tvg-logo="" group-title="|EXYU| MUZICKI",Karolina TV
+http://siptvs.com:8080/live/Biljana12/Biljana12/199917.m3u8
+#EXTINF:-1 tvg-logo="" group-title="|EXYU| MUZICKI",TDI TV
+http://siptvs.com:8080/live/Biljana12/Biljana12/199918.m3u8
+#EXTINF:-1 tvg-logo="" group-title="|EXYU| MUZICKI",TV HIT FM RADIO
+http://siptvs.com:8080/live/Biljana12/Biljana12/199919.m3u8
 
 # --- |EXYU| SERIJE 24/7 (4) ---
 #EXTINF:-1 tvg-logo="https://lo1.in/LOGO/EXYU/GENERAL/LUDZBUNJENNORMALAN.PNG" group-title="|EXYU| SERIJE 24/7",LUD ZBUNJEN NORMALAN 24/7
@@ -3257,4 +3269,4 @@ http://siptvs.com:8080/live/Biljana12/Biljana12/85905.m3u8
 #EXTINF:-1 tvg-logo="" group-title="|WSP| WORLD SPORT",MUTV
 http://siptvs.com:8080/live/Biljana12/Biljana12/126239.m3u8
 
-# Total: 1595
+# Total: 1601

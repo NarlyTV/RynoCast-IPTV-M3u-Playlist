@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: ultrapremium.cloud:8080
-# Generated: 2026-02-09 07:33:18
+# Generated: 2026-02-09 18:59:00
 # Expires: 2026-02-28
 # Family Safe Edition
 # ==============================================
@@ -17417,7 +17417,7 @@ http://ultrapremium.cloud:8080/movie/964374735tv/4fdc5eg3/268637.mp4
 #EXTINF:-1 tvg-logo="https://goluchas.com/wp-content/uploads/2024/12/IMG_5281.jpeg" group-title="Movies | → VOD WWE ←",RAW 13 Enero (2025)
 http://ultrapremium.cloud:8080/movie/964374735tv/4fdc5eg3/268788.mp4
 
-# --- Series | → SERIES ACCIÓN ← (70) ---
+# --- Series | → SERIES ACCIÓN ← (71) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES ACCIÓN ←",Black Sails
 http://ultrapremium.cloud:8080/series/964374735tv/4fdc5eg3/21
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES ACCIÓN ←",Mil Colmillos
@@ -17558,6 +17558,8 @@ http://ultrapremium.cloud:8080/series/964374735tv/4fdc5eg3/2515
 http://ultrapremium.cloud:8080/series/964374735tv/4fdc5eg3/2524
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES ACCIÓN ←",Sandokan
 http://ultrapremium.cloud:8080/series/964374735tv/4fdc5eg3/2530
+#EXTINF:-1 tvg-logo="" group-title="Series | → SERIES ACCIÓN ←",Unfamiliar
+http://ultrapremium.cloud:8080/series/964374735tv/4fdc5eg3/2534
 
 # --- Series | → SERIES ANIMADAS DEL RECUERDO ← (14) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES ANIMADAS DEL RECUERDO ←",Capitan Centella
@@ -18597,7 +18599,7 @@ http://ultrapremium.cloud:8080/series/964374735tv/4fdc5eg3/2499
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DOCUMENTALES ←",MARINES
 http://ultrapremium.cloud:8080/series/964374735tv/4fdc5eg3/2502
 
-# --- Series | → SERIES DRAMA ← (294) ---
+# --- Series | → SERIES DRAMA ← (295) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DRAMA ←",4 Blocks
 http://ultrapremium.cloud:8080/series/964374735tv/4fdc5eg3/7
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DRAMA ←",Por trece razones
@@ -19186,6 +19188,8 @@ http://ultrapremium.cloud:8080/series/964374735tv/4fdc5eg3/2520
 http://ultrapremium.cloud:8080/series/964374735tv/4fdc5eg3/2525
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DRAMA ←",El Caballero de los Siete Reinos
 http://ultrapremium.cloud:8080/series/964374735tv/4fdc5eg3/2529
+#EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DRAMA ←",Las Leonas
+http://ultrapremium.cloud:8080/series/964374735tv/4fdc5eg3/2533
 
 # --- Series | → SERIES INFANTILES ← (44) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES INFANTILES ←",¡La serie de Cuphead!
@@ -19695,4 +19699,4 @@ http://ultrapremium.cloud:8080/series/964374735tv/4fdc5eg3/2345
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES TERROR-THRILLER-SUSPENSO ←",It: Bienvenidos a Derry
 http://ultrapremium.cloud:8080/series/964374735tv/4fdc5eg3/2492
 
-# Total: 9771
+# Total: 9773

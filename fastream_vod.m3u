@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: fastream.xyz:8080
-# Generated: 2026-02-09 07:27:56
+# Generated: 2026-02-09 18:58:59
 # Expires: 2026-10-20
 # Family Safe Edition
 # ==============================================
@@ -17417,7 +17417,7 @@ http://fastream.xyz:8080/movie/940246862tv/12ws79/268637.mp4
 #EXTINF:-1 tvg-logo="https://goluchas.com/wp-content/uploads/2024/12/IMG_5281.jpeg" group-title="Movies | → VOD WWE ←",RAW 13 Enero (2025)
 http://fastream.xyz:8080/movie/940246862tv/12ws79/268788.mp4
 
-# --- Series | → SERIES ACCIÓN ← (70) ---
+# --- Series | → SERIES ACCIÓN ← (71) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES ACCIÓN ←",Black Sails
 http://fastream.xyz:8080/series/940246862tv/12ws79/21
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES ACCIÓN ←",Mil Colmillos
@@ -17558,6 +17558,8 @@ http://fastream.xyz:8080/series/940246862tv/12ws79/2515
 http://fastream.xyz:8080/series/940246862tv/12ws79/2524
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES ACCIÓN ←",Sandokan
 http://fastream.xyz:8080/series/940246862tv/12ws79/2530
+#EXTINF:-1 tvg-logo="" group-title="Series | → SERIES ACCIÓN ←",Unfamiliar
+http://fastream.xyz:8080/series/940246862tv/12ws79/2534
 
 # --- Series | → SERIES ANIMADAS DEL RECUERDO ← (14) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES ANIMADAS DEL RECUERDO ←",Capitan Centella
@@ -18597,7 +18599,7 @@ http://fastream.xyz:8080/series/940246862tv/12ws79/2499
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DOCUMENTALES ←",MARINES
 http://fastream.xyz:8080/series/940246862tv/12ws79/2502
 
-# --- Series | → SERIES DRAMA ← (294) ---
+# --- Series | → SERIES DRAMA ← (295) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DRAMA ←",4 Blocks
 http://fastream.xyz:8080/series/940246862tv/12ws79/7
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DRAMA ←",Por trece razones
@@ -19186,6 +19188,8 @@ http://fastream.xyz:8080/series/940246862tv/12ws79/2520
 http://fastream.xyz:8080/series/940246862tv/12ws79/2525
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DRAMA ←",El Caballero de los Siete Reinos
 http://fastream.xyz:8080/series/940246862tv/12ws79/2529
+#EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DRAMA ←",Las Leonas
+http://fastream.xyz:8080/series/940246862tv/12ws79/2533
 
 # --- Series | → SERIES INFANTILES ← (44) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES INFANTILES ←",¡La serie de Cuphead!
@@ -19695,4 +19699,4 @@ http://fastream.xyz:8080/series/940246862tv/12ws79/2345
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES TERROR-THRILLER-SUSPENSO ←",It: Bienvenidos a Derry
 http://fastream.xyz:8080/series/940246862tv/12ws79/2492
 
-# Total: 9771
+# Total: 9773
