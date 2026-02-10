@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: blackiptv.net:8080
-# Generated: 2026-02-09 18:50:06
+# Generated: 2026-02-10 07:33:25
 # Expires: 2026-12-21
 # Family Safe Edition
 # ==============================================
@@ -5614,7 +5614,7 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/25015.m3u8
 # --- USA KIDS (5) ---
 #EXTINF:-1 tvg-logo="" group-title="USA KIDS",USA: BABY SHARK TV
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/59087.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USA KIDS",USA: BABY FIRST
+#EXTINF:-1 tvg-logo="http://195.211.191.31:808/logo/logo_1/UK/BABYTV.png" group-title="USA KIDS",USA: BABY FIRST
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/59088.m3u8
 #EXTINF:-1 tvg-logo="http://195.211.191.31:808/logo/logo_1/UK/DISNEYJUNIOR.png" group-title="USA KIDS",USA: DISNEY JUNIOR
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/59090.m3u8
@@ -5712,9 +5712,9 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/3487.m3u8
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/55053.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA/UK SPORT",UK: SKY SPORTS EVENT 1HD
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/3488.m3u8
-#EXTINF:-1 tvg-logo="https://assets.tazztv.io/uploads/eptemplates/icons/QwzHWNmUTBiJo8PI1oKu8nMHdtkshbIZMADSBvDxFcEP5Juy4X.png" group-title="USA/UK SPORT",UK: SKY SPORTS EVENT 2HD
+#EXTINF:-1 tvg-logo="" group-title="USA/UK SPORT",UK: SKY SPORTS RACING
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/60036.m3u8
-#EXTINF:-1 tvg-logo="https://assets.tazztv.io/uploads/eptemplates/icons/QwzHWNmUTBiJo8PI1oKu8nMHdtkshbIZMADSBvDxFcEP5Juy4X.png" group-title="USA/UK SPORT",UK: SKY SPORTS EVENT 3HD
+#EXTINF:-1 tvg-logo="" group-title="USA/UK SPORT",UK: SKY SPORTS NFL
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/60039.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA/UK SPORT",USA: MMA TV
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/59867.m3u8
@@ -5790,13 +5790,13 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/24157.m3u8
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/59959.m3u8
 #EXTINF:-1 tvg-logo="https://assets.tazztv.io/uploads/eptemplates/icons/eTo3AOeff38Z0qahIA084xYxvTXO2d0V76Jo138aZhdSuPAYSM.png" group-title="USA/UK SPORT",USA: NBC WVTM-DT1 (US)
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/58283.m3u8
-#EXTINF:-1 tvg-logo="https://assets.tazztv.io/uploads/eptemplates/icons/7CWC4kMYRVkEHwkWThThgPQZXEtXRLruevhkUGZgR1WTwyfEVr.png" group-title="USA/UK SPORT",USA: NBC SPORTS
+#EXTINF:-1 tvg-logo="https://assets.tazztv.io/uploads/eptemplates/icons/7CWC4kMYRVkEHwkWThThgPQZXEtXRLruevhkUGZgR1WTwyfEVr.png" group-title="USA/UK SPORT",NBC SPORTS
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/59957.m3u8
 #EXTINF:-1 tvg-logo="https://assets.tazztv.io/uploads/eptemplates/icons/bubS1h9OqG6yjXdtbRmCtnZe3R8KuTcq3kh39eCH6gfUQVCOuf.png" group-title="USA/UK SPORT",USA: NBC SPORTS CALIFORNIA
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/59958.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA/UK SPORT",USA: CBS 3 - PHILADELPHIA
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/58277.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USA/UK SPORT",USA: MSG HD
+#EXTINF:-1 tvg-logo="" group-title="USA/UK SPORT",USA: MSG
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/58302.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA/UK SPORT",USA: WGN
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/58293.m3u8
@@ -5834,7 +5834,7 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/27859.m3u8
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/59960.m3u8
 #EXTINF:-1 tvg-logo="https://assets.tazztv.io/uploads/eptemplates/icons/q1CN1xFadMVGFudeExFDO6xhgTPY3poq2ZcVxOp1hY5lpElVUL.png" group-title="USA/UK SPORT",USA: UFC-FIGHT-PASS-2 (ONLY MATSCHDAY)
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/59961.m3u8
-#EXTINF:-1 tvg-logo="https://assets.tazztv.io/uploads/eptemplates/icons/q1CN1xFadMVGFudeExFDO6xhgTPY3poq2ZcVxOp1hY5lpElVUL.png" group-title="USA/UK SPORT",USA: UFC-FIGHT-PASS-3 (ONLY MATSCHDAY)
+#EXTINF:-1 tvg-logo="https://assets.tazztv.io/uploads/eptemplates/icons/q1CN1xFadMVGFudeExFDO6xhgTPY3poq2ZcVxOp1hY5lpElVUL.png" group-title="USA/UK SPORT",USA: UFC FIGHT PASS
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/59962.m3u8
 #EXTINF:-1 tvg-logo="https://assets.tazztv.io/uploads/eptemplates/icons/q1CN1xFadMVGFudeExFDO6xhgTPY3poq2ZcVxOp1hY5lpElVUL.png" group-title="USA/UK SPORT",USA: UFC-FIGHT-PASS-4 (ONLY MATSCHDAY)
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/59963.m3u8

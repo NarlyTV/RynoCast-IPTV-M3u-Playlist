@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: 51.89.76.111:2086
-# Generated: 2026-02-09 18:48:41
+# Generated: 2026-02-10 07:41:28
 # Expires: 2026-10-09
 # Family Safe Edition
 # ==============================================
@@ -1171,13 +1171,11 @@ http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/110104.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/gy51zip.png" group-title="DE-DAZN",DE: DAZN Eurosport 2 HD
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/170928.m3u8
 
-# --- DE-DAZN EVENT (26) ---
+# --- DE-DAZN EVENT (25) ---
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/84uh491wj8grswdjhoxu06qdv_image-header_pDach_1768900000000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Olympische Winterspiele Milano Cortina 2026 | Tag 3 (Eurosport 1) (2026-02-09 10:00:00)
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/176860.m3u8
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/9ok99zreah291vtxemogdqebe_image-header_pDach_1768900000000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Olympische Winterspiele Milano Cortina 2026 | Tag 3 (Eurosport 2) (2026-02-09 10:00:00)
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/176861.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/c7vk18zpyusl2xuc1tg5h3psh_image-header_pDach_1767770981000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",1. FC Köln - SGS Essen (2026-02-09 18:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/176862.m3u8
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/bkigdhrq9kl8f5ssdjm0sk78w_image-header_pDach_1762210619000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Atalanta - Cremonese (2026-02-09 18:30:00)
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/176863.m3u8
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/mrlynfmnl5su1q70pth5tmqus_image-header_pDach_1765451847000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Inside The Ring - Feb 9 (2026-02-09 20:00:00)
@@ -6639,4 +6637,4 @@ http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/165820.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/JEtHjJs.png" group-title="WORLD SPORTS",Sky Sport Action HD [UK]
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/165884.m3u8
 
-# Total: 3259
+# Total: 3258

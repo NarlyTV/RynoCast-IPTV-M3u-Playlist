@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: ktvn1.xyz
-# Generated: 2026-02-09 18:58:55
+# Generated: 2026-02-10 07:37:57
 # Expires: 2026-04-29
 # Family Safe Edition
 # ==============================================
@@ -2597,43 +2597,41 @@ http://ktvn1.xyz/live/A52FDC75/34X79X26/155615.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/de/DAZN.de.png" group-title="DE | DAZN SPORTS",| DE| DAZN  1 HD
 http://ktvn1.xyz/live/A52FDC75/34X79X26/155614.m3u8
 
-# --- DE | DOKU & KULTUR (18) ---
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sky_Nature_Logo_2020.png?20200507164804" group-title="DE | DOKU & KULTUR",SKY NATURE HD (DE)
-http://ktvn1.xyz/live/A52FDC75/34X79X26/352806.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE | DOKU & KULTUR",HGTV (DE)
-http://ktvn1.xyz/live/A52FDC75/34X79X26/297976.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/23/Sky_Documentaries_2020.svg/revision/latest/scale-to-width-down/400?cb=20200705155600" group-title="DE | DOKU & KULTUR",Sky Documentaries FHD (DE)
-http://ktvn1.xyz/live/A52FDC75/34X79X26/228817.m3u8
+# --- DE | DOKU & KULTUR (17) ---
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Crime_and_Investigation_logo.png" group-title="DE | DOKU & KULTUR",(DE) CRIME+INVESTIGATION
+http://ktvn1.xyz/live/A52FDC75/34X79X26/440405.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/GEO_Television.png/1280px-GEO_Television.png" group-title="DE | DOKU & KULTUR",(DE) GEO TV
+http://ktvn1.xyz/live/A52FDC75/34X79X26/440404.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/E%21_logo_2012.png" group-title="DE | DOKU & KULTUR",(DE) E!
+http://ktvn1.xyz/live/A52FDC75/34X79X26/440403.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/7/75/Sky_Nature_2021.svg/1280px-Sky_Nature_2021.svg.png?20260108143551" group-title="DE | DOKU & KULTUR",(DE) Sky Nature
+http://ktvn1.xyz/live/A52FDC75/34X79X26/440402.m3u8
+#EXTINF:-1 tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/animalplanetcz.png" group-title="DE | DOKU & KULTUR",(DE) Animal Planet
+http://ktvn1.xyz/live/A52FDC75/34X79X26/440401.m3u8
+#EXTINF:-1 tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/SKY-DOCUMENTARIES.png" group-title="DE | DOKU & KULTUR",(DE) Sky Documentaries
+http://ktvn1.xyz/live/A52FDC75/34X79X26/440400.m3u8
+#EXTINF:-1 tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/HGTV-HD.png" group-title="DE | DOKU & KULTUR",(DE) HKABEL EINS DOKU HD
+http://ktvn1.xyz/live/A52FDC75/34X79X26/440399.m3u8
+#EXTINF:-1 tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/DISCOVERY-TV.png" group-title="DE | DOKU & KULTUR",(DE) Discovery
+http://ktvn1.xyz/live/A52FDC75/34X79X26/440398.m3u8
+#EXTINF:-1 tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/nationalgeographicplus.png" group-title="DE | DOKU & KULTUR",(DE) Nat Geo
+http://ktvn1.xyz/live/A52FDC75/34X79X26/440397.m3u8
+#EXTINF:-1 tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/natgeowildhddut.png" group-title="DE | DOKU & KULTUR",(DE) Nat Geo Wild
+http://ktvn1.xyz/live/A52FDC75/34X79X26/440396.m3u8
+#EXTINF:-1 tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/HISTORY-HD.jpg" group-title="DE | DOKU & KULTUR",(DE) HISTORY Channel
+http://ktvn1.xyz/live/A52FDC75/34X79X26/440395.m3u8
+#EXTINF:-1 tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/SKY-NATURE.jpg" group-title="DE | DOKU & KULTUR",(DE) HGTV
+http://ktvn1.xyz/live/A52FDC75/34X79X26/440394.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/de/SpiegelGeschichte.de.png" group-title="DE | DOKU & KULTUR",(DE) SPIEGEL GESCHICHTE FHD
 http://ktvn1.xyz/live/A52FDC75/34X79X26/214957.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/de/History.de.png" group-title="DE | DOKU & KULTUR",HISTORY FHD (DE)
-http://ktvn1.xyz/live/A52FDC75/34X79X26/214909.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/de/DiscoveryChannel.de.png" group-title="DE | DOKU & KULTUR",(DE) DISCOVERY CHANNEL FHD
-http://ktvn1.xyz/live/A52FDC75/34X79X26/214906.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/de/DiscoveryChannel.de.png" group-title="DE | DOKU & KULTUR",(DE) WAIDWERK FHD
-http://ktvn1.xyz/live/A52FDC75/34X79X26/214905.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/de/NatGeo.de.png" group-title="DE | DOKU & KULTUR",(DE) NAT GEO FHD
-http://ktvn1.xyz/live/A52FDC75/34X79X26/214904.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/de/AnimalPlanet.de.png" group-title="DE | DOKU & KULTUR",(DE) ANIMAL PLANET HD
-http://ktvn1.xyz/live/A52FDC75/34X79X26/214901.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/de/NatGeoWild.de.png" group-title="DE | DOKU & KULTUR",(DE) NAT GEO WILD FHD
-http://ktvn1.xyz/live/A52FDC75/34X79X26/214900.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE | DOKU & KULTUR",(DE) COMEDY CENTRAL FHD
-http://ktvn1.xyz/live/A52FDC75/34X79X26/214899.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/de/CrimeInvestigation.de.png" group-title="DE | DOKU & KULTUR",(DE) CRIME + IVESTiGATION FHD
-http://ktvn1.xyz/live/A52FDC75/34X79X26/214898.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/de/KabelEinsDoku.de.png" group-title="DE | DOKU & KULTUR",KABEL EINS DOKU HD (DE)
-http://ktvn1.xyz/live/A52FDC75/34X79X26/214798.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/de/N24Doku.de.png" group-title="DE | DOKU & KULTUR",N24 DOKU HD (DE)
+#EXTINF:-1 tvg-logo="https://static.epg.best/de/N24Doku.de.png" group-title="DE | DOKU & KULTUR",(DE) N24 DOKU HD
 http://ktvn1.xyz/live/A52FDC75/34X79X26/214797.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/de/ARTE.de.png" group-title="DE | DOKU & KULTUR",(DE) ARTE FHD
 http://ktvn1.xyz/live/A52FDC75/34X79X26/214780.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE | DOKU & KULTUR",SERVUS TV HD (DE)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/ServusTV_Logo.png/1280px-ServusTV_Logo.png" group-title="DE | DOKU & KULTUR",(DE) SERVUS TV HD
 http://ktvn1.xyz/live/A52FDC75/34X79X26/214763.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/de/TLC.de.png" group-title="DE | DOKU & KULTUR",TLC HD (DE)
+#EXTINF:-1 tvg-logo="https://static.epg.best/de/TLC.de.png" group-title="DE | DOKU & KULTUR",(DE) TLC HD
 http://ktvn1.xyz/live/A52FDC75/34X79X26/214759.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/de/Heimatkanal.de.png" group-title="DE | DOKU & KULTUR",(DE) WELT DER WENDER FHD
-http://ktvn1.xyz/live/A52FDC75/34X79X26/214753.m3u8
 
 # --- DE | KIDS (8) ---
 #EXTINF:-1 tvg-logo="https://static.epg.best/de/Kika.de.png" group-title="DE | KIDS",(DE) KIKA FHD
@@ -2642,9 +2640,9 @@ http://ktvn1.xyz/live/A52FDC75/34X79X26/214970.m3u8
 http://ktvn1.xyz/live/A52FDC75/34X79X26/214966.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Cartoonito.png" group-title="DE | KIDS",(DE) CARTOONITO HD
 http://ktvn1.xyz/live/A52FDC75/34X79X26/214964.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/de/TOGGOplus.de.png" group-title="DE | KIDS",TOGGOPLUS HD (DE)
+#EXTINF:-1 tvg-logo="https://static.epg.best/de/TOGGOplus.de.png" group-title="DE | KIDS",(DE) TOGGOPLUS HD
 http://ktvn1.xyz/live/A52FDC75/34X79X26/214963.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Nickjr-logo.png/800px-Nickjr-logo.png" group-title="DE | KIDS",NICK JR (DE)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Nickjr-logo.png/800px-Nickjr-logo.png" group-title="DE | KIDS",(DE) NICK JR
 http://ktvn1.xyz/live/A52FDC75/34X79X26/214961.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/de/Nicktoons.de.png" group-title="DE | KIDS",(DE) NICKTOON HD
 http://ktvn1.xyz/live/A52FDC75/34X79X26/214960.m3u8
@@ -2716,34 +2714,6 @@ http://ktvn1.xyz/live/A52FDC75/34X79X26/357906.m3u8
 http://ktvn1.xyz/live/A52FDC75/34X79X26/357905.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Magenta-logo.png?20211229151157" group-title="DE | MAGENTA TELEKOM SPORT",DE | MAGENTA SPORT 19
 http://ktvn1.xyz/live/A52FDC75/34X79X26/357904.m3u8
-
-# --- DE | MAX SELECT MOVIES (4) ---
-#EXTINF:-1 tvg-logo="" group-title="DE | MAX SELECT MOVIES",DE: BOSS MOVIES 1 HD
-http://ktvn1.xyz/live/A52FDC75/34X79X26/175125.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE | MAX SELECT MOVIES",DE: BOSS MOVIES 2 HD
-http://ktvn1.xyz/live/A52FDC75/34X79X26/175124.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE | MAX SELECT MOVIES",DE: BOSS MOVIES 3 HD
-http://ktvn1.xyz/live/A52FDC75/34X79X26/175123.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE | MAX SELECT MOVIES",DE: BOSS MOVIES 4 HD
-http://ktvn1.xyz/live/A52FDC75/34X79X26/175122.m3u8
-
-# --- DE | MUSIK & SHOPPING (8) ---
-#EXTINF:-1 tvg-logo="" group-title="DE | MUSIK & SHOPPING",DE: Deluxe Music
-http://ktvn1.xyz/live/A52FDC75/34X79X26/357810.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE | MUSIK & SHOPPING",DE: Deutsches Musik Fernsehen
-http://ktvn1.xyz/live/A52FDC75/34X79X26/357809.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE | MUSIK & SHOPPING",DE: FOLX
-http://ktvn1.xyz/live/A52FDC75/34X79X26/357808.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE | MUSIK & SHOPPING",DE: Jukebox
-http://ktvn1.xyz/live/A52FDC75/34X79X26/357807.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE | MUSIK & SHOPPING",DE: MTV
-http://ktvn1.xyz/live/A52FDC75/34X79X26/357806.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE | MUSIK & SHOPPING",DE: Pluto TV MTV
-http://ktvn1.xyz/live/A52FDC75/34X79X26/357805.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE | MUSIK & SHOPPING",DE: Schlager Deluxe
-http://ktvn1.xyz/live/A52FDC75/34X79X26/357804.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE | MUSIK & SHOPPING",DE: Stingray Classica
-http://ktvn1.xyz/live/A52FDC75/34X79X26/357803.m3u8
 
 # --- DE | NETFLIX (10) ---
 #EXTINF:-1 tvg-logo="" group-title="DE | NETFLIX",DE: NETFLIX 1 HD
@@ -2883,7 +2853,7 @@ http://ktvn1.xyz/live/A52FDC75/34X79X26/360538.m3u8
 #EXTINF:-1 tvg-logo="http://roomtv.xyz:8080/images/yA6bgHBAe_ujRxS2LVuskLdIFQwMrLhmHFiMlGW-QZFRv7ZHcHzHQdcNyoJ573YRXMy0rh8YHBGGCE6iQMqOOn_OBtETZ85-hM7u53ICk54.png" group-title="DE | RTL+ EVENT",DE | RTL+ Sport Event 9 (Event Only) OFFLINE
 http://ktvn1.xyz/live/A52FDC75/34X79X26/360537.m3u8
 
-# --- DE | SERIEN (260) ---
+# --- DE | SERIEN (236) ---
 #EXTINF:-1 tvg-logo="" group-title="DE | SERIEN",De: Sky Cinema Classic HD
 http://ktvn1.xyz/live/A52FDC75/34X79X26/400291.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DE | SERIEN",De: Sky Cinema
@@ -2928,11 +2898,11 @@ http://ktvn1.xyz/live/A52FDC75/34X79X26/400272.m3u8
 http://ktvn1.xyz/live/A52FDC75/34X79X26/400271.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DE | SERIEN",De: Sky Atlantic HD
 http://ktvn1.xyz/live/A52FDC75/34X79X26/400270.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE | SERIEN",De: Sky replay
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Sky_Replay_logo_2020.svg/1280px-Sky_Replay_logo_2020.svg.png?20231125051026" group-title="DE | SERIEN",De: Sky replay FHD
 http://ktvn1.xyz/live/A52FDC75/34X79X26/400269.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE | SERIEN",De: Comedy Central 4K
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Comedy_Central_2011_Logo.svg/1280px-Comedy_Central_2011_Logo.svg.png" group-title="DE | SERIEN",De: Comedy Central 4K
 http://ktvn1.xyz/live/A52FDC75/34X79X26/400268.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE | SERIEN",De: Comedy Central HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Comedy_Central_2011_Logo.svg/1280px-Comedy_Central_2011_Logo.svg.png" group-title="DE | SERIEN",De: Comedy Central HD
 http://ktvn1.xyz/live/A52FDC75/34X79X26/400267.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DE | SERIEN",De: Warner Comedy 4K
 http://ktvn1.xyz/live/A52FDC75/34X79X26/400266.m3u8
@@ -2982,46 +2952,6 @@ http://ktvn1.xyz/live/A52FDC75/34X79X26/400244.m3u8
 http://ktvn1.xyz/live/A52FDC75/34X79X26/400243.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DE | SERIEN",De: Health TV
 http://ktvn1.xyz/live/A52FDC75/34X79X26/400242.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE | SERIEN",De: HGTV
-http://ktvn1.xyz/live/A52FDC75/34X79X26/400241.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE | SERIEN",De: SCHAU TV HD
-http://ktvn1.xyz/live/A52FDC75/34X79X26/400240.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE | SERIEN",De: Phoenix HD
-http://ktvn1.xyz/live/A52FDC75/34X79X26/400239.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE | SERIEN",De: N24 DoKu HD
-http://ktvn1.xyz/live/A52FDC75/34X79X26/400238.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE | SERIEN",De: Spiegel TV Wissen HD
-http://ktvn1.xyz/live/A52FDC75/34X79X26/400237.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE | SERIEN",De: Spiegel Geschichte HD
-http://ktvn1.xyz/live/A52FDC75/34X79X26/400236.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE | SERIEN",De: Animal Planet HD
-http://ktvn1.xyz/live/A52FDC75/34X79X26/400235.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE | SERIEN",De: TLC HD
-http://ktvn1.xyz/live/A52FDC75/34X79X26/400234.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE | SERIEN",De: Crime & Investigation HD
-http://ktvn1.xyz/live/A52FDC75/34X79X26/400233.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE | SERIEN",De: Kabel 1 Doku 4K
-http://ktvn1.xyz/live/A52FDC75/34X79X26/400232.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE | SERIEN",De: Kabel 1 Doku HD
-http://ktvn1.xyz/live/A52FDC75/34X79X26/400231.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE | SERIEN",De: Discovery Channel 4K
-http://ktvn1.xyz/live/A52FDC75/34X79X26/400230.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE | SERIEN",De: Discovery Channel HD
-http://ktvn1.xyz/live/A52FDC75/34X79X26/400229.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE | SERIEN",De: History 4K
-http://ktvn1.xyz/live/A52FDC75/34X79X26/400228.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE | SERIEN",De: History HD
-http://ktvn1.xyz/live/A52FDC75/34X79X26/400227.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE | SERIEN",De: Nat Geo Wild 4K
-http://ktvn1.xyz/live/A52FDC75/34X79X26/400226.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE | SERIEN",De: Nat Geo Wild HD
-http://ktvn1.xyz/live/A52FDC75/34X79X26/400225.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE | SERIEN",De: Nat Geo 4K
-http://ktvn1.xyz/live/A52FDC75/34X79X26/400224.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE | SERIEN",De: Nat Geo HD
-http://ktvn1.xyz/live/A52FDC75/34X79X26/400223.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE | SERIEN",De: ZDF Info HD
-http://ktvn1.xyz/live/A52FDC75/34X79X26/400222.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DE | SERIEN",De: RFO
 http://ktvn1.xyz/live/A52FDC75/34X79X26/400221.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DE | SERIEN",De: Rbb HD
@@ -3066,20 +2996,12 @@ http://ktvn1.xyz/live/A52FDC75/34X79X26/400202.m3u8
 http://ktvn1.xyz/live/A52FDC75/34X79X26/400201.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DE | SERIEN",De: Kinowelt TV
 http://ktvn1.xyz/live/A52FDC75/34X79X26/400200.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE | SERIEN",De: Tele 5 4K
-http://ktvn1.xyz/live/A52FDC75/34X79X26/400199.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DE | SERIEN",De: Tele 5 HD
 http://ktvn1.xyz/live/A52FDC75/34X79X26/400198.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE | SERIEN",De: 13th Street 4K
-http://ktvn1.xyz/live/A52FDC75/34X79X26/400197.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DE | SERIEN",De: 13th Street HD
 http://ktvn1.xyz/live/A52FDC75/34X79X26/400196.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE | SERIEN",De: SYFY 4K
-http://ktvn1.xyz/live/A52FDC75/34X79X26/400195.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DE | SERIEN",De: SYFY HD
 http://ktvn1.xyz/live/A52FDC75/34X79X26/400194.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DE | SERIEN",De: Nitro 4K
-http://ktvn1.xyz/live/A52FDC75/34X79X26/400193.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DE | SERIEN",De: Nitro HD
 http://ktvn1.xyz/live/A52FDC75/34X79X26/400192.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DE | SERIEN",De: DMAX 4K
@@ -3804,6 +3726,36 @@ http://ktvn1.xyz/live/A52FDC75/34X79X26/357963.m3u8
 http://ktvn1.xyz/live/A52FDC75/34X79X26/106099.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/fr/Eurosport1.fr.png" group-title="EU BE | SPORT",[BE] EUROSPORT 2 ᶠʰᵈ
 http://ktvn1.xyz/live/A52FDC75/34X79X26/106098.m3u8
+
+# --- EU DE |  MUSIK (6) ---
+#EXTINF:-1 tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/bibeltvhd.png" group-title="EU DE |  MUSIK",(DE) Bibel TV Musik
+http://ktvn1.xyz/live/A52FDC75/34X79X26/440386.m3u8
+#EXTINF:-1 tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/mtvhd.png" group-title="EU DE |  MUSIK",(DE) MTV
+http://ktvn1.xyz/live/A52FDC75/34X79X26/440385.m3u8
+#EXTINF:-1 tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/mtvmusic24.png" group-title="EU DE |  MUSIK",(DE) MTV Music 24
+http://ktvn1.xyz/live/A52FDC75/34X79X26/440384.m3u8
+#EXTINF:-1 tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/deluxemusichdaustria.png" group-title="EU DE |  MUSIK",(DE) Deluxe Music
+http://ktvn1.xyz/live/A52FDC75/34X79X26/440383.m3u8
+#EXTINF:-1 tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/kronehit.png" group-title="EU DE |  MUSIK",(DE) Deluxe Dance
+http://ktvn1.xyz/live/A52FDC75/34X79X26/440382.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/Logo_Deutsches_Musik_Fernsehen.png" group-title="EU DE |  MUSIK",(DE) Deutsches Musik Fernsehen
+http://ktvn1.xyz/live/A52FDC75/34X79X26/440381.m3u8
+
+# --- EU DE | MARKTPLATZ  SHOPING (7) ---
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/1-2-3-tv9503.logowik.com.webp" group-title="EU DE | MARKTPLATZ  SHOPING",(DE) 1.2.3 TV
+http://ktvn1.xyz/live/A52FDC75/34X79X26/440393.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bibel_tv_hd.png/1280px-Bibel_tv_hd.png" group-title="EU DE | MARKTPLATZ  SHOPING",(DE) Bibel TV Impuls
+http://ktvn1.xyz/live/A52FDC75/34X79X26/440392.m3u8
+#EXTINF:-1 tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/hse24.png" group-title="EU DE | MARKTPLATZ  SHOPING",(DE) HSE24
+http://ktvn1.xyz/live/A52FDC75/34X79X26/440391.m3u8
+#EXTINF:-1 tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/hse24extra.png" group-title="EU DE | MARKTPLATZ  SHOPING",(DE) HSE24 Extra
+http://ktvn1.xyz/live/A52FDC75/34X79X26/440390.m3u8
+#EXTINF:-1 tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/qvcstyle.png" group-title="EU DE | MARKTPLATZ  SHOPING",(DE) QVC Style
+http://ktvn1.xyz/live/A52FDC75/34X79X26/440389.m3u8
+#EXTINF:-1 tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/QVC-HD.png" group-title="EU DE | MARKTPLATZ  SHOPING",(DE) QVC ONE
+http://ktvn1.xyz/live/A52FDC75/34X79X26/440388.m3u8
+#EXTINF:-1 tvg-logo="http://pngpicdlogo.xyz/logos/picons/logos/QVC-HD.png" group-title="EU DE | MARKTPLATZ  SHOPING",(DE) QVC Zwei
+http://ktvn1.xyz/live/A52FDC75/34X79X26/440387.m3u8
 
 # --- EU DE | NEWS (6) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Tagesschau24HD.svg/960px-Tagesschau24HD.svg.png" group-title="EU DE | NEWS",DE | Tagesschau 24 HD
@@ -8281,4 +8233,4 @@ http://ktvn1.xyz/live/A52FDC75/34X79X26/346609.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/RTP1_-_Logo_2016.svg/512px-RTP1_-_Logo_2016.svg.png" group-title="Unknown",|PT| RTP 1 HD
 http://ktvn1.xyz/live/A52FDC75/34X79X26/143527.m3u8
 
-# Total: 3996
+# Total: 3972

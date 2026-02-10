@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: solution62000.mine.nu:8000
-# Generated: 2026-02-09 18:47:33
+# Generated: 2026-02-10 07:32:52
 # Expires: 2026-12-19
 # Family Safe Edition
 # ==============================================
@@ -1085,7 +1085,7 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/7300.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wkUCQaXIc9qkqplDJZIuxRHLQNq.jpg" group-title="Movies | FILMS TURK",Malazgirt 1071 - 2022
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/5531.mp4
 
-# --- Movies | Films (1450) ---
+# --- Movies | Films (1451) ---
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4tHLlFdmKuHvwN8MKXYEFodvhpD.jpg" group-title="Movies | Films",Cleaner (2026)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/22650.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hluMzOgA98EXRRyc7qcXW3UgkO5.jpg" group-title="Movies | Films",Twisted (2026)
@@ -1096,6 +1096,8 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/21982.mkv
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/21981.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/27j9fRcvtaskGPsuHXvVTAi1fEc.jpg" group-title="Movies | Films",The Internship (2026)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/21941.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pYiXW8mAW4D5FpjHuoemJQXSAYt.jpg" group-title="Movies | Films",Dust Bunny (2025)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/22651.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bTXovtY1XO4Tol95fIPmXkRtfXd.jpg" group-title="Movies | Films",C'était mieux demain (2025)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/22649.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5DL3E6vJZrmFA0myePQa1GoFBQg.jpg" group-title="Movies | Films",Raqqa (2025)
@@ -6735,7 +6737,7 @@ http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/356
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Tunisienne",2024 - نهار على عمار
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/371
 
-# --- Series | Series Turk (60) ---
+# --- Series | Series Turk (61) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Turk",نهضة السلاجقة العظمى
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/67
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Turk",الخياط
@@ -6856,8 +6858,10 @@ http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/969
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/981
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Turk",( 2025 ) مدبلج - Arafta الاعراف
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/982
+#EXTINF:-1 tvg-logo="" group-title="Series | Series Turk",( 2026 )  مترجم - اخي - A.B.İ.
+http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/992
 
-# --- Series | Series divers (251) ---
+# --- Series | Series divers (253) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Salvation
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/5
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Gomorra
@@ -7360,5 +7364,9 @@ http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/980
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/986
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Vaka - Les Éveillés
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/987
+#EXTINF:-1 tvg-logo="" group-title="Series | Series divers",All Her Fault
+http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/990
+#EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Vanished
+http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/991
 
-# Total: 3648
+# Total: 3652

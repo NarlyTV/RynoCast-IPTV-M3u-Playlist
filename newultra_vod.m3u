@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: newultra.xyz:8080
-# Generated: 2026-02-09 18:52:39
+# Generated: 2026-02-10 07:31:22
 # Expires: 2026-07-28
 # Family Safe Edition
 # ==============================================
@@ -495,7 +495,9 @@ http://newultra.xyz:8080/movie/998017491tv/x3jt5v/249360.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hlJKvYdKJJeWoKeNNs1Fom1chIz.jpg" group-title="Movies | → VOD 4K ←",¡Nop! (2022) 4K
 http://newultra.xyz:8080/movie/998017491tv/x3jt5v/249361.mkv
 
-# --- Movies | → VOD ACCIÓN ← (413) ---
+# --- Movies | → VOD ACCIÓN ← (414) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wqwDKolEd9lhrPGWwqTCpwJc2aT.jpg" group-title="Movies | → VOD ACCIÓN ←",Proyecto Extraccion
+http://newultra.xyz:8080/movie/998017491tv/x3jt5v/279939.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d7APW2AfqUxIkEXZWllaWQRYixD.jpg" group-title="Movies | → VOD ACCIÓN ←",El Panadero
 http://newultra.xyz:8080/movie/998017491tv/x3jt5v/279905.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nXw8hYk0z7VgryoaUN3ApjcOoze.jpg" group-title="Movies | → VOD ACCIÓN ←",Zona Prohibida
@@ -7781,7 +7783,9 @@ http://newultra.xyz:8080/movie/998017491tv/x3jt5v/264132.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/653f71ff727df0001a9b753d/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Movies | → VOD DOCUMENTALES CASTELLANO ←",Fotografías Auténticas de un Extraterrestre: El Caso Caponi
 http://newultra.xyz:8080/movie/998017491tv/x3jt5v/264133.m3u8
 
-# --- Movies | → VOD DOCUMENTALES ← (56) ---
+# --- Movies | → VOD DOCUMENTALES ← (57) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ag5TZNcK3vHdCCpZIY8syjwzgfr.jpg" group-title="Movies | → VOD DOCUMENTALES ←",La Reina del Ajedrez (2026)
+http://newultra.xyz:8080/movie/998017491tv/x3jt5v/279941.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qz0EgfYwfrqhC2yTIqNkSY4P2Jo.jpg" group-title="Movies | → VOD DOCUMENTALES ←",Depeche Mode: M (2025)
 http://newultra.xyz:8080/movie/998017491tv/x3jt5v/279296.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x9DGdhgLONrgp4h36DpeWTCPsTO.jpg" group-title="Movies | → VOD DOCUMENTALES ←",Soy Eddie (2025)
@@ -11681,7 +11685,7 @@ http://newultra.xyz:8080/movie/998017491tv/x3jt5v/3327.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b5Jb7GoQaqIXy4VEdnQa0UrQZI.jpg" group-title="Movies | → VOD ESTRENOS 2022 ←",El Gato con Botas: El último deseo (2022)
 http://newultra.xyz:8080/movie/998017491tv/x3jt5v/3328.mkv
 
-# --- Movies | → VOD ESTRENOS 2023 ← (382) ---
+# --- Movies | → VOD ESTRENOS 2023 ← (381) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k6MgeIWontRgJJSO2tnziEnpOfW.jpg" group-title="Movies | → VOD ESTRENOS 2023 ←",Atraco 88
 http://newultra.xyz:8080/movie/998017491tv/x3jt5v/251838.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lHLVcHGky7KQthqe2Wsrmv2AeKS.jpg" group-title="Movies | → VOD ESTRENOS 2023 ←",El Secuestro del Papa
@@ -12400,8 +12404,6 @@ http://newultra.xyz:8080/movie/998017491tv/x3jt5v/61209.mkv
 http://newultra.xyz:8080/movie/998017491tv/x3jt5v/61210.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2jJmENKX5G72JRAmIdEPPmzosT2.jpg" group-title="Movies | → VOD ESTRENOS 2023 ←",El pequeño golpe del Gran Nunu (2023)
 http://newultra.xyz:8080/movie/998017491tv/x3jt5v/61270.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wqwDKolEd9lhrPGWwqTCpwJc2aT.jpg" group-title="Movies | → VOD ESTRENOS 2023 ←",Proyecto Extracción (2023)
-http://newultra.xyz:8080/movie/998017491tv/x3jt5v/61271.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u0OMTZrva4WKZ2SmoNYI8eVDTkd.jpg" group-title="Movies | → VOD ESTRENOS 2023 ←",Miraculous: Las aventuras de Ladybug - La película (2023)
 http://newultra.xyz:8080/movie/998017491tv/x3jt5v/61272.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/btBF02RQyUCKfY1N0U3lBQEJaS2.jpg" group-title="Movies | → VOD ESTRENOS 2023 ←",La fiebre de los peluches Beanie (2023)
@@ -13271,7 +13273,9 @@ http://newultra.xyz:8080/movie/998017491tv/x3jt5v/75434.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9RrMfaCYdsdNdRNUAR3TY0DvNV2.jpg" group-title="Movies | → VOD ESTRENOS 2024 ←",Bosco (2024)
 http://newultra.xyz:8080/movie/998017491tv/x3jt5v/75435.mkv
 
-# --- Movies | → VOD ESTRENOS 2025 ← (276) ---
+# --- Movies | → VOD ESTRENOS 2025 ← (277) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hIMSCqvN803aLUUOshO3m9MRAZO.jpg" group-title="Movies | → VOD ESTRENOS 2025 ←",Memorias de un Verano (2025)
+http://newultra.xyz:8080/movie/998017491tv/x3jt5v/279942.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4XpYp1yrNI49OY8lz4qZuI7baeQ.jpg" group-title="Movies | → VOD ESTRENOS 2025 ←",96 Minutos (2025)
 http://newultra.xyz:8080/movie/998017491tv/x3jt5v/279906.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/LrMBxFwnsMgXTnaWqHYinn3vDN.jpg" group-title="Movies | → VOD ESTRENOS 2025 ←",Zootopia 2 (2025)
@@ -18599,7 +18603,7 @@ http://newultra.xyz:8080/series/998017491tv/x3jt5v/2499
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DOCUMENTALES ←",MARINES
 http://newultra.xyz:8080/series/998017491tv/x3jt5v/2502
 
-# --- Series | → SERIES DRAMA ← (295) ---
+# --- Series | → SERIES DRAMA ← (296) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DRAMA ←",4 Blocks
 http://newultra.xyz:8080/series/998017491tv/x3jt5v/7
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DRAMA ←",Por trece razones
@@ -19190,6 +19194,8 @@ http://newultra.xyz:8080/series/998017491tv/x3jt5v/2525
 http://newultra.xyz:8080/series/998017491tv/x3jt5v/2529
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DRAMA ←",Las Leonas
 http://newultra.xyz:8080/series/998017491tv/x3jt5v/2533
+#EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DRAMA ←",Belleza Perfecta
+http://newultra.xyz:8080/series/998017491tv/x3jt5v/2535
 
 # --- Series | → SERIES INFANTILES ← (44) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES INFANTILES ←",¡La serie de Cuphead!
@@ -19699,4 +19705,4 @@ http://newultra.xyz:8080/series/998017491tv/x3jt5v/2345
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES TERROR-THRILLER-SUSPENSO ←",It: Bienvenidos a Derry
 http://newultra.xyz:8080/series/998017491tv/x3jt5v/2492
 
-# Total: 9773
+# Total: 9776
