@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: iptv.darktv.eu:25461
-# Generated: 2026-02-12 18:51:54
+# Generated: 2026-02-13 07:24:09
 # Expires: 2026-04-01
 # Family Safe Edition
 # ==============================================
@@ -2421,6 +2421,28 @@ http://iptv.darktv.eu:25461/live/AkgunToprak/f4ffhAAN/182613.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="NL - KİDS",(NL) ⁷-²⁴ Thomas de Stoomlocomotief
 http://iptv.darktv.eu:25461/live/AkgunToprak/f4ffhAAN/182617.m3u8
 
+# --- NL - MILANO CORTINA 2026 (10) ---
+#EXTINF:-1 tvg-logo="" group-title="NL - MILANO CORTINA 2026",(NL) Eurosport Extra 1
+http://iptv.darktv.eu:25461/live/AkgunToprak/f4ffhAAN/276325.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NL - MILANO CORTINA 2026",(NL) Eurosport Extra 2
+http://iptv.darktv.eu:25461/live/AkgunToprak/f4ffhAAN/276324.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NL - MILANO CORTINA 2026",(NL) Eurosport Extra 3
+http://iptv.darktv.eu:25461/live/AkgunToprak/f4ffhAAN/276323.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NL - MILANO CORTINA 2026",(NL) Eurosport Extra 4
+http://iptv.darktv.eu:25461/live/AkgunToprak/f4ffhAAN/276322.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NL - MILANO CORTINA 2026",(NL) Eurosport Extra 5
+http://iptv.darktv.eu:25461/live/AkgunToprak/f4ffhAAN/276321.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NL - MILANO CORTINA 2026",(NL) Eurosport Extra 6
+http://iptv.darktv.eu:25461/live/AkgunToprak/f4ffhAAN/276320.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NL - MILANO CORTINA 2026",(NL) Eurosport Extra 7
+http://iptv.darktv.eu:25461/live/AkgunToprak/f4ffhAAN/276319.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NL - MILANO CORTINA 2026",(NL) Eurosport Extra 8
+http://iptv.darktv.eu:25461/live/AkgunToprak/f4ffhAAN/276318.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NL - MILANO CORTINA 2026",(NL) Eurosport Extra 9
+http://iptv.darktv.eu:25461/live/AkgunToprak/f4ffhAAN/276317.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NL - MILANO CORTINA 2026",(NL) Eurosport Extra 10
+http://iptv.darktv.eu:25461/live/AkgunToprak/f4ffhAAN/276316.m3u8
+
 # --- NL - MUZIEK (13) ---
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="NL - MUZIEK",(NL) Slam! TV
 http://iptv.darktv.eu:25461/live/AkgunToprak/f4ffhAAN/3103.m3u8
@@ -3334,7 +3356,7 @@ http://iptv.darktv.eu:25461/live/AkgunToprak/f4ffhAAN/114630.m3u8
 http://iptv.darktv.eu:25461/live/AkgunToprak/f4ffhAAN/2881.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/ssporttr.png" group-title="TR - SPOR",(TR) Saran Sport 2 4K
 http://iptv.darktv.eu:25461/live/AkgunToprak/f4ffhAAN/52533.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/ssporttr.png" group-title="TR - SPOR",(TR) S Sport Plus HD+
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/ssporttr.png" group-title="TR - SPOR",(TR) S Sport Plus 4K
 http://iptv.darktv.eu:25461/live/AkgunToprak/f4ffhAAN/193345.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/ssporttr.png" group-title="TR - SPOR",(TR) S Sport 1 4K
 http://iptv.darktv.eu:25461/live/AkgunToprak/f4ffhAAN/80320.m3u8
@@ -4203,4 +4225,4 @@ http://iptv.darktv.eu:25461/live/AkgunToprak/f4ffhAAN/16560.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Unknown",(TR) - DARK TRT FM
 http://iptv.darktv.eu:25461/live/AkgunToprak/f4ffhAAN/8056.m3u8
 
-# Total: 2028
+# Total: 2038

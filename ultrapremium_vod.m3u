@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: ultrapremium.cloud:8080
-# Generated: 2026-02-12 18:53:43
+# Generated: 2026-02-13 07:31:19
 # Expires: 2026-10-18
 # Family Safe Edition
 # ==============================================
@@ -13833,7 +13833,9 @@ http://ultrapremium.cloud:8080/movie/995138256tv/wiwos69/268771.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9yBW60Pm0eeXsKeiZMvMolCuhyU.jpg" group-title="Movies | → VOD ESTRENOS 2025 ←",Ad Vitam (2025)
 http://ultrapremium.cloud:8080/movie/995138256tv/wiwos69/268613.mp4
 
-# --- Movies | → VOD ESTRENOS 2026 ← (4) ---
+# --- Movies | → VOD ESTRENOS 2026 ← (5) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qhJDrPqvw8Dopwc11pCkrGgfhy.jpg" group-title="Movies | → VOD ESTRENOS 2026 ←",Primate (2026)
+http://ultrapremium.cloud:8080/movie/995138256tv/wiwos69/279981.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uoFJ6nGGvf8moZGpharm8Qyrpzm.jpg" group-title="Movies | → VOD ESTRENOS 2026 ←",El Día Del Fin Del Mundo: Migración (2026)
 http://ultrapremium.cloud:8080/movie/995138256tv/wiwos69/279705.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pG39vgTEhHeYIlcPJtHpxNLdPPM.jpg" group-title="Movies | → VOD ESTRENOS 2026 ←",Equipo Demolición (2026)
@@ -19711,4 +19713,4 @@ http://ultrapremium.cloud:8080/series/995138256tv/wiwos69/2345
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES TERROR-THRILLER-SUSPENSO ←",It: Bienvenidos a Derry
 http://ultrapremium.cloud:8080/series/995138256tv/wiwos69/2492
 
-# Total: 9779
+# Total: 9780

@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: lemon.catchmeifyo.com:8000
-# Generated: 2026-02-12 18:53:11
+# Generated: 2026-02-13 07:30:38
 # Expires: 2026-04-05
 # Family Safe Edition
 # ==============================================
@@ -8483,7 +8483,7 @@ http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/190540.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eLf4jclPijOqfEp6bDAmezRFxk5.jpg" group-title="Movies | Drama",Romeo + Juliet (1996)
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/190857.mkv
 
-# --- Movies | F1 RACES (8) ---
+# --- Movies | F1 RACES (9) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | F1 RACES",F1 Races 2021
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/961.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | F1 RACES",F1 Races 2022
@@ -8500,6 +8500,8 @@ http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/2648.mp4
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/3158.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | F1 RACES",F1 1994-2017
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/3628.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | F1 RACES",F1 Races 2026
+http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/3645.mp4
 
 # --- Movies | Familie / Family (132) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ljxeeVQJra8O4slFsmmnf5NgFx4.jpg" group-title="Movies | Familie / Family",Noelle
@@ -22357,4 +22359,4 @@ http://lemon.catchmeifyo.com:8000/series/4914756410/8072556864/2750
 #EXTINF:-1 tvg-logo="" group-title="Series | NL GESPROKEN SERIES",The Hunt (Een van Ons)
 http://lemon.catchmeifyo.com:8000/series/4914756410/8072556864/2751
 
-# Total: 11123
+# Total: 11124
