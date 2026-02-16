@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: premiumstvs.net:8080
-# Generated: 2026-02-15 18:41:56
+# Generated: 2026-02-16 07:33:23
 # Expires: 2026-02-22
 # Family Safe Edition
 # ==============================================
@@ -2981,7 +2981,13 @@ http://premiumstvs.net:8080/movie/khFzEWQn/fP85XcC7E/83917.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/6oH378KUfCEitzJkm07r97L0RsZ.jpg" group-title="Movies | Filma Te Dubluar Në Shqip Për Femijë",Elementet - Dubluar në Shqip 2023
 http://premiumstvs.net:8080/movie/khFzEWQn/fP85XcC7E/83914.mp4
 
-# --- Movies | Filma Te Fundit Me Titra Shqip (1200) ---
+# --- Movies | Filma Te Fundit Me Titra Shqip (1203) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q2kIq9yzEkOVhl1aeo0alJHtdfz.jpg" group-title="Movies | Filma Te Fundit Me Titra Shqip",Triple 9 (2016)
+http://premiumstvs.net:8080/movie/khFzEWQn/fP85XcC7E/115585.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xiWX2BWm95IyL4CSa5p0Q450t54.jpg" group-title="Movies | Filma Te Fundit Me Titra Shqip",He Who Dares (2014)
+http://premiumstvs.net:8080/movie/khFzEWQn/fP85XcC7E/115584.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pHpq9yNUIo6aDoCXEBzjSolywgz.jpg" group-title="Movies | Filma Te Fundit Me Titra Shqip",Predator: Badlands (2025)
+http://premiumstvs.net:8080/movie/khFzEWQn/fP85XcC7E/115583.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/bRBeSHfGHwkEpImlhxPmOcUsaeg.jpg" group-title="Movies | Filma Te Fundit Me Titra Shqip",Avatar: Fire and Ash (2025)
 http://premiumstvs.net:8080/movie/khFzEWQn/fP85XcC7E/115527.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/y6HUdcc1cRLU0EuIhexsqZeZUOw.jpg" group-title="Movies | Filma Te Fundit Me Titra Shqip",Shelter (2026) - ! Kamer !
@@ -12321,4 +12327,4 @@ http://premiumstvs.net:8080/series/khFzEWQn/fP85XcC7E/248
 #EXTINF:-1 tvg-logo="" group-title="Series | Netflix Series",Squid Game: The Challenge
 http://premiumstvs.net:8080/series/khFzEWQn/fP85XcC7E/247
 
-# Total: 6127
+# Total: 6130

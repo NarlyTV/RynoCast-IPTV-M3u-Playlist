@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: cms.weltiptv.com:8000
-# Generated: 2026-02-15 18:38:18
+# Generated: 2026-02-16 07:30:10
 # Expires: 2026-02-16
 # Family Safe Edition
 # ==============================================
@@ -2143,7 +2143,7 @@ http://cms.weltiptv.com:8000/movie/hVTQBPN8sG/UxLLyQjNzf/55788.
 #EXTINF:-1 tvg-logo="None" group-title="Movies | Kemal Sunal Filmleri",iyi aile cocugu 1978
 http://cms.weltiptv.com:8000/movie/hVTQBPN8sG/UxLLyQjNzf/55789.mkv
 
-# --- Movies | Konusanlar (196) ---
+# --- Movies | Konusanlar (199) ---
 #EXTINF:-1 tvg-logo="None" group-title="Movies | Konusanlar",Konusanlar S01E01
 http://cms.weltiptv.com:8000/movie/hVTQBPN8sG/UxLLyQjNzf/55474.mkv
 #EXTINF:-1 tvg-logo="None" group-title="Movies | Konusanlar",Konusanlar S01E02
@@ -2536,6 +2536,12 @@ http://cms.weltiptv.com:8000/movie/hVTQBPN8sG/UxLLyQjNzf/62550.mkv
 http://cms.weltiptv.com:8000/movie/hVTQBPN8sG/UxLLyQjNzf/62551.mkv
 #EXTINF:-1 tvg-logo="None" group-title="Movies | Konusanlar",Konusanlar S01E16
 http://cms.weltiptv.com:8000/movie/hVTQBPN8sG/UxLLyQjNzf/62552.mkv
+#EXTINF:-1 tvg-logo="None" group-title="Movies | Konusanlar",Konusanlar S01E17
+http://cms.weltiptv.com:8000/movie/hVTQBPN8sG/UxLLyQjNzf/62575.mkv
+#EXTINF:-1 tvg-logo="None" group-title="Movies | Konusanlar",Konusanlar S01E18
+http://cms.weltiptv.com:8000/movie/hVTQBPN8sG/UxLLyQjNzf/62576.mkv
+#EXTINF:-1 tvg-logo="None" group-title="Movies | Konusanlar",Konusanlar S01E19
+http://cms.weltiptv.com:8000/movie/hVTQBPN8sG/UxLLyQjNzf/62577.mkv
 
 # --- Movies | Mahsun J (14) ---
 #EXTINF:-1 tvg-logo="None" group-title="Movies | Mahsun J",Mahsun J S01E01
@@ -3261,4 +3267,4 @@ http://cms.weltiptv.com:8000/movie/hVTQBPN8sG/UxLLyQjNzf/55658.mkv
 #EXTINF:-1 tvg-logo="None" group-title="Movies | iBrahimTatlises Filmleri",Yıkılmısım Ben
 http://cms.weltiptv.com:8000/movie/hVTQBPN8sG/UxLLyQjNzf/55659.mkv
 
-# Total: 1609
+# Total: 1612

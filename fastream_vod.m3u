@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: fastream.xyz:8080
-# Generated: 2026-02-15 18:40:40
+# Generated: 2026-02-16 07:22:30
 # Expires: 2026-10-20
 # Family Safe Edition
 # ==============================================
@@ -13275,7 +13275,7 @@ http://fastream.xyz:8080/movie/940246862tv/12ws79/75434.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9RrMfaCYdsdNdRNUAR3TY0DvNV2.jpg" group-title="Movies | → VOD ESTRENOS 2024 ←",Bosco (2024)
 http://fastream.xyz:8080/movie/940246862tv/12ws79/75435.mkv
 
-# --- Movies | → VOD ESTRENOS 2025 ← (277) ---
+# --- Movies | → VOD ESTRENOS 2025 ← (278) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hIMSCqvN803aLUUOshO3m9MRAZO.jpg" group-title="Movies | → VOD ESTRENOS 2025 ←",Memorias de un Verano (2025)
 http://fastream.xyz:8080/movie/940246862tv/12ws79/279942.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4XpYp1yrNI49OY8lz4qZuI7baeQ.jpg" group-title="Movies | → VOD ESTRENOS 2025 ←",96 Minutos (2025)
@@ -13830,8 +13830,12 @@ http://fastream.xyz:8080/movie/940246862tv/12ws79/268779.mp4
 http://fastream.xyz:8080/movie/940246862tv/12ws79/268771.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9yBW60Pm0eeXsKeiZMvMolCuhyU.jpg" group-title="Movies | → VOD ESTRENOS 2025 ←",Ad Vitam (2025)
 http://fastream.xyz:8080/movie/940246862tv/12ws79/268613.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hHvNNxbg5kU0jhsTrsef2oR80yR.jpg" group-title="Movies | → VOD ESTRENOS 2025 ←",Un Buen Ladron (2025)
+http://fastream.xyz:8080/movie/940246862tv/12ws79/279984.mp4
 
-# --- Movies | → VOD ESTRENOS 2026 ← (5) ---
+# --- Movies | → VOD ESTRENOS 2026 ← (6) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6nTqw569IFEZtCMKaRYPH2vnEzG.jpg" group-title="Movies | → VOD ESTRENOS 2026 ←",Ahí estoy yo (2026)
+http://fastream.xyz:8080/movie/940246862tv/12ws79/279983.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qhJDrPqvw8Dopwc11pCkrGgfhy.jpg" group-title="Movies | → VOD ESTRENOS 2026 ←",Primate (2026)
 http://fastream.xyz:8080/movie/940246862tv/12ws79/279981.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uoFJ6nGGvf8moZGpharm8Qyrpzm.jpg" group-title="Movies | → VOD ESTRENOS 2026 ←",El Día Del Fin Del Mundo: Migración (2026)
@@ -19711,4 +19715,4 @@ http://fastream.xyz:8080/series/940246862tv/12ws79/2345
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES TERROR-THRILLER-SUSPENSO ←",It: Bienvenidos a Derry
 http://fastream.xyz:8080/series/940246862tv/12ws79/2492
 
-# Total: 9779
+# Total: 9781

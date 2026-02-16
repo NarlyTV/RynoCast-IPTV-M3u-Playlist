@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: blackiptv.net:8080
-# Generated: 2026-02-15 18:47:50
+# Generated: 2026-02-16 07:32:08
 # Expires: 2026-12-21
 # Family Safe Edition
 # ==============================================
@@ -465,13 +465,15 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/35623.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ALL COUNTRY MUSIC",*****ALL SERIES*****
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/25126.m3u8
 
-# --- ALL COUNTRY SPORTS (230) ---
+# --- ALL COUNTRY SPORTS (240) ---
 #EXTINF:-1 tvg-logo="" group-title="ALL COUNTRY SPORTS",MAR: Arryadia SPORT
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/1037.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ALL COUNTRY SPORTS",BRA: RS News Sports 1 Live
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/1971.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ALL COUNTRY SPORTS",BIH: ARENA SPORT 1
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/56643.m3u8
+#EXTINF:-1 tvg-logo="http://195.211.191.31:808/logo/logo_1/EUROPE/POLONIA/Polsat_Sport_Premium_2_Poziome_2021.svg.png" group-title="ALL COUNTRY SPORTS",PL: POLSAT SPORT PREMIUM 2HD
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/21262.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ALL COUNTRY SPORTS",*****OTHER SPORT*****
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/18801.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ALL COUNTRY SPORTS",ITA: TR SPORT
@@ -688,12 +690,30 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/29933.m3u8
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/29934.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ALL COUNTRY SPORTS",PT: ELEVEN SPORT 6 HD
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/29936.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ALL COUNTRY SPORTS",PL: Polsat Sport HD
-http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/21274.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ALL COUNTRY SPORTS",PL: TVP SPORT POLSKA
-http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/47425.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ALL COUNTRY SPORTS",PL: POLSAT SPORT PREMIUM 1
+#EXTINF:-1 tvg-logo="http://195.211.191.31:808/logo/logo_1/EUROPE/POLONIA/POLSATSPORT.png" group-title="ALL COUNTRY SPORTS",PL: POLSAT SPORT
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/21227.m3u8
+#EXTINF:-1 tvg-logo="http://195.211.191.31:808/logo/logo_1/EUROPE/POLONIA/TVPSPORT.png" group-title="ALL COUNTRY SPORTS",PL: TVP SPORT
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/47425.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ALL COUNTRY SPORTS",PL: FIGHT KLUB HD
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/67204.m3u8
+#EXTINF:-1 tvg-logo="http://195.211.191.31:808/logo/logo_1/EUROPE/POLONIA/FIGHTBOXHD.png" group-title="ALL COUNTRY SPORTS",PL: FIGHT BOX HD
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/67203.m3u8
+#EXTINF:-1 tvg-logo="http://195.211.191.31:808/logo/logo_1/EUROPE/POLONIA/SPORTKLUBHD.png" group-title="ALL COUNTRY SPORTS",PL: SPORTKLUB HD
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/67202.m3u8
+#EXTINF:-1 tvg-logo="http://195.211.191.31:808/logo/logo_1/EUROPE/POLONIA/Extreme_Sports.png" group-title="ALL COUNTRY SPORTS",PL: EXTREME SPORTS
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/67201.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/1920px-Eurosport_1_Logo_2015.svg.png" group-title="ALL COUNTRY SPORTS",PL: EUROSPORT 1HD
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/67199.m3u8
+#EXTINF:-1 tvg-logo="http://195.211.191.31:808/logo/logo_1/EUROPE/POLONIA/eurosport-2-logo-vector.png" group-title="ALL COUNTRY SPORTS",PL: EUROSPORT 2HD
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/67200.m3u8
+#EXTINF:-1 tvg-logo="http://195.211.191.31:808/logo/logo_1/EUROPE/POLONIA/POLSATSPORTEXTRA.png" group-title="ALL COUNTRY SPORTS",PL: POLSAT SPORT EXTRA
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/67198.m3u8
+#EXTINF:-1 tvg-logo="http://195.211.191.31:808/logo/logo_1/EUROPE/POLONIA/POLSATSPORTFIGHT.png" group-title="ALL COUNTRY SPORTS",PL: POLSAT SPORT FIGHT
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/67196.m3u8
+#EXTINF:-1 tvg-logo="http://195.211.191.31:808/logo/logo_1/EUROPE/POLONIA/Polsat_Sport_Premium_1_Poziome_2021.svg.png" group-title="ALL COUNTRY SPORTS",PL: POLSAT SPORT PREMIUM 1HD
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/21274.m3u8
+#EXTINF:-1 tvg-logo="https://www.shareicon.net/data/256x256/2015/07/23/73801_flag_256x256.png" group-title="ALL COUNTRY SPORTS",PL: POLSAT SPORT NEWS
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/67197.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ALL COUNTRY SPORTS",PL: ELEVEN SPORT 1 HD
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/47447.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ALL COUNTRY SPORTS",PL: ELEVEN SPORT 2 HD
@@ -2929,7 +2949,7 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/57505.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PERSIANA MEDIA GROUP",IRAN: Persiana 4Kurd HD
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/57506.m3u8
 
-# --- POLEN (50) ---
+# --- POLEN (49) ---
 #EXTINF:-1 tvg-logo="" group-title="POLEN",*****POLAND*****
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/21276.m3u8
 #EXTINF:-1 tvg-logo="" group-title="POLEN",PL: TVN HD
@@ -3018,8 +3038,6 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/21256.m3u8
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/21257.m3u8
 #EXTINF:-1 tvg-logo="" group-title="POLEN",PL: Polsat Film HD
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/21258.m3u8
-#EXTINF:-1 tvg-logo="" group-title="POLEN",PL: Polsat Sport Premium 2 HD
-http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/21262.m3u8
 #EXTINF:-1 tvg-logo="" group-title="POLEN",PL: Polsat Viasat Nature
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/21264.m3u8
 #EXTINF:-1 tvg-logo="" group-title="POLEN",PL: Fox HD
@@ -5931,4 +5949,4 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/43244.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Unknown",TR RADYO: ANKARA RADYO
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/43245.m3u8
 
-# Total: 2905
+# Total: 2914

@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: exclusifott.pro:80
-# Generated: 2026-02-15 18:46:35
+# Generated: 2026-02-16 07:27:28
 # Expires: 2026-05-21
 # Family Safe Edition
 # ==============================================
@@ -5887,7 +5887,7 @@ http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/1077220.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/mvCZY9Br5Jw5LNeKtQ5Z5UcY7AL.jpg" group-title="Movies | NETFLIX MOVIES",D+ - George Of The Jungle 2 (2003)
 http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/111851.mp4
 
-# --- Movies | TOP IMDB/OSCAR MOVIES (161) ---
+# --- Movies | TOP IMDB/OSCAR MOVIES (160) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gI3GututWWGw3P6MPEPxydv287q.jpg" group-title="Movies | TOP IMDB/OSCAR MOVIES",EN - Before Sunrise (1995)
 http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/1952862.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7BSPm4Rv5seEt91V2mwNMkwFSRi.jpg" group-title="Movies | TOP IMDB/OSCAR MOVIES",EN - Munich (2005)
@@ -6190,8 +6190,6 @@ http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/735771.mkv
 http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/735207.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jQ0gylJMxWSL490sy0RrPj1Lj7e.jpg" group-title="Movies | TOP IMDB/OSCAR MOVIES",EN - The Whale (2022)
 http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/1128403.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eIEmSJRKe8Vn9iWcFypvbeyQaZZ.jpg" group-title="Movies | TOP IMDB/OSCAR MOVIES",EN - They Live (1988)
-http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/735211.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fIY5xko6dJOcn0hckudIhPXobve.jpg" group-title="Movies | TOP IMDB/OSCAR MOVIES",EN - Together (2000)
 http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/735776.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wVbeL6fkbTKSmNfalj4VoAUUqJv.jpg" group-title="Movies | TOP IMDB/OSCAR MOVIES",EN - Total Recall (1990)
@@ -18099,4 +18097,4 @@ http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/35745
 #EXTINF:-1 tvg-logo="" group-title="Series | |RO| ROMANIAN SERIES",RO - Resident Evil: Infinite Darkness (2021)
 http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/35746
 
-# Total: 9002
+# Total: 9001

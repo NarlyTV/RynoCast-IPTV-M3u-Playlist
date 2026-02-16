@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: alienstreams.fi:8080
-# Generated: 2026-02-15 18:36:16
+# Generated: 2026-02-16 07:21:30
 # Expires: 2026-12-29
 # Family Safe Edition
 # ==============================================
@@ -15782,8 +15782,6 @@ http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/403218
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/403275
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Devils
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/403287
-#EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Doctor Cha
-http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/404181
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Familier som vores
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/404184
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",The Playlist
@@ -16712,6 +16710,8 @@ http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/404161
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/404165
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",The Morning Show
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/404180
+#EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Doctor Cha
+http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/404181
 
 # --- Series | English [Series] (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | English [Series]",Sugar
@@ -17510,8 +17510,8 @@ http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/404970
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/404976
 #EXTINF:-1 tvg-logo="" group-title="Series | Norska Serier [Series]",Oljefondet
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/404979
-#EXTINF:-1 tvg-logo="" group-title="Series | Norska Serier [Series]",Fiskekrigen
-http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/404994
+#EXTINF:-1 tvg-logo="" group-title="Series | Norska Serier [Series]",Dag
+http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/404993
 #EXTINF:-1 tvg-logo="" group-title="Series | Norska Serier [Series]",Ammo
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/405003
 #EXTINF:-1 tvg-logo="" group-title="Series | Norska Serier [Series]",Sommerhytta
@@ -17552,8 +17552,8 @@ http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/403216
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/405240
 #EXTINF:-1 tvg-logo="" group-title="Series | Norska Serier [Series]",#Ridderreiser – Til minne om Johan
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/405279
-#EXTINF:-1 tvg-logo="" group-title="Series | Norska Serier [Series]",Dag
-http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/404993
+#EXTINF:-1 tvg-logo="" group-title="Series | Norska Serier [Series]",Fiskekrigen
+http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/404994
 #EXTINF:-1 tvg-logo="" group-title="Series | Norska Serier [Series]",Furia
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/403281
 #EXTINF:-1 tvg-logo="" group-title="Series | Norska Serier [Series]",Kampen om tungtvannet
@@ -18293,7 +18293,9 @@ http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/405122
 #EXTINF:-1 tvg-logo="" group-title="Series | Sports[Series]",Startelvan
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/403526
 
-# --- Series | Svenska Serier [Series] (280) ---
+# --- Series | Svenska Serier [Series] (281) ---
+#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Dolph and the Lundgrens
+http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/494583
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Farmen
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/492705
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Torpet
@@ -18909,4 +18911,4 @@ http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/475290
 #EXTINF:-1 tvg-logo="" group-title="Series | Western [Series]",How the West Was Won
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/459987
 
-# Total: 9395
+# Total: 9396
