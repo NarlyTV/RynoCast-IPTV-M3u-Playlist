@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: funmitra.com:8080
-# Generated: 2026-02-17 07:21:11
+# Generated: 2026-02-17 18:45:27
 # Expires: 2026-04-30
 # Family Safe Edition
 # ==============================================
@@ -4059,7 +4059,7 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/11231.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Eski Diziler",(TR-) Bereketli Topraklar
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/11284.mp4
 
-# --- Movies | (S|TR) Yabanci Diziler (1022) ---
+# --- Movies | (S|TR) Yabanci Diziler (1023) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) Mars
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/313.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) 1983
@@ -6104,6 +6104,8 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/11940.mp4
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/11941.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) The Art Of Sarah
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/11944.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yabanci Diziler",(TR-) Reality Check: Inside America's Next Top Model
+http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/11955.mp4
 
 # --- Movies | (S|TR) Yerli Diziler (411) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Yerli Diziler",(TR-) Hakan: Muhafız
@@ -12436,7 +12438,7 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/276809.mp4
 # --- Movies | (V|DE) Filme - 2021 (630) ---
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/o30zApVZQRcQCM5UL977cumg7Ks_big.jpg" group-title="Movies | (V|DE) Filme - 2021",(DE-) Einer Wie Keiner - 2021
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/657981.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/u81Gf4UYqQfhxeC9x2CqebsulXT_big.jpg" group-title="Movies | (V|DE) Filme - 2021",(DE-) They Want Me Dead - 2021
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/u81Gf4UYqQfhxeC9x2CqebsulXT.jpg" group-title="Movies | (V|DE) Filme - 2021",(DE-) They Want Me Dead - 2021
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/641512.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/dPhNB63EsHebwc6FwHM35pdw1vE_big.jpg" group-title="Movies | (V|DE) Filme - 2021",(DE-) Furioza - 2021
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/638889.mkv
@@ -13704,9 +13706,9 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/643475.mp4
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/631207.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/zWbLOZfqFQ9xQmx1jQgBads8GCk_big.jpg" group-title="Movies | (V|DE) Filme - 2022",(DE-) Die Känguru Verschwörung - 2022
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/619586.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/dNr0mqVSLfIaPlhcmJNRJVzCQBs_big.jpg" group-title="Movies | (V|DE) Filme - 2022",(DE-) Conjuring: The Beyond - 2022
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/dNr0mqVSLfIaPlhcmJNRJVzCQBs.jpg" group-title="Movies | (V|DE) Filme - 2022",(DE-) Conjuring: The Beyond - 2022
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/611435.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/1gTH81A1aBDDd6hEjLhTdsHVUFO_big.jpg" group-title="Movies | (V|DE) Filme - 2022",(DE-) Die Wannseekonferenz - 2022
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/1gTH81A1aBDDd6hEjLhTdsHVUFO.jpg" group-title="Movies | (V|DE) Filme - 2022",(DE-) Die Wannseekonferenz - 2022
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/610796.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/en9lCv7CO5LF8dAdx0MI5W86jAr_big.jpg" group-title="Movies | (V|DE) Filme - 2022",(DE-) 3 Türken Und Ein Baby - 2022
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/610006.mkv
@@ -14066,7 +14068,7 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/475723.mp4
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/475721.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/7xWL2mM5xovK7tezOwKI3Fne8IJ.jpg" group-title="Movies | (V|DE) Filme - 2022",(DE-) Belle & Sebastian: Ein Sommer Voller Abenteuer - 2022
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/475718.mp4
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/dsfrCccKPwPjBwL06cgWdVgwVkp_big.jpg" group-title="Movies | (V|DE) Filme - 2022",(DE-) The Gray Man - 2022
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/dsfrCccKPwPjBwL06cgWdVgwVkp.jpg" group-title="Movies | (V|DE) Filme - 2022",(DE-) The Gray Man - 2022
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/475453.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/aZp190Qx33oRO8KGSkO1sFjEqC2.jpg" group-title="Movies | (V|DE) Filme - 2022",(DE-) God's Country - 2022
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/475449.mp4
@@ -14324,131 +14326,131 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/459991.mp4
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/459990.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fYZGnv3e84n49I0jPu2JclO5jVw.jpg" group-title="Movies | (V|DE) Filme - 2022",(DE-) The Witch: The Other One - 2022
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/459781.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/pu0TNtng0Ym3CptEDIddGuQnZ6r.jpg" group-title="Movies | (V|DE) Filme - 2022",(DE-) The Forgiven - 2022
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/pu0TNtng0Ym3CptEDIddGuQnZ6r.jpg" group-title="Movies | (V|DE) Filme - 2022",(DE-) The Forgiven - 2022
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/459780.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/qPsMTyj5Jbtsxd5mjSuR1Amza9H.jpg" group-title="Movies | (V|DE) Filme - 2022",(DE-) Märzengrund - 2022
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/qPsMTyj5Jbtsxd5mjSuR1Amza9H.jpg" group-title="Movies | (V|DE) Filme - 2022",(DE-) Märzengrund - 2022
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/459777.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/hpyNBmbFz76WU3gtu1YrjjdH4Cr.jpg" group-title="Movies | (V|DE) Filme - 2022",(DE-) Devotion - 2022
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/hpyNBmbFz76WU3gtu1YrjjdH4Cr.jpg" group-title="Movies | (V|DE) Filme - 2022",(DE-) Devotion - 2022
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/459773.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/vcsbK4N8m11eAARo5rTru58Pgov.jpg" group-title="Movies | (V|DE) Filme - 2022",(DE-) Alle Für Ella - 2022
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/vcsbK4N8m11eAARo5rTru58Pgov.jpg" group-title="Movies | (V|DE) Filme - 2022",(DE-) Alle Für Ella - 2022
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/459772.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/cO9ywQ2AMHM9EoBJsJGH1Gl9U5L.jpg" group-title="Movies | (V|DE) Filme - 2022",(DE-) Abandoned - 2022
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/cO9ywQ2AMHM9EoBJsJGH1Gl9U5L.jpg" group-title="Movies | (V|DE) Filme - 2022",(DE-) Abandoned - 2022
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/459771.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/3ncPFqjeR3UxwCrLcIeHAubgvYU.jpg" group-title="Movies | (V|DE) Filme - 2022",(DE-) White Elephant: Der Mafia Kodex - 2022
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/3ncPFqjeR3UxwCrLcIeHAubgvYU.jpg" group-title="Movies | (V|DE) Filme - 2022",(DE-) White Elephant: Der Mafia Kodex - 2022
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/458703.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/kfRr8Jm1gaEnLTXCIfHkSw8QW6t.jpg" group-title="Movies | (V|DE) Filme - 2022",(DE-) Resurrection - 2022
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/kfRr8Jm1gaEnLTXCIfHkSw8QW6t.jpg" group-title="Movies | (V|DE) Filme - 2022",(DE-) Resurrection - 2022
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/457564.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/2hnXqaSX2AmEnppr7zxuFH0PpL9_big.jpg" group-title="Movies | (V|DE) Filme - 2022",(DE-) Die Spur Der Knochen - 2022
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/457561.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/m2kQh9RxhdIZamFakTc4Lagbngc.jpg" group-title="Movies | (V|DE) Filme - 2022",(DE-) Die Abenteuer Von Maid Marian - 2022
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/m2kQh9RxhdIZamFakTc4Lagbngc.jpg" group-title="Movies | (V|DE) Filme - 2022",(DE-) Die Abenteuer Von Maid Marian - 2022
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/457559.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/u3ObAvCyJ3D8limTwms0tiP6C9t.jpg" group-title="Movies | (V|DE) Filme - 2022",(DE-) Alcarràs: Die Letzte Ernte - 2022
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/u3ObAvCyJ3D8limTwms0tiP6C9t.jpg" group-title="Movies | (V|DE) Filme - 2022",(DE-) Alcarràs: Die Letzte Ernte - 2022
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/457557.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/vyT1SavljB1WLDutl0Bj0P1sCCj.jpg" group-title="Movies | (V|DE) Filme - 2022",(DE-) The Honeymoon - 2022
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/vyT1SavljB1WLDutl0Bj0P1sCCj.jpg" group-title="Movies | (V|DE) Filme - 2022",(DE-) The Honeymoon - 2022
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/455749.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/cGo9r504kO3wAeAwHN13CTzjBo3.jpg" group-title="Movies | (V|DE) Filme - 2022",(DE-) Terrifier 2 - 2022
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/qEAlwXbYk6IHA4ztoS2XFFaa7Xo.jpg" group-title="Movies | (V|DE) Filme - 2022",(DE-) Terrifier 2 - 2022
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/455748.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/yMqtCSzSAB9Aiw8yiuUKBoxEeAm.jpg" group-title="Movies | (V|DE) Filme - 2022",(DE-) November - 2022
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/jtTFqojb07sYs9vZmUqDiQXaGUT.jpg" group-title="Movies | (V|DE) Filme - 2022",(DE-) November - 2022
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/455747.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/6dvm8sA9agzCJMjhpuvVA5X3kRi.jpg" group-title="Movies | (V|DE) Filme - 2022",(DE-) Mein Lotta Leben: Alles Tschaka Mit Alpaka - 2022
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/6dvm8sA9agzCJMjhpuvVA5X3kRi.jpg" group-title="Movies | (V|DE) Filme - 2022",(DE-) Mein Lotta Leben: Alles Tschaka Mit Alpaka - 2022
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/455746.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/lGw7KMBip9j7f3eUyCkrZwSD1Il.jpg" group-title="Movies | (V|DE) Filme - 2022",(DE-) Mandrake - 2022
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/lGw7KMBip9j7f3eUyCkrZwSD1Il.jpg" group-title="Movies | (V|DE) Filme - 2022",(DE-) Mandrake - 2022
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/455745.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/rDtlrMQ8iOPUGmbSApsFFJs9PUz.jpg" group-title="Movies | (V|DE) Filme - 2022",(DE-) Jerry & Marge Go Large - 2022
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/rDtlrMQ8iOPUGmbSApsFFJs9PUz.jpg" group-title="Movies | (V|DE) Filme - 2022",(DE-) Jerry & Marge Go Large - 2022
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/455744.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/lMtgPzEhQlR7Ak2ARfmghpDoewv.jpg" group-title="Movies | (V|DE) Filme - 2022",(DE-) Der Denkwürdige Fall Des Mr Poe - 2022
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/lMtgPzEhQlR7Ak2ARfmghpDoewv.jpg" group-title="Movies | (V|DE) Filme - 2022",(DE-) Der Denkwürdige Fall Des Mr Poe - 2022
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/455742.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/hAaJ1XFp5FELxwJ98IWI598zaMy.jpg" group-title="Movies | (V|DE) Filme - 2022",(DE-) Bromates - 2022
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/eLOUXzd5C7r04rov55maE6e9yrX.jpg" group-title="Movies | (V|DE) Filme - 2022",(DE-) Bromates - 2022
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/455740.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9av6X5TeFLnAwwpPLkZPlquJmPh.jpg" group-title="Movies | (V|DE) Filme - 2022",(DE-) Alienoid - 2022
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/9av6X5TeFLnAwwpPLkZPlquJmPh.jpg" group-title="Movies | (V|DE) Filme - 2022",(DE-) Alienoid - 2022
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/455739.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/Gd73PqyBMZ8pExCZQiq55WILeq.jpg" group-title="Movies | (V|DE) Filme - 2022",(DE-) Weißes Rauschen - 2022
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/Gd73PqyBMZ8pExCZQiq55WILeq.jpg" group-title="Movies | (V|DE) Filme - 2022",(DE-) Weißes Rauschen - 2022
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/454599.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/a0SBdTg3DwVINVP2qsPIIGJkS4J.jpg" group-title="Movies | (V|DE) Filme - 2022",(DE-) Die Munsters - 2022
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/a0SBdTg3DwVINVP2qsPIIGJkS4J.jpg" group-title="Movies | (V|DE) Filme - 2022",(DE-) Die Munsters - 2022
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/454598.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ga8R3OiOMMgSvZ4cOj8x7prUNYZ.jpg" group-title="Movies | (V|DE) Filme - 2022",(DE-) Roald Dahls Matilda: Das Musical - 2022
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/ga8R3OiOMMgSvZ4cOj8x7prUNYZ.jpg" group-title="Movies | (V|DE) Filme - 2022",(DE-) Roald Dahls Matilda: Das Musical - 2022
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/454597.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/cMdnZIXJTAEhlb3ullYRYXSf50U.jpg" group-title="Movies | (V|DE) Filme - 2022",(DE-) On The Come Up - 2022
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/cMdnZIXJTAEhlb3ullYRYXSf50U.jpg" group-title="Movies | (V|DE) Filme - 2022",(DE-) On The Come Up - 2022
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/454596.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/pz4bh6DPoJCoskb3R6N0LpSkFDx.jpg" group-title="Movies | (V|DE) Filme - 2022",(DE-) Escape The Field - 2022
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/pz4bh6DPoJCoskb3R6N0LpSkFDx.jpg" group-title="Movies | (V|DE) Filme - 2022",(DE-) Escape The Field - 2022
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/454594.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/cDZRy7uNFZFlTWPgoA9q1TBDdHI.jpg" group-title="Movies | (V|DE) Filme - 2022",(DE-) El Gerente - 2022
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/cDZRy7uNFZFlTWPgoA9q1TBDdHI.jpg" group-title="Movies | (V|DE) Filme - 2022",(DE-) El Gerente - 2022
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/454593.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/dTbiYLbdWJhjREd9RGDde8gPhOG.jpg" group-title="Movies | (V|DE) Filme - 2022",(DE-) Eine Nacht Im Kindergarten - 2022
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/dTbiYLbdWJhjREd9RGDde8gPhOG.jpg" group-title="Movies | (V|DE) Filme - 2022",(DE-) Eine Nacht Im Kindergarten - 2022
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/454592.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ac0ol3Xa5EU2kjhGAOhxg4MMiI5.jpg" group-title="Movies | (V|DE) Filme - 2022",(DE-) Die Saat - 2022
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/ac0ol3Xa5EU2kjhGAOhxg4MMiI5.jpg" group-title="Movies | (V|DE) Filme - 2022",(DE-) Die Saat - 2022
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/454591.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/lfnXMSFdVGtEjOQN0Lu2fPSCfFJ.jpg" group-title="Movies | (V|DE) Filme - 2022",(DE-) Bros - 2022
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/lfnXMSFdVGtEjOQN0Lu2fPSCfFJ.jpg" group-title="Movies | (V|DE) Filme - 2022",(DE-) Bros - 2022
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/454589.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/ogsofi7NVoVFZO2pneZyJzOBkL2.jpg" group-title="Movies | (V|DE) Filme - 2022",(DE-) Vesper Chronicles - 2022
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/ogsofi7NVoVFZO2pneZyJzOBkL2.jpg" group-title="Movies | (V|DE) Filme - 2022",(DE-) Vesper Chronicles - 2022
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/453941.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/q9AM4S7e9PK7yclS1cWcxFvwny5.jpg" group-title="Movies | (V|DE) Filme - 2022",(DE-) Sniper: The White Raven - 2022
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/q9AM4S7e9PK7yclS1cWcxFvwny5.jpg" group-title="Movies | (V|DE) Filme - 2022",(DE-) Sniper: The White Raven - 2022
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/453939.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/v9paCmnjJZSIxVCXCo4r2rTX0Yo.jpg" group-title="Movies | (V|DE) Filme - 2022",(DE-) Secret Headquarters: Das Geheime Hauptquartier - 2022
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/v9paCmnjJZSIxVCXCo4r2rTX0Yo.jpg" group-title="Movies | (V|DE) Filme - 2022",(DE-) Secret Headquarters: Das Geheime Hauptquartier - 2022
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/453938.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/n5Ynx568yHn1hKG2ND7ctoL9jEl.jpg" group-title="Movies | (V|DE) Filme - 2022",(DE-) Rubikon - 2022
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/n5Ynx568yHn1hKG2ND7ctoL9jEl.jpg" group-title="Movies | (V|DE) Filme - 2022",(DE-) Rubikon - 2022
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/453937.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/4BbABYtaTWamLpSq4Z0klUGdKx0.jpg" group-title="Movies | (V|DE) Filme - 2022",(DE-) Prizefighter - 2022
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/4BbABYtaTWamLpSq4Z0klUGdKx0.jpg" group-title="Movies | (V|DE) Filme - 2022",(DE-) Prizefighter - 2022
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/453936.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/ua6u8iBPx4kfvh1z1MwFwKvaar7.jpg" group-title="Movies | (V|DE) Filme - 2022",(DE-) Hinter Den Augen Die Dämmerung - 2022
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/ua6u8iBPx4kfvh1z1MwFwKvaar7.jpg" group-title="Movies | (V|DE) Filme - 2022",(DE-) Hinter Den Augen Die Dämmerung - 2022
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/453935.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/szu5A3wPlvn9z9EfumiHwT7JJtX.jpg" group-title="Movies | (V|DE) Filme - 2022",(DE-) Heartbeast - 2022
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/szu5A3wPlvn9z9EfumiHwT7JJtX.jpg" group-title="Movies | (V|DE) Filme - 2022",(DE-) Heartbeast - 2022
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/453934.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/vDGr1YdrlfbU9wxTOdpf3zChmv9.jpg" group-title="Movies | (V|DE) Filme - 2022",(DE-) Glass Onion: A Knives Out Mystery - 2022
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/oprUVNuV1aLeB7fffHqCNcrs1uT.jpg" group-title="Movies | (V|DE) Filme - 2022",(DE-) Glass Onion: A Knives Out Mystery - 2022
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/453933.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/bCqN8mw6piYc7KzGD7SF1mayV3x.jpg" group-title="Movies | (V|DE) Filme - 2022",(DE-) Bones And All - 2022
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/bCqN8mw6piYc7KzGD7SF1mayV3x.jpg" group-title="Movies | (V|DE) Filme - 2022",(DE-) Bones And All - 2022
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/453932.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/3RAXKWzg7r3thtkJugisJ9UMIxu.jpg" group-title="Movies | (V|DE) Filme - 2022",(DE-) Nicht So Fröhliche Weihnachten - 2022
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/3RAXKWzg7r3thtkJugisJ9UMIxu.jpg" group-title="Movies | (V|DE) Filme - 2022",(DE-) Nicht So Fröhliche Weihnachten - 2022
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/453331.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/km4X1qf96pNHUjZQV8pW6Lt5NFg.jpg" group-title="Movies | (V|DE) Filme - 2022",(DE-) Mona Lisa And The Blood Moon - 2022
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/km4X1qf96pNHUjZQV8pW6Lt5NFg.jpg" group-title="Movies | (V|DE) Filme - 2022",(DE-) Mona Lisa And The Blood Moon - 2022
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/453330.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/qVzRt8c2v4gGBYsnaflXVVeQ9Lh.jpg" group-title="Movies | (V|DE) Filme - 2022",(DE-) Adrenalin: Die Zeit Läuft Ab - 2022
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/qVzRt8c2v4gGBYsnaflXVVeQ9Lh.jpg" group-title="Movies | (V|DE) Filme - 2022",(DE-) Adrenalin: Die Zeit Läuft Ab - 2022
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/453326.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/rrENwZjkwzxPfbijFpGZFAc80YG.jpg" group-title="Movies | (V|DE) Filme - 2022",(DE-) Zwischen Uns - 2022
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/rrENwZjkwzxPfbijFpGZFAc80YG.jpg" group-title="Movies | (V|DE) Filme - 2022",(DE-) Zwischen Uns - 2022
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/452892.mp4
-#EXTINF:-1 tvg-logo="https://filmpalast.to/files/movies/450/wochenend-familie.jpg" group-title="Movies | (V|DE) Filme - 2022",(DE-) Wochenend Familie: Weihnachts Special - 2022
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/1zZPGGpIo3eybx06r7R2vmMlbBx.jpg" group-title="Movies | (V|DE) Filme - 2022",(DE-) Wochenend Familie: Weihnachts Special - 2022
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/452891.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/8OGKAbEcNKOUI6paq3WyiVHh0rr.jpg" group-title="Movies | (V|DE) Filme - 2022",(DE-) Weihnachtsgeschenke Von Tiffany - 2022
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/8OGKAbEcNKOUI6paq3WyiVHh0rr.jpg" group-title="Movies | (V|DE) Filme - 2022",(DE-) Weihnachtsgeschenke Von Tiffany - 2022
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/452890.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/dytNPiQyaL1hOk7CNqYLI6aOK3X.jpg" group-title="Movies | (V|DE) Filme - 2022",(DE-) Violent Night - 2022
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/dytNPiQyaL1hOk7CNqYLI6aOK3X.jpg" group-title="Movies | (V|DE) Filme - 2022",(DE-) Violent Night - 2022
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/452889.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/oSjATBxhVo2MXrPkvhRFW99df3o.jpg" group-title="Movies | (V|DE) Filme - 2022",(DE-) Those Who Walk Away - 2022
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/oSjATBxhVo2MXrPkvhRFW99df3o.jpg" group-title="Movies | (V|DE) Filme - 2022",(DE-) Those Who Walk Away - 2022
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/452888.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/hzDplDZMOSzEO3YXyGMeN2S5P3h.jpg" group-title="Movies | (V|DE) Filme - 2022",(DE-) Thor: God Of Thunder - 2022
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/452887.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/hU9ouAPcg2LG7n85WUxjKwPq2y4.jpg" group-title="Movies | (V|DE) Filme - 2022",(DE-) The Binge 2: It's A Wonderful Binge - 2022
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/hU9ouAPcg2LG7n85WUxjKwPq2y4.jpg" group-title="Movies | (V|DE) Filme - 2022",(DE-) The Binge 2: It's A Wonderful Binge - 2022
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/452885.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/51IhKxfTSmkhRhUJzrZSTf8vXzu.jpg" group-title="Movies | (V|DE) Filme - 2022",(DE-) The Banshees Of Inisherin - 2022
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/51IhKxfTSmkhRhUJzrZSTf8vXzu.jpg" group-title="Movies | (V|DE) Filme - 2022",(DE-) The Banshees Of Inisherin - 2022
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/452884.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/7QvhJsoFbcWsrY0iXGhZTKQaQAr.jpg" group-title="Movies | (V|DE) Filme - 2022",(DE-) Renegades: Legends Never Die - 2022
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/452883.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/j9NM6F7LWImBVEJIPjX8fsRg1wg.jpg" group-title="Movies | (V|DE) Filme - 2022",(DE-) Privatunterricht - 2022
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/5WKxxLD2fGkLWKzDyCGeHQ0UeIa.jpg" group-title="Movies | (V|DE) Filme - 2022",(DE-) Privatunterricht - 2022
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/452882.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/c80MQ4vWNFaIMjki656phMTjrxJ.jpg" group-title="Movies | (V|DE) Filme - 2022",(DE-) One Way: Hell Of A Ride - 2022
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/c80MQ4vWNFaIMjki656phMTjrxJ.jpg" group-title="Movies | (V|DE) Filme - 2022",(DE-) One Way: Hell Of A Ride - 2022
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/452881.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/mPhXHRudGxsXIQq1WM6oVePkFIp.jpg" group-title="Movies | (V|DE) Filme - 2022",(DE-) Nanny - 2022
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/mPhXHRudGxsXIQq1WM6oVePkFIp.jpg" group-title="Movies | (V|DE) Filme - 2022",(DE-) Nanny - 2022
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/452880.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/dxKILogeDN0oTmEpTfqN6EJoHVm.jpg" group-title="Movies | (V|DE) Filme - 2022",(DE-) Monster High: Der Film - 2022
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/dxKILogeDN0oTmEpTfqN6EJoHVm.jpg" group-title="Movies | (V|DE) Filme - 2022",(DE-) Monster High: Der Film - 2022
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/452878.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/dPRuqHdVt9J03zNtZyhykzdLggR.jpg" group-title="Movies | (V|DE) Filme - 2022",(DE-) Mad Heidi - 2022
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/dPRuqHdVt9J03zNtZyhykzdLggR.jpg" group-title="Movies | (V|DE) Filme - 2022",(DE-) Mad Heidi - 2022
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/452877.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/q8T4Zp0b9hSSJkuavEYGF2h7omf.jpg" group-title="Movies | (V|DE) Filme - 2022",(DE-) Kangaroo Valley - 2022
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/q8T4Zp0b9hSSJkuavEYGF2h7omf.jpg" group-title="Movies | (V|DE) Filme - 2022",(DE-) Kangaroo Valley - 2022
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/452876.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/qCBfPgsvACaVS4wSBaddVkL22c9.jpg" group-title="Movies | (V|DE) Filme - 2022",(DE-) I Believe In Santa - 2022
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/qCBfPgsvACaVS4wSBaddVkL22c9.jpg" group-title="Movies | (V|DE) Filme - 2022",(DE-) I Believe In Santa - 2022
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/452875.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/jrZhWIioHY1uJngIbugDQ4XjrZL.jpg" group-title="Movies | (V|DE) Filme - 2022",(DE-) Hawa - 2022
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/jrZhWIioHY1uJngIbugDQ4XjrZL.jpg" group-title="Movies | (V|DE) Filme - 2022",(DE-) Hawa - 2022
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/452874.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/9I0ln6yBK5NJJtlQPBN49rmnDn1.jpg" group-title="Movies | (V|DE) Filme - 2022",(DE-) Die Boten Des Todes - 2022
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/9I0ln6yBK5NJJtlQPBN49rmnDn1.jpg" group-title="Movies | (V|DE) Filme - 2022",(DE-) Die Boten Des Todes - 2022
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/452872.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/pgZlYy0DM5q5Np17Cuilc8RTrbs.jpg" group-title="Movies | (V|DE) Filme - 2022",(DE-) Emancipation - 2022
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/juiWX4npKcHZv5b178vcQ2u49te.jpg" group-title="Movies | (V|DE) Filme - 2022",(DE-) Emancipation - 2022
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/452871.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/n2sOwXwrJCrPKvjn4qfDHT2yENE.jpg" group-title="Movies | (V|DE) Filme - 2022",(DE-) Der Junge Häuptling Winnetou - 2022
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/n2sOwXwrJCrPKvjn4qfDHT2yENE.jpg" group-title="Movies | (V|DE) Filme - 2022",(DE-) Der Junge Häuptling Winnetou - 2022
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/452870.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/b2XzKLto00Scdd3jGPnL91LPi8R.jpg" group-title="Movies | (V|DE) Filme - 2022",(DE-) Dead Bride - 2022
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/b2XzKLto00Scdd3jGPnL91LPi8R.jpg" group-title="Movies | (V|DE) Filme - 2022",(DE-) Dead Bride - 2022
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/452869.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/97PaQ7r4H3y0x9RTXusfedmzf86.jpg" group-title="Movies | (V|DE) Filme - 2022",(DE-) Christmas Bloody Christmas - 2022
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/60Dy8eA5QyUHKHBmojXUtZxWdo8.jpg" group-title="Movies | (V|DE) Filme - 2022",(DE-) Christmas Bloody Christmas - 2022
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/452868.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/cj6YmTAU7Jvn3w6d2NfjQzpX7Pw.jpg" group-title="Movies | (V|DE) Filme - 2022",(DE-) Bullet Proof - 2022
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/v0AvbfHcoHKGfAgfsEMGGN4Myw.jpg" group-title="Movies | (V|DE) Filme - 2022",(DE-) Bullet Proof - 2022
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/452867.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/zBmdX3kPe5AAVkzc3n8ykO2H75r.jpg" group-title="Movies | (V|DE) Filme - 2022",(DE-) Allein Mit Dir - 2022
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/452865.mp4
@@ -22519,7 +22521,13 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/275545.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/o3dRENAwLg8Gs8oGPh8gLO5MHWB.jpg" group-title="Movies | (V|TR) Belgeseller",(TR-) Anafartalar - 2019
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/275553.mkv
 
-# --- Movies | (V|TR) Dizi Son Bölümleri (231) ---
+# --- Movies | (V|TR) Dizi Son Bölümleri (234) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/E8tR39iX2XNZdqeDA5REFDquU6.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Uzak Sehir (Bolum 50)
+http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/667992.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/b6QGAQBiAWXVPQvc9um8o9Q90jY_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Cennetin Cocuklari (Bolum 22)
+http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/667991.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/pym4NaXmFEaAfPa1ZQei6pAJGhS_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Ayni Yagmur Altinda (Bolum 2)
+http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/667990.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jJ7kZ2KK8VlXCeFRluqSuFzbL3z.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Teskilat (Bolum 169)
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/667157.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/zgVgcthDQ8pYgBkKzi1AaXmmeFO_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Sahtekarlar (Bolum 18)
@@ -32721,4 +32729,4 @@ http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/583470.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | Unknown",(DE-) Anaon:  Hüter Der Nacht
 http://funmitra.com:8080/movie/pepi290424/wbktXzArzf/10625.mp4
 
-# Total: 16311
+# Total: 16315

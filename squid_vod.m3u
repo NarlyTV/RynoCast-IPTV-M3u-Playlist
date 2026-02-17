@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: squid.game-tv.org:8080
-# Generated: 2026-02-17 07:27:15
+# Generated: 2026-02-17 18:47:43
 # Expires: 2026-04-17
 # Family Safe Edition
 # ==============================================
@@ -11643,7 +11643,15 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/42770.mp
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/e1fvQdD63RP2MS9jCB8jzg7fkdr.jpg" group-title="Movies | Filme Dragoste",'Twas the Text Before Christmas (2023)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/20724.mp4
 
-# --- Movies | Filme Drama (351) ---
+# --- Movies | Filme Drama (355) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/roUYK9EXmgyDO48Qje7rZI4Qgav.jpg" group-title="Movies | Filme Drama",Phenomenon - 1996
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/67962.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mZ4gBdfkhP9tvLH1DO4m4HYtiyi.jpg" group-title="Movies | Filme Drama",Call Me by Your Name - 2017
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/67960.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oEyeG4UyAQvYIJiFpUV57Q3PTDp.jpg" group-title="Movies | Filme Drama",By the Sea - 2015
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/67959.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z5f7KPg8vqqYXtaF0wUkSWryDIg.jpg" group-title="Movies | Filme Drama",A Mighty Heart - 2007
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/67958.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/atRGqnG7pe0hZP97RWDLrT2hRGZ.jpg" group-title="Movies | Filme Drama",My Sister's Keeper (2009)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/67004.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ucFsh8uU0Lsw7zouQFaRrs2ElOs.jpg" group-title="Movies | Filme Drama",Wild Tales - 2014
@@ -12719,7 +12727,9 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/4522.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/rj0h3RnKX5CB8X5UE1PfpMSV4MP.jpg" group-title="Movies | Filme Drama (NOU)",2:22  (2017)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/20949.mp4
 
-# --- Movies | Filme Horror (194) ---
+# --- Movies | Filme Horror (195) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gwsg4qFmLOvlhwXj4OZuxfFUdP0.jpg" group-title="Movies | Filme Horror",The Strangers - 2008
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/67957.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c9Nyu8YZfLsWWbze4DEGPbnwCcT.jpg" group-title="Movies | Filme Horror",Amityville: The Awakening - 2017
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/65714.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k2qTooPlHffgNABNWxeJdGMglPK.jpg" group-title="Movies | Filme Horror",The Twilight Saga: New Moon - 2009
@@ -13163,7 +13173,13 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1231.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/ldlpTitpSTBINwgifzlRRXveXUF.jpg" group-title="Movies | Filme Horror (NOU)",Black Box  (2020)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/32144.mp4
 
-# --- Movies | Filme Indiene (71) ---
+# --- Movies | Filme Indiene (74) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Fk6SzvqFuPMGCfnkUSDANtOxVD.jpg" group-title="Movies | Filme Indiene",Mardaani 2 - 2019
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/67956.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mI77x6LZ9IHpHjTjvgNeC4Uxfsa.jpg" group-title="Movies | Filme Indiene",Mardaani - 2014
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/67955.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6bvW47MtJKo2ipPYJ2xDvdf4zbz.jpg" group-title="Movies | Filme Indiene",Be Happy - 2025
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/67954.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d14btEr1IdwITOpwsktGLYJ8O5v.jpg" group-title="Movies | Filme Indiene",Ram Setu (2022)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/65715.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wT9tGyFol4RBwkjESXUWeBdnLJn.jpg" group-title="Movies | Filme Indiene",HIT: The Third Case - 2025
@@ -14865,7 +14881,9 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/23104.mp
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/e2FaXRuMmyKFQJWMMJvb4xHTvgC.jpg" group-title="Movies | Filme Romanesti (NOU)",Bucuresti NonStop 2015
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/7890.mp4
 
-# --- Movies | Filme Romantice (NOU) (32) ---
+# --- Movies | Filme Romantice (NOU) (33) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8KxvKGl8lQembejIadDP03qjEYT.jpg" group-title="Movies | Filme Romantice (NOU)",Gia - 1998
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/67953.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xS8R1mdxQkuYxF0mJBHNKreEUKm.jpg" group-title="Movies | Filme Romantice (NOU)",Little Children - 2006
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/57291.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nPLoZSLqUeQV37Brm71cRQTVUuY.jpg" group-title="Movies | Filme Romantice (NOU)",Eat Pray Love (2010)
@@ -15209,7 +15227,11 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/31665.mp
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/dhHpbBemuyEBgcYGrmm7bHpjgdO.jpg" group-title="Movies | Filme SCI-FI (NOU)",Battle Drone  (2018)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/9682.mp4
 
-# --- Movies | Filme Thriller (207) ---
+# --- Movies | Filme Thriller (209) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1JEt0qtEaYrJZuPeTArR691V256.jpg" group-title="Movies | Filme Thriller",Taking Lives (2004)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/67952.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7wB76uteIjw95oygMdCkmcibJg3.jpg" group-title="Movies | Filme Thriller",Original Sin - 2001
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/67951.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1MyH4MJAJZJbb6wDVeOc2bTECtK.jpg" group-title="Movies | Filme Thriller",King of New York - 1990
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/67683.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mEWKXuCMv7mFMxXVSTI3v8UOQuq.jpg" group-title="Movies | Filme Thriller",2010 - 1984
@@ -19949,4 +19971,4 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/383.mp4
 #EXTINF:-1 tvg-logo="" group-title="Series | A Series of Unfortunate Events",A Series of Unfortunate Events
 http://squid.game-tv.org:8080/series/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/276
 
-# Total: 8755
+# Total: 8766

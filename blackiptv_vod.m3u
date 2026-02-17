@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: blackiptv.net:8080
-# Generated: 2026-02-17 07:27:30
+# Generated: 2026-02-17 18:53:10
 # Expires: 2026-12-21
 # Family Safe Edition
 # ==============================================
@@ -10143,7 +10143,9 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1719.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ CBS",DE: Watson (2025)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1807.mp4
 
-# --- Movies | DE/SERIE ~ DISNEY+ (13) ---
+# --- Movies | DE/SERIE ~ DISNEY+ (14) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ DISNEY+",How I Met Your Mother (2005) DE
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1989.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ DISNEY+",Shōgun (2024)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1193.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ DISNEY+",Pam & Tommy (2022)
@@ -11947,7 +11949,27 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1637.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ HBO MAX/BLUTV",The Chair Company (2025)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1658.mp4
 
-# --- Movies | TR/DIZI ~ NETFLIX (DUAL) (488) ---
+# --- Movies | TR/DIZI ~ NETFLIX (DUAL) (497) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ NETFLIX (DUAL)",Sıkı Dostlar (1994) TR
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1988.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ NETFLIX (DUAL)",Run Away (2026) TR
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1987.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ NETFLIX (DUAL)",Snabba Cash: Kolay Para (2021) TR
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1986.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ NETFLIX (DUAL)",Kaptan Düşükdon: Destansı Hikâyeler (2018) TR
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1985.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ NETFLIX (DUAL)",Les Disparues de la gare (2025) TR
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1984.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ NETFLIX (DUAL)",Yeni Güç (2025) TR
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1983.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ NETFLIX (DUAL)",The Witcher: Blood Origin (2022) TR
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1982.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ NETFLIX (DUAL)",Tribes of Europa (2021) TR
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1981.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ NETFLIX (DUAL)",Korkunç Günahlar (2025) TR
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1980.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ NETFLIX (DUAL)",Ölüme Eş (2022) TR
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1979.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ NETFLIX (DUAL)",Robot Takımı (2023) TR
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1978.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ NETFLIX (DUAL)",Pokémon Yeni Ufuklar: Dizi (2023) TR
@@ -12194,8 +12216,6 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/994.mp4
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/981.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ NETFLIX (DUAL)",Treason
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/980.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ NETFLIX (DUAL)",The Witcher Blood Origin
-http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/979.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ NETFLIX (DUAL)",The Recruit
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/978.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ NETFLIX (DUAL)",Kaleidoscope
@@ -21415,4 +21435,4 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/63372.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t8EQllq34VC5mooiJw1vVFOlM4x.jpg" group-title="Movies | TR/FILM ~ YILBASI ÖZEL",O Ses Türkiye  Yilbasi Özel 2025
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/54778.mp4
 
-# Total: 10557
+# Total: 10567
