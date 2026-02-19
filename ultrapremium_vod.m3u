@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: ultrapremium.cloud:8080
-# Generated: 2026-02-18 18:50:04
+# Generated: 2026-02-19 07:27:54
 # Expires: 2026-02-28
 # Family Safe Edition
 # ==============================================
@@ -13845,7 +13845,9 @@ http://ultrapremium.cloud:8080/movie/964374735tv/4fdc5eg3/268771.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9yBW60Pm0eeXsKeiZMvMolCuhyU.jpg" group-title="Movies | → VOD ESTRENOS 2025 ←",Ad Vitam (2025)
 http://ultrapremium.cloud:8080/movie/964374735tv/4fdc5eg3/268613.mp4
 
-# --- Movies | → VOD ESTRENOS 2026 ← (6) ---
+# --- Movies | → VOD ESTRENOS 2026 ← (7) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mgqAZeEI5hnAgeVZ0kAdYiPy1Rs.jpg" group-title="Movies | → VOD ESTRENOS 2026 ←",Sin piedad (2026)
+http://ultrapremium.cloud:8080/movie/964374735tv/4fdc5eg3/280014.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6nTqw569IFEZtCMKaRYPH2vnEzG.jpg" group-title="Movies | → VOD ESTRENOS 2026 ←",Ahí estoy yo (2026)
 http://ultrapremium.cloud:8080/movie/964374735tv/4fdc5eg3/279983.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qhJDrPqvw8Dopwc11pCkrGgfhy.jpg" group-title="Movies | → VOD ESTRENOS 2026 ←",Primate (2026)
@@ -13859,7 +13861,9 @@ http://ultrapremium.cloud:8080/movie/964374735tv/4fdc5eg3/279351.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9SUEbyc5OUaNkGPLK3f1w3Ryoyo.jpg" group-title="Movies | → VOD ESTRENOS 2026 ←",Gente que conocemos en Vacaciones (2026)
 http://ultrapremium.cloud:8080/movie/964374735tv/4fdc5eg3/279293.mp4
 
-# --- Movies | → VOD ESTRENOS SUBTITULADOS ← (56) ---
+# --- Movies | → VOD ESTRENOS SUBTITULADOS ← (57) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A1DintRyDHFuKja6fuyVpkzS0eC.jpg" group-title="Movies | → VOD ESTRENOS SUBTITULADOS ←",The Huntsman (2026) SUB
+http://ultrapremium.cloud:8080/movie/964374735tv/4fdc5eg3/280015.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q7aijAKE98Fcp6dgR6oWiUkFO2g.jpg" group-title="Movies | → VOD ESTRENOS SUBTITULADOS ←",El Dia del Fin del Mundo: Migración (2026) SUB
 http://ultrapremium.cloud:8080/movie/964374735tv/4fdc5eg3/279298.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jIVa5m9s7bKYdI0KH8wFw1qLxHl.jpg" group-title="Movies | → VOD ESTRENOS SUBTITULADOS ←",Pecadores (2025) SUB
@@ -19729,4 +19733,4 @@ http://ultrapremium.cloud:8080/series/964374735tv/4fdc5eg3/2345
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES TERROR-THRILLER-SUSPENSO ←",It: Bienvenidos a Derry
 http://ultrapremium.cloud:8080/series/964374735tv/4fdc5eg3/2492
 
-# Total: 9788
+# Total: 9790

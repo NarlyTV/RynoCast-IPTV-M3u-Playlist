@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: siptvs.com:8080
-# Generated: 2026-02-18 18:53:48
+# Generated: 2026-02-19 07:34:28
 # Expires: 2026-05-16
 # Family Safe Edition
 # ==============================================
@@ -3039,7 +3039,7 @@ http://siptvs.com:8080/live/Biljana12/Biljana12/132972.m3u8
 #EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/logoiptveditor/trt1.png" group-title="|TUR| TURKEY",TR: TRT 1
 http://siptvs.com:8080/live/Biljana12/Biljana12/132973.m3u8
 
-# --- |WSP| WORLD SPORT (114) ---
+# --- |WSP| WORLD SPORT (110) ---
 #EXTINF:-1 tvg-logo="https://www.sofascore.com/images/team-logo/football_241968.png" group-title="|WSP| WORLD SPORT",AL: ART SPORT 1 ᴴᴰ
 http://siptvs.com:8080/live/Biljana12/Biljana12/35207.m3u8
 #EXTINF:-1 tvg-logo="https://www.sofascore.com/images/team-logo/football_241968.png" group-title="|WSP| WORLD SPORT",AL: ART SPORT 2 ᴴᴰ
@@ -3124,14 +3124,6 @@ http://siptvs.com:8080/live/Biljana12/Biljana12/35249.m3u8
 http://siptvs.com:8080/live/Biljana12/Biljana12/35250.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/10/img/kanali-logo/bein-sport1-logo.png" group-title="|WSP| WORLD SPORT",FR: BEIN SPORTS 8 MAX
 http://siptvs.com:8080/live/Biljana12/Biljana12/35251.m3u8
-#EXTINF:-1 tvg-logo="" group-title="|WSP| WORLD SPORT",FR: RMC SPORT 1 ᴴᴰ
-http://siptvs.com:8080/live/Biljana12/Biljana12/35252.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_RMC_Sport_2018.svg/640px-Logo_RMC_Sport_2018.svg.png" group-title="|WSP| WORLD SPORT",FR: RMC SPORT 2 ᴴᴰ
-http://siptvs.com:8080/live/Biljana12/Biljana12/35253.m3u8
-#EXTINF:-1 tvg-logo="http://88.99.68.162/images/b3801891226a7f45f2d89066f060b169.png" group-title="|WSP| WORLD SPORT",FR: RMC SPORT 3 ᴴᴰ
-http://siptvs.com:8080/live/Biljana12/Biljana12/35254.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_RMC_Sport_2018.svg/640px-Logo_RMC_Sport_2018.svg.png" group-title="|WSP| WORLD SPORT",FR: RMC SPORT 4 ᴴᴰ
-http://siptvs.com:8080/live/Biljana12/Biljana12/35255.m3u8
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/000/621/319/non_2x/realistic-netherland-flag-vector-design.jpg" group-title="|WSP| WORLD SPORT",* * * *  HOLLAND * * * *
 http://siptvs.com:8080/live/Biljana12/Biljana12/35263.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mmanews.com/wp-content/uploads/2018/05/ESPN-696x392.jpg" group-title="|WSP| WORLD SPORT",NL: ESPN 1 ᴴᴰ
@@ -3269,4 +3261,4 @@ http://siptvs.com:8080/live/Biljana12/Biljana12/85905.m3u8
 #EXTINF:-1 tvg-logo="" group-title="|WSP| WORLD SPORT",MUTV
 http://siptvs.com:8080/live/Biljana12/Biljana12/126239.m3u8
 
-# Total: 1601
+# Total: 1597

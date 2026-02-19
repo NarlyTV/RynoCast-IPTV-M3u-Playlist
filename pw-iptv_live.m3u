@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: pw-iptv.online:8080
-# Generated: 2026-02-18 18:50:15
+# Generated: 2026-02-19 07:35:03
 # Expires: 2026-09-06
 # Family Safe Edition
 # ==============================================
@@ -1131,7 +1131,7 @@ http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/294786.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/3046.jpg?32847" group-title="AL| SPORT",AL: TRING SPORT 4 HD
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/294787.m3u8
 
-# --- AM| ARMENIA (44) ---
+# --- AM| ARMENIA (24) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Animated-Flag-Armenia.gif" group-title="AM| ARMENIA",#### ARMENIA ####
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1573997.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/logos/EUROPE/amga-tv.png" group-title="AM| ARMENIA",ARM: AMGA
@@ -1140,26 +1140,10 @@ http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/443817.m3u8
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/443816.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/logos/shanttv.png" group-title="AM| ARMENIA",ARM: SHANT TV HD
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/443814.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/logos/shant.png" group-title="AM| ARMENIA",ARM: SHANT KIDS HD
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/443812.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/logos/ARM-NEWS.png" group-title="AM| ARMENIA",ARM: ARM NEWS HD
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/443808.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/logos/armpublic.jpg" group-title="AM| ARMENIA",ARM: H 1 HD
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/443805.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/logos/H-2-ARM.jpeg" group-title="AM| ARMENIA",ARM: H 2 HD
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/443804.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/logos/H-3-ARM.jpeg" group-title="AM| ARMENIA",ARM: H 3 HD
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/443803.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/logos/armeniatv.png" group-title="AM| ARMENIA",ARM: ARMENIA TV
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/443802.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/logos/armeniatv.png" group-title="AM| ARMENIA",ARM: ARMENIA TV HD
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/443800.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/logos/armenianpublic.jpg" group-title="AM| ARMENIA",ARM: ARMENIAN PUBLIC
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/443798.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/logos/a1plus.jpg" group-title="AM| ARMENIA",ARM: H 1 NEWS
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/443797.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/logos/kentrontv.png" group-title="AM| ARMENIA",ARM: KENTRON
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/443795.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/logos/shanttv.png" group-title="AM| ARMENIA",ARM: ARTN/SHANT
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/443794.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/logos/usaarm.jpg" group-title="AM| ARMENIA",ARM: USA ARM
@@ -1170,52 +1154,28 @@ http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/443792.m3u8
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/443788.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/11930.png?52768" group-title="AM| ARMENIA",ARM: 21 TV HD
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/443787.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/logos/ararat.jpg" group-title="AM| ARMENIA",ARM: ARARAT HD
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/443785.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/logos/showxakat.jpg" group-title="AM| ARMENIA",ARM: SHOWXAKAT HD
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/443783.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/logos/armeniancomedy.jpg" group-title="AM| ARMENIA",ARM: ARMENIEA COMEDY HD
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/443780.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/logos/haykino.jpg" group-title="AM| ARMENIA",ARM: HAY KINO HD
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/443779.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/logos/jantv.jpg" group-title="AM| ARMENIA",ARM: ARTN HD
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/443778.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/logos/tuntunik.png" group-title="AM| ARMENIA",ARM: PREMIUM HD
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/443777.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/logos/filmzone.jpg" group-title="AM| ARMENIA",ARM: FILMZONE HD
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/443776.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/logos/tht.png" group-title="AM| ARMENIA",ARM: THT ARM
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/443774.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/logos/tavaatv.png" group-title="AM| ARMENIA",ARM: TAVA ATV HD
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/443772.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/logos/BASHADE-FM.png" group-title="AM| ARMENIA",ARM: BASHADE FM
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/443769.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/logos/voiceofamerica.png" group-title="AM| ARMENIA",ARM: VOICE OF VAN FM
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/443767.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/logos/shanttv.png" group-title="AM| ARMENIA",ARM: SHANT PREMIUM HD
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/443764.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/logos/ATV-BAZMOC.png" group-title="AM| ARMENIA",ARM: BAZMOC TV
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/443763.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/logos/ATV-KINOMAN.png" group-title="AM| ARMENIA",ARM: HAY ATV
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/443762.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/logos/luys.jpg" group-title="AM| ARMENIA",ARM: LUYSE TV
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/443761.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/logos/FIVE-TV-ARM.png" group-title="AM| ARMENIA",ARM: FIVE TV
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/443760.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/logos/VAN-TV.jpeg" group-title="AM| ARMENIA",ARM: RADIO VAN FM
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/443757.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/logos/ARMENIA-TV.png" group-title="AM| ARMENIA",ARM: ARMENIA TV PREMIUM 2
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/443756.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/logos/ARMENIA-TV.png" group-title="AM| ARMENIA",ARM: ARMENIA TV PREMIUM 3
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/443755.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/logos/MO-TV.png" group-title="AM| ARMENIA",ARM: MO TV
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/443754.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/logos/PANARMENIA-TV.jpeg" group-title="AM| ARMENIA",ARM: PANARMENIA TV
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/443753.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/logos/ARMENIA-TV.png" group-title="AM| ARMENIA",ARM: YERIDASARTOUTIAN TSAYNE FM
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/443752.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/logos/U!-PREMIUM-HD.jpeg" group-title="AM| ARMENIA",ARM: U! PREMIUM HD
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/443751.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/logos/AZADOUTYOUNTV-HD.png" group-title="AM| ARMENIA",ARM: SHANT MUSIC HD
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/443750.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/logos/shantserial.jpg" group-title="AM| ARMENIA",ARM: SHANT SERIAL HD
@@ -7126,9 +7086,9 @@ http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/203151.m3u8
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1036848.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/13544.jpg?ver=9848" group-title="AR| TOD SPORT ⁸ᴷ & PPV ⚽",- NO EVENT STREAMING - | 8K EXCLUSIVE | AR: TOD PPV 1
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1036847.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/13544.jpg?ver=9848" group-title="AR| TOD SPORT ⁸ᴷ & PPV ⚽",CURLING - CHINA VS SWEDEN, WOMEN'S ROUND ROBIN | Wed 18 Feb 18:40 | 8K EXCLUSIVE | AR: TOD PPV 2
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/13544.jpg?ver=9848" group-title="AR| TOD SPORT ⁸ᴷ & PPV ⚽",- NO EVENT STREAMING - | 8K EXCLUSIVE | AR: TOD PPV 2
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1036846.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/13544.jpg?ver=9848" group-title="AR| TOD SPORT ⁸ᴷ & PPV ⚽",CARLOS ALCARAZ VS VALENTIN ROYER | Wed 18 Feb 18:40 | 8K EXCLUSIVE | AR: TOD PPV 3
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/13544.jpg?ver=9848" group-title="AR| TOD SPORT ⁸ᴷ & PPV ⚽",- NO EVENT STREAMING - | 8K EXCLUSIVE | AR: TOD PPV 3
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1036845.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/13544.jpg?ver=9848" group-title="AR| TOD SPORT ⁸ᴷ & PPV ⚽",- NO EVENT STREAMING - | 8K EXCLUSIVE | AR: TOD PPV 4
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1036844.m3u8
@@ -7156,35 +7116,35 @@ http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1036833.m3u8
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1036832.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/13544.jpg?ver=9848" group-title="AR| TOD SPORT ⁸ᴷ & PPV ⚽",- NO EVENT STREAMING - | 8K EXCLUSIVE | AR: TOD PPV 16
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1036831.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/13544.jpg?ver=9848" group-title="AR| TOD SPORT ⁸ᴷ & PPV ⚽",ALPINE SKIING - SLALOM, WOMEN'S RUN 2 | Wed 18 Feb 13:00 | 8K EXCLUSIVE | AR: TOD PPV 17
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/13544.jpg?ver=9848" group-title="AR| TOD SPORT ⁸ᴷ & PPV ⚽",- NO EVENT STREAMING - | 8K EXCLUSIVE | AR: TOD PPV 17
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1036829.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/13544.jpg?ver=9848" group-title="AR| TOD SPORT ⁸ᴷ & PPV ⚽",CURLING - CHINA VS CZECHIA, MEN'S ROUND ROBIN | Wed 18 Feb 13:40 | 8K EXCLUSIVE | AR: TOD PPV 18
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/13544.jpg?ver=9848" group-title="AR| TOD SPORT ⁸ᴷ & PPV ⚽",- NO EVENT STREAMING - | 8K EXCLUSIVE | AR: TOD PPV 18
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1036827.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/13544.jpg?ver=9848" group-title="AR| TOD SPORT ⁸ᴷ & PPV ⚽",CURLING - NORWAY VS SWITZERLAND, MEN'S ROUND ROBIN | Wed 18 Feb 13:40 | 8K EXCLUSIVE | AR: TOD PPV 19
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/13544.jpg?ver=9848" group-title="AR| TOD SPORT ⁸ᴷ & PPV ⚽",- NO EVENT STREAMING - | 8K EXCLUSIVE | AR: TOD PPV 19
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1036825.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/13544.jpg?ver=9848" group-title="AR| TOD SPORT ⁸ᴷ & PPV ⚽",- NO EVENT STREAMING - | 8K EXCLUSIVE | AR: TOD PPV 20
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1036824.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/13544.jpg?ver=9848" group-title="AR| TOD SPORT ⁸ᴷ & PPV ⚽",CURLING - USA VS GREAT BRITAIN, MEN'S ROUND ROBIN | Wed 18 Feb 13:40 | 8K EXCLUSIVE | AR: TOD PPV 21
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/13544.jpg?ver=9848" group-title="AR| TOD SPORT ⁸ᴷ & PPV ⚽",- NO EVENT STREAMING - | 8K EXCLUSIVE | AR: TOD PPV 21
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1036820.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/13544.jpg?ver=9848" group-title="AR| TOD SPORT ⁸ᴷ & PPV ⚽",BIATHLON -  WOMEN'S 4X6KM RELAY | Wed 18 Feb 14:15 | 8K EXCLUSIVE | AR: TOD PPV 22
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/13544.jpg?ver=9848" group-title="AR| TOD SPORT ⁸ᴷ & PPV ⚽",- NO EVENT STREAMING - | 8K EXCLUSIVE | AR: TOD PPV 22
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1036817.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/13544.jpg?ver=9848" group-title="AR| TOD SPORT ⁸ᴷ & PPV ⚽",DAY 1 - TWO PHASES – 1.40M - CHI AL SHAQAB PRESENTED BY LONGINES 2026 | Wed 18 Feb 16:10 | 8K EXCLUSIVE | AR: TOD PPV 23
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/13544.jpg?ver=9848" group-title="AR| TOD SPORT ⁸ᴷ & PPV ⚽",- NO EVENT STREAMING - | 8K EXCLUSIVE | AR: TOD PPV 23
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1036816.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/13544.jpg?ver=9848" group-title="AR| TOD SPORT ⁸ᴷ & PPV ⚽",ICE HOCKEY - CANADA VS CZECHIA , MEN'S QUARTER-FINALS | Wed 18 Feb 16:10 | 8K EXCLUSIVE | AR: TOD PPV 24
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/13544.jpg?ver=9848" group-title="AR| TOD SPORT ⁸ᴷ & PPV ⚽",- NO EVENT STREAMING - | 8K EXCLUSIVE | AR: TOD PPV 24
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1036815.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/13544.jpg?ver=9848" group-title="AR| TOD SPORT ⁸ᴷ & PPV ⚽",ALEXEI POPYRIN VS JANNIK SINNER | Wed 18 Feb 17:10 | 8K EXCLUSIVE | AR: TOD PPV 25
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/13544.jpg?ver=9848" group-title="AR| TOD SPORT ⁸ᴷ & PPV ⚽",- NO EVENT STREAMING - | 8K EXCLUSIVE | AR: TOD PPV 25
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1036814.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/13544.jpg?ver=9848" group-title="AR| TOD SPORT ⁸ᴷ & PPV ⚽",ICE HOCKEY - FINLAND VS SWITZERLAND, MEN'S QUARTER-FINALS | Wed 18 Feb 17:40 | 8K EXCLUSIVE | AR: TOD PPV 26
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/13544.jpg?ver=9848" group-title="AR| TOD SPORT ⁸ᴷ & PPV ⚽",- NO EVENT STREAMING - | 8K EXCLUSIVE | AR: TOD PPV 26
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1036813.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/13544.jpg?ver=9848" group-title="AR| TOD SPORT ⁸ᴷ & PPV ⚽",REAL MADRID VS PARIS FC  | Wed 18 Feb 18:25 | 8K EXCLUSIVE | AR: TOD PPV 27
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/13544.jpg?ver=9848" group-title="AR| TOD SPORT ⁸ᴷ & PPV ⚽",- NO EVENT STREAMING - | 8K EXCLUSIVE | AR: TOD PPV 27
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1036812.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/13544.jpg?ver=9848" group-title="AR| TOD SPORT ⁸ᴷ & PPV ⚽",QARABAĞ VS NEWCASTLE UNITED  | Wed 18 Feb 18:25 | 8K EXCLUSIVE | AR: TOD PPV 28
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/13544.jpg?ver=9848" group-title="AR| TOD SPORT ⁸ᴷ & PPV ⚽",- NO EVENT STREAMING - | 8K EXCLUSIVE | AR: TOD PPV 28
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1036811.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/13544.jpg?ver=9848" group-title="AR| TOD SPORT ⁸ᴷ & PPV ⚽",CURLING - CANADA VS ITALY, WOMEN'S ROUND ROBIN | Wed 18 Feb 18:40 | 8K EXCLUSIVE | AR: TOD PPV 29
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/13544.jpg?ver=9848" group-title="AR| TOD SPORT ⁸ᴷ & PPV ⚽",- NO EVENT STREAMING - | 8K EXCLUSIVE | AR: TOD PPV 29
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1036810.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/13544.jpg?ver=9848" group-title="AR| TOD SPORT ⁸ᴷ & PPV ⚽",CURLING - SWITZERLAND VS DENMARK,  WOMEN'S ROUND ROBIN | Wed 18 Feb 18:40 | 8K EXCLUSIVE | AR: TOD PPV 30
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/13544.jpg?ver=9848" group-title="AR| TOD SPORT ⁸ᴷ & PPV ⚽",- NO EVENT STREAMING - | 8K EXCLUSIVE | AR: TOD PPV 30
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1036809.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/13544.jpg?ver=9848" group-title="AR| TOD SPORT ⁸ᴷ & PPV ⚽",CURLING - GREAT BRITAIN VS JAPAN, WOMEN'S ROUND ROBIN | Wed 18 Feb 18:40 | 8K EXCLUSIVE | AR: TOD PPV 31
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/13544.jpg?ver=9848" group-title="AR| TOD SPORT ⁸ᴷ & PPV ⚽",- NO EVENT STREAMING - | 8K EXCLUSIVE | AR: TOD PPV 31
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1036808.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/13544.jpg?ver=9848" group-title="AR| TOD SPORT ⁸ᴷ & PPV ⚽",- NO EVENT STREAMING - | 8K EXCLUSIVE | AR: TOD PPV 32
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1036807.m3u8
@@ -16413,16 +16373,14 @@ http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/868638.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/3197.png?69923" group-title="TR| EXXEN SPORTS GOLD",GOLD: EXXEN SPORTS 1 RAW
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/868637.m3u8
 
-# --- TR| FIMLER 4K (76) ---
+# --- TR| FIMLER 4K (75) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Animated-Flag-Turkey.gif" group-title="TR| FIMLER 4K",###### FIMLER 4K ######
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/373933.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/882.jpg?84558" group-title="TR| FIMLER 4K",TR: ATV 4K
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/8681.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/858.jpg?74009" group-title="TR| FIMLER 4K",TR: A2 Turkiya HD
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/281790.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/6690.png?ver=48891" group-title="TR| FIMLER 4K",TR: FOX CRIME 4K
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/200288.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/593.png?32971" group-title="TR| FIMLER 4K",TR: FOX 4K
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14861.png?82039" group-title="TR| FIMLER 4K",TR: NOW 4K
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/8689.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/889.jpg?75980" group-title="TR| FIMLER 4K",TR: Teve 2 HD
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/282266.m3u8
@@ -16694,7 +16652,7 @@ http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/557175.m3u8
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/557174.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/2318.jpg?44314" group-title="TR| TURKISH +6H NA",TR: SHOW TV 4K +6H
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/557173.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/593.png?58624" group-title="TR| TURKISH +6H NA",TR: FOX 4K +6H
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14861.png?82039" group-title="TR| TURKISH +6H NA",TR: NOW 4K +6H
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/557172.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/13159.png?11651" group-title="TR| TURKISH +6H NA",TR: STAR TV 4K +6H
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/557169.m3u8
@@ -16770,7 +16728,7 @@ http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/8705.m3u8
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/282262.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/2318.jpg?63125" group-title="TR| TÜRKIYE 4K TV",TR: Show TV 4K
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/8690.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/593.png?2665" group-title="TR| TÜRKIYE 4K TV",TR: FOX HD
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/14861.png?82039" group-title="TR| TÜRKIYE 4K TV",TR: NOW HD
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/282383.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/7841.jpg?95322" group-title="TR| TÜRKIYE 4K TV",TR: TV8 4K
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/8678.m3u8
@@ -19143,4 +19101,4 @@ http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/443446.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/logos/tv5monde.png" group-title="VI| VIETNAM",VN: TV5 MONDE
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/443444.m3u8
 
-# Total: 9319
+# Total: 9298

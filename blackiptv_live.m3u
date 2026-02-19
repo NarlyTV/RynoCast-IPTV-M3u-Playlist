@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: blackiptv.net:8080
-# Generated: 2026-02-18 18:50:24
+# Generated: 2026-02-19 07:31:09
 # Expires: 2026-12-21
 # Family Safe Edition
 # ==============================================
@@ -2949,17 +2949,19 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/57505.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PERSIANA MEDIA GROUP",IRAN: Persiana 4Kurd HD
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/57506.m3u8
 
-# --- POLEN (49) ---
+# --- POLEN (50) ---
 #EXTINF:-1 tvg-logo="" group-title="POLEN",*****POLAND*****
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/21276.m3u8
 #EXTINF:-1 tvg-logo="" group-title="POLEN",PL: TVN HD
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/36642.m3u8
-#EXTINF:-1 tvg-logo="" group-title="POLEN",PL: TVP 1 HD
+#EXTINF:-1 tvg-logo="http://195.211.191.31:808/logo/logo_1/EUROPE/POLONIA/TVP1.png" group-title="POLEN",PL: TVP 1 HD
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/36643.m3u8
-#EXTINF:-1 tvg-logo="" group-title="POLEN",PL: TVP 2 HD
+#EXTINF:-1 tvg-logo="http://195.211.191.31:808/logo/logo_1/EUROPE/POLONIA/TVP2.png" group-title="POLEN",PL: TVP 2 HD
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/36644.m3u8
-#EXTINF:-1 tvg-logo="" group-title="POLEN",PL: TVP 3 HD
+#EXTINF:-1 tvg-logo="http://195.211.191.31:808/logo/logo_1/EUROPE/POLONIA/TVP3.png" group-title="POLEN",PL: TVP 3 GDANSK
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/36645.m3u8
+#EXTINF:-1 tvg-logo="https://epg.ovh/logo/TVP+3+Warszawa.png" group-title="POLEN",PL: TVP 3 WARSZAWA
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/60057.m3u8
 #EXTINF:-1 tvg-logo="" group-title="POLEN",PL: TVP INFO
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/36646.m3u8
 #EXTINF:-1 tvg-logo="" group-title="POLEN",PL: TVP POLANIA
@@ -4095,15 +4097,15 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/41757.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bulutdev/Sinemapicon/refs/heads/main/cocukboxset.png" group-title="TURK COCUK",TR: AY AY AYICIKLAR
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/41758.m3u8
 
-# --- TURK DINI (18) ---
-#EXTINF:-1 tvg-logo="" group-title="TURK DINI",TR: HADI TV
-http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/63265.m3u8
+# --- TURK DINI (19) ---
 #EXTINF:-1 tvg-logo="https://logo.hdiptv.app/TurkeyAll/Flag_of_Turkey.png" group-title="TURK DINI",*****TURK DINI*****
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/20793.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bulutdev/Sinemapicon/refs/heads/main/kudustv.png" group-title="TURK DINI",TR: KUDUS TV
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/90.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/semerkand-tv-tr.png" group-title="TURK DINI",TR: SEMERKAND TV
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/93.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TURK DINI",TR: SEMERKEND WAY TV
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/47439.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/diyanet-tv-tr.png" group-title="TURK DINI",TR: DIYANET TV
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/94.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bulutdev/Sinemapicon/refs/heads/main/yereller/kabetv.png" group-title="TURK DINI",TR: KABE TV
@@ -4130,6 +4132,8 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/339.m3u8
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/58558.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TURK DINI",TR: MELTEM TV
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/58806.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TURK DINI",TR: HADI TV
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/63265.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TURK DINI",TR: FM TV
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/47443.m3u8
 
@@ -5335,7 +5339,7 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/54988.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/line-tv-tr.png" group-title="TURK ULUSAL",TR: LINE TV
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/103.m3u8
 
-# --- TURK YEREL (72) ---
+# --- TURK YEREL (71) ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/tele1-tr.png" group-title="TURK YEREL",TR: TELE 1
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/3350.m3u8
 #EXTINF:-1 tvg-logo="https://logo.hdiptv.app/TurkeyAll/Flag_of_Turkey.png" group-title="TURK YEREL",*****TURK YEREL*****
@@ -5442,8 +5446,6 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/35878.m3u8
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/37319.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TURK YEREL",TR: GURME TV
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/47440.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TURK YEREL",TR: ETV MANISA
-http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/47439.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TURK YEREL",TR: KENTTURK TV
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/47444.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TURK YEREL",TR: TURKMENELI TV
@@ -5535,7 +5537,7 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/56433.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UNGARN",HU: Discovery Channel
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/56414.m3u8
 
-# --- USA (47) ---
+# --- USA (46) ---
 #EXTINF:-1 tvg-logo="" group-title="USA",USA: .KALOOPY TV
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/59897.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA",USA: SPOTON TV
@@ -5580,7 +5582,7 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/58282.m3u8
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/58284.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA",USA: CBS - LOS ANGELES
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/58285.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USA",USA: CBS HD
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/256/323/323310.png" group-title="USA",USA: CBS HD
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/58286.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA",USA: CBS - NATIONAL
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/58287.m3u8
@@ -5618,8 +5620,6 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/60061.m3u8
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/60060.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/256/323/323310.png" group-title="USA",USA: BIG TEN NETWORK
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/60059.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USA",USA: BRAVO TV
-http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/60057.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA",USA: MSNBC
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/60054.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA",USA: CBC NEWS
@@ -5766,15 +5766,15 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/59997.m3u8
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/59998.m3u8
 #EXTINF:-1 tvg-logo="https://assets.tazztv.io/uploads/eptemplates/icons/Kt4id6ebYIuxbW9rTWDoA9gi4w5KRwrui8GYifgZqkqV3nvN6U.png" group-title="USA/UK SPORT",USA: SPORTSNET WORLD
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/60000.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USA/UK SPORT",USA: TSN 1 HD
+#EXTINF:-1 tvg-logo="https://eveimg.xyz/picons/usa/tsn1.png" group-title="USA/UK SPORT",USA: TSN 1 HD
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/58281.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USA/UK SPORT",USA: TSN 2 HD
+#EXTINF:-1 tvg-logo="https://eveimg.xyz/picons/usa/tsn2.png" group-title="USA/UK SPORT",USA: TSN 2 HD
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/58291.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/256/5372/5372678.png" group-title="USA/UK SPORT",USA: TSN 3 HD
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/58289.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USA/UK SPORT",USA: TSN 4 HD
+#EXTINF:-1 tvg-logo="http://amgsupport.space:80/images/61d314e2e4dd5882d04746f2f3c3aff3.png" group-title="USA/UK SPORT",USA: TSN 4 HD
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/58288.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USA/UK SPORT",USA: TSN 5 HD
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/256/5372/5372678.png" group-title="USA/UK SPORT",USA: TSN 5 HD
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/58278.m3u8
 #EXTINF:-1 tvg-logo="https://assets.tazztv.io/uploads/eptemplates/icons/0TixvT3bREWrnQmLlatBMLwW55T3DMBwfxWjus9m1AOfe8t59n.png" group-title="USA/UK SPORT",USA: FOX SPORTS 1
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/47413.m3u8
@@ -5810,7 +5810,7 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/24157.m3u8
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/59959.m3u8
 #EXTINF:-1 tvg-logo="https://assets.tazztv.io/uploads/eptemplates/icons/eTo3AOeff38Z0qahIA084xYxvTXO2d0V76Jo138aZhdSuPAYSM.png" group-title="USA/UK SPORT",UK: Sky Sports Premier League FHD
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/58283.m3u8
-#EXTINF:-1 tvg-logo="https://assets.tazztv.io/uploads/eptemplates/icons/7CWC4kMYRVkEHwkWThThgPQZXEtXRLruevhkUGZgR1WTwyfEVr.png" group-title="USA/UK SPORT",NBC SPORTS
+#EXTINF:-1 tvg-logo="http://195.211.191.31:808/logo/logo_1/AMERICA/USA/NBCSPORTS.png" group-title="USA/UK SPORT",USA: NBC SPORTS
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/59957.m3u8
 #EXTINF:-1 tvg-logo="https://assets.tazztv.io/uploads/eptemplates/icons/bubS1h9OqG6yjXdtbRmCtnZe3R8KuTcq3kh39eCH6gfUQVCOuf.png" group-title="USA/UK SPORT",USA: NBC SPORTS CALIFORNIA
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/59958.m3u8

@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: allone8k.info:8080
-# Generated: 2026-02-18 18:43:06
+# Generated: 2026-02-19 07:26:56
 # Expires: 2026-02-28
 # Family Safe Edition
 # ==============================================
@@ -6205,7 +6205,9 @@ http://allone8k.info:8080/live/mai/mai1234/234564.m3u8
 #EXTINF:-1 tvg-logo="https://png.pngtree.com/png-vector/20220128/ourmid/pngtree-super-star-logo-with-digital-dot-png-image_4365226.png" group-title="AR | SUPERSTARS 4K",سعاد حسني ✪ 04
 http://allone8k.info:8080/live/mai/mai1234/234565.m3u8
 
-# --- AR | SYRIA 4K | سوريا (36) ---
+# --- AR | SYRIA 4K | سوريا (39) ---
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG9L9fozhuETt8lR_M15tr7kVSgENvm-1j-S8ZP9Dp9uJFJ8E9_asCIDuQ&s" group-title="AR | SYRIA 4K | سوريا",SYR: Al Souria TV HD
+http://allone8k.info:8080/live/mai/mai1234/644095.m3u8
 #EXTINF:-1 tvg-logo="https://www.syria.tv/themes/custom/syriatv/assets/images/logo.svg" group-title="AR | SYRIA 4K | سوريا",SYR: SYRIA TV HD الاولي
 http://allone8k.info:8080/live/mai/mai1234/297183.m3u8
 #EXTINF:-1 tvg-logo="https://www.althania.tv/images/logo2.png" group-title="AR | SYRIA 4K | سوريا",SYR: Syria 2 HD الثانية
@@ -6226,10 +6228,14 @@ http://allone8k.info:8080/live/mai/mai1234/297207.m3u8
 http://allone8k.info:8080/live/mai/mai1234/297195.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/riyad-al-salihin.png" group-title="AR | SYRIA 4K | سوريا",SYR: Riyad Al Salihin HD
 http://allone8k.info:8080/live/mai/mai1234/297193.m3u8
+#EXTINF:-1 tvg-logo="" group-title="AR | SYRIA 4K | سوريا",SYR: Al Serah Al Nabawia HD
+http://allone8k.info:8080/live/mai/mai1234/644096.m3u8
 #EXTINF:-1 tvg-logo="data:image/png;base64,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" group-title="AR | SYRIA 4K | سوريا",SYR: Syria Al Oula Brime TV HD
 http://allone8k.info:8080/live/mai/mai1234/635312.m3u8
 #EXTINF:-1 tvg-logo="https://alyaumtv.net/wp-content/uploads/2017/02/alyaom-1-1-1.png" group-title="AR | SYRIA 4K | سوريا",SYR: Al Yaum TV HD
 http://allone8k.info:8080/live/mai/mai1234/297211.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG9L9fozhuETt8lR_M15tr7kVSgENvm-1j-S8ZP9Dp9uJFJ8E9_asCIDuQ&s" group-title="AR | SYRIA 4K | سوريا",SYR: Al Souria TV 4K
+http://allone8k.info:8080/live/mai/mai1234/644093.m3u8
 #EXTINF:-1 tvg-logo="https://www.syria.tv/themes/custom/syriatv/assets/images/logo.svg" group-title="AR | SYRIA 4K | سوريا",SYR: SYRIA TV 4K الاولي
 http://allone8k.info:8080/live/mai/mai1234/425139.m3u8
 #EXTINF:-1 tvg-logo="https://www.syria.tv/themes/custom/syriatv/assets/images/logo.svg" group-title="AR | SYRIA 4K | سوريا",SYR: Syria 2 4K الثانية
@@ -18071,4 +18077,4 @@ http://allone8k.info:8080/live/mai/mai1234/453199.m3u8
 #EXTINF:-1 tvg-logo="" group-title="مهم",mbc masr test
 http://allone8k.info:8080/live/mai/mai1234/473269.m3u8
 
-# Total: 8826
+# Total: 8829

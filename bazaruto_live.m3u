@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: bazaruto.top:8000
-# Generated: 2026-02-18 18:56:12
+# Generated: 2026-02-19 07:35:07
 # Expires: 2026-11-15
 # Family Safe Edition
 # ==============================================
@@ -201,7 +201,7 @@ http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/50611.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BELGIJA",BE: Notele FHD
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/50612.m3u8
 
-# --- BOSNA (50) ---
+# --- BOSNA (49) ---
 #EXTINF:-1 tvg-logo="http://51.159.220.95:8080/logos/BHT_1_HD..png" group-title="BOSNA",BHT 1
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/38.m3u8
 #EXTINF:-1 tvg-logo="http://51.159.220.95:8080/logos/BHT_1_HD..png" group-title="BOSNA",BHT 1 HD
@@ -300,8 +300,6 @@ http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/46541.m3u8
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/46544.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BOSNA",TV Sehara Online
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/46545.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BOSNA",Neon TV
-http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/46593.m3u8
 
 # --- BUGARIJA (40) ---
 #EXTINF:-1 tvg-logo="http://51.159.220.95:8080/logos/btv_bg.png" group-title="BUGARIJA",BTV
@@ -529,7 +527,7 @@ http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/250.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DOKUMENTARNI",RT Docu HD
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/251.m3u8
 
-# --- FILM (57) ---
+# --- FILM (56) ---
 #EXTINF:-1 tvg-logo="http://51.159.220.95:8080/logos/HBO_HD..png" group-title="FILM",HBO Adria
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/54.m3u8
 #EXTINF:-1 tvg-logo="http://51.159.220.95:8080/logos/HBO_HD..png" group-title="FILM",HBO Adria HD
@@ -642,8 +640,6 @@ http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/661.m3u8
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/753.m3u8
 #EXTINF:-1 tvg-logo="" group-title="FILM",SciFi Chanel
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/3194.m3u8
-#EXTINF:-1 tvg-logo="" group-title="FILM",TimeOut
-http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/16707.m3u8
 
 # --- FRANCIJA (246) ---
 #EXTINF:-1 tvg-logo="" group-title="FRANCIJA",FR: RTS Un HD
@@ -2397,7 +2393,7 @@ http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/51846.m3u8
 #EXTINF:-1 tvg-logo="" group-title="HOLANDIJA",NL:  Big Brother 1 FHD
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/51847.m3u8
 
-# --- HRVATSKA (39) ---
+# --- HRVATSKA (38) ---
 #EXTINF:-1 tvg-logo="http://51.159.220.95:8080/logos/HRT_1_HD..png" group-title="HRVATSKA",HRT 1
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/1.m3u8
 #EXTINF:-1 tvg-logo="http://51.159.220.95:8080/logos/HRT_1_HD..png" group-title="HRVATSKA",HRT 1 HD
@@ -2468,8 +2464,6 @@ http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/5806.m3u8
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/6259.m3u8
 #EXTINF:-1 tvg-logo="" group-title="HRVATSKA",Aurora TV
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/16675.m3u8
-#EXTINF:-1 tvg-logo="" group-title="HRVATSKA",Mreza Split
-http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/16973.m3u8
 #EXTINF:-1 tvg-logo="http://51.159.220.95:8080/logos/NOVA_FAMILY_HD..png" group-title="HRVATSKA",Nova Family
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/39156.m3u8
 #EXTINF:-1 tvg-logo="" group-title="HRVATSKA",Nova World
@@ -3985,4 +3979,4 @@ http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/53504.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TURCIJA",TR: Outside TV HD US
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/53505.m3u8
 
-# Total: 1965
+# Total: 1962

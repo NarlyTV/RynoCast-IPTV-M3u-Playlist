@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: premiumstvs.net:8080
-# Generated: 2026-02-18 18:42:09
+# Generated: 2026-02-19 07:27:01
 # Expires: 2026-02-22
 # Family Safe Edition
 # ==============================================
@@ -2981,7 +2981,15 @@ http://premiumstvs.net:8080/movie/khFzEWQn/fP85XcC7E/83917.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/6oH378KUfCEitzJkm07r97L0RsZ.jpg" group-title="Movies | Filma Te Dubluar Në Shqip Për Femijë",Elementet - Dubluar në Shqip 2023
 http://premiumstvs.net:8080/movie/khFzEWQn/fP85XcC7E/83914.mp4
 
-# --- Movies | Filma Te Fundit Me Titra Shqip (1212) ---
+# --- Movies | Filma Te Fundit Me Titra Shqip (1216) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/65Jr1JAgWlu9em8zHhAfrNJJQBt.jpg" group-title="Movies | Filma Te Fundit Me Titra Shqip",The Tank (2025)
+http://premiumstvs.net:8080/movie/khFzEWQn/fP85XcC7E/115602.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hodlFSvJftThzylcwFs1W0PsVuF.jpg" group-title="Movies | Filma Te Fundit Me Titra Shqip",The Great Wall (2016)
+http://premiumstvs.net:8080/movie/khFzEWQn/fP85XcC7E/115601.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/kK1BGkG3KAvWB0WMV1DfOx9yTMZ.jpg" group-title="Movies | Filma Te Fundit Me Titra Shqip",28 Years Later: The Bone Temple (2026)
+http://premiumstvs.net:8080/movie/khFzEWQn/fP85XcC7E/115600.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rF6txsM6cgF9vg6Ra5sNbkvUwrw.jpg" group-title="Movies | Filma Te Fundit Me Titra Shqip",Twisted (2026)
+http://premiumstvs.net:8080/movie/khFzEWQn/fP85XcC7E/115599.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/cWsBscZzwu5brg9YjNkGewRUvJX.jpg" group-title="Movies | Filma Te Fundit Me Titra Shqip",The Housemaid (2025)
 http://premiumstvs.net:8080/movie/khFzEWQn/fP85XcC7E/115598.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rKleYiEj4pFqxedTRWfujLooi84.jpg" group-title="Movies | Filma Te Fundit Me Titra Shqip",Primate (2026)
@@ -12345,4 +12353,4 @@ http://premiumstvs.net:8080/series/khFzEWQn/fP85XcC7E/248
 #EXTINF:-1 tvg-logo="" group-title="Series | Netflix Series",Squid Game: The Challenge
 http://premiumstvs.net:8080/series/khFzEWQn/fP85XcC7E/247
 
-# Total: 6139
+# Total: 6143

@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: 206.212.244.71:8080
-# Generated: 2026-02-18 18:55:19
+# Generated: 2026-02-19 07:29:55
 # Expires: 2026-06-05
 # Family Safe Edition
 # ==============================================
@@ -6621,7 +6621,7 @@ http://206.212.244.71:8080/movie/BRIDGITS@YAHOO.COM/BRIDGITS@2022/262231.mp4
 #EXTINF:-1 tvg-logo="None" group-title="Movies | 2025 MOVIES",Different.With.Me.2025.720p.WEBRip.x264.AAC-[YTS.BZ]
 http://206.212.244.71:8080/movie/BRIDGITS@YAHOO.COM/BRIDGITS@2022/262232.mp4
 
-# --- Movies | 2026 Movies (23) ---
+# --- Movies | 2026 Movies (28) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p4bW2sJKAwcHuLpfoZK7Zo63osA.jpg" group-title="Movies | 2026 Movies",The Rip (2026)
 http://206.212.244.71:8080/movie/BRIDGITS@YAHOO.COM/BRIDGITS@2022/260134.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gbVwHl4YPSq6BcC92TQpe7qUTh6.jpg" group-title="Movies | 2026 Movies",The Wrecking Crew (2026)
@@ -6662,6 +6662,16 @@ http://206.212.244.71:8080/movie/BRIDGITS@YAHOO.COM/BRIDGITS@2022/262260.mp4
 http://206.212.244.71:8080/movie/BRIDGITS@YAHOO.COM/BRIDGITS@2022/262261.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9wBzRaeWfELNOPmcvOVTmB3kDEl.jpg" group-title="Movies | 2026 Movies",Yoh! Bestie (2026)
 http://206.212.244.71:8080/movie/BRIDGITS@YAHOO.COM/BRIDGITS@2022/262262.mp4
+#EXTINF:-1 tvg-logo="https://www.imdb.com/title/tt32141377/?ref_=nv_sr_srsg_0_tt_6_nm_2_in_0_q_28" group-title="Movies | 2026 Movies",28 Years Later: The Bone Temple (2026)
+http://206.212.244.71:8080/movie/BRIDGITS@YAHOO.COM/BRIDGITS@2022/262300.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uhyhWRzgCSiVfY0Ighgz9ujP85T.jpg" group-title="Movies | 2026 Movies",Death Name (2026)
+http://206.212.244.71:8080/movie/BRIDGITS@YAHOO.COM/BRIDGITS@2022/262301.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f23tQmbHtSTjOXuENgOjNbtk7Fi.jpg" group-title="Movies | 2026 Movies",Hands (2026)
+http://206.212.244.71:8080/movie/BRIDGITS@YAHOO.COM/BRIDGITS@2022/262302.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tQti9QTf13MfzNpXguijgNh7ojE.jpg" group-title="Movies | 2026 Movies",Hellfire (2026)
+http://206.212.244.71:8080/movie/BRIDGITS@YAHOO.COM/BRIDGITS@2022/262303.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pyok1kZJCfyuFapYXzHcy7BLlQa.jpg" group-title="Movies | 2026 Movies",Mercy (2026)
+http://206.212.244.71:8080/movie/BRIDGITS@YAHOO.COM/BRIDGITS@2022/262304.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bR23eSZSnjYpYpAjbbwecnEROTq.jpg" group-title="Movies | 2026 Movies",The Art of Telling Lies (2026)
 http://206.212.244.71:8080/movie/BRIDGITS@YAHOO.COM/BRIDGITS@2022/261836.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jHyir7bVDhZm90qxUhXHTO7BvyA.jpg" group-title="Movies | 2026 Movies",The Housemaid (2025)
@@ -28711,4 +28721,4 @@ http://206.212.244.71:8080/series/BRIDGITS@YAHOO.COM/BRIDGITS@2022/2348
 #EXTINF:-1 tvg-logo="" group-title="Series | All Series",The Night Manager
 http://206.212.244.71:8080/series/BRIDGITS@YAHOO.COM/BRIDGITS@2022/2350
 
-# Total: 14297
+# Total: 14302

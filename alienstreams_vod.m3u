@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: alienstreams.fi:8080
-# Generated: 2026-02-18 18:42:16
+# Generated: 2026-02-19 07:24:21
 # Expires: 2026-04-03
 # Family Safe Edition
 # ==============================================
@@ -14878,12 +14878,12 @@ http://alienstreams.fi:8080/series/karekare/karekare/417028
 http://alienstreams.fi:8080/series/karekare/karekare/404724
 #EXTINF:-1 tvg-logo="" group-title="Series | Danish [Series]",Nicklas Pranker
 http://alienstreams.fi:8080/series/karekare/karekare/404881
+#EXTINF:-1 tvg-logo="" group-title="Series | Danish [Series]",The Rain
+http://alienstreams.fi:8080/series/karekare/karekare/404996
 #EXTINF:-1 tvg-logo="" group-title="Series | Danish [Series]",Dr. Dip
 http://alienstreams.fi:8080/series/karekare/karekare/405109
 #EXTINF:-1 tvg-logo="" group-title="Series | Danish [Series]",Vejens helte
 http://alienstreams.fi:8080/series/karekare/karekare/405222
-#EXTINF:-1 tvg-logo="" group-title="Series | Danish [Series]",The Rain
-http://alienstreams.fi:8080/series/karekare/karekare/404996
 #EXTINF:-1 tvg-logo="" group-title="Series | Danish [Series]",Huset
 http://alienstreams.fi:8080/series/karekare/karekare/403476
 #EXTINF:-1 tvg-logo="" group-title="Series | Danish [Series]",Sommerdahl
@@ -14891,7 +14891,9 @@ http://alienstreams.fi:8080/series/karekare/karekare/403590
 #EXTINF:-1 tvg-logo="" group-title="Series | Danish [Series]",Ikke et ord
 http://alienstreams.fi:8080/series/karekare/karekare/403839
 
-# --- Series | Documentary [Series] (299) ---
+# --- Series | Documentary [Series] (300) ---
+#EXTINF:-1 tvg-logo="" group-title="Series | Documentary [Series]",Being Gordon Ramsay
+http://alienstreams.fi:8080/series/karekare/karekare/494627
 #EXTINF:-1 tvg-logo="" group-title="Series | Documentary [Series]",Reality Check: Inside America's Next Top Model
 http://alienstreams.fi:8080/series/karekare/karekare/494612
 #EXTINF:-1 tvg-logo="" group-title="Series | Documentary [Series]",Max Verstappen - New Ground
@@ -15788,8 +15790,6 @@ http://alienstreams.fi:8080/series/karekare/karekare/403218
 http://alienstreams.fi:8080/series/karekare/karekare/403275
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Devils
 http://alienstreams.fi:8080/series/karekare/karekare/403287
-#EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",The Crossover
-http://alienstreams.fi:8080/series/karekare/karekare/404187
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Shadow and Bone
 http://alienstreams.fi:8080/series/karekare/karekare/404193
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Insomnia
@@ -16182,8 +16182,6 @@ http://alienstreams.fi:8080/series/karekare/karekare/404989
 http://alienstreams.fi:8080/series/karekare/karekare/404991
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Vida
 http://alienstreams.fi:8080/series/karekare/karekare/404992
-#EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",El Chapo
-http://alienstreams.fi:8080/series/karekare/karekare/404995
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",The Midwich Cuckoos
 http://alienstreams.fi:8080/series/karekare/karekare/404997
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Lessons in Chemistry
@@ -16280,6 +16278,8 @@ http://alienstreams.fi:8080/series/karekare/karekare/405270
 http://alienstreams.fi:8080/series/karekare/karekare/405271
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Time
 http://alienstreams.fi:8080/series/karekare/karekare/405276
+#EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",El Chapo
+http://alienstreams.fi:8080/series/karekare/karekare/404995
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",30 Coins
 http://alienstreams.fi:8080/series/karekare/karekare/403227
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",4 Blocks
@@ -16718,6 +16718,8 @@ http://alienstreams.fi:8080/series/karekare/karekare/404181
 http://alienstreams.fi:8080/series/karekare/karekare/404184
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",The Playlist
 http://alienstreams.fi:8080/series/karekare/karekare/404186
+#EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",The Crossover
+http://alienstreams.fi:8080/series/karekare/karekare/404187
 
 # --- Series | English [Series] (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | English [Series]",Sugar
@@ -18919,4 +18921,4 @@ http://alienstreams.fi:8080/series/karekare/karekare/475290
 #EXTINF:-1 tvg-logo="" group-title="Series | Western [Series]",How the West Was Won
 http://alienstreams.fi:8080/series/karekare/karekare/459987
 
-# Total: 9400
+# Total: 9401
