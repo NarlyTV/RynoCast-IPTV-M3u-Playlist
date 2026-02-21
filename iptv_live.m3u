@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: iptv.darktv.eu:25461
-# Generated: 2026-02-21 07:14:42
+# Generated: 2026-02-21 18:29:12
 # Expires: 2026-04-01
 # Family Safe Edition
 # ==============================================
@@ -2889,7 +2889,7 @@ http://iptv.darktv.eu:25461/live/AkgunToprak/f4ffhAAN/2848.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/belgeseldark.png" group-title="TR - BELGESEL",(TR) (TR) 103 Gol
 http://iptv.darktv.eu:25461/live/AkgunToprak/f4ffhAAN/24615.m3u8
 
-# --- TR - BEİN SPORTS (26) ---
+# --- TR - BEİN SPORTS (25) ---
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/beinmenasports01hd.png" group-title="TR - BEİN SPORTS",(TR) Bein Sports Haber 4K
 http://iptv.darktv.eu:25461/live/AkgunToprak/f4ffhAAN/3027.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/beinmenasports01hd.png" group-title="TR - BEİN SPORTS",(TR) Bein Sports Haber RAW
@@ -2918,8 +2918,6 @@ http://iptv.darktv.eu:25461/live/AkgunToprak/f4ffhAAN/195746.m3u8
 http://iptv.darktv.eu:25461/live/AkgunToprak/f4ffhAAN/136248.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/beinmenasports03hd.png" group-title="TR - BEİN SPORTS",(TR) Bein Sports 5 RAW
 http://iptv.darktv.eu:25461/live/AkgunToprak/f4ffhAAN/195747.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/beinmenasports04hd.png" group-title="TR - BEİN SPORTS",(TR) ⚡️ Bein Sports 4 4K ᵘˡᵗʳᵃ
-http://iptv.darktv.eu:25461/live/AkgunToprak/f4ffhAAN/3028.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/beinmenasports01hd.png" group-title="TR - BEİN SPORTS",(TR) Bein Sports 1 HD+
 http://iptv.darktv.eu:25461/live/AkgunToprak/f4ffhAAN/34936.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/beinmenasports01hd.png" group-title="TR - BEİN SPORTS",(TR) Bein Sports 1 HD
@@ -4223,4 +4221,4 @@ http://iptv.darktv.eu:25461/live/AkgunToprak/f4ffhAAN/16560.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Unknown",(TR) - DARK TRT FM
 http://iptv.darktv.eu:25461/live/AkgunToprak/f4ffhAAN/8056.m3u8
 
-# Total: 2037
+# Total: 2036

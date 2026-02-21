@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: wolftv.me
-# Generated: 2026-02-21 07:23:19
+# Generated: 2026-02-21 18:40:12
 # Expires: 2026-12-26
 # Family Safe Edition
 # ==============================================
@@ -585,7 +585,7 @@ http://wolftv.me/live/24db9efda220/ad9da59a63/368754.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/12742.png?78004" group-title="BE| SPORT HD/4K",BE: VOO SPORT WORLD 3 4K
 http://wolftv.me/live/24db9efda220/ad9da59a63/368756.m3u8
 
-# --- BE| TELESAT ᴿᴬᵂ (34) ---
+# --- BE| TELESAT ᴿᴬᵂ (35) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Animated-Flag-Belgium.gif" group-title="BE| TELESAT ᴿᴬᵂ",####### TELESAT ᴿᴬᵂ #######
 http://wolftv.me/live/24db9efda220/ad9da59a63/1388814.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/13965.png?ver=42669" group-title="BE| TELESAT ᴿᴬᵂ",TS: LA TROIS ᴿᴬᵂ
@@ -620,12 +620,8 @@ http://wolftv.me/live/24db9efda220/ad9da59a63/1388797.m3u8
 http://wolftv.me/live/24db9efda220/ad9da59a63/1388796.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/13965.png?ver=42669" group-title="BE| TELESAT ᴿᴬᵂ",TS: AL JAZEERA ENGLISH ᴿᴬᵂ
 http://wolftv.me/live/24db9efda220/ad9da59a63/1388794.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/13965.png?ver=42669" group-title="BE| TELESAT ᴿᴬᵂ",TS: ABXPLORE ᴿᴬᵂ
-http://wolftv.me/live/24db9efda220/ad9da59a63/1388795.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/13965.png?ver=42669" group-title="BE| TELESAT ᴿᴬᵂ",TS: BLOOMBERG EUROPE ᴿᴬᵂ
 http://wolftv.me/live/24db9efda220/ad9da59a63/1388793.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/13965.png?ver=42669" group-title="BE| TELESAT ᴿᴬᵂ",TS: C8 ᴿᴬᵂ
-http://wolftv.me/live/24db9efda220/ad9da59a63/1388792.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/13965.png?ver=42669" group-title="BE| TELESAT ᴿᴬᵂ",TS: COMÉDIE+ ᴿᴬᵂ
 http://wolftv.me/live/24db9efda220/ad9da59a63/1388790.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/13965.png?ver=42669" group-title="BE| TELESAT ᴿᴬᵂ",TS: DUCK TV ᴿᴬᵂ
@@ -638,10 +634,6 @@ http://wolftv.me/live/24db9efda220/ad9da59a63/1388787.m3u8
 http://wolftv.me/live/24db9efda220/ad9da59a63/1388786.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/13965.png?ver=42669" group-title="BE| TELESAT ᴿᴬᵂ",TS: MEZZO ᴿᴬᵂ
 http://wolftv.me/live/24db9efda220/ad9da59a63/1388785.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/13965.png?ver=42669" group-title="BE| TELESAT ᴿᴬᵂ",TS: MTV 00S ᴿᴬᵂ
-http://wolftv.me/live/24db9efda220/ad9da59a63/1388784.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/13965.png?ver=42669" group-title="BE| TELESAT ᴿᴬᵂ",TS: MTV 80S ᴿᴬᵂ
-http://wolftv.me/live/24db9efda220/ad9da59a63/1388783.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/13965.png?ver=42669" group-title="BE| TELESAT ᴿᴬᵂ",TS: MTV FRANCE ᴿᴬᵂ (+)
 http://wolftv.me/live/24db9efda220/ad9da59a63/1388782.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/13965.png?ver=42669" group-title="BE| TELESAT ᴿᴬᵂ",TS: NAUTICAL CHANNEL ᴿᴬᵂ
@@ -654,6 +646,16 @@ http://wolftv.me/live/24db9efda220/ad9da59a63/1388779.m3u8
 http://wolftv.me/live/24db9efda220/ad9da59a63/1388778.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/13965.png?ver=42669" group-title="BE| TELESAT ᴿᴬᵂ",TS: PLANETE+ CRIME ᴿᴬᵂ
 http://wolftv.me/live/24db9efda220/ad9da59a63/1388777.m3u8
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/13965.png?ver=42669" group-title="BE| TELESAT ᴿᴬᵂ",TS: ABX ᴿᴬᵂ
+http://wolftv.me/live/24db9efda220/ad9da59a63/1836636.m3u8
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/13965.png?ver=42669" group-title="BE| TELESAT ᴿᴬᵂ",TS: MUSEUM TV ᴿᴬᵂ
+http://wolftv.me/live/24db9efda220/ad9da59a63/1836635.m3u8
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/13965.png?ver=42669" group-title="BE| TELESAT ᴿᴬᵂ",TS: NATIONAL GEOGRAPHIC ᴿᴬᵂ
+http://wolftv.me/live/24db9efda220/ad9da59a63/1836633.m3u8
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/13965.png?ver=42669" group-title="BE| TELESAT ᴿᴬᵂ",TS: C STAR ᴿᴬᵂ
+http://wolftv.me/live/24db9efda220/ad9da59a63/1836632.m3u8
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/13965.png?ver=42669" group-title="BE| TELESAT ᴿᴬᵂ",TS: DISNEY JUNIOR ᴿᴬᵂ
+http://wolftv.me/live/24db9efda220/ad9da59a63/1836634.m3u8
 
 # --- FR| 24/7 BEIN CINEMA ᴿᴬᵂ (20) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Animated-Flag-France.gif" group-title="FR| 24/7 BEIN CINEMA ᴿᴬᵂ",### 24/7 BEIN CINEMA ᴿᴬᵂ ###
@@ -2772,13 +2774,13 @@ http://wolftv.me/live/24db9efda220/ad9da59a63/1559195.m3u8
 # --- FR| MAX PPV (101) ---
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C36P8bZy/MAX-Logo-GIF.gif" group-title="FR| MAX PPV",####### MAX PPV #######
 http://wolftv.me/live/24db9efda220/ad9da59a63/1536203.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="FR| MAX PPV",FR: MAX PPV 1 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="FR| MAX PPV",FR: MAX PPV 1 - FREESTYLE SKIING | Sat 21 Feb 09:54 | 8K EXCLUSIVE
 http://wolftv.me/live/24db9efda220/ad9da59a63/1536202.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="FR| MAX PPV",FR: MAX PPV 2 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="FR| MAX PPV",FR: MAX PPV 2 - MULTIVIEW | Sat 21 Feb 09:55 | 8K EXCLUSIVE
 http://wolftv.me/live/24db9efda220/ad9da59a63/1536201.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="FR| MAX PPV",FR: MAX PPV 3 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="FR| MAX PPV",FR: MAX PPV 3 - BOBSLEIGH | Sat 21 Feb 09:55 | 8K EXCLUSIVE
 http://wolftv.me/live/24db9efda220/ad9da59a63/1536200.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="FR| MAX PPV",FR: MAX PPV 4 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="FR| MAX PPV",FR: MAX PPV 4 - CROSS-COUNTRY SKIING | Sat 21 Feb 10:44 | 8K EXCLUSIVE
 http://wolftv.me/live/24db9efda220/ad9da59a63/1536199.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="FR| MAX PPV",FR: MAX PPV 5 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://wolftv.me/live/24db9efda220/ad9da59a63/1536198.m3u8
@@ -3649,4 +3651,4 @@ http://wolftv.me/live/24db9efda220/ad9da59a63/612647.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/6576.png?ver=29759" group-title="FR| SPORT HD/4K",FR: MULTISPORTS 6 HD
 http://wolftv.me/live/24db9efda220/ad9da59a63/612648.m3u8
 
-# Total: 1789
+# Total: 1790

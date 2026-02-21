@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: 206.212.244.71:8080
-# Generated: 2026-02-21 07:19:03
+# Generated: 2026-02-21 18:41:19
 # Expires: 2026-06-05
 # Family Safe Edition
 # ==============================================
@@ -6631,7 +6631,7 @@ http://206.212.244.71:8080/movie/BRIDGITS@YAHOO.COM/BRIDGITS@2022/262341.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b9MvECzeo7G6f4jML02yOWwsiPN.jpg" group-title="Movies | 2025 MOVIES",Sorry Ms Jackson (2025)
 http://206.212.244.71:8080/movie/BRIDGITS@YAHOO.COM/BRIDGITS@2022/262342.mp4
 
-# --- Movies | 2026 Movies (30) ---
+# --- Movies | 2026 Movies (31) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p4bW2sJKAwcHuLpfoZK7Zo63osA.jpg" group-title="Movies | 2026 Movies",The Rip (2026)
 http://206.212.244.71:8080/movie/BRIDGITS@YAHOO.COM/BRIDGITS@2022/260134.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gbVwHl4YPSq6BcC92TQpe7qUTh6.jpg" group-title="Movies | 2026 Movies",The Wrecking Crew (2026)
@@ -6686,6 +6686,8 @@ http://206.212.244.71:8080/movie/BRIDGITS@YAHOO.COM/BRIDGITS@2022/262335.mp4
 http://206.212.244.71:8080/movie/BRIDGITS@YAHOO.COM/BRIDGITS@2022/262336.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jWGOCUlzF4aCVLwHoiuqWWfhcrA.jpg" group-title="Movies | 2026 Movies",Joe's College Road Trip (2026)
 http://206.212.244.71:8080/movie/BRIDGITS@YAHOO.COM/BRIDGITS@2022/262337.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yQtms7CSM0CE0W6dYbLLAATb5rL.jpg" group-title="Movies | 2026 Movies",The Choral (2025)
+http://206.212.244.71:8080/movie/BRIDGITS@YAHOO.COM/BRIDGITS@2022/262383.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bR23eSZSnjYpYpAjbbwecnEROTq.jpg" group-title="Movies | 2026 Movies",The Art of Telling Lies (2026)
 http://206.212.244.71:8080/movie/BRIDGITS@YAHOO.COM/BRIDGITS@2022/261836.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jHyir7bVDhZm90qxUhXHTO7BvyA.jpg" group-title="Movies | 2026 Movies",The Housemaid (2025)
@@ -28745,4 +28747,4 @@ http://206.212.244.71:8080/series/BRIDGITS@YAHOO.COM/BRIDGITS@2022/2348
 #EXTINF:-1 tvg-logo="" group-title="Series | All Series",The Night Manager
 http://206.212.244.71:8080/series/BRIDGITS@YAHOO.COM/BRIDGITS@2022/2350
 
-# Total: 14314
+# Total: 14315
