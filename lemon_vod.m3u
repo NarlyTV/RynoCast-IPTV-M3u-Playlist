@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: lemon.catchmeifyo.com:8000
-# Generated: 2026-02-24 18:54:59
+# Generated: 2026-02-25 07:31:39
 # Expires: 2026-04-05
 # Family Safe Edition
 # ==============================================
@@ -2103,7 +2103,7 @@ http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/187066.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hNEokmUke0dazoBhttFN0o3L7Xv.jpg" group-title="Movies | Actie / Action",X-Men: First Class (2011)
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/190855.mkv
 
-# --- Movies | Amazon Prime (250) ---
+# --- Movies | Amazon Prime (252) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Amazon Prime",APB
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/61.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Amazon Prime",Condor
@@ -2604,6 +2604,10 @@ http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/3590.mp4
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/3599.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Amazon Prime",Ferry Lost
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/3648.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Amazon Prime",Frank's Veiling: Influencers onder de hamer
+http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/3663.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Amazon Prime",Rise of the Raven
+http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/3664.mp4
 
 # --- Movies | Animatie / Animation (189) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ygmrU2F2JwUtjpn6EBOrRq0pKCD.jpg" group-title="Movies | Animatie / Animation",Music Land
@@ -8983,7 +8987,7 @@ http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/72955.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | Glory Kickboxing",Glory Rivals 1
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/115194.mkv
 
-# --- Movies | HBO MAX (189) ---
+# --- Movies | HBO MAX (191) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | HBO MAX",Splitting Up Together - 2018
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/4.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | HBO MAX",The Dag
@@ -9362,6 +9366,10 @@ http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/3528.mp4
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/3600.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | HBO MAX",A Knight of the Seven Kingdoms
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/3610.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | HBO MAX",Common Side Effects
+http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/3656.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | HBO MAX",Billy Joel: And So It Goes
+http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/3659.mp4
 
 # --- Movies | Historisch / History (25) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mB8sqwHkVZWBvhEn71ICewPCfNS.jpg" group-title="Movies | Historisch / History",The Great War
@@ -12263,7 +12271,7 @@ http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/138978.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cs8sKGIFzEZcIPLMHGmMkQeKh5D.jpg" group-title="Movies | NL GESPROKEN KINDERFILMS",Plop in de Wolken (2000)
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/138979.mkv
 
-# --- Movies | NLZIET (120) ---
+# --- Movies | NLZIET (121) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | NLZIET",Penoza
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/14.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NLZIET",Nieuwe Buren
@@ -12504,6 +12512,8 @@ http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/3631.mp4
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/3634.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NLZIET",Watch Your Back
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/3642.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | NLZIET",Ellie op patrouille
+http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/3655.mp4
 
 # --- Movies | NPO Start (150) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | NPO Start",B.A.B.S.
@@ -12807,7 +12817,7 @@ http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/3626.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NPO Start",App me als je thuis bent
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/3650.mp4
 
-# --- Movies | Netflix (807) ---
+# --- Movies | Netflix (810) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Netflix",Keizersvrouwen
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/1.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Netflix",De Twaalf
@@ -14422,6 +14432,12 @@ http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/3622.mp4
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/3638.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Netflix",Unfamiliar
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/3641.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Netflix",Mark Rober's CrunchLabs
+http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/3660.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Netflix",Reality Check: Inside America's Next Top Model
+http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/3661.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Netflix",Take That
+http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/3662.mp4
 
 # --- Movies | Nieuwe Releases 2022 (613) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xuclYqDtK69WIJUBgbIkHOpMvGi.jpg" group-title="Movies | Nieuwe Releases 2022",American Siege (2022)
@@ -18981,6 +18997,10 @@ http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/197669.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/92laLBRtuyOm7l32XZJT7T6OXW1.jpg" group-title="Movies | Nieuwe Releases 2025",Is This Thing On? (2025)
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/197715.mkv
 
+# --- Movies | Nieuwe Releases 2026 (1) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nDEbtlRgUl14gamR0FbG4qxdLY5.jpg" group-title="Movies | Nieuwe Releases 2026",UFC Fight Night 267: Strickland vs. Hernandez (2026)
+http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/197804.mkv
+
 # --- Movies | Oorlog / War (59) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LlqyjAik3Kh68QQ9AchSJEF0Z5.jpg" group-title="Movies | Oorlog / War",Jarhead: Law of Return
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/15644.mkv
@@ -20683,7 +20703,7 @@ http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/3193.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Viaplay",Max Verstappen – New Ground
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/3643.mp4
 
-# --- Movies | Videoland (288) ---
+# --- Movies | Videoland (290) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Videoland",De 12 van Schouwendam
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/3.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Videoland",Mocro Maffia
@@ -21260,6 +21280,10 @@ http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/3621.mp4
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/3632.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Videoland",My Wife, My Killer: The Secret Footage
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/3646.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Videoland",De Drop De Engste Roadtrip (2026)
+http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/3652.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Videoland",Echte Meisjes in de Jungle
+http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/3658.mp4
 
 # --- Movies | WESTERN FILMS (51) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6rVIjriV3Sv1B9INrzGRXW8Q7aY.jpg" group-title="Movies | WESTERN FILMS",The Magnificent Seven (1960)
@@ -21383,7 +21407,7 @@ http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/77701.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/by6iZd4FxSTLCtnyCjyKYao57Ar.jpg" group-title="Movies | WWE PPV's",WWE WrestleMania Backlash (2021)
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/77702.mkv
 
-# --- Series | INTERNATIONALE SERIES (420) ---
+# --- Series | INTERNATIONALE SERIES (419) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | INTERNATIONALE SERIES",Tytgat Chocolat
 http://lemon.catchmeifyo.com:8000/series/4914756410/8072556864/17
 #EXTINF:-1 tvg-logo="" group-title="Series | INTERNATIONALE SERIES",Eigen Kweek
@@ -22218,8 +22242,6 @@ http://lemon.catchmeifyo.com:8000/series/4914756410/8072556864/3627
 http://lemon.catchmeifyo.com:8000/series/4914756410/8072556864/3637
 #EXTINF:-1 tvg-logo="" group-title="Series | INTERNATIONALE SERIES",The Pendragon Cycle: Rise of the Merlin
 http://lemon.catchmeifyo.com:8000/series/4914756410/8072556864/3647
-#EXTINF:-1 tvg-logo="" group-title="Series | INTERNATIONALE SERIES",De Drop De Engste Roadtrip (2026)
-http://lemon.catchmeifyo.com:8000/series/4914756410/8072556864/3652
 #EXTINF:-1 tvg-logo="" group-title="Series | INTERNATIONALE SERIES",Vanished
 http://lemon.catchmeifyo.com:8000/series/4914756410/8072556864/3653
 #EXTINF:-1 tvg-logo="" group-title="Series | INTERNATIONALE SERIES",Love Story
@@ -22399,4 +22421,4 @@ http://lemon.catchmeifyo.com:8000/series/4914756410/8072556864/2750
 #EXTINF:-1 tvg-logo="" group-title="Series | NL GESPROKEN SERIES",The Hunt (Een van Ons)
 http://lemon.catchmeifyo.com:8000/series/4914756410/8072556864/2751
 
-# Total: 11144
+# Total: 11154

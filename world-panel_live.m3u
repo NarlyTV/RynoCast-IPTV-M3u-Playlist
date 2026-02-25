@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: world-panel.co:8080
-# Generated: 2026-02-24 18:44:47
+# Generated: 2026-02-25 07:32:36
 # Expires: 2026-03-09
 # Family Safe Edition
 # ==============================================
@@ -1427,7 +1427,7 @@ http://world-panel.co:8080/live/PieraSalvatore1/K9vWdcuVnA/54.m3u8
 #EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/0086feb1d5a5acfff5c1ff786bb5f4d5.png" group-title="SKY_ PREM_DISNEY",Cartoon Network HD
 http://world-panel.co:8080/live/PieraSalvatore1/K9vWdcuVnA/19829.m3u8
 
-# --- TIVUSAT (79) ---
+# --- TIVUSAT (83) ---
 #EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/d5f0650463e1d57e4d558b053d7c01a7.png" group-title="TIVUSAT",Rai 1 HD
 http://world-panel.co:8080/live/PieraSalvatore1/K9vWdcuVnA/1.m3u8
 #EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/rai2.png" group-title="TIVUSAT",Rai 2 HD
@@ -1468,6 +1468,12 @@ http://world-panel.co:8080/live/PieraSalvatore1/K9vWdcuVnA/235.m3u8
 http://world-panel.co:8080/live/PieraSalvatore1/K9vWdcuVnA/236.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TIVUSAT",Tv 8 FHD
 http://world-panel.co:8080/live/PieraSalvatore1/K9vWdcuVnA/85134.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TIVUSAT",RaiPremium
+http://world-panel.co:8080/live/PieraSalvatore1/K9vWdcuVnA/87042.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TIVUSAT",Rai Movie
+http://world-panel.co:8080/live/PieraSalvatore1/K9vWdcuVnA/87043.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TIVUSAT",Rai 4 HD
+http://world-panel.co:8080/live/PieraSalvatore1/K9vWdcuVnA/87044.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TIVUSAT",====== TIVUSAT SD ====
 http://world-panel.co:8080/live/PieraSalvatore1/K9vWdcuVnA/84333.m3u8
 #EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/587dd75a5496cc7266c62880adc8fa6b.png" group-title="TIVUSAT",Rai 1 SD
@@ -1566,6 +1572,8 @@ http://world-panel.co:8080/live/PieraSalvatore1/K9vWdcuVnA/8521.m3u8
 http://world-panel.co:8080/live/PieraSalvatore1/K9vWdcuVnA/49246.m3u8
 #EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/dba3061396ad794720c3930fd7ee382f.png" group-title="TIVUSAT",RTL 102.5 TV
 http://world-panel.co:8080/live/PieraSalvatore1/K9vWdcuVnA/116.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TIVUSAT",Rai Radio2 HD
+http://world-panel.co:8080/live/PieraSalvatore1/K9vWdcuVnA/87041.m3u8
 #EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/globus.png" group-title="TIVUSAT",Globus Television
 http://world-panel.co:8080/live/PieraSalvatore1/K9vWdcuVnA/47839.m3u8
 #EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/84a46a26239e7d4e251c495ca351b6d6.png" group-title="TIVUSAT",Telemantova
@@ -1587,7 +1595,7 @@ http://world-panel.co:8080/live/PieraSalvatore1/K9vWdcuVnA/14579.m3u8
 #EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/italians.jpg" group-title="TIVUSAT",========= BAMBINI =========
 http://world-panel.co:8080/live/PieraSalvatore1/K9vWdcuVnA/14580.m3u8
 
-# --- TV_SPAGNA (66) ---
+# --- TV_SPAGNA (65) ---
 #EXTINF:-1 tvg-logo="" group-title="TV_SPAGNA",==== SPAGNA ====
 http://world-panel.co:8080/live/PieraSalvatore1/K9vWdcuVnA/15463.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV_SPAGNA",ES-LA 1 HD
@@ -1604,8 +1612,6 @@ http://world-panel.co:8080/live/PieraSalvatore1/K9vWdcuVnA/21311.m3u8
 http://world-panel.co:8080/live/PieraSalvatore1/K9vWdcuVnA/21309.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV_SPAGNA",ES-NEOX
 http://world-panel.co:8080/live/PieraSalvatore1/K9vWdcuVnA/21299.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV_SPAGNA",ES - TELENOVELAS HD
-http://world-panel.co:8080/live/PieraSalvatore1/K9vWdcuVnA/21300.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV_SPAGNA",ES-TV GALICIA
 http://world-panel.co:8080/live/PieraSalvatore1/K9vWdcuVnA/21307.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV_SPAGNA",ES -El Toros HD
@@ -1721,4 +1727,4 @@ http://world-panel.co:8080/live/PieraSalvatore1/K9vWdcuVnA/65405.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV_SPAGNA",ES: M+ LaLiga SmartBank Tv 2 HD
 http://world-panel.co:8080/live/PieraSalvatore1/K9vWdcuVnA/65406.m3u8
 
-# Total: 823
+# Total: 826

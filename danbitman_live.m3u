@@ -1,13 +1,15 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: danbitman.ddns.net:8008
-# Generated: 2026-02-24 18:55:35
+# Generated: 2026-02-25 07:32:48
 # Expires: 2026-09-28
 # Family Safe Edition
 # ==============================================
 
 
 # --- ⚜️ROMANIA TV⚜️ (716) ---
+#EXTINF:-1 tvg-logo="" group-title="⚜️ROMANIA TV⚜️",RXF FIGHT EVENTS
+http://danbitman.ddns.net:8008/live/Cristinel_Ciorascu/jkAEH821DU/617717.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/WzfDK55q/resize.png" group-title="⚜️ROMANIA TV⚜️",PRO TV UHD
 http://danbitman.ddns.net:8008/live/Cristinel_Ciorascu/jkAEH821DU/33760.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jSn8M9Mw/resize.png" group-title="⚜️ROMANIA TV⚜️",PRO TV HD
@@ -1022,8 +1024,6 @@ http://danbitman.ddns.net:8008/live/Cristinel_Ciorascu/jkAEH821DU/617430.m3u8
 http://danbitman.ddns.net:8008/live/Cristinel_Ciorascu/jkAEH821DU/617429.m3u8
 #EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgVRwmbu3U8IrY4W_q1rF7qTeasFckoapICuZjBpGwIjWCRUHIY8oyF0Vo86G_KlMYAFccOre_M6MGHdbN3BJJPKYBrfMialjCb1uXeZG4-_7.png" group-title="⚜️ROMANIA TV⚜️",HDNET TV SCI-FI
 http://danbitman.ddns.net:8008/live/Cristinel_Ciorascu/jkAEH821DU/617428.m3u8
-#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgVRwmbu3U8IrY4W_q1rF7qTeasFckoapICuZjBpGwIjWCRUHIY8oyF0Vo86G_KlMYAFccOre_M6MGHdbN3BJJPKYBrfMialjCb1uXeZG4-_7.png" group-title="⚜️ROMANIA TV⚜️",HDNET TV COMEDY
-http://danbitman.ddns.net:8008/live/Cristinel_Ciorascu/jkAEH821DU/617427.m3u8
 #EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgVRwmbu3U8IrY4W_q1rF7qTeasFckoapICuZjBpGwIjWCRUHIY8oyF0Vo86G_KlMYAFccOre_M6MGHdbN3BJJPKYBrfMialjCb1uXeZG4-_7.png" group-title="⚜️ROMANIA TV⚜️",HDNET TV THRILLER
 http://danbitman.ddns.net:8008/live/Cristinel_Ciorascu/jkAEH821DU/617426.m3u8
 #EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgVRwmbu3U8IrY4W_q1rF7qTeasFckoapICuZjBpGwIjWCRUHIY8oyF0Vo86G_KlMYAFccOre_M6MGHdbN3BJJPKYBrfMialjCb1uXeZG4-_7.png" group-title="⚜️ROMANIA TV⚜️",HDNET TV ACTION

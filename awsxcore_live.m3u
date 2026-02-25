@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: awsxcore.uk:8080
-# Generated: 2026-02-20 07:19:33
+# Generated: 2026-02-25 07:29:04
 # Expires: 2026-11-18
 # Family Safe Edition
 # ==============================================
@@ -53,7 +53,7 @@ http://awsxcore.uk:8080/live/Andrei_Neculoiu/cyMZRSrsx95x/191084.m3u8
 #EXTINF:-1 tvg-logo="http://tebuleau.uk:8080/images/3a1436c0020df67648220a778ae0c0eb.png" group-title="⭐RADIO",RADIO CONSTANTA
 http://awsxcore.uk:8080/live/Andrei_Neculoiu/cyMZRSrsx95x/191085.m3u8
 
-# --- ⭐ROMANIA (500) ---
+# --- ⭐ROMANIA (495) ---
 #EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/mireasa.png" group-title="⭐ROMANIA",MIREASA LIVE
 http://awsxcore.uk:8080/live/Andrei_Neculoiu/cyMZRSrsx95x/204057.m3u8
 #EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/mireasa_plus.png" group-title="⭐ROMANIA",MIREASA PLUS
@@ -114,7 +114,7 @@ http://awsxcore.uk:8080/live/Andrei_Neculoiu/cyMZRSrsx95x/209386.m3u8
 http://awsxcore.uk:8080/live/Andrei_Neculoiu/cyMZRSrsx95x/105.m3u8
 #EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/tvr_2.png" group-title="⭐ROMANIA",TVR 2 SD
 http://awsxcore.uk:8080/live/Andrei_Neculoiu/cyMZRSrsx95x/241.m3u8
-#EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/tvr3.png" group-title="⭐ROMANIA",TVR 3 SD
+#EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/tvr3.png" group-title="⭐ROMANIA",TVR 3
 http://awsxcore.uk:8080/live/Andrei_Neculoiu/cyMZRSrsx95x/106.m3u8
 #EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/tvr_folclor.png" group-title="⭐ROMANIA",TVR FOLCLOR FHD
 http://awsxcore.uk:8080/live/Andrei_Neculoiu/cyMZRSrsx95x/184816.m3u8
@@ -228,14 +228,12 @@ http://awsxcore.uk:8080/live/Andrei_Neculoiu/cyMZRSrsx95x/204888.m3u8
 http://awsxcore.uk:8080/live/Andrei_Neculoiu/cyMZRSrsx95x/168.m3u8
 #EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/prima_news.png" group-title="⭐ROMANIA",PRIMA NEWS FHD
 http://awsxcore.uk:8080/live/Andrei_Neculoiu/cyMZRSrsx95x/190457.m3u8
-#EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/romania_tv.png" group-title="⭐ROMANIA",ROMANIA TV SD
+#EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/romania_tv.png" group-title="⭐ROMANIA",ROMANIA TV
 http://awsxcore.uk:8080/live/Andrei_Neculoiu/cyMZRSrsx95x/95.m3u8
 #EXTINF:-1 tvg-logo="http://tebuleau.uk:8080/images/a2e4822a98337283e39f7b60acf85ec9.png" group-title="⭐ROMANIA",__________ FILME ____________
 http://awsxcore.uk:8080/live/Andrei_Neculoiu/cyMZRSrsx95x/111299.m3u8
 #EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/amc.png" group-title="⭐ROMANIA",AMC FHD
 http://awsxcore.uk:8080/live/Andrei_Neculoiu/cyMZRSrsx95x/306.m3u8
-#EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/amc.png" group-title="⭐ROMANIA",AMC SD
-http://awsxcore.uk:8080/live/Andrei_Neculoiu/cyMZRSrsx95x/307.m3u8
 #EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/axn.png" group-title="⭐ROMANIA",AXN
 http://awsxcore.uk:8080/live/Andrei_Neculoiu/cyMZRSrsx95x/172418.m3u8
 #EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/axn.png" group-title="⭐ROMANIA",AXN FHD
@@ -253,8 +251,6 @@ http://awsxcore.uk:8080/live/Andrei_Neculoiu/cyMZRSrsx95x/13.m3u8
 #EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/bollywood_stars.png" group-title="⭐ROMANIA",BOLLYWOOD STARS
 http://awsxcore.uk:8080/live/Andrei_Neculoiu/cyMZRSrsx95x/209384.m3u8
 #EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/cinemaraton.png" group-title="⭐ROMANIA",CINEMARATON FHD
-http://awsxcore.uk:8080/live/Andrei_Neculoiu/cyMZRSrsx95x/119.m3u8
-#EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/cinemaraton.png" group-title="⭐ROMANIA",CINEMARATON SD
 http://awsxcore.uk:8080/live/Andrei_Neculoiu/cyMZRSrsx95x/312.m3u8
 #EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/cinemax.png" group-title="⭐ROMANIA",CINEMAX FHD
 http://awsxcore.uk:8080/live/Andrei_Neculoiu/cyMZRSrsx95x/17.m3u8
@@ -284,9 +280,7 @@ http://awsxcore.uk:8080/live/Andrei_Neculoiu/cyMZRSrsx95x/209383.m3u8
 http://awsxcore.uk:8080/live/Andrei_Neculoiu/cyMZRSrsx95x/171.m3u8
 #EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/filmbox_extra.png" group-title="⭐ROMANIA",FILMBOX EXTRA FHD
 http://awsxcore.uk:8080/live/Andrei_Neculoiu/cyMZRSrsx95x/201.m3u8
-#EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/filmbox_extra.png" group-title="⭐ROMANIA",FILMBOX EXTRA
-http://awsxcore.uk:8080/live/Andrei_Neculoiu/cyMZRSrsx95x/224.m3u8
-#EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/film_box_family.png" group-title="⭐ROMANIA",FILMBOX FAMILY
+#EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/film_box_family.png" group-title="⭐ROMANIA",FILMBOX FAMILY FHD
 http://awsxcore.uk:8080/live/Andrei_Neculoiu/cyMZRSrsx95x/225.m3u8
 #EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/film_box_premium.png" group-title="⭐ROMANIA",FILMBOX PREMIUM
 http://awsxcore.uk:8080/live/Andrei_Neculoiu/cyMZRSrsx95x/209376.m3u8
@@ -346,7 +340,7 @@ http://awsxcore.uk:8080/live/Andrei_Neculoiu/cyMZRSrsx95x/191102.m3u8
 http://awsxcore.uk:8080/live/Andrei_Neculoiu/cyMZRSrsx95x/204766.m3u8
 #EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/tdc.png" group-title="⭐ROMANIA",TIMELESS DRAMA CHANNEL
 http://awsxcore.uk:8080/live/Andrei_Neculoiu/cyMZRSrsx95x/209378.m3u8
-#EXTINF:-1 tvg-logo="https://abro.live/logos/romanesti/viasat_kino.png" group-title="⭐ROMANIA",VIASAT KINO
+#EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/viasat_kino.png" group-title="⭐ROMANIA",VIASAT KINO
 http://awsxcore.uk:8080/live/Andrei_Neculoiu/cyMZRSrsx95x/104.m3u8
 #EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/warner_tv.png" group-title="⭐ROMANIA",WARNER TV FHD
 http://awsxcore.uk:8080/live/Andrei_Neculoiu/cyMZRSrsx95x/172405.m3u8
@@ -390,12 +384,8 @@ http://awsxcore.uk:8080/live/Andrei_Neculoiu/cyMZRSrsx95x/194.m3u8
 http://awsxcore.uk:8080/live/Andrei_Neculoiu/cyMZRSrsx95x/294.m3u8
 #EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/hgtv.png" group-title="⭐ROMANIA",HGTV FHD
 http://awsxcore.uk:8080/live/Andrei_Neculoiu/cyMZRSrsx95x/120979.m3u8
-#EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/hgtv.png" group-title="⭐ROMANIA",HOME&GARDEN TV HD
-http://awsxcore.uk:8080/live/Andrei_Neculoiu/cyMZRSrsx95x/309.m3u8
 #EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/history.png" group-title="⭐ROMANIA",HISTORY CHANNEL FHD
 http://awsxcore.uk:8080/live/Andrei_Neculoiu/cyMZRSrsx95x/62.m3u8
-#EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/history.png" group-title="⭐ROMANIA",HISTORY CHANNEL HD
-http://awsxcore.uk:8080/live/Andrei_Neculoiu/cyMZRSrsx95x/61.m3u8
 #EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/nat_geo_wild.png" group-title="⭐ROMANIA",NAT GEO WILD FHD
 http://awsxcore.uk:8080/live/Andrei_Neculoiu/cyMZRSrsx95x/80.m3u8
 #EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/nat_geo_wild.png" group-title="⭐ROMANIA",NAT GEO WILD SD
@@ -404,7 +394,7 @@ http://awsxcore.uk:8080/live/Andrei_Neculoiu/cyMZRSrsx95x/79.m3u8
 http://awsxcore.uk:8080/live/Andrei_Neculoiu/cyMZRSrsx95x/78.m3u8
 #EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/national_geographic.png" group-title="⭐ROMANIA",NATIONAL GEOGRAPHIC SD
 http://awsxcore.uk:8080/live/Andrei_Neculoiu/cyMZRSrsx95x/132.m3u8
-#EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/fishing_and_hunting.png" group-title="⭐ROMANIA",FISHING AND HUNTING SD
+#EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/fishing_and_hunting.png" group-title="⭐ROMANIA",FISHING AND HUNTING
 http://awsxcore.uk:8080/live/Andrei_Neculoiu/cyMZRSrsx95x/54.m3u8
 #EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/tlc.png" group-title="⭐ROMANIA",TLC FHD
 http://awsxcore.uk:8080/live/Andrei_Neculoiu/cyMZRSrsx95x/100.m3u8
@@ -436,29 +426,29 @@ http://awsxcore.uk:8080/live/Andrei_Neculoiu/cyMZRSrsx95x/135582.m3u8
 http://awsxcore.uk:8080/live/Andrei_Neculoiu/cyMZRSrsx95x/135581.m3u8
 #EXTINF:-1 tvg-logo="http://tebuleau.uk:8080/images/5ba895c049429a4bea323243c07224c8.png" group-title="⭐ROMANIA",BOOBA FHD
 http://awsxcore.uk:8080/live/Andrei_Neculoiu/cyMZRSrsx95x/184400.m3u8
-#EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/boomerang.png" group-title="⭐ROMANIA",BOOMERANG SD
+#EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/boomerang.png" group-title="⭐ROMANIA",BOOMERANG
 http://awsxcore.uk:8080/live/Andrei_Neculoiu/cyMZRSrsx95x/172420.m3u8
 #EXTINF:-1 tvg-logo="http://tebuleau.uk:8080/images/f5c51a9a41f60ba4650c2e7ce129dafb.png" group-title="⭐ROMANIA",BUGS BUNNY
 http://awsxcore.uk:8080/live/Andrei_Neculoiu/cyMZRSrsx95x/193542.m3u8
-#EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/boomerang.png" group-title="⭐ROMANIA",CARTOONITO SD
+#EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/boomerang.png" group-title="⭐ROMANIA",CARTOONITO
 http://awsxcore.uk:8080/live/Andrei_Neculoiu/cyMZRSrsx95x/205010.m3u8
-#EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/cartoon_network.png" group-title="⭐ROMANIA",CARTOON NETWORK SD
+#EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/cartoon_network.png" group-title="⭐ROMANIA",CARTOON NETWORK
 http://awsxcore.uk:8080/live/Andrei_Neculoiu/cyMZRSrsx95x/16.m3u8
 #EXTINF:-1 tvg-logo="http://tebuleau.uk:8080/images/8a8e83f018a3b836cce61589e6593697.png" group-title="⭐ROMANIA",CRAIG SI DUMBRAVA
 http://awsxcore.uk:8080/live/Andrei_Neculoiu/cyMZRSrsx95x/135583.m3u8
-#EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/da_vinci.png" group-title="⭐ROMANIA",DA VINCI LEARNING TV SD
+#EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/da_vinci.png" group-title="⭐ROMANIA",DA VINCI LEARNING
 http://awsxcore.uk:8080/live/Andrei_Neculoiu/cyMZRSrsx95x/22.m3u8
-#EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/disney_channel_romania.png" group-title="⭐ROMANIA",DISNEY CHANNEL SD
+#EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/disney_channel_romania.png" group-title="⭐ROMANIA",DISNEY CHANNEL
 http://awsxcore.uk:8080/live/Andrei_Neculoiu/cyMZRSrsx95x/123.m3u8
-#EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/disney_junior.png" group-title="⭐ROMANIA",DISNEY JR SD
+#EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/disney_junior.png" group-title="⭐ROMANIA",DISNEY JUNIOR
 http://awsxcore.uk:8080/live/Andrei_Neculoiu/cyMZRSrsx95x/41.m3u8
-#EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/duck_tv.png" group-title="⭐ROMANIA",DUCK TV SD
+#EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/duck_tv.png" group-title="⭐ROMANIA",DUCK TV
 http://awsxcore.uk:8080/live/Andrei_Neculoiu/cyMZRSrsx95x/124.m3u8
 #EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/fetitele_powerpuff.png" group-title="⭐ROMANIA",FETITELE POWERPUFF (+7)
 http://awsxcore.uk:8080/live/Andrei_Neculoiu/cyMZRSrsx95x/135588.m3u8
 #EXTINF:-1 tvg-logo="http://tebuleau.uk:8080/images/3d6954dd72e53b9015d2a6e6546058f8.png" group-title="⭐ROMANIA",GO DOG. GO!
 http://awsxcore.uk:8080/live/Andrei_Neculoiu/cyMZRSrsx95x/192033.m3u8
-#EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/jimjam.png" group-title="⭐ROMANIA",JIM JAM SD
+#EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/jimjam.png" group-title="⭐ROMANIA",JIM JAM
 http://awsxcore.uk:8080/live/Andrei_Neculoiu/cyMZRSrsx95x/195.m3u8
 #EXTINF:-1 tvg-logo="http://tebuleau.uk:8080/images/b9a36d3ae4198ada1b9b5e8fc9200a96.png" group-title="⭐ROMANIA",LUMEA LOONEY TUNES
 http://awsxcore.uk:8080/live/Andrei_Neculoiu/cyMZRSrsx95x/192205.m3u8
@@ -466,15 +456,15 @@ http://awsxcore.uk:8080/live/Andrei_Neculoiu/cyMZRSrsx95x/192205.m3u8
 http://awsxcore.uk:8080/live/Andrei_Neculoiu/cyMZRSrsx95x/135584.m3u8
 #EXTINF:-1 tvg-logo="http://tebuleau.uk:8080/images/87cb2b7b5037fc5926e2271cc30c4a3a.png" group-title="⭐ROMANIA",MIGHTY EXPRESS
 http://awsxcore.uk:8080/live/Andrei_Neculoiu/cyMZRSrsx95x/202735.m3u8
-#EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/minimax.png" group-title="⭐ROMANIA",MINIMAX HD
+#EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/minimax.png" group-title="⭐ROMANIA",MINIMAX
 http://awsxcore.uk:8080/live/Andrei_Neculoiu/cyMZRSrsx95x/76.m3u8
 #EXTINF:-1 tvg-logo="http://tebuleau.uk:8080/images/8a8e83f018a3b836cce61589e6593697.png" group-title="⭐ROMANIA",MR BEAN
 http://awsxcore.uk:8080/live/Andrei_Neculoiu/cyMZRSrsx95x/135585.m3u8
-#EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/nickelodeon.png" group-title="⭐ROMANIA",NICKELODEON SD
+#EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/nickelodeon.png" group-title="⭐ROMANIA",NICKELODEON
 http://awsxcore.uk:8080/live/Andrei_Neculoiu/cyMZRSrsx95x/133.m3u8
-#EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/nick_jr.png" group-title="⭐ROMANIA",NICK JR SD
+#EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/nick_jr.png" group-title="⭐ROMANIA",NICK JR
 http://awsxcore.uk:8080/live/Andrei_Neculoiu/cyMZRSrsx95x/83.m3u8
-#EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/nicktoons.png" group-title="⭐ROMANIA",NICKTOONS SD
+#EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/nicktoons.png" group-title="⭐ROMANIA",NICKTOONS
 http://awsxcore.uk:8080/live/Andrei_Neculoiu/cyMZRSrsx95x/84.m3u8
 #EXTINF:-1 tvg-logo="http://tebuleau.uk:8080/images/eb8544f07c2c42c5393c4f8a5e9be334.png" group-title="⭐ROMANIA",NOILE LOONEY TUNES
 http://awsxcore.uk:8080/live/Andrei_Neculoiu/cyMZRSrsx95x/135586.m3u8
@@ -502,9 +492,9 @@ http://awsxcore.uk:8080/live/Andrei_Neculoiu/cyMZRSrsx95x/193519.m3u8
 http://awsxcore.uk:8080/live/Andrei_Neculoiu/cyMZRSrsx95x/15106.m3u8
 #EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/atomic_academy.png" group-title="⭐ROMANIA",ATOMIC ACADEMY FHD
 http://awsxcore.uk:8080/live/Andrei_Neculoiu/cyMZRSrsx95x/209380.m3u8
-#EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/atomic_tv.png" group-title="⭐ROMANIA",ATOMIC TV SD
+#EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/atomic_tv.png" group-title="⭐ROMANIA",ATOMIC TV
 http://awsxcore.uk:8080/live/Andrei_Neculoiu/cyMZRSrsx95x/120971.m3u8
-#EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/balcan_music_tv.png" group-title="⭐ROMANIA",BALCAN MUSIC SD
+#EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/balcan_music_tv.png" group-title="⭐ROMANIA",BALCAN MUSIC
 http://awsxcore.uk:8080/live/Andrei_Neculoiu/cyMZRSrsx95x/120972.m3u8
 #EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/boom_tv.png" group-title="⭐ROMANIA",BOOM TV FHD
 http://awsxcore.uk:8080/live/Andrei_Neculoiu/cyMZRSrsx95x/209385.m3u8
@@ -520,9 +510,9 @@ http://awsxcore.uk:8080/live/Andrei_Neculoiu/cyMZRSrsx95x/191554.m3u8
 http://awsxcore.uk:8080/live/Andrei_Neculoiu/cyMZRSrsx95x/181709.m3u8
 #EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/etno_tv.png" group-title="⭐ROMANIA",ETNO TV FHD
 http://awsxcore.uk:8080/live/Andrei_Neculoiu/cyMZRSrsx95x/44.m3u8
-#EXTINF:-1 tvg-logo="http://tebuleau.uk:8080/images/b3dcd87803a6e34b3018051da0a1ebde.png" group-title="⭐ROMANIA",FAVORIT TV SD
+#EXTINF:-1 tvg-logo="http://tebuleau.uk:8080/images/b3dcd87803a6e34b3018051da0a1ebde.png" group-title="⭐ROMANIA",FAVORIT TV
 http://awsxcore.uk:8080/live/Andrei_Neculoiu/cyMZRSrsx95x/49.m3u8
-#EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/hit_music_channel.png" group-title="⭐ROMANIA",HIT MUSIC SD
+#EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/hit_music_channel.png" group-title="⭐ROMANIA",HIT MUSIC
 http://awsxcore.uk:8080/live/Andrei_Neculoiu/cyMZRSrsx95x/128.m3u8
 #EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/hora_tv.png" group-title="⭐ROMANIA",HORA TV FHD
 http://awsxcore.uk:8080/live/Andrei_Neculoiu/cyMZRSrsx95x/129.m3u8
@@ -536,7 +526,7 @@ http://awsxcore.uk:8080/live/Andrei_Neculoiu/cyMZRSrsx95x/217.m3u8
 http://awsxcore.uk:8080/live/Andrei_Neculoiu/cyMZRSrsx95x/191555.m3u8
 #EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/mtv.png" group-title="⭐ROMANIA",MTV EUROPE
 http://awsxcore.uk:8080/live/Andrei_Neculoiu/cyMZRSrsx95x/252.m3u8
-#EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/1music.png" group-title="⭐ROMANIA",MUSIC CHANNEL SD
+#EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/1music.png" group-title="⭐ROMANIA",MUSIC CHANNEL
 http://awsxcore.uk:8080/live/Andrei_Neculoiu/cyMZRSrsx95x/70.m3u8
 #EXTINF:-1 tvg-logo="http://tebuleau.uk:8080/images/df47be9f47227f05e7c5e8a4710c566b.png" group-title="⭐ROMANIA",NICOLAE GUTA
 http://awsxcore.uk:8080/live/Andrei_Neculoiu/cyMZRSrsx95x/111277.m3u8
@@ -568,11 +558,11 @@ http://awsxcore.uk:8080/live/Andrei_Neculoiu/cyMZRSrsx95x/191553.m3u8
 http://awsxcore.uk:8080/live/Andrei_Neculoiu/cyMZRSrsx95x/140.m3u8
 #EXTINF:-1 tvg-logo="http://tebuleau.uk:8080/images/a2e4822a98337283e39f7b60acf85ec9.png" group-title="⭐ROMANIA",_________ REGIONALE _________
 http://awsxcore.uk:8080/live/Andrei_Neculoiu/cyMZRSrsx95x/191550.m3u8
-#EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/a7tv.png" group-title="⭐ROMANIA",A7 TV SD
+#EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/a7tv.png" group-title="⭐ROMANIA",A7 TV
 http://awsxcore.uk:8080/live/Andrei_Neculoiu/cyMZRSrsx95x/120967.m3u8
-#EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/agro_tv.png" group-title="⭐ROMANIA",AGRO TV SD
+#EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/agro_tv.png" group-title="⭐ROMANIA",AGRO TV
 http://awsxcore.uk:8080/live/Andrei_Neculoiu/cyMZRSrsx95x/120968.m3u8
-#EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/columna_tv.png" group-title="⭐ROMANIA",COLUMNA TV SD
+#EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/columna_tv.png" group-title="⭐ROMANIA",COLUMNA TV FHD
 http://awsxcore.uk:8080/live/Andrei_Neculoiu/cyMZRSrsx95x/172393.m3u8
 #EXTINF:-1 tvg-logo="http://tebuleau.uk:8080/images/1f2121f36f817bd18540e5fa7de06f59.png" group-title="⭐ROMANIA",DW DEUTCH
 http://awsxcore.uk:8080/live/Andrei_Neculoiu/cyMZRSrsx95x/191558.m3u8
@@ -584,9 +574,9 @@ http://awsxcore.uk:8080/live/Andrei_Neculoiu/cyMZRSrsx95x/191561.m3u8
 http://awsxcore.uk:8080/live/Andrei_Neculoiu/cyMZRSrsx95x/191562.m3u8
 #EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/metropola_tv.png" group-title="⭐ROMANIA",METROPOLA TV FHD
 http://awsxcore.uk:8080/live/Andrei_Neculoiu/cyMZRSrsx95x/181710.m3u8
-#EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/moldova_tv.png" group-title="⭐ROMANIA",MOLDOVA TV SD
+#EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/moldova_tv.png" group-title="⭐ROMANIA",MOLDOVA TV
 http://awsxcore.uk:8080/live/Andrei_Neculoiu/cyMZRSrsx95x/120980.m3u8
-#EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/ncn.png" group-title="⭐ROMANIA",NCN TV SD
+#EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/ncn.png" group-title="⭐ROMANIA",NCN
 http://awsxcore.uk:8080/live/Andrei_Neculoiu/cyMZRSrsx95x/297.m3u8
 #EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/orizont_tv.png" group-title="⭐ROMANIA",ORIZONT TV
 http://awsxcore.uk:8080/live/Andrei_Neculoiu/cyMZRSrsx95x/181711.m3u8
@@ -598,7 +588,7 @@ http://awsxcore.uk:8080/live/Andrei_Neculoiu/cyMZRSrsx95x/191564.m3u8
 http://awsxcore.uk:8080/live/Andrei_Neculoiu/cyMZRSrsx95x/209377.m3u8
 #EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/speranta_tv.png" group-title="⭐ROMANIA",SPERANTA TV
 http://awsxcore.uk:8080/live/Andrei_Neculoiu/cyMZRSrsx95x/191565.m3u8
-#EXTINF:-1 tvg-logo="http://tebuleau.uk:8080/images/dd1ff80a2bdb5a7fe60faed37e4bd257.png" group-title="⭐ROMANIA",SUPER RTL SD
+#EXTINF:-1 tvg-logo="http://tebuleau.uk:8080/images/dd1ff80a2bdb5a7fe60faed37e4bd257.png" group-title="⭐ROMANIA",SUPER RTL
 http://awsxcore.uk:8080/live/Andrei_Neculoiu/cyMZRSrsx95x/172391.m3u8
 #EXTINF:-1 tvg-logo="http://abro.live/logos/romanesti/traditional_tv.png" group-title="⭐ROMANIA",TRADITIONAL TV FHD
 http://awsxcore.uk:8080/live/Andrei_Neculoiu/cyMZRSrsx95x/191566.m3u8
@@ -1055,4 +1045,4 @@ http://awsxcore.uk:8080/live/Andrei_Neculoiu/cyMZRSrsx95x/111281.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kXdwSw5d/GOLD.png" group-title="⭐ROMANIA",GOLD HORROR 2 FHD
 http://awsxcore.uk:8080/live/Andrei_Neculoiu/cyMZRSrsx95x/135155.m3u8
 
-# Total: 522
+# Total: 517

@@ -1,13 +1,15 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: ginafelea.ddns.net:8008
-# Generated: 2026-02-24 18:49:48
+# Generated: 2026-02-25 07:28:16
 # Expires: 2026-07-15
 # Family Safe Edition
 # ==============================================
 
 
 # --- ⚜️ROMANIA TV⚜️ (716) ---
+#EXTINF:-1 tvg-logo="" group-title="⚜️ROMANIA TV⚜️",RXF FIGHT EVENTS
+http://ginafelea.ddns.net:8008/live/N_Ungureanu/d4q9keAcYk/617717.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/WzfDK55q/resize.png" group-title="⚜️ROMANIA TV⚜️",PRO TV UHD
 http://ginafelea.ddns.net:8008/live/N_Ungureanu/d4q9keAcYk/33760.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jSn8M9Mw/resize.png" group-title="⚜️ROMANIA TV⚜️",PRO TV HD
@@ -1022,8 +1024,6 @@ http://ginafelea.ddns.net:8008/live/N_Ungureanu/d4q9keAcYk/617430.m3u8
 http://ginafelea.ddns.net:8008/live/N_Ungureanu/d4q9keAcYk/617429.m3u8
 #EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgVRwmbu3U8IrY4W_q1rF7qTeasFckoapICuZjBpGwIjWCRUHIY8oyF0Vo86G_KlMYAFccOre_M6MGHdbN3BJJPKYBrfMialjCb1uXeZG4-_7.png" group-title="⚜️ROMANIA TV⚜️",HDNET TV SCI-FI
 http://ginafelea.ddns.net:8008/live/N_Ungureanu/d4q9keAcYk/617428.m3u8
-#EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgVRwmbu3U8IrY4W_q1rF7qTeasFckoapICuZjBpGwIjWCRUHIY8oyF0Vo86G_KlMYAFccOre_M6MGHdbN3BJJPKYBrfMialjCb1uXeZG4-_7.png" group-title="⚜️ROMANIA TV⚜️",HDNET TV COMEDY
-http://ginafelea.ddns.net:8008/live/N_Ungureanu/d4q9keAcYk/617427.m3u8
 #EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgVRwmbu3U8IrY4W_q1rF7qTeasFckoapICuZjBpGwIjWCRUHIY8oyF0Vo86G_KlMYAFccOre_M6MGHdbN3BJJPKYBrfMialjCb1uXeZG4-_7.png" group-title="⚜️ROMANIA TV⚜️",HDNET TV THRILLER
 http://ginafelea.ddns.net:8008/live/N_Ungureanu/d4q9keAcYk/617426.m3u8
 #EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgVRwmbu3U8IrY4W_q1rF7qTeasFckoapICuZjBpGwIjWCRUHIY8oyF0Vo86G_KlMYAFccOre_M6MGHdbN3BJJPKYBrfMialjCb1uXeZG4-_7.png" group-title="⚜️ROMANIA TV⚜️",HDNET TV ACTION
