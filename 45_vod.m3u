@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: 45.139.122.199:8080
-# Generated: 2026-02-25 07:23:34
+# Generated: 2026-02-25 18:50:25
 # Expires: 2026-07-13
 # Family Safe Edition
 # ==============================================
@@ -16559,7 +16559,9 @@ http://45.139.122.199:8080/movie/Susanne1/susanne1/2293719.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qqQPxxRQqfLrq0ubfDQCwhJHZ91.jpg" group-title="Movies | Old Popular Movies [Multi-Sub]",As Good as Dead [PRE] [2022]
 http://45.139.122.199:8080/movie/Susanne1/susanne1/2298208.mkv
 
-# --- Movies | Premiere Cinemas [Multi-Sub] (5521) ---
+# --- Movies | Premiere Cinemas [Multi-Sub] (5522) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cWsBscZzwu5brg9YjNkGewRUvJX.jpg" group-title="Movies | Premiere Cinemas [Multi-Sub]",The Housemaid [PRE] [2025]
+http://45.139.122.199:8080/movie/Susanne1/susanne1/2304428.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kK1BGkG3KAvWB0WMV1DfOx9yTMZ.jpg" group-title="Movies | Premiere Cinemas [Multi-Sub]",28 Years Later: The Bone Temple [PRE] [2026]
 http://45.139.122.199:8080/movie/Susanne1/susanne1/2294768.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/57cyAMc9c8iveudogTRuDOQjujn.jpg" group-title="Movies | Premiere Cinemas [Multi-Sub]",Primate [PRE] [2026]
@@ -27671,4 +27673,4 @@ http://45.139.122.199:8080/movie/Susanne1/susanne1/503111.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6FrRyIOrnCin795JjaxJgu7VeHR.jpg" group-title="Movies | Svenska",När mörkret faller [SE] [2006]
 http://45.139.122.199:8080/movie/Susanne1/susanne1/798230.mkv
 
-# Total: 13821
+# Total: 13822

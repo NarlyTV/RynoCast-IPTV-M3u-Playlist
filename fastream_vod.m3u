@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: fastream.xyz:8080
-# Generated: 2026-02-25 07:32:14
+# Generated: 2026-02-25 18:59:11
 # Expires: 2026-10-20
 # Family Safe Edition
 # ==============================================
@@ -13855,7 +13855,9 @@ http://fastream.xyz:8080/movie/940246862tv/12ws79/268771.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9yBW60Pm0eeXsKeiZMvMolCuhyU.jpg" group-title="Movies | → VOD ESTRENOS 2025 ←",Ad Vitam (2025)
 http://fastream.xyz:8080/movie/940246862tv/12ws79/268613.mp4
 
-# --- Movies | → VOD ESTRENOS 2026 ← (7) ---
+# --- Movies | → VOD ESTRENOS 2026 ← (8) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/79UAwZXaUyvz7cBuwipboj5BTBz.jpg" group-title="Movies | → VOD ESTRENOS 2026 ←",El Mundo Temblara
+http://fastream.xyz:8080/movie/940246862tv/12ws79/280081.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mgqAZeEI5hnAgeVZ0kAdYiPy1Rs.jpg" group-title="Movies | → VOD ESTRENOS 2026 ←",Sin piedad (2026)
 http://fastream.xyz:8080/movie/940246862tv/12ws79/280014.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6nTqw569IFEZtCMKaRYPH2vnEzG.jpg" group-title="Movies | → VOD ESTRENOS 2026 ←",Ahí estoy yo (2026)
@@ -19751,4 +19753,4 @@ http://fastream.xyz:8080/series/940246862tv/12ws79/2345
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES TERROR-THRILLER-SUSPENSO ←",It: Bienvenidos a Derry
 http://fastream.xyz:8080/series/940246862tv/12ws79/2492
 
-# Total: 9799
+# Total: 9800

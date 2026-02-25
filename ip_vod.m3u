@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: ip.plat.cx:8080
-# Generated: 2026-02-25 07:25:07
+# Generated: 2026-02-25 18:58:02
 # Expires: 2026-03-05
 # Family Safe Edition
 # ==============================================
@@ -125,7 +125,7 @@ http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/7125.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | ABC PT",Betty a Feia
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/7222.mp4
 
-# --- Movies | AMAZON PRIME PT (232) ---
+# --- Movies | AMAZON PRIME PT (236) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | AMAZON PRIME PT",A Esposa Do Meu Marido
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/4399.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | AMAZON PRIME PT",The Confession
@@ -164,8 +164,6 @@ http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/4790.mp4
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/4792.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | AMAZON PRIME PT",SHE Must Be Obeyed
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/4836.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | AMAZON PRIME PT",Escort Boys
-http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/4856.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | AMAZON PRIME PT",Expats
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/4865.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | AMAZON PRIME PT",Fernando
@@ -590,6 +588,16 @@ http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/7533.mp4
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/7534.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | AMAZON PRIME PT",Desjuntados
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/7535.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | AMAZON PRIME PT",El Cid
+http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/7539.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | AMAZON PRIME PT",El juego de las llaves
+http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/7540.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | AMAZON PRIME PT",El Presidente
+http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/7541.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | AMAZON PRIME PT",Eleita
+http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/7542.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | AMAZON PRIME PT",Escort Boys
+http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/7543.mp4
 
 # --- Movies | AMC PT (26) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | AMC PT",The Walking Dead: The Ones Who Live
@@ -19475,4 +19483,4 @@ http://ip.plat.cx:8080/series/MAriaisabel/63u7shwjjuw/7408
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES PT",Ninguém Como Tu
 http://ip.plat.cx:8080/series/MAriaisabel/63u7shwjjuw/7445
 
-# Total: 9673
+# Total: 9677
