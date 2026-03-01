@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: squid.game-tv.org:8080
-# Generated: 2026-03-01 07:26:40
+# Generated: 2026-03-01 18:31:20
 # Expires: 2026-04-17
 # Family Safe Edition
 # ==============================================
@@ -5971,7 +5971,9 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/14154.mp
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/qndubIQalyxBJI5EBNZKGXEX74q.jpg" group-title="Movies | Filme 2024",Y2K (2024)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/48365.mp4
 
-# --- Movies | Filme 2025 (643) ---
+# --- Movies | Filme 2025 (644) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qoqDvTUVPoZJWw24AjGDt3J4tZN.jpg" group-title="Movies | Filme 2025",Little Amélie or the Character of Rain - 2025
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/68392.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t3igABxx2wkslwdlTBDYHzyNfL6.jpg" group-title="Movies | Filme 2025",Momo - 2025
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/68263.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uRI6pASQX30W1Jv8JEWVFh2Rya2.jpg" group-title="Movies | Filme 2025",12 Hours in October - 2025
@@ -7259,7 +7261,11 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/10776.mp
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/2Abt2GgscAGtGAXTrhH44qPhugI.jpg" group-title="Movies | Filme 2025",Dark Nuns (2025)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/25035.mp4
 
-# --- Movies | Filme 2026 (38) ---
+# --- Movies | Filme 2026 (40) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4vWqIdoBavo1htxmxlScDniOS9C.jpg" group-title="Movies | Filme 2026",In the Blink of an Eye - 2026
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/68390.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xFungFRJrEF9ehC6qGpunpCCQUw.jpg" group-title="Movies | Filme 2026",Bring the Law - 2026
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/68389.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jRU9yeqerg50QI8Eg6KeDXaGXsH.jpg" group-title="Movies | Filme 2026",Trial Period - 2026
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/68332.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hbURquxQUJXFfeqpjzmHekRmyqb.jpg" group-title="Movies | Filme 2026",Skyscraper Live - 2026
@@ -7337,7 +7343,9 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/66568.mp
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tsE3nySukwrfUjouz8vzvKTcXNC.jpg" group-title="Movies | Filme 2026",Oscar Shaw (2026)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/65748.mp4
 
-# --- Movies | Filme Actiune (529) ---
+# --- Movies | Filme Actiune (530) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Jfv3CtMULd41C5jpLR8PGAMgE3.jpg" group-title="Movies | Filme Actiune",The Sorcerer and the White Snake - 2011
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/68391.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qv8deK0ZmutAuEpejruQKApIy6r.jpg" group-title="Movies | Filme Actiune",Abraham Lincoln: Vampire Hunter - 2012
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/68154.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a0Vt3wx8ciKmPt4iXPx9sH4HBVU.jpg" group-title="Movies | Filme Actiune",The Grey - 2012
@@ -18331,6 +18339,10 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/81.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Resident Evil",Resident Evil (US)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/341.mp4
 
+# --- Movies | Return to Las Sabinas (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | Return to Las Sabinas",Return to Las Sabinas (2024)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1200.mp4
+
 # --- Movies | Rhythm + Flow (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Rhythm + Flow",Rhythm + Flow (2019)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/979.mp4
@@ -20123,4 +20135,4 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/383.mp4
 #EXTINF:-1 tvg-logo="" group-title="Series | A Series of Unfortunate Events",A Series of Unfortunate Events
 http://squid.game-tv.org:8080/series/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/276
 
-# Total: 8828
+# Total: 8833

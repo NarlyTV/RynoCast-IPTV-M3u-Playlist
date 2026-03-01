@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: uzay.pro:8080
-# Generated: 2026-02-28 18:43:22
+# Generated: 2026-03-01 18:41:24
 # Expires: 2026-04-13
 # Family Safe Edition
 # ==============================================
@@ -12359,7 +12359,17 @@ http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/243352.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/8WgLM4DAHEqhBS65QV58Jb5IGoU.jpg" group-title="Movies | (V|DE) Bollywood Filme",(DE-) Bahubali: The Beginning - 2015
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/255929.mkv
 
-# --- Movies | (V|DE) Filme (1256) ---
+# --- Movies | (V|DE) Filme (1261) ---
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/cZJPtwfedzVedMVKRhTDp9IEAM2_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) 12 Uhr nachts: Midnight Express - 1978
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/671603.mp4
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/whefgfC1IIhLizbO6mAvnfhC6W7_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) Gamer - 2009
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/671602.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/s9tQBAfU2PDB1KIvOgwaoaFLD1r_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) Friday - 1995
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/671601.mp4
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/u8rsAW9xWcsA511NBsOEsbSnVlC_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) Apocalypse Now - 1979
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/671600.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/4X5Ls9qKxwfIpvwqskqlYjYtFlw_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) Die Maske - 1994
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/671599.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/1HUlhEZsJd44uvsNweeP8HStlvw_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) The Purge: Die Säuberung - 2013
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/671509.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/lai6rkzGDOZk5CsPdKZAkzUhjlH_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) The Purge: Anarchy - 2014
@@ -24381,4 +24391,4 @@ http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/248352.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/q5eicHQWsRRRJGm2jb3yQONmLat.jpg" group-title="Movies | (V|DE) IMDb Top 50 Western",(DE-) -50- Der Pferdeflüsterer - 2018
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/248353.mkv
 
-# Total: 12166
+# Total: 12171

@@ -1,31 +1,19 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: satpower.shop:8080
-# Generated: 2026-02-28 18:28:56
+# Generated: 2026-03-01 18:33:23
 # Expires: 2026-03-06
 # Family Safe Edition
 # ==============================================
 
 
-# --- AL ALBANIA (83) ---
+# --- AL ALBANIA (77) ---
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/flag/al.png" group-title="AL ALBANIA",AL: ----- GENERAL -----
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/135954.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AL ALBANIA",AL: BIG BROTHER VIP ALBANIA 1
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/640700.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AL ALBANIA",AL: BIG BROTHER VIP ALBANIA 2
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/640699.m3u8
-#EXTINF:-1 tvg-logo="" group-title="AL ALBANIA",AL: BIG BROTHER VIP KOSOVA 1 (VIP)
-http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/642139.m3u8
-#EXTINF:-1 tvg-logo="" group-title="AL ALBANIA",AL: BIG BROTHER VIP KOSOVA 1
-http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/640698.m3u8
-#EXTINF:-1 tvg-logo="" group-title="AL ALBANIA",AL: BIG BROTHER VIP KOSOVA 1 (B)
-http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/648156.m3u8
-#EXTINF:-1 tvg-logo="" group-title="AL ALBANIA",AL: BIG BROTHER VIP KOSOVA 2 (VIP)
-http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/642140.m3u8
-#EXTINF:-1 tvg-logo="" group-title="AL ALBANIA",AL: BIG BROTHER VIP KOSOVA 2
-http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/640697.m3u8
-#EXTINF:-1 tvg-logo="" group-title="AL ALBANIA",AL: BIG BROTHER VIP KOSOVA 2 (B)
-http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/648157.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AL ALBANIA",AL: BIG BROTHER VIP ALBANIA 1 (VIP)
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/650605.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AL ALBANIA",AL: BIG BROTHER VIP ALBANIA 2 (VIP)
@@ -1841,39 +1829,9 @@ http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/580017.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/rtlPremium.png" group-title="DE DYN SPORT - RTL+ SPORT",DE: VIP RTL+ SPORT EVENT 13 HD (SPIELZEIT)
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/633970.m3u8
 
-# --- DE DYN SPORT EVENT (29) ---
+# --- DE DYN SPORT EVENT (14) ---
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/flag/ger.png" group-title="DE DYN SPORT EVENT",DE: ----- DYN SPORT EVENT -----
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/670872.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT",DE: |DYN| SINGAPUR SMASH TAG 7 SESSION 1 (2026-02-28 05:00:00)
-http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/670939.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT",DE: |DYN| SINGAPUR SMASH TAG 7 SESSION 2 (2026-02-28 11:00:00)
-http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/670938.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT",DE: |DYN| VFB SUHL LOTTO THURINGEN - ALLIANZ MTV STUTTGART (2026-02-28 15:30:00)
-http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/670937.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT",DE: |DYN| TSV BAYER DORMAGEN - TUSEM ESSEN (2026-02-28 17:40:00)
-http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/670936.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT",DE: |DYN| 1. VFL POTSDAM - TUS N-LUBBECKE (2026-02-28 17:40:00)
-http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/670935.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT",DE: |DYN| HSG BENSHEIM/AUERBACH - HSG BLOMBERG-LIPPE (2026-02-28 17:45:00)
-http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/670934.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT",DE: |DYN| BSV SACHSEN ZWICKAU - BUXTEHUDER SV (2026-02-28 17:45:00)
-http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/670933.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT",DE: |DYN| DUKE - VIRGINIA (2026-02-28 18:00:00)
-http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/670932.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT",DE: |DYN| VFB FRIEDRICHSHAFEN - SVG LUNEBURG (2026-02-28 18:30:00)
-http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/670931.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT",DE: |DYN| DESSAU-ROSSLAUER HV 06 - EULEN LUDWIGSHAFEN (2026-02-28 19:10:00)
-http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/670930.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT",DE: |DYN| HBW BALINGEN-WEILSTETTEN - HSC 2000 COBURG (2026-02-28 19:10:00)
-http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/670929.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT",DE: |DYN| TUS METZINGEN - THURINGER HC (2026-02-28 19:15:00)
-http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/670928.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT",DE: |DYN| THW KIEL - VFL GUMMERSBACH (2026-02-28 19:30:00)
-http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/670927.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT",DE: |DYN| MT MELSUNGEN - SC MAGDEBURG (2026-02-28 19:45:00)
-http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/670926.m3u8
-#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT",DE: |DYN| WOFFORD - THE CITADEL (2026-02-28 20:00:00)
-http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/670925.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT",DE: |DYN| SINGAPUR SMASH TAG 8 SESSION 1 (2026-03-01 05:00:00)
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/670924.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/dyn.png" group-title="DE DYN SPORT EVENT",DE: |DYN| SINGAPUR SMASH FINALSPIELE (2026-03-01 12:00:00)
@@ -3977,11 +3935,9 @@ http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/486773.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/tvIngolstadt.png" group-title="DE REGIONAL",DE: TV.INGOLSTADT
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/487219.m3u8
 
-# --- DE RTL+ SPORT EVENT (7) ---
+# --- DE RTL+ SPORT EVENT (6) ---
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/flag/ger.png" group-title="DE RTL+ SPORT EVENT",DE: ----- RTL+ SPORT EVENT -----
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/670911.m3u8
-#EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/rtlPremium.png" group-title="DE RTL+ SPORT EVENT",DE: |RTL+| FC LIVERPOOL VS. WEST HAM UNITED (2026-02-28 15:40:00)
-http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/670897.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/rtlPremium.png" group-title="DE RTL+ SPORT EVENT",DE: |RTL+| WOLVERHAMPTON WANDERERS VS. FC LIVERPOOL (2026-03-03 20:55:00)
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/670896.m3u8
 #EXTINF:-1 tvg-logo="https://sltv-icon.cms-s.com/logo/germanynew/rtlPremium.png" group-title="DE RTL+ SPORT EVENT",DE: |RTL+| OKTAGON 85: DIE MMA FIGHTNIGHT LIVE AUS HAMBURG (2026-03-07 17:25:00)
@@ -10553,4 +10509,4 @@ http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/505896.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/USA/TVJ%20channel.png" group-title="US SPORTS",US: TVJ
 http://satpower.shop:8080/live/imPQv9Ygos/DPoUqBHsXF/282779.m3u8
 
-# Total: 5195
+# Total: 5173

@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: fastream.xyz:8080
-# Generated: 2026-03-01 07:27:17
+# Generated: 2026-03-01 18:35:27
 # Expires: 2026-10-20
 # Family Safe Edition
 # ==============================================
@@ -6094,6 +6094,8 @@ http://fastream.xyz:8080/movie/940246862tv/12ws79/5400.mkv
 http://fastream.xyz:8080/movie/940246862tv/12ws79/4820.mp4
 
 # --- Movies | → VOD CONCIERTOS ← (455) ---
+#EXTINF:-1 tvg-logo="https://bizarro.cl/wp-content/uploads/2025/11/LineUp-estatico_1080x1350-1638x2048.png" group-title="Movies | → VOD CONCIERTOS ←",Ke Personajes: Viña 2026
+http://fastream.xyz:8080/movie/940246862tv/12ws79/280165.mp4
 #EXTINF:-1 tvg-logo="https://bizarro.cl/wp-content/uploads/2025/11/LineUp-estatico_1080x1350-1638x2048.png" group-title="Movies | → VOD CONCIERTOS ←",Juanes: Viña 2026
 http://fastream.xyz:8080/movie/940246862tv/12ws79/280164.mp4
 #EXTINF:-1 tvg-logo="https://bizarro.cl/wp-content/uploads/2025/11/LineUp-estatico_1080x1350-1638x2048.png" group-title="Movies | → VOD CONCIERTOS ←",Mon Laferte: Viña 2026
@@ -7002,8 +7004,6 @@ http://fastream.xyz:8080/movie/940246862tv/12ws79/5857.mp4
 http://fastream.xyz:8080/movie/940246862tv/12ws79/5858.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/48zb4K9GO5p45Xs1BrZUYz0sSro.jpg" group-title="Movies | → VOD CONCIERTOS ←",CNCO: Los últimos cinco días (2022)
 http://fastream.xyz:8080/movie/940246862tv/12ws79/5859.mkv
-#EXTINF:-1 tvg-logo="https://bizarro.cl/wp-content/uploads/2025/11/LineUp-estatico_1080x1350-1638x2048.png" group-title="Movies | → VOD CONCIERTOS ←",Ke Personajes: Viña 2026
-http://fastream.xyz:8080/movie/940246862tv/12ws79/280165.mp4
 
 # --- Movies | → VOD CRIMEN ← (86) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/60UXgjOY8Bc1CihsSy7nKTfbfEJ.jpg" group-title="Movies | → VOD CRIMEN ←",Rush: Un Viaje al Infierno
@@ -13873,7 +13873,9 @@ http://fastream.xyz:8080/movie/940246862tv/12ws79/268771.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9yBW60Pm0eeXsKeiZMvMolCuhyU.jpg" group-title="Movies | → VOD ESTRENOS 2025 ←",Ad Vitam (2025)
 http://fastream.xyz:8080/movie/940246862tv/12ws79/268613.mp4
 
-# --- Movies | → VOD ESTRENOS 2026 ← (11) ---
+# --- Movies | → VOD ESTRENOS 2026 ← (12) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r29MQ8wAe89iBhFdtTQb8vmtIsu.jpg" group-title="Movies | → VOD ESTRENOS 2026 ←",En un Instante (2026)
+http://fastream.xyz:8080/movie/940246862tv/12ws79/280179.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gqzIKAeBKkiwj5qz2oZCOuZKHPA.jpg" group-title="Movies | → VOD ESTRENOS 2026 ←",Cortafuego (2026)
 http://fastream.xyz:8080/movie/940246862tv/12ws79/280138.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kkQJz9mhx9JHQbs8uRN86S6r4Ko.jpg" group-title="Movies | → VOD ESTRENOS 2026 ←",Acusada (2026)
@@ -17659,7 +17661,7 @@ http://fastream.xyz:8080/series/940246862tv/12ws79/2020
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES ANIMADAS DEL RECUERDO ←",Capitán Futuro
 http://fastream.xyz:8080/series/940246862tv/12ws79/2081
 
-# --- Series | → SERIES ANIME Y ANIMACIÓN ← (111) ---
+# --- Series | → SERIES ANIME Y ANIMACIÓN ← (112) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES ANIME Y ANIMACIÓN ←",Arcane
 http://fastream.xyz:8080/series/940246862tv/12ws79/16
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Heroes
@@ -17882,6 +17884,8 @@ http://fastream.xyz:8080/series/940246862tv/12ws79/2474
 http://fastream.xyz:8080/series/940246862tv/12ws79/2496
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES ANIME Y ANIMACIÓN ←",Espíritu de lucha: Hajime no Ippo
 http://fastream.xyz:8080/series/940246862tv/12ws79/2514
+#EXTINF:-1 tvg-logo="" group-title="Series | → SERIES ANIME Y ANIMACIÓN ←",Baki-Dou: El samurai invencible
+http://fastream.xyz:8080/series/940246862tv/12ws79/2541
 
 # --- Series | → SERIES CIENCIA FICCIÓN ← (67) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES CIENCIA FICCIÓN ←",Cuentos asombrosos
@@ -19779,4 +19783,4 @@ http://fastream.xyz:8080/series/940246862tv/12ws79/2345
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES TERROR-THRILLER-SUSPENSO ←",It: Bienvenidos a Derry
 http://fastream.xyz:8080/series/940246862tv/12ws79/2492
 
-# Total: 9813
+# Total: 9815
