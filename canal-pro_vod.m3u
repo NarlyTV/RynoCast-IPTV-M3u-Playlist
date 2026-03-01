@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: canal-pro.xyz:8080
-# Generated: 2026-02-28 18:30:07
+# Generated: 2026-03-01 07:25:53
 # Expires: 2026-05-11
 # Family Safe Edition
 # ==============================================
@@ -6093,7 +6093,21 @@ http://canal-pro.xyz:8080/movie/54923073/b48ygdD8d/5400.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7doCBDNnEITiRg4LPI7wK1jdb4p.jpg" group-title="Movies | → VOD COMEDIA ←",Superlópez (2018)
 http://canal-pro.xyz:8080/movie/54923073/b48ygdD8d/4820.mp4
 
-# --- Movies | → VOD CONCIERTOS ← (447) ---
+# --- Movies | → VOD CONCIERTOS ← (455) ---
+#EXTINF:-1 tvg-logo="https://bizarro.cl/wp-content/uploads/2025/11/LineUp-estatico_1080x1350-1638x2048.png" group-title="Movies | → VOD CONCIERTOS ←",Juanes: Viña 2026
+http://canal-pro.xyz:8080/movie/54923073/b48ygdD8d/280164.mp4
+#EXTINF:-1 tvg-logo="https://bizarro.cl/wp-content/uploads/2025/11/LineUp-estatico_1080x1350-1638x2048.png" group-title="Movies | → VOD CONCIERTOS ←",Mon Laferte: Viña 2026
+http://canal-pro.xyz:8080/movie/54923073/b48ygdD8d/280163.mp4
+#EXTINF:-1 tvg-logo="https://bizarro.cl/wp-content/uploads/2025/11/LineUp-estatico_1080x1350-1638x2048.png" group-title="Movies | → VOD CONCIERTOS ←",NMIXX: Viña 2026
+http://canal-pro.xyz:8080/movie/54923073/b48ygdD8d/280162.mp4
+#EXTINF:-1 tvg-logo="https://bizarro.cl/wp-content/uploads/2025/11/LineUp-estatico_1080x1350-1638x2048.png" group-title="Movies | → VOD CONCIERTOS ←",Jesse & Joy: Viña 2026
+http://canal-pro.xyz:8080/movie/54923073/b48ygdD8d/280161.mp4
+#EXTINF:-1 tvg-logo="https://bizarro.cl/wp-content/uploads/2025/11/LineUp-estatico_1080x1350-1638x2048.png" group-title="Movies | → VOD CONCIERTOS ←",Pet Shop Boys: Viña 2026
+http://canal-pro.xyz:8080/movie/54923073/b48ygdD8d/280160.mp4
+#EXTINF:-1 tvg-logo="https://bizarro.cl/wp-content/uploads/2025/11/LineUp-estatico_1080x1350-1638x2048.png" group-title="Movies | → VOD CONCIERTOS ←",Gloria Estefan: Viña 2026
+http://canal-pro.xyz:8080/movie/54923073/b48ygdD8d/280158.mp4
+#EXTINF:-1 tvg-logo="https://bizarro.cl/wp-content/uploads/2025/11/LineUp-estatico_1080x1350-1638x2048.png" group-title="Movies | → VOD CONCIERTOS ←",Matteo Bocelli: Viña 2026
+http://canal-pro.xyz:8080/movie/54923073/b48ygdD8d/280159.mp4
 #EXTINF:-1 tvg-logo="https://cdn.forbes.com.mx/2020/03/Sebastian-Yatra-Forbes-colombia.jpg" group-title="Movies | → VOD CONCIERTOS ←",Sebastian Yatra: Viña (2025)
 http://canal-pro.xyz:8080/movie/54923073/b48ygdD8d/270113.mp4
 #EXTINF:-1 tvg-logo="https://images2-mega.cdn.mdstrm.com/mega/2025/01/24/187522_1_67943e9379069.jpg?d=950x535" group-title="Movies | → VOD CONCIERTOS ←",Kidd Voodoo: Viña (2025)
@@ -6988,6 +7002,8 @@ http://canal-pro.xyz:8080/movie/54923073/b48ygdD8d/5857.mp4
 http://canal-pro.xyz:8080/movie/54923073/b48ygdD8d/5858.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/48zb4K9GO5p45Xs1BrZUYz0sSro.jpg" group-title="Movies | → VOD CONCIERTOS ←",CNCO: Los últimos cinco días (2022)
 http://canal-pro.xyz:8080/movie/54923073/b48ygdD8d/5859.mkv
+#EXTINF:-1 tvg-logo="https://bizarro.cl/wp-content/uploads/2025/11/LineUp-estatico_1080x1350-1638x2048.png" group-title="Movies | → VOD CONCIERTOS ←",Ke Personajes: Viña 2026
+http://canal-pro.xyz:8080/movie/54923073/b48ygdD8d/280165.mp4
 
 # --- Movies | → VOD CRIMEN ← (86) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/60UXgjOY8Bc1CihsSy7nKTfbfEJ.jpg" group-title="Movies | → VOD CRIMEN ←",Rush: Un Viaje al Infierno
@@ -19763,4 +19779,4 @@ http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2345
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES TERROR-THRILLER-SUSPENSO ←",It: Bienvenidos a Derry
 http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2492
 
-# Total: 9805
+# Total: 9813

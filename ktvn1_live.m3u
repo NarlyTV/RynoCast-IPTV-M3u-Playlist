@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: ktvn1.xyz
-# Generated: 2026-02-28 18:32:30
+# Generated: 2026-03-01 07:31:36
 # Expires: 2026-04-29
 # Family Safe Edition
 # ==============================================
@@ -1385,7 +1385,7 @@ http://ktvn1.xyz/live/A52FDC75/34X79X26/401221.m3u8
 #EXTINF:-1 tvg-logo="http://ktn-logo.kamele2.cc/logoservices/img/wanasah_tv.png" group-title="AR | MUSIC",WANASAH HD
 http://ktvn1.xyz/live/A52FDC75/34X79X26/598.m3u8
 
-# --- AR | NEWS (36) ---
+# --- AR | NEWS (33) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Al-Arabiya_new_logo.svg/512px-Al-Arabiya_new_logo.svg.png" group-title="AR | NEWS",AL Arabia HD العربية
 http://ktvn1.xyz/live/A52FDC75/34X79X26/345000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Al-Arabiya_new_logo.svg/512px-Al-Arabiya_new_logo.svg.png" group-title="AR | NEWS",Al Arabiya العربية
@@ -1404,18 +1404,12 @@ http://ktvn1.xyz/live/A52FDC75/34X79X26/345008.m3u8
 http://ktvn1.xyz/live/A52FDC75/34X79X26/345013.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/4/42/%D8%B4%D8%B9%D8%A7%D8%B1_%D8%B4%D8%A8%D9%83%D8%A9_%D8%A7%D9%84%D8%AA%D9%84%D9%81%D8%B2%D9%8A%D9%88%D9%86_%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A2.svg/172px-%D8%B4%D8%B9%D8%A7%D8%B1_%D8%B4%D8%A8%D9%83%D8%A9_%D8%A7%D9%84%D8%AA%D9%84%D9%81%D8%B2%D9%8A%D9%88%D9%86_%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A2.svg.png?20231104132853" group-title="AR | NEWS",NEWS|AL ARABY 2 HD
 http://ktvn1.xyz/live/A52FDC75/34X79X26/345014.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Elghad_party.png/220px-Elghad_party.png" group-title="AR | NEWS",NEWS|AL GHAD AL MUSHREQ
-http://ktvn1.xyz/live/A52FDC75/34X79X26/345016.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/AlHurra_logo.svg/800px-AlHurra_logo.svg.png" group-title="AR | NEWS",NEWS|Alhurra Iraq HD
-http://ktvn1.xyz/live/A52FDC75/34X79X26/345020.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Logo_BBC_Arabic.png/800px-Logo_BBC_Arabic.png?20180829110138" group-title="AR | NEWS",NEWS|BBC Arabic
 http://ktvn1.xyz/live/A52FDC75/34X79X26/345025.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/DW_Logo_2012.png/800px-DW_Logo_2012.png" group-title="AR | NEWS",NEWS|DW Arabia HD
 http://ktvn1.xyz/live/A52FDC75/34X79X26/345026.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/TRT_Arabi_logo.svg/512px-TRT_Arabi_logo.svg.png" group-title="AR | NEWS",TRT Arabi الأخبارية التركية
 http://ktvn1.xyz/live/A52FDC75/34X79X26/345062.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/INews_TV_logo.svg/246px-INews_TV_logo.svg.png?20150527170351" group-title="AR | NEWS",INEWS TV اي نيوز
-http://ktvn1.xyz/live/A52FDC75/34X79X26/345059.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/El_Hiwar.png/800px-El_Hiwar.png" group-title="AR | NEWS",Al Hiwar الحوار
 http://ktvn1.xyz/live/A52FDC75/34X79X26/345895.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/sa/Alarabiya.sa.png" group-title="AR | NEWS",AL ARABIYA
@@ -7637,4 +7631,4 @@ http://ktvn1.xyz/live/A52FDC75/34X79X26/346609.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/RTP1_-_Logo_2016.svg/512px-RTP1_-_Logo_2016.svg.png" group-title="Unknown",|PT| RTP 1 HD
 http://ktvn1.xyz/live/A52FDC75/34X79X26/143527.m3u8
 
-# Total: 3675
+# Total: 3672

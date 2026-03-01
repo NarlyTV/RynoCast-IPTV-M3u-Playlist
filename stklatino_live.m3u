@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: stklatino.dynns.com:2082
-# Generated: 2026-02-28 18:29:26
+# Generated: 2026-03-01 07:32:30
 # Expires: 2026-05-11
 # Family Safe Edition
 # ==============================================
@@ -3193,7 +3193,7 @@ http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/70174.m3u8
 #EXTINF:-1 tvg-logo="https://players.grupodial.cl/player/radio/img/45b312bfd616a3430ab90167854fe44b08121256.png" group-title="MUSICA",Radio Duna TV
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/30.m3u8
 
-# --- OTROS (6341) ---
+# --- OTROS (6340) ---
 #EXTINF:-1 tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/dark.jpg" group-title="OTROS",Dark
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/67762.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/925_Nubeh_TV.png" group-title="OTROS",Nubeh TV ✪ | VE
@@ -4284,8 +4284,6 @@ http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/66334.m3u8
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/66335.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M8ZuzeB.png" group-title="OTROS",Al Hayat TV (720p)
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/66337.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EK75DMJ.png" group-title="OTROS",Al Horreya TV (720p)
-http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/66339.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8qQouTW.jpg" group-title="OTROS",Al Iraqia
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/66340.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/feQTXeZ.jpg" group-title="OTROS",Al Iraqia News
@@ -16237,7 +16235,7 @@ http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/81387.m3u8
 #EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/e9/b2/e9b22a236c6baf447a2557cadecd6f31.jpg" group-title="RADIOS",Radio Cadena 3 (Argentina)
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/81422.m3u8
 
-# --- RELIGION (34) ---
+# --- RELIGION (33) ---
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/572435482655469568/3p4XWxwM_400x400.jpeg" group-title="RELIGION",Comunión TV (Evangélico)
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/710.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BZ5SbMGs/corporacion-tv-white.png" group-title="RELIGION",Corporación TV (Evangélico)
@@ -16302,8 +16300,6 @@ http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/76556.m3u8
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/71144.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Bethel_tv.png" group-title="RELIGION",Bethel
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/77374.m3u8
-#EXTINF:-1 tvg-logo="" group-title="RELIGION",Al Horreya TV
-http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/19658.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rcD4Wq0/5361244b16c80785fcca912f562d359b-660x326.png" group-title="RELIGION",ASV TV
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/28840.m3u8
 
@@ -16613,4 +16609,4 @@ http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/54866.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/520_Venevision.png" group-title="VENEZUELA",Venevision
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/2429.m3u8
 
-# Total: 8271
+# Total: 8269

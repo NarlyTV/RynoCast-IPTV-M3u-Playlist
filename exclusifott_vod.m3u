@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: exclusifott.pro:80
-# Generated: 2026-02-28 18:32:41
+# Generated: 2026-03-01 07:37:42
 # Expires: 2026-05-21
 # Family Safe Edition
 # ==============================================
@@ -13435,7 +13435,9 @@ http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/837897.mp4
 #EXTINF:-1 tvg-logo="http://103.176.90.118/stalker_portal/screenshots/74/7397.jpg" group-title="Movies | |SPT| SPORT BOXING",SPT Katie Taylor vs. Natasha Jonas
 http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/837889.mp4
 
-# --- Movies | |SPT| SPORT UFC (458) ---
+# --- Movies | |SPT| SPORT UFC (459) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nDEbtlRgUl14gamR0FbG4qxdLY5.jpg" group-title="Movies | |SPT| SPORT UFC",SPT - UFC Fight Night 267: Strickland vs. Hernandez (2026)
+http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/2030024.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4aq2ZfcHp9iqgVcFM5ToXUTNp4q.jpg" group-title="Movies | |SPT| SPORT UFC",SPT - UFC Fight Night 266: Bautista vs. Oliveira (Main Card) (2026)
 http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/2019322.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4aq2ZfcHp9iqgVcFM5ToXUTNp4q.jpg" group-title="Movies | |SPT| SPORT UFC",SPT - UFC Fight Night 266: Bautista vs. Oliveira (Prelims) (2026)
@@ -18097,4 +18099,4 @@ http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/35745
 #EXTINF:-1 tvg-logo="" group-title="Series | |RO| ROMANIAN SERIES",RO - Resident Evil: Infinite Darkness (2021)
 http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/35746
 
-# Total: 9001
+# Total: 9002

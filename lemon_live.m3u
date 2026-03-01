@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: lemon.catchmeifyo.com:8000
-# Generated: 2026-02-28 18:38:50
+# Generated: 2026-03-01 07:30:55
 # Expires: 2026-04-05
 # Family Safe Edition
 # ==============================================
@@ -5239,30 +5239,28 @@ http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/41361.m3u8
 #EXTINF:-1 tvg-logo="https://careers.formula1corporate.com/images/logo.png" group-title="F1 TV Pro Streams",F1TV: Onboard Norris (Tijdens Race)
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/143293.m3u8
 
-# --- GAMEPASS NHL/NFL/MLB/NBA (LIVE) (95) ---
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/marduklev/resource.images.thelogodb/master/resources/NHL_Center_Ice_1.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",NHL nr. 1 - 2026-02-28 01:00: - Golden Knights @ Capitals
+# --- GAMEPASS NHL/NFL/MLB/NBA (LIVE) (94) ---
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/marduklev/resource.images.thelogodb/master/resources/NHL_Center_Ice_1.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",NHL nr. 1 - 2026-02-28 18:30: - Penguins @ Rangers
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/16825.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/marduklev/resource.images.thelogodb/master/resources/NHL_Center_Ice_1.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",NHL nr. 2 - 2026-02-28 01:00: - Sabres @ Panthers
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/marduklev/resource.images.thelogodb/master/resources/NHL_Center_Ice_1.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",NHL nr. 2 - 2026-02-28 21:00: - Bruins @ Flyers
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/16826.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/marduklev/resource.images.thelogodb/master/resources/NHL_Center_Ice_1.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",NHL nr. 3 - 2026-02-28 03:00: - Wild @ Mammoth
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/marduklev/resource.images.thelogodb/master/resources/NHL_Center_Ice_1.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",NHL nr. 3 - 2026-02-28 22:00: - Oilers @ Sharks
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/16827.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/marduklev/resource.images.thelogodb/master/resources/NHL_Center_Ice_1.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",NHL nr. 4 - 2026-02-28 04:00: - Jets @ Ducks
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/16828.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/marduklev/resource.images.thelogodb/master/resources/NHL_Center_Ice_1.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",NHL nr. 5 - 2026-02-27 01:00: - Maple Leafs @ Panthers
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/marduklev/resource.images.thelogodb/master/resources/NHL_Center_Ice_1.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",NHL nr. 5 - 2026-03-01 00:00: - Blackhawks @ Avalanche
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/16829.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/marduklev/resource.images.thelogodb/master/resources/NHL_Center_Ice_1.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",NHL nr. 6 - 2026-02-27 01:00: - Lightning @ Hurricanes
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/16830.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/marduklev/resource.images.thelogodb/master/resources/NHL_Center_Ice_1.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",NHL nr. 7 - 2026-02-27 02:00: - Blackhawks @ Predators
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/marduklev/resource.images.thelogodb/master/resources/NHL_Center_Ice_1.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",NHL nr. 7 - 2026-03-01 01:00: - Senators @ Maple Leafs
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/16831.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/marduklev/resource.images.thelogodb/master/resources/NHL_Center_Ice_1.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",NHL nr. 9 - 2026-02-27 02:00: - Flyers @ Rangers
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/marduklev/resource.images.thelogodb/master/resources/NHL_Center_Ice_1.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",NHL nr. 8 - 2026-03-01 01:00: - Sabres @ Lightning
+http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/16832.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/marduklev/resource.images.thelogodb/master/resources/NHL_Center_Ice_1.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",NHL nr. 9 - 2026-03-01 01:00: - Flames @ Kings
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/16833.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/marduklev/resource.images.thelogodb/master/resources/NHL_Center_Ice_1.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",NHL nr. 10 - 2026-02-27 03:00: - Wild @ Avalanche
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/marduklev/resource.images.thelogodb/master/resources/NHL_Center_Ice_1.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",NHL nr. 10 - 2026-03-01 01:00: - Red Wings @ Hurricanes
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/16834.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/marduklev/resource.images.thelogodb/master/resources/NHL_Center_Ice_1.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",NHL nr. 11 - 2026-02-27 04:00: - Flames @ Sharks
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/marduklev/resource.images.thelogodb/master/resources/NHL_Center_Ice_1.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",NHL nr. 11 - 2026-03-01 01:00: - Capitals @ Canadiens
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/16835.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/marduklev/resource.images.thelogodb/master/resources/NHL_Center_Ice_1.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",NHL nr. 12 - 2026-02-27 04:30: - Oilers @ Kings
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/marduklev/resource.images.thelogodb/master/resources/NHL_Center_Ice_1.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",NHL nr. 12 - 2026-03-01 02:00: - Predators @ Stars
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/16836.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/marduklev/resource.images.thelogodb/master/resources/NHL_Center_Ice_1.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",NHL nr. 13 - 2026-02-01 04:00: - Wild @ Oilers
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/marduklev/resource.images.thelogodb/master/resources/NHL_Center_Ice_1.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",NHL nr. 13 - 2026-03-01 04:00: - Canucks @ Kraken
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/16837.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/marduklev/resource.images.thelogodb/master/resources/NHL_Center_Ice_1.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",NHL nr. 14 - 2026-02-01 04:00: - Kraken @ Golden Knights
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/16838.m3u8
@@ -5366,21 +5364,21 @@ http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/119328.m3u8
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/119329.m3u8
 #EXTINF:-1 tvg-logo="https://wpcdn.us-east-1.vip.tn-cloud.net/www.abc6.com/content/uploads/2020/05/nfl-logo-newer-1.jpg" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2025-01-06 01:00 - NFL Gamepass 15: Vikings @ Lions
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/119330.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2026-02-28 00:50 - NBA Gamepass 1 : Cavaliers @ Pistons - FEED: ESPN (In-Arena)
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2026-02-28 18:50 - NBA Gamepass 1 : Trail Blazers @ Hornets - FEED: Hornets (In-Arena)
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/139163.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2026-02-28 00:50 - NBA Gamepass 2 : Cavaliers @ Pistons - FEED: Pistons (In-Arena)
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2026-02-28 18:50 - NBA Gamepass 2 : Trail Blazers @ Hornets - FEED: Trail Blazers (In-Arena)
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/139164.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2026-02-28 00:50 - NBA Gamepass 3 : Cavaliers @ Pistons - FEED: Cavaliers (In-Arena)
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2026-02-28 21:20 - NBA Gamepass 3 : Rockets @ Heat - FEED: Prime Video (In-Arena)
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/139165.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2026-02-28 01:20 - NBA Gamepass 4 : Nets @ Celtics - FEED: Celtics (In-Arena)
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2026-02-28 21:20 - NBA Gamepass 4 : Rockets @ Heat - FEED: Rockets (In-Arena)
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/139166.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2026-02-28 01:20 - NBA Gamepass 5 : Nets @ Celtics - FEED: Nets (In-Arena)
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2026-03-01 00:50 - NBA Gamepass 5 : Raptors @ Wizards - FEED: Wizards (In-Arena)
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/139167.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2026-02-28 01:50 - NBA Gamepass 6 : Knicks @ Bucks - FEED: Bucks (In-Arena)
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2026-03-01 00:50 - NBA Gamepass 6 : Raptors @ Wizards - FEED: Raptors (In-Arena)
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/139168.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2026-02-28 01:50 - NBA Gamepass 7 : Knicks @ Bucks - FEED: Knicks (In-Arena)
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2026-03-01 02:20 - NBA Gamepass 7 : Lakers @ Warriors - FEED: ABC (In-Arena)
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/139169.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2026-02-28 02:20 - NBA Gamepass 8 : Grizzlies @ Mavericks - FEED: Mavericks (In-Arena)
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2026-03-01 03:20 - NBA Gamepass 8 : Pelicans @ Jazz - FEED: Jazz (In-Arena)
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/139170.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-logo-20AFA6E832-seeklogo.com.png" group-title="GAMEPASS NHL/NFL/MLB/NBA (LIVE)",2026-02-28 02:20 - NBA Gamepass 9 : Grizzlies @ Mavericks - FEED: Grizzlies (In-Arena)
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/139171.m3u8
@@ -7177,4 +7175,4 @@ http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/37632.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Zuid Afrika / South Afrika",ZA: SuperSport Golf
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/37635.m3u8
 
-# Total: 3557
+# Total: 3556

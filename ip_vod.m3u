@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: ip.plat.cx:8080
-# Generated: 2026-02-28 18:38:02
+# Generated: 2026-03-01 07:39:51
 # Expires: 2026-03-05
 # Family Safe Edition
 # ==============================================
@@ -12303,7 +12303,9 @@ http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/7411.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NOVELAS",Os Dez Mandamentos
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/7440.mp4
 
-# --- Movies | Novidades (363) ---
+# --- Movies | Novidades (364) ---
+#EXTINF:-1 tvg-logo="None" group-title="Movies | Novidades",Resident Evil 2 - Apocalipse
+http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/213509.mkv
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/t1DQ4XXIqTm5LvUjz8jypN43JjZ_big.jpg" group-title="Movies | Novidades",O Agente Secreto
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/212047.mkv
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/qUoznhGA1izG3G9xUE218JltOoz_big.jpg" group-title="Movies | Novidades",iPossessed
@@ -16469,4 +16471,4 @@ http://ip.plat.cx:8080/series/MAriaisabel/63u7shwjjuw/7408
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES PT",Ninguém Como Tu
 http://ip.plat.cx:8080/series/MAriaisabel/63u7shwjjuw/7445
 
-# Total: 8170
+# Total: 8171
