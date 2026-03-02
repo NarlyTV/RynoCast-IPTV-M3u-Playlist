@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: ip.plat.cx:8080
-# Generated: 2026-03-01 18:31:30
+# Generated: 2026-03-02 07:22:49
 # Expires: 2026-03-05
 # Family Safe Edition
 # ==============================================
@@ -12303,7 +12303,9 @@ http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/7411.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NOVELAS",Os Dez Mandamentos
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/7440.mp4
 
-# --- Movies | Novidades (364) ---
+# --- Movies | Novidades (365) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/l7qtdY0f2q14U41wb7Y755RCCEx.jpg" group-title="Movies | Novidades",007 - Agente Irresistível
+http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/213563.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/49b7CTeJqugnpBboT6D5xGy3h4H_big.jpg" group-title="Movies | Novidades",The Bluff
 http://ip.plat.cx:8080/movie/MAriaisabel/63u7shwjjuw/213525.mp4
 #EXTINF:-1 tvg-logo="http://5.79.72.210:8080/images/t1DQ4XXIqTm5LvUjz8jypN43JjZ_big.jpg" group-title="Movies | Novidades",O Agente Secreto
@@ -16471,4 +16473,4 @@ http://ip.plat.cx:8080/series/MAriaisabel/63u7shwjjuw/7408
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES PT",Ninguém Como Tu
 http://ip.plat.cx:8080/series/MAriaisabel/63u7shwjjuw/7445
 
-# Total: 8171
+# Total: 8172

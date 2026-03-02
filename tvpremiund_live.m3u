@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: tvpremiund.ddns.me:2082
-# Generated: 2026-03-01 18:29:59
+# Generated: 2026-03-02 07:30:18
 # Expires: 2026-04-14
 # Family Safe Edition
 # ==============================================
@@ -1254,9 +1254,9 @@ http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/51457.m3u8
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/51458.m3u8
 #EXTINF:-1 tvg-logo="http://dominicanchannels.com/wp-content/uploads/2014/10/orbit-tv-1.png" group-title="CINE",Orbit TV
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/5.m3u8
-#EXTINF:-1 tvg-logo="https://i.ya-webdesign.com/images/paramount-pictures-logo-png-14.png" group-title="CINE",Paramount Channel
+#EXTINF:-1 tvg-logo="https://i.ya-webdesign.com/images/paramount-pictures-logo-png-14.png" group-title="CINE",Squirrel
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/4884.m3u8
-#EXTINF:-1 tvg-logo="https://i.ya-webdesign.com/images/paramount-pictures-logo-png-14.png" group-title="CINE",Paramount Channel HD
+#EXTINF:-1 tvg-logo="https://i.ya-webdesign.com/images/paramount-pictures-logo-png-14.png" group-title="CINE",Paramount Channel
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/30626.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1fCF2yZ/10449923-671832862898253-3650884333216094980-n.jpg" group-title="CINE",Panico Tv
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/27625.m3u8
@@ -3193,7 +3193,7 @@ http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/70174.m3u8
 #EXTINF:-1 tvg-logo="https://players.grupodial.cl/player/radio/img/45b312bfd616a3430ab90167854fe44b08121256.png" group-title="MUSICA",Radio Duna TV
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/30.m3u8
 
-# --- OTROS (6340) ---
+# --- OTROS (6339) ---
 #EXTINF:-1 tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/dark.jpg" group-title="OTROS",Dark
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/67762.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/925_Nubeh_TV.png" group-title="OTROS",Nubeh TV ✪ | VE
@@ -5670,8 +5670,6 @@ http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/67665.m3u8
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/67666.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/fmcosmos.com/wp-content/uploads/2021/11/COSMOS-TV.png" group-title="OTROS",Cosmos TV (720p)
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/67667.m3u8
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/ed2fce1f9fe98a5c7dec95777c201497.png" group-title="OTROS",Cosmos TV (720p)
-http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/67668.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/73LKwAK.png" group-title="OTROS",Costa Mesa's Municipal Access Channel CMTV 3 (720p)
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/67669.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iM9AN6Z.png" group-title="OTROS",Costa Noroeste TV (720p) [Not 24/7]
@@ -15875,7 +15873,7 @@ http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/74624.m3u8
 #EXTINF:-1 tvg-logo="" group-title="OTROS",萬州三峽移民 (576p)
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/74625.m3u8
 
-# --- PARAGUAY (21) ---
+# --- PARAGUAY (23) ---
 #EXTINF:-1 tvg-logo="https://d1y2i2odvciezg.cloudfront.net/wp-content/uploads/2023/07/logo.png" group-title="PARAGUAY",C9N
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/2389.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/04/GEN-TV-Paraguay-en-vivo-Online.png" group-title="PARAGUAY",GEN TV
@@ -15918,6 +15916,10 @@ http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/69631.m3u8
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/81933.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PARAGUAY",Union TV
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/81934.m3u8
+#EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2024/07/IMG_20240626_194907_706.jpg" group-title="PARAGUAY",Invasiva TV
+http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/135337.m3u8
+#EXTINF:-1 tvg-logo="https://www.mediosenparaguay.com/gallery_gen/9e434339513232a20915495e374f1a78_291.0780669145x290_fill.jpg" group-title="PARAGUAY",Cosmos TV - PY
+http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/67668.m3u8
 
 # --- PERU (33) ---
 #EXTINF:-1 tvg-logo="https://media.tvalacarta.info/canales/256x256/americatvpe.png" group-title="PERU",America  TV
@@ -16570,7 +16572,7 @@ http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/70027.m3u8
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/70649.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvstations/images/6/6f/Unimas_saltlkecitykuthdt2_NewLogo.png" group-title="VARIEDADES",Unimas Salt Lake
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/80959.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png" group-title="VARIEDADES",Tele*mundo Miami
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png" group-title="VARIEDADES",Telemundo Miami
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/128108.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png" group-title="VARIEDADES",Tele*mundo Internacional HD
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/128110.m3u8
@@ -16609,4 +16611,4 @@ http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/54866.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/520_Venevision.png" group-title="VENEZUELA",Venevision
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/2429.m3u8
 
-# Total: 8269
+# Total: 8270
