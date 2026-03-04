@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: alienstreams.fi:8080
-# Generated: 2026-03-04 07:22:54
+# Generated: 2026-03-04 18:41:13
 # Expires: 2026-12-29
 # Family Safe Edition
 # ==============================================
@@ -18468,6 +18468,10 @@ http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/405122
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/403526
 
 # --- Series | Svenska Serier [Series] (285) ---
+#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Sveriges Mästerkock
+http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/489940
+#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Poliserna i våldsvågen
+http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/495274
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Över Atlanten
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/495173
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Svenska bönder
@@ -18512,8 +18516,6 @@ http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/477780
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/495288
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Bonde söker fru - andra sommaren
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/492062
-#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Poliserna i våldsvågen
-http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/495274
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Svenska nyheter
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/481045
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Bäst i test
@@ -18568,8 +18570,6 @@ http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/489666
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/490143
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Hjälp, vi har köpt ett franskt ruckel!
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/489465
-#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Sveriges Mästerkock
-http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/489940
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Robinson
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/481721
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Kompani Svan

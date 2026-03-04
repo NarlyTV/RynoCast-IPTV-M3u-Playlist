@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: world-service.us:8080
-# Generated: 2026-03-04 07:21:19
+# Generated: 2026-03-04 18:50:27
 # Expires: 2026-05-19
 # Family Safe Edition
 # ==============================================
@@ -1428,7 +1428,7 @@ http://world-service.us:8080/live/giovanmer/merante/53.m3u8
 http://world-service.us:8080/live/giovanmer/merante/54.m3u8
 
 # --- TIVUSAT (79) ---
-#EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/d5f0650463e1d57e4d558b053d7c01a7.png" group-title="TIVUSAT",Rai 1 HD
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/d5f0650463e1d57e4d558b053d7c01a7.png" group-title="TIVUSAT",Rai 1 HD
 http://world-service.us:8080/live/giovanmer/merante/1.m3u8
 #EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/rai2.png" group-title="TIVUSAT",Rai 2 HD
 http://world-service.us:8080/live/giovanmer/merante/2.m3u8
@@ -1444,7 +1444,7 @@ http://world-service.us:8080/live/giovanmer/merante/7.m3u8
 http://world-service.us:8080/live/giovanmer/merante/13.m3u8
 #EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/29b7634f8f5e6e9a59bb58b2a7d70d47.png" group-title="TIVUSAT",Nove HD
 http://world-service.us:8080/live/giovanmer/merante/8510.m3u8
-#EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/640ea4e2fdb59f0fe63920c693e43307.png" group-title="TIVUSAT",CIELO HD
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/640ea4e2fdb59f0fe63920c693e43307.png" group-title="TIVUSAT",CIELO HD
 http://world-service.us:8080/live/giovanmer/merante/10.m3u8
 #EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/15aed459f6502a11e29a35690910c595.png" group-title="TIVUSAT",RSI LA 1 HD
 http://world-service.us:8080/live/giovanmer/merante/8.m3u8
