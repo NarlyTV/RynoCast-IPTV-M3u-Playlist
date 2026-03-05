@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: fastopen.live:8080
-# Generated: 2026-03-04 18:51:39
+# Generated: 2026-03-05 07:23:38
 # Expires: 2026-12-09
 # Family Safe Edition
 # ==============================================
@@ -22999,7 +22999,7 @@ http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/27213.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Russian",Ю ТВ RU
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/27212.m3u8
 
-# --- Scandinavian (137) ---
+# --- Scandinavian (138) ---
 #EXTINF:-1 tvg-logo="" group-title="Scandinavian",########## Scandinavian ##########
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/46121.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Scandinavian",DR 1 HD [BackUP] DK
@@ -23102,6 +23102,8 @@ http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/56060.m3u8
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/56004.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Scandinavian",Axess TV HD SE (L) VIP
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/56046.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Scandinavian",ATG Live SE (L) VIP
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/134287.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Scandinavian",ATG Live HD SE (L) VIP
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/66878.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Scandinavian",Aftonbladet TV HD SE (L) [Live During Events Only] VIP
@@ -31899,4 +31901,4 @@ http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/104838.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ex-Yu VIP",K1 HD ex-YU
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/104749.m3u8
 
-# Total: 15843
+# Total: 15844

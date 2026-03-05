@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: uzay.pro:8080
-# Generated: 2026-03-03 18:54:21
+# Generated: 2026-03-05 07:21:16
 # Expires: 2026-04-13
 # Family Safe Edition
 # ==============================================
@@ -241,7 +241,7 @@ http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/8625.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|AL) Shqiptare Serial",(AL-) Mirembrëma Yje me Arbana Osmani
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/9299.mp4
 
-# --- Movies | (S|DE) Animation Serien (262) ---
+# --- Movies | (S|DE) Animation Serien (263) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Animation Serien",(DE-) BoJack Horseman
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/629.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Animation Serien",(DE-) Paw Patrol
@@ -754,7 +754,7 @@ http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/12016.mp4
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/12017.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Animation Serien",(DE-) Cowboy Bebop
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/12018.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Animation Serien",(DE-) Steins;Gate
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Animation Serien",(DE-) Steins Gate
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/12019.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Animation Serien",(DE-) Weißt Du Eigentlich, Wie Lieb Ich Dich Hab?
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/12020.mp4
@@ -766,6 +766,8 @@ http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/12025.mp4
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/12028.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Animation Serien",(DE-) Jake Und Die Nimmerland Piraten
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/12031.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Animation Serien",(DE-) BAKI-DOU: The Invincible Samurai
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/12056.mp4
 
 # --- Movies | (S|DE) Deutsche Serien (1338) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) 4 Blocks
@@ -12397,7 +12399,9 @@ http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/243352.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/8WgLM4DAHEqhBS65QV58Jb5IGoU.jpg" group-title="Movies | (V|DE) Bollywood Filme",(DE-) Bahubali: The Beginning - 2015
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/255929.mkv
 
-# --- Movies | (V|DE) Filme (1261) ---
+# --- Movies | (V|DE) Filme (1262) ---
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/fj0I03guVuInjCBBdawckYAGpAH_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) Lieferung mit Hindernissen - 2009
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/672048.avi
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/cZJPtwfedzVedMVKRhTDp9IEAM2_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) 12 Uhr Nachts: Midnight Express - 1978
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/671603.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/whefgfC1IIhLizbO6mAvnfhC6W7_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) Gamer - 2009
@@ -14921,7 +14925,11 @@ http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/635189.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/3182cDjiZ9f5rHIi0NjtdySa7IN_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) Der Hypnotiseur - 2012
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/635188.avi
 
-# --- Movies | (V|DE) Filme - 2019 (330) ---
+# --- Movies | (V|DE) Filme - 2019 (332) ---
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/gvm91VT1KTVJ17xJQ7vlAwFG8jR_big.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Perfect Human - 2019
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/672047.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/eBxrviCXJhn9oQ2lhXgAR2LrJke_big.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Brightburn: Son of Darkness - 2019
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/672045.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/qpEKv8WxTiiPq9t9JWvwatbEQle_big.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Alita: Battle Angel - 2019
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/671306.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/h6sKcij8q3HrkmNDZ3fFJruP4aF_big.jpg" group-title="Movies | (V|DE) Filme - 2019",(DE-) Nicky Larson: City Hunter - 2019
@@ -24443,4 +24451,4 @@ http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/671929.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/pym4NaXmFEaAfPa1ZQei6pAJGhS.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Ayni Yagmur Altinda (Bolum 4)
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/671928.mkv
 
-# Total: 12196
+# Total: 12200

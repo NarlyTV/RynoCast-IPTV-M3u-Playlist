@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: solution62000.mine.nu:8000
-# Generated: 2026-03-04 18:38:17
+# Generated: 2026-03-05 07:24:36
 # Expires: 2026-03-08
 # Family Safe Edition
 # ==============================================
@@ -4969,7 +4969,9 @@ http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/691.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | MARVEL STUDIOS",Ironheart
 http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/773.mp4
 
-# --- Movies | NETFLIX (442) ---
+# --- Movies | NETFLIX (443) ---
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hm7ZSLYtAlrHFk8uMamXaVo1s3I.jpg" group-title="Movies | NETFLIX",Banlieusards 3 (2026)
+http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/23573.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/eeP55mdqj4KpWtEPBvZJoxmnkXI.jpg" group-title="Movies | NETFLIX",Accused (2026)
 http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/23528.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/oR4dsvz6edpDXFGBUo6VTvi2IRu.jpg" group-title="Movies | NETFLIX",Coupe-feu (2026)
@@ -5282,7 +5284,7 @@ http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/7439.mkv
 http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/7428.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xULSnVUsiHBLJX4TPlvG0IKnodB.jpg" group-title="Movies | NETFLIX",La Merveilleuse Histoire de Henry Sugar - 2023
 http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/7427.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wxTzaXQudAnSTZgct3dPi2K8tt0.jpg" group-title="Movies | NETFLIX",Banlieusards 2 - 2023
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wxTzaXQudAnSTZgct3dPi2K8tt0.jpg" group-title="Movies | NETFLIX",Banlieusards 2 (2023)
 http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/7426.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vd8YdaH7dzeIMGTNwQinlSiA1gV.jpg" group-title="Movies | NETFLIX",Spy Kids: Armageddon - 2023
 http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/7410.mkv
@@ -5470,7 +5472,7 @@ http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/2786.mkv
 http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/2743.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gLGqEf9rAJNJ3ZWFxuFF3dgsXn1.jpg" group-title="Movies | NETFLIX",6 Underground - 2019
 http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/2611.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8x5zUAUaVH38Ec78eXgmTdYRENP.jpg" group-title="Movies | NETFLIX",Banlieusards - 2019
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8x5zUAUaVH38Ec78eXgmTdYRENP.jpg" group-title="Movies | NETFLIX",Banlieusards (2019)
 http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/797.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bU2b9ezm9ZxuuK0pGVUIVRv5san.jpg" group-title="Movies | NETFLIX",The Highwaymen - 2019
 http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/6506.mkv
@@ -5855,7 +5857,7 @@ http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/988.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX",Les Lionnes
 http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/989.mp4
 
-# --- Movies | RAMADAN ( 2026 ) (41) ---
+# --- Movies | RAMADAN ( 2026 ) (43) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | RAMADAN ( 2026 )",( 2021 ) المداح
 http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/59.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | RAMADAN ( 2026 )",البراني
@@ -5938,6 +5940,10 @@ http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/1029.mp4
 http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/1031.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | RAMADAN ( 2026 )",( 2026 ) هاذي اخرتها
 http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/1033.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | RAMADAN ( 2026 )",( 2025 ) صاحبك راجل
+http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/1035.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | RAMADAN ( 2026 )",( 2026 ) بابا وماما جيران
+http://solution62000.mine.nu:8000/movie/Bendria_kouider/07032025/1036.mp4
 
 # --- Movies | RAMADAN 2025 (29) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | RAMADAN 2025",العتاولة - 2024
@@ -7523,4 +7529,4 @@ http://solution62000.mine.nu:8000/series/Bendria_kouider/07032025/1032
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Marshals : A Yellowstone Story
 http://solution62000.mine.nu:8000/series/Bendria_kouider/07032025/1034
 
-# Total: 3728
+# Total: 3731

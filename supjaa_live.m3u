@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: supjaa.xyz
-# Generated: 2026-03-04 18:47:51
+# Generated: 2026-03-05 07:32:11
 # Expires: 2026-12-22
 # Family Safe Edition
 # ==============================================
@@ -1445,81 +1445,123 @@ http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/149625.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_2_FRENCH2.png" group-title="AR | BEIN SPORTS 4K",AR - BEIN SPORTS FRENCH 2 UHD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/211673.m3u8
 
-# --- AR | EGYPT (95) ---
-#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/EGYPT/EGYPT.png" group-title="AR | EGYPT",##### EG - EGYPT #####
+# --- AR | EGYPT (98) ---
+#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/EGYPT/EGYPT.png" group-title="AR | EGYPT",##### EG - GENERAL #####
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/63683.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/EGYPT/ALHAYATMUSLSALAT.png" group-title="AR | EGYPT",EG -  AL HAYAT DRAMA  HD◉
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/856.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/EGYPT/ALHAYATRED.png" group-title="AR | EGYPT",EG - AL HAYAT HD ◉
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/17129.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/Aoula.png" group-title="AR | EGYPT",EG - AL AOULA HD
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/258623.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/EGYPT/ALTHANYA.png" group-title="AR | EGYPT",EG - ALTHANYA HD
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/785.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/EGYPT/ALMASRIYA.png" group-title="AR | EGYPT",EG - AL MASRIYA HD
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/788.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/EGYPT/AL_HADATH_AL_YOUM.png" group-title="AR | EGYPT",EG - AL HADATH AL YOUM HD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/836.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/EGYPT/AL%20AHLY.png" group-title="AR | EGYPT",EG - AL AHLY HD
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/866.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/Aoula.png" group-title="AR | EGYPT",EG - AL Aoula HD
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/258623.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/EGYPT/AL_QAHERA_NEWS.png" group-title="AR | EGYPT",EG - AL QAHERA NEWS HD
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/318632.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/EGYPT/AL_ASKANDRIA.png" group-title="AR | EGYPT",EG - AL ASKANDRIA HD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/606128.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/EGYPT/ALGHADTV.png" group-title="AR | EGYPT",EG - AL GHAD TV HD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/842.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/EGYPT/ALNAS.png" group-title="AR | EGYPT",EG - AL NAS HD
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/42543.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/EGYPT/misrquraan.png" group-title="AR | EGYPT",EG - MISR QURAN KAREEM HD
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/250197.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/CBC EXTRA NEWS.png" group-title="AR | EGYPT",EG - CBC EXTRA NEWS HD
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/858.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/EXTRA LIVE.png" group-title="AR | EGYPT",EG - EXTRA LIVE HD
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/318630.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/EGYPT/NILE.png" group-title="AR | EGYPT",EG - NILE NEWS HD
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/851.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/EGYPT/NILE.png" group-title="AR | EGYPT",EG - NILE CULTURE HD
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/849.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/EGYPT/NILE.png" group-title="AR | EGYPT",EG - NILE FAMILY HD
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/853.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/EGYPT/NILETV.png" group-title="AR | EGYPT",EG - NILE TV HD
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/19163.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/EGYPT/PNC_TODAY .png" group-title="AR | EGYPT",EG - PNC TODAY HD
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/606121.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EGYPT/TOP_DRAMA.png" group-title="AR | EGYPT",EG - TOP DRAMA HD
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/606147.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/EGYPT/CIMATV.png" group-title="AR | EGYPT",EG - CIMA TV HD
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/828.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/EGYPT/AZHARITV.png" group-title="AR | EGYPT",EG - AZHARI TV HD
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/795.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/EGYPT/EL_MOLEED.png" group-title="AR | EGYPT",EG - EL MOLEED HD
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/606127.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/EGYPT/ELSHARQ.png" group-title="AR | EGYPT",EG - EL SHARQ HD
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/834.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/EGYPT/HYA_TV.png" group-title="AR | EGYPT",EG - HYA TV HD
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/606115.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EGYPT/MDEEH.png" group-title="AR | EGYPT",EG - MDEEH HD
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/606129.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/EGYPT/MEKAMELEEN.png" group-title="AR | EGYPT",EG - MEKAMELEEN HD
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/857.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/EGYPT/WATANTV.png" group-title="AR | EGYPT",EG - WATAN TV HD
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/796.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EGYPT/HEYATV.png" group-title="AR | EGYPT",EG - ALSA3YDA HD
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/606124.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/EGYPT/EGYPT.png" group-title="AR | EGYPT",##### EG - ENTERTAINMENT #####
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1390934.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/EGYPT/ALHAYATRED.png" group-title="AR | EGYPT",EG - AL HAYAT HD ◉
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/17129.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/EGYPT/ALHAYATMUSLSALAT.png" group-title="AR | EGYPT",EG -  AL HAYAT DRAMA  HD◉
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/856.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/Al Nahar.png" group-title="AR | EGYPT",EG - AL NAHAR ONE  HD◉
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/840.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/Al Nahar.png" group-title="AR | EGYPT",EG - AL NAHAR NOUR HD
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/606116.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/EGYPT/ALKAHERAWEALNASS.png" group-title="AR | EGYPT",EG - AL KAHERA WE ALNASS HD
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/846.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/EGYPT/ALKAHERAWEALNASS.png" group-title="AR | EGYPT",EG - AL KAHERA WAL NAS  2 HD
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/819.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EGYPT/ALSHAMS.png" group-title="AR | EGYPT",EG - AL SHAMS  HD
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/314013.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/EGYPT/AL_SHAMS_2.png" group-title="AR | EGYPT",EG - AL SHAMS 2 HD
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/606146.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/EGYPT/CBC.png" group-title="AR | EGYPT",EG - CBC  HD◉
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/860.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/EGYPT/CBCSOFRA.png" group-title="AR | EGYPT",EG - CBC SOFRA  HD◉
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/859.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/EGYPT/ONTVLIVE.png" group-title="AR | EGYPT",EG - ON TV E HD
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/806.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/EGYPT/ONTVLIVE.png" group-title="AR | EGYPT",EG - ON TV E HD ◉
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/805.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/EGYPT/DMC.png" group-title="AR | EGYPT",EG - DMC HD ◉
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/812.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/EGYPT/PANORAMA_FOOD.png" group-title="AR | EGYPT",EG - PANORAMA FOOD HD
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/799.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EGYPT/free2.png" group-title="AR | EGYPT",EG - FREE TV MUSIC HD
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/317184.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/MAZZIKA.png" group-title="AR | EGYPT",EG - MAZZIKA HD
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/167199.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/EGYPT/NILE.png" group-title="AR | EGYPT",EG - NILE COMEDY HD ◉
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/852.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/EGYPT/MEHWAR1.png" group-title="AR | EGYPT",EG - MEHWAR HD
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/835.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/EGYPT/nojom111.png" group-title="AR | EGYPT",EG - NOGOUM FM TV HD
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/254918.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/EGYPT/TENTVAR.png" group-title="AR | EGYPT",EG - TEN TV HD
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/841.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/ARABICA.png" group-title="AR | EGYPT",EG - ARABICA TV HD
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/826.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/EGYPT/EGYPT.png" group-title="AR | EGYPT",##### EG - MOVIES & SERIES #####
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1390935.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/EGYPT/jokar1.png" group-title="AR | EGYPT",EG - AL JOKAR AFLAM HD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/606139.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/EGYPT/jokar1.png" group-title="AR | EGYPT",EG - AL JOKAR DRAMA HD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/606140.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/EGYPT/jokar1.png" group-title="AR | EGYPT",EG - AL JOKAR HEKAYAT HD
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/606142.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/EGYPT/jokar1.png" group-title="AR | EGYPT",EG - AL JOKAR MOSALSALAT HD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/606141.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/EGYPT/ALKAHERAWEALNASS.png" group-title="AR | EGYPT",EG - AL KAHERA WAL NAS  2 HD
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/819.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/EGYPT/ALKAHERAWEALNASS.png" group-title="AR | EGYPT",EG - AL KAHERA WE ALNASS HD
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/846.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/EGYPT/ALMASRIYA.png" group-title="AR | EGYPT",EG - AL MASRIYA HD
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/788.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EGYPT/jokar1.png" group-title="AR | EGYPT",EG - AL JOKAR HEKAYAT HD
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/606142.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/Al Nahar Drama.png" group-title="AR | EGYPT",EG - AL NAHAR DRAMA  HD◉
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/839.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/Al Nahar.png" group-title="AR | EGYPT",EG - AL NAHAR NOUR HD
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/606116.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/Al Nahar.png" group-title="AR | EGYPT",EG - AL NAHAR ONE  HD◉
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/840.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/EGYPT/ALNAS.png" group-title="AR | EGYPT",EG - AL NAS HD
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/42543.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/EGYPT/AL_QAHERA_NEWS.png" group-title="AR | EGYPT",EG - AL QAHERA NEWS HD
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/318632.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/EGYPT/ALSHAMS.png" group-title="AR | EGYPT",EG - AL SHAMS  HD
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/314013.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/EGYPT/HEYATV.png" group-title="AR | EGYPT",EG - ALSA3YDA HD
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/606124.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/EGYPT/ALTHANYA.png" group-title="AR | EGYPT",EG - ALTHANYA HD
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/785.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/EGYPT/ALWAN1.png" group-title="AR | EGYPT",EG - ALWAN HD
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/606126.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/EGYPT/AL_SHAMS_2.png" group-title="AR | EGYPT",EG - AL SHAMS 2 HD
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/606146.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/ARABICA.png" group-title="AR | EGYPT",EG - ARABICA TV HD
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/826.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/EGYPT/AZHARITV.png" group-title="AR | EGYPT",EG - AZHARI TV HD
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/795.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/EGYPT/CBC.png" group-title="AR | EGYPT",EG - CBC  HD◉
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/860.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/EGYPT/CBCDRAMA.png" group-title="AR | EGYPT",EG - CBC DRAMA HD ◉
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/798.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/CBC EXTRA NEWS.png" group-title="AR | EGYPT",EG - CBC EXTRA NEWS HD
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/858.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/EGYPT/CBCSOFRA.png" group-title="AR | EGYPT",EG - CBC SOFRA  HD◉
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/859.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/EGYPT/CIMATV.png" group-title="AR | EGYPT",EG - CIMA TV HD
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/828.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/EGYPT/DAHAB_MUSALSALAT.png" group-title="AR | EGYPT",EG - DAHAB MUSALSALAT HD
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/929531.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/EGYPT/DMC_DRAMA.png" group-title="AR | EGYPT",EG - DMC DRAMA  HD◉
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/792.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/EGYPT/DMC.png" group-title="AR | EGYPT",EG - DMC HD ◉
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/812.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/EGYPT/DOLLY_MOSALSALAT.png" group-title="AR | EGYPT",EG - DOLLY MOSALSALAT HD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/606151.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/EGYPT/EL_MOLEED.png" group-title="AR | EGYPT",EG - EL MOLEED HD
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/606127.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/EGYPT/EL_OMDA.png" group-title="AR | EGYPT",EG - EL OMDA AFLAM HD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/606133.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/EGYPT/EL_OMDA.png" group-title="AR | EGYPT",EG - EL OMDA AL YOM HD
@@ -1530,38 +1572,14 @@ http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/606134.m3u8
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/606130.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/EGYPT/EL_OMDA.png" group-title="AR | EGYPT",EG - EL OMDA MOSALSALAT HD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/606131.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/EGYPT/ELSHARQ.png" group-title="AR | EGYPT",EG - EL SHARQ HD
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/834.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/EGYPT/ELZAEEM_CINEMA.png" group-title="AR | EGYPT",EG - ELZAEEM CINEMA HD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/606150.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/EGYPT/ELZAEEM_CINEMA.png" group-title="AR | EGYPT",EG - ELZAEEM DRAMA HD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/606149.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/EXTRA LIVE.png" group-title="AR | EGYPT",EG - EXTRA LIVE HD
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/318630.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/EGYPT/free2.png" group-title="AR | EGYPT",EG - FREE TV MUSIC HD
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/317184.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/HALA.png" group-title="AR | EGYPT",EG - HALA AL YOUM HD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/606136.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ARABE/HALA.png" group-title="AR | EGYPT",EG - HALA DRAMA HD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/606138.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/HALA.png" group-title="AR | EGYPT",EG - HALA HEKAYAT HD
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/606137.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/EGYPT/HYA_TV.png" group-title="AR | EGYPT",EG - HYA TV HD
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/606115.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/EGYPT/MASPEROZAMAN.png" group-title="AR | EGYPT",EG - MASPERO ZAMAN HD
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/797.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/MAZZIKA.png" group-title="AR | EGYPT",EG - MAZZIKA HD
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/167199.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/EGYPT/MDEEH.png" group-title="AR | EGYPT",EG - MDEEH HD
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/606129.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/EGYPT/MEHWAR1.png" group-title="AR | EGYPT",EG - MEHWAR HD
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/835.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/EGYPT/MEKAMELEEN.png" group-title="AR | EGYPT",EG - MEKAMELEEN HD
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/857.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/EGYPT/MELODYCLASSIC.png" group-title="AR | EGYPT",EG - MELODY CLASSIC HD
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/822.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/EGYPT/misrquraan.png" group-title="AR | EGYPT",EG - MISR QURAN KAREEM HD
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/250197.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/EGYPT/mix-bel-araby.png" group-title="AR | EGYPT",EG - MIX BEL ARABY HD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/272207.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/EGYPT/mix-bel-araby.png" group-title="AR | EGYPT",EG - MIX HOLLYWOOD HD
@@ -1570,48 +1588,18 @@ http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/330683.m3u8
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/330682.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/EGYPT/NILE.png" group-title="AR | EGYPT",EG - NILE CINEMA HD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/855.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/EGYPT/NILE.png" group-title="AR | EGYPT",EG - NILE COMEDY HD ◉
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/852.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/EGYPT/NILE.png" group-title="AR | EGYPT",EG - NILE CULTURE HD
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/849.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/EGYPT/NILE.png" group-title="AR | EGYPT",EG - NILE DRAMA HD
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/854.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/EGYPT/NILE.png" group-title="AR | EGYPT",EG - NILE FAMILY HD
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/853.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/EGYPT/NILE.png" group-title="AR | EGYPT",EG - NILE LIFE HD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/850.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/EGYPT/NILE.png" group-title="AR | EGYPT",EG - NILE NEWS HD
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/851.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/EGYPT/NILE.png" group-title="AR | EGYPT",EG - NILE SPORT HD
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/848.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/EGYPT/NILETV.png" group-title="AR | EGYPT",EG - NILE TV HD
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/19163.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/EGYPT/nojom111.png" group-title="AR | EGYPT",EG - NOGOUM FM TV HD
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/254918.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/EGYPT/ONTVLIVE.png" group-title="AR | EGYPT",EG - ON TIME SPORT 1  HD◉
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/809.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/EGYPT/ONTVLIVE.png" group-title="AR | EGYPT",EG - ON TIME SPORT 1 HD
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/808.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/EGYPT/ONTVLIVE.png" group-title="AR | EGYPT",EG - ON TIME SPORT 2 HD
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/810.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/EGYPT/ONTVLIVE.png" group-title="AR | EGYPT",EG - ON TIME SPORT 2 HD
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/811.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/EGYPT/NILE.png" group-title="AR | EGYPT",EG - NILE DRAMA HD
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/854.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/EGYPT/ONTVLIVE.png" group-title="AR | EGYPT",EG - ON TV DRAMA HD ◉
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/807.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/EGYPT/ONTVLIVE.png" group-title="AR | EGYPT",EG - ON TV E HD
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/806.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/EGYPT/ONTVLIVE.png" group-title="AR | EGYPT",EG - ON TV E HD ◉
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/805.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/EGYPT/PANORAMA DRAMA 123.png" group-title="AR | EGYPT",EG - PANORAMA DRAMA 1 HD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/801.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/EGYPT/PANORAMA DRAMA 123.png" group-title="AR | EGYPT",EG - PANORAMA DRAMA 2 HD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/800.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/EGYPT/PANORAMA_FILM.png" group-title="AR | EGYPT",EG - PANORAMA FILM HD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/830.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/EGYPT/PANORAMA_FOOD.png" group-title="AR | EGYPT",EG - PANORAMA FOOD HD
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/799.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/EGYPT/PNC_TODAY .png" group-title="AR | EGYPT",EG - PNC TODAY HD
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/606121.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/EGYPT/SADAELBALAD2.png" group-title="AR | EGYPT",EG - SADA EL BALAD  HD◉
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/845.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/EGYPT/SADAELBALAD2.png" group-title="AR | EGYPT",EG - SADA EL BALAD 2 ◉  HD
@@ -1624,18 +1612,36 @@ http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/606119.m3u8
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/606144.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/EGYPT/MDEEH.png" group-title="AR | EGYPT",EG - SUKARIYA HEKAYAT HD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/606143.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/EGYPT/TENTVAR.png" group-title="AR | EGYPT",EG - TEN TV HD
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/841.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/EGYPT/TOP_DRAMA.png" group-title="AR | EGYPT",EG - TOP DRAMA HD
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/606147.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/EGYPT/zaman.png" group-title="AR | EGYPT",EG - TOP ZAMAN HD
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/606148.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/EGYPT/WATANTV.png" group-title="AR | EGYPT",EG - WATAN TV HD
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/796.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/EGYPT/mosara3a1.png" group-title="AR | EGYPT",EG - YALLA MOSAR3A HD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/606125.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/EGYPT/DAHAB_MUSALSALAT.png" group-title="AR | EGYPT",EG - DAHAB MUSALSALAT HD
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/929531.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/HALA.png" group-title="AR | EGYPT",EG - HALA HEKAYAT HD
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/606137.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/EGYPT/ALWAN1.png" group-title="AR | EGYPT",EG - ALWAN HD
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/606126.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/EGYPT/MASPEROZAMAN.png" group-title="AR | EGYPT",EG - MASPERO ZAMAN HD
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/797.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/EGYPT/MELODYCLASSIC.png" group-title="AR | EGYPT",EG - MELODY CLASSIC HD
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/822.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EGYPT/zaman.png" group-title="AR | EGYPT",EG - TOP ZAMAN HD
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/606148.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/EGYPT/EGYPT.png" group-title="AR | EGYPT",##### EG - SPORTS #####
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1390933.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EGYPT/AL%20AHLY.png" group-title="AR | EGYPT",EG - AL AHLY HD
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/866.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/EGYPT/ZamalekSports.png" group-title="AR | EGYPT",EG - ZAMALEK SPORTS HD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/78365.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/EGYPT/ONTVLIVE.png" group-title="AR | EGYPT",EG - ON TIME SPORT 1  HD◉
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/809.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/EGYPT/ONTVLIVE.png" group-title="AR | EGYPT",EG - ON TIME SPORT 1 HD
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/808.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/EGYPT/ONTVLIVE.png" group-title="AR | EGYPT",EG - ON TIME SPORT 2 HD
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/810.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/EGYPT/ONTVLIVE.png" group-title="AR | EGYPT",EG - ON TIME SPORT 2 HD
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/811.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/AFRICA/EGYPT/NILE.png" group-title="AR | EGYPT",EG - NILE SPORT HD
+http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/848.m3u8
 
 # --- AR | IRAQ (73) ---
 #EXTINF:-1 tvg-logo="https://go4.pw/ASIA/IRAQ/IRAQ.png" group-title="AR | IRAQ",##### IQ - IRAQ #####
@@ -3437,29 +3443,21 @@ http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1084434.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ASIA/MANORAMA.png" group-title="AS | MALAYSIA",MY - MAZAVIL MANORAMA HD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1084437.m3u8
 
-# --- AS | VIETNAM (44) ---
+# --- AS | VIETNAM (33) ---
 #EXTINF:-1 tvg-logo="https://go4.pw/VIETNAM/VIETNAM.png" group-title="AS | VIETNAM",##### VN - VIETNAM #####
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1319115.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/VIETNAM/BBC_NEWS.png" group-title="AS | VIETNAM",VN - BBC NEWS FHD
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/427229.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ASIA/VIETNAM/SON_LA.png" group-title="AS | VIETNAM",VN - SON LA FHD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/427203.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ASIA/VIETNAM/LONG_AN.png" group-title="AS | VIETNAM",VN - TTV FHD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/427199.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ASIA/VIETNAM/LAO_CAI.png" group-title="AS | VIETNAM",VN - LAO CAI FHD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/427214.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/VIETNAM/HTVC_GIA_DINH.png" group-title="AS | VIETNAM",VN - HTVC PHU NU FHD
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/427219.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ASIA/VIETNAM/QUOC_PHONG.png" group-title="AS | VIETNAM",VN - QUOC PHONG VN FHD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/427221.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/VIETNAM/HTVDULICH1.png" group-title="AS | VIETNAM",VN - HTVC DU LICH FHD
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/427226.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ASIA/VIETNAM/HTVC_GIA_DINH.png" group-title="AS | VIETNAM",VN - HTVC GIA DINH FHD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/427227.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ASIA/VIETNAM/TIEN_GIANG.png" group-title="AS | VIETNAM",VN - TIEN GIANG FHD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/427230.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/VIETNAM/QUANG_NINH_3.png" group-title="AS | VIETNAM",VN - QUANG NINH 3 FHD
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/427236.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ASIA/VIETNAM/SOC_TRANG.png" group-title="AS | VIETNAM",VN - SOC TRANG FHD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/427237.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ASIA/VIETNAM/TRA_VINH.png" group-title="AS | VIETNAM",VN - TRA VINH HD FHD
@@ -3472,12 +3470,6 @@ http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/427249.m3u8
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/427205.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ASIA/VIETNAM/DISCOVERY_ASIA.png" group-title="AS | VIETNAM",VN - DISCOVERY ASIA HD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/427211.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/VIETNAM/DISCOVERY.png" group-title="AS | VIETNAM",VN - DISCOVERY HD
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/427207.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/VIETNAM/ANIMAL_PLANET.png" group-title="AS | VIETNAM",VN - ANIMAL PLANET HD
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/427212.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/VIETNAM/BBC_EARTH.png" group-title="AS | VIETNAM",VN - BBC EARTH HD
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/427215.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ASIA/VIETNAM/NHK_WORLD.png" group-title="AS | VIETNAM",VN - NHK WORLD HD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/427225.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ASIA/VIETNAM/BABY_FIRST.png" group-title="AS | VIETNAM",VN - BABY FIRST HD
@@ -3486,14 +3478,10 @@ http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/427208.m3u8
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1035427.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/INDONESIA/KIX.png" group-title="AS | VIETNAM",VN - KIX HD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1035439.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/VIETNAM/YEN_BAI.png" group-title="AS | VIETNAM",VN - YEN BAI HD
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/427202.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ASIA/VIETNAM/TRA_VINH.png" group-title="AS | VIETNAM",VN - TRA VINH HD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/427206.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ASIA/VIETNAM/DONG_NAI_2.png" group-title="AS | VIETNAM",VN - DONG NAI 2 HD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/427209.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/VIETNAM/NAM_DINH.png" group-title="AS | VIETNAM",VN - NAM DINH HD
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/427218.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ASIA/VIETNAM/ANTV.png" group-title="AS | VIETNAM",VN - ANTV HD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/427222.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ASIA/VIETNAM/HA_TINH.png" group-title="AS | VIETNAM",VN - HA TINH HD
@@ -3502,12 +3490,8 @@ http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/427224.m3u8
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/427231.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ASIA/VIETNAM/QUANG_NINH_3.png" group-title="AS | VIETNAM",VN - QUANG NINH 1 HD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/427235.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/VIETNAM/THAI_NGUYEN.png" group-title="AS | VIETNAM",VN - THAI NGUYEN HD
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/427238.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ASIA/VIETNAM/THANH_HOA.png" group-title="AS | VIETNAM",VN - THANH HOA HD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/427239.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/VIETNAM/HA_GIANG.png" group-title="AS | VIETNAM",VN - HA GIANG HD
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/427244.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ASIA/VIETNAM/HAI_PHONG.png" group-title="AS | VIETNAM",VN - HAI PHONG HD
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/427245.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ASIA/VIETNAM/tn.png" group-title="AS | VIETNAM",VN - THAI NGUYEN HD
@@ -7318,19 +7302,19 @@ http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1360324.m3u8
 # --- EU | ES | VIX PPV (101) ---
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/SPAIN/SPAIN.png" group-title="EU | ES | VIX PPV",##### VIX PPV #####
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1360325.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/VIX.png" group-title="EU | ES | VIX PPV",ES - VIX 01 PPV : CLUB INDEPENDIENTE PETROLERO @ GUABIRÁ – MAR 3 – 4:40 PM ET / 9:40 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/VIX.png" group-title="EU | ES | VIX PPV",ES - VIX 01 PPV : BLOOMING @ SAN ANTONIO BULO BULO – MAR 4 – 4:40 PM ET / 9:40 PM UK
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1360326.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/VIX.png" group-title="EU | ES | VIX PPV",ES - VIX 02 PPV : SURINAM (F) @ HAITÍ (F) – MAR 3 – 4:45 PM ET / 9:45 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/VIX.png" group-title="EU | ES | VIX PPV",ES - VIX 02 PPV : SAN CRISTÓBAL Y NEVIS (F) @ PANAMÁ (F) – MAR 4 – 5:45 PM ET / 10:45 PM UK
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1360327.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/VIX.png" group-title="EU | ES | VIX PPV",ES - VIX 03 PPV : BERMUDAS (F) @ COSTA RICA (F) – MAR 3 – 5:45 PM ET / 10:45 PM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/VIX.png" group-title="EU | ES | VIX PPV",ES - VIX 03 PPV : MARQUENSE @ GUASTATOYA – MAR 4 – 6:45 PM ET / 11:45 PM UK
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1360328.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/VIX.png" group-title="EU | ES | VIX PPV",ES - VIX 04 PPV : COMUNICACIONES @ MALACATECO – MAR 3 – 7:45 PM ET / 12:45 AM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/VIX.png" group-title="EU | ES | VIX PPV",ES - VIX 04 PPV : HONDURAS (F) @ TRINIDAD & TOBAGO (F) – MAR 4 – 7:45 PM ET / 12:45 AM UK
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1360329.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/VIX.png" group-title="EU | ES | VIX PPV",ES - VIX 05 PPV : PACHUCA @ NECAXA – MAR 3 – 7:45 PM ET / 12:45 AM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/VIX.png" group-title="EU | ES | VIX PPV",ES - VIX 05 PPV : MONTERREY @ QUERÉTARO – MAR 4 – 7:45 PM ET / 12:45 AM UK
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1360330.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/VIX.png" group-title="EU | ES | VIX PPV",ES - VIX 06 PPV : ATLÉTICO DE SAN LUIS @ MAZATLÁN FC – MAR 3 – 9:45 PM ET / 2:45 AM UK
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/VIX.png" group-title="EU | ES | VIX PPV",ES - VIX 06 PPV : PUEBLA @ TIGRES UANL – MAR 4 – 7:45 PM ET / 12:45 AM UK
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1360331.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/VIX.png" group-title="EU | ES | VIX PPV",ES - VIX 07 PPV :
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/VIX.png" group-title="EU | ES | VIX PPV",ES - VIX 07 PPV : ATLAS @ CLUB TIJUANA – MAR 4 – 9:45 PM ET / 2:45 AM UK
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1360332.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/VIX.png" group-title="EU | ES | VIX PPV",ES - VIX 08 PPV :
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1360333.m3u8
@@ -12413,18 +12397,16 @@ http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1125008.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/stin-cou.png" group-title="VIP | MUSIC CONCERTS",VIP - STINGRAY COUNTRY CLASSICS
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1291998.m3u8
 
-# --- VIP | PREMIER LEAGUE (42) ---
+# --- VIP | PREMIER LEAGUE (38) ---
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/UK.png" group-title="VIP | PREMIER LEAGUE",##### ENGLISH #####
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1020754.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",EN - MANCHESTER CITY VS NOTTINGHAM FOREST 20:30 CET
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1100811.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",EN - BRIGHTON & HOVE ALBION VS ARSENAL 20:30 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",EN - NO MATCH
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1100810.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",EN - FULHAM VS WEST HAM UNITED 20:30 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",EN - NO MATCH
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1015554.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",EN - ASTON VILLA VS CHELSEA 20:30 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",EN - NO MATCH
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1015553.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",EN - NEWCASTLE UNITED VS MANCHESTER UNITED 21:15 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",EN - NO MATCH
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1015552.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",EN - NO MATCH
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1015551.m3u8
@@ -12438,15 +12420,13 @@ http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1015548.m3u8
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1015547.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/FRANCE/flag_france.png" group-title="VIP | PREMIER LEAGUE",##### FRENCH #####
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1020753.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",FR - MANCHESTER CITY VS NOTTINGHAM FOREST 20:30 CET
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1100813.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",FR - BRIGHTON & HOVE ALBION VS ARSENAL 20:30 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",FR - NO MATCH
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1100812.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",FR - FULHAM VS WEST HAM UNITED 20:30 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",FR - NO MATCH
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1015546.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",FR - ASTON VILLA VS CHELSEA 20:30 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",FR - NO MATCH
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1015545.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",FR - NEWCASTLE UNITED VS MANCHESTER UNITED 21:15 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",FR - NO MATCH
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1015544.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",FR - NO MATCH
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1015543.m3u8
@@ -12460,15 +12440,13 @@ http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1015539.m3u8
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1015540.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ASIA/SAUDI/SAUDI.png" group-title="VIP | PREMIER LEAGUE",##### ARABIC #####
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1020752.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",AR - MANCHESTER CITY VS NOTTINGHAM FOREST 20:30 CET
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1100815.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",AR - BRIGHTON & HOVE ALBION VS ARSENAL 20:30 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",AR - NO MATCH
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1100814.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",AR - FULHAM VS WEST HAM UNITED 20:30 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",AR - NO MATCH
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1015562.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",AR - ASTON VILLA VS CHELSEA 20:30 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",AR - NO MATCH
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1015561.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",AR - NEWCASTLE UNITED VS MANCHESTER UNITED 21:15 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",AR - NO MATCH
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1015560.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",AR - NO MATCH
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1015559.m3u8
@@ -12482,15 +12460,13 @@ http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1015555.m3u8
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1015556.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/MAGFLAGS/ALBANIA.png" group-title="VIP | PREMIER LEAGUE",##### ALBANIAN #####
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1024114.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",ALB - MANCHESTER CITY VS NOTTINGHAM FOREST 20:30 CET
-http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1225673.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",ALB - BRIGHTON & HOVE ALBION VS ARSENAL 20:30 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",ALB - NO MATCH
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1182487.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",ALB - FULHAM VS WEST HAM UNITED 20:30 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",ALB - NO MATCH
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1039828.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",ALB - ASTON VILLA VS CHELSEA 20:30 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",ALB - NO MATCH
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1039819.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",ALB - NEWCASTLE UNITED VS MANCHESTER UNITED 21:15 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",ALB - NO MATCH
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1024335.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/59.png" group-title="VIP | PREMIER LEAGUE",ALB - NO MATCH
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/1024118.m3u8
@@ -12831,4 +12807,4 @@ http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/682939.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/champ/europaleague.png" group-title="VIP | UEFA EUROPA LEAGUE",ES - NO MATCH
 http://supjaa.xyz/live/Aziz2fr21/07D0909B6277/682936.m3u8
 
-# Total: 6296
+# Total: 6284
