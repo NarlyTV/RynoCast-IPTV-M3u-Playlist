@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: siptvs.com:8080
-# Generated: 2026-03-08 18:31:31
+# Generated: 2026-03-09 07:25:56
 # Expires: 2026-05-16
 # Family Safe Edition
 # ==============================================
@@ -1374,7 +1374,7 @@ http://siptvs.com:8080/live/Biljana12/Biljana12/4904.m3u8
 http://siptvs.com:8080/live/Biljana12/Biljana12/4905.m3u8
 #EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/gradiska.png" group-title="|EXYU| BIH",RTV GRADISKA
 http://siptvs.com:8080/live/Biljana12/Biljana12/38610.m3u8
-#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/elta2.png" group-title="|EXYU| BIH",ELTA 2
+#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/elta2.png" group-title="|EXYU| BIH",RTV ISTOCNO SARAJEVO (TEST)
 http://siptvs.com:8080/live/Biljana12/Biljana12/38611.m3u8
 #EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/full/rtvvogosca.png" group-title="|EXYU| BIH",VOGOSCA TV
 http://siptvs.com:8080/live/Biljana12/Biljana12/4906.m3u8

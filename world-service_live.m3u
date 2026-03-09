@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: world-service.us:8080
-# Generated: 2026-03-08 18:41:49
+# Generated: 2026-03-09 07:33:13
 # Expires: 2026-05-19
 # Family Safe Edition
 # ==============================================
@@ -1442,7 +1442,7 @@ http://world-service.us:8080/live/giovanmer/merante/8510.m3u8
 http://world-service.us:8080/live/giovanmer/merante/10.m3u8
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/15aed459f6502a11e29a35690910c595.png" group-title="TIVUSAT",RSI LA 1 HD
 http://world-service.us:8080/live/giovanmer/merante/8.m3u8
-#EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/7d0b2dfaa9c721eb69aae8a3fdde3583.png" group-title="TIVUSAT",RSI LA 2 HD
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/7d0b2dfaa9c721eb69aae8a3fdde3583.png" group-title="TIVUSAT",RSI LA 2 HD
 http://world-service.us:8080/live/giovanmer/merante/9.m3u8
 #EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/06eb613a60a5aca777168356f678c30b.png" group-title="TIVUSAT",Sky Tg 24 HD
 http://world-service.us:8080/live/giovanmer/merante/38.m3u8

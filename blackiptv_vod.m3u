@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: blackiptv.net:8080
-# Generated: 2026-03-08 18:37:44
+# Generated: 2026-03-09 07:19:08
 # Expires: 2026-12-21
 # Family Safe Edition
 # ==============================================
@@ -10137,11 +10137,13 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/2013.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ ALL",DE: Lord of the Flies (2026)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/2015.mp4
 
-# --- Movies | DE/SERIE ~ AMAZON PRIME (28) ---
+# --- Movies | DE/SERIE ~ AMAZON PRIME (29) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ AMAZON PRIME",56 Tage (2026) DE
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/2005.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ AMAZON PRIME",Steal (2026)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1937.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ AMAZON PRIME",Marshals - A Yellowstone Story (2026) DE
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/2044.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ AMAZON PRIME",Die rote Königin (2024)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1206.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ AMAZON PRIME",Peripherie (2022)
@@ -11511,11 +11513,11 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/17071.mp4
 
 # --- Movies | TR/DIZI ~ CUMARTESI (3) ---
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3Qwhs7xxf9LILllWLnxbSaCBNDf.jpg" group-title="Movies | TR/DIZI ~ CUMARTESI",CUMT: Güller ve Günahlar  20.Bölüm (YENI DIZI)
-http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/48482.mkv
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/48482.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vc20oOVlfVQI0YWocTvTv7wOILk.jpg" group-title="Movies | TR/DIZI ~ CUMARTESI",CUMT: Gönül Dagi 208.Bölüm (Yeni Sezon)
-http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/26836.mkv
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/26836.mp4
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zgVgcthDQ8pYgBkKzi1AaXmmeFO.jpg" group-title="Movies | TR/DIZI ~ CUMARTESI",CMT: Sahtekarlar 21.Bölüm (YENI GÜNÜNDE)
-http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/60873.mkv
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/60873.mp4
 
 # --- Movies | TR/DIZI ~ DISNEY + (79) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ DISNEY +",Tell Me Lies (2022) TR
@@ -12161,7 +12163,9 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1637.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ HBO MAX/BLUTV",The Chair Company (2025)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1658.mp4
 
-# --- Movies | TR/DIZI ~ NETFLIX (DUAL) (505) ---
+# --- Movies | TR/DIZI ~ NETFLIX (DUAL) (506) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ NETFLIX (DUAL)",Dinozorlar (2026) TR
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/2045.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ NETFLIX (DUAL)",Can This Love Be Translated? (2026) TR
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/2026.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ NETFLIX (DUAL)",House of Guinness (2025) TR
@@ -13173,12 +13177,14 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1728.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ NETFLIX (DUAL)",Kasaba (2025)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1835.mp4
 
-# --- Movies | TR/DIZI ~ PAZAR (3) ---
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pym4NaXmFEaAfPa1ZQei6pAJGhS.jpg" group-title="Movies | TR/DIZI ~ PAZAR",PAZ: Aynı Yağmur Altında 4.Bölüm (YENI DIZI)
+# --- Movies | TR/DIZI ~ PAZAR (4) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l0upbqBdvweAch5jW2dj6RVYu0s.jpg" group-title="Movies | TR/DIZI ~ PAZAR",PAZ: Doktor: Başka Hayatta 1.Bölüm (YENİ DİZİ)
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/69429.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pym4NaXmFEaAfPa1ZQei6pAJGhS.jpg" group-title="Movies | TR/DIZI ~ PAZAR",PAZ: Aynı Yağmur Altında 5.Bölüm (YENI DIZI)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/67075.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylpluerF3X4QQYBXEwztfYNMkOh.jpg" group-title="Movies | TR/DIZI ~ PAZAR",PAZ: Rüya Gibi  13.Bölüm (YENI DIZI)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/28347.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5gyIIZ7LKxrus2KaPcYQ7Zksf5m.jpg" group-title="Movies | TR/DIZI ~ PAZAR",PAZ: Teskilat 171.Bölüm (YENI SEZON)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5gyIIZ7LKxrus2KaPcYQ7Zksf5m.jpg" group-title="Movies | TR/DIZI ~ PAZAR",PAZ: Teskilat 172.Bölüm (YENI SEZON)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/33155.mp4
 
 # --- Movies | TR/DIZI ~ PAZARTESI (3) ---
@@ -13413,13 +13419,15 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1583.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ TURKCELL TV+",BMF
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1602.mp4
 
-# --- Movies | TR/DIZI ~ TV (49) ---
+# --- Movies | TR/DIZI ~ TV (50) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ TV",Sevdiğim Sensin (2026)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1969.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ TV",Aynı Yağmur Altında (2026)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1965.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ TV",İnci Taneleri 2024
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1354.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ TV",Doktor: Başka Hayatta (2026)
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/2046.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ TV",Yeraltı (2026)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1944.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ TV",A.B.İ. (2026)
@@ -19663,7 +19671,9 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/69373.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rcmJRflS4aFJg8Ockk7YePQWlzc.jpg" group-title="Movies | TR/FILM ~ YABANCI 2025 (DUAL)",Bir Seri Katille Görüşme (2025) TR
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/69374.mp4
 
-# --- Movies | TR/FILM ~ YABANCI 2026 (DUAL) (15) ---
+# --- Movies | TR/FILM ~ YABANCI 2026 (DUAL) (16) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tn6zYcdEvfoTJeBP0OeNqu3Sl4J.jpg" group-title="Movies | TR/FILM ~ YABANCI 2026 (DUAL)",Katil Makine (2026) TR
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/69425.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/chivRgMyevpLUDfLIokY9aTomRu.jpg" group-title="Movies | TR/FILM ~ YABANCI 2026 (DUAL)",Banlieusards 3 (2026) TR
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/69390.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9UueaWSof6TvmjTIG6z0S2zFgJK.jpg" group-title="Movies | TR/FILM ~ YABANCI 2026 (DUAL)",İtham (2026) TR
@@ -21795,4 +21805,4 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/63372.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t8EQllq34VC5mooiJw1vVFOlM4x.jpg" group-title="Movies | TR/FILM ~ YILBASI ÖZEL",O Ses Türkiye  Yilbasi Özel 2025
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/54778.mp4
 
-# Total: 10747
+# Total: 10752

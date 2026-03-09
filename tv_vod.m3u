@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: tv.streamid.tv:8080
-# Generated: 2026-03-08 18:40:03
+# Generated: 2026-03-09 07:30:26
 # Expires: 2026-03-22
 # Family Safe Edition
 # ==============================================
@@ -22092,10 +22092,10 @@ http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/3032.mkv
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/3034.mkv
 #EXTINF:-1 tvg-logo="http://tv.streamid.ga:8080/images/e841ae18b7264953fc7c12c2a92e3272.jpg" group-title="Movies | VOD SAGAS",VOD | El Hobbit 3: La batalla de los Cinco Ejércitos (2014) dual ext
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/3035.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bojMb5j1dOHvD1cKffI0AW9ARkk.jpg" group-title="Movies | VOD SAGAS",VOD |  X-Men (2000) lat
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/3036.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fOlFmApwWIIjAA8SnQhoR4g5XhH.jpg" group-title="Movies | VOD SAGAS",VOD |  X-Men 2 (2003) lat
-http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/3037.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bojMb5j1dOHvD1cKffI0AW9ARkk.jpg" group-title="Movies | VOD SAGAS",VOD |  X-Men (2000) dual
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/3036.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fOlFmApwWIIjAA8SnQhoR4g5XhH.jpg" group-title="Movies | VOD SAGAS",VOD |  X-Men 2 (2003) DUAL
+http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/3037.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6FnWDI3mKZhfWv7NznKUFlvSdo0.jpg" group-title="Movies | VOD SAGAS",VOD |  X-Men 3: La decisión final (2006) lat
 http://tv.streamid.tv:8080/movie/JuanSolari/CxybCrqFu3e/3038.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8tzHWNz3jSFqfTsHxUc3Sel75n7.jpg" group-title="Movies | VOD SAGAS",X-Men orígenes: Lobezno
@@ -27859,7 +27859,7 @@ http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/3797
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES  - HISTORIA",Los Forsytes (PBS -SUB)
 http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/3915
 
-# --- Series | SERIES -  EN ESTRENO (45) ---
+# --- Series | SERIES -  EN ESTRENO (47) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES -  EN ESTRENO",Suits LA (NBC - SUB)
 http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/3401
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES -  EN ESTRENO",Gachiakuta (crunshrll - dual)
@@ -27950,6 +27950,10 @@ http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/4053
 http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/4062
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES -  EN ESTRENO",DTF St. Louis (MAX -DUAL)
 http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/4063
+#EXTINF:-1 tvg-logo="" group-title="Series | SERIES -  EN ESTRENO",Banksters (MAX -DUAL)
+http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/4078
+#EXTINF:-1 tvg-logo="" group-title="Series | SERIES -  EN ESTRENO",La luz que aún nos guía (NTFX -DUAL)
+http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/4079
 
 # --- Series | SERIES - 4K (16) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES - 4K",4K Falcon y el Soldado de Invierno (DSNY+ DUAL)
@@ -29125,7 +29129,7 @@ http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/3980
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES - ANIME",Hell's Paradise
 http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/3998
 
-# --- Series | SERIES - CHILE (43) ---
+# --- Series | SERIES - CHILE (44) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES - CHILE",Los 80
 http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/3
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES - CHILE",Sudamerican Rockers
@@ -29212,6 +29216,8 @@ http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/4039
 http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/4044
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES - CHILE",Helga y Flora (TVN-LAT)
 http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/4046
+#EXTINF:-1 tvg-logo="" group-title="Series | SERIES - CHILE",Teatro en Chilevisión 2026
+http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/4077
 
 # --- Series | SERIES - CIENCIA FICCIÓN (270) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES - CIENCIA FICCIÓN",Watchmen
@@ -34755,4 +34761,4 @@ http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/3456
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES- ROMANCE",La Realeza (NTFX -DUAL)
 http://tv.streamid.tv:8080/series/JuanSolari/CxybCrqFu3e/3465
 
-# Total: 17297
+# Total: 17300

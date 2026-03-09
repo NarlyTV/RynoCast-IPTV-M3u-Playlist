@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: danbitman.ddns.net:8008
-# Generated: 2026-03-08 18:44:08
+# Generated: 2026-03-09 07:33:52
 # Expires: 2026-09-28
 # Family Safe Edition
 # ==============================================
@@ -2293,7 +2293,9 @@ http://danbitman.ddns.net:8008/movie/Cristinel_Ciorascu/jkAEH821DU/6982.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | ⚡SERIALE - REALITY⚡",You vs. Wild
 http://danbitman.ddns.net:8008/movie/Cristinel_Ciorascu/jkAEH821DU/6983.mp4
 
-# --- Movies | ⚡SERIALE - ROMANESTI⚡ (64) ---
+# --- Movies | ⚡SERIALE - ROMANESTI⚡ (65) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | ⚡SERIALE - ROMANESTI⚡",Tătuțu' (2026)
+http://danbitman.ddns.net:8008/movie/Cristinel_Ciorascu/jkAEH821DU/7089.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | ⚡SERIALE - ROMANESTI⚡",Groapa
 http://danbitman.ddns.net:8008/movie/Cristinel_Ciorascu/jkAEH821DU/6053.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | ⚡SERIALE - ROMANESTI⚡",Adela
@@ -35137,4 +35139,4 @@ http://danbitman.ddns.net:8008/movie/Cristinel_Ciorascu/jkAEH821DU/581353.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/51LItgyecu2KMAtIchYogEykCIu.jpg" group-title="Movies | ✨FILME - WESTERN✨",Wyatt Earp - 1994
 http://danbitman.ddns.net:8008/movie/Cristinel_Ciorascu/jkAEH821DU/581354.mkv
 
-# Total: 17522
+# Total: 17523
