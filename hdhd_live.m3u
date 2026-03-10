@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: hdhd.tk:80
-# Generated: 2026-03-10 07:27:33
+# Generated: 2026-03-10 18:42:17
 # Expires: 2027-10-14
 # Family Safe Edition
 # ==============================================
@@ -4323,7 +4323,7 @@ http://hdhd.tk:80/live/Amanda1/Frechette1/380642.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS-Motorsport",MOTORSPORT 04:
 http://hdhd.tk:80/live/Amanda1/Frechette1/380643.m3u8
 
-# --- UK (11) ---
+# --- UK (12) ---
 #EXTINF:-1 tvg-logo="https://logo.m3uassets.com/bbc3.png" group-title="UK",UK BBC 3
 http://hdhd.tk:80/live/Amanda1/Frechette1/397143.m3u8
 #EXTINF:-1 tvg-logo="https://logo.m3uassets.com/aljazeera.png" group-title="UK",UK AL JAZEERA
@@ -4346,6 +4346,8 @@ http://hdhd.tk:80/live/Amanda1/Frechette1/397158.m3u8
 http://hdhd.tk:80/live/Amanda1/Frechette1/397160.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UK",UK Sky Sports F1
 http://hdhd.tk:80/live/Amanda1/Frechette1/821894.m3u8
+#EXTINF:-1 tvg-logo="" group-title="UK",UK TNT Sports 1
+http://hdhd.tk:80/live/Amanda1/Frechette1/822635.m3u8
 
 # --- USA ABC (Local) (183) ---
 #EXTINF:-1 tvg-logo="https://www.tv-address.com/wp-content/uploads/2021/03/wjet_tv24_erie.jpg" group-title="USA ABC (Local)",US ABC 24 (WJET) Erie
@@ -7999,4 +8001,4 @@ http://hdhd.tk:80/live/Amanda1/Frechette1/330321.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Vietnam",VN FILM24H
 http://hdhd.tk:80/live/Amanda1/Frechette1/330322.m3u8
 
-# Total: 3903
+# Total: 3904

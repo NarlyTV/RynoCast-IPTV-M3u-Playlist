@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: iptv.darktv.eu:25461
-# Generated: 2026-03-10 07:14:52
+# Generated: 2026-03-10 18:47:39
 # Expires: 2026-04-01
 # Family Safe Edition
 # ==============================================
@@ -897,7 +897,7 @@ http://iptv.darktv.eu:25461/live/AkgunToprak/f4ffhAAN/183281.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) Mission Impossible Sammlung
 http://iptv.darktv.eu:25461/live/AkgunToprak/f4ffhAAN/151945.m3u8
 
-# --- DE - DOKUMENTATION (33) ---
+# --- DE - DOKUMENTATION (31) ---
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/channel21.png" group-title="DE - DOKUMENTATION",(DE) Channel 21 4K
 http://iptv.darktv.eu:25461/live/AkgunToprak/f4ffhAAN/89869.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/natgeous.png" group-title="DE - DOKUMENTATION",(DE) National Geographic 4K+
@@ -950,16 +950,12 @@ http://iptv.darktv.eu:25461/live/AkgunToprak/f4ffhAAN/272455.m3u8
 http://iptv.darktv.eu:25461/live/AkgunToprak/f4ffhAAN/272454.m3u8
 #EXTINF:-1 tvg-logo="http://109.104.154.227/Logolar/spiegeltvkonflikt.png" group-title="DE - DOKUMENTATION",(DE) Spiegel TV Konflikt
 http://iptv.darktv.eu:25461/live/AkgunToprak/f4ffhAAN/272453.m3u8
-#EXTINF:-1 tvg-logo="http://109.104.154.227/Logolar/bbctravel.png" group-title="DE - DOKUMENTATION",(DE) BBC Travel
-http://iptv.darktv.eu:25461/live/AkgunToprak/f4ffhAAN/272452.m3u8
 #EXTINF:-1 tvg-logo="http://109.104.154.227/Logolar/justfishing.png" group-title="DE - DOKUMENTATION",(DE) Just Fishing
 http://iptv.darktv.eu:25461/live/AkgunToprak/f4ffhAAN/272451.m3u8
 #EXTINF:-1 tvg-logo="http://109.104.154.227/Logolar/landlust.png" group-title="DE - DOKUMENTATION",(DE) LandLust
 http://iptv.darktv.eu:25461/live/AkgunToprak/f4ffhAAN/272450.m3u8
 #EXTINF:-1 tvg-logo="http://109.104.154.227/Logolar/farmland.png" group-title="DE - DOKUMENTATION",(DE) Farmland TV
 http://iptv.darktv.eu:25461/live/AkgunToprak/f4ffhAAN/272449.m3u8
-#EXTINF:-1 tvg-logo="http://109.104.154.227/Logolar/bbcfood.png" group-title="DE - DOKUMENTATION",(DE) BBC Food
-http://iptv.darktv.eu:25461/live/AkgunToprak/f4ffhAAN/272448.m3u8
 #EXTINF:-1 tvg-logo="http://109.104.154.227/Logolar/cooking.png" group-title="DE - DOKUMENTATION",(DE) Just Cooking
 http://iptv.darktv.eu:25461/live/AkgunToprak/f4ffhAAN/272447.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DE - DOKUMENTATION",(DE) GEO Television
@@ -1651,7 +1647,7 @@ http://iptv.darktv.eu:25461/live/AkgunToprak/f4ffhAAN/3289.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/skysport4hd.png" group-title="DE - SKY SPORTS",(DE) Sky Sport 10 4K
 http://iptv.darktv.eu:25461/live/AkgunToprak/f4ffhAAN/120293.m3u8
 
-# --- DE - SPORTS (46) ---
+# --- DE - SPORTS (45) ---
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/daznevent1.png" group-title="DE - SPORTS",(DE) DAZN 1 HEVC
 http://iptv.darktv.eu:25461/live/AkgunToprak/f4ffhAAN/11236.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/logo/Logolar/daznevent1.png" group-title="DE - SPORTS",(DE) DAZN 2 HEVC
@@ -1696,8 +1692,6 @@ http://iptv.darktv.eu:25461/live/AkgunToprak/f4ffhAAN/119660.m3u8
 http://iptv.darktv.eu:25461/live/AkgunToprak/f4ffhAAN/175869.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/sport1german.png" group-title="DE - SPORTS",(DE) Sport1 4K+
 http://iptv.darktv.eu:25461/live/AkgunToprak/f4ffhAAN/142298.m3u8
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/sport1german.png" group-title="DE - SPORTS",(DE) Sport1+ 4K+
-http://iptv.darktv.eu:25461/live/AkgunToprak/f4ffhAAN/4623.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/teleclubsport1.png" group-title="DE - SPORTS",(DE) Teleclub Sport 1 HD
 http://iptv.darktv.eu:25461/live/AkgunToprak/f4ffhAAN/80305.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/teleclubsport2.png" group-title="DE - SPORTS",(DE) Teleclub Sport 2 HD
@@ -4167,4 +4161,4 @@ http://iptv.darktv.eu:25461/live/AkgunToprak/f4ffhAAN/16560.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Unknown",(TR) - DARK TRT FM
 http://iptv.darktv.eu:25461/live/AkgunToprak/f4ffhAAN/8056.m3u8
 
-# Total: 2008
+# Total: 2005

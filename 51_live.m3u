@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: 51.89.76.111:2086
-# Generated: 2026-03-10 07:23:30
+# Generated: 2026-03-10 18:41:17
 # Expires: 2026-12-31
 # Family Safe Edition
 # ==============================================
@@ -1269,32 +1269,18 @@ http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/110104.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/gy51zip.png" group-title="DE-DAZN",DE: DAZN Eurosport 2 HD
 http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/170928.m3u8
 
-# --- DE-DAZN EVENT (53) ---
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1dhtq2sz5px5m1b2rz89t0evwm_image-header_pDach_1773004638000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Inside The Ring - Mar 9 (2026-03-09 18:00:00)
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/178972.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/33ruz9y9pfpto9jcpcyidprff_image-header_pDach_1772100999000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Lazio - Sassuolo (italienischer Kommentar) (2026-03-09 19:00:00)
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/178973.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/ezx9rmqj505eoj5fmd2oxtder_image-header_pDach_1771595421000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",West Ham - Brentford (2026-03-09 19:30:00)
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/178974.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/ag8vnk820ogtn5gxipxypie3s_image-header_pDach_1772056310000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Almeria - Cultural Leonesa (2026-03-09 19:30:00)
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/178975.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/bytzqj2nnpvy1p7uldrsvp3lg_image-header_pDach_1772100999000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Lazio - Sassuolo (2026-03-09 19:45:00)
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/178976.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/4t5t29v70evjh3yf6rim8uw9k_image-header_pDach_1771398622000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Dunkerque - Reims (2026-03-09 19:45:00)
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/178977.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/18aph2fts8j2uzar36e30k49z_image-header_pDach_1764530890000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Espanyol - Oviedo (2026-03-09 20:00:00)
-http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/178978.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/3bxlmxouoa95s7pdwyhga0sk0_image-header_pDach_1772464031000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Galatasaray - Liverpool | Achtelfinale (Hinspiel) (2026-03-10 17:45:00)
+# --- DE-DAZN EVENT (46) ---
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/3bxlmxouoa95s7pdwyhga0sk0_image-header_pDach_1772464031000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Galatasaray - Liverpool | Achtelfinale (Hinspiel) (2026-03-10 18:45:00)
 http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/178979.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/ax0f08xy7bndiif1fcxt240zq_image-header_pDach_1772697292000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Dienstags-Konferenz | Achtelfinale (Hinspiele) (2026-03-10 19:30:00)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/ax0f08xy7bndiif1fcxt240zq_image-header_pDach_1772697292000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Dienstags-Konferenz | Achtelfinale (Hinspiele) (2026-03-10 20:30:00)
 http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/178980.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/epi1mcn3rapsaar1yl6dojc8k_image-header_pDach_1769091469000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",MT Melsungen - Vardar Skopje (2026-03-10 19:45:00)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/epi1mcn3rapsaar1yl6dojc8k_image-header_pDach_1769091469000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",MT Melsungen - Vardar Skopje (2026-03-10 20:45:00)
 http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/178981.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/2gqfp6vzzizdezfluj56odhee_image-header_pDach_1769091406000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",THW Kiel - SG Flensburg-Handewitt (2026-03-10 19:45:00)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/2gqfp6vzzizdezfluj56odhee_image-header_pDach_1769091406000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",THW Kiel - SG Flensburg-Handewitt (2026-03-10 20:45:00)
 http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/178982.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/3zs4pl1pr31mni9g5si66gan1_image-header_pDach_1772464031000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Newcastle - FC Barcelona | Achtelfinale (Hinspiel) (2026-03-10 20:00:00)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/3zs4pl1pr31mni9g5si66gan1_image-header_pDach_1772464031000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Newcastle - FC Barcelona | Achtelfinale (Hinspiel) (2026-03-10 21:00:00)
 http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/178983.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/34m7lnea4d9h77cmnir2krziz_image-header_pDach_1772510085000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Atletico Madrid - Tottenham | Achtelfinale (Hinspiel) (2026-03-10 20:00:00)
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/34m7lnea4d9h77cmnir2krziz_image-header_pDach_1772510085000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",Atletico Madrid - Tottenham | Achtelfinale (Hinspiel) (2026-03-10 21:00:00)
 http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/178984.m3u8
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/14x4f8fd5dvb11jfsqfrbe4tns_image-header_pDach_1772634308000/fill/none/top/none/85/668/374/logos/dazn-1.png" group-title="DE-DAZN EVENT",China PR - Mali (2026-03-11 11:30:00)
 http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/178985.m3u8
@@ -6695,4 +6681,4 @@ http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/165984.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/3pkpdut.png" group-title="WORLD SPORTS",beiN SPORTS 3 FHD
 http://51.89.76.111:2086/live/mustafaatan/Xz06KGkhbS/165948.m3u8
 
-# Total: 3287
+# Total: 3280

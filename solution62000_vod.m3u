@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: solution62000.mine.nu:8000
-# Generated: 2026-03-09 18:40:21
+# Generated: 2026-03-10 18:42:44
 # Expires: 2026-12-19
 # Family Safe Edition
 # ==============================================
@@ -1099,7 +1099,9 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/7300.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wkUCQaXIc9qkqplDJZIuxRHLQNq.jpg" group-title="Movies | FILMS TURK",Malazgirt 1071 - 2022
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/5531.mp4
 
-# --- Movies | Films (1483) ---
+# --- Movies | Films (1486) ---
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xAfVu3TQPNUnn1OgBjRSO81Rnmr.jpg" group-title="Movies | Films",Au coeur de nos terres (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/24017.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/x1JOs4xWNr1QYjDAXHxWw1NJ7Sq.jpg" group-title="Movies | Films",Orang Ikan (2026)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/23927.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fYmWNUzuP0O4EGGhLuE8Qnfrdqp.jpg" group-title="Movies | Films",Cold Storage (2026)
@@ -1144,6 +1146,10 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/21982.mkv
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/21981.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/27j9fRcvtaskGPsuHXvVTAi1fEc.jpg" group-title="Movies | Films",The Internship (2026)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/21941.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qGrRA1eV5hBDO5flXvNFFAPfUVE.jpg" group-title="Movies | Films",Terreur en haute mer (2025)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/23974.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rlpI8BqpCccQ9zx6UlQ72g8KJPb.jpg" group-title="Movies | Films",Un simple accident (2025)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/23973.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5DcrN62sGAiRJxt8rXSRlSRLwIE.jpg" group-title="Movies | Films",Dead of Winter (2025)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/23890.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/n8wRH7b16Jdde3JXxlnANrjDs0E.jpg" group-title="Movies | Films",Prisoner of War (2025)
@@ -1912,7 +1918,7 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/14746.mkv
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/14697.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qCwqnTW5DEATFlQ3mACBm2GpTiM.jpg" group-title="Movies | Films",La Proie des Ombres (2024)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/14619.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/122qCjs197rrC1GOntNYBcNyyQc.jpg" group-title="Movies | Films",Closer (2024)
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/122qCjs197rrC1GOntNYBcNyyQc.jpg" group-title="Movies | Films",Closer (2024)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/14600.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i4ZfMC9aVGFZhWWpyyyEHFPeQqV.jpg" group-title="Movies | Films",Week-end à Taipei (2024)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/14592.mkv
@@ -7059,7 +7065,7 @@ http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/992
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Turk",( 2025 ) مترجمة - Vicdansız عديم الضمير
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/993
 
-# --- Series | Series divers (259) ---
+# --- Series | Series divers (260) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Salvation
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/5
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Gomorra
@@ -7578,5 +7584,7 @@ http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1046
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1047
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Roi et Conquérant
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1051
+#EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Rooster
+http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1055
 
-# Total: 3756
+# Total: 3760

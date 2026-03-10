@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: predator.digital:8080
-# Generated: 2026-03-09 18:43:29
+# Generated: 2026-03-10 18:48:14
 # Expires: 2026-08-08
 # Family Safe Edition
 # ==============================================
@@ -333,9 +333,13 @@ http://predator.digital:8080/movie/Edi/dWP7KSb4CM/61100.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | Filma Per femije",The Smurfs
 http://predator.digital:8080/movie/Edi/dWP7KSb4CM/61116.mkv
 
-# --- Movies | Filma me titra Shqip (1117) ---
+# --- Movies | Filma me titra Shqip (1119) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="Movies | Filma me titra Shqip",======Filma me Titra Shqip======
 http://predator.digital:8080/movie/Edi/dWP7KSb4CM/13114.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b3lnPhLbkk37fYFtQy1gGixd8Jz.jpg" group-title="Movies | Filma me titra Shqip",The Good Boy (2026)
+http://predator.digital:8080/movie/Edi/dWP7KSb4CM/84611.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gZgWy4SDBDr5qmn2ql6H0uO7hMY.jpg" group-title="Movies | Filma me titra Shqip",Cold Storage (2026)
+http://predator.digital:8080/movie/Edi/dWP7KSb4CM/84612.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rFhKkXhk7ClU03jQ5rHIApJDwev.jpg" group-title="Movies | Filma me titra Shqip",War Machine (2026)
 http://predator.digital:8080/movie/Edi/dWP7KSb4CM/82283.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7cWTGH2svfNHWVRjsfKIBob9pDj.jpg" group-title="Movies | Filma me titra Shqip",Nuremberg (2025)
@@ -6341,9 +6345,11 @@ http://predator.digital:8080/movie/Edi/dWP7KSb4CM/67418.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j8NBvEukRr7LAMbnpTUtXSajXwF.jpg" group-title="Movies | Vod Ita",Troll- (2022)
 http://predator.digital:8080/movie/Edi/dWP7KSb4CM/67409.mkv
 
-# --- Movies | Vod de (1356) ---
+# --- Movies | Vod de (1357) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Vod de",=====Vod De=====
 http://predator.digital:8080/movie/Edi/dWP7KSb4CM/80934.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/naOt7nBjOkRLlsn7TerzXbQnjSe.jpg" group-title="Movies | Vod de",Cold Storage (2026) DE
+http://predator.digital:8080/movie/Edi/dWP7KSb4CM/84613.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | Vod de",The Bluff (2026) DE
 http://predator.digital:8080/movie/Edi/dWP7KSb4CM/82287.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rFhKkXhk7ClU03jQ5rHIApJDwev.jpg" group-title="Movies | Vod de",War Machine (2026) DE
@@ -9055,4 +9061,4 @@ http://predator.digital:8080/movie/Edi/dWP7KSb4CM/69013.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | Vod de",Your Place or Mine (2023) [DE]
 http://predator.digital:8080/movie/Edi/dWP7KSb4CM/69012.mkv
 
-# Total: 4515
+# Total: 4518

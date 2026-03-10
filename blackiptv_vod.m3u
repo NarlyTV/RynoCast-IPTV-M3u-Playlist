@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: blackiptv.net:8080
-# Generated: 2026-03-10 07:25:04
+# Generated: 2026-03-10 18:49:54
 # Expires: 2026-12-21
 # Family Safe Edition
 # ==============================================
@@ -10137,11 +10137,17 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/2013.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ ALL",DE: Lord of the Flies (2026)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/2015.mp4
 
-# --- Movies | DE/SERIE ~ AMAZON PRIME (29) ---
+# --- Movies | DE/SERIE ~ AMAZON PRIME (32) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ AMAZON PRIME",Young Sherlock (2026) DE
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/2053.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ AMAZON PRIME",56 Tage (2026) DE
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/2005.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ AMAZON PRIME",Steal (2026)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1937.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ AMAZON PRIME",Bittersüße Schokolade (2024) DE
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/2055.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ AMAZON PRIME",Stan Lee's Lucky Man (2016) DE
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/2054.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ AMAZON PRIME",Marshals - A Yellowstone Story (2026) DE
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/2044.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ AMAZON PRIME",Die rote Königin (2024)
@@ -10317,7 +10323,9 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1719.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ CBS",DE: Watson (2025)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1807.mp4
 
-# --- Movies | DE/SERIE ~ DISNEY+ (16) ---
+# --- Movies | DE/SERIE ~ DISNEY+ (17) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ DISNEY+",The Beauty (2026) DE
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/2056.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ DISNEY+",Wonder Man (2026) DE
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/2031.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ DISNEY+",Cat's Eyes (2024) DE
@@ -10411,9 +10419,15 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1551.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ MARVEL",Agatha All Along (2024)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1567.mp4
 
-# --- Movies | DE/SERIE ~ NETFLIX (86) ---
+# --- Movies | DE/SERIE ~ NETFLIX (89) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ NETFLIX",Diplomatische Beziehungen (2023)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1930.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ NETFLIX",Boyfriend on Demand (2026) DE
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/2052.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ NETFLIX",Locke & Key (2020) DE
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/2051.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ NETFLIX",Vladimir (2026) DE
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/2050.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ NETFLIX",How to Get to Heaven from Belfast (2026) DE
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/2041.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ NETFLIX",Finding Her Edge (2026) DE
@@ -11239,7 +11253,19 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1618.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ ALL",Hayrettin ile Kaos Show (2024)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1948.mp4
 
-# --- Movies | TR/DIZI ~ AMAZON PRIME (75) ---
+# --- Movies | TR/DIZI ~ AMAZON PRIME (81) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ AMAZON PRIME",ZeroZeroZero (2020) TR
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/2062.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ AMAZON PRIME",Marshals (2026) TR
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/2061.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ AMAZON PRIME",Nine Bodies in a Mexican Morgue (2025) TR
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/2060.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ AMAZON PRIME",Bir Siren'in Öpücüğü (2026) TR
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/2059.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ AMAZON PRIME",The Narrow Road to the Deep North (2025) TR
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/2058.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ AMAZON PRIME",This City Is Ours (2025) TR
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/2057.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ AMAZON PRIME",The King of Pigs (2022) TR
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/2024.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ AMAZON PRIME",Hepsi Onun Suçu (2025) TR
@@ -21817,4 +21843,4 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/63372.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t8EQllq34VC5mooiJw1vVFOlM4x.jpg" group-title="Movies | TR/FILM ~ YILBASI ÖZEL",O Ses Türkiye  Yilbasi Özel 2025
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/54778.mp4
 
-# Total: 10758
+# Total: 10771
