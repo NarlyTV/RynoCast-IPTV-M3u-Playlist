@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: 45.139.122.199:8080
-# Generated: 2026-03-11 07:20:38
+# Generated: 2026-03-11 18:47:15
 # Expires: 2026-08-11
 # Family Safe Edition
 # ==============================================
@@ -20537,7 +20537,7 @@ http://45.139.122.199:8080/movie/Martin1/Martin1/2298208.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rObStOoSioXYXKCtrOSDu9mFg0f.jpg" group-title="Movies | Old Popular Movies [Multi-Sub]",Ronnie O'Sullivan: The Edge of Everything [PRE] [2023]
 http://45.139.122.199:8080/movie/Martin1/Martin1/2307673.mkv
 
-# --- Movies | Premiere Cinemas [Multi-Sub] (5552) ---
+# --- Movies | Premiere Cinemas [Multi-Sub] (5551) ---
 #EXTINF:-1 tvg-logo="http://Ptv.is:2095/images/movies//hPXSWiuYdJXHtcDS5wluYWgZldE.jpg" group-title="Movies | Premiere Cinemas [Multi-Sub]",Mickey's Once Upon a Christmas [KIDS] [1999]
 http://45.139.122.199:8080/movie/Martin1/Martin1/45093.mkv
 #EXTINF:-1 tvg-logo="http://Ptv.is:2095/images/5cbece1549ed329e896796657dc4fcdf.jpg" group-title="Movies | Premiere Cinemas [Multi-Sub]",Straight Outta Nowhere: Scooby-Doo! Meets Courage the Cowardly Dog [PRE] [2021]
@@ -20550,8 +20550,6 @@ http://45.139.122.199:8080/movie/Martin1/Martin1/384488.mkv
 http://45.139.122.199:8080/movie/Martin1/Martin1/450456.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Pd6ChSQjSXy4snJiorSdzg2cG3.jpg" group-title="Movies | Premiere Cinemas [Multi-Sub]",Pillion [PRE] [2025]
 http://45.139.122.199:8080/movie/Martin1/Martin1/2322422.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ba6Silct0Y4pyvrSv0Tj0Urmx9f.jpg" group-title="Movies | Premiere Cinemas [Multi-Sub]",Melania [PRE] [2026]
-http://45.139.122.199:8080/movie/Martin1/Martin1/2321903.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cWsBscZzwu5brg9YjNkGewRUvJX.jpg" group-title="Movies | Premiere Cinemas [Multi-Sub]",The Housemaid [PRE] [2025]
 http://45.139.122.199:8080/movie/Martin1/Martin1/2304428.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kK1BGkG3KAvWB0WMV1DfOx9yTMZ.jpg" group-title="Movies | Premiere Cinemas [Multi-Sub]",28 Years Later: The Bone Temple [PRE] [2026]
@@ -33291,4 +33289,4 @@ http://45.139.122.199:8080/movie/Martin1/Martin1/1036211.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a9sa6ERZCpplbPEO7OMWE763CLD.jpg" group-title="Movies | [Dolby Vision] 4k Movies [Multi-Sub] [Only On Dolby Vision Devices]",First Blood [1982] [Dolby Vision] [Multi-Sub] [4K]
 http://45.139.122.199:8080/movie/Martin1/Martin1/2173473.mkv
 
-# Total: 16626
+# Total: 16625

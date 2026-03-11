@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: solution62000.mine.nu:8000
-# Generated: 2026-03-10 18:42:44
+# Generated: 2026-03-11 18:39:39
 # Expires: 2026-12-19
 # Family Safe Edition
 # ==============================================
@@ -4991,7 +4991,9 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/691.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | MARVEL STUDIOS",Ironheart
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/773.mp4
 
-# --- Movies | NETFLIX (445) ---
+# --- Movies | NETFLIX (446) ---
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/druPnu8nmUm3psoZMUr8jw9oEim.jpg" group-title="Movies | NETFLIX",Les Temps changent (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/24019.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rFhKkXhk7ClU03jQ5rHIApJDwev.jpg" group-title="Movies | NETFLIX",War Machine (2026)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/23688.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hm7ZSLYtAlrHFk8uMamXaVo1s3I.jpg" group-title="Movies | NETFLIX",Banlieusards 3 (2026)
@@ -7587,4 +7589,4 @@ http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1051
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Rooster
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1055
 
-# Total: 3760
+# Total: 3761
