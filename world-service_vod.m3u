@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: world-service.us:8080
-# Generated: 2026-03-11 18:45:13
+# Generated: 2026-03-12 07:16:06
 # Expires: 2026-05-19
 # Family Safe Edition
 # ==============================================
@@ -10257,9 +10257,11 @@ http://world-service.us:8080/movie/giovanmer/merante/1613.mkv
 #EXTINF:-1 tvg-logo="n/A" group-title="Movies | NETFLIX AMAZON DOCUMENTARI",Zanetti Story
 http://world-service.us:8080/movie/giovanmer/merante/1761.mkv
 
-# --- Movies | NETFLIX AMAZON DRAMMATICO (1589) ---
+# --- Movies | NETFLIX AMAZON DRAMMATICO (1590) ---
 #EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/italians.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",====NETFLIX DRAMMATICO====
 http://world-service.us:8080/movie/giovanmer/merante/1662.mkv
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/54c36c10f4a530569339258cd2382faa.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",Sirat (2025)
+http://world-service.us:8080/movie/giovanmer/merante/87189.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/e933615a9216601442d241b3c359e6ed.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",Hamnet - Nel nome del figlio (2025)
 http://world-service.us:8080/movie/giovanmer/merante/87167.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/1dd129c53ca482e1eea526cbd51c7431.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",Codice Di Vendetta  Barron s Cove (2025)
@@ -13579,9 +13581,11 @@ http://world-service.us:8080/movie/giovanmer/merante/78559.mkv
 #EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/37638f95d3db025a276663b1a9010fda.jpg" group-title="Movies | NETFLIX AMAZON GIALLO",what the waters left behind scars (2023)
 http://world-service.us:8080/movie/giovanmer/merante/78560.mkv
 
-# --- Movies | NETFLIX AMAZON HORROR (507) ---
+# --- Movies | NETFLIX AMAZON HORROR (508) ---
 #EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/italians.jpg" group-title="Movies | NETFLIX AMAZON HORROR",====NETFLIX HORROR====
 http://world-service.us:8080/movie/giovanmer/merante/1664.mkv
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/71d29beefb76d5b03417ad2e7e276060.jpg" group-title="Movies | NETFLIX AMAZON HORROR",The Jester 2 (2025)
+http://world-service.us:8080/movie/giovanmer/merante/87188.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/0e5330d914250145254da27bb22389ef.jpg" group-title="Movies | NETFLIX AMAZON HORROR",Ben - Rabbia animale (2026)
 http://world-service.us:8080/movie/giovanmer/merante/87073.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/5b0ea7f02aaafec9c3b328f049890aef.jpg" group-title="Movies | NETFLIX AMAZON HORROR",28 anni dopo - Il tempio delle ossa (2026)
@@ -21449,7 +21453,7 @@ http://world-service.us:8080/movie/giovanmer/merante/1550.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-DISNEY-PLUS",Batman - Cavaliere della notte
 http://world-service.us:8080/movie/giovanmer/merante/1608.mp4
 
-# --- Movies | SERIE-TV (517) ---
+# --- Movies | SERIE-TV (519) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV",Stargate Atlantis
 http://world-service.us:8080/movie/giovanmer/merante/20.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV",The Blacklist
@@ -22484,6 +22488,10 @@ http://world-service.us:8080/movie/giovanmer/merante/1644.mp4
 http://world-service.us:8080/movie/giovanmer/merante/1645.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV",Crociera con delitto
 http://world-service.us:8080/movie/giovanmer/merante/1647.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV",Scarpetta
+http://world-service.us:8080/movie/giovanmer/merante/1648.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV",Le libere donne
+http://world-service.us:8080/movie/giovanmer/merante/1649.mp4
 
 # --- Movies | SERIE-TV-ITALIA (155) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV-ITALIA",Capri
@@ -33001,4 +33009,4 @@ http://world-service.us:8080/movie/giovanmer/merante/2669.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | SerieTV",Timeless.S01E01 german
 http://world-service.us:8080/movie/giovanmer/merante/20654.mkv
 
-# Total: 16469
+# Total: 16473

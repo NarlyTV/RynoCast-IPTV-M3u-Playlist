@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: blackiptv.net:8080
-# Generated: 2026-03-11 18:56:13
+# Generated: 2026-03-12 07:20:50
 # Expires: 2026-12-21
 # Family Safe Edition
 # ==============================================
@@ -10161,7 +10161,7 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/2013.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ ALL",DE: Lord of the Flies (2026)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/2015.mp4
 
-# --- Movies | DE/SERIE ~ AMAZON PRIME (32) ---
+# --- Movies | DE/SERIE ~ AMAZON PRIME (36) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ AMAZON PRIME",Young Sherlock (2026) DE
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/2053.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ AMAZON PRIME",56 Tage (2026) DE
@@ -10172,6 +10172,14 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1937.mp4
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/2055.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ AMAZON PRIME",Stan Lee's Lucky Man (2016) DE
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/2054.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ AMAZON PRIME",Countdown Copenhagen (2017) DE
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/2068.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ AMAZON PRIME",Citadel Honey Bunny (2024) DE
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/2065.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ AMAZON PRIME",Chucky (2021) DE
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/2064.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ AMAZON PRIME",Cheaters (2000) DE
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/2063.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ AMAZON PRIME",Marshals - A Yellowstone Story (2026) DE
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/2044.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ AMAZON PRIME",Die rote Königin (2024)
@@ -10259,7 +10267,11 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1850.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ ANIMATION",100 Prozent Wolf - Die Legende des Mondsteins (2020)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1541.mp4
 
-# --- Movies | DE/SERIE ~ ANIME (16) ---
+# --- Movies | DE/SERIE ~ ANIME (18) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ ANIME",Claymore (2007) DE
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/2067.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ ANIME",Clannad (2007) DE
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/2066.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ ANIME",Yasuke (2021) DE
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/2043.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ ANIME",Black Butler (2008) DE
@@ -11494,13 +11506,13 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1318.mp4
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1834.mp4
 
 # --- Movies | TR/DIZI ~ CARSAMBA (4) ---
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pYr58J7eePyXbUpUA9jhxPsabum.jpg" group-title="Movies | TR/DIZI ~ CARSAMBA",CAR: Esref Ruya 35.Bölüm
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pYr58J7eePyXbUpUA9jhxPsabum.jpg" group-title="Movies | TR/DIZI ~ CARSAMBA",CAR: Esref Ruya 36.Bölüm
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/44385.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k1FZ5cpY9kDaHrVpCFlZTlkcCkP.jpg" group-title="Movies | TR/DIZI ~ CARSAMBA",CAR: Sahipsizler 51.Bölüm
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/377.mp4
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1kEgzEvhJmw5eSxuGwn0o1cgHlK.jpg" group-title="Movies | TR/DIZI ~ CARSAMBA",CAR: Kurulus Orhan 16.Bölüm
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1kEgzEvhJmw5eSxuGwn0o1cgHlK.jpg" group-title="Movies | TR/DIZI ~ CARSAMBA",CAR: Kurulus Orhan 17.Bölüm
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/5148.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bu8ks983hBPEzyAH8gSATW5aPJ7.jpg" group-title="Movies | TR/DIZI ~ CARSAMBA",CAR: Yeralti 6.Bölüm  (Yeni Dizi)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bu8ks983hBPEzyAH8gSATW5aPJ7.jpg" group-title="Movies | TR/DIZI ~ CARSAMBA",CAR: Yeralti 7.Bölüm  (Yeni Dizi)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/28472.mp4
 
 # --- Movies | TR/DIZI ~ COCUK (22) ---
@@ -21867,4 +21879,4 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/63372.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t8EQllq34VC5mooiJw1vVFOlM4x.jpg" group-title="Movies | TR/FILM ~ YILBASI ÖZEL",O Ses Türkiye  Yilbasi Özel 2025
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/54778.mp4
 
-# Total: 10783
+# Total: 10789

@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: squid.game-tv.org:8080
-# Generated: 2026-03-11 18:48:28
+# Generated: 2026-03-12 07:25:12
 # Expires: 2026-04-17
 # Family Safe Edition
 # ==============================================
@@ -554,6 +554,10 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/576.mp4
 # --- Movies | Billions (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Billions",Billions
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/325.mp4
+
+# --- Movies | Bir Baskadır - Ne-am intalnit la Istanbul (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | Bir Baskadır - Ne-am intalnit la Istanbul",Bir Başkadır (2020)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1212.mp4
 
 # --- Movies | Bir Kucuk Gun Isıgı (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Bir Kucuk Gun Isıgı",Bir Küçük Gün Işığı
@@ -17223,6 +17227,10 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1091.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Ice Age: Scrat Tales",Ice Age: Scrat Tales (2022)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1101.mp4
 
+# --- Movies | Icerde - Intrusul (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | Icerde - Intrusul",Icerde (2016)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1211.mp4
+
 # --- Movies | Iffet (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Iffet",İffet
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/644.mp4
@@ -19149,6 +19157,10 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/717.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | The Deuce",The Deuce
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/335.mp4
 
+# --- Movies | The Dinosaurs (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | The Dinosaurs",The Dinosaurs (2026)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1215.mp4
+
 # --- Movies | The Dresden Files (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | The Dresden Files",The Dresden Files (2007)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1176.mp4
@@ -19590,6 +19602,10 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1037.mp4
 # --- Movies | The Ticket (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | The Ticket",The Ticket (2025)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1060.mp4
+
+# --- Movies | The TikTok Killer (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | The TikTok Killer",The TikTok Killer (2026)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1214.mp4
 
 # --- Movies | The Time it Takes (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | The Time it Takes",The Time It Takes (2021)
@@ -20195,4 +20211,4 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/383.mp4
 #EXTINF:-1 tvg-logo="" group-title="Series | A Series of Unfortunate Events",A Series of Unfortunate Events
 http://squid.game-tv.org:8080/series/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/276
 
-# Total: 8854
+# Total: 8858
