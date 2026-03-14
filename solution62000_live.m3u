@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: solution62000.mine.nu:8000
-# Generated: 2026-03-13 18:45:48
+# Generated: 2026-03-14 07:30:15
 # Expires: Unlimited
 # Family Safe Edition
 # ==============================================
@@ -1207,7 +1207,7 @@ http://solution62000.mine.nu:8000/live/Chrif_Tufan@2_sFhT7HcOWU/TTufan_Cherif_@7
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/H-_-7CuAHuU/maxresdefault.jpg" group-title="SPORTS AR",ON TIME SPORT 2
 http://solution62000.mine.nu:8000/live/Chrif_Tufan@2_sFhT7HcOWU/TTufan_Cherif_@78XroUJjsx5H/711.m3u8
 
-# --- SPORTS FR (22) ---
+# --- SPORTS FR (21) ---
 #EXTINF:-1 tvg-logo="https://api.voo.be/customer/thumbor/zoGaYS0RdgHGsr5vKSffW2RkjVY=/fit-in/1024x/--/2022/06/VOOsportworld1-7.png" group-title="SPORTS FR",VOOsport 1
 http://solution62000.mine.nu:8000/live/Chrif_Tufan@2_sFhT7HcOWU/TTufan_Cherif_@78XroUJjsx5H/598.m3u8
 #EXTINF:-1 tvg-logo="https://api.voo.be/customer/thumbor/_0IzdhOPURQX1PfgNDa2fUW1Cfg=/fit-in/1024x/--/2022/06/VOOsportworld2-7.png" group-title="SPORTS FR",VOOsport 2
@@ -1244,8 +1244,6 @@ http://solution62000.mine.nu:8000/live/Chrif_Tufan@2_sFhT7HcOWU/TTufan_Cherif_@7
 http://solution62000.mine.nu:8000/live/Chrif_Tufan@2_sFhT7HcOWU/TTufan_Cherif_@78XroUJjsx5H/71.m3u8
 #EXTINF:-1 tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/L_Equipe_color.png" group-title="SPORTS FR",L'Equipe
 http://solution62000.mine.nu:8000/live/Chrif_Tufan@2_sFhT7HcOWU/TTufan_Cherif_@78XroUJjsx5H/458.m3u8
-#EXTINF:-1 tvg-logo="http://golf.lefigaro.fr/medias/2012/06/06/20120606PHOWWW00003.jpg" group-title="SPORTS FR",Golf+
-http://solution62000.mine.nu:8000/live/Chrif_Tufan@2_sFhT7HcOWU/TTufan_Cherif_@78XroUJjsx5H/604.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logo-chaines/images/8/87/1280px-Logo_RMC_Sport_1_2018.svg.png/revision/latest/scale-to-width-down/220?cb=20190818135539&path-prefix=fr" group-title="SPORTS FR",RMC Sport 1
 http://solution62000.mine.nu:8000/live/Chrif_Tufan@2_sFhT7HcOWU/TTufan_Cherif_@78XroUJjsx5H/600.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logo-chaines/images/d/d1/1280px-Logo_RMC_Sport_2_2018.svg.png/revision/latest/scale-to-width-down/220?cb=20190818091713&path-prefix=fr" group-title="SPORTS FR",RMC Sport 2
@@ -1429,4 +1427,4 @@ http://solution62000.mine.nu:8000/live/Chrif_Tufan@2_sFhT7HcOWU/TTufan_Cherif_@7
 #EXTINF:-1 tvg-logo="" group-title="TURK",CNN turk
 http://solution62000.mine.nu:8000/live/Chrif_Tufan@2_sFhT7HcOWU/TTufan_Cherif_@78XroUJjsx5H/3457.m3u8
 
-# Total: 678
+# Total: 677

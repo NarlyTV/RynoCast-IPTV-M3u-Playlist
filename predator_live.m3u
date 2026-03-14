@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: predator.digital:8080
-# Generated: 2026-03-13 18:45:16
+# Generated: 2026-03-14 07:17:51
 # Expires: 2026-08-08
 # Family Safe Edition
 # ==============================================
@@ -2735,7 +2735,7 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/77539.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Greece",GR: Eurosport 2 HD (Mulitlanguage)
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/77538.m3u8
 
-# --- Italy (217) ---
+# --- Italy (216) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/1920px-Flag_of_Italy.svg.png" group-title="Italy",========Italy========
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/12228.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Italy",IT: Rai 4K
@@ -2854,11 +2854,11 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/61037.m3u8
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/61036.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Italy",IT: Sky Cinema Uno FHD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/373.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Italy",IT: Sky Cinema Uno +24 FHD
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: Sky Cinema Uno +24 SAT
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/63474.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Italy",IT: Sky Cinema Due FHD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/363.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Italy",IT: Sky Cinema Due +24 FHD
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: Sky Cinema Stories SAT
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/63475.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Italy",IT: Sky Cinema Action FHD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/352.m3u8
@@ -2878,7 +2878,7 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/360.m3u8
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/2724.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/skyunohd.png" group-title="Italy",IT: Sky Uno FHD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/319.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Italy",IT: Sky Uno +1 FHD
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: Sky Uno + SAT
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/62783.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/skyatlantic.png" group-title="Italy",IT: Sky Atlantic FHD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/394.m3u8
@@ -2900,8 +2900,6 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/59030.m3u8
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/59029.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Italy",IT: Sky Crime FHD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/475.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Italy",IT: Sky Crime FHD +1
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/81010.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/historyhd.png" group-title="Italy",IT: Sky History FHD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/279.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Italy",IT: Sky History  +1
@@ -2976,7 +2974,7 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/493.m3u8
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/470.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Italy",IT: Sky Sport 24 FHD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/333.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Italy",IT: Sky Sport 24 HD
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: Sky Sport 24 SAT
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/64159.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Italy",IT: Sky Sport Uno FHD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/338.m3u8
@@ -2986,11 +2984,11 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/58975.m3u8
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/330.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Italy",IT: Sky Sport Max FHD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/335.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Italy",IT: Sky Sport Max HD
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: Sky Sport Max SAT
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/62787.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Italy",IT: Sky Sport Basket FHD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/327.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Italy",IT: Sky Sport Basket HD
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: Sky Sport Basket SAT
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/62784.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Italy",IT: Sky Formula 1 FHD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/345.m3u8
@@ -8879,4 +8877,4 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/13200.m3u8
 #EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: Real Madrid Tv
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/62225.m3u8
 
-# Total: 4409
+# Total: 4408

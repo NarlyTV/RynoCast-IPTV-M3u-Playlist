@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: stklatino.dynns.com:2082
-# Generated: 2026-03-13 18:49:23
+# Generated: 2026-03-14 07:21:11
 # Expires: 2026-05-11
 # Family Safe Edition
 # ==============================================
@@ -7555,7 +7555,7 @@ http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/80844.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dOboKSPT9PPZFKhOya3YHrY4rHn.jpg" group-title="Movies | CINE PERUANO",¿Mi Novia es Él? (2019)
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/80845.mp4
 
-# --- Movies | COMEDIA (1069) ---
+# --- Movies | COMEDIA (1070) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hxtvnvWdeibiDc6mU5ftAUPGofe.jpg" group-title="Movies | COMEDIA",4 Latas (2019)
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/5863.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nITLSFHonQJGVrnfDzfNqvtbOjO.jpg" group-title="Movies | COMEDIA",Ace Ventura 1: Detective de Mascotas (1994)
@@ -9694,6 +9694,8 @@ http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/2543.mp4
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/2546.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | COMEDIA",Con C mayúscula
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/2547.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | COMEDIA",Un novio por suscripción
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/2568.mp4
 
 # --- Movies | CONCIERTOS & SHOWS (349) ---
 #EXTINF:-1 tvg-logo="https://s33.postimg.cc/evlncu9vj/Americo_-_Vi_a_del_Mar_2011.jpg" group-title="Movies | CONCIERTOS & SHOWS",Américo - Viña del Mar (2011)
@@ -12051,7 +12053,7 @@ http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/2471.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DOCUMENTALES",De polo a polo con Will Smith
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/2536.mp4
 
-# --- Movies | DRAMA (1356) ---
+# --- Movies | DRAMA (1359) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8YcjGJtW4AEHyNH8yrs8FAaPBM.jpg" group-title="Movies | DRAMA",12 valientes (2018)
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/3344.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1XbNkZMLXD9dYGZJ87nmQ62Mp2l.jpg" group-title="Movies | DRAMA",127 Horas (2010)
@@ -14764,6 +14766,12 @@ http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/2555.mp4
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/2556.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DRAMA",El Museo de la Inocencia
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/2560.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | DRAMA",Seis Pies Bajo Tierra
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/2566.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | DRAMA",True Detective
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/2567.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | DRAMA",Lobo, morir matando
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/2569.mp4
 
 # --- Movies | INFANTILES (910) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gp7d1OGYpBGyG5E6fr1fMi01bvK.jpg" group-title="Movies | INFANTILES",Abominable (2019)
@@ -22557,4 +22565,4 @@ http://stklatino.dynns.com:2082/series/maldonadoluis/frEbTPk9DN3L/2529
 #EXTINF:-1 tvg-logo="" group-title="Series | TELESERIES",La Hija Del Mariachi 2025
 http://stklatino.dynns.com:2082/series/maldonadoluis/frEbTPk9DN3L/2534
 
-# Total: 11243
+# Total: 11247

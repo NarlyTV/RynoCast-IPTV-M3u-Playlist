@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: tvpremiund.ddns.me:2082
-# Generated: 2026-03-13 18:38:30
+# Generated: 2026-03-14 07:26:25
 # Expires: 2026-04-14
 # Family Safe Edition
 # ==============================================
@@ -7555,7 +7555,7 @@ http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/80844.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dOboKSPT9PPZFKhOya3YHrY4rHn.jpg" group-title="Movies | CINE PERUANO",¿Mi Novia es Él? (2019)
 http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/80845.mp4
 
-# --- Movies | COMEDIA (1069) ---
+# --- Movies | COMEDIA (1070) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hxtvnvWdeibiDc6mU5ftAUPGofe.jpg" group-title="Movies | COMEDIA",4 Latas (2019)
 http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/5863.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nITLSFHonQJGVrnfDzfNqvtbOjO.jpg" group-title="Movies | COMEDIA",Ace Ventura 1: Detective de Mascotas (1994)
@@ -9694,6 +9694,8 @@ http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/2543.mp4
 http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/2546.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | COMEDIA",Con C mayúscula
 http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/2547.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | COMEDIA",Un novio por suscripción
+http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/2568.mp4
 
 # --- Movies | CONCIERTOS & SHOWS (349) ---
 #EXTINF:-1 tvg-logo="https://s33.postimg.cc/evlncu9vj/Americo_-_Vi_a_del_Mar_2011.jpg" group-title="Movies | CONCIERTOS & SHOWS",Américo - Viña del Mar (2011)
@@ -12051,7 +12053,7 @@ http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/2471.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DOCUMENTALES",De polo a polo con Will Smith
 http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/2536.mp4
 
-# --- Movies | DRAMA (1356) ---
+# --- Movies | DRAMA (1359) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8YcjGJtW4AEHyNH8yrs8FAaPBM.jpg" group-title="Movies | DRAMA",12 valientes (2018)
 http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/3344.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1XbNkZMLXD9dYGZJ87nmQ62Mp2l.jpg" group-title="Movies | DRAMA",127 Horas (2010)
@@ -14764,6 +14766,12 @@ http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/2555.mp4
 http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/2556.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DRAMA",El Museo de la Inocencia
 http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/2560.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | DRAMA",Seis Pies Bajo Tierra
+http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/2566.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | DRAMA",True Detective
+http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/2567.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | DRAMA",Lobo, morir matando
+http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/2569.mp4
 
 # --- Movies | INFANTILES (910) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gp7d1OGYpBGyG5E6fr1fMi01bvK.jpg" group-title="Movies | INFANTILES",Abominable (2019)
@@ -22557,4 +22565,4 @@ http://tvpremiund.ddns.me:2082/series/56972393798wspzero/271224zero/2529
 #EXTINF:-1 tvg-logo="" group-title="Series | TELESERIES",La Hija Del Mariachi 2025
 http://tvpremiund.ddns.me:2082/series/56972393798wspzero/271224zero/2534
 
-# Total: 11243
+# Total: 11247
