@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: canal-pro.xyz:8080
-# Generated: 2026-03-15 07:31:28
+# Generated: 2026-03-15 18:43:56
 # Expires: 2026-05-11
 # Family Safe Edition
 # ==============================================
@@ -1405,7 +1405,9 @@ http://canal-pro.xyz:8080/movie/54923073/b48ygdD8d/236090.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/47Cd0MIpIG6qoz9FdHl3NBdU8Oh.jpg" group-title="Movies | → VOD ANIME ←",Bleach: Hell Verse (2010)
 http://canal-pro.xyz:8080/movie/54923073/b48ygdD8d/236092.mp4
 
-# --- Movies | → VOD AVENTURAS ← (603) ---
+# --- Movies | → VOD AVENTURAS ← (604) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h7iMI8yITHvLWKyYlQdIYQYfca3.jpg" group-title="Movies | → VOD AVENTURAS ←",Highlander: Juego Final
+http://canal-pro.xyz:8080/movie/54923073/b48ygdD8d/280325.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8PXQBpvaOjRr5Bz33RX2OrDEq3M.jpg" group-title="Movies | → VOD AVENTURAS ←",Foxter & Max: Un perro de otro Mundo
 http://canal-pro.xyz:8080/movie/54923073/b48ygdD8d/280202.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b0pJ0SZ9xAEpqo0tx7WOQ9xv8Ns.jpg" group-title="Movies | → VOD AVENTURAS ←",Robin Hood, príncipe de los ladrones
@@ -7933,7 +7935,9 @@ http://canal-pro.xyz:8080/movie/54923073/b48ygdD8d/5901.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5BK1B6JQRxnLEc4vZyrUojdIiCq.jpg" group-title="Movies | → VOD DOCUMENTALES ←",La reina de la montaña: Lhakpa Sherpa y la cumbre del Everest (2024)
 http://canal-pro.xyz:8080/movie/54923073/b48ygdD8d/249188.mp4
 
-# --- Movies | → VOD DRAMA ← (461) ---
+# --- Movies | → VOD DRAMA ← (462) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vuVtTfsFjECeXzqhj8IvGItcf6B.jpg" group-title="Movies | → VOD DRAMA ←",El Vendedor de Sueños
+http://canal-pro.xyz:8080/movie/54923073/b48ygdD8d/280324.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ms9WEALWyumQ80Zkkb94gyUsjIZ.jpg" group-title="Movies | → VOD DRAMA ←",El Juego de la Fortuna
 http://canal-pro.xyz:8080/movie/54923073/b48ygdD8d/280205.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kbTtU8LXhH8MLB7EF7hBZy3WUYC.jpg" group-title="Movies | → VOD DRAMA ←",Votos de Amor
@@ -13881,7 +13885,9 @@ http://canal-pro.xyz:8080/movie/54923073/b48ygdD8d/268771.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9yBW60Pm0eeXsKeiZMvMolCuhyU.jpg" group-title="Movies | → VOD ESTRENOS 2025 ←",Ad Vitam (2025)
 http://canal-pro.xyz:8080/movie/54923073/b48ygdD8d/268613.mp4
 
-# --- Movies | → VOD ESTRENOS 2026 ← (14) ---
+# --- Movies | → VOD ESTRENOS 2026 ← (15) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/foEObhyAMM3dxYeBEr242EdQDB7.jpg" group-title="Movies | → VOD ESTRENOS 2026 ←",Un Destino en Corea (2026)
+http://canal-pro.xyz:8080/movie/54923073/b48ygdD8d/280326.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9u7sUTYPPTxGCXbkcw8FTq50PnO.jpg" group-title="Movies | → VOD ESTRENOS 2026 ←",Matar Vengar Repetir (2026)
 http://canal-pro.xyz:8080/movie/54923073/b48ygdD8d/280239.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aq2vbzxcG5K3SSLReMqO5TettmE.jpg" group-title="Movies | → VOD ESTRENOS 2026 ←",Maquina de Guerra (2026)
@@ -19815,4 +19821,4 @@ http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2345
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES TERROR-THRILLER-SUSPENSO ←",It: Bienvenidos a Derry
 http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2492
 
-# Total: 9831
+# Total: 9834

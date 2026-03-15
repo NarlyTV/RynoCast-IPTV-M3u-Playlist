@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: funmitra.com:8080
-# Generated: 2026-03-15 07:38:49
+# Generated: 2026-03-15 18:48:08
 # Expires: 2027-01-11
 # Family Safe Edition
 # ==============================================
@@ -22613,7 +22613,13 @@ http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/275545.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/o3dRENAwLg8Gs8oGPh8gLO5MHWB.jpg" group-title="Movies | (V|TR) Belgeseller",(TR-) Anafartalar - 2019
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/275553.mkv
 
-# --- Movies | (V|TR) Dizi Son Bölümleri (307) ---
+# --- Movies | (V|TR) Dizi Son Bölümleri (310) ---
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/zgVgcthDQ8pYgBkKzi1AaXmmeFO_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Sahtekarlar (Bolum 22 Final)
+http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/673652.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/3Qwhs7xxf9LILllWLnxbSaCBNDf_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Güller Ve Günahlar (Bolum 21)
+http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/673651.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/lZL5RSSgLSewP0pi8rK4znb9FYZ.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Gönül Dagi (Bolum 209)
+http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/673649.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/uHIOTJXN9nNTc51WyunL43Fvge3_big.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Tasacak Bu Deniz (Bolum 21)
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/673551.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/mUYV9u68G0EEYXl0u6WMHOIGU7G.jpg" group-title="Movies | (V|TR) Dizi Son Bölümleri",(TR-) Kizilcik Serbeti (Bolum 129)
@@ -23479,7 +23485,9 @@ http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/256374.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/f6Lb4bpUW2AJW42Hpnix2533RKU.jpg" group-title="Movies | (V|TR) Kovboy Filmleri",(TR-) Tombstone - 1993
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/262805.mkv
 
-# --- Movies | (V|TR) Programlar (722) ---
+# --- Movies | (V|TR) Programlar (723) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/6nmdHwVErYl9HOFhesRSMFC3HKj.jpg" group-title="Movies | (V|TR) Programlar",(TR-) Güldür Güldür Show (14.03.2026)
+http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/673650.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/gTJZ9d49dLI2m1vv1Ufi3Cx7rMt.jpg" group-title="Movies | (V|TR) Programlar",(TR-) Konusanlar Disney (Bolum 25)
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/673550.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/6nmdHwVErYl9HOFhesRSMFC3HKj.jpg" group-title="Movies | (V|TR) Programlar",(TR-) Güldür Güldür Show (07.03.2026)
@@ -33013,4 +33021,4 @@ http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/583470.mkv
 #EXTINF:-1 tvg-logo="https://resources-biletino.s3-external-3.amazonaws.com/content/event/32237/960x540.jpg" group-title="Movies | (V|TR) Yerli Film - 2026",(TR-) Yasemin Sakallioglu: Dogru Koca Nasil Secilir? - 2026
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/672238.mkv
 
-# Total: 16457
+# Total: 16461

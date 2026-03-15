@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: blackiptv.net:8080
-# Generated: 2026-03-15 07:38:07
+# Generated: 2026-03-15 18:50:19
 # Expires: 2026-12-21
 # Family Safe Edition
 # ==============================================
@@ -3264,7 +3264,7 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/494.m3u8
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/495.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ROMANIA",RO: AGRO TV
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/498.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ROMANIA",RO: DISNEY CHANNEL
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/disney_channel_global.png" group-title="ROMANIA",RO: DISNEY CHANNEL
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/466.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cartoon_network_global.png" group-title="ROMANIA",RO: CARTOON NETWORK
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/28720.m3u8
@@ -4259,7 +4259,11 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/25055.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/bloomberg-ht-tr.png" group-title="TURK HABER",TR: BLOOMBERG HT
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/116.m3u8
 
-# --- TURK MUZIK (56) ---
+# --- TURK MUZIK (58) ---
+#EXTINF:-1 tvg-logo="https://kalpfm.com/wp-content/uploads/2024/12/kalpfm-logo-y-1a.png" group-title="TURK MUZIK",TR: KALP FM RADIO
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/69971.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TURK MUZIK",TR: TELEON TV (MUZIK)
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/60819.m3u8
 #EXTINF:-1 tvg-logo="https://logo.hdiptv.app/TurkeyAll/Flag_of_Turkey.png" group-title="TURK MUZIK",*****TURK MUZIK*****
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/4943.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/powerturk-tr.png" group-title="TURK MUZIK",TR: POWER TURK
@@ -5255,7 +5259,7 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/60822.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.filbox.com.tr/channellogos/1759301996151-logo.png" group-title="TURK SPOR",TR: FILSPOR 4 (MAC ZAMANI)
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/60823.m3u8
 
-# --- TURK ULUSAL (50) ---
+# --- TURK ULUSAL (51) ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/flags/turkey-flag.png" group-title="TURK ULUSAL",*****TURK ULUSAL*****
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/46.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-4k-tr.png" group-title="TURK ULUSAL",TR: TRT 4K
@@ -5272,6 +5276,8 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/35349.m3u8
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/3249.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-turk-tr.png" group-title="TURK ULUSAL",TR: TRT TURK
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/49.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TURK ULUSAL",TR: TRT GENC (TEST)
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/69972.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-avaz-tr.png" group-title="TURK ULUSAL",TR: TRT AVAZ
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/50.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-kurdi-tr.png" group-title="TURK ULUSAL",TR: TRT KURDU
@@ -5342,6 +5348,8 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/47171.m3u8
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/77.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/beyaz-tv-tr.png" group-title="TURK ULUSAL",TR: BEYAZ TV HD+
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/78.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/fx-tr.png" group-title="TURK ULUSAL",TR: FX HD
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/87.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/tv4-tr.png" group-title="TURK ULUSAL",TR: TV 4
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/828.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/teve2-tr.png" group-title="TURK ULUSAL",TR: TEVE 2
@@ -5350,14 +5358,12 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/88.m3u8
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/79.m3u8
 #EXTINF:-1 tvg-logo="https://logo.hdiptv.app/TurkeyAll/can-tv-tr.png" group-title="TURK ULUSAL",TR: CAN TV
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/110.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/fx-tr.png" group-title="TURK ULUSAL",TR: FX HD
-http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/87.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bulutdev/Sinemapicon/refs/heads/main/tivi-turk.png" group-title="TURK ULUSAL",TR: TIVI TURK
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/824.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/line-tv-tr.png" group-title="TURK ULUSAL",TR: LINE TV
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/103.m3u8
 
-# --- TURK YEREL (68) ---
+# --- TURK YEREL (67) ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/tele1-tr.png" group-title="TURK YEREL",TR: TELE 1
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/3350.m3u8
 #EXTINF:-1 tvg-logo="https://logo.hdiptv.app/TurkeyAll/Flag_of_Turkey.png" group-title="TURK YEREL",*****TURK YEREL*****
@@ -5464,8 +5470,6 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/47444.m3u8
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/53747.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TURK YEREL",TR: KONYA OLAY TV
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/82.m3u8
-#EXTINF:-1 tvg-logo="https://ilketv.com.tr/wp-content/uploads/2024/06/logo.png" group-title="TURK YEREL",TR: iLKE TV
-http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/60819.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TURK YEREL",TR: KOZA TV
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/55613.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TURK YEREL",TR: LUYS TV
@@ -5977,4 +5981,4 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/43244.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Unknown",TR RADYO: ANKARA RADYO
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/43245.m3u8
 
-# Total: 2928
+# Total: 2930

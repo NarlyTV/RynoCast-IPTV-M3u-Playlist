@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: squid.game-tv.org:8080
-# Generated: 2026-03-15 07:42:41
+# Generated: 2026-03-15 18:46:36
 # Expires: 2026-04-17
 # Family Safe Edition
 # ==============================================
@@ -7287,7 +7287,9 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/10776.mp
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/2Abt2GgscAGtGAXTrhH44qPhugI.jpg" group-title="Movies | Filme 2025",Dark Nuns (2025)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/25035.mp4
 
-# --- Movies | Filme 2026 (45) ---
+# --- Movies | Filme 2026 (46) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9I9cM38gecZcwJ0C6r0cwfvtPJP.jpg" group-title="Movies | Filme 2026",Cosmic Princess Kaguya! - 2026
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/68893.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rFhKkXhk7ClU03jQ5rHIApJDwev.jpg" group-title="Movies | Filme 2026",War Machine - 2026
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/68694.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ckBRproYQsXAJGtyejKjDr5ZcBU.jpg" group-title="Movies | Filme 2026",Strangers in the Park - 2026
@@ -18457,6 +18459,10 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/6.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Rome",Rome
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/401.mp4
 
+# --- Movies | Romulus (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | Romulus",Romulus (2020)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1216.mp4
+
 # --- Movies | Românii au talent (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Românii au talent",Românii au talent
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/305.mp4
@@ -20211,4 +20217,4 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/383.mp4
 #EXTINF:-1 tvg-logo="" group-title="Series | A Series of Unfortunate Events",A Series of Unfortunate Events
 http://squid.game-tv.org:8080/series/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/276
 
-# Total: 8858
+# Total: 8860
