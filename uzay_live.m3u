@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: uzay.pro:8080
-# Generated: 2026-03-13 18:38:27
+# Generated: 2026-03-15 07:28:46
 # Expires: 2026-04-13
 # Family Safe Edition
 # ==============================================
@@ -221,7 +221,9 @@ http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/301730.m3u8
 #EXTINF:-1 tvg-logo="https://arkivaislame.com/wp-content/uploads/2024/03/Arkiva-Islame.jpg" group-title="AL FETARE",AL: ARKIVA ISLAME
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/672452.m3u8
 
-# --- AL FILMA - SERIALE (101) ---
+# --- AL FILMA - SERIALE (102) ---
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/flag/al.png" group-title="AL FILMA - SERIALE",AL: ----- FILMA -----
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/301609.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/RTSHFILM.png" group-title="AL FILMA - SERIALE",AL: RTSH FILM
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/211395.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/Serbia/diziTv.png" group-title="AL FILMA - SERIALE",AL: TDC
@@ -545,7 +547,9 @@ http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/211385.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ-9Eu34tOEOf2RIQz2erO2Y13S_2VATxXgKA&usqp=CAU" group-title="AL LAJME 24H",AL: RTSH 24 HD
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/271762.m3u8
 
-# --- AL MUZIKE - FEMIJE (37) ---
+# --- AL MUZIKE - FEMIJE (38) ---
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/flag/al.png" group-title="AL MUZIKE - FEMIJE",AL: ----- MUZIKE / HUMOR / FEMIJE -----
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/301608.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/RTV21HD.png" group-title="AL MUZIKE - FEMIJE",AL: RTV21 PLUS HD
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/3095.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/RTV21HD.png" group-title="AL MUZIKE - FEMIJE",AL: RTV21 POPULLORE HD
@@ -621,7 +625,9 @@ http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/301624.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/SOFIA.png" group-title="AL MUZIKE - FEMIJE",AL: SOFIA HD
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/224463.m3u8
 
-# --- AL SPORTS (51) ---
+# --- AL SPORTS (52) ---
+#EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/flag/al.png" group-title="AL SPORTS",AL: ----- SPORT -----
+http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/301613.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/RTSHSPORT.png" group-title="AL SPORTS",AL: RTSH SPORT
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/452172.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/RTSHSPORT.png" group-title="AL SPORTS",AL: RTSH SPORT FHD
@@ -4787,4 +4793,4 @@ http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/210664.m3u8
 #EXTINF:-1 tvg-logo="http://sltv-icon.cms-s.com/logo/macedonia/alsat.png" group-title="MK MACEDONIA",MK: ALSAT M TV
 http://uzay.pro:8080/live/nekimahmuhti/kXFVECGoUE/290212.m3u8
 
-# Total: 2355
+# Total: 2358

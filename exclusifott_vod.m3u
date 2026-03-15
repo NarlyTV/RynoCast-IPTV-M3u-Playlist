@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: exclusifott.pro:80
-# Generated: 2026-03-14 18:41:25
+# Generated: 2026-03-15 07:37:38
 # Expires: 2026-05-21
 # Family Safe Edition
 # ==============================================
@@ -971,7 +971,7 @@ http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/478358.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5kU8Wl4oAM4FOxoXHAl8WsuVyAO.jpg" group-title="Movies | NETFLIX KIDS",NF - You the Human Animal  (1955)
 http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/854641.mp4
 
-# --- Movies | NETFLIX MOVIES (2453) ---
+# --- Movies | NETFLIX MOVIES (2452) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lLmEIPhpqJqTJ8ndNIIhHhY71FW.jpg" group-title="Movies | NETFLIX MOVIES",NF - The Founder (2016)
 http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/1945414.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wgUmsekYPOt9ZQ8ero91qRnmhQY.jpg" group-title="Movies | NETFLIX MOVIES",NF - The Biggest Fan (2025)
@@ -1880,8 +1880,6 @@ http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/150325.mkv
 http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/809766.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9jdg8VxleYb1DhPiEfHM7DzfvGw.jpg" group-title="Movies | NETFLIX MOVIES",NF - Borg vs McEnroe
 http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/91473.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nt8on8Ge0Lsw0oF6EbmGiDV69Hf.jpg" group-title="Movies | NETFLIX MOVIES",NF - Boss Level (2020)
-http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/385604.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7HcKCHQe9FfU2xCDBYzDWpkQJ0u.jpg" group-title="Movies | NETFLIX MOVIES",NF - Boundaries (2018)
 http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/1512328.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/izFH4VffUjQe55s1wsWIIxGePTV.jpg" group-title="Movies | NETFLIX MOVIES",NF - BOWKYLION LANTA CONCERT (2024)
@@ -5879,7 +5877,9 @@ http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/1077220.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/mvCZY9Br5Jw5LNeKtQ5Z5UcY7AL.jpg" group-title="Movies | NETFLIX MOVIES",D+ - George Of The Jungle 2 (2003)
 http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/111851.mp4
 
-# --- Movies | TOP IMDB/OSCAR MOVIES (161) ---
+# --- Movies | TOP IMDB/OSCAR MOVIES (162) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/bDwOWW8iVKQtHeqTyb409Uu6YJ1.jpg" group-title="Movies | TOP IMDB/OSCAR MOVIES",EN - Cleopatra (1963)
+http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/2038450.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ytjWbKNQzlO7ItPWowSIqCGvVpO.jpg" group-title="Movies | TOP IMDB/OSCAR MOVIES",EN - They Live (1988)
 http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/2022025.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gI3GututWWGw3P6MPEPxydv287q.jpg" group-title="Movies | TOP IMDB/OSCAR MOVIES",EN - Before Sunrise (1995)

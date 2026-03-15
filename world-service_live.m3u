@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: world-service.us:8080
-# Generated: 2026-03-14 18:36:53
+# Generated: 2026-03-15 07:37:47
 # Expires: 2026-05-19
 # Family Safe Edition
 # ==============================================
@@ -1160,12 +1160,12 @@ http://world-service.us:8080/live/giovanmer/merante/83900.m3u8
 http://world-service.us:8080/live/giovanmer/merante/251.m3u8
 #EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/54781af25ae4bc92dcbbf855d5f3320f.png" group-title="SKY CINEMA",SKY Cinema Action HD
 http://world-service.us:8080/live/giovanmer/merante/16.m3u8
+#EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/9fa7d4cc72e57efe0b286a26dd184c2d.png" group-title="SKY CINEMA",Sky Cinema Action SD
+http://world-service.us:8080/live/giovanmer/merante/1883.m3u8
 #EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/54781af25ae4bc92dcbbf855d5f3320f.png" group-title="SKY CINEMA",Sky Cinema Action FHD
 http://world-service.us:8080/live/giovanmer/merante/255.m3u8
 #EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/99e04e23452e536b5b21c6bff701c4a2.png" group-title="SKY CINEMA",SKY Cinema Family HD
 http://world-service.us:8080/live/giovanmer/merante/18.m3u8
-#EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/9fa7d4cc72e57efe0b286a26dd184c2d.png" group-title="SKY CINEMA",Sky Cinema Action SD
-http://world-service.us:8080/live/giovanmer/merante/1883.m3u8
 #EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/74e862affa895e292798e8ab0050c376.png" group-title="SKY CINEMA",Sky Cinema Family SD
 http://world-service.us:8080/live/giovanmer/merante/1886.m3u8
 #EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/99e04e23452e536b5b21c6bff701c4a2.png" group-title="SKY CINEMA",Sky Cinema Family FHD

@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: blackiptv.net:8080
-# Generated: 2026-03-14 18:44:25
+# Generated: 2026-03-15 07:38:07
 # Expires: 2026-12-21
 # Family Safe Edition
 # ==============================================
@@ -10161,7 +10161,7 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/2013.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ ALL",DE: Lord of the Flies (2026)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/2015.mp4
 
-# --- Movies | DE/SERIE ~ AMAZON PRIME (43) ---
+# --- Movies | DE/SERIE ~ AMAZON PRIME (44) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ AMAZON PRIME",Young Sherlock (2026) DE
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/2053.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ AMAZON PRIME",56 Tage (2026) DE
@@ -10174,6 +10174,8 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/2083.mp4
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/2055.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ AMAZON PRIME",Stan Lee's Lucky Man (2016) DE
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/2054.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ AMAZON PRIME",Scarpetta (2026) DE
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/2088.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ AMAZON PRIME",Dark Matter (2015) DE
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/2082.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ AMAZON PRIME",Frühlingsgefühle (2026) de
@@ -11319,7 +11321,11 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1618.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ ALL",Hayrettin ile Kaos Show (2024)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1948.mp4
 
-# --- Movies | TR/DIZI ~ AMAZON PRIME (81) ---
+# --- Movies | TR/DIZI ~ AMAZON PRIME (83) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ AMAZON PRIME",Scarpetta (2026) TR
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/2086.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ AMAZON PRIME",CIA (2026) TR
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/2085.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ AMAZON PRIME",ZeroZeroZero (2020) TR
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/2062.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ AMAZON PRIME",Marshals (2026) TR
@@ -11604,11 +11610,11 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/365.mp4
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/17071.mp4
 
 # --- Movies | TR/DIZI ~ CUMARTESI (3) ---
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3Qwhs7xxf9LILllWLnxbSaCBNDf.jpg" group-title="Movies | TR/DIZI ~ CUMARTESI",CUMT: Güller ve Günahlar  20.Bölüm (YENI DIZI)
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3Qwhs7xxf9LILllWLnxbSaCBNDf.jpg" group-title="Movies | TR/DIZI ~ CUMARTESI",CUMT: Güller ve Günahlar 21.Bölüm (YENI DIZI)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/48482.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vc20oOVlfVQI0YWocTvTv7wOILk.jpg" group-title="Movies | TR/DIZI ~ CUMARTESI",CUMT: Gönül Dagi 208.Bölüm (Yeni Sezon)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vc20oOVlfVQI0YWocTvTv7wOILk.jpg" group-title="Movies | TR/DIZI ~ CUMARTESI",CUMT: Gönül Dagi 209.Bölüm (Yeni Sezon)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/26836.mp4
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zgVgcthDQ8pYgBkKzi1AaXmmeFO.jpg" group-title="Movies | TR/DIZI ~ CUMARTESI",CMT: Sahtekarlar 21.Bölüm (YENI GÜNÜNDE)
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zgVgcthDQ8pYgBkKzi1AaXmmeFO.jpg" group-title="Movies | TR/DIZI ~ CUMARTESI",CMT: Sahtekarlar 22.Bölüm (YENI GÜNÜNDE)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/60873.mp4
 
 # --- Movies | TR/DIZI ~ DISNEY + (81) ---
@@ -21921,4 +21927,4 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/63372.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t8EQllq34VC5mooiJw1vVFOlM4x.jpg" group-title="Movies | TR/FILM ~ YILBASI ÖZEL",O Ses Türkiye  Yilbasi Özel 2025
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/54778.mp4
 
-# Total: 10810
+# Total: 10813
