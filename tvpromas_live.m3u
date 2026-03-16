@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: tvpromas.com:8080
-# Generated: 2026-03-15 18:35:20
+# Generated: 2026-03-16 07:32:11
 # Expires: 2027-02-13
 # Family Safe Edition
 # ==============================================
@@ -1320,9 +1320,9 @@ http://tvpromas.com:8080/live/stkandin/9301/2653.m3u8
 http://tvpromas.com:8080/live/stkandin/9301/6886.m3u8
 #EXTINF:-1 tvg-logo="http://digipalms.com/images/starz-logo.png" group-title="CINE",Starz Suspense
 http://tvpromas.com:8080/live/stkandin/9301/2656.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png" group-title="CINE",TNT
+#EXTINF:-1 tvg-logo="https://cdn.mos.cms.futurecdn.net/SDvVNFZEZMHDBqEayeR7ZG-512-80.png" group-title="CINE",TNT
 http://tvpromas.com:8080/live/stkandin/9301/82030.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png" group-title="CINE",TNT HD
+#EXTINF:-1 tvg-logo="https://cdn.mos.cms.futurecdn.net/SDvVNFZEZMHDBqEayeR7ZG-512-80.png" group-title="CINE",TNT HD
 http://tvpromas.com:8080/live/stkandin/9301/57187.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/TNT_Serie_Logo_2016.png" group-title="CINE",TNT Series
 http://tvpromas.com:8080/live/stkandin/9301/57188.m3u8

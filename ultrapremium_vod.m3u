@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: ultrapremium.cloud:8080
-# Generated: 2026-03-15 18:41:58
+# Generated: 2026-03-16 07:36:32
 # Expires: 2026-10-18
 # Family Safe Edition
 # ==============================================
@@ -7935,7 +7935,9 @@ http://ultrapremium.cloud:8080/movie/995138256tv/wiwos69/5901.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5BK1B6JQRxnLEc4vZyrUojdIiCq.jpg" group-title="Movies | → VOD DOCUMENTALES ←",La reina de la montaña: Lhakpa Sherpa y la cumbre del Everest (2024)
 http://ultrapremium.cloud:8080/movie/995138256tv/wiwos69/249188.mp4
 
-# --- Movies | → VOD DRAMA ← (462) ---
+# --- Movies | → VOD DRAMA ← (463) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ue2W0lfk6DVCQCQc1d2k64xz1xh.jpg" group-title="Movies | → VOD DRAMA ←",El Gran George Foreman
+http://ultrapremium.cloud:8080/movie/995138256tv/wiwos69/280330.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vuVtTfsFjECeXzqhj8IvGItcf6B.jpg" group-title="Movies | → VOD DRAMA ←",El Vendedor de Sueños
 http://ultrapremium.cloud:8080/movie/995138256tv/wiwos69/280324.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ms9WEALWyumQ80Zkkb94gyUsjIZ.jpg" group-title="Movies | → VOD DRAMA ←",El Juego de la Fortuna
@@ -13313,7 +13315,9 @@ http://ultrapremium.cloud:8080/movie/995138256tv/wiwos69/75434.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9RrMfaCYdsdNdRNUAR3TY0DvNV2.jpg" group-title="Movies | → VOD ESTRENOS 2024 ←",Bosco (2024)
 http://ultrapremium.cloud:8080/movie/995138256tv/wiwos69/75435.mkv
 
-# --- Movies | → VOD ESTRENOS 2025 ← (285) ---
+# --- Movies | → VOD ESTRENOS 2025 ← (286) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w7wsPyClttMEpQhAskpfMiaCSin.jpg" group-title="Movies | → VOD ESTRENOS 2025 ←",Terror En Shelby Oaks (2025)
+http://ultrapremium.cloud:8080/movie/995138256tv/wiwos69/280331.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3KVq24NkOn98nrSEAFphnRWVWNd.jpg" group-title="Movies | → VOD ESTRENOS 2025 ←",Jerarquia (2025)
 http://ultrapremium.cloud:8080/movie/995138256tv/wiwos69/280201.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6VTnUQx6nY3UsZUV0BQX5S6l1Nq.jpg" group-title="Movies | → VOD ESTRENOS 2025 ←",Cazadores Del Fin Del Mundo (2025)
@@ -13885,7 +13889,9 @@ http://ultrapremium.cloud:8080/movie/995138256tv/wiwos69/268771.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9yBW60Pm0eeXsKeiZMvMolCuhyU.jpg" group-title="Movies | → VOD ESTRENOS 2025 ←",Ad Vitam (2025)
 http://ultrapremium.cloud:8080/movie/995138256tv/wiwos69/268613.mp4
 
-# --- Movies | → VOD ESTRENOS 2026 ← (15) ---
+# --- Movies | → VOD ESTRENOS 2026 ← (16) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j1knvM0CSG1TWWEdgz4AVqb5CXP.jpg" group-title="Movies | → VOD ESTRENOS 2026 ←",El Guardián: Último refugio (2026)
+http://ultrapremium.cloud:8080/movie/995138256tv/wiwos69/280329.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/foEObhyAMM3dxYeBEr242EdQDB7.jpg" group-title="Movies | → VOD ESTRENOS 2026 ←",Un Destino en Corea (2026)
 http://ultrapremium.cloud:8080/movie/995138256tv/wiwos69/280326.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9u7sUTYPPTxGCXbkcw8FTq50PnO.jpg" group-title="Movies | → VOD ESTRENOS 2026 ←",Matar Vengar Repetir (2026)
@@ -18169,7 +18175,7 @@ http://ultrapremium.cloud:8080/series/995138256tv/wiwos69/2478
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES COMEDIA ←",Sin Frenos
 http://ultrapremium.cloud:8080/series/995138256tv/wiwos69/2481
 
-# --- Series | → SERIES CRIMEN ← (160) ---
+# --- Series | → SERIES CRIMEN ← (161) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES CRIMEN ←",¿Sabes quién es?
 http://ultrapremium.cloud:8080/series/995138256tv/wiwos69/5
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES CRIMEN ←",Chicago P.D.
@@ -18490,6 +18496,8 @@ http://ultrapremium.cloud:8080/series/995138256tv/wiwos69/2539
 http://ultrapremium.cloud:8080/series/995138256tv/wiwos69/2542
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES CRIMEN ←",El Robo
 http://ultrapremium.cloud:8080/series/995138256tv/wiwos69/2544
+#EXTINF:-1 tvg-logo="" group-title="Series | → SERIES CRIMEN ←",Scarpetta: Medico forense
+http://ultrapremium.cloud:8080/series/995138256tv/wiwos69/2550
 
 # --- Series | → SERIES DC ← (15) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DC ←",Arrow
@@ -19821,4 +19829,4 @@ http://ultrapremium.cloud:8080/series/995138256tv/wiwos69/2345
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES TERROR-THRILLER-SUSPENSO ←",It: Bienvenidos a Derry
 http://ultrapremium.cloud:8080/series/995138256tv/wiwos69/2492
 
-# Total: 9834
+# Total: 9838

@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: solution62000.mine.nu:8000
-# Generated: 2026-03-14 18:35:48
+# Generated: 2026-03-16 07:37:55
 # Expires: 2026-12-19
 # Family Safe Edition
 # ==============================================
@@ -1099,7 +1099,13 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/7300.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wkUCQaXIc9qkqplDJZIuxRHLQNq.jpg" group-title="Movies | FILMS TURK",Malazgirt 1071 - 2022
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/5531.mp4
 
-# --- Movies | Films (1496) ---
+# --- Movies | Films (1498) ---
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jRuiKL4S9UpLma2ZlM47xIu2gbe.jpg" group-title="Movies | Films",Turbulence (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/24546.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8GkCZUA8RnpvbY6mZFMKziOnOD6.jpg" group-title="Movies | Films",Les Intrus : Chapitre 3 (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/24545.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hrze9JXp2QJpc2WjLfSUtRxyYSb.jpg" group-title="Movies | Films",Afterburn (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/24191.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/aWLXwlquFp72G1Wy81JMox0sDZC.jpg" group-title="Movies | Films",Petits meurtres en Corrèze (2026)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/24061.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xAfVu3TQPNUnn1OgBjRSO81Rnmr.jpg" group-title="Movies | Films",Au coeur de nos terres (2026)
@@ -4090,8 +4096,6 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/11390.mkv
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/22480.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b7Q9EdjddChgzuMwXmXmNVcO3bI.jpg" group-title="Movies | Films",Sons of Rizk 2 (2019)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/13764.mkv
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hrze9JXp2QJpc2WjLfSUtRxyYSb.jpg" group-title="Movies | Films",Afterburn (2026)
-http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/24191.mkv
 
 # --- Movies | Films - ULTRA HD 4K (21) ---
 #EXTINF:-1 tvg-logo="https://metalunastore.fr/cdn/shop/files/RoboCop4KBlu-ray.jpg?v=1715248236" group-title="Movies | Films - ULTRA HD 4K",RoboCop (2014) - 4K
@@ -4215,7 +4219,7 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/5879.mkv
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/RmmotqT-jZ0/mqdefault.jpg" group-title="Movies | Films Algerien",Aissa Story
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/5921.mkv
 
-# --- Movies | Films Arabe (82) ---
+# --- Movies | Films Arabe (83) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zMMXNX6GPhDSuegsJRYIBrAUSdn.jpg" group-title="Movies | Films Arabe",Maaly Mama - 2022
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1451.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2An6vEAdQKmMDf6aae8YV1QZnOe.jpg" group-title="Movies | Films Arabe",Al Rajul Rabaa - 2022
@@ -4236,6 +4240,8 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/10269.mkv
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1534.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/exVFIuYWYyLKXxYHylyVbYJVYnf.jpg" group-title="Movies | Films Arabe",Shahid Al Wahid - 2021
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1536.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vDXQUZOfXhhjpz7KMpL267ouyLU.jpg" group-title="Movies | Films Arabe",La voix de Hind Rajab (2025)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/24475.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/23S62M8gmu0ZpiMKIPJXRX2uLYG.jpg" group-title="Movies | Films Arabe",Feeha Eh Yaani !? (2025)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/21922.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8LjhxTjblaE17VQSbKwNNvhXYc.jpg" group-title="Movies | Films Arabe",Al Sada Al Afadel. (2025)
@@ -5452,7 +5458,7 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/4786.mkv
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/4771.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8mVClnhqJuP4JXaXx36LnypMwSI.jpg" group-title="Movies | NETFLIX",Me Time : Enfin seul ? - 2022
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/4765.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vBLsalxHSFoTAuVJy6htsirZuSF.jpg" group-title="Movies | NETFLIX",The Gray Man - 2022
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/cxHQB6LJz6EUEnnYfBv9o3XWdPe.jpg" group-title="Movies | NETFLIX",The Gray Man (2022)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/4735.mkv
 #EXTINF:-1 tvg-logo="https://dnm.nflximg.net/api/v6/mAcAr9TxZIVbINe88xb3Teg5_OA/AAAABddLMPoW8S57ghDnyXM92oP3HCT5DCHsx3qi7FOEQZgBdznMTP4atgKTmtrgDKT6MXux_qQJDMyiWws7BkEFETzD4GrvpNj1hsgyAbh33ToFqTBMgzlyBUhc-jSnPnzhNXjbbw.jpg?r=ce3" group-title="Movies | NETFLIX",The Man From Toronto - 2022
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/4728.mkv
@@ -6633,7 +6639,7 @@ http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/382
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Algerienne",El'sardines
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/764
 
-# --- Series | Series Anciennes (16) ---
+# --- Series | Series Anciennes (18) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Anciennes",Prison Break
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/3
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Anciennes",Loïs et Clark : les Nouvelles Aventures de Superman
@@ -6666,6 +6672,10 @@ http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/809
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/811
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Anciennes",Stargate Universe
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1062
+#EXTINF:-1 tvg-logo="" group-title="Series | Series Anciennes",Buffy contre les vampires
+http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1063
+#EXTINF:-1 tvg-logo="" group-title="Series | Series Anciennes",Breaking Bad
+http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1064
 
 # --- Series | Series Arabe (129) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Arabe",الاسطورة
@@ -7625,4 +7635,4 @@ http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1059
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Day One
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1060
 
-# Total: 3779
+# Total: 3784
