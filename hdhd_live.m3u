@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: hdhd.tk:80
-# Generated: 2026-03-16 07:28:39
+# Generated: 2026-03-16 19:00:18
 # Expires: 2027-10-14
 # Family Safe Edition
 # ==============================================
@@ -4821,7 +4821,7 @@ http://hdhd.tk:80/live/Amanda1/Frechette1/381253.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA B/R Max Sports",US Big Brother Feed 1
 http://hdhd.tk:80/live/Amanda1/Frechette1/381254.m3u8
 
-# --- USA Bally Sports (40) ---
+# --- USA Bally Sports (37) ---
 #EXTINF:-1 tvg-logo="https://logo.iptveditor.com/ballysportsnorth.png" group-title="USA Bally Sports",US FanDuel Sports North
 http://hdhd.tk:80/live/Amanda1/Frechette1/28359.m3u8
 #EXTINF:-1 tvg-logo="https://logo.iptveditor.com/ballysportsdetroit.png" group-title="USA Bally Sports",US FanDuel Sports Detroit
@@ -4876,12 +4876,6 @@ http://hdhd.tk:80/live/Amanda1/Frechette1/47382.m3u8
 http://hdhd.tk:80/live/Amanda1/Frechette1/347267.m3u8
 #EXTINF:-1 tvg-logo="https://logo.iptveditor.com/ballysportsdetroit.png" group-title="USA Bally Sports",US FanDuel Sports Midwest Plus
 http://hdhd.tk:80/live/Amanda1/Frechette1/347268.m3u8
-#EXTINF:-1 tvg-logo="https://logo.iptveditor.com/ballysportsdetroit.png" group-title="USA Bally Sports",US FanDuel Sports North Out of Market
-http://hdhd.tk:80/live/Amanda1/Frechette1/347269.m3u8
-#EXTINF:-1 tvg-logo="https://logo.iptveditor.com/ballysportsdetroit.png" group-title="USA Bally Sports",US FanDuel Sports Ohio - Zone 5 (Louisville Lexington)
-http://hdhd.tk:80/live/Amanda1/Frechette1/347270.m3u8
-#EXTINF:-1 tvg-logo="https://logo.iptveditor.com/ballysportsdetroit.png" group-title="USA Bally Sports",US FanDuel Sports Ohio 11 (Evansville)
-http://hdhd.tk:80/live/Amanda1/Frechette1/347271.m3u8
 #EXTINF:-1 tvg-logo="https://logo.iptveditor.com/ballysportsdetroit.png" group-title="USA Bally Sports",US FanDuel Sports Ohio
 http://hdhd.tk:80/live/Amanda1/Frechette1/347274.m3u8
 #EXTINF:-1 tvg-logo="https://logo.iptveditor.com/ballysportsdetroit.png" group-title="USA Bally Sports",US Bally Sports San Diego
@@ -6935,7 +6929,7 @@ http://hdhd.tk:80/live/Amanda1/Frechette1/396926.m3u8
 #EXTINF:-1 tvg-logo="https://logo.m3uassets.com/nhl.png" group-title="USA NHL",USA NHL 42:
 http://hdhd.tk:80/live/Amanda1/Frechette1/396927.m3u8
 
-# --- USA Network (189) ---
+# --- USA Network (188) ---
 #EXTINF:-1 tvg-logo="https://static.epg.best/us/AandE.us.png" group-title="USA Network",US A&E
 http://hdhd.tk:80/live/Amanda1/Frechette1/55.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/us/AMC.us.png" group-title="USA Network",US AMC
@@ -7198,8 +7192,6 @@ http://hdhd.tk:80/live/Amanda1/Frechette1/384957.m3u8
 http://hdhd.tk:80/live/Amanda1/Frechette1/384958.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA Network",US FXM
 http://hdhd.tk:80/live/Amanda1/Frechette1/397919.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USA Network",US (NBC) MS NOW
-http://hdhd.tk:80/live/Amanda1/Frechette1/397920.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA Network",US All Day Drama
 http://hdhd.tk:80/live/Amanda1/Frechette1/397921.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA Network",US CBS News Baltimore
@@ -8103,4 +8095,4 @@ http://hdhd.tk:80/live/Amanda1/Frechette1/330321.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Vietnam",VN FILM24H
 http://hdhd.tk:80/live/Amanda1/Frechette1/330322.m3u8
 
-# Total: 3954
+# Total: 3950

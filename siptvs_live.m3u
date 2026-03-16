@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: siptvs.com:8080
-# Generated: 2026-03-16 07:30:04
+# Generated: 2026-03-16 19:00:31
 # Expires: 2026-05-16
 # Family Safe Edition
 # ==============================================
@@ -1753,7 +1753,7 @@ http://siptvs.com:8080/live/Biljana12/Biljana12/63514.m3u8
 #EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/novacinema2k.png" group-title="|EXYU| FILM",NOVA CINEMA 2K HD
 http://siptvs.com:8080/live/Biljana12/Biljana12/63515.m3u8
 
-# --- |EXYU| FILM PREMIUM (131) ---
+# --- |EXYU| FILM PREMIUM (129) ---
 #EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/cinemacious.png" group-title="|EXYU| FILM PREMIUM",CINEMACIOUS 1 HD
 http://siptvs.com:8080/live/Biljana12/Biljana12/63469.m3u8
 #EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/cinemacious.png" group-title="|EXYU| FILM PREMIUM",CINEMACIOUS 2 HD
@@ -1956,14 +1956,10 @@ http://siptvs.com:8080/live/Biljana12/Biljana12/98517.m3u8
 http://siptvs.com:8080/live/Biljana12/Biljana12/113325.m3u8
 #EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/netip.png" group-title="|EXYU| FILM PREMIUM",SR: NETTIP SELECT 2
 http://siptvs.com:8080/live/Biljana12/Biljana12/113326.m3u8
-#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/netip.png" group-title="|EXYU| FILM PREMIUM",SR: NETTIP SELECT 3
-http://siptvs.com:8080/live/Biljana12/Biljana12/113327.m3u8
 #EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/netip.png" group-title="|EXYU| FILM PREMIUM",SR: NETTIP SELECT 4
 http://siptvs.com:8080/live/Biljana12/Biljana12/113328.m3u8
 #EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/netip.png" group-title="|EXYU| FILM PREMIUM",SR: NETTIP PREMIERE 1
 http://siptvs.com:8080/live/Biljana12/Biljana12/113329.m3u8
-#EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/netip.png" group-title="|EXYU| FILM PREMIUM",SR: NETTIP PREMIERE 2
-http://siptvs.com:8080/live/Biljana12/Biljana12/113330.m3u8
 #EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/netip.png" group-title="|EXYU| FILM PREMIUM",SR: NETTIP PREMIERE 3
 http://siptvs.com:8080/live/Biljana12/Biljana12/113331.m3u8
 #EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/luzerimages/21e26778ae32fd9c72a97611be32239f.jpg" group-title="|EXYU| FILM PREMIUM",NETFLIX HITS
@@ -3259,4 +3255,4 @@ http://siptvs.com:8080/live/Biljana12/Biljana12/85905.m3u8
 #EXTINF:-1 tvg-logo="" group-title="|WSP| WORLD SPORT",MUTV
 http://siptvs.com:8080/live/Biljana12/Biljana12/126239.m3u8
 
-# Total: 1596
+# Total: 1594
