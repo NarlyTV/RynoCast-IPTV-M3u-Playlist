@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: tvpromas.com:8080
-# Generated: 2026-03-18 18:56:32
+# Generated: 2026-03-19 07:27:32
 # Expires: 2027-02-13
 # Family Safe Edition
 # ==============================================
@@ -1541,7 +1541,7 @@ http://tvpromas.com:8080/live/stkandin/9301/128784.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/TLC_Logo_Germany.svg/800px-TLC_Logo_Germany.svg.png" group-title="CULTURA",Discovery TLC
 http://tvpromas.com:8080/live/stkandin/9301/128785.m3u8
 
-# --- DEPORTES (186) ---
+# --- DEPORTES (185) ---
 #EXTINF:-1 tvg-logo="https://static-assets.bamgrid.com/product/starplus/images/share-default.d72cf588f6d06cba22171f5ae44289d3.png" group-title="DEPORTES",Eventos Especiales
 http://tvpromas.com:8080/live/stkandin/9301/50562.m3u8
 #EXTINF:-1 tvg-logo="https://www.eazycityblog.com/wp-content/uploads/2016/05/Wikinews_Sports.png" group-title="DEPORTES",Eventos Deportivos Disney+
@@ -1836,8 +1836,6 @@ http://tvpromas.com:8080/live/stkandin/9301/7009.m3u8
 http://tvpromas.com:8080/live/stkandin/9301/30915.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Jh2PsPGL/tennis.jpg" group-title="DEPORTES",Tennis Channel USA HD
 http://tvpromas.com:8080/live/stkandin/9301/3108.m3u8
-#EXTINF:-1 tvg-logo="https://www.personal.com.py/img/futbol/logo-tigo-sport.png" group-title="DEPORTES",Tigo Sports
-http://tvpromas.com:8080/live/stkandin/9301/57134.m3u8
 #EXTINF:-1 tvg-logo="https://www.personal.com.py/img/futbol/logo-tigo-sport.png" group-title="DEPORTES",Tigo Sports Bolivia
 http://tvpromas.com:8080/live/stkandin/9301/3123.m3u8
 #EXTINF:-1 tvg-logo="https://www.personal.com.py/img/futbol/logo-tigo-sport.png" group-title="DEPORTES",Tigo Sports 2 Bolivia
@@ -1928,7 +1926,7 @@ http://tvpromas.com:8080/live/stkandin/9301/56933.m3u8
 http://tvpromas.com:8080/live/stkandin/9301/76241.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/y8YqmCkM/TN1.png" group-title="DEPORTES PREMIUM",TNT CHILE HD
 http://tvpromas.com:8080/live/stkandin/9301/76243.m3u8
-#EXTINF:-1 tvg-logo="https://www.personal.com.py/img/futbol/logo-tigo-sport.png" group-title="DEPORTES PREMIUM",TIGO SPORTS
+#EXTINF:-1 tvg-logo="https://www.personal.com.py/img/futbol/logo-tigo-sport.png" group-title="DEPORTES PREMIUM",Tigo Sports Py
 http://tvpromas.com:8080/live/stkandin/9301/57108.m3u8
 #EXTINF:-1 tvg-logo="https://www.mundoprimaria.com/wp-content/uploads/2020/07/deporte.jpg" group-title="DEPORTES PREMIUM",EVENTOS DEL DIA
 http://tvpromas.com:8080/live/stkandin/9301/57133.m3u8
@@ -3203,7 +3201,7 @@ http://tvpromas.com:8080/live/stkandin/9301/67762.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/512px-CNN_Brasil.svg.png" group-title="OTROS",CNN Brasil
 http://tvpromas.com:8080/live/stkandin/9301/67591.m3u8
 
-# --- PARAGUAY (24) ---
+# --- PARAGUAY (25) ---
 #EXTINF:-1 tvg-logo="https://d1y2i2odvciezg.cloudfront.net/wp-content/uploads/2023/07/logo.png" group-title="PARAGUAY",C9N
 http://tvpromas.com:8080/live/stkandin/9301/2389.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/04/GEN-TV-Paraguay-en-vivo-Online.png" group-title="PARAGUAY",GEN TV
@@ -3252,6 +3250,8 @@ http://tvpromas.com:8080/live/stkandin/9301/135337.m3u8
 http://tvpromas.com:8080/live/stkandin/9301/67668.m3u8
 #EXTINF:-1 tvg-logo="https://www.personal.com.py/img/futbol/logo-tigo-sport.png" group-title="PARAGUAY",Tigo Sports PY
 http://tvpromas.com:8080/live/stkandin/9301/136948.m3u8
+#EXTINF:-1 tvg-logo="https://www.personal.com.py/img/futbol/logo-tigo-sport.png" group-title="PARAGUAY",Tigo Sports 2 PY (Solo Eventos)
+http://tvpromas.com:8080/live/stkandin/9301/136957.m3u8
 
 # --- PERU (33) ---
 #EXTINF:-1 tvg-logo="https://media.tvalacarta.info/canales/256x256/americatvpe.png" group-title="PERU",America  TV

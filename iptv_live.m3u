@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: iptv.nextnet.krd:25461
-# Generated: 2026-03-18 19:04:04
+# Generated: 2026-03-19 07:23:57
 # Expires: Unlimited
 # Family Safe Edition
 # ==============================================
@@ -19,7 +19,7 @@ http://iptv.nextnet.krd:25461/live/nextnet/3738/5162.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Tl6aW2u.png" group-title="Animation",Pluto TV Yu-Gi-Oh
 http://iptv.nextnet.krd:25461/live/nextnet/3738/5163.m3u8
 
-# --- Documentary (16) ---
+# --- Documentary (15) ---
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fFfbmdH/Rasan.jpg" group-title="Documentary",Rasan HD
 http://iptv.nextnet.krd:25461/live/nextnet/3738/94.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yfc7ssR/Kalapur.png" group-title="Documentary",Kalapur
@@ -42,8 +42,6 @@ http://iptv.nextnet.krd:25461/live/nextnet/3738/4688.m3u8
 http://iptv.nextnet.krd:25461/live/nextnet/3738/4715.m3u8
 #EXTINF:-1 tvg-logo="data:image/png;base64,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" group-title="Documentary",Animal-Planet
 http://iptv.nextnet.krd:25461/live/nextnet/3738/4810.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qkfe3o9.png" group-title="Documentary",Court TV
-http://iptv.nextnet.krd:25461/live/nextnet/3738/5191.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KuPue6S.png" group-title="Documentary",Pluto TV Animals (England) (720p)
 http://iptv.nextnet.krd:25461/live/nextnet/3738/5213.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ApN6nfw.png" group-title="Documentary",Pluto TV Paranormal
@@ -335,7 +333,7 @@ http://iptv.nextnet.krd:25461/live/nextnet/3738/5023.m3u8
 #EXTINF:-1 tvg-logo="" group-title="News",Shams tv
 http://iptv.nextnet.krd:25461/live/nextnet/3738/5575.m3u8
 
-# --- Persian (32) ---
+# --- Persian (31) ---
 #EXTINF:-1 tvg-logo="https://i.scdn.co/image/ab6765630000ba8a2a409eac24592005bbd1c564" group-title="Persian",Mihan TV
 http://iptv.nextnet.krd:25461/live/nextnet/3738/4848.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PexhKwp.png" group-title="Persian",4U TV
@@ -384,8 +382,6 @@ http://iptv.nextnet.krd:25461/live/nextnet/3738/4899.m3u8
 http://iptv.nextnet.krd:25461/live/nextnet/3738/4903.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8AfAfZE.png " group-title="Persian",AVA Series
 http://iptv.nextnet.krd:25461/live/nextnet/3738/4904.m3u8
-#EXTINF:-1 tvg-logo=" https://i.ibb.co/yynxRTS/Bravo-Farsi.jpg" group-title="Persian",Bravo Farsi TV
-http://iptv.nextnet.krd:25461/live/nextnet/3738/4905.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fx-1.png" group-title="Persian",FX1 Farsi
 http://iptv.nextnet.krd:25461/live/nextnet/3738/4906.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/meta-film-tv.png" group-title="Persian",Meta Film TV
@@ -485,4 +481,4 @@ http://iptv.nextnet.krd:25461/live/nextnet/3738/4927.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UcAwBep.png" group-title="USA",UN Web TV
 http://iptv.nextnet.krd:25461/live/nextnet/3738/4952.m3u8
 
-# Total: 228
+# Total: 226

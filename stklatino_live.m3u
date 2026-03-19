@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: stklatino.dynns.com:2082
-# Generated: 2026-03-18 18:59:57
+# Generated: 2026-03-19 07:27:57
 # Expires: 2026-05-11
 # Family Safe Edition
 # ==============================================
@@ -1541,7 +1541,7 @@ http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/128784.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/TLC_Logo_Germany.svg/800px-TLC_Logo_Germany.svg.png" group-title="CULTURA",Discovery TLC
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/128785.m3u8
 
-# --- DEPORTES (186) ---
+# --- DEPORTES (185) ---
 #EXTINF:-1 tvg-logo="https://static-assets.bamgrid.com/product/starplus/images/share-default.d72cf588f6d06cba22171f5ae44289d3.png" group-title="DEPORTES",Eventos Especiales
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/50562.m3u8
 #EXTINF:-1 tvg-logo="https://www.eazycityblog.com/wp-content/uploads/2016/05/Wikinews_Sports.png" group-title="DEPORTES",Eventos Deportivos Disney+
@@ -1836,8 +1836,6 @@ http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/7009.m3u8
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/30915.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Jh2PsPGL/tennis.jpg" group-title="DEPORTES",Tennis Channel USA HD
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/3108.m3u8
-#EXTINF:-1 tvg-logo="https://www.personal.com.py/img/futbol/logo-tigo-sport.png" group-title="DEPORTES",Tigo Sports
-http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/57134.m3u8
 #EXTINF:-1 tvg-logo="https://www.personal.com.py/img/futbol/logo-tigo-sport.png" group-title="DEPORTES",Tigo Sports Bolivia
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/3123.m3u8
 #EXTINF:-1 tvg-logo="https://www.personal.com.py/img/futbol/logo-tigo-sport.png" group-title="DEPORTES",Tigo Sports 2 Bolivia
@@ -1928,7 +1926,7 @@ http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/56933.m3u8
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/76241.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/y8YqmCkM/TN1.png" group-title="DEPORTES PREMIUM",TNT CHILE HD
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/76243.m3u8
-#EXTINF:-1 tvg-logo="https://www.personal.com.py/img/futbol/logo-tigo-sport.png" group-title="DEPORTES PREMIUM",TIGO SPORTS
+#EXTINF:-1 tvg-logo="https://www.personal.com.py/img/futbol/logo-tigo-sport.png" group-title="DEPORTES PREMIUM",Tigo Sports Py
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/57108.m3u8
 #EXTINF:-1 tvg-logo="https://www.mundoprimaria.com/wp-content/uploads/2020/07/deporte.jpg" group-title="DEPORTES PREMIUM",EVENTOS DEL DIA
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/57133.m3u8
@@ -15811,7 +15809,7 @@ http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/74624.m3u8
 #EXTINF:-1 tvg-logo="" group-title="OTROS",萬州三峽移民 (576p)
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/74625.m3u8
 
-# --- PARAGUAY (24) ---
+# --- PARAGUAY (25) ---
 #EXTINF:-1 tvg-logo="https://d1y2i2odvciezg.cloudfront.net/wp-content/uploads/2023/07/logo.png" group-title="PARAGUAY",C9N
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/2389.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/04/GEN-TV-Paraguay-en-vivo-Online.png" group-title="PARAGUAY",GEN TV
@@ -15860,6 +15858,8 @@ http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/135337.m3u8
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/67668.m3u8
 #EXTINF:-1 tvg-logo="https://www.personal.com.py/img/futbol/logo-tigo-sport.png" group-title="PARAGUAY",Tigo Sports PY
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/136948.m3u8
+#EXTINF:-1 tvg-logo="https://www.personal.com.py/img/futbol/logo-tigo-sport.png" group-title="PARAGUAY",Tigo Sports 2 PY (Solo Eventos)
+http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/136957.m3u8
 
 # --- PERU (33) ---
 #EXTINF:-1 tvg-logo="https://media.tvalacarta.info/canales/256x256/americatvpe.png" group-title="PERU",America  TV

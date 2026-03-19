@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: blackiptv.net:8080
-# Generated: 2026-03-18 19:02:02
+# Generated: 2026-03-19 07:37:23
 # Expires: 2026-12-21
 # Family Safe Edition
 # ==============================================
@@ -1760,8 +1760,6 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/60043.m3u8
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/60044.m3u8
 
 # --- GERMANY (56) ---
-#EXTINF:-1 tvg-logo="" group-title="GERMANY",DE: BIG BROTHER 24/7
-http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/60055.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/flags/germany-flag.png" group-title="GERMANY",*****GERMANY CHANNEL*****
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/4947.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/zdf-de.png" group-title="GERMANY",DE: ZDF
@@ -1832,6 +1830,8 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/29030.m3u8
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/5862.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/anixe-de.png" group-title="GERMANY",DE: ANIXE
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/26249.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GERMANY",DE: BIG BROTHER 24/7
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/60055.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/wdr-de.png" group-title="GERMANY",DE: WDR HD
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/208.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/wdr-de.png" group-title="GERMANY",DE: WDR
@@ -2031,7 +2031,9 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/16249.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/movies/movies1.png" group-title="GERMANY CINEMA",DE/TR: MERHABA TURKISCHE SERIE
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/399.m3u8
 
-# --- GERMANY DOKU/NACHRICHTEN (23) ---
+# --- GERMANY DOKU/NACHRICHTEN (24) ---
+#EXTINF:-1 tvg-logo="" group-title="GERMANY DOKU/NACHRICHTEN",DE: WELT TV
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/5851.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GERMANY DOKU/NACHRICHTEN",*****GERMANY DOKU/NACHRICHTEN*****
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/32985.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/n24-doku-de.png" group-title="GERMANY DOKU/NACHRICHTEN",DE: N24 DOKU
@@ -3313,7 +3315,7 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/28725.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ROMANIA",RO: HISTORY CHANNEL HD
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/28798.m3u8
 
-# --- RUSSIA (90) ---
+# --- RUSSIA (89) ---
 #EXTINF:-1 tvg-logo="" group-title="RUSSIA",*****RUSSIA*****
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/3325.m3u8
 #EXTINF:-1 tvg-logo="" group-title="RUSSIA",RU: Matur Tv
@@ -3372,8 +3374,6 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/5847.m3u8
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/5848.m3u8
 #EXTINF:-1 tvg-logo="" group-title="RUSSIA",RU: ZEE Tv
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/5850.m3u8
-#EXTINF:-1 tvg-logo="" group-title="RUSSIA",RU: Welt Premium
-http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/5851.m3u8
 #EXTINF:-1 tvg-logo="" group-title="RUSSIA",RU: Mir TV
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/5852.m3u8
 #EXTINF:-1 tvg-logo="" group-title="RUSSIA",RU: Astrakhan TV
