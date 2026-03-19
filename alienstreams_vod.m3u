@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: alienstreams.fi:8080
-# Generated: 2026-03-19 07:23:55
+# Generated: 2026-03-19 18:46:08
 # Expires: 2026-04-03
 # Family Safe Edition
 # ==============================================
@@ -4492,10 +4492,10 @@ http://alienstreams.fi:8080/movie/karekare/karekare/403119.mkv
 http://alienstreams.fi:8080/movie/karekare/karekare/443540.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/h8PafIg6XlvgR9NO6njX8i3PkqT.jpg" group-title="Movies | Comedy [VOD]",Demetri Martin: The Overthinker (2018)
 http://alienstreams.fi:8080/movie/karekare/karekare/443538.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/n8V61f1v7idya4WJzGEJNoIp9iL.jpg" group-title="Movies | Comedy [VOD]",Austin Powers in Goldmember (2002)
-http://alienstreams.fi:8080/movie/karekare/karekare/443523.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/hQKM2cefRD80N21NMFeztk3PnAk.jpg" group-title="Movies | Comedy [VOD]",The Sheriff and the Satellite Kid
 http://alienstreams.fi:8080/movie/karekare/karekare/443522.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/n8V61f1v7idya4WJzGEJNoIp9iL.jpg" group-title="Movies | Comedy [VOD]",Austin Powers in Goldmember (2002)
+http://alienstreams.fi:8080/movie/karekare/karekare/443523.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/14TmEac4bquNaEld9t0uIliYoKE.jpg" group-title="Movies | Comedy [VOD]",Half Baked (1998)
 http://alienstreams.fi:8080/movie/karekare/karekare/443517.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/pjKvQrVpekshVM6DUDOt3ImhAVH.jpg" group-title="Movies | Comedy [VOD]",Ali G Indahouse (2002)
@@ -5625,7 +5625,7 @@ http://alienstreams.fi:8080/movie/karekare/karekare/444296.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/cDkoUFDMOUrD7TPqF1YMkiAelOx.jpg" group-title="Movies | Danish [VOD]",Børnene fra Sølvgade (2024)
 http://alienstreams.fi:8080/movie/karekare/karekare/474475.mkv
 
-# --- Movies | Documentaries [VOD] (440) ---
+# --- Movies | Documentaries [VOD] (441) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dF54PxZjeuN2vJb11VQBSPfVFgP.jpg" group-title="Movies | Documentaries [VOD]",The Mountain Within Me
 http://alienstreams.fi:8080/movie/karekare/karekare/328102.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xLMT7t4DG6SdnQxdc5XBgN6CGY4.jpg" group-title="Movies | Documentaries [VOD]",Untold: Hope Solo vs. U.S. Soccer
@@ -6506,6 +6506,8 @@ http://alienstreams.fi:8080/movie/karekare/karekare/494310.mkv
 http://alienstreams.fi:8080/movie/karekare/karekare/495322.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/ba6Silct0Y4pyvrSv0Tj0Urmx9f.jpg" group-title="Movies | Documentaries [VOD]",Melania (2026)
 http://alienstreams.fi:8080/movie/karekare/karekare/496293.mkv
+#EXTINF:-1 tvg-logo="" group-title="Movies | Documentaries [VOD]",Meal Ticket (2026)
+http://alienstreams.fi:8080/movie/karekare/karekare/497611.mkv
 
 # --- Movies | Drama [VOD] (919) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xc24joXS49iMQR648GwDRKt6fh8.jpg" group-title="Movies | Drama [VOD]",Mitt liv som hund
@@ -18580,6 +18582,16 @@ http://alienstreams.fi:8080/series/karekare/karekare/405122
 http://alienstreams.fi:8080/series/karekare/karekare/403526
 
 # --- Series | Svenska Serier [Series] (287) ---
+#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Farmen
+http://alienstreams.fi:8080/series/karekare/karekare/492705
+#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Gilla läget
+http://alienstreams.fi:8080/series/karekare/karekare/494634
+#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Svenska fall
+http://alienstreams.fi:8080/series/karekare/karekare/477665
+#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Här är ditt kylskåp
+http://alienstreams.fi:8080/series/karekare/karekare/489076
+#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Wahlgrens Värld
+http://alienstreams.fi:8080/series/karekare/karekare/477780
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Pantbanken på turné
 http://alienstreams.fi:8080/series/karekare/karekare/497591
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Sveriges Mästerkock
@@ -18590,8 +18602,6 @@ http://alienstreams.fi:8080/series/karekare/karekare/495288
 http://alienstreams.fi:8080/series/karekare/karekare/496023
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Poliserna i våldsvågen
 http://alienstreams.fi:8080/series/karekare/karekare/495274
-#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Här är ditt kylskåp
-http://alienstreams.fi:8080/series/karekare/karekare/489076
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Svenska bönder
 http://alienstreams.fi:8080/series/karekare/karekare/493920
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Gränsbevakarna Sverige
@@ -18604,8 +18614,6 @@ http://alienstreams.fi:8080/series/karekare/karekare/493627
 http://alienstreams.fi:8080/series/karekare/karekare/489466
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",S:t Görans sjukhus
 http://alienstreams.fi:8080/series/karekare/karekare/493083
-#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Farmen
-http://alienstreams.fi:8080/series/karekare/karekare/492705
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Mästarnas mästare
 http://alienstreams.fi:8080/series/karekare/karekare/496816
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Efterlyst
@@ -18620,12 +18628,6 @@ http://alienstreams.fi:8080/series/karekare/karekare/494811
 http://alienstreams.fi:8080/series/karekare/karekare/496762
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Love is Blind: Sverige
 http://alienstreams.fi:8080/series/karekare/karekare/496687
-#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Gilla läget
-http://alienstreams.fi:8080/series/karekare/karekare/494634
-#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Wahlgrens Värld
-http://alienstreams.fi:8080/series/karekare/karekare/477780
-#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Svenska fall
-http://alienstreams.fi:8080/series/karekare/karekare/477665
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Lyxfällan
 http://alienstreams.fi:8080/series/karekare/karekare/493370
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Husdrömmar
@@ -19209,4 +19211,4 @@ http://alienstreams.fi:8080/series/karekare/karekare/475290
 #EXTINF:-1 tvg-logo="" group-title="Series | Western [Series]",How the West Was Won
 http://alienstreams.fi:8080/series/karekare/karekare/459987
 
-# Total: 9545
+# Total: 9546

@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: world-service.us:8080
-# Generated: 2026-03-19 07:37:49
+# Generated: 2026-03-19 18:45:24
 # Expires: 2026-05-19
 # Family Safe Edition
 # ==============================================
@@ -1847,9 +1847,15 @@ http://world-service.us:8080/movie/giovanmer/merante/2034.mkv
 #EXTINF:-1 tvg-logo="n/A" group-title="Movies | NAPOLI",Tradimento
 http://world-service.us:8080/movie/giovanmer/merante/2046.mkv
 
-# --- Movies | NETFLIX AMAZON AZIONE (1496) ---
+# --- Movies | NETFLIX AMAZON AZIONE (1499) ---
 #EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/italians.jpg" group-title="Movies | NETFLIX AMAZON AZIONE",==== NETFLIX AZIONE ====
 http://world-service.us:8080/movie/giovanmer/merante/62556.mkv
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/6d1b799c331214b5f054bc69e2a92c20.jpg" group-title="Movies | NETFLIX AMAZON AZIONE",Il ritorno di Boyka (2016)
+http://world-service.us:8080/movie/giovanmer/merante/87038.mkv
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/4c7e06c50ead8aa61955441b2e00a760.jpg" group-title="Movies | NETFLIX AMAZON AZIONE",Les Orphelins (2025)
+http://world-service.us:8080/movie/giovanmer/merante/87033.mkv
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/a0f993f964eb4cc8a32fd173aee85b85.jpg" group-title="Movies | NETFLIX AMAZON AZIONE",In the Lost Lands (2025)
+http://world-service.us:8080/movie/giovanmer/merante/87032.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/24c7eb19b5f7581a7591338ec4ea1976.jpg" group-title="Movies | NETFLIX AMAZON AZIONE",War Machine (2026)
 http://world-service.us:8080/movie/giovanmer/merante/87146.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/9b15759ee730725a61d790a1451d1df0.jpg" group-title="Movies | NETFLIX AMAZON AZIONE",Luce Fredda (2026)
@@ -8145,9 +8151,13 @@ http://world-service.us:8080/movie/giovanmer/merante/18135.mkv
 #EXTINF:-1 tvg-logo="n/A" group-title="Movies | NETFLIX AMAZON COMICO",Made in Sud  I Gomorroidi con Salvatore Conte   Made in Sud 12042017
 http://world-service.us:8080/movie/giovanmer/merante/18158.mkv
 
-# --- Movies | NETFLIX AMAZON COMMEDIA (1004) ---
+# --- Movies | NETFLIX AMAZON COMMEDIA (1006) ---
 #EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/italians.jpg" group-title="Movies | NETFLIX AMAZON COMMEDIA",====NETFLIX  COMMEDIA====
 http://world-service.us:8080/movie/giovanmer/merante/1659.mkv
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/91f071542edb26a800d62d47235d3a63.jpg" group-title="Movies | NETFLIX AMAZON COMMEDIA",Song'e Napule (2013)
+http://world-service.us:8080/movie/giovanmer/merante/87035.mkv
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/6c8994c07600b810979fdca2fefe6eea.jpg" group-title="Movies | NETFLIX AMAZON COMMEDIA",Benvenuti in casa Esposito (2021)
+http://world-service.us:8080/movie/giovanmer/merante/87030.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/4eba4e8d44424b232a9ae3bcccfd7a58.jpg" group-title="Movies | NETFLIX AMAZON COMMEDIA",Oi vita mia (2025)
 http://world-service.us:8080/movie/giovanmer/merante/87198.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/bcf2e05680cd8471157fefda147d5531.jpg" group-title="Movies | NETFLIX AMAZON COMMEDIA",Mostruosamente tuo (2026)
@@ -10261,9 +10271,13 @@ http://world-service.us:8080/movie/giovanmer/merante/1613.mkv
 #EXTINF:-1 tvg-logo="n/A" group-title="Movies | NETFLIX AMAZON DOCUMENTARI",Zanetti Story
 http://world-service.us:8080/movie/giovanmer/merante/1761.mkv
 
-# --- Movies | NETFLIX AMAZON DRAMMATICO (1590) ---
+# --- Movies | NETFLIX AMAZON DRAMMATICO (1592) ---
 #EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/italians.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",====NETFLIX DRAMMATICO====
 http://world-service.us:8080/movie/giovanmer/merante/1662.mkv
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/7d13cef3f0792797ad2fdae2e99fd9c6.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",The Swedish Connection (2026)
+http://world-service.us:8080/movie/giovanmer/merante/87037.mkv
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/7547595cda7a4673217c6ddf85c6ff2b.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",Pavana (2026)
+http://world-service.us:8080/movie/giovanmer/merante/87034.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/54c36c10f4a530569339258cd2382faa.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",Sirat (2025)
 http://world-service.us:8080/movie/giovanmer/merante/87189.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/e933615a9216601442d241b3c359e6ed.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",Hamnet - Nel nome del figlio (2025)
@@ -13585,9 +13599,11 @@ http://world-service.us:8080/movie/giovanmer/merante/78559.mkv
 #EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/37638f95d3db025a276663b1a9010fda.jpg" group-title="Movies | NETFLIX AMAZON GIALLO",what the waters left behind scars (2023)
 http://world-service.us:8080/movie/giovanmer/merante/78560.mkv
 
-# --- Movies | NETFLIX AMAZON HORROR (508) ---
+# --- Movies | NETFLIX AMAZON HORROR (509) ---
 #EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/italians.jpg" group-title="Movies | NETFLIX AMAZON HORROR",====NETFLIX HORROR====
 http://world-service.us:8080/movie/giovanmer/merante/1664.mkv
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/39cdad627b3212dc506e26e413ea587f.jpg" group-title="Movies | NETFLIX AMAZON HORROR",The Bayou (2025)
+http://world-service.us:8080/movie/giovanmer/merante/87036.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/71d29beefb76d5b03417ad2e7e276060.jpg" group-title="Movies | NETFLIX AMAZON HORROR",The Jester 2 (2025)
 http://world-service.us:8080/movie/giovanmer/merante/87188.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/0e5330d914250145254da27bb22389ef.jpg" group-title="Movies | NETFLIX AMAZON HORROR",Ben - Rabbia animale (2026)
@@ -21170,24 +21186,24 @@ http://world-service.us:8080/movie/giovanmer/merante/1636.mp4
 http://world-service.us:8080/movie/giovanmer/merante/1638.mp4
 
 # --- Movies | PRIMAFILA (9) ---
-#EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/6d1b799c331214b5f054bc69e2a92c20.jpg" group-title="Movies | PRIMAFILA",PRIMAFILA 1HD  4  Il ritorno di Boyka (2016)
-http://world-service.us:8080/movie/giovanmer/merante/87038.mkv
-#EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/7d13cef3f0792797ad2fdae2e99fd9c6.jpg" group-title="Movies | PRIMAFILA",PRIMAFILA 3HD The Swedish Connection (2026)
-http://world-service.us:8080/movie/giovanmer/merante/87037.mkv
-#EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/39cdad627b3212dc506e26e413ea587f.jpg" group-title="Movies | PRIMAFILA",PRIMAFILA 5HD The Bayou (2025)
-http://world-service.us:8080/movie/giovanmer/merante/87036.mkv
-#EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/91f071542edb26a800d62d47235d3a63.jpg" group-title="Movies | PRIMAFILA",PRIMAFILA 7HD  Song'e Napule (2013)
-http://world-service.us:8080/movie/giovanmer/merante/87035.mkv
-#EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/7547595cda7a4673217c6ddf85c6ff2b.jpg" group-title="Movies | PRIMAFILA",PRIMAFILA 9HD Pavana (2026)
-http://world-service.us:8080/movie/giovanmer/merante/87034.mkv
-#EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/4c7e06c50ead8aa61955441b2e00a760.jpg" group-title="Movies | PRIMAFILA",PRIMAFILA 11HD  Les Orphelins (2025)
-http://world-service.us:8080/movie/giovanmer/merante/87033.mkv
-#EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/a0f993f964eb4cc8a32fd173aee85b85.jpg" group-title="Movies | PRIMAFILA",PRIMAFILA 13HD In the Lost Lands (2025)
-http://world-service.us:8080/movie/giovanmer/merante/87032.mkv
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/0a1341a6c3b81c3c8370b3187ae2378f.jpg" group-title="Movies | PRIMAFILA",PRIMAFILA 1HD Una famiglia sottosopra (2025)
+http://world-service.us:8080/movie/giovanmer/merante/87228.mkv
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/c07dc73f59672eac9187d78046f73ec3.jpg" group-title="Movies | PRIMAFILA",PRIMAFILA 3HD The Family McMullen (2025)
+http://world-service.us:8080/movie/giovanmer/merante/87227.mkv
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/f2bab041dcf2f4c83bd067709041d79f.jpg" group-title="Movies | PRIMAFILA",PRIMAFILA 5HD Shelby Oaks - Il covo del male (2025)
+http://world-service.us:8080/movie/giovanmer/merante/87226.mkv
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/43c4fab32800b0fc75fb50a41a039d16.jpg" group-title="Movies | PRIMAFILA",PRIMAFILA 7HD L'ombra del corvo (2025)
+http://world-service.us:8080/movie/giovanmer/merante/87225.mkv
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/05a0cd02227a94700b5407cdbad88a0b.jpg" group-title="Movies | PRIMAFILA",PRIMAFILA 9HD La piccola Amelie (2025)
+http://world-service.us:8080/movie/giovanmer/merante/87224.mkv
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/06154f1af514ed2e789821b39bdb823f.jpg" group-title="Movies | PRIMAFILA",PRIMAFILA 11HD Il testamento di Ann Lee (2025)
+http://world-service.us:8080/movie/giovanmer/merante/87223.mkv
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/32f0a6910079d631062be25c175e5ac8.jpg" group-title="Movies | PRIMAFILA",PRIMAFILA 13HD Icefall - Caccia sul ghiaccio (2025)
+http://world-service.us:8080/movie/giovanmer/merante/87222.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/1835a641861e7d7e1550f5d13a8c4d29.jpg" group-title="Movies | PRIMAFILA",PRIMAFILA 15HD Cortafuego (2026)
 http://world-service.us:8080/movie/giovanmer/merante/87031.mkv
-#EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/6c8994c07600b810979fdca2fefe6eea.jpg" group-title="Movies | PRIMAFILA",PRIMAFILA 17HD Benvenuti in casa Esposito (2021)
-http://world-service.us:8080/movie/giovanmer/merante/87030.mkv
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/a38d96e1bb0043f7e1873edf9f7f34e8.jpg" group-title="Movies | PRIMAFILA",PRIMAFILA 17HD Ghost Cat Anzu (2024)
+http://world-service.us:8080/movie/giovanmer/merante/87221.mkv
 
 # --- Movies | PRIMAFILA 4K (15) ---
 #EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/italians.jpg" group-title="Movies | PRIMAFILA 4K",====PRIMAFILA 4K====
@@ -21224,7 +21240,7 @@ http://world-service.us:8080/movie/giovanmer/merante/26142.mkv
 # --- Movies | SALA CINEMA (15) ---
 #EXTINF:-1 tvg-logo="http://cmswebita26.com:8080/images/CINEMA.jpg" group-title="Movies | SALA CINEMA",=========FILM AL CINEMA=========
 http://world-service.us:8080/movie/giovanmer/merante/1805.mkv
-#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/a32e74ab8dadda8f9be6bd3da8d0f50d.jpg" group-title="Movies | SALA CINEMA",Scream 7 (2026)
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/a32e74ab8dadda8f9be6bd3da8d0f50d.jpg" group-title="Movies | SALA CINEMA",SALA CINEMA 1 Scream 7 (2026)
 http://world-service.us:8080/movie/giovanmer/merante/78911.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/8e25c4e9894371f26104634605ebbaa3.jpg" group-title="Movies | SALA CINEMA",SALA CINEMA 3 Il sentiero azzurro (2025)
 http://world-service.us:8080/movie/giovanmer/merante/78907.mkv
@@ -33017,4 +33033,4 @@ http://world-service.us:8080/movie/giovanmer/merante/2669.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | SerieTV",Timeless.S01E01 german
 http://world-service.us:8080/movie/giovanmer/merante/20654.mkv
 
-# Total: 16477
+# Total: 16485
