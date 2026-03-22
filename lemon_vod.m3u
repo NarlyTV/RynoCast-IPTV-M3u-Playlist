@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: lemon.catchmeifyo.com:8000
-# Generated: 2026-03-22 07:31:59
+# Generated: 2026-03-22 18:39:16
 # Expires: 2026-10-05
 # Family Safe Edition
 # ==============================================
@@ -21475,7 +21475,7 @@ http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/77701.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/by6iZd4FxSTLCtnyCjyKYao57Ar.jpg" group-title="Movies | WWE PPV's",WWE WrestleMania Backlash (2021)
 http://lemon.catchmeifyo.com:8000/movie/4914756410/8072556864/77702.mkv
 
-# --- Series | INTERNATIONALE SERIES (423) ---
+# --- Series | INTERNATIONALE SERIES (435) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | INTERNATIONALE SERIES",Tytgat Chocolat
 http://lemon.catchmeifyo.com:8000/series/4914756410/8072556864/17
 #EXTINF:-1 tvg-logo="" group-title="Series | INTERNATIONALE SERIES",Eigen Kweek
@@ -22322,6 +22322,30 @@ http://lemon.catchmeifyo.com:8000/series/4914756410/8072556864/3666
 http://lemon.catchmeifyo.com:8000/series/4914756410/8072556864/3672
 #EXTINF:-1 tvg-logo="" group-title="Series | INTERNATIONALE SERIES",Marshals
 http://lemon.catchmeifyo.com:8000/series/4914756410/8072556864/3673
+#EXTINF:-1 tvg-logo="" group-title="Series | INTERNATIONALE SERIES",Das Boot
+http://lemon.catchmeifyo.com:8000/series/4914756410/8072556864/3677
+#EXTINF:-1 tvg-logo="" group-title="Series | INTERNATIONALE SERIES",Murder Drones
+http://lemon.catchmeifyo.com:8000/series/4914756410/8072556864/3678
+#EXTINF:-1 tvg-logo="" group-title="Series | INTERNATIONALE SERIES",Presumed Innocent
+http://lemon.catchmeifyo.com:8000/series/4914756410/8072556864/3679
+#EXTINF:-1 tvg-logo="" group-title="Series | INTERNATIONALE SERIES",Presumed Innocent
+http://lemon.catchmeifyo.com:8000/series/4914756410/8072556864/3680
+#EXTINF:-1 tvg-logo="" group-title="Series | INTERNATIONALE SERIES",RuPaul's Drag Race
+http://lemon.catchmeifyo.com:8000/series/4914756410/8072556864/3681
+#EXTINF:-1 tvg-logo="" group-title="Series | INTERNATIONALE SERIES",The Acolyte
+http://lemon.catchmeifyo.com:8000/series/4914756410/8072556864/3682
+#EXTINF:-1 tvg-logo="" group-title="Series | INTERNATIONALE SERIES",The Acolyte
+http://lemon.catchmeifyo.com:8000/series/4914756410/8072556864/3683
+#EXTINF:-1 tvg-logo="" group-title="Series | INTERNATIONALE SERIES",The Acolyte
+http://lemon.catchmeifyo.com:8000/series/4914756410/8072556864/3684
+#EXTINF:-1 tvg-logo="" group-title="Series | INTERNATIONALE SERIES",The Acolyte
+http://lemon.catchmeifyo.com:8000/series/4914756410/8072556864/3685
+#EXTINF:-1 tvg-logo="" group-title="Series | INTERNATIONALE SERIES",What If
+http://lemon.catchmeifyo.com:8000/series/4914756410/8072556864/3686
+#EXTINF:-1 tvg-logo="" group-title="Series | INTERNATIONALE SERIES",X-Men '97
+http://lemon.catchmeifyo.com:8000/series/4914756410/8072556864/3687
+#EXTINF:-1 tvg-logo="" group-title="Series | INTERNATIONALE SERIES",Your Honor
+http://lemon.catchmeifyo.com:8000/series/4914756410/8072556864/3688
 
 # --- Series | NL GESPROKEN KINDERSERIES (21) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | NL GESPROKEN KINDERSERIES",Pieter Konijn
@@ -22497,4 +22521,4 @@ http://lemon.catchmeifyo.com:8000/series/4914756410/8072556864/2750
 #EXTINF:-1 tvg-logo="" group-title="Series | NL GESPROKEN SERIES",The Hunt (Een van Ons)
 http://lemon.catchmeifyo.com:8000/series/4914756410/8072556864/2751
 
-# Total: 11192
+# Total: 11204

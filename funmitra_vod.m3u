@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: funmitra.com:8080
-# Generated: 2026-03-21 18:38:06
+# Generated: 2026-03-22 18:43:33
 # Expires: 2027-01-11
 # Family Safe Edition
 # ==============================================
@@ -543,7 +543,7 @@ http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/12103.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Animation Serien",(DE-) Spidey Und Seine Super Freunde
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/12105.mp4
 
-# --- Movies | (S|DE) Deutsche Serien (1343) ---
+# --- Movies | (S|DE) Deutsche Serien (1346) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) 4 Blocks
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/274.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) American Horror Story
@@ -3230,6 +3230,12 @@ http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/12098.mp4
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/12104.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) Die Musketiere
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/12106.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) Die 2
+http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/12124.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) The Knick
+http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/12125.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) Marshals: A Yellowstone Story
+http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/12126.mp4
 
 # --- Movies | (S|TR) Animasyon - Cizgi Diziler (123) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|TR) Animasyon - Cizgi Diziler",(TR-) Ben 10 Omniverse
@@ -6680,6 +6686,8 @@ http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/12121.mp4
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/12122.mp4
 
 # --- Movies | (V|DE) Animation - Kinderfilme (623) ---
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/j7E1jBuD1CmLskk7ydw4KwHQLhe_big.jpg" group-title="Movies | (V|DE) Animation - Kinderfilme",(DE-) Peter Hase 2: Ein Hase Macht Sich Vom Acker - 2021
+http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/674792.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/rLPpNdlbawQsRV29hub6dYGgB1i_big.jpg" group-title="Movies | (V|DE) Animation - Kinderfilme",(DE-) Scarlet - 2025
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/674398.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/qWrsTlat9IpSvDlm0G1gBMS6R7f_big.jpg" group-title="Movies | (V|DE) Animation - Kinderfilme",(DE-) Peter Hase - 2018
@@ -7522,8 +7530,6 @@ http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/367678.mkv
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/367672.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/tHc5WDj1NIdZWzFrBLgWBmOk0at.jpg" group-title="Movies | (V|DE) Animation - Kinderfilme",(DE-) Die Croods 2: Alles Auf Anfang - 2020
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/367657.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/j7E1jBuD1CmLskk7ydw4KwHQLhe.jpg" group-title="Movies | (V|DE) Animation - Kinderfilme",(DE-) Peter Hase 2: Ein Hase Macht Sich Vom Acker - 2021
-http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/366375.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/14c6YsHbZA9GfSIdjMIuj6i1Rr8.jpg" group-title="Movies | (V|DE) Animation - Kinderfilme",(DE-) Black Fox - 2019
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/366372.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/aG1x6yrnbHrLGBcyOe5PcK3CbPo.jpg" group-title="Movies | (V|DE) Animation - Kinderfilme",(DE-) Batman: The Long Halloween: Teil 1 - 2021
@@ -8159,7 +8165,15 @@ http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/243352.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/8WgLM4DAHEqhBS65QV58Jb5IGoU.jpg" group-title="Movies | (V|DE) Bollywood Filme",(DE-) Bahubali: The Beginning - 2015
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/255929.mkv
 
-# --- Movies | (V|DE) Filme (1250) ---
+# --- Movies | (V|DE) Filme (1254) ---
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/A5V4oNIxovAT861rZae3M8Jhr2Z_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) Höhere Gewalt - 2014
+http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/674791.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/vdlxdhKMylSyk75QsSfs4zsPLso_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) Dr. Seltsam Oder: Wie Ich Lernte, Die Bombe Zu Lieben - 1964
+http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/674790.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/o5433QWWUlCJBIB8xfeRrCQAC9R_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) Eiskalte Engel - 1999
+http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/674789.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/gX4tCWAMKgruHgCwIdXg9HRd60t_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) Der Blutige Pfad Gottes - 1999
+http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/674788.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/qaXfDrZCdd3wix2XYor5HDDpFrT_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) Memento - 2000
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/674090.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/6diyyGIbBNiANsdIaCGtyv4IofR_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) Bronson - 2009
@@ -17989,7 +18003,15 @@ http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/635442.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/dh8mS9Zzhplmr0Q80BKw0dibZUS_big.jpg" group-title="Movies | (V|DE) Filme - 2024",(DE-) The Break-Up Club - 2024
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/634880.mp4
 
-# --- Movies | (V|DE) Filme - 2025 (589) ---
+# --- Movies | (V|DE) Filme - 2025 (593) ---
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/pBCRRjS9OE90NF3c4yv2Uej2QDx_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Tierisch Abgefahren: Rettet Die Pets! - 2025
+http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/674863.mp4
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/bLq4GRp4InjkipnWM5Bdzbkhg2P_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Critical Incident: Death At The Border - 2025
+http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/674785.mp4
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/aJjWpztO1vpeOJXxkDHYWqZFaHv_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Alien Blood: Die Letzte Hoffnung - 2025
+http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/674784.mp4
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/9Ua6d4kgNaE0LkTcSGzxTfg2jD0_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Hunting Grounds - 2025
+http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/674783.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/118di4SpBFQHtZ2gRj8ZF3LSVZW_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Primitive War - 2025
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/674620.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/9unWKGrjISqUYlufSzdyvMbBhSZ_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Bernadette Will Töten - 2025
@@ -19169,7 +19191,9 @@ http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/647453.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/1BIOKfuEOukw2OoKZnAsPuW17kD_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Julian Assange: Mundtot Gemacht - 2025
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/647451.mp4
 
-# --- Movies | (V|DE) Filme - 2026 (56) ---
+# --- Movies | (V|DE) Filme - 2026 (57) ---
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/82Vh8PSzWtBi0CLWrnJdRhGYxEr_big.jpg" group-title="Movies | (V|DE) Filme - 2026",(DE-) Clika - 2026
+http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/674786.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/5KpkV8xDBtUrQAOWrcsBuOsBag3_big.jpg" group-title="Movies | (V|DE) Filme - 2026",(DE-) Zeta - 2026
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/674622.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/1BV17mGhdcQJyKBdRf4MApNuMKu_big.jpg" group-title="Movies | (V|DE) Filme - 2026",(DE-) Peaky Blinders: The Immortal Man - 2026
@@ -32883,4 +32907,4 @@ http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/583470.mkv
 #EXTINF:-1 tvg-logo="https://resources-biletino.s3-external-3.amazonaws.com/content/event/32237/960x540.jpg" group-title="Movies | (V|TR) Yerli Film - 2026",(TR-) Yasemin Sakallioglu: Dogru Koca Nasil Secilir? - 2026
 http://funmitra.com:8080/movie/mehmettaskiran2/dVf91xR5r9/672238.mkv
 
-# Total: 16392
+# Total: 16404

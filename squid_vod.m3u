@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: squid.game-tv.org:8080
-# Generated: 2026-03-22 07:28:31
+# Generated: 2026-03-22 18:34:33
 # Expires: 2026-04-17
 # Family Safe Edition
 # ==============================================
@@ -7315,7 +7315,13 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/10776.mp
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/2Abt2GgscAGtGAXTrhH44qPhugI.jpg" group-title="Movies | Filme 2025",Dark Nuns (2025)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/25035.mp4
 
-# --- Movies | Filme 2026 (51) ---
+# --- Movies | Filme 2026 (54) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iICU2CBNat7q9tm88SzrUFwR1hA.jpg" group-title="Movies | Filme 2026",Funky - 2026
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/69063.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gKn63ZWEVK66OaC1svlI7g6r9ah.jpg" group-title="Movies | Filme 2026",Subedaar - 2026
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/69054.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vkMOruokVnD05xSiwI2hWBzG7UD.jpg" group-title="Movies | Filme 2026",Midwinter Break - 2026
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/69053.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gRMalasZEzsZi4w2VFuYusfSfqf.jpg" group-title="Movies | Filme 2026",Peaky Blinders: The Immortal Man - 2026
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/69045.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/81szv19zvs5fGqXtWau6tXzfC4T.jpg" group-title="Movies | Filme 2026",Disneyland Handcrafted - 2026
@@ -18201,6 +18207,10 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/464.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Pandemic: How to Prevent an Outbreak (Documentar)",Pandemic: How to Prevent an Outbreak
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/224.mp4
 
+# --- Movies | Paparazzi King (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | Paparazzi King",Paparazzi King (2026)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1234.mp4
+
 # --- Movies | Paradise (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Paradise",Paradise
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/867.mp4
@@ -20305,4 +20315,4 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/383.mp4
 #EXTINF:-1 tvg-logo="" group-title="Series | A Series of Unfortunate Events",A Series of Unfortunate Events
 http://squid.game-tv.org:8080/series/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/276
 
-# Total: 8889
+# Total: 8893

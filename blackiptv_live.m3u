@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: blackiptv.net:8080
-# Generated: 2026-03-22 07:25:19
+# Generated: 2026-03-22 18:33:09
 # Expires: 2026-12-21
 # Family Safe Edition
 # ==============================================
@@ -989,7 +989,9 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/1979.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AUSTRALIA",AU: Sky News Extra 3
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/1980.m3u8
 
-# --- AUSTRIA (36) ---
+# --- AUSTRIA (37) ---
+#EXTINF:-1 tvg-logo="" group-title="AUSTRIA",AT: TIROL TV
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/70113.m3u8
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-0d5eeTjImGo/Tt04mzfn8dI/AAAAAAAA108/7noq2m8grG4/s1600/austria_flag9.png" group-title="AUSTRIA",*****AUSTRIA CHANNEL*****
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/4954.m3u8
 #EXTINF:-1 tvg-logo="http://160.19.95.75:8080/home/xtreamcodes/iptv_xtream_codes/wwwdir/image/Logo/Austria/ORF1.png" group-title="AUSTRIA",AT: ORF 1
@@ -4181,7 +4183,7 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/18230.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/eba-tv-lise-tr.png" group-title="TURK EGITIM",TR: TRT EBA TV LISE
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/18231.m3u8
 
-# --- TURK HABER (45) ---
+# --- TURK HABER (44) ---
 #EXTINF:-1 tvg-logo="" group-title="TURK HABER",TR: HABER 61
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/407.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TURK HABER",TR: LIDER HABER
@@ -4192,8 +4194,6 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/4942.m3u8
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/20764.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bulutdev/Sinemapicon/refs/heads/main/DHA.png" group-title="TURK HABER",TR: DHA CANLI 2
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/20772.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bulutdev/Sinemapicon/refs/heads/main/ekoltv.png" group-title="TURK HABER",TR: EKOL TV HD
-http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/25052.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-haber-tr.png" group-title="TURK HABER",TR: TRT HABER SD
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/47172.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-haber-tr.png" group-title="TURK HABER",TR: TRT HABER HD
@@ -4390,8 +4390,8 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/26530.m3u8
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/92.m3u8
 
 # --- TURK SINEMA (315) ---
-#EXTINF:-1 tvg-logo="" group-title="TURK SINEMA",TR: MC EU TV
-http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/70107.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TURK SINEMA",TR: TR10
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/70111.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TURK SINEMA",TR: KUZEYMAX TV
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/69989.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TURK SINEMA",TR: SDM TV Sinema
@@ -5387,9 +5387,15 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/110.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/line-tv-tr.png" group-title="TURK ULUSAL",TR: LINE TV
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/103.m3u8
 
-# --- TURK YEREL (69) ---
+# --- TURK YEREL (72) ---
 #EXTINF:-1 tvg-logo="" group-title="TURK YEREL",TR: TIVI 16
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/824.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TURK YEREL",TR: MC EU TV
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/70107.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/bulutdev/Sinemapicon/refs/heads/main/ekoltv.png" group-title="TURK YEREL",TR: EKOL TV HD
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/25052.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TURK YEREL",TR: ILKE TV
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/70112.m3u8
 #EXTINF:-1 tvg-logo="https://www.alanyapostatv.com/wp-content/uploads/2019/03/ap_logo_trnsp_red.png" group-title="TURK YEREL",TR: ALANYA POSTA TV
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/26529.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TURK YEREL",TR: TV3
@@ -5448,7 +5454,7 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/5179.m3u8
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/5183.m3u8
 #EXTINF:-1 tvg-logo="https://logo.hdiptv.app/Turkey-2/brtv_tr.png" group-title="TURK YEREL",TR: BR TV (ZONGULDAK)
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/5841.m3u8
-#EXTINF:-1 tvg-logo="https://logo.hdiptv.app/TurkeyAll/dimtv.png" group-title="TURK YEREL",TR: DIM TV (ANTALYA)
+#EXTINF:-1 tvg-logo="" group-title="TURK YEREL",TR: CAN TEMPO TV
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/15862.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TURK YEREL",TR: ERTV
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/15866.m3u8
@@ -6009,4 +6015,4 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/43244.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Unknown",TR RADYO: ANKARA RADYO
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/43245.m3u8
 
-# Total: 2943
+# Total: 2946
