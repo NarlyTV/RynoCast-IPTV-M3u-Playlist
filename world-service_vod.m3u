@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: world-service.us:8080
-# Generated: 2026-03-21 18:33:56
+# Generated: 2026-03-22 07:35:02
 # Expires: 2026-05-19
 # Family Safe Edition
 # ==============================================
@@ -4847,9 +4847,11 @@ http://world-service.us:8080/movie/giovanmer/merante/35312.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2r3Z9Th1eplDoIQAtC14WONMrpI.jpg" group-title="Movies | NETFLIX AMAZON AZIONE",Thor: The Dark World (2013)
 http://world-service.us:8080/movie/giovanmer/merante/6011.mkv
 
-# --- Movies | NETFLIX AMAZON BAMBINI (1426) ---
+# --- Movies | NETFLIX AMAZON BAMBINI (1427) ---
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/italians.jpg" group-title="Movies | NETFLIX AMAZON BAMBINI",====NETFLIX CARTONI BAMBINI====
 http://world-service.us:8080/movie/giovanmer/merante/1658.mkv
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/8b4b446aa27d8d9c37ec2e76db925322.jpg" group-title="Movies | NETFLIX AMAZON BAMBINI",Scarlet (2025)
+http://world-service.us:8080/movie/giovanmer/merante/87276.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/a2c455a4258fc7d87a91417db993f9ee.jpg" group-title="Movies | NETFLIX AMAZON BAMBINI",Cosmic Princess Kaguya! (2026)
 http://world-service.us:8080/movie/giovanmer/merante/86686.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/d125f72fdca8490d57a7263221adb4cb.jpg" group-title="Movies | NETFLIX AMAZON BAMBINI",SpongeBob  Un avventura da pirati (2025)
@@ -10271,9 +10273,17 @@ http://world-service.us:8080/movie/giovanmer/merante/1613.mkv
 #EXTINF:-1 tvg-logo="n/A" group-title="Movies | NETFLIX AMAZON DOCUMENTARI",Zanetti Story
 http://world-service.us:8080/movie/giovanmer/merante/1761.mkv
 
-# --- Movies | NETFLIX AMAZON DRAMMATICO (1592) ---
+# --- Movies | NETFLIX AMAZON DRAMMATICO (1596) ---
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/italians.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",====NETFLIX DRAMMATICO====
 http://world-service.us:8080/movie/giovanmer/merante/1662.mkv
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/a92c8125404534668e9f9709c512b2bf.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",La migliore offerta (2013)
+http://world-service.us:8080/movie/giovanmer/merante/87274.mkv
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/33e2badb54114e6a67497b5faffcb7eb.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",Peaky Blinders: The Immortal Man (2026)
+http://world-service.us:8080/movie/giovanmer/merante/87275.mkv
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/7ddb5c754a9818a1f85580666030fab4.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",Trainspotting (1996)
+http://world-service.us:8080/movie/giovanmer/merante/87277.mkv
+#EXTINF:-1 tvg-logo="http://world-service.us:8080/images/ed3ca464133cf36e4ca6303a21cfe276.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",T2 Trainspotting (2017)
+http://world-service.us:8080/movie/giovanmer/merante/87278.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/7d13cef3f0792797ad2fdae2e99fd9c6.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",The Swedish Connection (2026)
 http://world-service.us:8080/movie/giovanmer/merante/87037.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/7547595cda7a4673217c6ddf85c6ff2b.jpg" group-title="Movies | NETFLIX AMAZON DRAMMATICO",Pavana (2026)
@@ -19867,7 +19877,7 @@ http://world-service.us:8080/movie/giovanmer/merante/46163.mkv
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/abb4cfb2e854c34820508bc95e63bd8e.jpg" group-title="Movies | NETFLIX AMAZON-Serie-Tv",The Protector 04x07
 http://world-service.us:8080/movie/giovanmer/merante/46164.mkv
 
-# --- Movies | NETFLIX-AMAZON-SERIE (658) ---
+# --- Movies | NETFLIX-AMAZON-SERIE (659) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX-AMAZON-SERIE",Celebrity Hunted: Caccia all'uomo
 http://world-service.us:8080/movie/giovanmer/merante/4.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX-AMAZON-SERIE",ZeroZeroZero
@@ -21184,6 +21194,8 @@ http://world-service.us:8080/movie/giovanmer/merante/1635.mp4
 http://world-service.us:8080/movie/giovanmer/merante/1636.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX-AMAZON-SERIE",En el barro
 http://world-service.us:8080/movie/giovanmer/merante/1638.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX-AMAZON-SERIE",Emergenza radioattiva
+http://world-service.us:8080/movie/giovanmer/merante/1652.mp4
 
 # --- Movies | PRIMAFILA (9) ---
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/0a1341a6c3b81c3c8370b3187ae2378f.jpg" group-title="Movies | PRIMAFILA",PRIMAFILA 1HD Una famiglia sottosopra (2025)
@@ -22513,7 +22525,7 @@ http://world-service.us:8080/movie/giovanmer/merante/1648.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV",Le libere donne
 http://world-service.us:8080/movie/giovanmer/merante/1649.mp4
 
-# --- Movies | SERIE-TV-ITALIA (157) ---
+# --- Movies | SERIE-TV-ITALIA (158) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV-ITALIA",Capri
 http://world-service.us:8080/movie/giovanmer/merante/19.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV-ITALIA",1994
@@ -22828,6 +22840,8 @@ http://world-service.us:8080/movie/giovanmer/merante/1646.mp4
 http://world-service.us:8080/movie/giovanmer/merante/1650.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV-ITALIA",Made in Italy
 http://world-service.us:8080/movie/giovanmer/merante/1651.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | SERIE-TV-ITALIA",Vanina  Un vicequestore a Catania
+http://world-service.us:8080/movie/giovanmer/merante/1653.mp4
 
 # --- Movies | Serie-Tv-Ita (1231) ---
 #EXTINF:-1 tvg-logo="http://world-service.us:8080/images/italians.jpg" group-title="Movies | Serie-Tv-Ita",==== Serie Tv Italia ====
@@ -33033,4 +33047,4 @@ http://world-service.us:8080/movie/giovanmer/merante/2669.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | SerieTV",Timeless.S01E01 german
 http://world-service.us:8080/movie/giovanmer/merante/20654.mkv
 
-# Total: 16485
+# Total: 16492

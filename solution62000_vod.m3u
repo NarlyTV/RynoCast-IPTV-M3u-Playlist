@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: solution62000.mine.nu:8000
-# Generated: 2026-03-21 18:40:32
+# Generated: 2026-03-22 07:31:55
 # Expires: 2026-12-19
 # Family Safe Edition
 # ==============================================
@@ -6287,7 +6287,9 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1803.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6HWjDWStk86YJr8ooYFQe4nVhF8.jpg" group-title="Movies | SPECTACLE",Yacine Belhousse : 2021 (2022)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1439.mkv
 
-# --- Movies | prime video (178) ---
+# --- Movies | prime video (179) ---
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wDVwJj0KMdFgV1nR4CLNU3yhOxH.jpg" group-title="Movies | prime video",Agent Zeta (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/25920.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/c4wL0GHHAshs7GQKigKGBOCOHiY.jpg" group-title="Movies | prime video",La Falaise (2026)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/23255.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fk5igdZhR9p3N9t9Y7zM6UX2XOJ.jpg" group-title="Movies | prime video",Reconnu coupable (2026)
@@ -7685,4 +7687,4 @@ http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1069
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Halo
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1071
 
-# Total: 3809
+# Total: 3810

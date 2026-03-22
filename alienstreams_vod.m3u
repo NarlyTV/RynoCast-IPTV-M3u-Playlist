@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: alienstreams.fi:8080
-# Generated: 2026-03-21 18:34:42
+# Generated: 2026-03-22 07:29:09
 # Expires: 2026-12-27
 # Family Safe Edition
 # ==============================================
@@ -15734,6 +15734,8 @@ http://alienstreams.fi:8080/series/nicknick/nicknick/404286
 http://alienstreams.fi:8080/series/nicknick/nicknick/404298
 
 # --- Series | Drama [Series] (630) ---
+#EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Cable Girls
+http://alienstreams.fi:8080/series/nicknick/nicknick/495791
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Scrubs
 http://alienstreams.fi:8080/series/nicknick/nicknick/496012
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Imperfect Women
@@ -15794,8 +15796,6 @@ http://alienstreams.fi:8080/series/nicknick/nicknick/496134
 http://alienstreams.fi:8080/series/nicknick/nicknick/494365
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Catherine the Great
 http://alienstreams.fi:8080/series/nicknick/nicknick/496073
-#EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Cable Girls
-http://alienstreams.fi:8080/series/nicknick/nicknick/495791
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Hijack
 http://alienstreams.fi:8080/series/nicknick/nicknick/493332
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Tracker
@@ -18376,8 +18376,6 @@ http://alienstreams.fi:8080/series/nicknick/nicknick/461037
 http://alienstreams.fi:8080/series/nicknick/nicknick/446166
 #EXTINF:-1 tvg-logo="" group-title="Series | Sci-Fi & Fantasy [Series]",Upload
 http://alienstreams.fi:8080/series/nicknick/nicknick/403305
-#EXTINF:-1 tvg-logo="" group-title="Series | Sci-Fi & Fantasy [Series]",Batwoman
-http://alienstreams.fi:8080/series/nicknick/nicknick/404299
 #EXTINF:-1 tvg-logo="" group-title="Series | Sci-Fi & Fantasy [Series]",The Gifted
 http://alienstreams.fi:8080/series/nicknick/nicknick/404310
 #EXTINF:-1 tvg-logo="" group-title="Series | Sci-Fi & Fantasy [Series]",The Lazarus Project
@@ -18590,6 +18588,8 @@ http://alienstreams.fi:8080/series/nicknick/nicknick/404287
 http://alienstreams.fi:8080/series/nicknick/nicknick/404288
 #EXTINF:-1 tvg-logo="" group-title="Series | Sci-Fi & Fantasy [Series]",The Stand
 http://alienstreams.fi:8080/series/nicknick/nicknick/404295
+#EXTINF:-1 tvg-logo="" group-title="Series | Sci-Fi & Fantasy [Series]",Batwoman
+http://alienstreams.fi:8080/series/nicknick/nicknick/404299
 
 # --- Series | Soap [Series] (2) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Soap [Series]",Soy Luna
@@ -18603,7 +18603,9 @@ http://alienstreams.fi:8080/series/nicknick/nicknick/405122
 #EXTINF:-1 tvg-logo="" group-title="Series | Sports[Series]",Startelvan
 http://alienstreams.fi:8080/series/nicknick/nicknick/403526
 
-# --- Series | Svenska Serier [Series] (287) ---
+# --- Series | Svenska Serier [Series] (288) ---
+#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Palmemordets Dolda Spår
+http://alienstreams.fi:8080/series/nicknick/nicknick/497714
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Svenska nyheter
 http://alienstreams.fi:8080/series/nicknick/nicknick/481045
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",LOL: Skrattar bäst som skrattar sist - Sverige
@@ -19233,4 +19235,4 @@ http://alienstreams.fi:8080/series/nicknick/nicknick/475290
 #EXTINF:-1 tvg-logo="" group-title="Series | Western [Series]",How the West Was Won
 http://alienstreams.fi:8080/series/nicknick/nicknick/459987
 
-# Total: 9557
+# Total: 9558
