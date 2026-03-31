@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: canal-pro.xyz:8080
-# Generated: 2026-03-31 07:33:58
+# Generated: 2026-03-31 19:07:59
 # Expires: 2026-05-11
 # Family Safe Edition
 # ==============================================
@@ -19509,7 +19509,7 @@ http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2469
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES MARVEL ←",Wonder Man
 http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2532
 
-# --- Series | → SERIES MISTERIO ← (62) ---
+# --- Series | → SERIES MISTERIO ← (63) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES MISTERIO ←",Instinto
 http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/47
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES MISTERIO ←",La Montaña De La Muerte: El Incidente del Paso Dyatlov
@@ -19634,6 +19634,8 @@ http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2545
 http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2560
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES MISTERIO ←",Day One
 http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2561
+#EXTINF:-1 tvg-logo="" group-title="Series | → SERIES MISTERIO ←",Algo terrible esta a punto de suceder
+http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2564
 
 # --- Series | → SERIES REALLITY ← (25) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES REALLITY ←",La Isla de las Tentaciones Argentina & Chile
@@ -19875,4 +19877,4 @@ http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2345
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES TERROR-THRILLER-SUSPENSO ←",It: Bienvenidos a Derry
 http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2492
 
-# Total: 9861
+# Total: 9862

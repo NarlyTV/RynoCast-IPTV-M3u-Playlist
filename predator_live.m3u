@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: predator.digital:8080
-# Generated: 2026-03-30 19:02:25
+# Generated: 2026-03-31 18:58:55
 # Expires: 2026-08-08
 # Family Safe Edition
 # ==============================================
@@ -3851,7 +3851,7 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/81961.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Portugal",PT: SPORTING TV
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/81960.m3u8
 
-# --- Shqiptare (448) ---
+# --- Shqiptare (450) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Flag_of_Albania.svg/1280px-Flag_of_Albania.svg.png" group-title="Shqiptare",====Shqiptare====
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/13104.m3u8
 #EXTINF:-1 tvg-logo="https://nimitv.com/assets/img/channels-new/240/240-2.png" group-title="Shqiptare",AL: RTK 1 ⁴ᴷ
@@ -3892,6 +3892,10 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/81544.m3u8
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/84666.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Shqiptare",AL: Ferma Vip 2
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/84667.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Shqiptare",AL: Ferma Vip 1  Youtube
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85314.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Shqiptare",AL: Ferma Vip 2 Youtube
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85315.m3u8
 #EXTINF:-1 tvg-logo="https://tring.al/wp-content/uploads/2024/06/vizion-.png" group-title="Shqiptare",AL: Vizion Plus ⁴ᴷ
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/836.m3u8
 #EXTINF:-1 tvg-logo="https://tring.al/wp-content/uploads/2024/06/vizion-.png" group-title="Shqiptare",AL: Vizion Plus ᴴᴰ
@@ -8801,7 +8805,7 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/64282.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Usa",You Tube: VH1
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/64281.m3u8
 
-# --- World Sports (187) ---
+# --- World Sports (182) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/International_flag_globe.png" group-title="World Sports",===World Sports===
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/12487.m3u8
 #EXTINF:-1 tvg-logo="https://nimitv.com/assets/img/channels-new/artmotion/sport-1.png" group-title="World Sports",SPORT :Art Sport 1 ⁴ᴷ
@@ -9020,16 +9024,6 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/10168.m3u8
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/2223.m3u8
 #EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: ARRYADIA
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/82166.m3u8
-#EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: SSC Sport 1
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/79146.m3u8
-#EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: SSC Sport 2
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/79145.m3u8
-#EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: SSC Sport 3
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/79144.m3u8
-#EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: SSC Sport 4
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/79143.m3u8
-#EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: SSC Sport 5
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/79142.m3u8
 #EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: MAX Sport 1 HD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/77534.m3u8
 #EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: MAX Sport 2 HD
@@ -9177,4 +9171,4 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/13200.m3u8
 #EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: Real Madrid Tv
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/62225.m3u8
 
-# Total: 4558
+# Total: 4555

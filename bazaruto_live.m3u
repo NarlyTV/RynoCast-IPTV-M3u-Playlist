@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: bazaruto.top:8000
-# Generated: 2026-03-31 07:35:58
+# Generated: 2026-03-31 19:01:17
 # Expires: 2026-11-15
 # Family Safe Edition
 # ==============================================
@@ -3649,7 +3649,7 @@ http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/1424.m3u8
 #EXTINF:-1 tvg-logo="http://51.159.220.95:8080/logos/PINK_ELITA8_2_-_24_7.png" group-title="SRBIJA",Elita 4
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/1425.m3u8
 
-# --- SVEDSKA (62) ---
+# --- SVEDSKA (63) ---
 #EXTINF:-1 tvg-logo="http://51.159.220.95:8080/logos/SVT 1_HD._(SW).png" group-title="SVEDSKA",SVT 1 (sw)
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/31130.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SVEDSKA",SVT 2 (sw)
@@ -3706,6 +3706,8 @@ http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/415.m3u8
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/647.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SVEDSKA",C More Live 3 (sw)
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/648.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SVEDSKA",TV4 Fotboll HD SE
+http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/63735.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SVEDSKA",C More Live 4 (sw)
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/41283.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SVEDSKA",Eurosport 1 (sw)
@@ -4337,4 +4339,4 @@ http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/53504.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TURCIJA",TR: Outside TV HD US
 http://bazaruto.top:8000/live/igorTrajkaCH.riki/JIPVFqifza/53505.m3u8
 
-# Total: 2140
+# Total: 2141
