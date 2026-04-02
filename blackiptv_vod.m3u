@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: blackiptv.net:8080
-# Generated: 2026-04-02 07:26:19
+# Generated: 2026-04-02 18:57:50
 # Expires: 2026-12-21
 # Family Safe Edition
 # ==============================================
@@ -11479,7 +11479,11 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1618.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ ALL",Hayrettin ile Kaos Show (2024)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1948.mp4
 
-# --- Movies | TR/DIZI ~ AMAZON PRIME (88) ---
+# --- Movies | TR/DIZI ~ AMAZON PRIME (90) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ AMAZON PRIME",The Lady (2026)
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/2132.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ AMAZON PRIME",This City Is Ours (2025)
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/2131.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ AMAZON PRIME",Avatar: The Legend of Korra (2012) TR
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/2125.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ AMAZON PRIME",The Traitors Türkiye (2026)
@@ -11793,7 +11797,11 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/26836.mp4
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zgVgcthDQ8pYgBkKzi1AaXmmeFO.jpg" group-title="Movies | TR/DIZI ~ CUMARTESI",CMT: Sahtekarlar 22.Bölüm (YENI GÜNÜNDE)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/60873.mp4
 
-# --- Movies | TR/DIZI ~ DISNEY + (85) ---
+# --- Movies | TR/DIZI ~ DISNEY + (87) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ DISNEY +",If It's Tuesday... It's Murder (2026)
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/2134.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ DISNEY +",Love Story: John F. Kennedy Jr. & Carolyn Bessette (2026)
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/2133.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ DISNEY +",Bize Bi'Şey Olmaz (2026)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/2120.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ DISNEY +",Red Kit (2026) TR
@@ -12453,9 +12461,11 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1637.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ HBO MAX/BLUTV",The Chair Company (2025)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1658.mp4
 
-# --- Movies | TR/DIZI ~ NETFLIX (DUAL) (512) ---
+# --- Movies | TR/DIZI ~ NETFLIX (DUAL) (513) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ NETFLIX (DUAL)",Jene Nacht (2026) TR
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/2101.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ NETFLIX (DUAL)",Puffin Rock (2015)
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/2135.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ NETFLIX (DUAL)",Virgin River (2019) TR
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/2126.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ NETFLIX (DUAL)",Record of Ragnarok (2021) TR
@@ -22299,4 +22309,4 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/71030.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t8EQllq34VC5mooiJw1vVFOlM4x.jpg" group-title="Movies | TR/FILM ~ YILBASI ÖZEL",O Ses Türkiye  Yilbasi Özel 2025
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/54778.mp4
 
-# Total: 10998
+# Total: 11003
