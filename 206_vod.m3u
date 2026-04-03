@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: 206.212.244.71:8080
-# Generated: 2026-04-03 07:32:55
+# Generated: 2026-04-03 18:47:54
 # Expires: 2026-06-05
 # Family Safe Edition
 # ==============================================
@@ -10190,6 +10190,10 @@ http://206.212.244.71:8080/movie/BRIDGITS@YAHOO.COM/BRIDGITS@2022/182248.mp4
 http://206.212.244.71:8080/movie/BRIDGITS@YAHOO.COM/BRIDGITS@2022/182249.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zecMELPbU5YMQpC81Z8ImaaXuf9.jpg" group-title="Movies | Alien Movie Collection",Alien: Covenant (2017)
 http://206.212.244.71:8080/movie/BRIDGITS@YAHOO.COM/BRIDGITS@2022/182250.mp4
+
+# --- Movies | Anime (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | Anime",Solo Leveling
+http://206.212.244.71:8080/movie/BRIDGITS@YAHOO.COM/BRIDGITS@2022/2355.mp4
 
 # --- Movies | Batman Movies Collection (10) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zzoPxWHnPa0eyfkMLgwbNvdEcVF.jpg" group-title="Movies | Batman Movies Collection",Batman (1966)
@@ -29025,4 +29029,4 @@ http://206.212.244.71:8080/series/BRIDGITS@YAHOO.COM/BRIDGITS@2022/2351
 #EXTINF:-1 tvg-logo="" group-title="Series | All Series",The Wire
 http://206.212.244.71:8080/series/BRIDGITS@YAHOO.COM/BRIDGITS@2022/2354
 
-# Total: 14453
+# Total: 14454

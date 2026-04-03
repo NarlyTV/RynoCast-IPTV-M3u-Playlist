@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: uzay.pro:8080
-# Generated: 2026-04-03 07:38:23
+# Generated: 2026-04-03 18:51:56
 # Expires: 2026-04-13
 # Family Safe Edition
 # ==============================================
@@ -789,7 +789,7 @@ http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/12203.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Animation Serien",(DE-) I'm The Evil Lord Of An Intergalactic Empire!
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/12227.mp4
 
-# --- Movies | (S|DE) Deutsche Serien (1379) ---
+# --- Movies | (S|DE) Deutsche Serien (1380) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) 4 Blocks
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/274.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) American Horror Story
@@ -3548,6 +3548,8 @@ http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/12208.mp4
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/12226.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) Chapelwaite
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/12229.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) Lost
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/12237.mp4
 
 # --- Movies | (V|AL) Filma (3406) ---
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/obYQkGeTciQx3HNz8O78igbJjV6_big.jpg" group-title="Movies | (V|AL) Filma",(AL-) Winner Takes the Cake
@@ -22439,7 +22441,11 @@ http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/635442.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/dh8mS9Zzhplmr0Q80BKw0dibZUS_big.jpg" group-title="Movies | (V|DE) Filme - 2024",(DE-) The Break-Up Club - 2024
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/634880.mp4
 
-# --- Movies | (V|DE) Filme - 2025 (611) ---
+# --- Movies | (V|DE) Filme - 2025 (613) ---
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/q8JfIB2MqKwvKUbbR2m3hHd6CIg_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Im Schatten Des Orangenbaums - 2025
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/680997.mp4
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/ldXXYliUX865ScI2w1plo1vWFnX_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Hysteria - 2025
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/680996.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/pZmnqvWtjr0OgjPKWGDCEbPWzWY_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Dust Bunny - 2025
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/680696.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/oFTpB1gzS02LtrsenTWxOKbsMpM_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) The Mannequin - 2025
@@ -23802,10 +23808,10 @@ http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/657808.mp4
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/654514.mp4
 
 # --- Movies | (V|DE) Filme - 4K (317) ---
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/lE9KpVwgeWHMwgwkNaeH5nEFh20_big.jpg" group-title="Movies | (V|DE) Filme - 4K",(DE-) Avatar: Fire and Ash 4K - 2025
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/680998.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/M7KKeJfhV5AVJO8JCd5Hix0vyH_big.jpg" group-title="Movies | (V|DE) Filme - 4K",(DE-) Spongebob Schwammkopf: Piraten Ahoi! 4K - 2025
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/668493.mkv
-#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/lE9KpVwgeWHMwgwkNaeH5nEFh20_big.jpg" group-title="Movies | (V|DE) Filme - 4K",(DE-) Avatar: Fire And Ash 4K - 2025
-http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/668492.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/bIeHhOqCQysfed98TKjZhRWRc7x_big.jpg" group-title="Movies | (V|DE) Filme - 4K",(DE-) Wake Up Dead Man: A Knives Out Mystery 4K - 2025
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/668491.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/3OBRXbnlhZxMPpfLMLzQwF29IMC_big.jpg" group-title="Movies | (V|DE) Filme - 4K",(DE-) Feueralarm: Die Grube 4K - 2026
@@ -24639,4 +24645,4 @@ http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/248352.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/q5eicHQWsRRRJGm2jb3yQONmLat.jpg" group-title="Movies | (V|DE) IMDb Top 50 Western",(DE-) -50- Der Pferdeflüsterer - 2018
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/248353.mkv
 
-# Total: 12295
+# Total: 12298

@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: squid.game-tv.org:8080
-# Generated: 2026-04-03 07:34:29
+# Generated: 2026-04-03 18:47:46
 # Expires: 2026-04-17
 # Family Safe Edition
 # ==============================================
@@ -19807,6 +19807,10 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1075.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | The Terminal List Dark Wolf",The Terminal List: Dark Wolf (2025)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1058.mp4
 
+# --- Movies | The Terror (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | The Terror",The Terror (2018)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1246.mp4
+
 # --- Movies | The Thorn Birds (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | The Thorn Birds",The Thorn Birds (1983)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1037.mp4
@@ -20431,4 +20435,4 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/383.mp4
 #EXTINF:-1 tvg-logo="" group-title="Series | A Series of Unfortunate Events",A Series of Unfortunate Events
 http://squid.game-tv.org:8080/series/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/276
 
-# Total: 8941
+# Total: 8942

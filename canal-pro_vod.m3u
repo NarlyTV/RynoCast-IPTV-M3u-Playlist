@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: canal-pro.xyz:8080
-# Generated: 2026-04-03 07:40:59
+# Generated: 2026-04-03 18:42:55
 # Expires: 2026-05-11
 # Family Safe Edition
 # ==============================================
@@ -12507,7 +12507,9 @@ http://canal-pro.xyz:8080/movie/54923073/b48ygdD8d/64947.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pAW0yOXtTsWOYx2Syc5Lxnlomkn.jpg" group-title="Movies | → VOD ESTRENOS 2023 ←",El Rey Mono (2023)
 http://canal-pro.xyz:8080/movie/54923073/b48ygdD8d/64948.mkv
 
-# --- Movies | → VOD ESTRENOS 2024 ← (411) ---
+# --- Movies | → VOD ESTRENOS 2024 ← (412) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zGrVrokVCP6nvSnJeI905aw1nWz.jpg" group-title="Movies | → VOD ESTRENOS 2024 ←",The Gates
+http://canal-pro.xyz:8080/movie/54923073/b48ygdD8d/280662.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kK0ZgJINxy50AkVbCsTRIX0DvbZ.jpg" group-title="Movies | → VOD ESTRENOS 2024 ←",Velocidad Total (2024)
 http://canal-pro.xyz:8080/movie/54923073/b48ygdD8d/277773.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jivUhECegXI3OYtPVflWoIDtENt.jpg" group-title="Movies | → VOD ESTRENOS 2024 ←",Nosferatu (2024)
@@ -13331,7 +13333,9 @@ http://canal-pro.xyz:8080/movie/54923073/b48ygdD8d/75434.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9RrMfaCYdsdNdRNUAR3TY0DvNV2.jpg" group-title="Movies | → VOD ESTRENOS 2024 ←",Bosco (2024)
 http://canal-pro.xyz:8080/movie/54923073/b48ygdD8d/75435.mkv
 
-# --- Movies | → VOD ESTRENOS 2025 ← (287) ---
+# --- Movies | → VOD ESTRENOS 2025 ← (288) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x8ygUQ4YNd8iy0oEusS1bHI08A6.jpg" group-title="Movies | → VOD ESTRENOS 2025 ←",La Empleada (2025)
+http://canal-pro.xyz:8080/movie/54923073/b48ygdD8d/280661.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1m22GgaSwlVg3ePh6Y25BquLXq4.jpg" group-title="Movies | → VOD ESTRENOS 2025 ←",Familia en Renta (2025)
 http://canal-pro.xyz:8080/movie/54923073/b48ygdD8d/280629.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w7wsPyClttMEpQhAskpfMiaCSin.jpg" group-title="Movies | → VOD ESTRENOS 2025 ←",Terror En Shelby Oaks (2025)
@@ -18749,7 +18753,7 @@ http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2547
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DOCUMENTALES ←",El Asesino de TikTok
 http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2548
 
-# --- Series | → SERIES DRAMA ← (303) ---
+# --- Series | → SERIES DRAMA ← (304) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DRAMA ←",4 Blocks
 http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/7
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DRAMA ←",Por trece razones
@@ -19356,6 +19360,8 @@ http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2555
 http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2558
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DRAMA ←",Amor Animal
 http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2559
+#EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DRAMA ←",La Pasion
+http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2565
 
 # --- Series | → SERIES INFANTILES ← (44) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES INFANTILES ←",¡La serie de Cuphead!
@@ -19879,4 +19885,4 @@ http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2345
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES TERROR-THRILLER-SUSPENSO ←",It: Bienvenidos a Derry
 http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2492
 
-# Total: 9863
+# Total: 9866
