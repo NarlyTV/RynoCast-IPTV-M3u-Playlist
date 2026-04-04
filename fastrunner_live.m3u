@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: fastrunner.live:8080
-# Generated: 2026-04-04 07:27:42
+# Generated: 2026-04-04 18:42:08
 # Expires: 2026-06-11
 # Family Safe Edition
 # ==============================================
@@ -367,7 +367,11 @@ http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/105344.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Netherland",ESPN Play 11 FHD NL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/105343.m3u8
 
-# --- Poland (397) ---
+# --- Poland (399) ---
+#EXTINF:-1 tvg-logo="" group-title="Poland",Eurosport 4 FHD PL
+http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/134492.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Poland",Eurosport 3 FHD PL
+http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/134491.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Poland",##########   Poland   ##########
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/2531.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Poland",CTV FHD PL
@@ -1163,4 +1167,4 @@ http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/124688.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Poland",13 TV FHD PL
 http://fastrunner.live:8080/live/MartaZbicinskaMAMA/QqEUyJx1pn/116683.m3u8
 
-# Total: 576
+# Total: 578
