@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: platinumz.xyz:8080
-# Generated: 2026-04-03 18:48:07
+# Generated: 2026-04-04 07:32:17
 # Expires: 2026-12-23
 # Family Safe Edition
 # ==============================================
@@ -1311,7 +1311,7 @@ http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/860045.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/skysportaustria7hd.png" group-title="DE ✨ CHAMPIONS LEAGUE",SKY SPORT AUSTRIA 8 HD
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/860044.m3u8
 
-# --- DE ✨ DAZN SENDER (95) ---
+# --- DE ✨ DAZN SENDER (115) ---
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Italy/dazn1.png" group-title="DE ✨ DAZN SENDER",DAZN SPORT 1 UHD
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/597440.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Italy/dazn1.png" group-title="DE ✨ DAZN SENDER",DAZN SPORT 1 QHD
@@ -1344,6 +1344,46 @@ http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/993.m3u8
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/846129.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Italy/dazn2.png" group-title="DE ✨ DAZN SENDER",DAZN SPORT 2 SD
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/994.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/daznevent.gif" group-title="DE ✨ DAZN SENDER",DAZN BUNDESLIGA 1
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/905929.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/daznevent.gif" group-title="DE ✨ DAZN SENDER",DAZN BUNDESLIGA 2
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/905928.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/daznevent.gif" group-title="DE ✨ DAZN SENDER",DAZN BUNDESLIGA 3
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/905927.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/daznevent.gif" group-title="DE ✨ DAZN SENDER",DAZN BUNDESLIGA 4
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/905926.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/daznevent.gif" group-title="DE ✨ DAZN SENDER",DAZN BUNDESLIGA 5
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/905925.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/daznevent.gif" group-title="DE ✨ DAZN SENDER",DAZN LA LIGA 1
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/905924.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/daznevent.gif" group-title="DE ✨ DAZN SENDER",DAZN LA LIGA 2
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/905923.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/daznevent.gif" group-title="DE ✨ DAZN SENDER",DAZN LA LIGA 3
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/905922.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/daznevent.gif" group-title="DE ✨ DAZN SENDER",DAZN LA LIGA 4
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/905921.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/daznevent.gif" group-title="DE ✨ DAZN SENDER",DAZN LA LIGA 5
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/905920.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/daznevent.gif" group-title="DE ✨ DAZN SENDER",DAZN SERIE A 1
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/905919.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/daznevent.gif" group-title="DE ✨ DAZN SENDER",DAZN SERIE A 2
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/905918.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/daznevent.gif" group-title="DE ✨ DAZN SENDER",DAZN SERIE A 3
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/905917.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/daznevent.gif" group-title="DE ✨ DAZN SENDER",DAZN SERIE A 4
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/905916.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/daznevent.gif" group-title="DE ✨ DAZN SENDER",DAZN SERIE A 5
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/905915.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/daznevent.gif" group-title="DE ✨ DAZN SENDER",DAZN LIGUE1 1
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/905914.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/daznevent.gif" group-title="DE ✨ DAZN SENDER",DAZN LIGUE1 2
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/905913.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/daznevent.gif" group-title="DE ✨ DAZN SENDER",DAZN LIGUE1 3
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/905912.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/daznevent.gif" group-title="DE ✨ DAZN SENDER",DAZN LIGUE1 4
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/905911.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/germany/daznevent.gif" group-title="DE ✨ DAZN SENDER",DAZN LIGUE1 5
+http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/905910.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/Eurosport_1.png" group-title="DE ✨ DAZN SENDER",DAZN EUROSPORT 1
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/997.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/Eurosport_1.png" group-title="DE ✨ DAZN SENDER",DAZN EUROSPORT 1
@@ -4725,4 +4765,4 @@ http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/809948.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/ArenaSport_6.png" group-title="VIP ✨ SPORTS EX-YU",BH⚜️ ARENA SPORT 6
 http://platinumz.xyz:8080/live/hafenrichter/HtYmFsA6Yw/809947.m3u8
 
-# Total: 2313
+# Total: 2333

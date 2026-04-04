@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: solution62000.mine.nu:8000
-# Generated: 2026-04-03 18:47:44
+# Generated: 2026-04-04 07:24:14
 # Expires: 2026-12-19
 # Family Safe Edition
 # ==============================================
@@ -1107,7 +1107,9 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/7300.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wkUCQaXIc9qkqplDJZIuxRHLQNq.jpg" group-title="Movies | FILMS TURK",Malazgirt 1071 - 2022
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/5531.mp4
 
-# --- Movies | Films (1527) ---
+# --- Movies | Films (1528) ---
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7ElOux95K8mfK1kuxK6K4A8MulM.jpg" group-title="Movies | Films",The Last GunFight (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/26120.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/j6Y7vqULt8tRlXVFXHK5aj3nCo4.jpg" group-title="Movies | Films",Scream 7 (2026)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/26089.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/uqNr7Ju19L5zasdC0tYrSn9pfwF.jpg" group-title="Movies | Films",Les Baronnes (2026)
@@ -4724,7 +4726,7 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/5579.mkv
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/11417.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aMRRaX48RpSGp7RJxwkIJUndtdJ.jpg" group-title="Movies | Films Cultes",Le Gendarme et les Gendarmettes (1982)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/10061.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r1L4jhyL240pDpKVfrSvhjKPvQH.jpg" group-title="Movies | Films Cultes",Le Grand Stan - 2007
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/eM0yeslbOora00eQSGce0BV66wO.jpg" group-title="Movies | Films Cultes",Le Grand Stan (2007)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1130.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/44QEkafepQe753YDu3Z1JtWYQJE.jpg" group-title="Movies | Films Cultes",Le Grand Bleu - 1988
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/818.mkv
@@ -5083,7 +5085,9 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/691.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | MARVEL STUDIOS",Ironheart
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/773.mp4
 
-# --- Movies | NETFLIX (456) ---
+# --- Movies | NETFLIX (457) ---
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/f7sCSLEPRfV2fWQ0RYOtHhnHXuG.jpg" group-title="Movies | NETFLIX",Humint (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/26119.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hTfnGqcvnS8WL8hSD7oifiV3buK.jpg" group-title="Movies | NETFLIX",Le Dernier Géant (2026)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/26087.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/tlgGaC3OZfs6F9Kcg4as6StvJFG.jpg" group-title="Movies | NETFLIX",53 domingos (2026)
@@ -7755,4 +7759,4 @@ http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1090
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Lagos Police Criminelle
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1092
 
-# Total: 3844
+# Total: 3846

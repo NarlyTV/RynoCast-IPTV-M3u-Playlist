@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: xxip25.top:8080
-# Generated: 2026-04-03 18:54:33
+# Generated: 2026-04-04 07:24:08
 # Expires: 2026-06-09
 # Family Safe Edition
 # ==============================================
@@ -10191,9 +10191,19 @@ http://xxip25.top:8080/movie/1yNyea/123956/182249.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zecMELPbU5YMQpC81Z8ImaaXuf9.jpg" group-title="Movies | Alien Movie Collection",Alien: Covenant (2017)
 http://xxip25.top:8080/movie/1yNyea/123956/182250.mp4
 
-# --- Movies | Anime (1) ---
+# --- Movies | Anime (6) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | Anime",Dragon Ball Super
+http://xxip25.top:8080/movie/1yNyea/123956/1181.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Anime",Dragon Ball Z Kai
+http://xxip25.top:8080/movie/1yNyea/123956/2301.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Anime",Dragon Ball DAIMA
+http://xxip25.top:8080/movie/1yNyea/123956/2304.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Anime",Solo Leveling
 http://xxip25.top:8080/movie/1yNyea/123956/2355.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Anime",Cowboy Bebop
+http://xxip25.top:8080/movie/1yNyea/123956/2356.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Anime",The Vision of Escaflowne
+http://xxip25.top:8080/movie/1yNyea/123956/2357.mp4
 
 # --- Movies | Batman Movies Collection (10) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zzoPxWHnPa0eyfkMLgwbNvdEcVF.jpg" group-title="Movies | Batman Movies Collection",Batman (1966)
@@ -28169,7 +28179,7 @@ http://xxip25.top:8080/series/1yNyea/123956/2318
 #EXTINF:-1 tvg-logo="" group-title="Series | 2023 TV Series",Funny Woman
 http://xxip25.top:8080/series/1yNyea/123956/2324
 
-# --- Series | 2024 TV Series (68) ---
+# --- Series | 2024 TV Series (67) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | 2024 TV Series",Mr. & Mrs. Smith
 http://xxip25.top:8080/series/1yNyea/123956/2231
 #EXTINF:-1 tvg-logo="" group-title="Series | 2024 TV Series",Criminal Record
@@ -28276,8 +28286,6 @@ http://xxip25.top:8080/series/1yNyea/123956/2300
 http://xxip25.top:8080/series/1yNyea/123956/2302
 #EXTINF:-1 tvg-logo="" group-title="Series | 2024 TV Series",Disclaimer
 http://xxip25.top:8080/series/1yNyea/123956/2303
-#EXTINF:-1 tvg-logo="" group-title="Series | 2024 TV Series",Dragon Ball DAIMA
-http://xxip25.top:8080/series/1yNyea/123956/2304
 #EXTINF:-1 tvg-logo="" group-title="Series | 2024 TV Series",Landman
 http://xxip25.top:8080/series/1yNyea/123956/2305
 #EXTINF:-1 tvg-logo="" group-title="Series | 2024 TV Series",Senna
@@ -28359,7 +28367,7 @@ http://xxip25.top:8080/series/1yNyea/123956/2349
 #EXTINF:-1 tvg-logo="" group-title="Series | 2026 TV Series",Memory of a Killer
 http://xxip25.top:8080/series/1yNyea/123956/2353
 
-# --- Series | All Series (334) ---
+# --- Series | All Series (332) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | All Series",Black Mirror
 http://xxip25.top:8080/series/1yNyea/123956/331
 #EXTINF:-1 tvg-logo="" group-title="Series | All Series",Hightown
@@ -28434,8 +28442,6 @@ http://xxip25.top:8080/series/1yNyea/123956/1164
 http://xxip25.top:8080/series/1yNyea/123956/1169
 #EXTINF:-1 tvg-logo="" group-title="Series | All Series",Claws
 http://xxip25.top:8080/series/1yNyea/123956/1174
-#EXTINF:-1 tvg-logo="" group-title="Series | All Series",Dragon Ball Super
-http://xxip25.top:8080/series/1yNyea/123956/1181
 #EXTINF:-1 tvg-logo="" group-title="Series | All Series",Game of Thrones
 http://xxip25.top:8080/series/1yNyea/123956/1182
 #EXTINF:-1 tvg-logo="" group-title="Series | All Series",Games People Play
@@ -29014,8 +29020,6 @@ http://xxip25.top:8080/series/1yNyea/123956/2244
 http://xxip25.top:8080/series/1yNyea/123956/2274
 #EXTINF:-1 tvg-logo="" group-title="Series | All Series",City on a Hill
 http://xxip25.top:8080/series/1yNyea/123956/2294
-#EXTINF:-1 tvg-logo="" group-title="Series | All Series",Dragon Ball Z Kai
-http://xxip25.top:8080/series/1yNyea/123956/2301
 #EXTINF:-1 tvg-logo="" group-title="Series | All Series",Lioness
 http://xxip25.top:8080/series/1yNyea/123956/2306
 #EXTINF:-1 tvg-logo="" group-title="Series | All Series",Black Sails
@@ -29029,4 +29033,4 @@ http://xxip25.top:8080/series/1yNyea/123956/2351
 #EXTINF:-1 tvg-logo="" group-title="Series | All Series",The Wire
 http://xxip25.top:8080/series/1yNyea/123956/2354
 
-# Total: 14454
+# Total: 14456

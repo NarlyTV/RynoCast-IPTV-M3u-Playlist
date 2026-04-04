@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: fastopen.live:8080
-# Generated: 2026-04-03 18:56:58
+# Generated: 2026-04-04 07:33:31
 # Expires: 2026-12-09
 # Family Safe Edition
 # ==============================================
@@ -19747,7 +19747,11 @@ http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/80950.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Philippines",GMA News PH
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/80951.m3u8
 
-# --- Poland (397) ---
+# --- Poland (399) ---
+#EXTINF:-1 tvg-logo="" group-title="Poland",Eurosport 4 FHD PL
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/134492.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Poland",Eurosport 3 FHD PL
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/134491.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Poland",##########   Poland   ##########
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/2531.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Poland",CTV FHD PL
@@ -31903,4 +31907,4 @@ http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/104838.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ex-Yu VIP",K1 HD ex-YU
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/104749.m3u8
 
-# Total: 15845
+# Total: 15847

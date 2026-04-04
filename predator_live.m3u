@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: predator.digital:8080
-# Generated: 2026-04-03 07:29:27
+# Generated: 2026-04-04 07:32:43
 # Expires: 2026-08-08
 # Family Safe Edition
 # ==============================================
@@ -3883,7 +3883,7 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/81961.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Portugal",PT: SPORTING TV
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/81960.m3u8
 
-# --- Shqiptare (450) ---
+# --- Shqiptare (451) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Flag_of_Albania.svg/1280px-Flag_of_Albania.svg.png" group-title="Shqiptare",====Shqiptare====
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/13104.m3u8
 #EXTINF:-1 tvg-logo="https://nimitv.com/assets/img/channels-new/240/240-2.png" group-title="Shqiptare",AL: RTK 1 ⁴ᴷ
@@ -4044,6 +4044,8 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/2731.m3u8
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/832.m3u8
 #EXTINF:-1 tvg-logo="https://tring.al/wp-content/uploads/2024/06/fax-news.png" group-title="Shqiptare",AL: Fax News
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/2558.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Shqiptare",AL: Ntv
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85335.m3u8
 #EXTINF:-1 tvg-logo="https://tring.al/wp-content/uploads/2024/06/cna-1.png" group-title="Shqiptare",AL: Cna Tv ᴴᴰ
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/75434.m3u8
 #EXTINF:-1 tvg-logo="https://nimitv.com/assets/img/channels-new/240/240-22.png" group-title="Shqiptare",AL: Star Plus
@@ -9205,4 +9207,4 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/13200.m3u8
 #EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: Real Madrid Tv
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/62225.m3u8
 
-# Total: 4572
+# Total: 4573
