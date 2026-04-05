@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: uzay.pro:8080
-# Generated: 2026-04-05 07:49:08
+# Generated: 2026-04-05 18:53:22
 # Expires: 2026-04-13
 # Family Safe Edition
 # ==============================================
@@ -241,7 +241,7 @@ http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/8625.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|AL) Shqiptare Serial",(AL-) Mirembrëma Yje me Arbana Osmani
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/9299.mp4
 
-# --- Movies | (S|DE) Animation Serien (273) ---
+# --- Movies | (S|DE) Animation Serien (274) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Animation Serien",(DE-) BoJack Horseman
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/629.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Animation Serien",(DE-) Paw Patrol
@@ -788,8 +788,10 @@ http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/12159.mp4
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/12203.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Animation Serien",(DE-) I'm The Evil Lord Of An Intergalactic Empire!
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/12227.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Animation Serien",(DE-) Daemons Of The Shadow Realm
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/12245.mp4
 
-# --- Movies | (S|DE) Deutsche Serien (1380) ---
+# --- Movies | (S|DE) Deutsche Serien (1381) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) 4 Blocks
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/274.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) American Horror Story
@@ -3550,6 +3552,8 @@ http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/12226.mp4
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/12229.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) Lost
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/12237.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | (S|DE) Deutsche Serien",(DE-) Privilèges
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/12244.mp4
 
 # --- Movies | (V|AL) Filma (3419) ---
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/8FsWpY1T14PlkIzXyDPT53paLfO_big.jpg" group-title="Movies | (V|AL) Filma",(AL-) Woman to Woman
@@ -11119,7 +11123,13 @@ http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/444058.mp4
 #EXTINF:-1 tvg-logo="no_cover" group-title="Movies | (V|AL) Shqip",(AL-) ALBANIAN Film SHQIP 2022HD MITROVICA English Subtitles
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/444057.mp4
 
-# --- Movies | (V|DE) Animation - Kinderfilme (626) ---
+# --- Movies | (V|DE) Animation - Kinderfilme (629) ---
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/s1JXX9JJHjZShSJxJJUkQAS62sS_big.jpg" group-title="Movies | (V|DE) Animation - Kinderfilme",(DE-) Mulan II - 2004
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/681305.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/rZAkB9ayPVgHu2Q9dVgNz2QaI5p_big.jpg" group-title="Movies | (V|DE) Animation - Kinderfilme",(DE-) Mulan - 1998
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/681304.mkv
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/vNnxyiXN9kAAQrMpZlJgiaPNYBk_big.jpg" group-title="Movies | (V|DE) Animation - Kinderfilme",(DE-) Coraline - 2009
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/681303.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/nP3oMYwggLjnv5v1oQSmUso6yTd_big.jpg" group-title="Movies | (V|DE) Animation - Kinderfilme",(DE-) Hoppers - 2026
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/677558.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/gGPGkuq8chdbOdiuf1ipkXiRQL1_big.jpg" group-title="Movies | (V|DE) Animation - Kinderfilme",(DE-) G.O.A.T.: Bock Auf Große Sprünge - 2026
@@ -12607,7 +12617,7 @@ http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/255929.mkv
 
 # --- Movies | (V|DE) Filme (1266) ---
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/3t7HLp3R314fOV2mcOkgesuTe1i_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) Left Behind - 2014
-http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/681224.mp4
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/681224.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/sUldADqpv2HITwngsM8RKqn15zC_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) Er Ist Wieder Da - 2015
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/680605.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/zNUxfWLFGfM7IC7LpxZqWRCnVMK_big.jpg" group-title="Movies | (V|DE) Filme",(DE-) Dance With Me - 1998
@@ -23699,7 +23709,9 @@ http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/647453.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/1BIOKfuEOukw2OoKZnAsPuW17kD_big.jpg" group-title="Movies | (V|DE) Filme - 2025",(DE-) Julian Assange: Mundtot Gemacht - 2025
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/647451.mp4
 
-# --- Movies | (V|DE) Filme - 2026 (69) ---
+# --- Movies | (V|DE) Filme - 2026 (70) ---
+#EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/2p8VNm35LAlB50wpHjONY5xFRBD_big.jpg" group-title="Movies | (V|DE) Filme - 2026",(DE-) The Moment - 2026
+http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/681333.mp4
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/zoa2XatA43nKhF1kx8nVcVyH1M0_big.jpg" group-title="Movies | (V|DE) Filme - 2026",(DE-) The Truth And Tragedy Of Moriah Wilson - 2026
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/681259.mkv
 #EXTINF:-1 tvg-logo="http://mposter.cms-s.com:8080/images/_big.jpg" group-title="Movies | (V|DE) Filme - 2026",(DE-) Emanuelle: Female Assassin - 2026
@@ -24675,4 +24687,4 @@ http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/248352.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/q5eicHQWsRRRJGm2jb3yQONmLat.jpg" group-title="Movies | (V|DE) IMDb Top 50 Western",(DE-) -50- Der Pferdeflüsterer - 2018
 http://uzay.pro:8080/movie/nekimahmuhti/kXFVECGoUE/248353.mkv
 
-# Total: 12313
+# Total: 12319

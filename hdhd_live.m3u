@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: hdhd.tk:80
-# Generated: 2026-04-05 07:49:36
+# Generated: 2026-04-05 18:48:53
 # Expires: 2027-10-14
 # Family Safe Edition
 # ==============================================
@@ -4755,7 +4755,7 @@ http://hdhd.tk:80/live/Amanda1/Frechette1/347285.m3u8
 #EXTINF:-1 tvg-logo="https://logo.iptveditor.com/ballysportsdetroit.png" group-title="USA Bally Sports",US FanDuel Sports Wisconsin Plus
 http://hdhd.tk:80/live/Amanda1/Frechette1/347286.m3u8
 
-# --- USA CBS (Local) (168) ---
+# --- USA CBS (Local) (169) ---
 #EXTINF:-1 tvg-logo="https://www.tv-address.com/wp-content/uploads/2021/03/wsee_cbs35_erie.jpg" group-title="USA CBS (Local)",US CBS 35 (WSEE) Erie
 http://hdhd.tk:80/live/Amanda1/Frechette1/20657.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA CBS (Local)",USA: CBS 3 OMAHA (KMTV)
@@ -5092,6 +5092,8 @@ http://hdhd.tk:80/live/Amanda1/Frechette1/395030.m3u8
 http://hdhd.tk:80/live/Amanda1/Frechette1/811866.m3u8
 #EXTINF:-1 tvg-logo="https://logo.m3uassets.com/cbs.png" group-title="USA CBS (Local)",US CBS 23 (WIFR-LD) Rockford
 http://hdhd.tk:80/live/Amanda1/Frechette1/822224.m3u8
+#EXTINF:-1 tvg-logo="" group-title="USA CBS (Local)",US CBS 7 (WBBJ-DT3) Jackson
+http://hdhd.tk:80/live/Amanda1/Frechette1/855785.m3u8
 
 # --- USA CW (Local) (66) ---
 #EXTINF:-1 tvg-logo="" group-title="USA CW (Local)",US CW 57 (WPSG) Philadelphia
@@ -5617,7 +5619,7 @@ http://hdhd.tk:80/live/Amanda1/Frechette1/42681.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA FLO RACING",Flo Racing 50 :
 http://hdhd.tk:80/live/Amanda1/Frechette1/42682.m3u8
 
-# --- USA FOX (Local) (110) ---
+# --- USA FOX (Local) (111) ---
 #EXTINF:-1 tvg-logo="https://www.tv-address.com/wp-content/uploads/2021/03/wfxp_fox66_erie.jpg" group-title="USA FOX (Local)",US FOX 66 (WFXP) Erie
 http://hdhd.tk:80/live/Amanda1/Frechette1/20658.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/us/KPTM.us.png" group-title="USA FOX (Local)",USA: FOX 42 OMAHA (KPTM)
@@ -5838,6 +5840,8 @@ http://hdhd.tk:80/live/Amanda1/Frechette1/390173.m3u8
 http://hdhd.tk:80/live/Amanda1/Frechette1/811864.m3u8
 #EXTINF:-1 tvg-logo="https://logo.m3uassets.com/fox.png" group-title="USA FOX (Local)",US FOX 39 (WQRF) Rockford
 http://hdhd.tk:80/live/Amanda1/Frechette1/822225.m3u8
+#EXTINF:-1 tvg-logo="" group-title="USA FOX (Local)",US FOX 16 (WJKT) Jackson
+http://hdhd.tk:80/live/Amanda1/Frechette1/855786.m3u8
 
 # --- USA Kids (12) ---
 #EXTINF:-1 tvg-logo="https://static.epg.best/us/Boomerang.us.png" group-title="USA Kids",US Boomerang
@@ -7969,4 +7973,4 @@ http://hdhd.tk:80/live/Amanda1/Frechette1/330321.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Vietnam",VN FILM24H
 http://hdhd.tk:80/live/Amanda1/Frechette1/330322.m3u8
 
-# Total: 3887
+# Total: 3889

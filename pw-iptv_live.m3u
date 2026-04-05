@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: pw-iptv.online:8080
-# Generated: 2026-04-05 07:55:52
+# Generated: 2026-04-05 18:47:58
 # Expires: 2026-09-06
 # Family Safe Edition
 # ==============================================
@@ -3477,7 +3477,7 @@ http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/177676.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/149.jpg" group-title="AR| IRAQ +6H USA ⎋",AR: AL GHAD AL ARABY 4K +6H
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/177646.m3u8
 
-# --- AR| IRAQ 4K ▶ العراق (51) ---
+# --- AR| IRAQ 4K ▶ العراق (50) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Animated-Flag-Iraq_%282008-present%29.gif" group-title="AR| IRAQ 4K ▶ العراق",###### IRAQ TV ######
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/251810.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/130.png?ver=47604" group-title="AR| IRAQ 4K ▶ العراق",AR: Iraq TV News 4K
@@ -3578,8 +3578,6 @@ http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/360925.m3u8
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/636075.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10009.png?ver=39266" group-title="AR| IRAQ 4K ▶ العراق",AR: Fursan Al Iraq
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/498894.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14628.png?57658" group-title="AR| IRAQ 4K ▶ العراق",AR: ALGHARBIA NOW 4K
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1615655.m3u8
 
 # --- AR| IRAQ ISLAMIC 4K ▶ العراق اسلامي (37) ---
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/359.jpg" group-title="AR| IRAQ ISLAMIC 4K ▶ العراق اسلامي",AR: Al Naeem HD
@@ -9721,14 +9719,10 @@ http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/498623.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2325.png?42615" group-title="CA| CANADA ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: Z TELE
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/498638.m3u8
 
-# --- CA| TSN SPORT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ (104) ---
+# --- CA| TSN SPORT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ (54) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Animated-Flag-Canada.gif" group-title="CA| TSN SPORT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",##### TSN SPORT ᴿᴬᵂ ⁶⁰ᶠᵖˢ #####
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1239051.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11142.png?44132" group-title="CA| TSN SPORT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: TSN 1 ᴿᴬᵂ
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1239050.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11142.png?44132" group-title="CA| TSN SPORT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: TSN 1 ⁽ᴮᴷ⁾ ᴿᴬᵂ
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1239049.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11142.png?44132" group-title="CA| TSN SPORT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: TSN 1 ⁽ᴮᴷ⁾ ᴿᴬᵂ
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1239048.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11142.png?44132" group-title="CA| TSN SPORT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: TSN 1 ⁽ᴮᴷ⁾ ᴿᴬᵂ
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1239047.m3u8
@@ -9736,49 +9730,23 @@ http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1239047.m3u8
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1239046.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11142.png?44132" group-title="CA| TSN SPORT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: TSN 1 ⁽ᴮᴷ⁾ ᴿᴬᵂ
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1239045.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11142.png?44132" group-title="CA| TSN SPORT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: TSN 1 ⁽ᴮᴷ⁾ ᴿᴬᵂ
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1239044.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11142.png?44132" group-title="CA| TSN SPORT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: TSN 1 ⁽ᴮᴷ⁾ ᴿᴬᵂ
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1239043.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6587.png?99081" group-title="CA| TSN SPORT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: TSN 2 ᴿᴬᵂ
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1239042.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6587.png?99081" group-title="CA| TSN SPORT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: TSN 2 ⁽ᴮᴷ⁾ ᴿᴬᵂ
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1239041.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6587.png?99081" group-title="CA| TSN SPORT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: TSN 2 ⁽ᴮᴷ⁾ ᴿᴬᵂ
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1239040.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6587.png?99081" group-title="CA| TSN SPORT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: TSN 2 ⁽ᴮᴷ⁾ ᴿᴬᵂ
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1239039.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6587.png?99081" group-title="CA| TSN SPORT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: TSN 2 ⁽ᴮᴷ⁾ ᴿᴬᵂ
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1239038.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6587.png?99081" group-title="CA| TSN SPORT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: TSN 2 ⁽ᴮᴷ⁾ ᴿᴬᵂ
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1239037.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6587.png?99081" group-title="CA| TSN SPORT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: TSN 2 ⁽ᴮᴷ⁾ ᴿᴬᵂ
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1239036.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6587.png?99081" group-title="CA| TSN SPORT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: TSN 2 ⁽ᴮᴷ⁾ ᴿᴬᵂ
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1239035.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11146.png?59759" group-title="CA| TSN SPORT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: TSN 3 ᴿᴬᵂ
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1239034.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11146.png?59759" group-title="CA| TSN SPORT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: TSN 3 ⁽ᴮᴷ⁾ ᴿᴬᵂ
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1239033.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11146.png?59759" group-title="CA| TSN SPORT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: TSN 3 ⁽ᴮᴷ⁾ ᴿᴬᵂ
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1239032.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11146.png?59759" group-title="CA| TSN SPORT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: TSN 3 ⁽ᴮᴷ⁾ ᴿᴬᵂ
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1239031.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11146.png?59759" group-title="CA| TSN SPORT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: TSN 3 ⁽ᴮᴷ⁾ ᴿᴬᵂ
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1239030.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11146.png?59759" group-title="CA| TSN SPORT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: TSN 3 ⁽ᴮᴷ⁾ ᴿᴬᵂ
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1239029.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11146.png?59759" group-title="CA| TSN SPORT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: TSN 3 ⁽ᴮᴷ⁾ ᴿᴬᵂ
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1239028.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11146.png?59759" group-title="CA| TSN SPORT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: TSN 3 ⁽ᴮᴷ⁾ ᴿᴬᵂ
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1239027.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1889.png?ver=47267" group-title="CA| TSN SPORT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: TSN 4 ᴿᴬᵂ
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1239026.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1889.png?ver=47267" group-title="CA| TSN SPORT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: TSN 4 ⁽ᴮᴷ⁾ ᴿᴬᵂ
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1239025.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1889.png?ver=47267" group-title="CA| TSN SPORT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: TSN 4 ⁽ᴮᴷ⁾ ᴿᴬᵂ
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1239024.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1889.png?ver=47267" group-title="CA| TSN SPORT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: TSN 4 ⁽ᴮᴷ⁾ ᴿᴬᵂ
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1239023.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1889.png?ver=47267" group-title="CA| TSN SPORT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: TSN 4 ⁽ᴮᴷ⁾ ᴿᴬᵂ
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1239022.m3u8
@@ -9786,17 +9754,7 @@ http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1239022.m3u8
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1239021.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1889.png?ver=47267" group-title="CA| TSN SPORT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: TSN 4 ⁽ᴮᴷ⁾ ᴿᴬᵂ
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1239020.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1889.png?ver=47267" group-title="CA| TSN SPORT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: TSN 4 ⁽ᴮᴷ⁾ ᴿᴬᵂ
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1239019.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1889.png?ver=47267" group-title="CA| TSN SPORT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: TSN 4 ⁽ᴮᴷ⁾ ᴿᴬᵂ
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1239018.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1966.png?78624" group-title="CA| TSN SPORT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: TSN 5 ᴿᴬᵂ
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1239017.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1966.png?78624" group-title="CA| TSN SPORT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: TSN 5 ⁽ᴮᴷ⁾ ᴿᴬᵂ
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1239016.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1966.png?78624" group-title="CA| TSN SPORT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: TSN 5 ⁽ᴮᴷ⁾ ᴿᴬᵂ
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1239015.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1966.png?78624" group-title="CA| TSN SPORT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: TSN 5 ⁽ᴮᴷ⁾ ᴿᴬᵂ
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1239014.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1966.png?78624" group-title="CA| TSN SPORT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: TSN 5 ⁽ᴮᴷ⁾ ᴿᴬᵂ
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1239013.m3u8
@@ -9805,28 +9763,16 @@ http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1239012.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1966.png?78624" group-title="CA| TSN SPORT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: TSN 5 ⁽ᴮᴷ⁾ ᴿᴬᵂ
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1239011.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1966.png?78624" group-title="CA| TSN SPORT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: TSN 5 ⁽ᴮᴷ⁾ ᴿᴬᵂ
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1239010.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1966.png?78624" group-title="CA| TSN SPORT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: TSN 5 ⁽ᴮᴷ⁾ ᴿᴬᵂ
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1239009.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6113.png?18474" group-title="CA| TSN SPORT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: SPORTSN ET NEWS ᴿᴬᵂ
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1239008.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9726.png?42580" group-title="CA| TSN SPORT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: SPORTSN ET 360 ᴿᴬᵂ
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1239007.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9726.png?42580" group-title="CA| TSN SPORT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: SPORTSN ET 360 ⁽ᴮᴷ⁾ ᴿᴬᵂ
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1239006.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9726.png?42580" group-title="CA| TSN SPORT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: SPORTSN ET 360 ⁽ᴮᴷ⁾ ᴿᴬᵂ
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1239005.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9726.png?42580" group-title="CA| TSN SPORT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: SPORTSN ET 360 ⁽ᴮᴷ⁾ ᴿᴬᵂ
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1239004.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9726.png?42580" group-title="CA| TSN SPORT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: SPORTSN ET 360 ⁽ᴮᴷ⁾ ᴿᴬᵂ
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1239003.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9726.png?42580" group-title="CA| TSN SPORT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: SPORTSN ET 360 ⁽ᴮᴷ⁾ ᴿᴬᵂ
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1239002.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9726.png?42580" group-title="CA| TSN SPORT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: SPORTSN ET 360 ⁽ᴮᴷ⁾ ᴿᴬᵂ
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1239001.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9726.png?42580" group-title="CA| TSN SPORT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: SPORTSN ET EAST ᴿᴬᵂ
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1239000.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9726.png?42580" group-title="CA| TSN SPORT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: SPORTSN ET EAST ⁽ᴮᴷ⁾ ᴿᴬᵂ
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1238999.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9726.png?42580" group-title="CA| TSN SPORT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: SPORTSN ET EAST ⁽ᴮᴷ⁾ ᴿᴬᵂ
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1238998.m3u8
@@ -9835,28 +9781,16 @@ http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1238997.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9726.png?42580" group-title="CA| TSN SPORT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: SPORTSN ET EAST ⁽ᴮᴷ⁾ ᴿᴬᵂ
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1238996.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9726.png?42580" group-title="CA| TSN SPORT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: SPORTSN ET EAST ⁽ᴮᴷ⁾ ᴿᴬᵂ
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1238995.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9726.png?42580" group-title="CA| TSN SPORT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: SPORTSN ET EAST ⁽ᴮᴷ⁾ ᴿᴬᵂ
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1238994.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9726.png?42580" group-title="CA| TSN SPORT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: SPORTSN ET EAST ⁽ᴮᴷ⁾ ᴿᴬᵂ
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1238993.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13857.png?39062" group-title="CA| TSN SPORT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: SPORTSN ET ONE ᴿᴬᵂ
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1238992.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13857.png?39062" group-title="CA| TSN SPORT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: SPORTSN ET ONE ⁽ᴮᴷ⁾ ᴿᴬᵂ
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1238991.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13857.png?39062" group-title="CA| TSN SPORT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: SPORTSN ET ONE ⁽ᴮᴷ⁾ ᴿᴬᵂ
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1238990.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13857.png?39062" group-title="CA| TSN SPORT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: SPORTSN ET ONE ⁽ᴮᴷ⁾ ᴿᴬᵂ
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1238989.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13857.png?39062" group-title="CA| TSN SPORT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: SPORTSN ET ONE ⁽ᴮᴷ⁾ ᴿᴬᵂ
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1238988.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13857.png?39062" group-title="CA| TSN SPORT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: SPORTSN ET ONE ⁽ᴮᴷ⁾ ᴿᴬᵂ
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1238987.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13857.png?39062" group-title="CA| TSN SPORT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: SPORTSN ET ONE ⁽ᴮᴷ⁾ ᴿᴬᵂ
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1238986.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13858.png?62189" group-title="CA| TSN SPORT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: SPORTSN ET ONTARIO ᴿᴬᵂ
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1238985.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13858.png?62189" group-title="CA| TSN SPORT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: SPORTSN ET ONTARIO ⁽ᴮᴷ⁾ ᴿᴬᵂ
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1238984.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13858.png?62189" group-title="CA| TSN SPORT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: SPORTSN ET ONTARIO ⁽ᴮᴷ⁾ ᴿᴬᵂ
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1238983.m3u8
@@ -9866,13 +9800,7 @@ http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1238982.m3u8
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1238981.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13858.png?62189" group-title="CA| TSN SPORT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: SPORTSN ET ONTARIO ⁽ᴮᴷ⁾ ᴿᴬᵂ
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1238980.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13858.png?62189" group-title="CA| TSN SPORT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: SPORTSN ET ONTARIO ⁽ᴮᴷ⁾ ᴿᴬᵂ
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1238979.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13858.png?62189" group-title="CA| TSN SPORT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: SPORTSN ET ONTARIO ⁽ᴮᴷ⁾ ᴿᴬᵂ
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1238978.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13859.png?13376" group-title="CA| TSN SPORT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: SPORTSN ET PACIFIC ᴿᴬᵂ
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1238977.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13859.png?13376" group-title="CA| TSN SPORT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: SPORTSN ET PACIFIC ⁽ᴮᴷ⁾ ᴿᴬᵂ
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1238976.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13859.png?13376" group-title="CA| TSN SPORT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: SPORTSN ET PACIFIC ⁽ᴮᴷ⁾ ᴿᴬᵂ
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1238975.m3u8
@@ -9881,27 +9809,15 @@ http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1238974.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13859.png?13376" group-title="CA| TSN SPORT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: SPORTSN ET PACIFIC ⁽ᴮᴷ⁾ ᴿᴬᵂ
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1238973.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13859.png?13376" group-title="CA| TSN SPORT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: SPORTSN ET PACIFIC ⁽ᴮᴷ⁾ ᴿᴬᵂ
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1238972.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13859.png?13376" group-title="CA| TSN SPORT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: SPORTSN ET PACIFIC ⁽ᴮᴷ⁾ ᴿᴬᵂ
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1238971.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13859.png?13376" group-title="CA| TSN SPORT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: SPORTSN ET PACIFIC ⁽ᴮᴷ⁾ ᴿᴬᵂ
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1238970.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13860.png?37813" group-title="CA| TSN SPORT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: SPORTSN ET WEST ᴿᴬᵂ
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1238969.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13860.png?37813" group-title="CA| TSN SPORT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: SPORTSN ET WEST ⁽ᴮᴷ⁾ ᴿᴬᵂ
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1238968.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13860.png?37813" group-title="CA| TSN SPORT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: SPORTSN ET WEST ⁽ᴮᴷ⁾ ᴿᴬᵂ
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1238967.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13860.png?37813" group-title="CA| TSN SPORT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: SPORTSN ET WEST ⁽ᴮᴷ⁾ ᴿᴬᵂ
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1238966.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13860.png?37813" group-title="CA| TSN SPORT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: SPORTSN ET WEST ⁽ᴮᴷ⁾ ᴿᴬᵂ
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1238965.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13860.png?37813" group-title="CA| TSN SPORT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: SPORTSN ET WEST ⁽ᴮᴷ⁾ ᴿᴬᵂ
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1238964.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13860.png?37813" group-title="CA| TSN SPORT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: SPORTSN ET WEST ⁽ᴮᴷ⁾ ᴿᴬᵂ
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1238963.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13861.png?94212" group-title="CA| TSN SPORT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: SPORTSN ET WORLD ᴿᴬᵂ
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1238962.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13861.png?94212" group-title="CA| TSN SPORT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: SPORTSN ET WORLD ⁽ᴮᴷ⁾ ᴿᴬᵂ
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1238961.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13861.png?94212" group-title="CA| TSN SPORT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: SPORTSN ET WORLD ⁽ᴮᴷ⁾ ᴿᴬᵂ
@@ -9909,25 +9825,7 @@ http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1238960.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13861.png?94212" group-title="CA| TSN SPORT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: SPORTSN ET WORLD ⁽ᴮᴷ⁾ ᴿᴬᵂ
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1238959.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13861.png?94212" group-title="CA| TSN SPORT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: SPORTSN ET WORLD ⁽ᴮᴷ⁾ ᴿᴬᵂ
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1238958.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13861.png?94212" group-title="CA| TSN SPORT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: SPORTSN ET WORLD ⁽ᴮᴷ⁾ ᴿᴬᵂ
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1238957.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13861.png?94212" group-title="CA| TSN SPORT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: SPORTSN ET WORLD ⁽ᴮᴷ⁾ ᴿᴬᵂ
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1238956.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13861.png?94212" group-title="CA| TSN SPORT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: SPORTSN ET WORLD ⁽ᴮᴷ⁾ ᴿᴬᵂ
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1238955.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13862.jpg?61148" group-title="CA| TSN SPORT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: SPORTSN ET WWE ᴿᴬᵂ
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1238954.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13862.jpg?61148" group-title="CA| TSN SPORT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: SPORTSN ET WWE ⁽ᴮᴷ⁾ ᴿᴬᵂ
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1238953.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13862.jpg?61148" group-title="CA| TSN SPORT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: SPORTSN ET WWE ⁽ᴮᴷ⁾ ᴿᴬᵂ
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1238952.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9726.png?2217" group-title="CA| TSN SPORT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: SPORTSN ET WORLD EXTRA 1 ᴿᴬᵂ
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1238951.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9726.png?2217" group-title="CA| TSN SPORT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: SPORTSN ET WORLD EXTRA 2 ᴿᴬᵂ
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1238950.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9726.png?2217" group-title="CA| TSN SPORT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: SPORTSN ET WORLD EXTRA 3 ᴿᴬᵂ
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1238949.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9726.png?2217" group-title="CA| TSN SPORT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",CA: SPORTSN ET WORLD EXTRA 4 ᴿᴬᵂ
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1238948.m3u8
 
@@ -17692,39 +17590,39 @@ http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/324969.m3u8
 # --- US| MLS PPV VIP (51) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Animated-Flag-USA.gif" group-title="US| MLS PPV VIP",####### MLS PPV VIP #######
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1021729.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV VIP",LIVE | CHICAGO VS. NASHVILLE | Sat 04 Apr 20:30 EDT (US) | 8K EXCLUSIVE | US: MLS PPV 1
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV VIP",- NO EVENT STREAMING - | 8K EXCLUSIVE | US: MLS PPV 1
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1021728.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV VIP",LIVE | NEW ENGLAND VS. MONTRÉAL | Sat 04 Apr 16:30 EDT (US) | 8K EXCLUSIVE | US: MLS PPV 2
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV VIP",- NO EVENT STREAMING - | 8K EXCLUSIVE | US: MLS PPV 2
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1021727.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV VIP",LIVE | SALT LAKE VS. KANSAS CITY | Sat 04 Apr 16:30 EDT (US) | 8K EXCLUSIVE | US: MLS PPV 3
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV VIP",- NO EVENT STREAMING - | 8K EXCLUSIVE | US: MLS PPV 3
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1021726.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV VIP",ENDED | MLS COUNTDOWN | Sat 04 Apr 18:30 EDT (US) | 8K EXCLUSIVE | US: MLS PPV 4
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV VIP",- NO EVENT STREAMING - | 8K EXCLUSIVE | US: MLS PPV 4
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1021725.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV VIP",LIVE | NEW YORK VS. CINCINNATI | Sat 04 Apr 19:30 EDT (US) | 8K EXCLUSIVE | US: MLS PPV 5
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV VIP",- NO EVENT STREAMING - | 8K EXCLUSIVE | US: MLS PPV 5
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1021724.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV VIP",LIVE | D.C. VS. DALLAS | Sat 04 Apr 19:30 EDT (US) | 8K EXCLUSIVE | US: MLS PPV 6
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV VIP",- NO EVENT STREAMING - | 8K EXCLUSIVE | US: MLS PPV 6
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1021723.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV VIP",LIVE | NEW YORK CITY VS. ST. LOUIS | Sat 04 Apr 19:30 EDT (US) | 8K EXCLUSIVE | US: MLS PPV 7
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV VIP",- NO EVENT STREAMING - | 8K EXCLUSIVE | US: MLS PPV 7
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1021722.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV VIP",- NO EVENT STREAMING - | 8K EXCLUSIVE | US: MLS PPV 8
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1021721.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV VIP",LIVE | CHARLOTTE VS. PHILADELPHIA | Sat 04 Apr 19:30 EDT (US) | 8K EXCLUSIVE | US: MLS PPV 9
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV VIP",- NO EVENT STREAMING - | 8K EXCLUSIVE | US: MLS PPV 9
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1021720.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV VIP",LIVE | ATLANTA VS. COLUMBUS | Sat 04 Apr 19:30 EDT (US) | 8K EXCLUSIVE | US: MLS PPV 10
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV VIP",- NO EVENT STREAMING - | 8K EXCLUSIVE | US: MLS PPV 10
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1021719.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV VIP",LIVE | ⁨MLS 360⁩ | Sat 04 Apr 19:30 EDT (US) | 8K EXCLUSIVE | US: MLS PPV 11
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV VIP",- NO EVENT STREAMING - | 8K EXCLUSIVE | US: MLS PPV 11
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1021718.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV VIP",LIVE | HOUSTON VS. SEATTLE | Sat 04 Apr 20:30 EDT (US) | 8K EXCLUSIVE | US: MLS PPV 12
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV VIP",- NO EVENT STREAMING - | 8K EXCLUSIVE | US: MLS PPV 12
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1021717.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV VIP",LIVE | LAFC VS. ORLANDO | Sat 04 Apr 21:30 EDT (US) | 8K EXCLUSIVE | US: MLS PPV 13
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV VIP",- NO EVENT STREAMING - | 8K EXCLUSIVE | US: MLS PPV 13
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1021716.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV VIP",NEXT | VANCOUVER VS. PORTLAND | Sat 04 Apr 22:30 EDT (US) | 8K EXCLUSIVE | US: MLS PPV 14
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV VIP",- NO EVENT STREAMING - | 8K EXCLUSIVE | US: MLS PPV 14
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1021715.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV VIP",NEXT | LA VS. MINNESOTA | Sat 04 Apr 22:30 EDT (US) | 8K EXCLUSIVE | US: MLS PPV 15
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV VIP",- NO EVENT STREAMING - | 8K EXCLUSIVE | US: MLS PPV 15
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1021714.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV VIP",NEXT | SAN JOSE VS. SAN DIEGO | Sat 04 Apr 22:30 EDT (US) | 8K EXCLUSIVE | US: MLS PPV 16
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV VIP",- NO EVENT STREAMING - | 8K EXCLUSIVE | US: MLS PPV 16
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1021713.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV VIP",NEXT | MLS WRAP-UP⁩ | Sun 05 Apr 01:00 EDT (US) | 8K EXCLUSIVE | US: MLS PPV 17
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV VIP",- NO EVENT STREAMING - | 8K EXCLUSIVE | US: MLS PPV 17
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1021712.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV VIP",- NO EVENT STREAMING - | 8K EXCLUSIVE | US: MLS PPV 18
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1021711.m3u8
@@ -18355,4 +18253,4 @@ http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/443446.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/logos/tv5monde.png" group-title="VI| VIETNAM",VN: TV5 MONDE
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/443444.m3u8
 
-# Total: 8930
+# Total: 8879
