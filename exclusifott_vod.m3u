@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: exclusifott.pro:80
-# Generated: 2026-04-05 18:49:43
+# Generated: 2026-04-06 07:56:37
 # Expires: 2026-05-21
 # Family Safe Edition
 # ==============================================
@@ -13411,7 +13411,11 @@ http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/837897.mp4
 #EXTINF:-1 tvg-logo="http://103.176.90.118/stalker_portal/screenshots/74/7397.jpg" group-title="Movies | |SPT| SPORT BOXING",SPT Katie Taylor vs. Natasha Jonas
 http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/837889.mp4
 
-# --- Movies | |SPT| SPORT UFC (461) ---
+# --- Movies | |SPT| SPORT UFC (463) ---
+#EXTINF:-1 tvg-logo="https://ufc.com/images/styles/inline/s3/2026-02/11115194954_04-04_BoutAnn_VJ-TR_Por.jpg?itok=HsOE45PE" group-title="Movies | |SPT| SPORT UFC",SPT - UFC Fight Night : Virna Jandiroba vs Tabatha Ricci (2026)
+http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/2053140.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nNSAYpeY85WRDWlquJOPp0stS4r.jpg" group-title="Movies | |SPT| SPORT UFC",SPT - UFC Fight Night 272: Moicano vs. Duncan (2026)
+http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/2053139.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eqJQz7pOs9VX5emYxrse9dYdf8D.jpg" group-title="Movies | |SPT| SPORT UFC",SPT - UFC Fight Night 271: Adesanya vs. Pyfer (2026)
 http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/2049120.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2KXYDDtitf4hyFm1eI3wdcV2r8c.jpg" group-title="Movies | |SPT| SPORT UFC",SPT - UFC Fight Night 268: Moreno vs. Kavanagh (2026)
@@ -17206,7 +17210,7 @@ http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/21014
 http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/21015
 #EXTINF:-1 tvg-logo="" group-title="Series | |MULTI| NETFLIX SERIES",NF - Easy-Bake Battle: The Home Cooking Competition
 http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/21016
-#EXTINF:-1 tvg-logo="" group-title="Series | |MULTI| NETFLIX SERIES",NF - Eat the Rich: The GameStop Saga
+#EXTINF:-1 tvg-logo="" group-title="Series | |MULTI| NETFLIX SERIES",NF - Eat The Rich: The GameStop Saga (2022) (US)
 http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/21017
 #EXTINF:-1 tvg-logo="" group-title="Series | |MULTI| NETFLIX SERIES",NF - Everything Calls For Salvation (2022)
 http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/21018
@@ -18091,4 +18095,4 @@ http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/35745
 #EXTINF:-1 tvg-logo="" group-title="Series | |RO| ROMANIAN SERIES",RO - Resident Evil: Infinite Darkness (2021)
 http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/35746
 
-# Total: 8998
+# Total: 9000

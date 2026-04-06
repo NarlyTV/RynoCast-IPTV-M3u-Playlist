@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: pw-iptv.online:8080
-# Generated: 2026-04-05 18:47:58
+# Generated: 2026-04-06 07:56:04
 # Expires: 2026-09-06
 # Family Safe Edition
 # ==============================================
@@ -1090,17 +1090,17 @@ http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1691268.m3u8
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1691267.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3867.png?98930" group-title="AR| ARABIC SPORT 4K ▶ رياضه ⚽️",SPO: STC SPORT 2 GOBX ᴿᴬᵂ
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1691266.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14658.png?ver=65113" group-title="AR| ARABIC SPORT 4K ▶ رياضه ⚽️",AR: DIWAN SPORT 1 ◉ ᴴᴰ
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14658.png?ver=65113" group-title="AR| ARABIC SPORT 4K ▶ رياضه ⚽️",SPO: DIWAN SPORT 1 ◉ ᴴᴰ
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1630041.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14658.png?ver=65113" group-title="AR| ARABIC SPORT 4K ▶ رياضه ⚽️",AR: DIWAN SPORT 2 ◉ ᴴᴰ
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14658.png?ver=65113" group-title="AR| ARABIC SPORT 4K ▶ رياضه ⚽️",SPO: DIWAN SPORT 2 ◉ ᴴᴰ
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1630040.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1883.png?2271" group-title="AR| ARABIC SPORT 4K ▶ رياضه ⚽️",AR: SPORT 1 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1883.png?2271" group-title="AR| ARABIC SPORT 4K ▶ رياضه ⚽️",SPO: SPORT 1 ᴴᴰ
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1789306.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14742.png?41969" group-title="AR| ARABIC SPORT 4K ▶ رياضه ⚽️",AR: SPORT 2 ᴴᴰ
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14742.png?41969" group-title="AR| ARABIC SPORT 4K ▶ رياضه ⚽️",SPO: SPORT 2 ᴴᴰ
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1789305.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1883.png?2271" group-title="AR| ARABIC SPORT 4K ▶ رياضه ⚽️",AR: SPORT 1 ᴿᴬᵂ
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1883.png?2271" group-title="AR| ARABIC SPORT 4K ▶ رياضه ⚽️",SPO: SPORT 1 ᴿᴬᵂ
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1789304.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14742.png?41969" group-title="AR| ARABIC SPORT 4K ▶ رياضه ⚽️",AR: SPORT 2 ᴿᴬᵂ
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14742.png?41969" group-title="AR| ARABIC SPORT 4K ▶ رياضه ⚽️",SPO: SPORT 2 ᴿᴬᵂ
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1789303.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/557.png?54988" group-title="AR| ARABIC SPORT 4K ▶ رياضه ⚽️",SPO: Al Kass 1 HD
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/498849.m3u8
@@ -17587,6 +17587,50 @@ http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/324978.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12108.png?54161" group-title="US| KIDS ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",US: UNIVERSAL KIDS HD
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/324969.m3u8
 
+# --- US| MLS PPV (21) ---
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Animated-Flag-USA.gif" group-title="US| MLS PPV",##### MLS PPV #####
+http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/525889.m3u8
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV",MLS | Event 1 New York City Football Club vs. Inter Miami CF // UK Sun 22 Mar 4:45pm // ET Sun 22 Mar 12:45pm
+http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/605394.m3u8
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV",MLS | Event 2 San Diego FC vs. Real Salt Lake // UK Sun 22 Mar 10:45pm // ET Sun 22 Mar 6:45pm
+http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/605393.m3u8
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV",MLS | Event 3  Minnesota United vs. Seattle Sounders FC // UK Sun 22 Mar 6:15pm // ET Sun 22 Mar 2:15pm
+http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/605392.m3u8
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV",MLS | Event 4 MLS Wrap-Up⁩ // UK Mon 23 Mar 1:15am // ET Sun 22 Mar 9:15pm
+http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/605391.m3u8
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV",MLS | Event 5 Portland Timbers vs. LA Galaxy // UK Sun 22 Mar 8:30pm // ET Sun 22 Mar 4:30pm
+http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/605390.m3u8
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV",MLS | Event 6 FC Cincinnati vs. CF Montréal // UK Sun 22 Mar 4:45pm // ET Sun 22 Mar 12:45pm
+http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/605389.m3u8
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV",MLS | Event 7 St. Louis CITY SC vs. New England Revolution // UK Sun 22 Mar 12:15am // ET Sat 21 Mar 8:15pm
+http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/605388.m3u8
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV",MLS | Event 8 Sporting Kansas City vs. Colorado Rapids // UK Sun 22 Mar 12:15am // ET Sat 21 Mar 8:15pm
+http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/605387.m3u8
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV",MLS | Event 9 MLS Countdown // UK Sat 21 Mar 10:15pm // ET Sat 21 Mar 6:15pm
+http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/605386.m3u8
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV",MLS | Event 10 MLS 360⁩ // UK Sat 21 Mar 11:15pm // ET Sat 21 Mar 7:15pm
+http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/605385.m3u8
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV",MLS | Event 11 Atlanta United vs. Philadelphia Union // UK Sat 14 Mar 7:00pm // ET Sat 14 Mar 3:00pm
+http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/605383.m3u8
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV",MLS | Event 12 Orlando City vs. CF Montréal // UK Sat 14 Mar 11:15pm // ET Sat 14 Mar 7:15pm
+http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/605382.m3u8
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV",MLS | Event 13 MLS Countdown // UK Sat 14 Mar 10:15pm // ET Sat 14 Mar 6:15pm
+http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/605381.m3u8
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV",MLS | Event 14 MLS 360⁩ // UK Sat 14 Mar 11:15pm // ET Sat 14 Mar 7:15pm
+http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/605380.m3u8
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV",MLS Live 15 | Portland  vs.  San Diego start:2025-10-19 01:55:00 stop:2025-10-19 04:37:00
+http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/605384.m3u8
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV",MLS Live 16 | San Jose  vs.  Austin start:2025-10-19 01:55:00 stop:2025-10-19 04:37:00
+http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/605379.m3u8
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV",MLS LIVE 17 | St. Louis  vs.  Salt Lake start:2025-10-19 01:55:00 stop:2025-10-19 04:37:00
+http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/605378.m3u8
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV",MLS LIVE 18 | Vancouver  vs.  Dallas start:2025-10-19 01:55:00 stop:2025-10-19 04:37:00
+http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/605377.m3u8
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV",MLS LIVE 19: Dallas  vs.  St. Louis start:2025-07-20 01:25:00 stop:2025-07-20 04:07:00
+http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/605376.m3u8
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13626.png?ver=92636" group-title="US| MLS PPV",MLS LIVE 20:
+http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/605375.m3u8
+
 # --- US| MLS PPV VIP (51) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Animated-Flag-USA.gif" group-title="US| MLS PPV VIP",####### MLS PPV VIP #######
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1021729.m3u8
@@ -18253,4 +18297,4 @@ http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/443446.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/logos/tv5monde.png" group-title="VI| VIETNAM",VN: TV5 MONDE
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/443444.m3u8
 
-# Total: 8879
+# Total: 8900
