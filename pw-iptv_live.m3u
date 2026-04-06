@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: pw-iptv.online:8080
-# Generated: 2026-04-06 07:56:04
+# Generated: 2026-04-06 18:53:44
 # Expires: 2026-09-06
 # Family Safe Edition
 # ==============================================
@@ -3967,7 +3967,7 @@ http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/319364.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/391.jpg" group-title="AR| KUWAIT +6H USA ⎋",AR: KUWAIT ETHRAA 4K +6H
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/319365.m3u8
 
-# --- AR| KUWAIT 4K ▶ الكويت (11) ---
+# --- AR| KUWAIT 4K ▶ الكويت (12) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Animated-Flag-Kuwait.gif" group-title="AR| KUWAIT 4K ▶ الكويت",###### KUWAIT TV ######
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/251808.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/392.jpg" group-title="AR| KUWAIT 4K ▶ الكويت",AR: Kuwait TV 1 4K
@@ -3990,6 +3990,8 @@ http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/2334.m3u8
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/2309.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/391.jpg?ver=84751" group-title="AR| KUWAIT 4K ▶ الكويت",AR: Athraa TV 4K
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/983065.m3u8
+#EXTINF:-1 tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/14999.png?47635" group-title="AR| KUWAIT 4K ▶ الكويت",AR: Al Gharbia Now HD
+http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1910047.m3u8
 
 # --- AR| LEBANON +6H USA ⎋ (15) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Animated-Flag-Lebanon.gif" group-title="AR| LEBANON +6H USA ⎋",###### LEBANON +6H  NA ######
@@ -17547,7 +17549,7 @@ http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/411635.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/750.jpg?ver=56209" group-title="US| FOX ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",US: FOX 4 GRAND JUNCTION CO (KFQX) HD
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/411634.m3u8
 
-# --- US| KIDS ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ (19) ---
+# --- US| KIDS ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ (18) ---
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6163.png?1197" group-title="US| KIDS ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",US: BOOMERANG HD
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/7234.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/633.png?51995" group-title="US| KIDS ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",US: CARTOON NETWORK HD
@@ -17584,8 +17586,6 @@ http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/324981.m3u8
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/324986.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8185.png?31798" group-title="US| KIDS ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",US: PBS KIDS
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/324978.m3u8
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12108.png?54161" group-title="US| KIDS ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",US: UNIVERSAL KIDS HD
-http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/324969.m3u8
 
 # --- US| MLS PPV (21) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Animated-Flag-USA.gif" group-title="US| MLS PPV",##### MLS PPV #####
@@ -18015,7 +18015,9 @@ http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1031378.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13831.png?ver=91012" group-title="US| NFL PPV",US: NFL REDZONE ᴴᴰ
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/1031379.m3u8
 
-# --- US| SPORT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ (89) ---
+# --- US| SPORT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ (90) ---
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12108.png?54161" group-title="US| SPORT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",US: MONUMENTAL SPORTS NETWORK HD
+http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/324969.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Animated-Flag-USA.gif" group-title="US| SPORT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",###### SPORT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ ######
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/325093.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8191.jpg?3819" group-title="US| SPORT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",US: NFL NETWORK HD
@@ -18297,4 +18299,4 @@ http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/443446.m3u8
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/logos/tv5monde.png" group-title="VI| VIETNAM",VN: TV5 MONDE
 http://pw-iptv.online:8080/live/mostafaxhashad/irgdm5wacn/443444.m3u8
 
-# Total: 8900
+# Total: 8901
