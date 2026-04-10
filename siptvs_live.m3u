@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: siptvs.com:8080
-# Generated: 2026-04-09 19:12:05
+# Generated: 2026-04-10 07:51:08
 # Expires: 2026-05-16
 # Family Safe Edition
 # ==============================================
@@ -1285,7 +1285,7 @@ http://siptvs.com:8080/live/Biljana12/Biljana12/128849.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Kurier_TV_logo_%282023%29.png" group-title="|DE| ÖSTERREICH",KURIER TV
 http://siptvs.com:8080/live/Biljana12/Biljana12/200694.m3u8
 
-# --- |EXYU| BIH (76) ---
+# --- |EXYU| BIH (77) ---
 #EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/EXYU/GENERAL/bht1.png" group-title="|EXYU| BIH",|BIH| BHT1
 http://siptvs.com:8080/live/Biljana12/Biljana12/4866.m3u8
 #EXTINF:-1 tvg-logo="https://srkitv.com/LOGO/EXYU/GENERAL/bht1.png" group-title="|EXYU| BIH",|BIH| BHT 1 HD
@@ -1438,6 +1438,8 @@ http://siptvs.com:8080/live/Biljana12/Biljana12/131229.m3u8
 http://siptvs.com:8080/live/Biljana12/Biljana12/65423.m3u8
 #EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/novo2023/IMG-8fd08775753359279dd0f0e72c3bde62-V.jpg" group-title="|EXYU| BIH",RAMAZANSKI PROGRAM
 http://siptvs.com:8080/live/Biljana12/Biljana12/148675.m3u8
+#EXTINF:-1 tvg-logo="" group-title="|EXYU| BIH",Prijedor TV (Test)
+http://siptvs.com:8080/live/Biljana12/Biljana12/202006.m3u8
 
 # --- |EXYU| CRNA GORA (23) ---
 #EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/flage.png" group-title="|EXYU| CRNA GORA",* * * * CRNOGORSKI * * * *
@@ -2513,7 +2515,7 @@ http://siptvs.com:8080/live/Biljana12/Biljana12/63816.m3u8
 #EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/full/nickelodeon.png" group-title="|EXYU| SLOVENIJA",SL: NICKELODEON
 http://siptvs.com:8080/live/Biljana12/Biljana12/63817.m3u8
 
-# --- |EXYU| SPORT BH (13) ---
+# --- |EXYU| SPORT BH (17) ---
 #EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/bosna.png" group-title="|EXYU| SPORT BH",* * * * SPORT BIH * * * *
 http://siptvs.com:8080/live/Biljana12/Biljana12/35111.m3u8
 #EXTINF:-1 tvg-logo="https://lo1.in/LOGO/EXYU/SPORTS/ARENA1PREMIUM.png" group-title="|EXYU| SPORT BH",|BH| ARENA 1 PREMIUM
@@ -2540,6 +2542,14 @@ http://siptvs.com:8080/live/Biljana12/Biljana12/35112.m3u8
 http://siptvs.com:8080/live/Biljana12/Biljana12/35114.m3u8
 #EXTINF:-1 tvg-logo="data:image/png;base64,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" group-title="|EXYU| SPORT BH",|BH| CITY TV
 http://siptvs.com:8080/live/Biljana12/Biljana12/35113.m3u8
+#EXTINF:-1 tvg-logo="http://88.198.2.157/slike/sport/7f1acace391651668e27.png" group-title="|EXYU| SPORT BH",ARENA BALKAN SPORT 1
+http://siptvs.com:8080/live/Biljana12/Biljana12/202007.m3u8
+#EXTINF:-1 tvg-logo="http://88.198.2.157/slike/sport/eb6ef09db3893845c595.png" group-title="|EXYU| SPORT BH",ARENA BALKAN SPORT 2
+http://siptvs.com:8080/live/Biljana12/Biljana12/202008.m3u8
+#EXTINF:-1 tvg-logo="http://88.198.2.157/slike/sport/39196bf66777c93eef7a.png" group-title="|EXYU| SPORT BH",ARENA BALKAN SPORT 3
+http://siptvs.com:8080/live/Biljana12/Biljana12/202009.m3u8
+#EXTINF:-1 tvg-logo="http://88.198.2.157/slike/sport/3e0c0ac1fbe6c08d902b.png" group-title="|EXYU| SPORT BH",ARENA BALKAN SPORT 4
+http://siptvs.com:8080/live/Biljana12/Biljana12/202010.m3u8
 
 # --- |EXYU| SPORT HR (42) ---
 #EXTINF:-1 tvg-logo="https://logos.siptvs.com/EXYU/GENERAL/hrvatska.png" group-title="|EXYU| SPORT HR",* * * * * HRVATSKA SPORT * * * * *
@@ -3251,4 +3261,4 @@ http://siptvs.com:8080/live/Biljana12/Biljana12/85905.m3u8
 #EXTINF:-1 tvg-logo="" group-title="|WSP| WORLD SPORT",MUTV
 http://siptvs.com:8080/live/Biljana12/Biljana12/126239.m3u8
 
-# Total: 1592
+# Total: 1597

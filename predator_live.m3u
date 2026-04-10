@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: predator.digital:8080
-# Generated: 2026-04-09 19:03:29
+# Generated: 2026-04-10 07:48:22
 # Expires: 2026-08-08
 # Family Safe Edition
 # ==============================================
@@ -911,7 +911,7 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/17433.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Denmark",DK: TV 2 Sport X HD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/17425.m3u8
 
-# --- Deutschland (328) ---
+# --- Deutschland (336) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/1920px-Flag_of_Germany.svg.png" group-title="Deutschland",========Deutschland ========
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/12489.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: Das Erste FHD RAW
@@ -1048,10 +1048,26 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/23552.m3u8
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/52744.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: Sky Nature FHD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/52743.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: Spiegel Geschichte HD
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/11746.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: Sonnenklar HD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/11751.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: Spiegel Tv
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85458.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: Spiegel Geschichte HD
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/11746.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: Spiegel Tv Konflikte
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85460.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: Spiegel Tv Action+Crime
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85459.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: BBC Earth
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85465.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: BBC Food
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85464.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: BBC History
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85463.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: BBC Series
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85462.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: BBC Travel
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85461.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: Crime + Investigation
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/19077.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: Animal Planet HD
@@ -9235,4 +9251,4 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/13200.m3u8
 #EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: Real Madrid Tv
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/62225.m3u8
 
-# Total: 4587
+# Total: 4595

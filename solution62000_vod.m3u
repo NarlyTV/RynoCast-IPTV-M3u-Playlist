@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: solution62000.mine.nu:8000
-# Generated: 2026-04-06 18:55:07
+# Generated: 2026-04-10 07:49:39
 # Expires: 2026-12-19
 # Family Safe Edition
 # ==============================================
@@ -247,7 +247,7 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1542.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/icq1eKLaijZmahCxVDWpuURNihv.jpg" group-title="Movies | Cowboys",Pat Garrett et Billy le Kid - 1973
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1805.mkv
 
-# --- Movies | Dessins Animés (237) ---
+# --- Movies | Dessins Animés (238) ---
 #EXTINF:-1 tvg-logo="https://dnm.nflximg.net/api/v6/mAcAr9TxZIVbINe88xb3Teg5_OA/AAAABflz_TYZuBaWTGhUR26bQhrowP2jshvRck_G5ilViQv9DI47-w9YL-SFFPaML7aNHzoMYToV0v3op8_0pyBXV8B2mAN73aAXVDDtlkJKJPWyJsYhXOpZyM0Rx2k5-CG9coZpjw.jpg?r=77c" group-title="Movies | Dessins Animés",Les Deux Gredins (2025)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/20327.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dBNi5XGc4Kw5bjxeRiGKCCvqbPC.jpg" group-title="Movies | Dessins Animés",Dora : à la recherche du Sol Dorado (2025)
@@ -346,6 +346,8 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1794.mkv
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1459.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3knwJCqriSz7mTM3vFJUqJOGty1.jpg" group-title="Movies | Dessins Animés",GOAT : Rêver plus haut (2026)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/25971.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/eyML3us6QSgWinlH9Zd6BERNrd3.jpg" group-title="Movies | Dessins Animés",Panique à Noël (2025)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/26188.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rt4jPZgeyjfMwvsUFZubP7yVQCS.jpg" group-title="Movies | Dessins Animés",Tafiti (2025)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/26085.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xMWZ3fOdrkHsEBRFw5rmeaDmUC.jpg" group-title="Movies | Dessins Animés",Le secret des mésanges (2025)
@@ -885,7 +887,9 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1030.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Disney+",Lucky Luke
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1077.mp4
 
-# --- Movies | Documentaires (52) ---
+# --- Movies | Documentaires (53) ---
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lSl3fWUhRXDtYLKvvnmB8fFBphA.jpg" group-title="Movies | Documentaires",L'Envers du sport : Échec et clash (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/26189.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hMVhZxgbFLXZcDUIZ10NGb6s8w4.jpg" group-title="Movies | Documentaires",Kidnapped: Elizabeth Smart (2026)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/22040.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/LUunzOW4uc5wArDLPToNiblgcE.jpg" group-title="Movies | Documentaires",Vol BA 149 : Otages de guerre (2025)
@@ -991,7 +995,7 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/13611.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ljSQgDf8rhz6HxnKUXwMvc4lgqw.jpg" group-title="Movies | Documentaires",C'Est Pas Moi (2024)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/13491.mkv
 
-# --- Movies | Enfants (52) ---
+# --- Movies | Enfants (53) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Enfants",Eden
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/77.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Enfants",Invincible
@@ -1096,6 +1100,8 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/914.mp4
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/922.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Enfants",Les Dalton
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1049.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Enfants",Star Wars : Maul - Seigneur de l'ombre
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1095.mp4
 
 # --- Movies | FILMS TURK (4) ---
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ntfIVBxdQ3nCHddMd5egzft5CX6.jpg" group-title="Movies | FILMS TURK",Sampiyonlar (2025)
@@ -1107,7 +1113,13 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/7300.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wkUCQaXIc9qkqplDJZIuxRHLQNq.jpg" group-title="Movies | FILMS TURK",Malazgirt 1071 - 2022
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/5531.mp4
 
-# --- Movies | Films (1530) ---
+# --- Movies | Films (1535) ---
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9PJrHGp41hRTq2kkPWU2j6zzjat.jpg" group-title="Movies | Films",Chasse gardée 2 (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/26235.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wlimwHMelt9PRdgFhS5bWJWPrjr.jpg" group-title="Movies | Films",Sniper: No Nation (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/26190.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/x6XBJG5RGeRqT88BH1HjCVOifkU.jpg" group-title="Movies | Films",The Bride! (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/26172.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/t1PFVsGYdUHtPv0Xowoc9b4PAap.jpg" group-title="Movies | Films",The Shadow's Edge (2026)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/26123.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7ElOux95K8mfK1kuxK6K4A8MulM.jpg" group-title="Movies | Films",The Last GunFight (2026)
@@ -1208,6 +1220,10 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/21982.mkv
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/21981.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/27j9fRcvtaskGPsuHXvVTAi1fEc.jpg" group-title="Movies | Films",The Internship (2026)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/21941.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xqDooVZxeUCoF9avNpZBrlbv9gZ.jpg" group-title="Movies | Films",À la poursuite du Père Noël ! (2025)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/26234.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gTdSD8cN7gzKetW9KdaJdJsy4bf.jpg" group-title="Movies | Films",Les Musiciens (2025)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/26187.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5yxwpcK0OHR0fBB6CBS80YWHoAC.jpg" group-title="Movies | Films",La Condition (2025)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/26122.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lyjO7qEAxtMF4hZhzp3haPdeBde.jpg" group-title="Movies | Films",Gérald le Conquérant (2025)
@@ -2612,7 +2628,7 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/9290.mkv
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/9311.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wswgmBRpKm5C3VscsUNPwITYaHZ.jpg" group-title="Movies | Films",Une affaire d'honneur (2023)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/9281.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ghr7MVNdznpYyxV661KmeSDEh9l.jpg" group-title="Movies | Films",Chasse Gardée (2023)
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ghr7MVNdznpYyxV661KmeSDEh9l.jpg" group-title="Movies | Films",Chasse gardée (2023)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/9260.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xCxcMQBQ9ugIw7kgmEsDqjf6kaL.jpg" group-title="Movies | Films",Jeff Panacloc : À la poursuite de Jean-Marc (2023)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/9256.mkv
@@ -5000,7 +5016,7 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1475.mkv
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/795.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/R6WlTuZYl9eGeQ2sbNnellaZ9Y.jpg" group-title="Movies | Films Cultes",Y a-t-il un flic pour sauver Hollywood ? - 1994
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/2012.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d8qjZwmXYFseqsXnS7eOSmmgwB9.jpg" group-title="Movies | Films Cultes",Brice de Nice (2005)
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/eak0GxOsRmvEbr53yf7jbM8SD8u.jpg" group-title="Movies | Films Cultes",Brice de Nice (2005)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/4850.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jBxLQKmVJ4xICf0NryoJntM5sun.jpg" group-title="Movies | Films Cultes",Case départ (2011)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/2945.mkv
@@ -5089,7 +5105,9 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/691.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | MARVEL STUDIOS",Ironheart
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/773.mp4
 
-# --- Movies | NETFLIX (458) ---
+# --- Movies | NETFLIX (461) ---
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lh9hqTDylUWe0kQGFRfWcApIabL.jpg" group-title="Movies | NETFLIX",Au-delà des mots (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/26205.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/f7sCSLEPRfV2fWQ0RYOtHhnHXuG.jpg" group-title="Movies | NETFLIX",Humint (2026)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/26119.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hTfnGqcvnS8WL8hSD7oifiV3buK.jpg" group-title="Movies | NETFLIX",Le Dernier Géant (2026)
@@ -6006,6 +6024,10 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1074.mp4
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1087.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX",Sicily Express
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1093.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX",Perdus dans l'espace
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1097.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX",Bandi
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1100.mp4
 
 # --- Movies | RAMADAN ( 2026 ) (49) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | RAMADAN ( 2026 )",( 2021 ) المداح
@@ -7043,7 +7065,7 @@ http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/979
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Arabe",( 2026 ) بيت بابا
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/984
 
-# --- Series | Series Documentaires (11) ---
+# --- Series | Series Documentaires (12) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Documentaires",Homicide
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/403
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Documentaires",En guerre(s) pour l'Algérie
@@ -7066,6 +7088,8 @@ http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/935
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/961
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Documentaires",Enzo, le mythe Ferrari
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1050
+#EXTINF:-1 tvg-logo="" group-title="Series | Series Documentaires",Trust Me : Le faux prophète
+http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1099
 
 # --- Series | Series Marocaines (4) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Marocaines",أولاد الدرب
@@ -7219,7 +7243,7 @@ http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1083
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Turk",( 2026 ) - مترجمة  Doktor: Başka Hayatta الطبيب
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1085
 
-# --- Series | Series divers (272) ---
+# --- Series | Series divers (273) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Salvation
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/5
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Gomorra
@@ -7764,5 +7788,7 @@ http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1086
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1090
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Lagos Police Criminelle
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1092
+#EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Scrubs
+http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1098
 
-# Total: 3849
+# Total: 3862

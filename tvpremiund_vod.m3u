@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: tvpremiund.ddns.me:2082
-# Generated: 2026-04-09 19:17:47
+# Generated: 2026-04-10 07:55:42
 # Expires: 2026-04-14
 # Family Safe Edition
 # ==============================================
@@ -10525,7 +10525,7 @@ http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/89336.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mdjD1JRmZvHrmG69C4NJSaVVkYq.jpg" group-title="Movies | CONCIERTOS & SHOWS",Ricardo Arjona Festival de Viña del Mar (2015)
 http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/89337.mp4
 
-# --- Movies | CRIMEN & MISTERIO (169) ---
+# --- Movies | CRIMEN & MISTERIO (171) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | CRIMEN & MISTERIO",La primera muerte
 http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/857.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | CRIMEN & MISTERIO",61st Street
@@ -10864,6 +10864,10 @@ http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/2571.mp4
 http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/2574.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | CRIMEN & MISTERIO",Esa noche
 http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/2578.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | CRIMEN & MISTERIO",Harry Hole
+http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/2583.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | CRIMEN & MISTERIO",Dear Killer Nannies: Criado por sicarios
+http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/2584.mp4
 
 # --- Movies | DISNEY (211) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rzUvS1tW6WuJHYB4bbFOW89aNVc.jpg" group-title="Movies | DISNEY",101 dálmatas: ¡Ahora la magia es real! (1996)
@@ -22675,4 +22679,4 @@ http://tvpremiund.ddns.me:2082/series/56972393798wspzero/271224zero/2579
 #EXTINF:-1 tvg-logo="" group-title="Series | TELESERIES",Hermanas, un amor compartido
 http://tvpremiund.ddns.me:2082/series/56972393798wspzero/271224zero/2580
 
-# Total: 11302
+# Total: 11304
