@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: alienstreams.fi:8080
-# Generated: 2026-04-11 07:27:00
+# Generated: 2026-04-11 18:41:29
 # Expires: 2026-12-29
 # Family Safe Edition
 # ==============================================
@@ -4522,10 +4522,10 @@ http://alienstreams.fi:8080/movie/asdfasdf/asdfasdf/403119.mkv
 http://alienstreams.fi:8080/movie/asdfasdf/asdfasdf/443540.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/h8PafIg6XlvgR9NO6njX8i3PkqT.jpg" group-title="Movies | Comedy [VOD]",Demetri Martin: The Overthinker (2018)
 http://alienstreams.fi:8080/movie/asdfasdf/asdfasdf/443538.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/hQKM2cefRD80N21NMFeztk3PnAk.jpg" group-title="Movies | Comedy [VOD]",The Sheriff and the Satellite Kid
-http://alienstreams.fi:8080/movie/asdfasdf/asdfasdf/443522.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/n8V61f1v7idya4WJzGEJNoIp9iL.jpg" group-title="Movies | Comedy [VOD]",Austin Powers in Goldmember (2002)
 http://alienstreams.fi:8080/movie/asdfasdf/asdfasdf/443523.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/hQKM2cefRD80N21NMFeztk3PnAk.jpg" group-title="Movies | Comedy [VOD]",The Sheriff and the Satellite Kid
+http://alienstreams.fi:8080/movie/asdfasdf/asdfasdf/443522.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/14TmEac4bquNaEld9t0uIliYoKE.jpg" group-title="Movies | Comedy [VOD]",Half Baked (1998)
 http://alienstreams.fi:8080/movie/asdfasdf/asdfasdf/443517.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/pjKvQrVpekshVM6DUDOt3ImhAVH.jpg" group-title="Movies | Comedy [VOD]",Ali G Indahouse (2002)
@@ -10459,7 +10459,7 @@ http://alienstreams.fi:8080/movie/asdfasdf/asdfasdf/489797.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/nHHrZkTVFGveqxIFeTY6yWnQ1iT.jpg" group-title="Movies | Julfilmer [VOD]",Snekker Andersen og Julenissen - Den vesle bygda som glømte at det var jul (2019)
 http://alienstreams.fi:8080/movie/asdfasdf/asdfasdf/489808.mkv
 
-# --- Movies | Kids [VOD] (237) ---
+# --- Movies | Kids [VOD] (238) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/olOdJplnhgCdaStB0qXJyONRp0q.jpg" group-title="Movies | Kids [VOD]",Rabbit Academy
 http://alienstreams.fi:8080/movie/asdfasdf/asdfasdf/258018.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vn5azMHukX8JD5uuld5imTjecA8.jpg" group-title="Movies | Kids [VOD]",Nicke Nyfiken 3 - Tillbaka till djungeln
@@ -10934,6 +10934,8 @@ http://alienstreams.fi:8080/movie/asdfasdf/asdfasdf/499062.mkv
 http://alienstreams.fi:8080/movie/asdfasdf/asdfasdf/499066.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/5oXKbOQOsPaLscHCqHjvi7hegOJ.jpg" group-title="Movies | Kids [VOD]",Pokémon the Movie: The Power of Us (2018)
 http://alienstreams.fi:8080/movie/asdfasdf/asdfasdf/499067.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/3zF6EHPq9alNMfGhMA6PT1qyhe9.jpg" group-title="Movies | Kids [VOD]",Håkan Bråkan 003
+http://alienstreams.fi:8080/movie/asdfasdf/asdfasdf/499077.mkv
 
 # --- Movies | Music [VOD] (71) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/co1vNGvNa8iCt249FZ4ZKN96NXv.jpg" group-title="Movies | Music [VOD]",Beck 49 - Inferno
@@ -15952,6 +15954,8 @@ http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/404327
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/404344
 
 # --- Series | Drama [Series] (637) ---
+#EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Outlander
+http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/496200
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",9-1-1: Nashville
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/485050
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Grey's Anatomy
@@ -15988,8 +15992,6 @@ http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/492265
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/498331
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",For All Mankind
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/498456
-#EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Outlander
-http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/496200
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",9-1-1
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/486458
 #EXTINF:-1 tvg-logo="" group-title="Series | Drama [Series]",Dear Killer Nannies
@@ -18842,6 +18844,10 @@ http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/405122
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/403526
 
 # --- Series | Svenska Serier [Series] (291) ---
+#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Masked Singer Sverige
+http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/498355
+#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Svenska nyheter
+http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/481045
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Muren
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/497632
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Bytt är bytt
@@ -18880,8 +18886,6 @@ http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/485515
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/476207
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Robinson: Gränslandet
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/481827
-#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Svenska nyheter
-http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/481045
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Kinas Mat
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/498620
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",LOL: Skrattar bäst som skrattar sist - Sverige
@@ -18890,8 +18894,6 @@ http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/403381
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/496816
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Gift vid första ögonkastet
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/487947
-#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Masked Singer Sverige
-http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/498355
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Hundarna
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/494811
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Jagad - kändisar på rymmen
@@ -19479,4 +19481,4 @@ http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/475290
 #EXTINF:-1 tvg-logo="" group-title="Series | Western [Series]",How the West Was Won
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/459987
 
-# Total: 9680
+# Total: 9681

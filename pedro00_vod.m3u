@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: pedro00.net:88
-# Generated: 2026-04-11 07:29:32
+# Generated: 2026-04-11 18:40:21
 # Expires: 2027-02-10
 # Family Safe Edition
 # ==============================================
@@ -655,7 +655,17 @@ http://pedro00.net:88/movie/4D3tNcx1MedRPSI/qf6lp0i4c4MQXYU/859974.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8kKmjLVnEhfQM6aav6K34yuJ74b.jpg" group-title="Movies | |MULTI| HBO MAX DOCUMENTARY",Goodbye Saigon (2018)
 http://pedro00.net:88/movie/4D3tNcx1MedRPSI/qf6lp0i4c4MQXYU/860051.mkv
 
-# --- Movies | |MULTI| NETFLIX (544) ---
+# --- Movies | |MULTI| NETFLIX (549) ---
+#EXTINF:-1 tvg-logo="None" group-title="Movies | |MULTI| NETFLIX",|MULTI| Untold: Chess Mates (2026)
+http://pedro00.net:88/movie/4D3tNcx1MedRPSI/qf6lp0i4c4MQXYU/1859598.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ouOvRvsgF37yEx3D6ZLWyuxZFjE.jpg" group-title="Movies | |MULTI| NETFLIX",|MULTI| Louis Theroux: Inside the Manosphere (2026)
+http://pedro00.net:88/movie/4D3tNcx1MedRPSI/qf6lp0i4c4MQXYU/1859597.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/6pUwaXT6tdA6sek8o6SdFYudJDj.jpg" group-title="Movies | |MULTI| NETFLIX",|MULTI| 18th Rose (2026)
+http://pedro00.net:88/movie/4D3tNcx1MedRPSI/qf6lp0i4c4MQXYU/1859596.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/4Tf0qTA73XLhBnfP6YgvqtLZBnt.jpg" group-title="Movies | |MULTI| NETFLIX",|MULTI| Feel My Voice (2026)
+http://pedro00.net:88/movie/4D3tNcx1MedRPSI/qf6lp0i4c4MQXYU/1859595.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/adk8weka3O5648g3de4z3y4aE7G.jpg" group-title="Movies | |MULTI| NETFLIX",|MULTI| Thrash (2026)
+http://pedro00.net:88/movie/4D3tNcx1MedRPSI/qf6lp0i4c4MQXYU/1859594.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/58Vrh72CZIyf39cOI61fFTZvivz.jpg" group-title="Movies | |MULTI| NETFLIX",|MULTI| Pangolin: Kulu's Journey (2025)
 http://pedro00.net:88/movie/4D3tNcx1MedRPSI/qf6lp0i4c4MQXYU/1842985.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ejYX4ygRoupGRjFgmmtnK0sMxhN.jpg" group-title="Movies | |MULTI| NETFLIX",MULTI | Graduation Trip: Mallorca (2025)
@@ -1971,4 +1981,4 @@ http://pedro00.net:88/movie/4D3tNcx1MedRPSI/qf6lp0i4c4MQXYU/1757083.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bAAdoOyCm3DqrOyj0h2icPpeHHw.jpg" group-title="Movies | |VOD| DOCUMENTARY",| MULTI | Being Eddie ( 2025)
 http://pedro00.net:88/movie/4D3tNcx1MedRPSI/qf6lp0i4c4MQXYU/1301099.mkv
 
-# Total: 973
+# Total: 978
