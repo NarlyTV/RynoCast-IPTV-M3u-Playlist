@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: zvjerka.com:2052
-# Generated: 2026-04-10 18:54:01
+# Generated: 2026-04-11 07:40:13
 # Expires: 2026-05-10
 # Family Safe Edition
 # ==============================================
@@ -2387,7 +2387,7 @@ http://zvjerka.com:2052/live/dzevad25/46436585/10193.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/Prima-max.png" group-title="Norveska",NO: MAX Norway
 http://zvjerka.com:2052/live/dzevad25/46436585/10192.m3u8
 
-# --- SAD (161) ---
+# --- SAD (160) ---
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/cnn-logo.png" group-title="SAD",USA: CNN HD
 http://zvjerka.com:2052/live/dzevad25/46436585/9288.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/CBS_Reality_HR_logo.png" group-title="SAD",USA: CBS
@@ -2488,8 +2488,6 @@ http://zvjerka.com:2052/live/dzevad25/46436585/9261.m3u8
 http://zvjerka.com:2052/live/dzevad25/46436585/9263.m3u8
 #EXTINF:-1 tvg-logo="https://app.zvjerka.com/ikonice/Ikonice%20BEST%20TV/BBC%20America.png" group-title="SAD",USA: BBC America HD
 http://zvjerka.com:2052/live/dzevad25/46436585/9264.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/bein-sport1-logo.png" group-title="SAD",USA: Bein Sports HD
-http://zvjerka.com:2052/live/dzevad25/46436585/9265.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/bet_logo.png" group-title="SAD",USA: Bet HD
 http://zvjerka.com:2052/live/dzevad25/46436585/9266.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/bet_logo.png" group-title="SAD",USA: Bet Her HD
@@ -2743,7 +2741,7 @@ http://zvjerka.com:2052/live/dzevad25/46436585/8859.m3u8
 #EXTINF:-1 tvg-logo="https://app.zvjerka.com/ikonice/Ikonice%20BEST%20TV/MMC.png" group-title="Slovenija",SLO: MMC
 http://zvjerka.com:2052/live/dzevad25/46436585/8860.m3u8
 
-# --- Sport (118) ---
+# --- Sport (96) ---
 #EXTINF:-1 tvg-logo="https://app.zvjerka.com/ikonice/Ikonice%20BEST%20TV/Nova%20sport.jpg" group-title="Sport",Nova Sport (test)
 http://zvjerka.com:2052/live/dzevad25/46436585/8591.m3u8
 #EXTINF:-1 tvg-logo="https://tvprofil.com/cdn/400x200/4/img/kanali-logo/logo_arena1.png" group-title="Sport",Arena Sport 1
@@ -2848,54 +2846,14 @@ http://zvjerka.com:2052/live/dzevad25/46436585/8624.m3u8
 http://zvjerka.com:2052/live/dzevad25/46436585/8625.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/SOS_RS_logo.png" group-title="Sport",SOS
 http://zvjerka.com:2052/live/dzevad25/46436585/8646.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/bein-sport1-logo.png" group-title="Sport",Bein Sports 01
-http://zvjerka.com:2052/live/dzevad25/46436585/10987.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/bein-sport1-logo.png" group-title="Sport",Bein Sports 02
-http://zvjerka.com:2052/live/dzevad25/46436585/10988.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/bein-sport1-logo.png" group-title="Sport",Bein Sports 03
-http://zvjerka.com:2052/live/dzevad25/46436585/10989.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/bein-sport1-logo.png" group-title="Sport",Bein Sports 04
-http://zvjerka.com:2052/live/dzevad25/46436585/11023.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/bein-sport1-logo.png" group-title="Sport",Bein Sports 05
-http://zvjerka.com:2052/live/dzevad25/46436585/11022.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/bein-sport1-logo.png" group-title="Sport",Bein Sports 06
-http://zvjerka.com:2052/live/dzevad25/46436585/11024.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/bein-sport1-logo.png" group-title="Sport",Bein Sports 07
-http://zvjerka.com:2052/live/dzevad25/46436585/11019.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/bein-sport1-logo.png" group-title="Sport",Bein Sports 08
-http://zvjerka.com:2052/live/dzevad25/46436585/11020.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/bein-sport1-logo.png" group-title="Sport",Bein Sports  09
-http://zvjerka.com:2052/live/dzevad25/46436585/11021.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/bein-sport1-logo.png" group-title="Sport",Bein Sports 10
-http://zvjerka.com:2052/live/dzevad25/46436585/11025.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/BT_Sport_1_GB_logo.png" group-title="Sport",BT Sport 1
 http://zvjerka.com:2052/live/dzevad25/46436585/8610.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/BT_Sport_2_GB_logo.png" group-title="Sport",BT Sport 2
 http://zvjerka.com:2052/live/dzevad25/46436585/8611.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/BT_Sport_3_GB_logo.png" group-title="Sport",BT Sport 3
 http://zvjerka.com:2052/live/dzevad25/46436585/8612.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/BT_Sport_1_GB_logo.png" group-title="Sport",BT Sport 1 Full HD
-http://zvjerka.com:2052/live/dzevad25/46436585/9438.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/BT_Sport_2_GB_logo.png" group-title="Sport",BT Sport 2 Full HD
-http://zvjerka.com:2052/live/dzevad25/46436585/9439.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/BT_Sport_3_GB_logo.png" group-title="Sport",BT Sport 3 Full HD
-http://zvjerka.com:2052/live/dzevad25/46436585/9440.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/BT_Sport_1_GB_logo.png" group-title="Sport",TNT Sport 1 HD
 http://zvjerka.com:2052/live/dzevad25/46436585/9573.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/BT_Sport_2_GB_logo.png" group-title="Sport",BT Sport 2 HD
-http://zvjerka.com:2052/live/dzevad25/46436585/9572.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/BT_Sport_3_GB_logo.png" group-title="Sport",BT Sport 3 HD
-http://zvjerka.com:2052/live/dzevad25/46436585/9571.m3u8
-#EXTINF:-1 tvg-logo="https://app.zvjerka.com/ikonice/Ikonice%20BEST%20TV/9.%20BT%20SPORT%20%201,2,3.png" group-title="Sport",BT Sport ESPN HD
-http://zvjerka.com:2052/live/dzevad25/46436585/9441.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/BT_Sport_1_GB_logo.png" group-title="Sport",BT Sport Extra 1
-http://zvjerka.com:2052/live/dzevad25/46436585/9442.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/BT_Sport_2_GB_logo.png" group-title="Sport",BT Sport Extra 2
-http://zvjerka.com:2052/live/dzevad25/46436585/9443.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/BT_Sport_3_GB_logo.png" group-title="Sport",BT Sport Extra 3
-http://zvjerka.com:2052/live/dzevad25/46436585/9444.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/BT_Sport_4_GB_logo.png" group-title="Sport",BT Sport Extra 4
-http://zvjerka.com:2052/live/dzevad25/46436585/9445.m3u8
 #EXTINF:-1 tvg-logo="https://app.zvjerka.com/ikonice/Ikonice%20BEST%20TV/29.%20SUPER%20TENNIS%20OK.png" group-title="Sport",Super Tennis
 http://zvjerka.com:2052/live/dzevad25/46436585/8647.m3u8
 #EXTINF:-1 tvg-logo="https://app.zvjerka.com/ikonice/Ikonice%20BEST%20TV/23.%20real%20madrid%20tv.png" group-title="Sport",Real Madrid TV
@@ -2928,10 +2886,6 @@ http://zvjerka.com:2052/live/dzevad25/46436585/22944.m3u8
 http://zvjerka.com:2052/live/dzevad25/46436585/22945.m3u8
 #EXTINF:-1 tvg-logo="https://app.zvjerka.com/ikonice/Ikonice%20BEST%20TV/Eleven%20Sports%201,2,3%20-%20Copy.png" group-title="Sport",Eleven Sport 3 FHD
 http://zvjerka.com:2052/live/dzevad25/46436585/22946.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/Diema_Sport_BG_BG_logo.png" group-title="Sport",Diema Sport 1
-http://zvjerka.com:2052/live/dzevad25/46436585/22947.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/diema_sport_2_logo.png" group-title="Sport",Diema Sport 2
-http://zvjerka.com:2052/live/dzevad25/46436585/22948.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/max_sport1_BG_logo.png" group-title="Sport",Max Sport 1 HD
 http://zvjerka.com:2052/live/dzevad25/46436585/22949.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/max_sport2_BG_logo.png" group-title="Sport",Max Sport 2 HD (TEST)
@@ -3239,7 +3193,7 @@ http://zvjerka.com:2052/live/dzevad25/46436585/10240.m3u8
 #EXTINF:-1 tvg-logo="https://app.zvjerka.com/ikonice/Ikonice%20BEST%20TV/9.%20TV%20Sjuan.png" group-title="Svedska",SE: Sjuan
 http://zvjerka.com:2052/live/dzevad25/46436585/10287.m3u8
 
-# --- UK (122) ---
+# --- UK (120) ---
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/bbc-one-logo.png" group-title="UK",UK: BBC 1 HD
 http://zvjerka.com:2052/live/dzevad25/46436585/9430.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/bbc-two-logo.png" group-title="UK",UK: BBC 2 HD
@@ -3360,10 +3314,6 @@ http://zvjerka.com:2052/live/dzevad25/46436585/9515.m3u8
 http://zvjerka.com:2052/live/dzevad25/46436585/9516.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/Sky-sports-main-event-logo.png" group-title="UK",UK: Sky Sports Main Event Full HD
 http://zvjerka.com:2052/live/dzevad25/46436585/9517.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/Sky_Sports_Premier_League_logo.png" group-title="UK",UK: Sky Sports Premier League HD
-http://zvjerka.com:2052/live/dzevad25/46436585/9518.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/Sky_Sports_Premier_League_logo.png" group-title="UK",UK: Sky Sports Premier League FullHD
-http://zvjerka.com:2052/live/dzevad25/46436585/9519.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/Sky_Sports_Football.png" group-title="UK",UK: Sky Sports Football HD
 http://zvjerka.com:2052/live/dzevad25/46436585/9520.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/Sky_Sports_Football.png" group-title="UK",UK: Sky Sports Football FHD
@@ -3547,4 +3497,4 @@ http://zvjerka.com:2052/live/dzevad25/46436585/31796.m3u8
 #EXTINF:-1 tvg-logo="https://www.radiostanica.com/_next/image?url=https%3A%2F%2Fwww.radiostanica.com%2Fstatic%2Fimages%2Flogos%2F1830_logo1709506403.png&w=384&q=75" group-title="Unknown",Kontakt Radio
 http://zvjerka.com:2052/live/dzevad25/46436585/31797.m3u8
 
-# Total: 1741
+# Total: 1716

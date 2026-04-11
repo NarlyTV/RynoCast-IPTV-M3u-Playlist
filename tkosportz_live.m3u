@@ -1,17 +1,19 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: tkosportz.live:25461
-# Generated: 2026-04-10 18:57:36
+# Generated: 2026-04-11 07:32:00
 # Expires: 2026-04-26
 # Family Safe Edition
 # ==============================================
 
 
-# --- 01. MARCH MADNESS (2) ---
-#EXTINF:-1 tvg-logo="" group-title="01. MARCH MADNESS",01. 2026 NCAAB MARCH MADNESS
+# --- 01. PGA MASTERS (3) ---
+#EXTINF:-1 tvg-logo="" group-title="01. PGA MASTERS",01. The Masters: Holes 15 & 16
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/224225.m3u8
-#EXTINF:-1 tvg-logo="" group-title="01. MARCH MADNESS",02. 8p Championship
+#EXTINF:-1 tvg-logo="" group-title="01. PGA MASTERS",02. The Masters: Amen Corner
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/224246.m3u8
+#EXTINF:-1 tvg-logo="" group-title="01. PGA MASTERS",03. The Masters: Holes 4, 5 & 6
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/225383.m3u8
 
 # --- 01. PPV EVENTS / RACING (ET) (13) ---
 #EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Sky_Sports_F1_2020.png" group-title="01. PPV EVENTS / RACING (ET)",03.  MOTOR RACING
@@ -54,9 +56,9 @@ http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218787.m3u8
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/223036.m3u8
 #EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/ppv-1.png" group-title="01. PPV FIGHTS/WWE (ET)",09.
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/223037.m3u8
-#EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/ppv-1.png" group-title="01. PPV FIGHTS/WWE (ET)",06.
+#EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/ppv-1.png" group-title="01. PPV FIGHTS/WWE (ET)",06. 3p Theophilous Allotey vs. Jonas Erastus (BOXING)
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/223041.m3u8
-#EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/ppv-1.png" group-title="01. PPV FIGHTS/WWE (ET)",07.
+#EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/ppv-1.png" group-title="01. PPV FIGHTS/WWE (ET)",07. 9p ONE Fight Night 42: Mann vs. Dzhabrailov
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/223518.m3u8
 #EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/ppv-1.png" group-title="01. PPV FIGHTS/WWE (ET)",08.
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/223519.m3u8
@@ -556,7 +558,7 @@ http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/13128.m3u8
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/204641.m3u8
 #EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/fox.png" group-title="04. KY-TN  LOCALS",16. FOX-WTNZ KNOXVILLE
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/204642.m3u8
-#EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2024/10/ukukuk.png" group-title="04. KY-TN  LOCALS",01. 3p UK @ TEXAS NCAAW
+#EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2024/10/ukukuk.png" group-title="04. KY-TN  LOCALS",01. 6p Western KY vs. Liberty | 6.00 PM ET
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/207678.m3u8
 #EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Ion_Television_2021.png" group-title="04. KY-TN  LOCALS",07. KY ION
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/13127.m3u8
@@ -16773,4 +16775,4 @@ http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/191009.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/Red_Noticias2019.png/revision/latest/scale-to-width-down/274?cb=20210424015309&path-prefix=es" group-title="37. COLUMBIA",CO: Red+ Noticias FHD
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/191010.m3u8
 
-# Total: 8357
+# Total: 8358

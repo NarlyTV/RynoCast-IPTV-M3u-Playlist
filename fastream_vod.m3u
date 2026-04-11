@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: fastream.xyz:8080
-# Generated: 2026-04-10 18:58:02
+# Generated: 2026-04-11 07:31:54
 # Expires: 2026-10-20
 # Family Safe Edition
 # ==============================================
@@ -13915,7 +13915,11 @@ http://fastream.xyz:8080/movie/940246862tv/12ws79/268771.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9yBW60Pm0eeXsKeiZMvMolCuhyU.jpg" group-title="Movies | → VOD ESTRENOS 2025 ←",Ad Vitam (2025)
 http://fastream.xyz:8080/movie/940246862tv/12ws79/268613.mp4
 
-# --- Movies | → VOD ESTRENOS 2026 ← (19) ---
+# --- Movies | → VOD ESTRENOS 2026 ← (21) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jRFCTTdj9M2hukPKOU3vVNcDnDD.jpg" group-title="Movies | → VOD ESTRENOS 2026 ←",¡La novia! (2026)
+http://fastream.xyz:8080/movie/940246862tv/12ws79/280730.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9uriReigJBf5zVBNaHj5C9kDDTe.jpg" group-title="Movies | → VOD ESTRENOS 2026 ←",Outcome (2026)
+http://fastream.xyz:8080/movie/940246862tv/12ws79/280731.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2jZkzmwSLaWO7GTWVjUsmv2SR9F.jpg" group-title="Movies | → VOD ESTRENOS 2026 ←",La línea Roja (2026)
 http://fastream.xyz:8080/movie/940246862tv/12ws79/280655.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tEFMZGcmxBDCodbLAqmrjdjCTwm.jpg" group-title="Movies | → VOD ESTRENOS 2026 ←",Zeta (2026)
@@ -19893,4 +19897,4 @@ http://fastream.xyz:8080/series/940246862tv/12ws79/2345
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES TERROR-THRILLER-SUSPENSO ←",It: Bienvenidos a Derry
 http://fastream.xyz:8080/series/940246862tv/12ws79/2492
 
-# Total: 9870
+# Total: 9872

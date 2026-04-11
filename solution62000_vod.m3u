@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: solution62000.mine.nu:8000
-# Generated: 2026-04-10 19:03:31
+# Generated: 2026-04-11 07:33:07
 # Expires: 2026-12-19
 # Family Safe Edition
 # ==============================================
@@ -51,7 +51,9 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/2983.mp4
 #EXTINF:-1 tvg-logo="http://boxhd2.selfip.com/pic/q23.jpg" group-title="Movies | AL Quran Al Karim",alfurqan
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/2984.mp4
 
-# --- Movies | Apple tv+ (90) ---
+# --- Movies | Apple tv+ (91) ---
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mXFn9RgnDNDiz68Q78ZDOqPrUYU.jpg" group-title="Movies | Apple tv+",Chantage (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/26258.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/eL1krZJlU8Z45FGByFhMAHLqySp.jpg" group-title="Movies | Apple tv+",The Family Plan 2 (2025)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/21073.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dabUaBrICi01jaszlcuLSzdCRG8.jpg" group-title="Movies | Apple tv+",The Lost Bus - Au cœur des flammes (2025)
@@ -1113,7 +1115,9 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/7300.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wkUCQaXIc9qkqplDJZIuxRHLQNq.jpg" group-title="Movies | FILMS TURK",Malazgirt 1071 - 2022
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/5531.mp4
 
-# --- Movies | Films (1535) ---
+# --- Movies | Films (1536) ---
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/62GcSVw9fE8paRDTCHDycZvQ26p.jpg" group-title="Movies | Films",Louise (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/26256.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9PJrHGp41hRTq2kkPWU2j6zzjat.jpg" group-title="Movies | Films",Chasse gardée 2 (2026)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/26235.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wlimwHMelt9PRdgFhS5bWJWPrjr.jpg" group-title="Movies | Films",Sniper: No Nation (2026)
@@ -5105,7 +5109,9 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/691.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | MARVEL STUDIOS",Ironheart
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/773.mp4
 
-# --- Movies | NETFLIX (461) ---
+# --- Movies | NETFLIX (462) ---
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6GoU9eD8WszduZwQ3dEBbvWjb8F.jpg" group-title="Movies | NETFLIX",Nature prédatrice (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/26257.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lh9hqTDylUWe0kQGFRfWcApIabL.jpg" group-title="Movies | NETFLIX",Au-delà des mots (2026)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/26205.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/f7sCSLEPRfV2fWQ0RYOtHhnHXuG.jpg" group-title="Movies | NETFLIX",Humint (2026)
@@ -7791,4 +7797,4 @@ http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1092
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Scrubs
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1098
 
-# Total: 3862
+# Total: 3865

@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: 1tv41.icu:8080
-# Generated: 2026-04-10 19:07:49
+# Generated: 2026-04-11 07:33:52
 # Expires: 2026-05-07
 # Family Safe Edition
 # ==============================================
@@ -3523,21 +3523,43 @@ http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/94384.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Radio",Radio1
 http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/94391.m3u8
 
-# --- MLB (7) ---
+# --- MLB (18) ---
 #EXTINF:-1 tvg-logo="https://a4.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fmisc_logos%2F500%2Fmlb.png" group-title="MLB",MLB Network
 http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/21360.m3u8
 #EXTINF:-1 tvg-logo="https://thestreamable.com/media/pages/news/sling-tv-adds-mlb-network-and-mlb-strike-zone-ahead-just-in-time-for-opening-day/de6b7ceff7-1618516374/cut-5-576x324.jpg" group-title="MLB",MLB Strike Zone
 http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/65699.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 01: Athletics VS Yankees (Yankees Feed ) @ 13:35
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/266691.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 02: Athletics VS Yankees (Athletics Feed ) @ 13:35
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/266692.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 03: D-backs VS Mets (D-backs Feed ) @ 19:10
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/266693.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 04: D-backs VS Mets (Mets Feed ) @ 19:10
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/266694.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 05: Rockies VS Padres (Rockies Feed ) @ 21:40
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/266695.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 01: Pirates VS Cubs (Cubs Feed ) @ 14:20
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/266736.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 02: D-backs VS Phillies (Phillies Feed ) @ 18:40
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/266737.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 03: D-backs VS Phillies (D-backs Feed ) @ 18:40
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/266738.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 05: Athletics VS Mets (Athletics Feed ) @ 19:10
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/266740.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 06: Yankees VS Rays (Yankees Feed ) @ 19:10
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/266741.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 07: Red Sox VS Cardinals (Red Sox Feed ) @ 20:15
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/266742.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 08: Rockies VS Padres (Rockies Feed ) @ 21:40
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/266743.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 09: Astros VS Mariners (Astros Feed ) @ 21:40
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/266744.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 10: Rangers VS Dodgers (Dodgers Feed ) @ 22:10
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/266745.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 11: Rangers VS Dodgers (Rangers Feed ) @ 22:10
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/266746.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 12: Miami Marlins vs Detroit Tigers @ 06:40 pm EDT
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/266747.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 13: Los Angeles Angels vs Cincinnati Reds @ 06:45 pm EDT
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/266748.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 14: Cleveland Guardians vs Atlanta Braves @ 07:15 pm EDT
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/266749.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 15: San Francisco Giants vs Baltimore Orioles @ 07:15 pm EDT
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/266750.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 16: Chicago White Sox vs Kansas City Royals @ 07:40 pm EDT
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/266751.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 17: Washington Nationals vs Milwaukee Brewers @ 07:40 pm EDT
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/266752.m3u8
 
 # --- MOVIE NETWORKS (41) ---
 #EXTINF:-1 tvg-logo="" group-title="MOVIE NETWORKS",UK: SKY CINEMA ACTION FHD
@@ -3623,35 +3645,47 @@ http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/17779.m3u8
 #EXTINF:-1 tvg-logo="https://thestreamable.com/media/pages/news/flash-sale-get-6-months-of-starz-for-only-3-33-a-month-so-you-can-binge-power-outlander-and-american-gods/3821036974-1583185843/starz.png" group-title="MOVIE NETWORKS",US Starz West (S)
 http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/21091.m3u8
 
-# --- NBA (14) ---
+# --- NBA (20) ---
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png" group-title="NBA",CA-NBA TV
 http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/22995.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png" group-title="NBA",USA: NBA TV
 http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/20073.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 01: Miami Heat vs Toronto Raptors @ 07:00 PM EDT
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/266679.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 02: Chicago Bulls vs Washington Wizards @ 07:00 PM EDT
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/266680.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 03: Indiana Pacers vs Brooklyn Nets @ 07:30 PM EDT
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/266681.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 04: Boston Celtics vs New York Knicks @ 07:30 PM EDT
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/266682.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 05: Philadelphia 76ers vs Houston Rockets @ 08:00 PM EDT
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/266683.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 06: Los Angeles Lakers vs Golden State Warriors @ 10:00 PM EDT
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/266684.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 01:Miami Heat vs Toronto Raptors
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/266685.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 02:Chicago Bulls vs Washington Wizards
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/266686.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 03:Indiana Pacers vs Brooklyn Nets
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/266687.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 04:Boston Celtics vs  New York Knicks
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/266688.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 05:Philadelphia 76ers vs Houston Rockets
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/266689.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 06:Los Angeles Lakers vs Golden State Warriors
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/266690.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 01: Detroit Pistons vs Charlotte Hornets @ 07:00 PM EDT
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/266721.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 02: Miami Heat vs Washington Wizards @ 07:00 PM EDT
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/266722.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 03: Cleveland Cavaliers vs Atlanta Hawks @ 07:00 PM EDT
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/266723.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 04: New Orleans Pelicans vs Boston Celtics @ 07:30 PM EDT
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/266724.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 05: Philadelphia 76ers vs Indiana Pacers @ 07:30 PM EDT
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/266725.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 06: Toronto Raptors vs New York Knicks @ 07:30 PM EDT
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/266726.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 07: Orlando Magic vs Chicago Bulls @ 08:00 PM EDT
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/266727.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 08: Brooklyn Nets vs Milwaukee Bucks @ 08:00 PM EDT
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/266728.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 09: Dallas Mavericks vs San Antonio Spurs @ 08:00 PM EDT
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/266729.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 10: Oklahoma City Thunder vs Denver Nuggets @ 09:00 PM EDT
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/266730.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 11: Minnesota Timberwolves vs Houston Rockets @ 09:30 PM EDT
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/266731.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 12: Memphis Grizzlies vs Utah Jazz @ 09:30 PM EDT
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/266732.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 13: LA Clippers vs Portland Trail Blazers @ 10:00 PM EDT
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/266733.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 14: Golden State Warriors vs Sacramento Kings @ 10:00 PM EDT
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/266734.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 15: Phoenix Suns vs Los Angeles Lakers @ 10:30 PM EDT
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/266735.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",Dirtvision : EVENT 01: Williams Grove Speedway (2026-04-10 19:00:00)
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/266759.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",Dirtvision : EVENT 02 : Farmer City Raceway (2026-04-10 19:15:00)
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/266760.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",Dirtvision : EVENT 03: I-55 Federated Auto Parts Raceway Park (2026-04-10 19:15:00)
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/266761.m3u8
 
 # --- NCAAB (5) ---
 #EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 001 | MARYLAND EASTERN SHORE @ YOUNGSTOWN STATE (W) | 3.24 6:30 PM | ESPN+
@@ -3713,41 +3747,9 @@ http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/253677.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NFL",NFL 15:
 http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/253678.m3u8
 
-# --- NHL (17) ---
+# --- NHL (1) ---
 #EXTINF:-1 tvg-logo="" group-title="NHL",US NHL Network
 http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/253636.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 01: CBJ VS BUF (SN Feed ) @ 7:00 pm
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/266696.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 02: TBL VS MTL (RDS Feed ) @ 7:00 pm
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/266697.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 03: PHI VS DET (SNE Feed ) @ 7:00 pm
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/266698.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 04: CGY VS COL (SNW Feed ) @ 9:00 pm
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/266699.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 05: CGY VS COL (ALT Feed ) @ 9:00 pm
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/266700.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 06: SJS VS ANA (TVAS Feed ) @ 10:00 pm
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/266701.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 07: SJS VS ANA (NBCSCA Feed ) @ 10:00 pm
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/266702.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 08: VGK VS SEA (SN Feed ) @ 10:00 pm
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/266703.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 09: VGK VS SEA (SN1 Feed ) @ 10:00 pm
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/266704.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 10: Toronto Maple Leafs vs New York Islanders @ 06:45 PM EDT
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/266705.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 11: Florida Panthers vs Ottawa Senators @ 07:00 PM EDT
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/266706.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 12: Pittsburgh Penguins vs New Jersey Devils @ 07:00 PM EDT
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/266707.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 14: Carolina Hurricanes vs Chicago Blackhawks @ 08:30 PM EDT
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/266709.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 15: Minnesota Wild vs Dallas Stars @ 09:00 PM EDT
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/266710.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 16: Nashville Predators vs Utah Mammoth @ 09:00 PM EDT
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/266711.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 17: Vancouver Canucks vs Los Angeles Kings @ 10:30 PM EDT
-http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/266712.m3u8
 
 # --- PERU (7) ---
 #EXTINF:-1 tvg-logo="" group-title="PERU",PE: PANAMERICANA HD
@@ -3777,13 +3779,25 @@ http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/101825.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PHILIPPINES",PH GMA Pinoy TV (X)
 http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/101826.m3u8
 
-# --- PPV | UFC (3) ---
+# --- PPV | UFC (9) ---
 #EXTINF:-1 tvg-logo="" group-title="PPV | UFC",USA PPV01: WWE RAW @ 08:00 PM EST
 http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/260494.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PPV | UFC",USA | WWE
 http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/260495.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PPV | UFC",USA | WWE Network
 http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/260496.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",USA PPV02: NCL 65: Monumental @ 06:30 PM EDT
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/266753.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",USA PPV03: Greektown Wrestling: April 10th @ 07:30 PM EDT
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/266754.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",USA PPV04: Williams Grove Speedway @ 07:00 PM EDT
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/266755.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",USA PPV05: I-55 Federated Auto Parts Raceway Park @ 07:15 PM EDT
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/266756.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",USA PPV06: Farmer City Raceway @ 07:15 PM EDT
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/266757.m3u8
+#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",USA PPV07: USMTS Hattiesburg Speedway 4/10/26 @ 07:00 PM EDT
+http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/266758.m3u8
 
 # --- Portugal (120) ---
 #EXTINF:-1 tvg-logo="" group-title="Portugal",PT (VF) Sport TV 7
@@ -13777,4 +13791,4 @@ http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/121046.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Vietnam",VN DA NANG 1 HD
 http://1tv41.icu:8080/live/4038135249/carolynne13@telus.net/121048.m3u8
 
-# Total: 6849
+# Total: 6856
