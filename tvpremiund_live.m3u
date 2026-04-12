@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: tvpremiund.ddns.me:2082
-# Generated: 2026-04-12 08:00:25
+# Generated: 2026-04-12 18:44:37
 # Expires: 2026-04-14
 # Family Safe Edition
 # ==============================================
@@ -767,7 +767,7 @@ http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/71508.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i0rZsgG.png" group-title="CHILE",Retro Plus 3
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/71509.m3u8
 
-# --- CHILE REGIONES (186) ---
+# --- CHILE REGIONES (185) ---
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/71_Antofagasta_TV.png" group-title="CHILE REGIONES",Antofagasta TV | CL
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/75793.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/462_Alternativa_TV.png" group-title="CHILE REGIONES",Alternativa TV | CL
@@ -1074,7 +1074,7 @@ http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/75710.m3u8
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/75743.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/354_TV8.png" group-title="CHILE REGIONES",TV8 | CL
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/75871.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qBn6dvB1/tv-muermo.png" group-title="CHILE REGIONES",TVM Op.1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qBn6dvB1/tv-muermo.png" group-title="CHILE REGIONES",TVM
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/50910.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1437_TVN3.png" group-title="CHILE REGIONES",TVN3 | CL
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/75745.m3u8
@@ -1128,8 +1128,6 @@ http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/75706.m3u8
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/75777.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1484_Zona_de_Prensa.png" group-title="CHILE REGIONES",Zona de Prensa ✪ | CL
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/75702.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qBn6dvB1/tv-muermo.png" group-title="CHILE REGIONES",TVM Op.2
-http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/76056.m3u8
 #EXTINF:-1 tvg-logo="https://suyaitv.cl/wp-content/uploads/2024/09/LogoSuyaiTVBL.png" group-title="CHILE REGIONES",Suyai TV
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/74827.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CHILE REGIONES",Caldera Vision TV
@@ -3201,7 +3199,7 @@ http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/70174.m3u8
 #EXTINF:-1 tvg-logo="https://players.grupodial.cl/player/radio/img/45b312bfd616a3430ab90167854fe44b08121256.png" group-title="MUSICA",Radio Duna TV
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/30.m3u8
 
-# --- OTROS (6295) ---
+# --- OTROS (6292) ---
 #EXTINF:-1 tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/dark.jpg" group-title="OTROS",Dark
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/67762.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/925_Nubeh_TV.png" group-title="OTROS",Nubeh TV ✪ | VE
@@ -15516,12 +15514,6 @@ http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/73305.m3u8
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/73306.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zNJlFMg.png" group-title="OTROS",TVM3 (1080p)
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/73307.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Vqv7R3Y.png" group-title="OTROS",TVM (480p)
-http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/73308.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jN5k8Ob.png" group-title="OTROS",TVM Córdoba (414p) [Not 24/7]
-http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/73309.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fRV6p50.png" group-title="OTROS",TVM Internacional (480p) [Not 24/7]
-http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/73310.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lhI8Rs0.png" group-title="OTROS",TVMás (720p)
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/73311.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/15kcNRb.png" group-title="OTROS",TVMÁS (XHGV-TDT) (360p) [Not 24/7]
@@ -16563,4 +16555,4 @@ http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/54866.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/520_Venevision.png" group-title="VENEZUELA",Venevision
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/2429.m3u8
 
-# Total: 8246
+# Total: 8242
