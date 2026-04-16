@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: predator.digital:8080
-# Generated: 2026-04-14 19:14:38
+# Generated: 2026-04-16 07:58:54
 # Expires: 2026-08-08
 # Family Safe Edition
 # ==============================================
@@ -5211,7 +5211,7 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/58781.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sweden",SE: Eurosport 2 HD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/58780.m3u8
 
-# --- Switzerland (40) ---
+# --- Switzerland (39) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/1024px-Flag_of_Switzerland.svg.png" group-title="Switzerland",=====Switzerland =====
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/12498.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Switzerland",CH: SRF 1 HD
@@ -5270,8 +5270,6 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/75258.m3u8
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/75257.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Switzerland",CH: TV25 HD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/75256.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Switzerland",CH: TVO HD
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/75255.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Switzerland",CH: TV Suedostschweiz HD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/75254.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Switzerland",CH: My Sports Edge
@@ -8871,9 +8869,11 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/64282.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Usa",You Tube: VH1
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/64281.m3u8
 
-# --- World Sports (179) ---
+# --- World Sports (180) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/International_flag_globe.png" group-title="World Sports",===World Sports===
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/12487.m3u8
+#EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: Bayern vs Real
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85491.m3u8
 #EXTINF:-1 tvg-logo="https://nimitv.com/assets/img/channels-new/artmotion/sport-1.png" group-title="World Sports",SPORT :Art Sport 1 ⁴ᴷ
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/67989.m3u8
 #EXTINF:-1 tvg-logo="https://nimitv.com/assets/img/channels-new/artmotion/sport-1.png" group-title="World Sports",SPORT :Art Sport 2 ⁴ᴷ

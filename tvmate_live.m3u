@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: tvmate.icu:8080
-# Generated: 2026-04-14 19:10:54
+# Generated: 2026-04-16 07:56:15
 # Expires: 2026-04-20
 # Family Safe Edition
 # ==============================================
@@ -1281,7 +1281,7 @@ http://tvmate.icu:8080/live/VM121628/56784321/125593.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Germany",DE QVC 2 HD (P)
 http://tvmate.icu:8080/live/VM121628/56784321/125594.m3u8
 
-# --- INDIA (24) ---
+# --- INDIA (25) ---
 #EXTINF:-1 tvg-logo="" group-title="INDIA",US (Hindi) Asian Sony Max 2 (S)
 http://tvmate.icu:8080/live/VM121628/56784321/125795.m3u8
 #EXTINF:-1 tvg-logo="" group-title="INDIA",US (Punjabi) Akaal Channel (D)
@@ -1330,6 +1330,8 @@ http://tvmate.icu:8080/live/VM121628/56784321/125828.m3u8
 http://tvmate.icu:8080/live/VM121628/56784321/125829.m3u8
 #EXTINF:-1 tvg-logo="" group-title="INDIA",US Asian News Only (Punjabi) (S)
 http://tvmate.icu:8080/live/VM121628/56784321/125830.m3u8
+#EXTINF:-1 tvg-logo="" group-title="INDIA",Test
+http://tvmate.icu:8080/live/VM121628/56784321/267131.m3u8
 
 # --- ITALY (51) ---
 #EXTINF:-1 tvg-logo="" group-title="ITALY",IT 20 Mediaset
@@ -1435,7 +1437,7 @@ http://tvmate.icu:8080/live/VM121628/56784321/266433.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ITALY",IT TV8 (D)
 http://tvmate.icu:8080/live/VM121628/56784321/266434.m3u8
 
-# --- KIDS ZONE (17) ---
+# --- KIDS ZONE (16) ---
 #EXTINF:-1 tvg-logo="" group-title="KIDS ZONE",CA YTV East
 http://tvmate.icu:8080/live/VM121628/56784321/63850.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KIDS ZONE",CA Cartoon Network
@@ -1452,8 +1454,6 @@ http://tvmate.icu:8080/live/VM121628/56784321/57347.m3u8
 http://tvmate.icu:8080/live/VM121628/56784321/57346.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KIDS ZONE",CA Nickelodeon (R)
 http://tvmate.icu:8080/live/VM121628/56784321/47349.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KIDS ZONE",CA Teletoon East (E)
-http://tvmate.icu:8080/live/VM121628/56784321/57372.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KIDS ZONE",CA Treehouse (R)
 http://tvmate.icu:8080/live/VM121628/56784321/57371.m3u8
 #EXTINF:-1 tvg-logo="https://logodix.com/logo/619307.png" group-title="KIDS ZONE",US Disney Channel East (A)
@@ -3519,41 +3519,31 @@ http://tvmate.icu:8080/live/VM121628/56784321/94384.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Radio",Radio1
 http://tvmate.icu:8080/live/VM121628/56784321/94391.m3u8
 
-# --- MLB (17) ---
+# --- MLB (12) ---
 #EXTINF:-1 tvg-logo="https://a4.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fmisc_logos%2F500%2Fmlb.png" group-title="MLB",MLB Network
 http://tvmate.icu:8080/live/VM121628/56784321/21360.m3u8
 #EXTINF:-1 tvg-logo="https://thestreamable.com/media/pages/news/sling-tv-adds-mlb-network-and-mlb-strike-zone-ahead-just-in-time-for-opening-day/de6b7ceff7-1618516374/cut-5-576x324.jpg" group-title="MLB",MLB Strike Zone
 http://tvmate.icu:8080/live/VM121628/56784321/65699.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 01: Astros VS Mariners (Astros Feed ) @ 16:10
-http://tvmate.icu:8080/live/VM121628/56784321/266966.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 02: D-backs VS Orioles (Orioles Feed ) @ 18:35
-http://tvmate.icu:8080/live/VM121628/56784321/266967.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 03: D-backs VS Orioles (D-backs Feed ) @ 18:35
-http://tvmate.icu:8080/live/VM121628/56784321/266968.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 04: Cubs VS Phillies (FS1 Feed ) @ 18:40
-http://tvmate.icu:8080/live/VM121628/56784321/266969.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 05: Cubs VS Phillies (Cubs Feed ) @ 18:40
-http://tvmate.icu:8080/live/VM121628/56784321/266970.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 06: Cubs VS Phillies (Phillies Feed ) @ 18:40
-http://tvmate.icu:8080/live/VM121628/56784321/266971.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 07: Angels VS Yankees (Yankees Feed ) @ 19:05
-http://tvmate.icu:8080/live/VM121628/56784321/266972.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 08: Red Sox VS Twins (Red Sox Feed ) @ 19:40
-http://tvmate.icu:8080/live/VM121628/56784321/266973.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 01: D-backs VS Orioles (Orioles Feed ) @ 12:35
+http://tvmate.icu:8080/live/VM121628/56784321/267134.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 02: D-backs VS Orioles (D-backs Feed ) @ 12:35
+http://tvmate.icu:8080/live/VM121628/56784321/267135.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 03: Red Sox VS Twins (Red Sox Feed ) @ 13:40
+http://tvmate.icu:8080/live/VM121628/56784321/267136.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 04: Giants VS Reds (Giants Feed ) @ 18:40
+http://tvmate.icu:8080/live/VM121628/56784321/267137.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 05: Cubs VS Phillies (Phillies Feed ) @ 18:40
+http://tvmate.icu:8080/live/VM121628/56784321/267138.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 06: Cubs VS Phillies (Cubs Feed ) @ 18:40
+http://tvmate.icu:8080/live/VM121628/56784321/267139.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 07: Rockies VS Astros (Astros Feed ) @ 20:10
+http://tvmate.icu:8080/live/VM121628/56784321/267140.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 08: Rockies VS Astros (Rockies Feed ) @ 20:10
+http://tvmate.icu:8080/live/VM121628/56784321/267141.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 09: Rangers VS Athletics (Athletics Feed ) @ 21:40
-http://tvmate.icu:8080/live/VM121628/56784321/266974.m3u8
+http://tvmate.icu:8080/live/VM121628/56784321/267142.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 10: Rangers VS Athletics (Rangers Feed ) @ 21:40
-http://tvmate.icu:8080/live/VM121628/56784321/266975.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 11: Mets VS Dodgers (Mets Feed ) @ 22:10
-http://tvmate.icu:8080/live/VM121628/56784321/266976.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 12: Mets VS Dodgers (Dodgers Feed ) @ 22:10
-http://tvmate.icu:8080/live/VM121628/56784321/266977.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 13: Washington Nationals vs Pittsburgh Pirates @ 6:40 pm EDT
-http://tvmate.icu:8080/live/VM121628/56784321/266978.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 14: Miami Marlins vs Atlanta Braves @ 7:15 pm EDT
-http://tvmate.icu:8080/live/VM121628/56784321/266979.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MLB",USA Real MLB 15: Cleveland Guardians vs St. Louis Cardinals @ 7:45 pm EDT
-http://tvmate.icu:8080/live/VM121628/56784321/266980.m3u8
+http://tvmate.icu:8080/live/VM121628/56784321/267143.m3u8
 
 # --- MOVIE NETWORKS (41) ---
 #EXTINF:-1 tvg-logo="" group-title="MOVIE NETWORKS",UK: SKY CINEMA ACTION FHD
@@ -3639,23 +3629,15 @@ http://tvmate.icu:8080/live/VM121628/56784321/17779.m3u8
 #EXTINF:-1 tvg-logo="https://thestreamable.com/media/pages/news/flash-sale-get-6-months-of-starz-for-only-3-33-a-month-so-you-can-binge-power-outlander-and-american-gods/3821036974-1583185843/starz.png" group-title="MOVIE NETWORKS",US Starz West (S)
 http://tvmate.icu:8080/live/VM121628/56784321/21091.m3u8
 
-# --- NBA (8) ---
+# --- NBA (4) ---
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png" group-title="NBA",CA-NBA TV
 http://tvmate.icu:8080/live/VM121628/56784321/22995.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png" group-title="NBA",USA: NBA TV
 http://tvmate.icu:8080/live/VM121628/56784321/20073.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 01:Orlando Magic vs  Boston Celtics
-http://tvmate.icu:8080/live/VM121628/56784321/266960.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 02:Washington Wizards vs Cleveland Cavaliers
-http://tvmate.icu:8080/live/VM121628/56784321/266961.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 03:Detroit Pistons vs Indiana Pacers
-http://tvmate.icu:8080/live/VM121628/56784321/266962.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 04:Atlanta Hawks vs Miami Heat
-http://tvmate.icu:8080/live/VM121628/56784321/266963.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 05:Charlotte Hornets vs New York Knicks
-http://tvmate.icu:8080/live/VM121628/56784321/266964.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NBA",NBA 06:Milwaukee Bucks vs Philadelphia 76ers
-http://tvmate.icu:8080/live/VM121628/56784321/266965.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 01: Orlando Magic vs Philadelphia 76ers @ 07:30 PM EDT
+http://tvmate.icu:8080/live/VM121628/56784321/267132.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NBA",USA Real NBA 02: Golden State Warriors vs LA Clippers @ 10:00 PM EDT
+http://tvmate.icu:8080/live/VM121628/56784321/267133.m3u8
 
 # --- NCAAB (5) ---
 #EXTINF:-1 tvg-logo="" group-title="NCAAB",NCAAB 001 | MARYLAND EASTERN SHORE @ YOUNGSTOWN STATE (W) | 3.24 6:30 PM | ESPN+
@@ -3717,33 +3699,27 @@ http://tvmate.icu:8080/live/VM121628/56784321/253677.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NFL",NFL 15:
 http://tvmate.icu:8080/live/VM121628/56784321/253678.m3u8
 
-# --- NHL (13) ---
+# --- NHL (7) ---
 #EXTINF:-1 tvg-logo="" group-title="NHL",US NHL Network
 http://tvmate.icu:8080/live/VM121628/56784321/253636.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 01: NYR VS FLA (TVAS Feed ) @ 7:00 pm
-http://tvmate.icu:8080/live/VM121628/56784321/266981.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 02: NYR VS FLA (MSG Feed ) @ 7:00 pm
-http://tvmate.icu:8080/live/VM121628/56784321/266982.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 03: CAR VS PHI (NBCSP Feed ) @ 7:00 pm
-http://tvmate.icu:8080/live/VM121628/56784321/266983.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 04: DAL VS TOR (Prime Feed ) @ 7:30 pm
-http://tvmate.icu:8080/live/VM121628/56784321/266984.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 05: SJS VS NSH (NBCSCA Feed ) @ 8:00 pm
-http://tvmate.icu:8080/live/VM121628/56784321/266985.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 06: COL VS EDM (SNW Feed ) @ 9:30 pm
-http://tvmate.icu:8080/live/VM121628/56784321/266986.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 07: COL VS EDM (TVAS Feed ) @ 9:30 pm
-http://tvmate.icu:8080/live/VM121628/56784321/266987.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 08: COL VS EDM (ALT Feed ) @ 9:30 pm
-http://tvmate.icu:8080/live/VM121628/56784321/266988.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 09: Detroit Red Wings vs Tampa Bay Lightning @ 07:00 PM EDT
-http://tvmate.icu:8080/live/VM121628/56784321/266989.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 11: Buffalo Sabres vs Chicago Blackhawks @ 08:30 PM EDT
-http://tvmate.icu:8080/live/VM121628/56784321/266991.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 12: Los Angeles Kings vs Seattle Kraken @ 09:30 PM EDT
-http://tvmate.icu:8080/live/VM121628/56784321/266992.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 13: Winnipeg Jets vs Vegas Golden Knights @ 10:00 PM EDT
-http://tvmate.icu:8080/live/VM121628/56784321/266993.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 01: NYR VS TBL (TVAS2 Feed ) @ 7:00 pm
+http://tvmate.icu:8080/live/VM121628/56784321/267144.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 02: NYR VS TBL (MSG Feed ) @ 7:00 pm
+http://tvmate.icu:8080/live/VM121628/56784321/267145.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 03: TOR VS OTT (SN Feed ) @ 7:30 pm
+http://tvmate.icu:8080/live/VM121628/56784321/267146.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 04: TOR VS OTT (TVAS Feed ) @ 7:30 pm
+http://tvmate.icu:8080/live/VM121628/56784321/267147.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 05: SJS VS CHI (NBCSCA Feed ) @ 8:30 pm
+http://tvmate.icu:8080/live/VM121628/56784321/267148.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NHL",USA Real NHL 06: SEA VS VGK (TVAS Feed ) @ 10:00 pm
+http://tvmate.icu:8080/live/VM121628/56784321/267149.m3u8
+
+# --- New Radio (2) ---
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/188/wihg-1057-the-hog.1c8b64c9.jpg" group-title="New Radio",WIHG 105.7 The Hog
+http://tvmate.icu:8080/live/VM121628/56784321/267082.m3u8
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/xnTKSYzx5X.png" group-title="New Radio",Dominicana Radio
+http://tvmate.icu:8080/live/VM121628/56784321/267083.m3u8
 
 # --- PERU (7) ---
 #EXTINF:-1 tvg-logo="" group-title="PERU",PE: PANAMERICANA HD
@@ -3773,79 +3749,13 @@ http://tvmate.icu:8080/live/VM121628/56784321/101825.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PHILIPPINES",PH GMA Pinoy TV (X)
 http://tvmate.icu:8080/live/VM121628/56784321/101826.m3u8
 
-# --- PPV | UFC (36) ---
+# --- PPV | UFC (3) ---
 #EXTINF:-1 tvg-logo="" group-title="PPV | UFC",USA PPV01: WWE RAW @ 08:00 PM EST
 http://tvmate.icu:8080/live/VM121628/56784321/260494.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PPV | UFC",USA | WWE
 http://tvmate.icu:8080/live/VM121628/56784321/260495.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PPV | UFC",USA | WWE Network
 http://tvmate.icu:8080/live/VM121628/56784321/260496.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 01:RWS April Inferno: Sangmanee vs. Bikrev
-http://tvmate.icu:8080/live/VM121628/56784321/266828.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 02:UFC 327: Prochka vs Ulberg
-http://tvmate.icu:8080/live/VM121628/56784321/266829.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 03:UFC 327: Prochka vs Ulberg Espal
-http://tvmate.icu:8080/live/VM121628/56784321/266830.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 04:CAGE WARRIORS 204 PRELIMS
-http://tvmate.icu:8080/live/VM121628/56784321/266831.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 05:CAGE WARRIORS 204
-http://tvmate.icu:8080/live/VM121628/56784321/266832.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 06:UFC 327: Multiview
-http://tvmate.icu:8080/live/VM121628/56784321/266833.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 07:FURY V MAKHMUDOV
-http://tvmate.icu:8080/live/VM121628/56784321/266834.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 08:PFL CHICAGO MAIN
-http://tvmate.icu:8080/live/VM121628/56784321/266835.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 09:PFL Chicago (Prelims)
-http://tvmate.icu:8080/live/VM121628/56784321/266836.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 10:PFI 18: The Road to the Belt
-http://tvmate.icu:8080/live/VM121628/56784321/266837.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 11:CAGE OF HONOR 96
-http://tvmate.icu:8080/live/VM121628/56784321/266838.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 12:COACHELLA MAIN
-http://tvmate.icu:8080/live/VM121628/56784321/266839.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 13:COACHELLA OUTDOOR STAGE
-http://tvmate.icu:8080/live/VM121628/56784321/266840.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 14:SAHARA STAGE COACHELLA
-http://tvmate.icu:8080/live/VM121628/56784321/266841.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 15:Mojave STAGE Coachella
-http://tvmate.icu:8080/live/VM121628/56784321/266842.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 16:GOBI STAGE COACHELLA
-http://tvmate.icu:8080/live/VM121628/56784321/266843.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 17:SONORA STAGE COACHELLA
-http://tvmate.icu:8080/live/VM121628/56784321/266844.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",PPV EVENT 18:QUASAR STAGE COACHELLA
-http://tvmate.icu:8080/live/VM121628/56784321/266845.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",USA PPV02: UFC 327:
-http://tvmate.icu:8080/live/VM121628/56784321/266846.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",USA PPV03: BKFC Fight Night: Pitolo vs. Coltrane (DAZN) @ 11:00 AM EDT
-http://tvmate.icu:8080/live/VM121628/56784321/266847.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",USA PPV05: TNA Rebellion (PPV App) @ 08:00 PM EDT
-http://tvmate.icu:8080/live/VM121628/56784321/266848.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",USA PPV06: Millbridge Speedway (dirtvision) @ 05:30 PM EDT
-http://tvmate.icu:8080/live/VM121628/56784321/266849.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",USA PPV07: Volusia Speedway Park (dirtvision) @ 06:00 PM EDT
-http://tvmate.icu:8080/live/VM121628/56784321/266850.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",USA PPV08: Farmer City Raceway (dirtvision) @ 06:15 PM EDT
-http://tvmate.icu:8080/live/VM121628/56784321/266851.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",USA PPV09: I-55 Federated Auto Parts Raceway Park (dirtvision) @ 07:15 PM EDT
-http://tvmate.icu:8080/live/VM121628/56784321/266852.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",USA PPV10: Salina Highbanks Speedway (dirtvision) @ 07:15 PM EDT
-http://tvmate.icu:8080/live/VM121628/56784321/266853.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",USA PPV11: USMTS Mitchell's Motorplex 4/11/26 (racindirt) @ 07:00 PM EDT
-http://tvmate.icu:8080/live/VM121628/56784321/266854.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",USA PPV12: Vado Speedway Park 4/11/26 (racindirt) @ 09:00 PM EDT
-http://tvmate.icu:8080/live/VM121628/56784321/266855.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",USA PPV13: wXw: We Love Wrestling 76 (fite tv) @ 01:00 PM EDT
-http://tvmate.icu:8080/live/VM121628/56784321/266856.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",USA PPV14: PFI 18: The Road to the Belt (fite tv) @ 06:00 PM EDT
-http://tvmate.icu:8080/live/VM121628/56784321/266857.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",USA PPV15: Cage of Honor 96 (fite tv) @ 08:00 PM EDT
-http://tvmate.icu:8080/live/VM121628/56784321/266858.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",USA PPV17: BKFC Fight Night Honolulu: Maki Pitolo vs Doug 'Coldred' Coltrane (fite tv) @ 11:00 PM EDT
-http://tvmate.icu:8080/live/VM121628/56784321/266859.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV | UFC",USA PPV18: Boxing: Tyson Fury vs Arslanbek Makhmudov @ 02:00 PM
-http://tvmate.icu:8080/live/VM121628/56784321/266860.m3u8
 
 # --- Portugal (120) ---
 #EXTINF:-1 tvg-logo="" group-title="Portugal",PT (VF) Sport TV 7
@@ -12477,11 +12387,9 @@ http://tvmate.icu:8080/live/VM121628/56784321/209775.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports Fanatic's",US FanDuel Sports Socal
 http://tvmate.icu:8080/live/VM121628/56784321/221151.m3u8
 
-# --- UK UNITED KINGDOM (51) ---
+# --- UK UNITED KINGDOM (46) ---
 #EXTINF:-1 tvg-logo="" group-title="UK UNITED KINGDOM",UK: RTE NEWS
 http://tvmate.icu:8080/live/VM121628/56784321/79108.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK UNITED KINGDOM",UK-5
-http://tvmate.icu:8080/live/VM121628/56784321/53675.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UK UNITED KINGDOM",UK-Alibi
 http://tvmate.icu:8080/live/VM121628/56784321/59030.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UK UNITED KINGDOM",UK: BBC NEWS
@@ -12506,14 +12414,10 @@ http://tvmate.icu:8080/live/VM121628/56784321/53752.m3u8
 http://tvmate.icu:8080/live/VM121628/56784321/53653.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UK UNITED KINGDOM",UK-Comedy Central
 http://tvmate.icu:8080/live/VM121628/56784321/53660.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK UNITED KINGDOM",UK Crime & Investigation FHD (D)
-http://tvmate.icu:8080/live/VM121628/56784321/53689.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UK UNITED KINGDOM",UK-Dave
 http://tvmate.icu:8080/live/VM121628/56784321/53659.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UK UNITED KINGDOM",UK-Discovery Channel
 http://tvmate.icu:8080/live/VM121628/56784321/53684.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK UNITED KINGDOM",UK-Discovery History
-http://tvmate.icu:8080/live/VM121628/56784321/53694.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UK UNITED KINGDOM",UK-Discovery Science
 http://tvmate.icu:8080/live/VM121628/56784321/53695.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UK UNITED KINGDOM",UK-Drama
@@ -12542,8 +12446,6 @@ http://tvmate.icu:8080/live/VM121628/56784321/53671.m3u8
 http://tvmate.icu:8080/live/VM121628/56784321/53673.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UK UNITED KINGDOM",US MTV Classic (A)
 http://tvmate.icu:8080/live/VM121628/56784321/53734.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK UNITED KINGDOM",UK-MTV Hits
-http://tvmate.icu:8080/live/VM121628/56784321/53735.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UK UNITED KINGDOM",UK-MTV UK
 http://tvmate.icu:8080/live/VM121628/56784321/53737.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UK UNITED KINGDOM",UK-MUTV
@@ -12556,8 +12458,6 @@ http://tvmate.icu:8080/live/VM121628/56784321/53728.m3u8
 http://tvmate.icu:8080/live/VM121628/56784321/53682.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UK UNITED KINGDOM",UK: RACING UK
 http://tvmate.icu:8080/live/VM121628/56784321/53741.m3u8
-#EXTINF:-1 tvg-logo="" group-title="UK UNITED KINGDOM",UK-Sky Cinema Animation
-http://tvmate.icu:8080/live/VM121628/56784321/53698.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UK UNITED KINGDOM",UK-Sky Cinema Family
 http://tvmate.icu:8080/live/VM121628/56784321/53699.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UK UNITED KINGDOM",UK Sky Cinema Comedy
@@ -12903,7 +12803,7 @@ http://tvmate.icu:8080/live/VM121628/56784321/176811.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA",US  Space City Home Network
 http://tvmate.icu:8080/live/VM121628/56784321/213668.m3u8
 
-# --- USA | NEWS | REGIONALS (449) ---
+# --- USA | NEWS | REGIONALS (450) ---
 #EXTINF:-1 tvg-logo="" group-title="USA | NEWS | REGIONALS",US NBC (KXAN) Austin
 http://tvmate.icu:8080/live/VM121628/56784321/17749.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA | NEWS | REGIONALS",AK | Anchorage | NBC KTUU
@@ -13802,6 +13702,8 @@ http://tvmate.icu:8080/live/VM121628/56784321/235784.m3u8
 http://tvmate.icu:8080/live/VM121628/56784321/235785.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA | NEWS | REGIONALS",US CBS 4 (WBZ) Boston
 http://tvmate.icu:8080/live/VM121628/56784321/253290.m3u8
+#EXTINF:-1 tvg-logo="" group-title="USA | NEWS | REGIONALS",Tampa Bay IND-WXPX
+http://tvmate.icu:8080/live/VM121628/56784321/267043.m3u8
 
 # --- Uruguay (2) ---
 #EXTINF:-1 tvg-logo="" group-title="Uruguay",URU: A+V HD
@@ -13839,4 +13741,4 @@ http://tvmate.icu:8080/live/VM121628/56784321/121046.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Vietnam",VN DA NANG 1 HD
 http://tvmate.icu:8080/live/VM121628/56784321/121048.m3u8
 
-# Total: 6880
+# Total: 6830

@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: exclusifott.pro:80
-# Generated: 2026-04-15 19:14:08
+# Generated: 2026-04-16 07:58:36
 # Expires: 2026-05-21
 # Family Safe Edition
 # ==============================================
@@ -13411,7 +13411,9 @@ http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/837897.mp4
 #EXTINF:-1 tvg-logo="http://103.176.90.118/stalker_portal/screenshots/74/7397.jpg" group-title="Movies | |SPT| SPORT BOXING",SPT Katie Taylor vs. Natasha Jonas
 http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/837889.mp4
 
-# --- Movies | |SPT| SPORT UFC (464) ---
+# --- Movies | |SPT| SPORT UFC (465) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/675fEoxLTqAARuKH7FYxJK9iNlP.jpg" group-title="Movies | |SPT| SPORT UFC",SPT - AEW Dynasty 2026 (2026)
+http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/2057093.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xOXOIhBtTtTDX5Pdi8ToGCFV7Ej.jpg" group-title="Movies | |SPT| SPORT UFC",SPT - UFC 327: Procházka vs. Ulberg (2026)
 http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/2055997.mkv
 #EXTINF:-1 tvg-logo="https://ufc.com/images/styles/inline/s3/2026-02/11115194954_04-04_BoutAnn_VJ-TR_Por.jpg?itok=HsOE45PE" group-title="Movies | |SPT| SPORT UFC",SPT - UFC Fight Night : Virna Jandiroba vs Tabatha Ricci (2026)
@@ -15710,7 +15712,7 @@ http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/40906
 http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/40884
 #EXTINF:-1 tvg-logo="" group-title="Series | |MULTI| NETFLIX SERIES",NF - Roman Empire (2016)
 http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/40451
-#EXTINF:-1 tvg-logo="" group-title="Series | |MULTI| NETFLIX SERIES",NF - Perfil Falso, Fake Profile (2023)
+#EXTINF:-1 tvg-logo="" group-title="Series | |MULTI| NETFLIX SERIES",NF - Fake Profile, Perfil Falso (2023)
 http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/39962
 #EXTINF:-1 tvg-logo="" group-title="Series | |MULTI| NETFLIX SERIES",NF - Hound's Hill (2025)
 http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/39947
@@ -18093,4 +18095,4 @@ http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/35745
 #EXTINF:-1 tvg-logo="" group-title="Series | |RO| ROMANIAN SERIES",RO - Resident Evil: Infinite Darkness (2021)
 http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/35746
 
-# Total: 8999
+# Total: 9000
