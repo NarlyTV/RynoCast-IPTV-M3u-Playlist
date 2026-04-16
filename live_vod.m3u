@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: live.iptv.wtf
-# Generated: 2026-04-16 08:04:17
+# Generated: 2026-04-16 19:27:51
 # Expires: Unlimited
 # Family Safe Edition
 # ==============================================
@@ -5583,7 +5583,7 @@ http://live.iptv.wtf/movie/xmwwyxpd/5spv0D19Qw/15673.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qR2yPQOGw402RJMScTg5jmxLTkR.jpg" group-title="Movies | VOD",Hijos de perra (2023)
 http://live.iptv.wtf/movie/xmwwyxpd/5spv0D19Qw/15674.mkv
 
-# --- Series | Series (162) ---
+# --- Series | Series (163) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series",Por trece razones
 http://live.iptv.wtf/series/xmwwyxpd/5spv0D19Qw/1
 #EXTINF:-1 tvg-logo="" group-title="Series | Series",Malcolm el de En Medio
@@ -5908,6 +5908,8 @@ http://live.iptv.wtf/series/xmwwyxpd/5spv0D19Qw/180
 http://live.iptv.wtf/series/xmwwyxpd/5spv0D19Qw/181
 #EXTINF:-1 tvg-logo="" group-title="Series | Series",Olympo
 http://live.iptv.wtf/series/xmwwyxpd/5spv0D19Qw/182
+#EXTINF:-1 tvg-logo="" group-title="Series | Series",Fallout
+http://live.iptv.wtf/series/xmwwyxpd/5spv0D19Qw/186
 
 # --- Series | Series en emisión / agregadas recientemente (2) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series en emisión / agregadas recientemente",El caballero de los Siete Reinos
@@ -5915,4 +5917,4 @@ http://live.iptv.wtf/series/xmwwyxpd/5spv0D19Qw/183
 #EXTINF:-1 tvg-logo="" group-title="Series | Series en emisión / agregadas recientemente",Malcolm in the Middle: La vida sigue siendo injusta 2026
 http://live.iptv.wtf/series/xmwwyxpd/5spv0D19Qw/184
 
-# Total: 2939
+# Total: 2940

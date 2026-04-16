@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: 206.212.244.71:8080
-# Generated: 2026-04-16 08:03:03
+# Generated: 2026-04-16 19:13:48
 # Expires: 2026-06-05
 # Family Safe Edition
 # ==============================================
@@ -28485,9 +28485,11 @@ http://206.212.244.71:8080/series/BRIDGITS@YAHOO.COM/BRIDGITS@2022/2347
 #EXTINF:-1 tvg-logo="" group-title="Series | 2025 TV Series",Heated Rivalry
 http://206.212.244.71:8080/series/BRIDGITS@YAHOO.COM/BRIDGITS@2022/2349
 
-# --- Series | 2026 TV Series (1) ---
+# --- Series | 2026 TV Series (2) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | 2026 TV Series",Memory of a Killer
 http://206.212.244.71:8080/series/BRIDGITS@YAHOO.COM/BRIDGITS@2022/2353
+#EXTINF:-1 tvg-logo="" group-title="Series | 2026 TV Series",Star Wars: Maul - Shadow Lord
+http://206.212.244.71:8080/series/BRIDGITS@YAHOO.COM/BRIDGITS@2022/2361
 
 # --- Series | All Series (333) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | All Series",Black Mirror
@@ -29157,4 +29159,4 @@ http://206.212.244.71:8080/series/BRIDGITS@YAHOO.COM/BRIDGITS@2022/2354
 #EXTINF:-1 tvg-logo="" group-title="Series | All Series",Young Justice
 http://206.212.244.71:8080/series/BRIDGITS@YAHOO.COM/BRIDGITS@2022/2360
 
-# Total: 14518
+# Total: 14519

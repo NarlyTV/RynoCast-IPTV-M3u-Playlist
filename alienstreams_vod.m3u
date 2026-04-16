@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: alienstreams.fi:8080
-# Generated: 2026-04-16 07:52:58
+# Generated: 2026-04-16 19:20:40
 # Expires: 2026-12-29
 # Family Safe Edition
 # ==============================================
@@ -18898,6 +18898,14 @@ http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/405122
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/403526
 
 # --- Series | Svenska Serier [Series] (293) ---
+#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Fångat på polisens kamera
+http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/477209
+#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Förrädarna
+http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/489667
+#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Robinson
+http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/481721
+#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Wahlgrens Värld
+http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/477780
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Jagad - kändisar på rymmen
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/496023
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Högspänning
@@ -18908,8 +18916,6 @@ http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/489940
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/495288
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Poliserna i våldsvågen
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/495274
-#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Fångat på polisens kamera
-http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/477209
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Över Atlanten
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/495173
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Gränsbevakarna Sverige
@@ -18930,8 +18936,6 @@ http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/487947
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/496816
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Festen
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/499089
-#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Robinson
-http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/481721
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Robinson: Gränslandet
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/481827
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Masked Singer Sverige
@@ -18944,8 +18948,6 @@ http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/497632
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/496762
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Gilla läget
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/494634
-#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Wahlgrens Värld
-http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/477780
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Veronika
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/489720
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Husdrömmar
@@ -19038,8 +19040,6 @@ http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/489735
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/490529
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Tjuvarnas jul
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/490504
-#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Förrädarna
-http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/489667
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Förrädarna - Gravkammaren
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/489666
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Barna Hedenhös uppfinner julen
