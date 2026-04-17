@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: blackiptv.net:8080
-# Generated: 2026-04-16 19:24:41
+# Generated: 2026-04-17 07:55:19
 # Expires: 2026-12-21
 # Family Safe Edition
 # ==============================================
@@ -12629,9 +12629,13 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1637.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ HBO MAX/BLUTV",The Chair Company (2025)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1658.mp4
 
-# --- Movies | TR/DIZI ~ NETFLIX (DUAL) (515) ---
+# --- Movies | TR/DIZI ~ NETFLIX (DUAL) (517) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ NETFLIX (DUAL)",Jene Nacht (2026) TR
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/2101.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ NETFLIX (DUAL)",Hırsızlar (2024) TR
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/2159.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ NETFLIX (DUAL)",Bloodhounds (2023) TR
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/2158.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ NETFLIX (DUAL)",Big Mistakes (2026) TR
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/2154.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ NETFLIX (DUAL)",House, M.D. (2004) TR
@@ -22563,4 +22567,4 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/71030.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t8EQllq34VC5mooiJw1vVFOlM4x.jpg" group-title="Movies | TR/FILM ~ YILBASI ÖZEL",O Ses Türkiye  Yilbasi Özel 2025
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/54778.mp4
 
-# Total: 11130
+# Total: 11132

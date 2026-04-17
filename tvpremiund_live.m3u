@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: tvpremiund.ddns.me:2082
-# Generated: 2026-04-16 19:16:45
+# Generated: 2026-04-17 07:49:58
 # Expires: 2026-05-14
 # Family Safe Edition
 # ==============================================
@@ -65,7 +65,7 @@ http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/27313.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ALEMANIA",Unserding
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/27314.m3u8
 
-# --- ARGENTINA (41) ---
+# --- ARGENTINA (42) ---
 #EXTINF:-1 tvg-logo="https://brandlogo.org/wp-content/uploads/2025/02/A24-Logo-2025.png" group-title="ARGENTINA",A24
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/2339.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W3cHHNd9/lnplus.png" group-title="ARGENTINA",LN+ La Nación
@@ -148,6 +148,8 @@ http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/79890.m3u8
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/81935.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xtu85tb.png" group-title="ARGENTINA",Neo TV
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/69881.m3u8
+#EXTINF:-1 tvg-logo="https://television.com.ar/wp-content/uploads/2025/11/Arg-12.jpg" group-title="ARGENTINA",Argentina 12 - Ar | 12
+http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/137321.m3u8
 
 # --- BOLIVIA (17) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/ATB_logo_nuevo.png" group-title="BOLIVIA",ATB
@@ -16397,7 +16399,7 @@ http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/81385.m3u8
 #EXTINF:-1 tvg-logo="https://masmusica.lanacion.com.ar/assets/img/logo-masmusica.png" group-title="Unknown",LN+ Musica (Argentina)
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/81956.m3u8
 
-# --- VARIEDADES (66) ---
+# --- VARIEDADES (67) ---
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f40e8d9331b1b4bcde803699fa46f7fd.webp" group-title="VARIEDADES",Andorra Difusión
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/6897.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/512px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="VARIEDADES",CNN en Español
@@ -16530,6 +16532,8 @@ http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/128109.m3u8
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/137318.m3u8
 #EXTINF:-1 tvg-logo="https://cordcutting.com/wp-content/uploads/2018/01/trutv-logo.png" group-title="VARIEDADES",TruTV
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/72867.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png" group-title="VARIEDADES",Telemundo Noticias Ahora
+http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/137320.m3u8
 
 # --- VENEZUELA (11) ---
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/108656_Catatumbo_TV.png" group-title="VENEZUELA",Catatumbo TV
@@ -16555,4 +16559,4 @@ http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/54866.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/520_Venevision.png" group-title="VENEZUELA",Venevision
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/2429.m3u8
 
-# Total: 8242
+# Total: 8244
