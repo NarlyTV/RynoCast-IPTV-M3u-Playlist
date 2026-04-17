@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: hdhd.tk:80
-# Generated: 2026-04-17 08:05:46
+# Generated: 2026-04-17 19:01:03
 # Expires: 2027-10-14
 # Family Safe Edition
 # ==============================================
@@ -3495,10 +3495,12 @@ http://hdhd.tk:80/live/Amanda1/Frechette1/42671.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS Golf",Golf 20
 http://hdhd.tk:80/live/Amanda1/Frechette1/42672.m3u8
 
-# --- SPORTS NBA G (4) ---
-#EXTINF:-1 tvg-logo="" group-title="SPORTS NBA G",NBA G League 01 Cleveland Charge vs. Noblesville Boom 7:00 pm EDT
+# --- SPORTS NBA G (5) ---
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NBA G",NBA G League 01
 http://hdhd.tk:80/live/Amanda1/Frechette1/366875.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS NBA G",NBA G League 03  Sioux Falls Skyforce vs. South Bay Lakers 10:00 pm EDT
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NBA G",NBA G League 02
+http://hdhd.tk:80/live/Amanda1/Frechette1/366876.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NBA G",NBA G League 03
 http://hdhd.tk:80/live/Amanda1/Frechette1/366877.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS NBA G",NBA G League 04:
 http://hdhd.tk:80/live/Amanda1/Frechette1/366878.m3u8
@@ -3750,25 +3752,25 @@ http://hdhd.tk:80/live/Amanda1/Frechette1/399636.m3u8
 http://hdhd.tk:80/live/Amanda1/Frechette1/399637.m3u8
 
 # --- SPORTS NCAA Softball (8) ---
-#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA Softball",NCAA Softball 01 IU Indianapolis vs. Eastern Kentucky 1:30 pm EST
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA Softball",NCAA Softball 01
 http://hdhd.tk:80/live/Amanda1/Frechette1/42811.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA Softball",NCAA Softball 02: Kansas City vs. Northern Colorado 3:00 pm EST
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA Softball",NCAA Softball 02:
 http://hdhd.tk:80/live/Amanda1/Frechette1/42812.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA Softball",NCAA Softball 03 : Southern Utah vs. Idaho State 4:00 pm EST
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA Softball",NCAA Softball 03 :
 http://hdhd.tk:80/live/Amanda1/Frechette1/821790.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA Softball",NCAA Softball 04: Northwestern State vs. Houston Christian 5:00 pm	EST
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA Softball",NCAA Softball 04:
 http://hdhd.tk:80/live/Amanda1/Frechette1/821791.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA Softball",NCAA Softball 05 : Kansas City vs. Northern Colorado 5:30 pm EST
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA Softball",NCAA Softball 05 :
 http://hdhd.tk:80/live/Amanda1/Frechette1/821792.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA Softball",NCAA Softball 06: SE Louisiana vs. UT Arlington 6:00 pm
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA Softball",NCAA Softball 06:
 http://hdhd.tk:80/live/Amanda1/Frechette1/821793.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA Softball",NCAA Softball 07 - Georgia State Panthers vs. Georgia Bulldogs 06:00 PM EST
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA Softball",NCAA Softball 07
 http://hdhd.tk:80/live/Amanda1/Frechette1/821794.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA Softball",NCAA Softball 08 - Mississippi State Bulldogs vs. UAB Blazers 06:00 PM EST
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA Softball",NCAA Softball 08
 http://hdhd.tk:80/live/Amanda1/Frechette1/821795.m3u8
 
 # --- SPORTS NCAA WOMEN BASKETBALL (80) ---
-#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA WOMEN BASKETBALL",NCAAW B 01 Merrimack Warriors vs. Northeastern Huskies 11:00 AM EDT
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA WOMEN BASKETBALL",NCAAW B 01
 http://hdhd.tk:80/live/Amanda1/Frechette1/39395.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA WOMEN BASKETBALL",NCAAW B 02
 http://hdhd.tk:80/live/Amanda1/Frechette1/39396.m3u8
@@ -4192,7 +4194,7 @@ http://hdhd.tk:80/live/Amanda1/Frechette1/395327.m3u8
 http://hdhd.tk:80/live/Amanda1/Frechette1/395328.m3u8
 
 # --- SPORTS TENNIS (20) ---
-#EXTINF:-1 tvg-logo="" group-title="SPORTS TENNIS",Tennis 01: Big 12 CrossCourt Cast @ 2:00 pm EST
+#EXTINF:-1 tvg-logo="" group-title="SPORTS TENNIS",Tennis 01:
 http://hdhd.tk:80/live/Amanda1/Frechette1/45770.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS TENNIS",Tennis 02
 http://hdhd.tk:80/live/Amanda1/Frechette1/45771.m3u8
@@ -6218,9 +6220,9 @@ http://hdhd.tk:80/live/Amanda1/Frechette1/383428.m3u8
 # --- USA NBA (18) ---
 #EXTINF:-1 tvg-logo="https://static.epg.best/us/NBATV.us.png" group-title="USA NBA",US NBA TV
 http://hdhd.tk:80/live/Amanda1/Frechette1/6634.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/us/NBATV.us.png" group-title="USA NBA",USA NBA 01:  Orlando Magic vs Philadelphia 76ers @ 07:30 PM EDT
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/NBATV.us.png" group-title="USA NBA",USA NBA 01:
 http://hdhd.tk:80/live/Amanda1/Frechette1/12701.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/us/NBATV.us.png" group-title="USA NBA",USA NBA 02: Golden State Warriors vs LA Clippers @ 10:00 PM EDT
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/NBATV.us.png" group-title="USA NBA",USA NBA 02:
 http://hdhd.tk:80/live/Amanda1/Frechette1/12702.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/us/NBATV.us.png" group-title="USA NBA",USA NBA 03:
 http://hdhd.tk:80/live/Amanda1/Frechette1/12703.m3u8
@@ -7983,4 +7985,4 @@ http://hdhd.tk:80/live/Amanda1/Frechette1/330321.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Vietnam",VN FILM24H
 http://hdhd.tk:80/live/Amanda1/Frechette1/330322.m3u8
 
-# Total: 3894
+# Total: 3895

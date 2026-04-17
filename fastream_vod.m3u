@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: fastream.xyz:8080
-# Generated: 2026-04-17 07:52:13
+# Generated: 2026-04-17 19:07:10
 # Expires: 2026-10-20
 # Family Safe Edition
 # ==============================================
@@ -18225,7 +18225,7 @@ http://fastream.xyz:8080/series/940246862tv/12ws79/2562
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES COMEDIA ←",Malcolm in the Middle: La vida sigue siendo injusta
 http://fastream.xyz:8080/series/940246862tv/12ws79/2568
 
-# --- Series | → SERIES CRIMEN ← (161) ---
+# --- Series | → SERIES CRIMEN ← (162) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES CRIMEN ←",¿Sabes quién es?
 http://fastream.xyz:8080/series/940246862tv/12ws79/5
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES CRIMEN ←",Chicago P.D.
@@ -18548,6 +18548,8 @@ http://fastream.xyz:8080/series/940246862tv/12ws79/2542
 http://fastream.xyz:8080/series/940246862tv/12ws79/2544
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES CRIMEN ←",Scarpetta: Medico forense
 http://fastream.xyz:8080/series/940246862tv/12ws79/2550
+#EXTINF:-1 tvg-logo="" group-title="Series | → SERIES CRIMEN ←",Alguien tiene que saber
+http://fastream.xyz:8080/series/940246862tv/12ws79/2570
 
 # --- Series | → SERIES DC ← (15) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DC ←",Arrow
@@ -18609,7 +18611,7 @@ http://fastream.xyz:8080/series/940246862tv/12ws79/755
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DEPORTES ←",Undertaker: The Last Ride
 http://fastream.xyz:8080/series/940246862tv/12ws79/756
 
-# --- Series | → SERIES DOCUMENTALES ← (80) ---
+# --- Series | → SERIES DOCUMENTALES ← (81) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DOCUMENTALES ←",12 días que estremecieron Chile
 http://fastream.xyz:8080/series/940246862tv/12ws79/8
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DOCUMENTALES ←",800 metros
@@ -18770,6 +18772,8 @@ http://fastream.xyz:8080/series/940246862tv/12ws79/2540
 http://fastream.xyz:8080/series/940246862tv/12ws79/2547
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DOCUMENTALES ←",El Asesino de TikTok
 http://fastream.xyz:8080/series/940246862tv/12ws79/2548
+#EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DOCUMENTALES ←",Ronaldinho
+http://fastream.xyz:8080/series/940246862tv/12ws79/2569
 
 # --- Series | → SERIES DRAMA ← (304) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DRAMA ←",4 Blocks
@@ -19903,4 +19907,4 @@ http://fastream.xyz:8080/series/940246862tv/12ws79/2345
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES TERROR-THRILLER-SUSPENSO ←",It: Bienvenidos a Derry
 http://fastream.xyz:8080/series/940246862tv/12ws79/2492
 
-# Total: 9875
+# Total: 9877
