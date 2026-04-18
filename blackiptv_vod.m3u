@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: blackiptv.net:8080
-# Generated: 2026-04-17 19:03:16
+# Generated: 2026-04-18 07:30:40
 # Expires: 2026-12-21
 # Family Safe Edition
 # ==============================================
@@ -22559,7 +22559,9 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/63325.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b4UkHtgGbUFaUx2xQCR5JBmh139.jpg" group-title="Movies | TR/FILM ~ YERLI 2025",Ona Niyet Sana Kısmet (2025)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/63372.mkv
 
-# --- Movies | TR/FILM ~ YERLI 2026 (1) ---
+# --- Movies | TR/FILM ~ YERLI 2026 (2) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hykA5yq9tHCKR7WENSgavrNdFeS.jpg" group-title="Movies | TR/FILM ~ YERLI 2026",Soyut Dışavurumcu Bir Dostluğun Anatomisi Veyahut Yan Yana (2025)
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/72181.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mnBW7o8ycDi8WotGeRkGoDxrNMd.jpg" group-title="Movies | TR/FILM ~ YERLI 2026",Sonunda Sen - 2026
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/71030.mp4
 
@@ -22567,4 +22569,4 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/71030.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t8EQllq34VC5mooiJw1vVFOlM4x.jpg" group-title="Movies | TR/FILM ~ YILBASI ÖZEL",O Ses Türkiye  Yilbasi Özel 2025
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/54778.mp4
 
-# Total: 11132
+# Total: 11133
