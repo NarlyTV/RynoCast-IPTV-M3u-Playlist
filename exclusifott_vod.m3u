@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: exclusifott.pro:80
-# Generated: 2026-04-19 08:06:06
+# Generated: 2026-04-19 18:46:34
 # Expires: 2026-05-21
 # Family Safe Edition
 # ==============================================
@@ -14345,7 +14345,9 @@ http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/662595.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lASk3hkTskM9vLDgnGTdTxIRonC.jpg" group-title="Movies | |SPT| SPORT UFC",vUFC 254: Khabib vs. Gaethje  (2020)
 http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/837970.mp4
 
-# --- Movies | |SPT| SPORT WWE (211) ---
+# --- Movies | |SPT| SPORT WWE (212) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/97mc3GGcYayJjFNR5Cn4mXKlRcJ.jpg" group-title="Movies | |SPT| SPORT WWE",SPT - WWE WrestleMania 42 - Saturday (2026)
+http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/2059805.mkv
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwPngpM0q07gdj9kN21-nFkp-bNNt3_OKo_w&s" group-title="Movies | |SPT| SPORT WWE",SPT - WWE SmackDown 2026.03.13
 http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/2042252.mp4
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwPngpM0q07gdj9kN21-nFkp-bNNt3_OKo_w&s" group-title="Movies | |SPT| SPORT WWE",SPT - WWE SmackDown 2026.03.06
@@ -18097,4 +18099,4 @@ http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/35745
 #EXTINF:-1 tvg-logo="" group-title="Series | |RO| ROMANIAN SERIES",RO - Resident Evil: Infinite Darkness (2021)
 http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/35746
 
-# Total: 9001
+# Total: 9002
