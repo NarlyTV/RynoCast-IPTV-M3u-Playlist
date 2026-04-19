@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: stklatino.dynns.com:2082
-# Generated: 2026-04-18 18:56:47
+# Generated: 2026-04-19 08:07:54
 # Expires: 2026-08-11
 # Family Safe Edition
 # ==============================================
@@ -11323,7 +11323,7 @@ http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/135458.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2HB7mzn6XivCDiHFwOBv5ZD0W6k.jpg" group-title="Movies | DISNEY",Disney Princess Concert: Celebrating 70 Years of Disneyland (2025)
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/136626.mkv
 
-# --- Movies | DOCUMENTALES (450) ---
+# --- Movies | DOCUMENTALES (451) ---
 #EXTINF:-1 tvg-logo="http://www.trailermedia.com.uy/data/trabajos/ff_23_es.jpg" group-title="Movies | DOCUMENTALES",Alexis Viera: Una Historia de Superación (2019)
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/3819.mkv
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Coptotermes_formosanus_shiraki_USGov_k8204-7.jpg/400px-Coptotermes_formosanus_shiraki_USGov_k8204-7.jpg" group-title="Movies | DOCUMENTALES",Ataque de Insectos
@@ -12224,8 +12224,10 @@ http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/2459.mp4
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/2471.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DOCUMENTALES",De polo a polo con Will Smith
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/2536.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | DOCUMENTALES",Confía en mí: El falso profeta
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/2590.mp4
 
-# --- Movies | DRAMA (1366) ---
+# --- Movies | DRAMA (1368) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8YcjGJtW4AEHyNH8yrs8FAaPBM.jpg" group-title="Movies | DRAMA",12 valientes (2018)
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/3344.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1XbNkZMLXD9dYGZJ87nmQ62Mp2l.jpg" group-title="Movies | DRAMA",127 Horas (2010)
@@ -14954,10 +14956,14 @@ http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/2576.mp4
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/2577.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DRAMA",Algo terrible está a punto de suceder
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/2581.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | DRAMA",Beso de sirena
-http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/2582.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DRAMA",Las gotas de Dios
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/2586.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | DRAMA",DOC
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/2589.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | DRAMA",Beso de sirena
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/2592.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | DRAMA",Marshals: Una historia de Yellowstone
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/2593.mp4
 
 # --- Movies | INFANTILES (912) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gp7d1OGYpBGyG5E6fr1fMi01bvK.jpg" group-title="Movies | INFANTILES",Abominable (2019)
@@ -22711,4 +22717,4 @@ http://stklatino.dynns.com:2082/series/maldonadoluis/frEbTPk9DN3L/2579
 #EXTINF:-1 tvg-logo="" group-title="Series | TELESERIES",Hermanas, un amor compartido
 http://stklatino.dynns.com:2082/series/maldonadoluis/frEbTPk9DN3L/2580
 
-# Total: 11320
+# Total: 11323

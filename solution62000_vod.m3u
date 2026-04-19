@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: solution62000.mine.nu:8000
-# Generated: 2026-04-18 18:48:44
+# Generated: 2026-04-19 07:56:39
 # Expires: 2026-12-19
 # Family Safe Edition
 # ==============================================
@@ -1117,7 +1117,9 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/7300.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wkUCQaXIc9qkqplDJZIuxRHLQNq.jpg" group-title="Movies | FILMS TURK",Malazgirt 1071 - 2022
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/5531.mp4
 
-# --- Movies | Films (1542) ---
+# --- Movies | Films (1544) ---
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1jLnjDT6eyI0dTqucvTaTpUJVsY.jpg" group-title="Movies | Films",Zombies 4 : L'aube des vampires (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/26354.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/m6ZGxUu0JyV7Cyj9xDR8capgrzb.jpg" group-title="Movies | Films",Cold Wallet (2026)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/26334.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/86veNrARvGRyBRiGT94Lxpy5Z4S.jpg" group-title="Movies | Films",Outbreak (2026)
@@ -1234,6 +1236,8 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/21982.mkv
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/21981.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/27j9fRcvtaskGPsuHXvVTAi1fEc.jpg" group-title="Movies | Films",The Internship (2026)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/21941.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ws9wCKrqMsS700OOScv8L52wJMa.jpg" group-title="Movies | Films",L’Âme Idéale (2025)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/26353.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5mQOefrjyMEq8qaFagEVX2i4SH8.jpg" group-title="Movies | Films",Animal Totem (2025)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/26269.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6JdZASQ9tVwc14U7evMdU2TNipb.jpg" group-title="Movies | Films",Inexplicable (2025)
@@ -7845,4 +7849,4 @@ http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1111
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Then You Run
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1114
 
-# Total: 3889
+# Total: 3891

@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: live.iptv.wtf
-# Generated: 2026-04-18 18:55:30
+# Generated: 2026-04-19 07:56:20
 # Expires: Unlimited
 # Family Safe Edition
 # ==============================================
@@ -677,7 +677,7 @@ http://live.iptv.wtf/live/xmwwyxpd/5spv0D19Qw/13821.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Culturales",Love Nature
 http://live.iptv.wtf/live/xmwwyxpd/5spv0D19Qw/15835.m3u8
 
-# --- Deportes (109) ---
+# --- Deportes (108) ---
 #EXTINF:-1 tvg-logo="" group-title="Deportes",Al Jazeera
 http://live.iptv.wtf/live/xmwwyxpd/5spv0D19Qw/14031.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Deportes",Al Jazeera HD
@@ -750,11 +750,9 @@ http://live.iptv.wtf/live/xmwwyxpd/5spv0D19Qw/3483.m3u8
 http://live.iptv.wtf/live/xmwwyxpd/5spv0D19Qw/13567.m3u8
 #EXTINF:-1 tvg-logo="http://logos.iptv.wtf/deportes/espnhd.png" group-title="Deportes",ESPN HD
 http://live.iptv.wtf/live/xmwwyxpd/5spv0D19Qw/3474.m3u8
-#EXTINF:-1 tvg-logo="http://logos.iptv.wtf/deportes/espn.png" group-title="Deportes",ESPN Perú
-http://live.iptv.wtf/live/xmwwyxpd/5spv0D19Qw/11711.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Deportes",ESPN Premium HD
 http://live.iptv.wtf/live/xmwwyxpd/5spv0D19Qw/14002.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Deportes",ESPN Premium HD *
+#EXTINF:-1 tvg-logo="" group-title="Deportes",ESPN Premium ARG HD
 http://live.iptv.wtf/live/xmwwyxpd/5spv0D19Qw/9678.m3u8
 #EXTINF:-1 tvg-logo="http://logos.iptv.wtf/deportes/espnhd.png" group-title="Deportes",ESPN Sur HD
 http://live.iptv.wtf/live/xmwwyxpd/5spv0D19Qw/13505.m3u8
@@ -1719,4 +1717,4 @@ http://live.iptv.wtf/live/xmwwyxpd/5spv0D19Qw/15186.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Venezuela",VE: Promar TV
 http://live.iptv.wtf/live/xmwwyxpd/5spv0D19Qw/15187.m3u8
 
-# Total: 832
+# Total: 831

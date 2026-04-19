@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: predator.digital:8080
-# Generated: 2026-04-18 18:43:27
+# Generated: 2026-04-19 07:54:32
 # Expires: 2026-08-08
 # Family Safe Edition
 # ==============================================
@@ -1585,13 +1585,9 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/85380.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: Sporteurope| Eishockey - DEL2 Event 10
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/85379.m3u8
 
-# --- Digitalb (84) ---
+# --- Digitalb (82) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Digitalb_logo.png" group-title="Digitalb",====Digitalb====
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/80736.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Digitalb",AL: Big Brother VIP 1 AL
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/81953.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Digitalb",AL: Big Brother VIP 2 AL
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/81954.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Digitalb",AL: SS-1 HD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/78038.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Digitalb",AL: SS-2 HD
@@ -3929,7 +3925,7 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/81961.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Portugal",PT: SPORTING TV
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/81960.m3u8
 
-# --- Shqiptare (450) ---
+# --- Shqiptare (446) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Flag_of_Albania.svg/1280px-Flag_of_Albania.svg.png" group-title="Shqiptare",====Shqiptare====
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/13104.m3u8
 #EXTINF:-1 tvg-logo="https://nimitv.com/assets/img/channels-new/240/240-2.png" group-title="Shqiptare",AL: RTK 1 ⁴ᴷ
@@ -3952,14 +3948,6 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/2963.m3u8
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/79680.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Shqiptare",AL: Klan Kosova +6 USA
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/81476.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Shqiptare",AL: Big Brother VIP 1 ⁴ᴷ AL
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/81914.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Shqiptare",AL: Big Brother VIP 2 ⁴ᴷ AL
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/81915.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Shqiptare",AL: Big Brother VIP  1 ᴴᴰ AL
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/81711.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Shqiptare",AL: Big Brother VIP 2 ᴴᴰ AL
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/81712.m3u8
 #EXTINF:-1 tvg-logo="https://nimitv.com/assets/img/channels-new/240/240-4.png" group-title="Shqiptare",AL: Top Channel ⁴ᴷ
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/2965.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Shqiptare",AL: Top Channel ᴴᴰ
@@ -9215,4 +9203,4 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/13200.m3u8
 #EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: Real Madrid Tv
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/62225.m3u8
 
-# Total: 4577
+# Total: 4571
