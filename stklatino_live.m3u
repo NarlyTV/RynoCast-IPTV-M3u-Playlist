@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: stklatino.dynns.com:2082
-# Generated: 2026-04-20 07:55:05
+# Generated: 2026-04-20 19:12:50
 # Expires: 2026-08-11
 # Family Safe Edition
 # ==============================================
@@ -65,7 +65,7 @@ http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/27313.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ALEMANIA",Unserding
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/27314.m3u8
 
-# --- ARGENTINA (41) ---
+# --- ARGENTINA (42) ---
 #EXTINF:-1 tvg-logo="https://brandlogo.org/wp-content/uploads/2025/02/A24-Logo-2025.png" group-title="ARGENTINA",A24
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/2339.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W3cHHNd9/lnplus.png" group-title="ARGENTINA",LN+ La Nación
@@ -148,6 +148,8 @@ http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/79890.m3u8
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/81935.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xtu85tb.png" group-title="ARGENTINA",Neo TV
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/69881.m3u8
+#EXTINF:-1 tvg-logo="https://www.totalmedios.com/img/noticias/2025/11/691107e84fdd3_838x390.jpg" group-title="ARGENTINA",Argentina 12
+http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/137389.m3u8
 
 # --- BOLIVIA (17) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/ATB_logo_nuevo.png" group-title="BOLIVIA",ATB
@@ -16499,4 +16501,4 @@ http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/54866.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/520_Venevision.png" group-title="VENEZUELA",Venevision
 http://stklatino.dynns.com:2082/live/maldonadoluis/frEbTPk9DN3L/2429.m3u8
 
-# Total: 8214
+# Total: 8215
