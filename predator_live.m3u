@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: predator.digital:8080
-# Generated: 2026-04-19 07:54:32
+# Generated: 2026-04-20 07:55:36
 # Expires: 2026-08-08
 # Family Safe Edition
 # ==============================================
@@ -888,7 +888,7 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/17452.m3u8
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/17450.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Denmark",DK: Nat Geo
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/17455.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Denmark",DK: Discovery Channel HD
+#EXTINF:-1 tvg-logo="" group-title="Denmark",DK: Discovery Channel
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/17456.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Denmark",DK: Investiagtion Discovery
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/17457.m3u8
@@ -2351,13 +2351,15 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/63454.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Ex-Yu",KS: RTK 2
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/78994.m3u8
 
-# --- Finland (31) ---
+# --- Finland (30) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/1920px-Flag_of_Finland.svg.png" group-title="Finland",========Finland========
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/12495.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Finland",FI: Yle TV1 HD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/58891.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Finland",FI: Yle TV2 HD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/58890.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Finland",FI: MTV Urheilu 1
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/58868.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Finland",FI: V Series
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/58888.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Finland",FI: V Film Family
@@ -2380,8 +2382,6 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/64265.m3u8
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/64264.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Finland",FI: H2
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/64263.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Finland",FI: TLC
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/58878.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Finland",FI: TV 5
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/64261.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Finland",FI: MTV Juniori
@@ -2396,20 +2396,18 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/58880.m3u8
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/58889.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Finland",FI: Stars
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/58869.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Finland",FI: MTV Urheilu 1
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/58868.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Finland",FI: MTV Urheilu 2
+#EXTINF:-1 tvg-logo="" group-title="Finland",FI: Viaplay Urheilu 1
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/58867.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Finland",FI: Viaplay Urheilu 2
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/58865.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Finland",FI: Viaplay Urheilu 3
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/58878.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Finland",FI: V Sport Winter
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/58866.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Finland",FI: V sport + Suomi
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/58865.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Finland",FI: V Sport Premium
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/58861.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Finland",FI: TV4 Footboll
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/58859.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Finland",FI: MTV Liiga 7
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/76337.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Finland",FI: Eurosport 1 HD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/58858.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Finland",FI: Eurosport 2 HD
@@ -9203,4 +9201,4 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/13200.m3u8
 #EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: Real Madrid Tv
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/62225.m3u8
 
-# Total: 4571
+# Total: 4570

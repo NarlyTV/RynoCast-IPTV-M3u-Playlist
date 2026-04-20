@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: tvpremiund.ddns.me:2082
-# Generated: 2026-04-19 18:57:37
+# Generated: 2026-04-20 08:04:27
 # Expires: 2026-05-14
 # Family Safe Edition
 # ==============================================
@@ -65,7 +65,7 @@ http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/27313.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ALEMANIA",Unserding
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/27314.m3u8
 
-# --- ARGENTINA (42) ---
+# --- ARGENTINA (41) ---
 #EXTINF:-1 tvg-logo="https://brandlogo.org/wp-content/uploads/2025/02/A24-Logo-2025.png" group-title="ARGENTINA",A24
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/2339.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W3cHHNd9/lnplus.png" group-title="ARGENTINA",LN+ La Nación
@@ -148,8 +148,6 @@ http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/79890.m3u8
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/81935.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xtu85tb.png" group-title="ARGENTINA",Neo TV
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/69881.m3u8
-#EXTINF:-1 tvg-logo="https://television.com.ar/wp-content/uploads/2025/11/Arg-12.jpg" group-title="ARGENTINA",Argentina 12 - Ar | 12
-http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/137321.m3u8
 
 # --- BOLIVIA (17) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/ATB_logo_nuevo.png" group-title="BOLIVIA",ATB
@@ -1537,7 +1535,7 @@ http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/128784.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/TLC_Logo_Germany.svg/800px-TLC_Logo_Germany.svg.png" group-title="CULTURA",Discovery TLC
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/128785.m3u8
 
-# --- DEPORTES (187) ---
+# --- DEPORTES (186) ---
 #EXTINF:-1 tvg-logo="https://static-assets.bamgrid.com/product/starplus/images/share-default.d72cf588f6d06cba22171f5ae44289d3.png" group-title="DEPORTES",Eventos Especiales
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/50562.m3u8
 #EXTINF:-1 tvg-logo="https://www.eazycityblog.com/wp-content/uploads/2016/05/Wikinews_Sports.png" group-title="DEPORTES",Eventos Deportivos Disney+
@@ -1606,21 +1604,19 @@ http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/31760.m3u8
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/37484.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J7gQ1JJW/D1.png" group-title="DEPORTES",Direc*TV SP FIGHT
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/52506.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gkRW1qcD/e748f3c0-3f7c-3088-a90a-0ccb2588e0ed.png" group-title="DEPORTES",ES*PN ARG 1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gkRW1qcD/e748f3c0-3f7c-3088-a90a-0ccb2588e0ed.png" group-title="DEPORTES",ESPN Argentina 1
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/51157.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gkRW1qcD/e748f3c0-3f7c-3088-a90a-0ccb2588e0ed.png" group-title="DEPORTES",ES*PN ARG 1 HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gkRW1qcD/e748f3c0-3f7c-3088-a90a-0ccb2588e0ed.png" group-title="DEPORTES",ESPN Argentina 1 HD
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/51155.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gkRW1qcD/e748f3c0-3f7c-3088-a90a-0ccb2588e0ed.png" group-title="DEPORTES",ES*PN ARG 1 FHD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gkRW1qcD/e748f3c0-3f7c-3088-a90a-0ccb2588e0ed.png" group-title="DEPORTES",ESPN Argentina 1 FHD
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/51154.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/DZK8nWWp/espn2.png" group-title="DEPORTES",ES*PN ARG 2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DZK8nWWp/espn2.png" group-title="DEPORTES",ESPN Argentina 2
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/51158.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/DZK8nWWp/espn2.png" group-title="DEPORTES",ES*PN ARG 2 HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DZK8nWWp/espn2.png" group-title="DEPORTES",ESPN Argentina 2 HD
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/51156.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/DZK8nWWp/espn2.png" group-title="DEPORTES",ES*PN ARG 2 FHD
-http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/5600.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wvc3v6Lq/espn3.png" group-title="DEPORTES",ES*PN ARG 3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wvc3v6Lq/espn3.png" group-title="DEPORTES",ESPN Argentina 3
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/5601.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wvc3v6Lq/espn3.png" group-title="DEPORTES",ES*PN ARG 3 HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wvc3v6Lq/espn3.png" group-title="DEPORTES",ESPN Argentina 3 HD
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/31026.m3u8
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/7zpcyf1707916649.png" group-title="DEPORTES",Espn Premium Argentina
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/6463.m3u8
@@ -1904,7 +1900,7 @@ http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/82189.m3u8
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/36.m3u8
 #EXTINF:-1 tvg-logo="https://thumbs.dreamstime.com/b/vector-del-logotipo-escudo-futsal-de-f%C3%BAtbol-concepto-dise%C3%B1o-la-prima-vectorial-futbol-169843661.jpg" group-title="DEPORTES",Futsal Chile PPV
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/123399.m3u8
-#EXTINF:-1 tvg-logo="https://espnpressroom.com/us/files/2011/04/RS1129_ESPN_Deportes_CLR_Pos-scr.jpg" group-title="DEPORTES",ES*PN Deportes
+#EXTINF:-1 tvg-logo="https://espnpressroom.com/us/files/2011/04/RS1129_ESPN_Deportes_CLR_Pos-scr.jpg" group-title="DEPORTES",ESPN Deportes
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/130533.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES",Golf Pass
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/70201.m3u8
@@ -2629,35 +2625,19 @@ http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/44711.m3u8
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/100/409/png-clipart-fox-news-ureport-united-states-breaking-news-united-states-television-text-thumbnail.png" group-title="ESTADOS UNIDOS",Fox News
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/80101.m3u8
 
-# --- EVENTOS 24/7 (22) ---
+# --- EVENTOS 24/7 (13) ---
 #EXTINF:-1 tvg-logo="https://cdn.clarosports.com/clarosports/2025/01/casfam-144852-1024x576.jpg" group-title="EVENTOS 24/7",CASA DE LOS FAMOSOS
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/131010.m3u8
 #EXTINF:-1 tvg-logo="https://historia.nationalgeographic.com.es/medio/2022/10/28/calabaza_98056d65_1280x854.jpg" group-title="EVENTOS 24/7",HALLOWEEN DARK TV
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/57855.m3u8
-#EXTINF:-1 tvg-logo="https://historia.nationalgeographic.com.es/medio/2022/10/28/calabaza_98056d65_1280x854.jpg" group-title="EVENTOS 24/7",HALLOWEEN TERROR
-http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/57861.m3u8
-#EXTINF:-1 tvg-logo="https://historia.nationalgeographic.com.es/medio/2022/10/28/calabaza_98056d65_1280x854.jpg" group-title="EVENTOS 24/7",HALLOWEEN MISTERIOS
-http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/57859.m3u8
-#EXTINF:-1 tvg-logo="https://historia.nationalgeographic.com.es/medio/2022/10/28/calabaza_98056d65_1280x854.jpg" group-title="EVENTOS 24/7",HALLOWEEN HISTORIAS DE ULTRA TUMBA
-http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/80051.m3u8
-#EXTINF:-1 tvg-logo="https://i.etsystatic.com/32736505/r/il/1f543d/3502420205/il_300x300.3502420205_i1cf.jpg" group-title="EVENTOS 24/7",ESPECIAL ANIME
-http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/57862.m3u8
-#EXTINF:-1 tvg-logo="https://i.etsystatic.com/32736505/r/il/1f543d/3502420205/il_300x300.3502420205_i1cf.jpg" group-title="EVENTOS 24/7",ESPECIAL CINE
-http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/50735.m3u8
 #EXTINF:-1 tvg-logo="https://i.etsystatic.com/32736505/r/il/1f543d/3502420205/il_300x300.3502420205_i1cf.jpg" group-title="EVENTOS 24/7",ESPECIAL COMEDIA
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/76198.m3u8
 #EXTINF:-1 tvg-logo="https://i.etsystatic.com/32736505/r/il/1f543d/3502420205/il_300x300.3502420205_i1cf.jpg" group-title="EVENTOS 24/7",ESPECIAL DRAMA
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/80050.m3u8
 #EXTINF:-1 tvg-logo="https://i.etsystatic.com/32736505/r/il/1f543d/3502420205/il_300x300.3502420205_i1cf.jpg" group-title="EVENTOS 24/7",ESPECIAL FAMILIA
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/48307.m3u8
-#EXTINF:-1 tvg-logo="https://i.etsystatic.com/32736505/r/il/1f543d/3502420205/il_300x300.3502420205_i1cf.jpg" group-title="EVENTOS 24/7",ESPECIAL TERROR
-http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/69214.m3u8
 #EXTINF:-1 tvg-logo="https://www.muycomputer.com/wp-content/uploads/2021/09/TUDUM.jpg" group-title="EVENTOS 24/7",NETFLIX
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/50737.m3u8
-#EXTINF:-1 tvg-logo="https://media.minutouno.com/p/d5e77b8b0a69e0b7955501007e7bb4b0/adjuntos/150/imagenes/027/562/0027562306/610x0/smart/extraterrestres.png" group-title="EVENTOS 24/7",ARCHIVOS EXTRATERRESTRES
-http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/80052.m3u8
-#EXTINF:-1 tvg-logo="https://services.meteored.com/img/article/cuales-son-los-proximos-conciertos-en-chile-cartelera-de-abril-a-julio-1713374921938_1280.jpeg" group-title="EVENTOS 24/7",CONCIERTOS
-http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/57277.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1550_M_Music_TV.png" group-title="EVENTOS 24/7",MUSICALES
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/31699.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rwPVMBV/113075-Mix-24-7.png" group-title="EVENTOS 24/7",MIX HITS
@@ -2666,8 +2646,6 @@ http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/48306.m3u8
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/48305.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rwPVMBV/113075-Mix-24-7.png" group-title="EVENTOS 24/7",MIX POP
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/31701.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rwPVMBV/113075-Mix-24-7.png" group-title="EVENTOS 24/7",MIX TOP 100
-http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/31703.m3u8
 #EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/6011bffa317a1f7611f12428/a38d22de-4b7a-4901-b16c-16652c02bb58/Retro_banner.png" group-title="EVENTOS 24/7",RETRO TV
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/31702.m3u8
 #EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/6011bffa317a1f7611f12428/a38d22de-4b7a-4901-b16c-16652c02bb58/Retro_banner.png" group-title="EVENTOS 24/7",RETRO TV 2
@@ -16521,4 +16499,4 @@ http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/54866.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/520_Venevision.png" group-title="VENEZUELA",Venevision
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/2429.m3u8
 
-# Total: 8225
+# Total: 8214

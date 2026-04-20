@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: fastopen.live:8080
-# Generated: 2026-04-19 18:41:19
+# Generated: 2026-04-20 08:06:12
 # Expires: 2026-12-09
 # Family Safe Edition
 # ==============================================
@@ -2909,7 +2909,7 @@ http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/79770.m3u8
 #EXTINF:-1 tvg-logo="http://tugapt.com/picons/euronews.png" group-title="Africa VIP",EuroNews VIP AF
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/79776.m3u8
 
-# --- Albania (474) ---
+# --- Albania (476) ---
 #EXTINF:-1 tvg-logo="" group-title="Albania",Tring Stories FHD AL
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/133279.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Albania",Big Brother 2 FHD AL [BackUP]
@@ -3780,6 +3780,10 @@ http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/48661.m3u8
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/111028.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Albania",Big Brother 2 Kosova FHD AL
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/111029.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Albania",Ferma 1 FHD AL [BackUP]
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/134734.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Albania",Ferma 2 FHD AL [BackUP]
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/134735.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Albania",Klan Macedonia AL
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/63120.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Albania",RTV Fontana HD AL
@@ -31915,4 +31919,4 @@ http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/104838.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ex-Yu VIP",K1 HD ex-YU
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/104749.m3u8
 
-# Total: 15851
+# Total: 15853

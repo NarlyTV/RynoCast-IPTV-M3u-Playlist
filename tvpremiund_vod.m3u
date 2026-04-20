@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: tvpremiund.ddns.me:2082
-# Generated: 2026-04-19 18:57:37
+# Generated: 2026-04-20 08:04:27
 # Expires: 2026-05-14
 # Family Safe Edition
 # ==============================================
@@ -2133,7 +2133,7 @@ http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/137250.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gLw9C4hmoJgE2S2HkQZXuRmVoC.jpg" group-title="Movies | 2025",Arco (2025)
 http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/137259.mkv
 
-# --- Movies | 2026 (71) ---
+# --- Movies | 2026 (74) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x7EDMH4aOFM9s5BeEj3TcbMyKOS.jpg" group-title="Movies | 2026",Guepardos en primer plano con Bertie Gregory (2026)
 http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/130532.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9SUEbyc5OUaNkGPLK3f1w3Ryoyo.jpg" group-title="Movies | 2026",Gente que conocemos en vacaciones (2026)
@@ -2274,6 +2274,12 @@ http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/137257.mkv
 http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/137258.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pLQQMO77ohibggTKV6wmFs5LHYf.jpg" group-title="Movies | 2026",Super Mario Galaxy: La película (2026)
 http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/137260.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a1SB2whRLcf7tveetg9NOP6CYkl.jpg" group-title="Movies | 2026",No te olvidaré (2026)
+http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/137385.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iOiMhwZFYdPqvTQgp4CqKkiWMvW.jpg" group-title="Movies | 2026",Turbulencia: Pánico en el aire (2025)
+http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/137387.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gPiyTLo5GGwtJl0L8TlaJF9r0KE.jpg" group-title="Movies | 2026",Avatar: Aang, El último Maestro Aire (2026)
+http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/137388.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j1knvM0CSG1TWWEdgz4AVqb5CXP.jpg" group-title="Movies | 2026",El Guardián: Último refugio (2026)
 http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/135328.mkv
 
@@ -22717,4 +22723,4 @@ http://tvpremiund.ddns.me:2082/series/56972393798wspzero/271224zero/2579
 #EXTINF:-1 tvg-logo="" group-title="Series | TELESERIES",Hermanas, un amor compartido
 http://tvpremiund.ddns.me:2082/series/56972393798wspzero/271224zero/2580
 
-# Total: 11323
+# Total: 11326

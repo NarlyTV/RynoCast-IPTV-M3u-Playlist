@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: live.iptv.wtf
-# Generated: 2026-04-19 18:55:10
+# Generated: 2026-04-20 08:01:27
 # Expires: Unlimited
 # Family Safe Edition
 # ==============================================
@@ -677,7 +677,7 @@ http://live.iptv.wtf/live/xmwwyxpd/5spv0D19Qw/13821.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Culturales",Love Nature
 http://live.iptv.wtf/live/xmwwyxpd/5spv0D19Qw/15835.m3u8
 
-# --- Deportes (108) ---
+# --- Deportes (109) ---
 #EXTINF:-1 tvg-logo="" group-title="Deportes",Al Jazeera
 http://live.iptv.wtf/live/xmwwyxpd/5spv0D19Qw/14031.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Deportes",Al Jazeera HD
@@ -894,6 +894,8 @@ http://live.iptv.wtf/live/xmwwyxpd/5spv0D19Qw/15811.m3u8
 http://live.iptv.wtf/live/xmwwyxpd/5spv0D19Qw/15830.m3u8
 #EXTINF:-1 tvg-logo="http://logos.iptv.wtf/deportes/directvsports.png" group-title="Deportes",DirecTV Sports Full HD *
 http://live.iptv.wtf/live/xmwwyxpd/5spv0D19Qw/15831.m3u8
+#EXTINF:-1 tvg-logo="https://tntsports.cl/arte/logo_tntsports_premium_blanco_new.svg" group-title="Deportes",TNT Sports Premium HD *
+http://live.iptv.wtf/live/xmwwyxpd/5spv0D19Qw/15923.m3u8
 
 # --- Ecuador (15) ---
 #EXTINF:-1 tvg-logo="" group-title="Ecuador",EC: Ecuador TV
@@ -1717,4 +1719,4 @@ http://live.iptv.wtf/live/xmwwyxpd/5spv0D19Qw/15186.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Venezuela",VE: Promar TV
 http://live.iptv.wtf/live/xmwwyxpd/5spv0D19Qw/15187.m3u8
 
-# Total: 831
+# Total: 832
