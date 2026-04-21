@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: 51.89.76.111:2086
-# Generated: 2026-04-21 07:59:55
+# Generated: 2026-04-21 19:05:30
 # Expires: 2026-10-09
 # Family Safe Edition
 # ==============================================
@@ -1625,19 +1625,9 @@ http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/110104.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/gy51zip.png" group-title="DE-DAZN",DE: DAZN Eurosport 2 HD
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/170928.m3u8
 
-# --- DE-DAZN EVENT (49) ---
+# --- DE-DAZN EVENT (44) ---
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/sl1afxl.png" group-title="DE-DAZN EVENT",##### DAZN - EVENT ######
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/179130.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/6rjj00hkwt34yms8e0wyhodrn_image-header_pDach_1776455306000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Club Brügge U19 - Real Madrid U19 | Finale (2026-04-20 18:45:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/181606.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1ertsefblvkf1s2498fbqaarh_image-header_pDach_1774951805000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Lecce - Fiorentina (italienischer Kommentar) (2026-04-20 20:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/181607.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1c5x0i2am8zdh1lpgc3408affp_image-header_pDach_1774003950000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Inside The Ring - Apr 20 (2026-04-20 20:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/181608.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/45cr3x8tr2vgd76naesg1mlp2_image-header_pDach_1775295516000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",La Coruna - Mirandes (2026-04-20 20:30:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/181609.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/cz4isbnryx273io80iqsas4ji_image-header_pDach_1775572447000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Lecce - Fiorentina (2026-04-20 20:45:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/181610.m3u8
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/2fm6nttlkj2doyizrz6ipo8f_image-header_pDach_1773830086000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Bilbao - Osasuna (2026-04-21 19:00:00)
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/181611.m3u8
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/biaiqpexgmdmdy9viyzd3ikub_image-header_pDach_1764530835000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Mallorca - Valencia (2026-04-21 19:00:00)
@@ -6519,4 +6509,4 @@ http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/165984.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/3pkpdut.png" group-title="WORLD SPORTS",beiN SPORTS 3 FHD
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/165948.m3u8
 
-# Total: 3199
+# Total: 3194

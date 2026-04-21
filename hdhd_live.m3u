@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: hdhd.tk:80
-# Generated: 2026-04-21 07:56:41
+# Generated: 2026-04-21 19:14:14
 # Expires: 2027-10-14
 # Family Safe Edition
 # ==============================================
@@ -3128,7 +3128,7 @@ http://hdhd.tk:80/live/Amanda1/Frechette1/351058.m3u8
 http://hdhd.tk:80/live/Amanda1/Frechette1/351059.m3u8
 
 # --- PPV  EVENTS (24) ---
-#EXTINF:-1 tvg-logo="" group-title="PPV  EVENTS",USA PPV01:  WWE RAW @ 08:00 PM EDT
+#EXTINF:-1 tvg-logo="" group-title="PPV  EVENTS",USA PPV01:
 http://hdhd.tk:80/live/Amanda1/Frechette1/29427.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PPV  EVENTS",USA PPV02
 http://hdhd.tk:80/live/Amanda1/Frechette1/29428.m3u8
@@ -4279,7 +4279,7 @@ http://hdhd.tk:80/live/Amanda1/Frechette1/853672.m3u8
 #EXTINF:-1 tvg-logo="" group-title="UK",UK Sky Sports Racing
 http://hdhd.tk:80/live/Amanda1/Frechette1/853673.m3u8
 
-# --- USA ABC (Local) (183) ---
+# --- USA ABC (Local) (184) ---
 #EXTINF:-1 tvg-logo="https://www.tv-address.com/wp-content/uploads/2021/03/wjet_tv24_erie.jpg" group-title="USA ABC (Local)",US ABC 24 (WJET) Erie
 http://hdhd.tk:80/live/Amanda1/Frechette1/20655.m3u8
 #EXTINF:-1 tvg-logo="https://logo.iptveditor.com/abc7ketv.png" group-title="USA ABC (Local)",USA: ABC 7 OMAHA (KETV)
@@ -4646,6 +4646,8 @@ http://hdhd.tk:80/live/Amanda1/Frechette1/383439.m3u8
 http://hdhd.tk:80/live/Amanda1/Frechette1/386146.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA ABC (Local)",US ABC 17 (KBMY) Minot/Bismarck/Dickinson
 http://hdhd.tk:80/live/Amanda1/Frechette1/395027.m3u8
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/abc.png" group-title="USA ABC (Local)",US ABC 6 (KSVI) Billings
+http://hdhd.tk:80/live/Amanda1/Frechette1/857206.m3u8
 
 # --- USA AHL (15) ---
 #EXTINF:-1 tvg-logo="" group-title="USA AHL",AHL 01::
@@ -4767,7 +4769,7 @@ http://hdhd.tk:80/live/Amanda1/Frechette1/347285.m3u8
 #EXTINF:-1 tvg-logo="https://logo.iptveditor.com/ballysportsdetroit.png" group-title="USA Bally Sports",US FanDuel Sports Wisconsin Plus
 http://hdhd.tk:80/live/Amanda1/Frechette1/347286.m3u8
 
-# --- USA CBS (Local) (170) ---
+# --- USA CBS (Local) (171) ---
 #EXTINF:-1 tvg-logo="https://www.tv-address.com/wp-content/uploads/2021/03/wsee_cbs35_erie.jpg" group-title="USA CBS (Local)",US CBS 35 (WSEE) Erie
 http://hdhd.tk:80/live/Amanda1/Frechette1/20657.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA CBS (Local)",USA: CBS 3 OMAHA (KMTV)
@@ -5108,8 +5110,10 @@ http://hdhd.tk:80/live/Amanda1/Frechette1/822224.m3u8
 http://hdhd.tk:80/live/Amanda1/Frechette1/855785.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA CBS (Local)",US CBS 8 KPAX Missoula, MT
 http://hdhd.tk:80/live/Amanda1/Frechette1/856045.m3u8
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/mynetworktv.png" group-title="USA CBS (Local)",US myTV 42 (KARZ) Little_Rock
+http://hdhd.tk:80/live/Amanda1/Frechette1/857169.m3u8
 
-# --- USA CW (Local) (66) ---
+# --- USA CW (Local) (78) ---
 #EXTINF:-1 tvg-logo="" group-title="USA CW (Local)",US CW 57 (WPSG) Philadelphia
 http://hdhd.tk:80/live/Amanda1/Frechette1/8113.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA CW (Local)",US CW 50 (WKBD) Detroit
@@ -5242,6 +5246,30 @@ http://hdhd.tk:80/live/Amanda1/Frechette1/383423.m3u8
 http://hdhd.tk:80/live/Amanda1/Frechette1/383424.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA CW (Local)",US CW 2 (KXMA) Dickinson
 http://hdhd.tk:80/live/Amanda1/Frechette1/395029.m3u8
+#EXTINF:-1 tvg-logo="" group-title="USA CW (Local)",US CW 11 (KELO) Sioux falls
+http://hdhd.tk:80/live/Amanda1/Frechette1/857178.m3u8
+#EXTINF:-1 tvg-logo="" group-title="USA CW (Local)",US CW 2 (KGAN) Cedar Rapids
+http://hdhd.tk:80/live/Amanda1/Frechette1/857179.m3u8
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/wktvdt3.png" group-title="USA CW (Local)",US CW 2 (WKTV) Utica
+http://hdhd.tk:80/live/Amanda1/Frechette1/857180.m3u8
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/kalbdt3.png" group-title="USA CW (Local)",US CW 5 (KALB) Alexandria
+http://hdhd.tk:80/live/Amanda1/Frechette1/857181.m3u8
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/wgcwlp1.png" group-title="USA CW (Local)",US CW 36 (WGCW) Albany
+http://hdhd.tk:80/live/Amanda1/Frechette1/857186.m3u8
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/kviidt2.png" group-title="USA CW (Local)",US CW 7 (KVII) Amarillo
+http://hdhd.tk:80/live/Amanda1/Frechette1/857192.m3u8
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/kyurdt2.png" group-title="USA CW (Local)",US CW 13 (KYUR) Anchorage
+http://hdhd.tk:80/live/Amanda1/Frechette1/857194.m3u8
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/wabidt2.png" group-title="USA CW (Local)",US CW 5 (WABI) Bangor
+http://hdhd.tk:80/live/Amanda1/Frechette1/857197.m3u8
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/wbrlcd1.png" group-title="USA CW (Local)",US CW-WBRL Baton_Rouge
+http://hdhd.tk:80/live/Amanda1/Frechette1/857200.m3u8
+#EXTINF:-1 tvg-logo="" group-title="USA CW (Local)",US CW 20 (KZUP) Baton Rouge
+http://hdhd.tk:80/live/Amanda1/Frechette1/857201.m3u8
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/kfdmdt2.png" group-title="USA CW (Local)",US CW-KFDM-D3 Beaumont_Texas
+http://hdhd.tk:80/live/Amanda1/Frechette1/857203.m3u8
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/ktvzdt2.png" group-title="USA CW (Local)",US CW-KTVZ-D2 Bend_Oregon
+http://hdhd.tk:80/live/Amanda1/Frechette1/857205.m3u8
 
 # --- USA Documentary (33) ---
 #EXTINF:-1 tvg-logo="https://logo.koditvepg.com/US/sportsman.us.png" group-title="USA Documentary",US Sportsman Channel
@@ -5633,7 +5661,7 @@ http://hdhd.tk:80/live/Amanda1/Frechette1/42681.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA FLO RACING",Flo Racing 50 :
 http://hdhd.tk:80/live/Amanda1/Frechette1/42682.m3u8
 
-# --- USA FOX (Local) (112) ---
+# --- USA FOX (Local) (115) ---
 #EXTINF:-1 tvg-logo="https://www.tv-address.com/wp-content/uploads/2021/03/wfxp_fox66_erie.jpg" group-title="USA FOX (Local)",US FOX 66 (WFXP) Erie
 http://hdhd.tk:80/live/Amanda1/Frechette1/20658.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/us/KPTM.us.png" group-title="USA FOX (Local)",USA: FOX 42 OMAHA (KPTM)
@@ -5858,6 +5886,12 @@ http://hdhd.tk:80/live/Amanda1/Frechette1/822225.m3u8
 http://hdhd.tk:80/live/Amanda1/Frechette1/855786.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA FOX (Local)",US FOX 24  KTMF-D2  Missoula, MT
 http://hdhd.tk:80/live/Amanda1/Frechette1/856046.m3u8
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/fox.png" group-title="USA FOX (Local)",US FOX 31 (WFXL) Albany
+http://hdhd.tk:80/live/Amanda1/Frechette1/857187.m3u8
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/fox.png" group-title="USA FOX (Local)",US FOX 48 (WNTZ) Alexandria
+http://hdhd.tk:80/live/Amanda1/Frechette1/857189.m3u8
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/foxbangor.png" group-title="USA FOX (Local)",US FOX 22 (WFVX) Bangor
+http://hdhd.tk:80/live/Amanda1/Frechette1/857198.m3u8
 
 # --- USA Kids (12) ---
 #EXTINF:-1 tvg-logo="https://static.epg.best/us/Boomerang.us.png" group-title="USA Kids",US Boomerang
@@ -6155,7 +6189,7 @@ http://hdhd.tk:80/live/Amanda1/Frechette1/23403.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA Music",US MTV (West)
 http://hdhd.tk:80/live/Amanda1/Frechette1/28222.m3u8
 
-# --- USA MyTV (Local) (30) ---
+# --- USA MyTV (Local) (34) ---
 #EXTINF:-1 tvg-logo="" group-title="USA MyTV (Local)",US MY 33 (WBFS) Miami
 http://hdhd.tk:80/live/Amanda1/Frechette1/19991.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA MyTV (Local)",US Mytv 29 (WFTC) Minneapolis
@@ -6216,6 +6250,14 @@ http://hdhd.tk:80/live/Amanda1/Frechette1/361187.m3u8
 http://hdhd.tk:80/live/Amanda1/Frechette1/383413.m3u8
 #EXTINF:-1 tvg-logo="https://logo.iptveditor.com/mynetworktv.png" group-title="USA MyTV (Local)",US myTV 18 (KTTU) Tucson, Arizona
 http://hdhd.tk:80/live/Amanda1/Frechette1/383428.m3u8
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/mynetworktv.png" group-title="USA MyTV (Local)",US myTV 27 (KOZL) Springfield
+http://hdhd.tk:80/live/Amanda1/Frechette1/857168.m3u8
+#EXTINF:-1 tvg-logo="" group-title="USA MyTV (Local)",US MY 21 (WHP-DT) Harrisburg
+http://hdhd.tk:80/live/Amanda1/Frechette1/857182.m3u8
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/wbtwdt2.png" group-title="USA MyTV (Local)",US MyTV 13 (WBTW) Florence
+http://hdhd.tk:80/live/Amanda1/Frechette1/857183.m3u8
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/mynetworktv.png" group-title="USA MyTV (Local)",US MyTV 42 (KPTM) Omaha
+http://hdhd.tk:80/live/Amanda1/Frechette1/857184.m3u8
 
 # --- USA NBA (18) ---
 #EXTINF:-1 tvg-logo="https://static.epg.best/us/NBATV.us.png" group-title="USA NBA",US NBA TV
@@ -6255,7 +6297,7 @@ http://hdhd.tk:80/live/Amanda1/Frechette1/47887.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/us/NBATV.us.png" group-title="USA NBA",USA NBA 17
 http://hdhd.tk:80/live/Amanda1/Frechette1/48060.m3u8
 
-# --- USA NBC (Local) (210) ---
+# --- USA NBC (Local) (211) ---
 #EXTINF:-1 tvg-logo="https://www.tv-address.com/wp-content/uploads/2021/03/wicu_nbc12_erie.jpg" group-title="USA NBC (Local)",US NBC 12 (WICU) Erie
 http://hdhd.tk:80/live/Amanda1/Frechette1/20660.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA NBC (Local)",USA: NBC 6 OMAHA (WOWT)
@@ -6482,7 +6524,7 @@ http://hdhd.tk:80/live/Amanda1/Frechette1/39232.m3u8
 http://hdhd.tk:80/live/Amanda1/Frechette1/39233.m3u8
 #EXTINF:-1 tvg-logo="lordstreams" group-title="USA NBC (Local)",US NBC (WEAU) Eau Claire, WI
 http://hdhd.tk:80/live/Amanda1/Frechette1/39234.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USA NBC (Local)",US NBC (KALB) Alexandria, LA
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/nbc.png" group-title="USA NBC (Local)",US NBC (KALB) Alexandria, LA
 http://hdhd.tk:80/live/Amanda1/Frechette1/39235.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA NBC (Local)",US NBC (WFMJ) Youngstown, OH
 http://hdhd.tk:80/live/Amanda1/Frechette1/39236.m3u8
@@ -6676,6 +6718,8 @@ http://hdhd.tk:80/live/Amanda1/Frechette1/370325.m3u8
 http://hdhd.tk:80/live/Amanda1/Frechette1/383412.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA NBC (Local)",US NBC 13 (WHO) Des Moines
 http://hdhd.tk:80/live/Amanda1/Frechette1/811865.m3u8
+#EXTINF:-1 tvg-logo="" group-title="USA NBC (Local)",US NBC 12 (KBMT) Beaumont
+http://hdhd.tk:80/live/Amanda1/Frechette1/857204.m3u8
 
 # --- USA NFL (21) ---
 #EXTINF:-1 tvg-logo="" group-title="USA NFL",USA NFL Monday Night backup :
@@ -7381,7 +7425,7 @@ http://hdhd.tk:80/live/Amanda1/Frechette1/383429.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA News",US Manorama News
 http://hdhd.tk:80/live/Amanda1/Frechette1/383437.m3u8
 
-# --- USA PBS (Local) (102) ---
+# --- USA PBS (Local) (117) ---
 #EXTINF:-1 tvg-logo="" group-title="USA PBS (Local)",US PBS (WTVP) IL | Peoria
 http://hdhd.tk:80/live/Amanda1/Frechette1/27351.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA PBS (Local)",US PBS Kids (WEDU) Tampa, FL
@@ -7586,6 +7630,36 @@ http://hdhd.tk:80/live/Amanda1/Frechette1/386142.m3u8
 http://hdhd.tk:80/live/Amanda1/Frechette1/811867.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA PBS (Local)",US PBS 11 KUFM Missoula, MT KUFM
 http://hdhd.tk:80/live/Amanda1/Frechette1/856047.m3u8
+#EXTINF:-1 tvg-logo="" group-title="USA PBS (Local)",US Nine PBS (KETC) St_Louis
+http://hdhd.tk:80/live/Amanda1/Frechette1/857161.m3u8
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/kmosdt1.png" group-title="USA PBS (Local)",US PBS (KMOS-TV) Colombia
+http://hdhd.tk:80/live/Amanda1/Frechette1/857162.m3u8
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/pbs.png" group-title="USA PBS (Local)",US PBS 42 (WXEL) West Palm Beach
+http://hdhd.tk:80/live/Amanda1/Frechette1/857163.m3u8
+#EXTINF:-1 tvg-logo="" group-title="USA PBS (Local)",US PBS Idaho Public Television Boise City
+http://hdhd.tk:80/live/Amanda1/Frechette1/857164.m3u8
+#EXTINF:-1 tvg-logo="" group-title="USA PBS (Local)",US PBS NWPB - KWSU Spokane
+http://hdhd.tk:80/live/Amanda1/Frechette1/857165.m3u8
+#EXTINF:-1 tvg-logo="" group-title="USA PBS (Local)",US PBS Northern California Public Media San Francisco
+http://hdhd.tk:80/live/Amanda1/Frechette1/857166.m3u8
+#EXTINF:-1 tvg-logo="" group-title="USA PBS (Local)",US PBS Ozarks Public Television Springfield
+http://hdhd.tk:80/live/Amanda1/Frechette1/857167.m3u8
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/telemundo.png" group-title="USA PBS (Local)",US Telemundo 2 (KASA) Albuquerque-Santa Fe
+http://hdhd.tk:80/live/Amanda1/Frechette1/857188.m3u8
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/pbs.png" group-title="USA PBS (Local)",US  PBS-KLPA Alexandria_LA
+http://hdhd.tk:80/live/Amanda1/Frechette1/857190.m3u8
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/pbs.png" group-title="USA PBS (Local)",US PBS 2 (KACV) Amarillo, TX
+http://hdhd.tk:80/live/Amanda1/Frechette1/857193.m3u8
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/pbs.png" group-title="USA PBS (Local)",US PBS-WCES Augusta
+http://hdhd.tk:80/live/Amanda1/Frechette1/857195.m3u8
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/pbs.png" group-title="USA PBS (Local)",US Austin PBS, KLRU-TV Austin
+http://hdhd.tk:80/live/Amanda1/Frechette1/857196.m3u8
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/pbs.png" group-title="USA PBS (Local)",US PBS-WMEB Bangor
+http://hdhd.tk:80/live/Amanda1/Frechette1/857199.m3u8
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/wlpb.png" group-title="USA PBS (Local)",US PBS 25 (WLPB) Baton Rouge
+http://hdhd.tk:80/live/Amanda1/Frechette1/857202.m3u8
+#EXTINF:-1 tvg-logo="https://logo.m3uassets.com/kbgsdt1.png" group-title="USA PBS (Local)",US PBS-KBGS Billings
+http://hdhd.tk:80/live/Amanda1/Frechette1/857207.m3u8
 
 # --- USA Peacock (20) ---
 #EXTINF:-1 tvg-logo="" group-title="USA Peacock",Peacock Event  01
@@ -7985,4 +8059,4 @@ http://hdhd.tk:80/live/Amanda1/Frechette1/330321.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Vietnam",VN FILM24H
 http://hdhd.tk:80/live/Amanda1/Frechette1/330322.m3u8
 
-# Total: 3895
+# Total: 3932
