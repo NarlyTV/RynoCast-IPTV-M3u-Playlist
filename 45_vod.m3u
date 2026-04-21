@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: 45.139.122.199:8080
-# Generated: 2026-04-20 19:09:37
+# Generated: 2026-04-21 07:51:58
 # Expires: 2026-07-13
 # Family Safe Edition
 # ==============================================
@@ -1427,7 +1427,7 @@ http://45.139.122.199:8080/movie/Susanne1/susanne1/2160326.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fjWiVF2vFwd3mhs1dNoS0SOHxqt.jpg" group-title="Movies | Kids Movies",Ternet Ninja 2 [DK] [2021]
 http://45.139.122.199:8080/movie/Susanne1/susanne1/135645.mkv
 
-# --- Movies | Old Popular Movies [Multi-Sub] (7614) ---
+# --- Movies | Old Popular Movies [Multi-Sub] (7615) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eU0dWo8PJgsSAZFbcyHiUpuLSyW.jpg" group-title="Movies | Old Popular Movies [Multi-Sub]",Howard the Duck [1986]
 http://45.139.122.199:8080/movie/Susanne1/susanne1/2355002.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qnQK4JUwEUFDKt7dSMY2fJmhv2f.jpg" group-title="Movies | Old Popular Movies [Multi-Sub]",Lonely Hearts [2006]
@@ -16656,8 +16656,10 @@ http://45.139.122.199:8080/movie/Susanne1/susanne1/2365640.mkv
 http://45.139.122.199:8080/movie/Susanne1/susanne1/2377540.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tsFovEJuZHVgpvFTHXb37l7ma4F.jpg" group-title="Movies | Old Popular Movies [Multi-Sub]",Heaven Is for Real [PRE] [2014]
 http://45.139.122.199:8080/movie/Susanne1/susanne1/2377601.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rjHFRsAE4NUVZei1xanF1a0UdNE.jpg" group-title="Movies | Old Popular Movies [Multi-Sub]",Abducted: The Carlina White Story [PRE] [2012]
+http://45.139.122.199:8080/movie/Susanne1/susanne1/2378262.mkv
 
-# --- Movies | Premiere Cinemas [Multi-Sub] (5657) ---
+# --- Movies | Premiere Cinemas [Multi-Sub] (5658) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9AVft65z55PfGa7y8o496leWPYx.jpg" group-title="Movies | Premiere Cinemas [Multi-Sub]",Catherine: 21st Century Princess [PRE] [2024]
 http://45.139.122.199:8080/movie/Susanne1/susanne1/2352332.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bRBeSHfGHwkEpImlhxPmOcUsaeg.jpg" group-title="Movies | Premiere Cinemas [Multi-Sub]",Avatar: Fire and Ash [PRE] [2025]
@@ -27972,6 +27974,8 @@ http://45.139.122.199:8080/movie/Susanne1/susanne1/2373787.mkv
 http://45.139.122.199:8080/movie/Susanne1/susanne1/2375856.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jytZfJtjJnw7Yn2zW52wcbPYVXQ.jpg" group-title="Movies | Premiere Cinemas [Multi-Sub]",Tanvi the Great [PRE] [2025]
 http://45.139.122.199:8080/movie/Susanne1/susanne1/2377560.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gU0VjHCsTmvaXy4zWsfp8HqbGRs.jpg" group-title="Movies | Premiere Cinemas [Multi-Sub]",The Other Half of Me and You [PRE] [2025]
+http://45.139.122.199:8080/movie/Susanne1/susanne1/2378191.mkv
 
 # --- Movies | Relaxing Music (7) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Relaxing Music",Fall Asleep Fast Eliminates All Negative Energy
@@ -28041,4 +28045,4 @@ http://45.139.122.199:8080/movie/Susanne1/susanne1/503111.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6FrRyIOrnCin795JjaxJgu7VeHR.jpg" group-title="Movies | Svenska",När mörkret faller [SE] [2006]
 http://45.139.122.199:8080/movie/Susanne1/susanne1/798230.mkv
 
-# Total: 14006
+# Total: 14008

@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: squid.game-tv.org:8080
-# Generated: 2026-04-20 19:17:44
+# Generated: 2026-04-21 08:02:57
 # Expires: 2026-07-17
 # Family Safe Edition
 # ==============================================
@@ -190,6 +190,10 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/289.mp4
 # --- Movies | Age of Samurai: Battle for Japan (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Age of Samurai: Battle for Japan",Age of Samurai: Battle for Japan
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/60.mp4
+
+# --- Movies | Agent from Above (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | Agent from Above",Agent from Above (2026)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1252.mp4
 
 # --- Movies | Ahsoka (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Ahsoka",Ahsoka
@@ -20485,4 +20489,4 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/383.mp4
 #EXTINF:-1 tvg-logo="" group-title="Series | A Series of Unfortunate Events",A Series of Unfortunate Events
 http://squid.game-tv.org:8080/series/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/276
 
-# Total: 8962
+# Total: 8963

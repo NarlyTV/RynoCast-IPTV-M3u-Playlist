@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: alienstreams.fi:8080
-# Generated: 2026-04-20 19:23:00
+# Generated: 2026-04-21 07:55:57
 # Expires: 2026-12-29
 # Family Safe Edition
 # ==============================================
@@ -17736,6 +17736,8 @@ http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/404356
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/404368
 
 # --- Series | Norska Serier [Series] (299) ---
+#EXTINF:-1 tvg-logo="" group-title="Series | Norska Serier [Series]",Arvinge okänd
+http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/426554
 #EXTINF:-1 tvg-logo="" group-title="Series | Norska Serier [Series]",Spillet
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/481646
 #EXTINF:-1 tvg-logo="" group-title="Series | Norska Serier [Series]",Fra bølle til bestevenn
@@ -17982,8 +17984,6 @@ http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/426738
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/426564
 #EXTINF:-1 tvg-logo="" group-title="Series | Norska Serier [Series]",Danskebåten
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/426551
-#EXTINF:-1 tvg-logo="" group-title="Series | Norska Serier [Series]",Arvinge okänd
-http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/426554
 #EXTINF:-1 tvg-logo="" group-title="Series | Norska Serier [Series]",Ambassadoeren
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/426555
 #EXTINF:-1 tvg-logo="" group-title="Series | Norska Serier [Series]",Ettergloed
@@ -18336,12 +18336,12 @@ http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/404333
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/404334
 
 # --- Series | Reality [Series] (160) ---
+#EXTINF:-1 tvg-logo="" group-title="Series | Reality [Series]",Expedition Vildmark
+http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/495151
 #EXTINF:-1 tvg-logo="" group-title="Series | Reality [Series]",Million Dollar Secret
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/499267
 #EXTINF:-1 tvg-logo="" group-title="Series | Reality [Series]",Gold Rush
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/491055
-#EXTINF:-1 tvg-logo="" group-title="Series | Reality [Series]",Expedition Vildmark
-http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/495151
 #EXTINF:-1 tvg-logo="" group-title="Series | Reality [Series]",Demenskoret
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/499032
 #EXTINF:-1 tvg-logo="" group-title="Series | Reality [Series]",Gold Rush: Winter's Fortune
@@ -18946,6 +18946,18 @@ http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/405122
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/403526
 
 # --- Series | Svenska Serier [Series] (295) ---
+#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Spökjakt - Inlåsta
+http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/499192
+#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Jeopardy!
+http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/477262
+#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Svenska Truckers
+http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/476207
+#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Fångat på polisens kamera
+http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/477209
+#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Gift vid första ögonkastet
+http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/487947
+#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Gruvan
+http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/485515
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Mästarnas mästare
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/496816
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Festen
@@ -18964,8 +18976,6 @@ http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/499340
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/499341
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Bytt är bytt
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/496762
-#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Fångat på polisens kamera
-http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/477209
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Förrädarna
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/489667
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Wahlgrens Värld
@@ -18988,14 +18998,6 @@ http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/477390
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/497591
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Trädgårdstider
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/498502
-#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Svenska Truckers
-http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/476207
-#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Spökjakt - Inlåsta
-http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/499192
-#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Gruvan
-http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/485515
-#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Gift vid första ögonkastet
-http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/487947
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Svenska nyheter
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/481045
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Gilla läget
@@ -19014,8 +19016,6 @@ http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/494811
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/496687
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Lyckad
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/497840
-#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Jeopardy!
-http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/477262
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Farmen
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/492705
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Efterlyst

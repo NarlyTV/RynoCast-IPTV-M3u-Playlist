@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: blackiptv.net:8080
-# Generated: 2026-04-20 19:13:14
+# Generated: 2026-04-21 07:52:29
 # Expires: 2026-12-21
 # Family Safe Edition
 # ==============================================
@@ -10675,13 +10675,15 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1719.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ CBS",DE: Watson (2025)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1807.mp4
 
-# --- Movies | DE/SERIE ~ DISNEY+ (21) ---
+# --- Movies | DE/SERIE ~ DISNEY+ (22) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ DISNEY+",The Beauty (2026) DE
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/2056.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ DISNEY+",Wonder Man (2026) DE
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/2031.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ DISNEY+",Cat's Eyes (2024) DE
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/2030.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ DISNEY+",Star Wars: Maul - Shadow Lord (2026) DE
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/2161.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ DISNEY+",Dear Killer Nannies - Großgezogen von Mafia-Auftragskillern (2026) DE
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/2144.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ DISNEY+",Marvel's The Punisher (2017) DE
@@ -10781,11 +10783,13 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1551.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ MARVEL",Agatha All Along (2024)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1567.mp4
 
-# --- Movies | DE/SERIE ~ NETFLIX (97) ---
+# --- Movies | DE/SERIE ~ NETFLIX (98) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ NETFLIX",Diplomatische Beziehungen (2023)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1930.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ NETFLIX",Ripple (2025) DE
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/2146.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ NETFLIX",Ronaldinho Gaúcho (2026) DE
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/2162.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ NETFLIX",Agent From Above (2026) DE
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/2149.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ NETFLIX",Bloodhounds (2023) DE
@@ -11950,7 +11954,7 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/365.mp4
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/17071.mp4
 
 # --- Movies | TR/DIZI ~ CUMARTESI (3) ---
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3Qwhs7xxf9LILllWLnxbSaCBNDf.jpg" group-title="Movies | TR/DIZI ~ CUMARTESI",CUMT: Güller ve Günahlar 24.Bölüm (YENI DIZI)
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3Qwhs7xxf9LILllWLnxbSaCBNDf.jpg" group-title="Movies | TR/DIZI ~ CUMARTESI",CUMT: Güller ve Günahlar 25.Bölüm (YENI DIZI)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/48482.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vc20oOVlfVQI0YWocTvTv7wOILk.jpg" group-title="Movies | TR/DIZI ~ CUMARTESI",CUMT: Gönül Dagi 213.Bölüm (Yeni Sezon)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/26836.mp4
@@ -13666,7 +13670,7 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1728.mp4
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1835.mp4
 
 # --- Movies | TR/DIZI ~ PAZAR (5) ---
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nrBNLQUzs6KiqL6nTRfVTQdlVgP.jpg" group-title="Movies | TR/DIZI ~ PAZAR",PAZ: Çirkin 3.Bölüm (YENİ DİZİ)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nrBNLQUzs6KiqL6nTRfVTQdlVgP.jpg" group-title="Movies | TR/DIZI ~ PAZAR",PAZ: Çirkin 4.Bölüm (YENİ DİZİ)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/71059.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l0upbqBdvweAch5jW2dj6RVYu0s.jpg" group-title="Movies | TR/DIZI ~ PAZAR",PAZ: Doktor: Başka Hayatta 6.Bölüm (YENİ DİZİ)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/69429.mp4
@@ -13678,13 +13682,13 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/28347.mp4
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/33155.mp4
 
 # --- Movies | TR/DIZI ~ PAZARTESI (4) ---
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zChQ3tTAtUn306xBrDdI1VQkagZ.jpg" group-title="Movies | TR/DIZI ~ PAZARTESI",PAZT: Delikanlı 2.Bölüm
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zChQ3tTAtUn306xBrDdI1VQkagZ.jpg" group-title="Movies | TR/DIZI ~ PAZARTESI",PAZT: Delikanlı 3.Bölüm
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/71672.mp4
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/82/322/png-clipart-flag-of-turkey-national-flag-yukselen-bayrak-turk-bayra%C4%9F%C4%B1-100x150-flag-miscellaneous-flag.png" group-title="Movies | TR/DIZI ~ PAZARTESI",*****TURK DIZI*****
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/4968.mp4
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/b6QGAQBiAWXVPQvc9um8o9Q90jY.jpg" group-title="Movies | TR/DIZI ~ PAZARTESI",PAZT: Cennetin Cocuklari 28.Bölüm
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/b6QGAQBiAWXVPQvc9um8o9Q90jY.jpg" group-title="Movies | TR/DIZI ~ PAZARTESI",PAZT: Cennetin Cocuklari 29.Bölüm
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/39132.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/E8tR39iX2XNZdqeDA5REFDquU6.jpg" group-title="Movies | TR/DIZI ~ PAZARTESI",PAZT: Uzak Sehir 57.Bölüm
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/E8tR39iX2XNZdqeDA5REFDquU6.jpg" group-title="Movies | TR/DIZI ~ PAZARTESI",PAZT: Uzak Sehir 58.Bölüm
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/376.mp4
 
 # --- Movies | TR/DIZI ~ PERSEMBE (4) ---
@@ -20475,7 +20479,7 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/65397.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTkdQ0jfXqUpoFvg0DmSAYGlc7K.jpg" group-title="Movies | TR/FILM ~ YABANCI 2026 (DUAL)",Tatilde Tanıştığımız İnsanlar (2026) TR
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/65272.mp4
 
-# --- Movies | TR/FILM ~ YERLI 2017-2000 (345) ---
+# --- Movies | TR/FILM ~ YERLI 2017-2000 (346) ---
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/58VhE6SG6mVX6IrTu75FsKG9RLz.jpg" group-title="Movies | TR/FILM ~ YERLI 2017-2000",Kardeşim Benim 2 (2017)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/33063.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8uGCtUMoPcxZF4VjeUdxIBJeOCT.jpg" group-title="Movies | TR/FILM ~ YERLI 2017-2000",Sevdam Gözlerinde Kaldı (2016)
@@ -21166,6 +21170,8 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/62981.mkv
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/64851.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bHWHiVaLanWpLdWFAi6qxWNaEFC.jpg" group-title="Movies | TR/FILM ~ YERLI 2017-2000",Güneşin Oğlu (2008)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/65393.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mk1HYwHQnHWeiRQ2UqY7Frjub05.jpg" group-title="Movies | TR/FILM ~ YERLI 2017-2000",Yahşi Batı (2009)
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/72265.mp4
 
 # --- Movies | TR/FILM ~ YERLI 2018 (109) ---
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/82/322/png-clipart-flag-of-turkey-national-flag-yukselen-bayrak-turk-bayra%C4%9F%C4%B1-100x150-flag-miscellaneous-flag.png" group-title="Movies | TR/FILM ~ YERLI 2018",*****TÜRK SINEMA 2018*****
@@ -22599,4 +22605,4 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/71030.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t8EQllq34VC5mooiJw1vVFOlM4x.jpg" group-title="Movies | TR/FILM ~ YILBASI ÖZEL",O Ses Türkiye  Yilbasi Özel 2025
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/54778.mp4
 
-# Total: 11148
+# Total: 11151
