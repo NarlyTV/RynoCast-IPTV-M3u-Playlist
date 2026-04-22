@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: solution62000.mine.nu:8000
-# Generated: 2026-04-21 19:08:49
+# Generated: 2026-04-22 07:48:57
 # Expires: 2026-12-19
 # Family Safe Edition
 # ==============================================
@@ -249,7 +249,7 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1542.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/icq1eKLaijZmahCxVDWpuURNihv.jpg" group-title="Movies | Cowboys",Pat Garrett et Billy le Kid - 1973
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1805.mkv
 
-# --- Movies | Dessins Animés (240) ---
+# --- Movies | Dessins Animés (241) ---
 #EXTINF:-1 tvg-logo="https://dnm.nflximg.net/api/v6/mAcAr9TxZIVbINe88xb3Teg5_OA/AAAABflz_TYZuBaWTGhUR26bQhrowP2jshvRck_G5ilViQv9DI47-w9YL-SFFPaML7aNHzoMYToV0v3op8_0pyBXV8B2mAN73aAXVDDtlkJKJPWyJsYhXOpZyM0Rx2k5-CG9coZpjw.jpg?r=77c" group-title="Movies | Dessins Animés",Les Deux Gredins (2025)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/20327.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dBNi5XGc4Kw5bjxeRiGKCCvqbPC.jpg" group-title="Movies | Dessins Animés",Dora : à la recherche du Sol Dorado (2025)
@@ -348,6 +348,8 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1794.mkv
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1459.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3knwJCqriSz7mTM3vFJUqJOGty1.jpg" group-title="Movies | Dessins Animés",GOAT : Rêver plus haut (2026)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/25971.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6cefcJsw8zr2Itwwd5ALOU2RwxQ.jpg" group-title="Movies | Dessins Animés",Blanche Neige . (2025)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/26375.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dTjgDnDPo9o4Eold6HydZalRjTU.jpg" group-title="Movies | Dessins Animés",Biscuit le chien fantastique (2025)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/26360.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/eyML3us6QSgWinlH9Zd6BERNrd3.jpg" group-title="Movies | Dessins Animés",Panique à Noël (2025)
@@ -1119,7 +1121,9 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/7300.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wkUCQaXIc9qkqplDJZIuxRHLQNq.jpg" group-title="Movies | FILMS TURK",Malazgirt 1071 - 2022
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/5531.mp4
 
-# --- Movies | Films (1545) ---
+# --- Movies | Films (1546) ---
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/da4KST59isnHHwVYZGrzWxoJuNZ.jpg" group-title="Movies | Films",La Ville maléfique (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/26385.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1jLnjDT6eyI0dTqucvTaTpUJVsY.jpg" group-title="Movies | Films",Zombies 4 : L'aube des vampires (2026)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/26354.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/m6ZGxUu0JyV7Cyj9xDR8capgrzb.jpg" group-title="Movies | Films",Cold Wallet (2026)
@@ -5133,7 +5137,7 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/691.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | MARVEL STUDIOS",Ironheart
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/773.mp4
 
-# --- Movies | NETFLIX (465) ---
+# --- Movies | NETFLIX (466) ---
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9ISjrhA38HpSSGtfiCk8lpziC3K.jpg" group-title="Movies | NETFLIX",180 (2026)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/26349.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/cbYyWHc1dL1bfwEJbaMYDYKgWG2.jpg" group-title="Movies | NETFLIX",Toaster (2026)
@@ -6064,6 +6068,8 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1097.mp4
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1100.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX",Un très mauvais pressentiment
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1105.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX",Unchosen
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1119.mp4
 
 # --- Movies | RAMADAN ( 2026 ) (49) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | RAMADAN ( 2026 )",( 2021 ) المداح
@@ -6845,7 +6851,7 @@ http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1067
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Anciennes",Un gars, une fille
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1070
 
-# --- Series | Series Arabe (129) ---
+# --- Series | Series Arabe (131) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Arabe",الاسطورة
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/43
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Arabe",بـ100 وش
@@ -7104,6 +7110,10 @@ http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/978
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/979
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Arabe",( 2026 ) بيت بابا
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/984
+#EXTINF:-1 tvg-logo="" group-title="Series | Series Arabe",( 2026 ) ميركاتو
+http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1117
+#EXTINF:-1 tvg-logo="" group-title="Series | Series Arabe",( 2026 ) + الخلاط
+http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1118
 
 # --- Series | Series Documentaires (13) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Documentaires",Homicide
@@ -7857,4 +7867,4 @@ http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1114
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Moloch
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1116
 
-# Total: 3895
+# Total: 3900

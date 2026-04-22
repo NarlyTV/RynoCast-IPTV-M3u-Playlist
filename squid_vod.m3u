@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: squid.game-tv.org:8080
-# Generated: 2026-04-21 19:15:53
+# Generated: 2026-04-22 08:00:52
 # Expires: 2026-07-17
 # Family Safe Edition
 # ==============================================
@@ -1451,6 +1451,10 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/277.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Deha - Geniu",Deha - Geniul
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/806.mp4
 
+# --- Movies | Delikanli (Baiat de onoare) (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | Delikanli (Baiat de onoare)",Delikanlı (2026)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1253.mp4
+
 # --- Movies | Deliver Me (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Deliver Me",Deliver Me
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/604.mp4
@@ -1830,6 +1834,10 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/8666.mp4
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/14599.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/jjs3hE3mQlVGTX3u5ZH2EJBJpf3.jpg" group-title="Movies | Documentare (NOU)",American Murder: The Family Next Door  (2020)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/29732.mp4
+
+# --- Movies | Doktor Baska Hayatta (Doctor in alta viata) (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | Doktor Baska Hayatta (Doctor in alta viata)",Doktor: Başka Hayatta (2026)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1254.mp4
 
 # --- Movies | Domina (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Domina",Domina
@@ -7343,7 +7351,13 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/10776.mp
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/2Abt2GgscAGtGAXTrhH44qPhugI.jpg" group-title="Movies | Filme 2025",Dark Nuns (2025)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/25035.mp4
 
-# --- Movies | Filme 2026 (92) ---
+# --- Movies | Filme 2026 (95) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ygWXPL0RS91JyJPNOfK34eV3bRE.jpg" group-title="Movies | Filme 2026",Vengeance (2026)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/69593.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6hKIlDIpRkWOqTaesDzS0EOmx6.jpg" group-title="Movies | Filme 2026",The Gates - 2026
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/69592.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yihdXomYb5kTeSivtFndMy5iDmf.jpg" group-title="Movies | Filme 2026",Project Hail Mary - 2026
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/69591.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jRf89HVEtBZiSnOXXWDhZOfuTwW.jpg" group-title="Movies | Filme 2026",Ready or Not: Here I Come - 2026
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/69498.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xwvJ3WzdJ1OCuDoY8LAxBUlQyig.jpg" group-title="Movies | Filme 2026",Balls Up - 2026
@@ -15563,7 +15577,9 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/31665.mp
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/dhHpbBemuyEBgcYGrmm7bHpjgdO.jpg" group-title="Movies | Filme SCI-FI (NOU)",Battle Drone  (2018)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/9682.mp4
 
-# --- Movies | Filme Thriller (212) ---
+# --- Movies | Filme Thriller (213) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jPVFDcTaBvpavmmIkzi5gyiEHjv.jpg" group-title="Movies | Filme Thriller",Trance - 2013
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/69590.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qNen8x5gaikjIg9CFihgxYcJwQe.jpg" group-title="Movies | Filme Thriller",Fracture - 2007
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/69450.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6YmeO4pB7XTh8P8F960O1uA14JO.jpg" group-title="Movies | Filme Thriller",Zodiac - 2007
@@ -20489,4 +20505,4 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/383.mp4
 #EXTINF:-1 tvg-logo="" group-title="Series | A Series of Unfortunate Events",A Series of Unfortunate Events
 http://squid.game-tv.org:8080/series/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/276
 
-# Total: 8963
+# Total: 8969

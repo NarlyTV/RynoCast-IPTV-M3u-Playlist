@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: iptv.nextnet.krd:25461
-# Generated: 2026-04-21 19:18:39
+# Generated: 2026-04-22 07:53:56
 # Expires: Unlimited
 # Family Safe Edition
 # ==============================================
@@ -237,7 +237,7 @@ http://iptv.nextnet.krd:25461/live/nextnet/3738/5586.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_hp10imbTjaSWhjW4o8wAq6NxSDQtX0ttzg&s" group-title="Entertainment",Bask Plus
 http://iptv.nextnet.krd:25461/live/nextnet/3738/5592.m3u8
 
-# --- Kids (16) ---
+# --- Kids (17) ---
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cw70S9F/pelistank.png" group-title="Kids",Pelistank HD
 http://iptv.nextnet.krd:25461/live/nextnet/3738/187.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B6QtcJ8/niga-kids.jpg" group-title="Kids",Niga Kids
@@ -270,6 +270,8 @@ http://iptv.nextnet.krd:25461/live/nextnet/3738/5018.m3u8
 http://iptv.nextnet.krd:25461/live/nextnet/3738/5541.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/wK4-shpKIPtesc8w9ZJvn2UnwIrrK4mkxEbUqj0ewr01RDVQrHxk5y0aSwfhzuKMwFK71aDn=s900-c-k-c0x00ffffff-no-rj" group-title="Kids",KidCo HD
 http://iptv.nextnet.krd:25461/live/nextnet/3738/5546.m3u8
+#EXTINF:-1 tvg-logo="blob:https://web.whatsapp.com/8c9826f4-b8df-4a48-954b-0aba01849b8b" group-title="Kids",Bask Kids
+http://iptv.nextnet.krd:25461/live/nextnet/3738/5593.m3u8
 
 # --- Movies (17) ---
 #EXTINF:-1 tvg-logo="https://banner2.cleanpng.com/20180824/tgu/kisspng-mbc-drama-television-channel-mbc-plus-drama-mbc-tv-loogos-mbc-tv-channel-frequencies-on-sate-1713949968187.webp" group-title="Movies",MBC Max
@@ -501,4 +503,4 @@ http://iptv.nextnet.krd:25461/live/nextnet/3738/4927.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UcAwBep.png" group-title="USA",UN Web TV
 http://iptv.nextnet.krd:25461/live/nextnet/3738/4952.m3u8
 
-# Total: 236
+# Total: 237

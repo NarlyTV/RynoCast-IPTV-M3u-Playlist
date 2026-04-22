@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: blackiptv.net:8080
-# Generated: 2026-04-21 19:15:34
+# Generated: 2026-04-22 08:04:21
 # Expires: 2026-12-21
 # Family Safe Edition
 # ==============================================
@@ -10011,7 +10011,7 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/64369.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8U8q1Vch095adruyXHy6N4KEiPq.jpg" group-title="Movies | DE/FILM ~ WEIHNACHTEN",Wuff Star Weihnachten (2018) DE
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/64370.mp4
 
-# --- Movies | DE/SERIE ~ ALL (202) ---
+# --- Movies | DE/SERIE ~ ALL (203) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ ALL",Sanditon (2019)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1306.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ ALL",The Veil (2024)
@@ -10416,6 +10416,8 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1968.mp4
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/2013.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ ALL",DE: Lord of the Flies (2026)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/2015.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ ALL",DE: Der Sentinel - Im Auge des Jägers (1996)
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/2165.mp4
 
 # --- Movies | DE/SERIE ~ AMAZON PRIME (55) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ AMAZON PRIME",Young Sherlock (2026) DE
@@ -10675,13 +10677,15 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1719.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ CBS",DE: Watson (2025)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1807.mp4
 
-# --- Movies | DE/SERIE ~ DISNEY+ (22) ---
+# --- Movies | DE/SERIE ~ DISNEY+ (23) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ DISNEY+",The Beauty (2026) DE
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/2056.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ DISNEY+",Wonder Man (2026) DE
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/2031.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ DISNEY+",Cat's Eyes (2024) DE
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/2030.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ DISNEY+",Homeland (2011) DE
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/2163.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ DISNEY+",Star Wars: Maul - Shadow Lord (2026) DE
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/2161.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ DISNEY+",Dear Killer Nannies - Großgezogen von Mafia-Auftragskillern (2026) DE
@@ -11009,7 +11013,7 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1855.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ PARAMOUNT +",DE: Star Trek - Starfleet Academy (2026)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1929.mp4
 
-# --- Movies | DE/SERIE ~ REALITY-TV (4) ---
+# --- Movies | DE/SERIE ~ REALITY-TV (5) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ REALITY-TV",Alone - Überlebe die Wildnis (2024)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1614.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ REALITY-TV",Most Wanted – Wer entkommt? (2025)
@@ -11018,6 +11022,8 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1615.mp4
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1680.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ REALITY-TV",DE: LOL: Last One Laughing (2021)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1781.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ REALITY-TV",DE: Trap-TV (1993)
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/2166.mp4
 
 # --- Movies | DE/SERIE ~ STAR WARS (6) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ STAR WARS",Ahsoka (2023)
@@ -12633,7 +12639,7 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1637.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ HBO MAX/BLUTV",The Chair Company (2025)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1658.mp4
 
-# --- Movies | TR/DIZI ~ NETFLIX (DUAL) (517) ---
+# --- Movies | TR/DIZI ~ NETFLIX (DUAL) (518) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ NETFLIX (DUAL)",Jene Nacht (2026) TR
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/2101.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ NETFLIX (DUAL)",Hırsızlar (2024) TR
@@ -13668,6 +13674,8 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1727.mp4
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1728.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ NETFLIX (DUAL)",Kasaba (2025)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1835.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ NETFLIX (DUAL)",Amora (2026)
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/2164.mp4
 
 # --- Movies | TR/DIZI ~ PAZAR (5) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nrBNLQUzs6KiqL6nTRfVTQdlVgP.jpg" group-title="Movies | TR/DIZI ~ PAZAR",PAZ: Çirkin 4.Bölüm (YENİ DİZİ)
@@ -13706,9 +13714,9 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/43582.mp4
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/242.mp4
 
 # --- Movies | TR/DIZI ~ SALI (3) ---
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/herjCgzFTKF3tCN8bW9cNfrvKjW.jpg" group-title="Movies | TR/DIZI ~ SALI",SAL: Kiskanmak 28.Bölüm
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/herjCgzFTKF3tCN8bW9cNfrvKjW.jpg" group-title="Movies | TR/DIZI ~ SALI",SAL: Kiskanmak 29.Bölüm
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1060.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gLGXHS3o0BuJhd3wDTTYddrRsxZ.jpg" group-title="Movies | TR/DIZI ~ SALI",SAL: Mehmed: Fetihler Sultani 76.Bölüm
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gLGXHS3o0BuJhd3wDTTYddrRsxZ.jpg" group-title="Movies | TR/DIZI ~ SALI",SAL: Mehmed: Fetihler Sultani 77.Bölüm
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/48868.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mGnrjWWi6ZeXlt0U3Ky8gzpOhO3.jpg" group-title="Movies | TR/DIZI ~ SALI",SAL: A.B.I  13.BLM
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/48923.mp4
@@ -16881,7 +16889,7 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/60921.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9tHVZrCUnElznpdOGZEYYC95Rks.jpg" group-title="Movies | TR/FILM ~ TRT TABII",Aile Meselesi (2025)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/61895.mkv
 
-# --- Movies | TR/FILM ~ YABANCI 2017-2000 (DUAL) (341) ---
+# --- Movies | TR/FILM ~ YABANCI 2017-2000 (DUAL) (343) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/adrno1y0mKpMwjSlMQojZEUk82V.jpg" group-title="Movies | TR/FILM ~ YABANCI 2017-2000 (DUAL)",Jadotville Kuşatması (2016) TR
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/48569.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iP6tCkmp6puphF20aQrZ6f1Xl3G.jpg" group-title="Movies | TR/FILM ~ YABANCI 2017-2000 (DUAL)",Adalet (2014) TR
@@ -17564,6 +17572,10 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/71919.mp4
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/72194.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uFOoLyaZDBmwsVmslPbXOtlcOGy.jpg" group-title="Movies | TR/FILM ~ YABANCI 2017-2000 (DUAL)",Unthinkable (2010) TR
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/72195.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sQMucYJYJLJHNJSVVwVdgfKpwHg.jpg" group-title="Movies | TR/FILM ~ YABANCI 2017-2000 (DUAL)",Jack the Giant Slayer (2013) TR
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/72285.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cQnW68MIq6ZU1Yz03FhCOVHm9YL.jpg" group-title="Movies | TR/FILM ~ YABANCI 2017-2000 (DUAL)",John Carter (2012) TR
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/72286.mp4
 
 # --- Movies | TR/FILM ~ YABANCI 2018 (DUAL) (109) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xNcm0kmMOmE5lxRiDaA6bmx4unH.jpg" group-title="Movies | TR/FILM ~ YABANCI 2018 (DUAL)",Adalet 2 (2018) TR
@@ -22605,4 +22617,4 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/71030.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t8EQllq34VC5mooiJw1vVFOlM4x.jpg" group-title="Movies | TR/FILM ~ YILBASI ÖZEL",O Ses Türkiye  Yilbasi Özel 2025
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/54778.mp4
 
-# Total: 11151
+# Total: 11157

@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: siptvs.com:8080
-# Generated: 2026-04-21 19:09:32
+# Generated: 2026-04-22 08:05:53
 # Expires: 2026-05-16
 # Family Safe Edition
 # ==============================================
@@ -2631,7 +2631,7 @@ http://siptvs.com:8080/movie/Biljana12/Biljana12/127285.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lFSJMELO3oGJWJT7gtXb4Kf8FDk.jpg" group-title="Movies | |DE| ANIMATION",Paw Patrol: Der Mighty Kinofilm (2023)
 http://siptvs.com:8080/movie/Biljana12/Biljana12/131253.mkv
 
-# --- Movies | |DE| BOLLYWOOD (147) ---
+# --- Movies | |DE| BOLLYWOOD (148) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j3ANnag8WzQPZfMRWHwL7wH96uC.jpg" group-title="Movies | |DE| BOLLYWOOD",Sternenkind कोई मिल गया (2003)
 http://siptvs.com:8080/movie/Biljana12/Biljana12/20426.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9LZgpUyFEvqHaDVuveE002mhgTi.jpg" group-title="Movies | |DE| BOLLYWOOD",Chennai Express (2013)
@@ -2926,6 +2926,8 @@ http://siptvs.com:8080/movie/Biljana12/Biljana12/201435.mkv
 http://siptvs.com:8080/movie/Biljana12/Biljana12/201436.mp4
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dy2qAtTqe83zCCB55sqVK2g7i1m.jpg" group-title="Movies | |DE| BOLLYWOOD",We Are Family (2010)
 http://siptvs.com:8080/movie/Biljana12/Biljana12/201437.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/atJYHfZXN0vgQx3BuB5aDXw7ewb.jpg" group-title="Movies | |DE| BOLLYWOOD",Dil Bole Hadippa! - Mein Herz ruft nach Liebe (2009)
+http://siptvs.com:8080/movie/Biljana12/Biljana12/202210.mkv
 
 # --- Movies | |DE| COMEDY (255) ---
 #EXTINF:-1 tvg-logo="http://siptvs.com:8080/images/6f0e72cb77814143c582f85116a8f38a.jpg" group-title="Movies | |DE| COMEDY",Desperados (2020)
@@ -9383,7 +9385,7 @@ http://siptvs.com:8080/movie/Biljana12/Biljana12/202065.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/paVJNyxq5odaAHC9YlmNUlceQpu.jpg" group-title="Movies | |DE| FILME 2024",Mudbrick (2024)
 http://siptvs.com:8080/movie/Biljana12/Biljana12/202066.mkv
 
-# --- Movies | |DE| FILME 2025 (490) ---
+# --- Movies | |DE| FILME 2025 (494) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7VqUPN0oRHfYV9hdZcal1ZzffmV.jpg" group-title="Movies | |DE| FILME 2025",Don't Die: Der Mann, der unsterblich sein will (2025)
 http://siptvs.com:8080/movie/Biljana12/Biljana12/182037.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dOpSxmD3FWfl6SK8SLXw9uwcO05.jpg" group-title="Movies | |DE| FILME 2025",Ad Vitam (2025)
@@ -10364,8 +10366,16 @@ http://siptvs.com:8080/movie/Biljana12/Biljana12/202067.mkv
 http://siptvs.com:8080/movie/Biljana12/Biljana12/202070.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9MhUqFHxtl4SEvVdndG9wymvm78.jpg" group-title="Movies | |DE| FILME 2025",Stromberg - Wieder alles wie immer (2025)
 http://siptvs.com:8080/movie/Biljana12/Biljana12/202071.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/suY2CNfGwq3kccMZuMA1sXAcNXm.jpg" group-title="Movies | |DE| FILME 2025",The Beldham (2025)
+http://siptvs.com:8080/movie/Biljana12/Biljana12/202200.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/oHqzyS7zDdze4CGnEPOoRyqLp6w.jpg" group-title="Movies | |DE| FILME 2025",Der Fremde (2025)
+http://siptvs.com:8080/movie/Biljana12/Biljana12/202203.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jdLVnId0B4GLVc2sqHT8gx7V4Az.jpg" group-title="Movies | |DE| FILME 2025",Masterplan – Das Potsdamer Treffen und seine Folgen (2025)
+http://siptvs.com:8080/movie/Biljana12/Biljana12/202204.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/AwD3pNLoMb9wRopXLodk2VOYLk.jpg" group-title="Movies | |DE| FILME 2025",Zuagroast - Ein Gartenkrimi (2025)
+http://siptvs.com:8080/movie/Biljana12/Biljana12/202205.mkv
 
-# --- Movies | |DE| FILME 2026 (59) ---
+# --- Movies | |DE| FILME 2026 (66) ---
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kOrJqRyt1pklNgDwJMjzN1GuNXS.jpg" group-title="Movies | |DE| FILME 2026",People We Meet on Vacation (2026)
 http://siptvs.com:8080/movie/Biljana12/Biljana12/199075.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fBrCsda9YUhrx6f2YGcWCIXkAK6.jpg" group-title="Movies | |DE| FILME 2026",Checker Tobi 3 - Die heimliche Herrscherin der Erde (2026)
@@ -10484,6 +10494,20 @@ http://siptvs.com:8080/movie/Biljana12/Biljana12/202068.mkv
 http://siptvs.com:8080/movie/Biljana12/Biljana12/202069.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9HNcs1Y3bKVKp4BB4TQO5oDe0b2.jpg" group-title="Movies | |DE| FILME 2026",The Bride! - Es lebe die Braut (2026)
 http://siptvs.com:8080/movie/Biljana12/Biljana12/202072.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ggJGx8fwwy21gEIXYusIlHcUn8z.jpg" group-title="Movies | |DE| FILME 2026",Venganza - Blutige Rache (2026)
+http://siptvs.com:8080/movie/Biljana12/Biljana12/202201.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xZqo0yPARmyF8TACVNyaOACkYWG.jpg" group-title="Movies | |DE| FILME 2026",We Bury the Dead (2026)
+http://siptvs.com:8080/movie/Biljana12/Biljana12/202202.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2xVrPXaHQV55JjlNhusUoW6EYAR.jpg" group-title="Movies | |DE| FILME 2026",Fühlt ihr meine Stimme? (2026)
+http://siptvs.com:8080/movie/Biljana12/Biljana12/202206.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ib8SfAG8HLRpDKP4L1dliCyHDwM.jpg" group-title="Movies | |DE| FILME 2026",Ready or Not 2 (2026)
+http://siptvs.com:8080/movie/Biljana12/Biljana12/202207.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9ISjrhA38HpSSGtfiCk8lpziC3K.jpg" group-title="Movies | |DE| FILME 2026",180 (2026)
+http://siptvs.com:8080/movie/Biljana12/Biljana12/202208.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lIktrHao74yVAngEURQ33qWew1m.jpg" group-title="Movies | |DE| FILME 2026",Roommates (2026)
+http://siptvs.com:8080/movie/Biljana12/Biljana12/202209.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/j4G5JUCWHtdmOVtmV0uy6Ict43D.jpg" group-title="Movies | |DE| FILME 2026",Outcome (2026)
+http://siptvs.com:8080/movie/Biljana12/Biljana12/202211.mkv
 
 # --- Movies | |DE| Filme Collection (68) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x5PArFW3kdOAbIDxsieE1g5418u.jpg" group-title="Movies | |DE| Filme Collection",The Fast and the Furious (2001)
@@ -13253,7 +13277,7 @@ http://siptvs.com:8080/movie/Biljana12/Biljana12/200661.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7Pd6ChSQjSXy4snJiorSdzg2cG3.jpg" group-title="Movies | |EXYU| 4K- UHD",Pillion (2025) 4K
 http://siptvs.com:8080/movie/Biljana12/Biljana12/201232.mkv
 
-# --- Movies | |EXYU| AKCIJA (694) ---
+# --- Movies | |EXYU| AKCIJA (696) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ptURGAFktibhk7DEAbMazlmNqWa.jpg" group-title="Movies | |EXYU| AKCIJA",2 Igrača (2013)
 http://siptvs.com:8080/movie/Biljana12/Biljana12/14063.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yRbC0uRj1RDmF0JLon83il2dkR0.jpg" group-title="Movies | |EXYU| AKCIJA",6 Days (2017)
@@ -14642,6 +14666,10 @@ http://siptvs.com:8080/movie/Biljana12/Biljana12/202003.mkv
 http://siptvs.com:8080/movie/Biljana12/Biljana12/202004.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4BqMeSSPaC7spmj4Zl7htiigCkV.jpg" group-title="Movies | |EXYU| AKCIJA",Ek Villain Returns (2022)
 http://siptvs.com:8080/movie/Biljana12/Biljana12/202005.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1MtKcti03XF7btAjr9wcTLrLZ4e.jpg" group-title="Movies | |EXYU| AKCIJA",Stark Raving Mad (2002)
+http://siptvs.com:8080/movie/Biljana12/Biljana12/202255.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pHYtq4wFaUy5Rfa8lRi24QMUwRY.jpg" group-title="Movies | |EXYU| AKCIJA",The Presidio (1988)
+http://siptvs.com:8080/movie/Biljana12/Biljana12/202256.mkv
 
 # --- Movies | |EXYU| AVANTURISTICKI (117) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xbszsQv3ifdFZtQu8CzNh4zh0MX.jpg" group-title="Movies | |EXYU| AVANTURISTICKI",127 Hours (2010)
@@ -21473,7 +21501,7 @@ http://siptvs.com:8080/movie/Biljana12/Biljana12/2327.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | |EXYU| KIDS",Gormiti (2018)
 http://siptvs.com:8080/movie/Biljana12/Biljana12/2328.mp4
 
-# --- Movies | |EXYU| KOMEDIJA (490) ---
+# --- Movies | |EXYU| KOMEDIJA (491) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rIz4XmEjYQHyzovwx1v80YOioqf.jpg" group-title="Movies | |EXYU| KOMEDIJA",10 giorni senza mamma (2019)
 http://siptvs.com:8080/movie/Biljana12/Biljana12/14084.mkv
 #EXTINF:-1 tvg-logo="http://siptvs.com:8080/images/99ebeb4a9ddc17156e7cf104b500945f.jpg" group-title="Movies | |EXYU| KOMEDIJA",68 Kill (2017)
@@ -22454,8 +22482,10 @@ http://siptvs.com:8080/movie/Biljana12/Biljana12/199947.mkv
 http://siptvs.com:8080/movie/Biljana12/Biljana12/200845.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/e2uVtH6TpMfUl7WeOM70ezkcjsU.jpg" group-title="Movies | |EXYU| KOMEDIJA",You've Got Mail (1998)
 http://siptvs.com:8080/movie/Biljana12/Biljana12/201635.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/e6bEY3XUUESEk8me3VUfMAOiLON.jpg" group-title="Movies | |EXYU| KOMEDIJA",Next Stop Wonderland (1998)
+http://siptvs.com:8080/movie/Biljana12/Biljana12/202253.mkv
 
-# --- Movies | |EXYU| KRIMI (148) ---
+# --- Movies | |EXYU| KRIMI (149) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i8lVYRplWdCEqYOutxpxeCtaD2a.jpg" group-title="Movies | |EXYU| KRIMI",10 Minutes Gone (2019)
 http://siptvs.com:8080/movie/Biljana12/Biljana12/14086.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kDlmrGZROewneCoSwPjKx6Qfown.jpg" group-title="Movies | |EXYU| KRIMI",21 Bridges (2019)
@@ -22752,6 +22782,8 @@ http://siptvs.com:8080/movie/Biljana12/Biljana12/198712.mkv
 http://siptvs.com:8080/movie/Biljana12/Biljana12/201592.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/h4QXi4Ysuc3zICiK9jHxjCAK9Oh.jpg" group-title="Movies | |EXYU| KRIMI",Before the Devil Knows You're Dead (2007)
 http://siptvs.com:8080/movie/Biljana12/Biljana12/201593.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mavrhr0ig2aCRR8d48yaxtD5aMQ.jpg" group-title="Movies | |EXYU| KRIMI",Dog Day Afternoon (1975)
+http://siptvs.com:8080/movie/Biljana12/Biljana12/202252.mkv
 
 # --- Movies | |EXYU| MYSTERIJA (48) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w4LIGgNyxf0AuzIjouECWsNEehW.jpg" group-title="Movies | |EXYU| MYSTERIJA",7 Splinters in Time (2018)
@@ -23073,7 +23105,7 @@ http://siptvs.com:8080/movie/Biljana12/Biljana12/2066.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | |EXYU| SPANSKE SERIJE",Scars of Beauty (2025)
 http://siptvs.com:8080/movie/Biljana12/Biljana12/2138.mp4
 
-# --- Movies | |EXYU| STRANE SERIJE (974) ---
+# --- Movies | |EXYU| STRANE SERIJE (976) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | |EXYU| STRANE SERIJE",YOU
 http://siptvs.com:8080/movie/Biljana12/Biljana12/22.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | |EXYU| STRANE SERIJE",Breaking Bad
@@ -24102,7 +24134,7 @@ http://siptvs.com:8080/movie/Biljana12/Biljana12/1399.mp4
 http://siptvs.com:8080/movie/Biljana12/Biljana12/1400.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | |EXYU| STRANE SERIJE",Tribhuvan Mishra
 http://siptvs.com:8080/movie/Biljana12/Biljana12/1401.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | |EXYU| STRANE SERIJE",From
+#EXTINF:-1 tvg-logo="" group-title="Movies | |EXYU| STRANE SERIJE",FROM (2022)
 http://siptvs.com:8080/movie/Biljana12/Biljana12/1406.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | |EXYU| STRANE SERIJE",Bullshit
 http://siptvs.com:8080/movie/Biljana12/Biljana12/1413.mp4
@@ -25022,6 +25054,10 @@ http://siptvs.com:8080/movie/Biljana12/Biljana12/2474.mp4
 http://siptvs.com:8080/movie/Biljana12/Biljana12/2475.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | |EXYU| STRANE SERIJE",The Hunt (2026)
 http://siptvs.com:8080/movie/Biljana12/Biljana12/2476.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | |EXYU| STRANE SERIJE",Under Salt Marsh (2026)
+http://siptvs.com:8080/movie/Biljana12/Biljana12/2477.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | |EXYU| STRANE SERIJE",Imperfect Women (2026)
+http://siptvs.com:8080/movie/Biljana12/Biljana12/2478.mp4
 
 # --- Movies | |EXYU| STRANI 2022 (351) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cwIZp4fVMGK6GZVAM5SU5ZHXSoU.jpg" group-title="Movies | |EXYU| STRANI 2022",Amandla (2022)
@@ -32793,7 +32829,7 @@ http://siptvs.com:8080/movie/Biljana12/Biljana12/18338.mkv
 #EXTINF:-1 tvg-logo="None" group-title="Movies | |EXYU| STRANI FILMOGRAFIJA",W Snipes Wildcats (1986)
 http://siptvs.com:8080/movie/Biljana12/Biljana12/18339.mkv
 
-# --- Movies | |EXYU| THRILLER (284) ---
+# --- Movies | |EXYU| THRILLER (285) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wgHFllRwPp5CUVbWNmQGX6lRBWt.jpg" group-title="Movies | |EXYU| THRILLER",6 Below: Miracle on the Mountain (2017)
 http://siptvs.com:8080/movie/Biljana12/Biljana12/14071.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nrC63ikbK4jDp3knvBqxPoWYEMM.jpg" group-title="Movies | |EXYU| THRILLER",7 dana straha (2018)
@@ -33362,6 +33398,8 @@ http://siptvs.com:8080/movie/Biljana12/Biljana12/201636.mkv
 http://siptvs.com:8080/movie/Biljana12/Biljana12/201637.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3GglkPWXxHTqf7H2ptPLUb7p3Fb.jpg" group-title="Movies | |EXYU| THRILLER",Transpecos (2016)
 http://siptvs.com:8080/movie/Biljana12/Biljana12/201639.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/foxavF6GeFiowM8Uut5rdn2HaRB.jpg" group-title="Movies | |EXYU| THRILLER",Stash House (2012)
+http://siptvs.com:8080/movie/Biljana12/Biljana12/202254.mkv
 
 # --- Movies | |EXYU| TURSKE SERIJE (239) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | |EXYU| TURSKE SERIJE",Diriliş: Ertuğrul
@@ -34525,4 +34563,4 @@ http://siptvs.com:8080/movie/Biljana12/Biljana12/179055.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c44zM4fWJ55ImcEnqf7UL4dsCSB.jpg" group-title="Movies | |MU| MUSIC/CONCERTE",Avicii - Mein letztes Konzert (2024)
 http://siptvs.com:8080/movie/Biljana12/Biljana12/181880.mkv
 
-# Total: 17196
+# Total: 17215

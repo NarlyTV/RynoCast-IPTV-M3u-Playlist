@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: tvpromas.com:8080
-# Generated: 2026-04-21 19:09:29
+# Generated: 2026-04-22 07:53:06
 # Expires: 2027-01-08
 # Family Safe Edition
 # ==============================================
@@ -2133,7 +2133,7 @@ http://tvpromas.com:8080/movie/stksared/9520/137250.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gLw9C4hmoJgE2S2HkQZXuRmVoC.jpg" group-title="Movies | 2025",Arco (2025)
 http://tvpromas.com:8080/movie/stksared/9520/137259.mkv
 
-# --- Movies | 2026 (73) ---
+# --- Movies | 2026 (79) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x7EDMH4aOFM9s5BeEj3TcbMyKOS.jpg" group-title="Movies | 2026",Guepardos en primer plano con Bertie Gregory (2026)
 http://tvpromas.com:8080/movie/stksared/9520/130532.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9SUEbyc5OUaNkGPLK3f1w3Ryoyo.jpg" group-title="Movies | 2026",Gente que conocemos en vacaciones (2026)
@@ -2280,6 +2280,18 @@ http://tvpromas.com:8080/movie/stksared/9520/137385.mkv
 http://tvpromas.com:8080/movie/stksared/9520/137387.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gPiyTLo5GGwtJl0L8TlaJF9r0KE.jpg" group-title="Movies | 2026",Avatar: Aang, El último Maestro Aire (2026)
 http://tvpromas.com:8080/movie/stksared/9520/137388.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uVybc3pLqHSoMC73kElu93oJBRQ.jpg" group-title="Movies | 2026",Bolas arriba (2026)
+http://tvpromas.com:8080/movie/stksared/9520/137390.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ISjrhA38HpSSGtfiCk8lpziC3K.jpg" group-title="Movies | 2026",180 (2026)
+http://tvpromas.com:8080/movie/stksared/9520/137391.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oscW8xV8EhRYj7iAhyVlBohKqxo.jpg" group-title="Movies | 2026",¿Quieres Ser Mi Novia? (2026)
+http://tvpromas.com:8080/movie/stksared/9520/137392.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hHOBxFzUK2CHmQ5djuOneyHkptS.jpg" group-title="Movies | 2026",Compañeras de cuarto (2026)
+http://tvpromas.com:8080/movie/stksared/9520/137393.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dkIzjzfv7TbXqjbJKM51CZYORaR.jpg" group-title="Movies | 2026",La caja azul (2026)
+http://tvpromas.com:8080/movie/stksared/9520/137394.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j2gYxk9EQXh2hz1jNZQOe9WOUXU.jpg" group-title="Movies | 2026",Ídolos (2026)
+http://tvpromas.com:8080/movie/stksared/9520/137396.mkv
 
 # --- Movies | ACCION (1102) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iZUSbYbUXol5AezpNIJwwENdyE0.jpg" group-title="Movies | ACCION",2 Fast 2 Furious (2003)
@@ -12252,7 +12264,7 @@ http://tvpromas.com:8080/movie/stksared/9520/5537.mkv
 http://tvpromas.com:8080/movie/stksared/9520/3808.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Friz3hXc7yqw1aV4t9XiYHcDh4.jpg" group-title="Movies | DRAMA",Belleza Americana (1999)
 http://tvpromas.com:8080/movie/stksared/9520/6528.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dpcwUQny9nel0YWapHKU2pWzA8S.jpg" group-title="Movies | DRAMA",Amor sin fin (2017)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bzrYeA92QDj0vkoCBCoH3eM9vP0.jpg" group-title="Movies | DRAMA",Sin Amor (2017)
 http://tvpromas.com:8080/movie/stksared/9520/3332.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eUQyvpTtirjQRYi4gVRsVrDvf6T.jpg" group-title="Movies | DRAMA",Andar. Montar. Rodeo (2019)
 http://tvpromas.com:8080/movie/stksared/9520/3034.mkv
@@ -22715,4 +22727,4 @@ http://tvpromas.com:8080/series/stksared/9520/2579
 #EXTINF:-1 tvg-logo="" group-title="Series | TELESERIES",Hermanas, un amor compartido
 http://tvpromas.com:8080/series/stksared/9520/2580
 
-# Total: 11322
+# Total: 11328

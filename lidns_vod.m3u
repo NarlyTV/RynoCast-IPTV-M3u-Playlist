@@ -1,13 +1,15 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: lidns.cc
-# Generated: 2026-04-21 19:10:57
-# Expires: 2026-04-21
+# Generated: 2026-04-22 08:02:53
+# Expires: 2026-04-22
 # Family Safe Edition
 # ==============================================
 
 
-# --- Movies | 4K (868) ---
+# --- Movies | 4K (869) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dp0jlDZv6z3nY23kbmasgNLFZyd.jpg" group-title="Movies | 4K",A Cidade dos Sonhos [4K] (2024)
+http://lidns.cc/movie/yu3k45/3audeg/529148.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/azeGbAUMGQesSCRMYkUZ6C9y70E.jpg" group-title="Movies | 4K",Apocalipse nos Trópicos [4K] (2025)
 http://lidns.cc/movie/yu3k45/3audeg/528830.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nMhG3Gt2qyQWoKRqsaXWQ1tnlL4.jpg" group-title="Movies | 4K",A Paris Errada [4K] (2025)
@@ -400,7 +402,7 @@ http://lidns.cc/movie/yu3k45/3audeg/281667.mp4
 http://lidns.cc/movie/yu3k45/3audeg/147537.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lQHfOaggM8xjvgGvZHpFPYXduRE.jpg" group-title="Movies | 4K",Através da Minha Janela [4K] (2022)
 http://lidns.cc/movie/yu3k45/3audeg/138832.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eM5zWQtqJ8tGIpejrsEj7UCoacb.jpg" group-title="Movies | 4K",Avatar [4K] (2009)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jKKHa8MvDpYh4bf4rAmgC5uNKvR.jpg" group-title="Movies | 4K",Avatar [4K] (2009)
 http://lidns.cc/movie/yu3k45/3audeg/151293.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d8WJFQyNNAEmuGeDwxPhBpx0G4B.jpg" group-title="Movies | 4K",Awake [4K] (2021)
 http://lidns.cc/movie/yu3k45/3audeg/138687.mp4
@@ -698,7 +700,7 @@ http://lidns.cc/movie/yu3k45/3audeg/146856.mp4
 http://lidns.cc/movie/yu3k45/3audeg/143942.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o16J2ezv2rITe0ubuQOBen1L2Hk.jpg" group-title="Movies | 4K",Flow [4K] (2024)
 http://lidns.cc/movie/yu3k45/3audeg/265394.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pqMUtdleg25Dn9oaRI4ncGYCiXB.jpg" group-title="Movies | 4K",Flutuar [4K] (2024)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pqMUtdleg25Dn9oaRI4ncGYCiXB.jpg" group-title="Movies | 4K",Flutuadora [4K] (2024)
 http://lidns.cc/movie/yu3k45/3audeg/147404.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3iPtA4K60algk14NnBHS20tTgvE.jpg" group-title="Movies | 4K",Fora de Mim [4K] (2024)
 http://lidns.cc/movie/yu3k45/3audeg/168801.mp4
@@ -1745,7 +1747,11 @@ http://lidns.cc/movie/yu3k45/3audeg/288297.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7hkr3teBIjkgIYXTk0V36CThSVL.jpg" group-title="Movies | 4K",ZOMBIES 4: A Era dos Vampiros [4K] (2025)
 http://lidns.cc/movie/yu3k45/3audeg/297551.mp4
 
-# --- Movies | Amazon Prime Video (1603) ---
+# --- Movies | Amazon Prime Video (1605) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/znmFGF41VKALJIQx0coyjBXNWYm.jpg" group-title="Movies | Amazon Prime Video",Inimigo Invisível (2019)
+http://lidns.cc/movie/yu3k45/3audeg/529384.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5EBsf3QV7Jaw2m0aEG8hQFY3fGT.jpg" group-title="Movies | Amazon Prime Video",Conspiração e Poder (2015)
+http://lidns.cc/movie/yu3k45/3audeg/529346.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o1SDGnG7hDFFYtsJGRrjLmYF71p.jpg" group-title="Movies | Amazon Prime Video",Thomas e Seus Amigos: O Mistério da Montanha Azul (2012)
 http://lidns.cc/movie/yu3k45/3audeg/528754.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m0pQFHUpyLa1Mmax3pRVsvUVCFl.jpg" group-title="Movies | Amazon Prime Video",Rogai Por Nós (2022)
@@ -4953,7 +4959,13 @@ http://lidns.cc/movie/yu3k45/3audeg/64.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Amazon Prime Video",Os 100
 http://lidns.cc/movie/yu3k45/3audeg/1424.mp4
 
-# --- Movies | Animação (334) ---
+# --- Movies | Animação (337) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pfgTDPefWBcuNlZBUg5G5tFh7Tl.jpg" group-title="Movies | Animação",Barra Nova (2023)
+http://lidns.cc/movie/yu3k45/3audeg/529486.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zrOts4zqd0B8i1Gt6IasYtTMQZb.jpg" group-title="Movies | Animação",Yu-Gi-Oh! O Filme: Pirâmide de Luz (2004)
+http://lidns.cc/movie/yu3k45/3audeg/529481.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dzoHVgqyl9Xt7KDwMHmg1L8EuTX.jpg" group-title="Movies | Animação",Carne (2019)
+http://lidns.cc/movie/yu3k45/3audeg/529335.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eF1OVmCjHqpx7zqNrJq0NiKWSXR.jpg" group-title="Movies | Animação",Guerras de Verão (2009)
 http://lidns.cc/movie/yu3k45/3audeg/528634.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/38NCcPC1zJ6hzQYvzPor5uguvDs.jpg" group-title="Movies | Animação",Um Conto de Natal (2001)
@@ -6447,7 +6459,13 @@ http://lidns.cc/movie/yu3k45/3audeg/136896.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pVNUoueDS6aZxZ7vMma7sbzGCMw.jpg" group-title="Movies | Aventura",Desenhos (2025)
 http://lidns.cc/movie/yu3k45/3audeg/502638.mp4
 
-# --- Movies | Ação (626) ---
+# --- Movies | Ação (629) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dzzB67NRFDFNRayJ9UOX6rSNRSV.jpg" group-title="Movies | Ação",Vale dos Vermes do Rei Xian e Lâmpada Fantasma (2023)
+http://lidns.cc/movie/yu3k45/3audeg/529527.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xoXAo6GyRo31pNjFhPTcAnAcZIw.jpg" group-title="Movies | Ação",Operação Arriscada (2025)
+http://lidns.cc/movie/yu3k45/3audeg/529504.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bIzjdRznNg7vcLqfZgFA9RFGvjz.jpg" group-title="Movies | Ação",Comando Final (2005)
+http://lidns.cc/movie/yu3k45/3audeg/529341.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/susZm0gCBVfDVTxhRd8HMcrDMv5.jpg" group-title="Movies | Ação",A Caçada (1996)
 http://lidns.cc/movie/yu3k45/3audeg/528427.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8jJBOq36SMQOb6Bs1NxRkEmNPzK.jpg" group-title="Movies | Ação",Os Meninos Super Poderosos (2009)
@@ -8085,7 +8103,11 @@ http://lidns.cc/movie/yu3k45/3audeg/138271.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q7j7D50cNqYe0dILye3ASAIOMel.jpg" group-title="Movies | Cinema TV",Valsa de Natal (2020)
 http://lidns.cc/movie/yu3k45/3audeg/135625.mp4
 
-# --- Movies | Comédia (700) ---
+# --- Movies | Comédia (702) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/20DnunWDP9o2A3rRCJC1QgIu9ee.jpg" group-title="Movies | Comédia",Anti Amor (2025)
+http://lidns.cc/movie/yu3k45/3audeg/529483.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hENEUsilaQ2AXRX9ENFnuzvyMny.jpg" group-title="Movies | Comédia",Agência de Talentos (2006)
+http://lidns.cc/movie/yu3k45/3audeg/529297.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e5NgEQgP9GFXpplaI4NMU1yzw2D.jpg" group-title="Movies | Comédia",Uma Loira de Verdade (1998)
 http://lidns.cc/movie/yu3k45/3audeg/528779.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/slOQ4mBnSDWncHxUx3KFLR8eQZg.jpg" group-title="Movies | Comédia",Adivinhe Quem Vem para o Natal (2013)
@@ -10548,7 +10570,7 @@ http://lidns.cc/movie/yu3k45/3audeg/99450.mp4
 http://lidns.cc/movie/yu3k45/3audeg/121435.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5814RPmyi91eEqIfGdMnxBIadjw.jpg" group-title="Movies | Disney Plus",As Novas Aventuras de Riquinho (1998)
 http://lidns.cc/movie/yu3k45/3audeg/4437.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2V4c6xPivHkFp2n0U6Y6AGZz2WI.jpg" group-title="Movies | Disney Plus",As Peripécias do Ratinho Detetive (1986)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/TBn5DRkFl5VaogycjbQXYuJXqk.jpg" group-title="Movies | Disney Plus",As Peripécias do Ratinho Detetive (1986)
 http://lidns.cc/movie/yu3k45/3audeg/3157.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/quZnHOVKVbFR7IdXBI9J0ONb7Jk.jpg" group-title="Movies | Disney Plus",Assassinato no Expresso do Oriente (2017)
 http://lidns.cc/movie/yu3k45/3audeg/1498.mp4
@@ -12565,7 +12587,15 @@ http://lidns.cc/movie/yu3k45/3audeg/6056.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Diverso",反恐特战队之猎影
 http://lidns.cc/movie/yu3k45/3audeg/143.mp4
 
-# --- Movies | Documentário (352) ---
+# --- Movies | Documentário (356) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9wtWMLQfKlMIjee1GhpGz3F2j2U.jpg" group-title="Movies | Documentário",Crônica de uma Cidade Partida (2023)
+http://lidns.cc/movie/yu3k45/3audeg/529489.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nUhiwhJvBELOiigbf3xCTC8MDaF.jpg" group-title="Movies | Documentário",Ventos Que Sopram Maranhão (2021)
+http://lidns.cc/movie/yu3k45/3audeg/529461.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ioNzmG7qYpfGwW189fDpAwaKL5i.jpg" group-title="Movies | Documentário",The Search of Self and Silence (2021)
+http://lidns.cc/movie/yu3k45/3audeg/529261.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mLufrbc31bVPe2iDb1L92aWAFGM.jpg" group-title="Movies | Documentário",Dois Nilos (2024)
+http://lidns.cc/movie/yu3k45/3audeg/529156.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mLufrbc31bVPe2iDb1L92aWAFGM.jpg" group-title="Movies | Documentário",Dois Nilos (2024)
 http://lidns.cc/movie/yu3k45/3audeg/528798.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ayzBBBHehWOovGzV9hGJApe4Mkl.jpg" group-title="Movies | Documentário",O Circo Voltou (2021)
@@ -13271,7 +13301,17 @@ http://lidns.cc/movie/yu3k45/3audeg/8094.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Documentário",Pílula de Farinha: O Escândalo que Gerou Vidas
 http://lidns.cc/movie/yu3k45/3audeg/8160.mp4
 
-# --- Movies | Dorama (299) ---
+# --- Movies | Dorama (304) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | Dorama",The Night I Got Pregnant by the CEO [L]
+http://lidns.cc/movie/yu3k45/3audeg/9156.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Dorama",蜜语纪 [L]
+http://lidns.cc/movie/yu3k45/3audeg/9155.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Dorama",리버스 [L]
+http://lidns.cc/movie/yu3k45/3audeg/9154.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Dorama",O Espantalho [L]
+http://lidns.cc/movie/yu3k45/3audeg/9153.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Dorama",Contraste [L]
+http://lidns.cc/movie/yu3k45/3audeg/9149.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Dorama",O Valor Absoluto do Amor
 http://lidns.cc/movie/yu3k45/3audeg/9145.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Dorama",A Gente Tenta
@@ -13871,7 +13911,17 @@ http://lidns.cc/movie/yu3k45/3audeg/7902.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Dorama",รักสุดท้าย [L]
 http://lidns.cc/movie/yu3k45/3audeg/8351.mp4
 
-# --- Movies | Drama (770) ---
+# --- Movies | Drama (776) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vvuWoKIiGOMC1dQd4QB55ruw3Fw.jpg" group-title="Movies | Drama",Prova de Coragem (2016)
+http://lidns.cc/movie/yu3k45/3audeg/529444.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wdZu7CODSiJEP4HFXAmx6DSkOm3.jpg" group-title="Movies | Drama",Filho de Boi (2024)
+http://lidns.cc/movie/yu3k45/3audeg/529376.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/svA4cHRk9GY7Oae1PNG9E21E5bY.jpg" group-title="Movies | Drama",El Mate (2016)
+http://lidns.cc/movie/yu3k45/3audeg/529373.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/syaPABbzGcAV7O3IzsiUCJC9JND.jpg" group-title="Movies | Drama",Vidas à Deriva (2023)
+http://lidns.cc/movie/yu3k45/3audeg/529186.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/NDpr8I9hjAaf5CHXD6iNGafNFy.jpg" group-title="Movies | Drama",Além da Força, Além da Fé (2024)
+http://lidns.cc/movie/yu3k45/3audeg/529158.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ewARzKPDnLTwHNdRlai1TvEVV9e.jpg" group-title="Movies | Drama",Feira da Ladra (2023)
 http://lidns.cc/movie/yu3k45/3audeg/527987.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9E63JpKIZu5XPTNCzTK7umAo0uv.jpg" group-title="Movies | Drama",Ruas da Liberdade (1999)
@@ -13882,7 +13932,7 @@ http://lidns.cc/movie/yu3k45/3audeg/527608.mp4
 http://lidns.cc/movie/yu3k45/3audeg/527538.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8niHlyUkkQ3UQd1kmJP3fFDtvdn.jpg" group-title="Movies | Drama",Anêmona (2025)
 http://lidns.cc/movie/yu3k45/3audeg/527378.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bWkoOebjObFo21CJFElo4LsKggc.jpg" group-title="Movies | Drama",Sorry, Baby (2025)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bWkoOebjObFo21CJFElo4LsKggc.jpg" group-title="Movies | Drama",Desculpe, Querida (2025)
 http://lidns.cc/movie/yu3k45/3audeg/526897.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dR7HYAE56gEY8WcGVRZPLS3GEaR.jpg" group-title="Movies | Drama",A História do Som (2025)
 http://lidns.cc/movie/yu3k45/3audeg/526876.mp4
@@ -15172,6 +15222,8 @@ http://lidns.cc/movie/yu3k45/3audeg/504549.mp4
 http://lidns.cc/movie/yu3k45/3audeg/308625.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nigCd4SaacDaLZSKsXWWnDMqJtM.jpg" group-title="Movies | Drama",WWE Wrestlepalooza (2025)
 http://lidns.cc/movie/yu3k45/3audeg/308183.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Drama",Sem Salvação
+http://lidns.cc/movie/yu3k45/3audeg/9147.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Drama",Hudson & Rex
 http://lidns.cc/movie/yu3k45/3audeg/9137.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Drama",Margô Está em Apuros
@@ -15418,7 +15470,7 @@ http://lidns.cc/movie/yu3k45/3audeg/1321.mp4
 http://lidns.cc/movie/yu3k45/3audeg/528413.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nNSAYpeY85WRDWlquJOPp0stS4r.jpg" group-title="Movies | Esportes",UFC Fight Night 272: Moicano vs. Duncan (2026)
 http://lidns.cc/movie/yu3k45/3audeg/527950.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eqJQz7pOs9VX5emYxrse9dYdf8D.jpg" group-title="Movies | Esportes",UFC Fight Night 271: Adesanya vs. Pyfer (2026)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7gJjL4R6k9XXWiw3j1lm5NuG7at.jpg" group-title="Movies | Esportes",UFC Fight Night 271: Adesanya vs. Pyfer (2026)
 http://lidns.cc/movie/yu3k45/3audeg/526952.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lmyayfRfWpT3wFCkCPIJauJxLpE.jpg" group-title="Movies | Esportes",UFC Fight Night 270: Evloev vs. Murphy (2026)
 http://lidns.cc/movie/yu3k45/3audeg/525945.mp4
@@ -15657,7 +15709,9 @@ http://lidns.cc/movie/yu3k45/3audeg/300253.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/V3vkYcsxDw6x1lg31SKhSoJRXz.jpg" group-title="Movies | Esportes",UFC on ESPN 72: Dolidze vs. Hernandez (2025)
 http://lidns.cc/movie/yu3k45/3audeg/301814.mp4
 
-# --- Movies | Família (159) ---
+# --- Movies | Família (160) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dxnNBSI3jrvkgH7MeMTWZTli6tH.jpg" group-title="Movies | Família",Papai Bate um Bolão (2005)
+http://lidns.cc/movie/yu3k45/3audeg/529431.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ndOEhAMSbmhchESqBa8NEfmgqEF.jpg" group-title="Movies | Família",O Natal da Princesa Encantada (2012)
 http://lidns.cc/movie/yu3k45/3audeg/527597.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3jNK0WP5qDewsdJQl88qFy3Xu8v.jpg" group-title="Movies | Família",Barbie: Escola de Princesas (2011)
@@ -17777,7 +17831,89 @@ http://lidns.cc/movie/yu3k45/3audeg/6424.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Kids",X-Men: Evolution
 http://lidns.cc/movie/yu3k45/3audeg/3199.mp4
 
-# --- Movies | Lançamento (824) ---
+# --- Movies | Lançamento (865) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eYDqbhcxT41dxkbQPxETlRgfwPH.jpg" group-title="Movies | Lançamento",Untold: Crime em Hawthorne Hill (2026)
+http://lidns.cc/movie/yu3k45/3audeg/529538.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eYDqbhcxT41dxkbQPxETlRgfwPH.jpg" group-title="Movies | Lançamento",Untold: Crime em Hawthorne Hill [L] (2026)
+http://lidns.cc/movie/yu3k45/3audeg/529537.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/boefNT9mmIP7giAc76XJb0fpxRj.jpg" group-title="Movies | Lançamento",O Estágio [L] (2026)
+http://lidns.cc/movie/yu3k45/3audeg/529536.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yC3byha23vhC2GMR139p4W42n36.jpg" group-title="Movies | Lançamento",Uma Segunda Chance [4K] (2026)
+http://lidns.cc/movie/yu3k45/3audeg/529531.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jRuiKL4S9UpLma2ZlM47xIu2gbe.jpg" group-title="Movies | Lançamento",Turbulência [L] (2025)
+http://lidns.cc/movie/yu3k45/3audeg/529521.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yC3byha23vhC2GMR139p4W42n36.jpg" group-title="Movies | Lançamento",Uma Segunda Chance (2026)
+http://lidns.cc/movie/yu3k45/3audeg/529520.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yC3byha23vhC2GMR139p4W42n36.jpg" group-title="Movies | Lançamento",Uma Segunda Chance [L] (2026)
+http://lidns.cc/movie/yu3k45/3audeg/529518.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/glVfECG4rUlYbb1U36c7JQMDzBs.jpg" group-title="Movies | Lançamento",Zé (2023)
+http://lidns.cc/movie/yu3k45/3audeg/529517.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/abdw51gf1oy3UWllAwqGl6WdkiS.jpg" group-title="Movies | Lançamento",O Bolo do Presidente [L] (2025)
+http://lidns.cc/movie/yu3k45/3audeg/529515.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4uXL16pegV9mccBeUqB9VGos5hv.jpg" group-title="Movies | Lançamento",#SKYKING [L] (2026)
+http://lidns.cc/movie/yu3k45/3audeg/529514.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mTcXNQHnabavseapSfcAKhTnC3V.jpg" group-title="Movies | Lançamento",Ballistic [L] (2026)
+http://lidns.cc/movie/yu3k45/3audeg/529512.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jdbhjmDymtYdcYfzsmBlQEsOExV.jpg" group-title="Movies | Lançamento",A História de Um Gorila com David Attenborough [4K] (2026)
+http://lidns.cc/movie/yu3k45/3audeg/529511.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/88P3qzWBRYvI0K5fNtqwwXQsvwi.jpg" group-title="Movies | Lançamento",Vingança Brutal [4K] (2026)
+http://lidns.cc/movie/yu3k45/3audeg/529509.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/88P3qzWBRYvI0K5fNtqwwXQsvwi.jpg" group-title="Movies | Lançamento",Vingança Brutal [4K] (2026)
+http://lidns.cc/movie/yu3k45/3audeg/529507.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/36zoDJG52EkHnMm60M9BdLw8Siv.jpg" group-title="Movies | Lançamento",A Colega Perfeita [4K] (2026)
+http://lidns.cc/movie/yu3k45/3audeg/529498.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4kxZC9T2i0bDkPoXGK00C2A4Z5l.jpg" group-title="Movies | Lançamento",O Último Conquistador (2026)
+http://lidns.cc/movie/yu3k45/3audeg/529496.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4kxZC9T2i0bDkPoXGK00C2A4Z5l.jpg" group-title="Movies | Lançamento",O Último Conquistador [L] (2026)
+http://lidns.cc/movie/yu3k45/3audeg/529495.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ogWhinTSMe8UhlIPhrztPVxpOsl.jpg" group-title="Movies | Lançamento",Descendants/ZOMBIES Worlds Collide - Concert Special [L] (2026)
+http://lidns.cc/movie/yu3k45/3audeg/529490.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yed44wIEtmC52iwbKpLGM4uXkUv.jpg" group-title="Movies | Lançamento",Apresuntado (2023)
+http://lidns.cc/movie/yu3k45/3audeg/529485.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/36zoDJG52EkHnMm60M9BdLw8Siv.jpg" group-title="Movies | Lançamento",A Colega Perfeita (2026)
+http://lidns.cc/movie/yu3k45/3audeg/529243.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/36zoDJG52EkHnMm60M9BdLw8Siv.jpg" group-title="Movies | Lançamento",A Colega Perfeita [L] (2026)
+http://lidns.cc/movie/yu3k45/3audeg/529234.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/88P3qzWBRYvI0K5fNtqwwXQsvwi.jpg" group-title="Movies | Lançamento",Vingança Brutal (2026)
+http://lidns.cc/movie/yu3k45/3audeg/529226.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/88P3qzWBRYvI0K5fNtqwwXQsvwi.jpg" group-title="Movies | Lançamento",Vingança Brutal [L] (2026)
+http://lidns.cc/movie/yu3k45/3audeg/529219.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d02bWfVmn1W9Qn3Vng4Vt0CMXFP.jpg" group-title="Movies | Lançamento",A Torradeira [4K] (2026)
+http://lidns.cc/movie/yu3k45/3audeg/529213.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/saPapyxafNZxIPqYa2xm4QkaxpE.jpg" group-title="Movies | Lançamento",Nuremberg (2025)
+http://lidns.cc/movie/yu3k45/3audeg/529209.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ssu6M6sHP1e0KmySVuoNBZdh5Sq.jpg" group-title="Movies | Lançamento",Jerry West: O Logo [L] (2026)
+http://lidns.cc/movie/yu3k45/3audeg/529206.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eyYbgERxVuWBhCeZZLNFlZVWLz2.jpg" group-title="Movies | Lançamento",Manual Prático da Vingança Lucrativa [4K] (2026)
+http://lidns.cc/movie/yu3k45/3audeg/529204.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9uMTLWiDPFWYxEwP11G9Sp9cVAk.jpg" group-title="Movies | Lançamento",Bola pra Cima [4K] (2026)
+http://lidns.cc/movie/yu3k45/3audeg/529181.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jdbhjmDymtYdcYfzsmBlQEsOExV.jpg" group-title="Movies | Lançamento",A História de Um Gorila com David Attenborough (2026)
+http://lidns.cc/movie/yu3k45/3audeg/529174.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jdbhjmDymtYdcYfzsmBlQEsOExV.jpg" group-title="Movies | Lançamento",A História de Um Gorila com David Attenborough [L] (2026)
+http://lidns.cc/movie/yu3k45/3audeg/529171.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ISjrhA38HpSSGtfiCk8lpziC3K.jpg" group-title="Movies | Lançamento",180 (2026)
+http://lidns.cc/movie/yu3k45/3audeg/529169.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ISjrhA38HpSSGtfiCk8lpziC3K.jpg" group-title="Movies | Lançamento",180 [L] (2026)
+http://lidns.cc/movie/yu3k45/3audeg/529168.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5ZDqTM0ZP3ypmFivTeAnHslV6mY.jpg" group-title="Movies | Lançamento",Terror em Silent Hill: Regresso Para o Inferno (2026)
+http://lidns.cc/movie/yu3k45/3audeg/529167.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/weTyThAvs2JZJ3AZefA53d7vyfy.jpg" group-title="Movies | Lançamento",O Caso dos Estrangeiros (2025)
+http://lidns.cc/movie/yu3k45/3audeg/529165.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eyYbgERxVuWBhCeZZLNFlZVWLz2.jpg" group-title="Movies | Lançamento",Manual Prático da Vingança Lucrativa (2026)
+http://lidns.cc/movie/yu3k45/3audeg/529160.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eyYbgERxVuWBhCeZZLNFlZVWLz2.jpg" group-title="Movies | Lançamento",Manual Prático da Vingança Lucrativa [L] (2026)
+http://lidns.cc/movie/yu3k45/3audeg/529159.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Ap6J9pYqgrxQaYWYdX2fyBYBWF.jpg" group-title="Movies | Lançamento",Alerta Apocalipse (2026)
+http://lidns.cc/movie/yu3k45/3audeg/529155.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Ap6J9pYqgrxQaYWYdX2fyBYBWF.jpg" group-title="Movies | Lançamento",Alerta Apocalipse [L] (2026)
+http://lidns.cc/movie/yu3k45/3audeg/529150.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uvXHs10CYWRyerGSX2WuN2dzxse.jpg" group-title="Movies | Lançamento",Charlie: O Super Cão (2025)
+http://lidns.cc/movie/yu3k45/3audeg/529144.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uvXHs10CYWRyerGSX2WuN2dzxse.jpg" group-title="Movies | Lançamento",Charlie: O Super Cão [L] (2025)
+http://lidns.cc/movie/yu3k45/3audeg/529142.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9uMTLWiDPFWYxEwP11G9Sp9cVAk.jpg" group-title="Movies | Lançamento",Bola pra Cima [4K] (2026)
+http://lidns.cc/movie/yu3k45/3audeg/529141.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d02bWfVmn1W9Qn3Vng4Vt0CMXFP.jpg" group-title="Movies | Lançamento",A Torradeira (2026)
 http://lidns.cc/movie/yu3k45/3audeg/528828.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d02bWfVmn1W9Qn3Vng4Vt0CMXFP.jpg" group-title="Movies | Lançamento",A Torradeira [L] (2026)
@@ -17930,7 +18066,7 @@ http://lidns.cc/movie/yu3k45/3audeg/527071.mp4
 http://lidns.cc/movie/yu3k45/3audeg/527070.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9k2zKeUfcKkAz1dGt5MP6dZMm4G.jpg" group-title="Movies | Lançamento",Avatar: Fogo e Cinzas (2025)
 http://lidns.cc/movie/yu3k45/3audeg/527065.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jeZBNXstpDovLZqzFog4Dhznu3X.jpg" group-title="Movies | Lançamento",O Testamento de Ann Lee [L] (2025)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fWNiSxn9a9oGiRl2KXR38zhjGXc.jpg" group-title="Movies | Lançamento",O Testamento de Ann Lee [L] (2025)
 http://lidns.cc/movie/yu3k45/3audeg/526949.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rxQE2GmdabPcLQtrG0ik2MYyMu3.jpg" group-title="Movies | Lançamento",O Último Gigante (2026)
 http://lidns.cc/movie/yu3k45/3audeg/526941.mp4
@@ -17938,7 +18074,7 @@ http://lidns.cc/movie/yu3k45/3audeg/526941.mp4
 http://lidns.cc/movie/yu3k45/3audeg/526939.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m1Zl07DNYeSyNcz9hf8hDsS2oB5.jpg" group-title="Movies | Lançamento",Starbright [L] (2026)
 http://lidns.cc/movie/yu3k45/3audeg/526936.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tw4y4LYXgStufkU0FFUmYPwHaRf.jpg" group-title="Movies | Lançamento",Scarlet [L] (2025)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tM5DjBcL6qbzxtZtwgyTqDyHTsX.jpg" group-title="Movies | Lançamento",Scarlet [L] (2025)
 http://lidns.cc/movie/yu3k45/3audeg/526931.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cXxFrrKMMu4gipC8kVoplzo0HAr.jpg" group-title="Movies | Lançamento",É Preciso um Vilarejo… (2026)
 http://lidns.cc/movie/yu3k45/3audeg/526929.mp4
@@ -17952,7 +18088,7 @@ http://lidns.cc/movie/yu3k45/3audeg/526924.mp4
 http://lidns.cc/movie/yu3k45/3audeg/526915.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zzjhOgtbXePGcKuacjeDmy5t4RH.jpg" group-title="Movies | Lançamento",Comer, Rezar, Ladrar [L] (2026)
 http://lidns.cc/movie/yu3k45/3audeg/526911.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nbof7tfNUpLsecCuYAKTBq27TDz.jpg" group-title="Movies | Lançamento",D.P.A. 4: O Fantástico Reino de Ondion (2025)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nbof7tfNUpLsecCuYAKTBq27TDz.jpg" group-title="Movies | Lançamento",Detetives do Prédio Azul (D.P.A.) 4: O Fantástico Reino de Ondion (2025)
 http://lidns.cc/movie/yu3k45/3audeg/526909.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Go8VKSzJIzn65b9c9l02ymHRlv.jpg" group-title="Movies | Lançamento",Untold: A Morte e a Vida de Lamar Odom [L] (2026)
 http://lidns.cc/movie/yu3k45/3audeg/526882.mp4
@@ -19427,7 +19563,59 @@ http://lidns.cc/movie/yu3k45/3audeg/8363.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Lançamento",The Beginning After the End [L]
 http://lidns.cc/movie/yu3k45/3audeg/7298.mp4
 
-# --- Movies | Legendado (3957) ---
+# --- Movies | Legendado (3988) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zHCRl12HdPQ50c0OCPq37E83xGs.jpg" group-title="Movies | Legendado",Quando o Mal Desperta [L] (2024)
+http://lidns.cc/movie/yu3k45/3audeg/529781.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Mx9PVxrPSM2wYRlSC2bW2fjEf9.jpg" group-title="Movies | Legendado",Os Efeitos da Mentira [L] (2023)
+http://lidns.cc/movie/yu3k45/3audeg/529533.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dzzB67NRFDFNRayJ9UOX6rSNRSV.jpg" group-title="Movies | Legendado",Vale dos Vermes do Rei Xian e Lâmpada Fantasma [L] (2023)
+http://lidns.cc/movie/yu3k45/3audeg/529525.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gaSqrnpSnTq5oYno0KnDyDXAF5r.jpg" group-title="Movies | Legendado",Cabana do Medo: O Último Fim de Semana do Verão [L] (2024)
+http://lidns.cc/movie/yu3k45/3audeg/529523.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5wZGiIJWq21EK7qGSQ7lMnjTOQK.jpg" group-title="Movies | Legendado",Aquela Noite [L] (2023)
+http://lidns.cc/movie/yu3k45/3audeg/529505.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xoXAo6GyRo31pNjFhPTcAnAcZIw.jpg" group-title="Movies | Legendado",Operação Arriscada [L] (2025)
+http://lidns.cc/movie/yu3k45/3audeg/529502.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ODjm07xjsB1ZzUc5FSqfDwovdd.jpg" group-title="Movies | Legendado",Sangria [L] (2024)
+http://lidns.cc/movie/yu3k45/3audeg/529500.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kGKGKTOAvo5bLBcdyqY0gBkF0Bh.jpg" group-title="Movies | Legendado",Fitas Proibidas - Antologia do Terror [L] (2024)
+http://lidns.cc/movie/yu3k45/3audeg/529492.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/20DnunWDP9o2A3rRCJC1QgIu9ee.jpg" group-title="Movies | Legendado",Anti Amor [L] (2025)
+http://lidns.cc/movie/yu3k45/3audeg/529482.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aNtFRwx0AQvJPMknqGKWAmDYaFd.jpg" group-title="Movies | Legendado",Você Nem Imagina [L] (2020)
+http://lidns.cc/movie/yu3k45/3audeg/529473.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tUMY2i0e0KUfslvjBBnRYGBxhL4.jpg" group-title="Movies | Legendado",Vingança [L] (2017)
+http://lidns.cc/movie/yu3k45/3audeg/529464.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aTGCbtIMvAnVPCMeUfynxT7XI7X.jpg" group-title="Movies | Legendado",Ronaldo [L] (2015)
+http://lidns.cc/movie/yu3k45/3audeg/529448.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dxnNBSI3jrvkgH7MeMTWZTli6tH.jpg" group-title="Movies | Legendado",Papai Bate um Bolão [L] (2005)
+http://lidns.cc/movie/yu3k45/3audeg/529427.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9wcchetvkyCRi1UYPIinrzXBdsN.jpg" group-title="Movies | Legendado",Jason Bourne [L] (2016)
+http://lidns.cc/movie/yu3k45/3audeg/529389.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/znmFGF41VKALJIQx0coyjBXNWYm.jpg" group-title="Movies | Legendado",Inimigo Invisível [L] (2019)
+http://lidns.cc/movie/yu3k45/3audeg/529379.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/spMoofhPZfSOMJpbsDfltvWkU9p.jpg" group-title="Movies | Legendado",Dias Sem Fim [L] (2020)
+http://lidns.cc/movie/yu3k45/3audeg/529355.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5EBsf3QV7Jaw2m0aEG8hQFY3fGT.jpg" group-title="Movies | Legendado",Conspiração e Poder [L] (2015)
+http://lidns.cc/movie/yu3k45/3audeg/529344.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bIzjdRznNg7vcLqfZgFA9RFGvjz.jpg" group-title="Movies | Legendado",Comando Final [L] (2005)
+http://lidns.cc/movie/yu3k45/3audeg/529336.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hENEUsilaQ2AXRX9ENFnuzvyMny.jpg" group-title="Movies | Legendado",Agência de Talentos [L] (2006)
+http://lidns.cc/movie/yu3k45/3audeg/529291.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/61AmNxfiS5wscJuCrGkYqdwgOG2.jpg" group-title="Movies | Legendado",A Maldição De Ouro [L] (2013)
+http://lidns.cc/movie/yu3k45/3audeg/529280.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xp2UO1n3LmeS0sXc7iUtROeeOuY.jpg" group-title="Movies | Legendado",A Casa [L] (2020)
+http://lidns.cc/movie/yu3k45/3audeg/529276.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uV0LU1TdaL517kXx2bHOixChFcx.jpg" group-title="Movies | Legendado",Algo Velho, Algo Novo, Algo Emprestado [L] (2025)
+http://lidns.cc/movie/yu3k45/3audeg/529250.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rOGiPPqIiQKpfqOgLCWA1xUqTqi.jpg" group-title="Movies | Legendado",Pesadelo na Montanha [L] (2023)
+http://lidns.cc/movie/yu3k45/3audeg/529193.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/syaPABbzGcAV7O3IzsiUCJC9JND.jpg" group-title="Movies | Legendado",Vidas à Deriva [L] (2023)
+http://lidns.cc/movie/yu3k45/3audeg/529183.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/NDpr8I9hjAaf5CHXD6iNGafNFy.jpg" group-title="Movies | Legendado",Além da Força, Além da Fé [L] (2024)
+http://lidns.cc/movie/yu3k45/3audeg/529157.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/38NCcPC1zJ6hzQYvzPor5uguvDs.jpg" group-title="Movies | Legendado",Um Conto de Natal [L] (2001)
+http://lidns.cc/movie/yu3k45/3audeg/529153.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qigUDdP23FhLmMVKcy3TTdwFqQu.jpg" group-title="Movies | Legendado",Sabedoria da Felicidade: Uma Experiência Com o Dalai Lama [L] (2024)
 http://lidns.cc/movie/yu3k45/3audeg/528814.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1RdpvZsR96bS2zospQi79fi2LSl.jpg" group-title="Movies | Legendado",Onde Aterrar [L] (2025)
@@ -21836,7 +22024,7 @@ http://lidns.cc/movie/yu3k45/3audeg/309802.mp4
 http://lidns.cc/movie/yu3k45/3audeg/274634.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wKZW3o3QwpC5sQMrd9lJDAhEKcU.jpg" group-title="Movies | Legendado",A Outra Face de Dorian Gray [L] (2023)
 http://lidns.cc/movie/yu3k45/3audeg/307591.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d7QIYy7cyKz8mr6QzhdSekaKdlN.jpg" group-title="Movies | Legendado",A Paixão de Cristo [L] (2004)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ptGYQgdYCR8GVMVjpJ8QNJSxlkf.jpg" group-title="Movies | Legendado",A Paixão de Cristo [L] (2004)
 http://lidns.cc/movie/yu3k45/3audeg/147418.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pZtTmf67sxOyYBSjX9TGIZXQpeD.jpg" group-title="Movies | Legendado",A Paranoia de Lulu [L] (2024)
 http://lidns.cc/movie/yu3k45/3audeg/503494.mp4
@@ -22522,7 +22710,7 @@ http://lidns.cc/movie/yu3k45/3audeg/307568.mp4
 http://lidns.cc/movie/yu3k45/3audeg/298379.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1yLaXY38bywjmhakKVj5mzdGuzA.jpg" group-title="Movies | Legendado",Chef [L] (2014)
 http://lidns.cc/movie/yu3k45/3audeg/278553.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/90JPvtnwyUYj6yNGqqLNfNYVh6s.jpg" group-title="Movies | Legendado",Chico Bento e a Goiabeira Maraviosa [L] (2025)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a5AuXy70HjNy7RJexXwNpoBGkg0.jpg" group-title="Movies | Legendado",Chico Bento e a Goiabeira Maraviosa [L] (2025)
 http://lidns.cc/movie/yu3k45/3audeg/281700.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aOp7kLTkp1UAT6LjTX5V7rlnGqs.jpg" group-title="Movies | Legendado",Chuva de Chumbo [L] (1986)
 http://lidns.cc/movie/yu3k45/3audeg/308220.mp4
@@ -26230,6 +26418,16 @@ http://lidns.cc/movie/yu3k45/3audeg/303195.mp4
 http://lidns.cc/movie/yu3k45/3audeg/308180.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7hkr3teBIjkgIYXTk0V36CThSVL.jpg" group-title="Movies | Legendado",ZOMBIES 4: A Era dos Vampiros [L] (2025)
 http://lidns.cc/movie/yu3k45/3audeg/297531.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Legendado",Yowayowa Sensei [L]
+http://lidns.cc/movie/yu3k45/3audeg/9158.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Legendado",The Other Bennet Sister [L]
+http://lidns.cc/movie/yu3k45/3audeg/9157.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Legendado",M*A*S*H [L]
+http://lidns.cc/movie/yu3k45/3audeg/9152.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Legendado",Dean Potter: O Bruxo Sombrio [L]
+http://lidns.cc/movie/yu3k45/3audeg/9150.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Legendado",重案解密 [L]
+http://lidns.cc/movie/yu3k45/3audeg/9148.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Legendado",Presas na Bolívia [L]
 http://lidns.cc/movie/yu3k45/3audeg/9138.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Legendado",Ichijyoma Mankitsu Gurashi! [L]
@@ -27343,7 +27541,15 @@ http://lidns.cc/movie/yu3k45/3audeg/7468.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Legendado",白夜玲珑 [L]
 http://lidns.cc/movie/yu3k45/3audeg/7499.mp4
 
-# --- Movies | Looke (965) ---
+# --- Movies | Looke (969) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uOeDM5UU5w1yh5kBV7OKxhZw5PW.jpg" group-title="Movies | Looke",Corpo Delito (2017)
+http://lidns.cc/movie/yu3k45/3audeg/529780.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Mx9PVxrPSM2wYRlSC2bW2fjEf9.jpg" group-title="Movies | Looke",Os Efeitos da Mentira (2023)
+http://lidns.cc/movie/yu3k45/3audeg/529534.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ip7nVBDhT9J9blktI3WGWMWCWco.jpg" group-title="Movies | Looke",Morte Súbita [L] (2007)
+http://lidns.cc/movie/yu3k45/3audeg/529413.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/diOgoFXNMqs9xaB849bnh8J6gkV.jpg" group-title="Movies | Looke",Além da Paixão (1985)
+http://lidns.cc/movie/yu3k45/3audeg/529308.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7UjwV9QvXV3OYq044yjHUIASYDb.jpg" group-title="Movies | Looke",Olhos Frios (2013)
 http://lidns.cc/movie/yu3k45/3audeg/528733.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wmu7bwaQm2CxzYOiToRF0GBeZZp.jpg" group-title="Movies | Looke",O Dominador (2010)
@@ -31509,7 +31715,9 @@ http://lidns.cc/movie/yu3k45/3audeg/1244.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Mistério",Z Nation
 http://lidns.cc/movie/yu3k45/3audeg/1097.mp4
 
-# --- Movies | Música (59) ---
+# --- Movies | Música (60) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zk2PzO3aCW4uSpNNjST2tioduj.jpg" group-title="Movies | Música",Brasil (1981)
+http://lidns.cc/movie/yu3k45/3audeg/529318.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dGNMD5XTBQN3teIth21ohKOCJcR.jpg" group-title="Movies | Música",Justin Bieber: Never Say Never (2011)
 http://lidns.cc/movie/yu3k45/3audeg/509375.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kgH1sTqrKH3rjAXPo1kZ6kwypM.jpg" group-title="Movies | Música",Shawn Mendes: Live in Concert (2020)
@@ -31629,7 +31837,7 @@ http://lidns.cc/movie/yu3k45/3audeg/3649.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9QEVz90ufqCdKcaKFwTipmq2VmD.jpg" group-title="Movies | Música",Outro Conto da Nova Cinderela (2008)
 http://lidns.cc/movie/yu3k45/3audeg/774.mp4
 
-# --- Movies | Netflix (2140) ---
+# --- Movies | Netflix (2141) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dp0jlDZv6z3nY23kbmasgNLFZyd.jpg" group-title="Movies | Netflix",A Cidade dos Sonhos (2024)
 http://lidns.cc/movie/yu3k45/3audeg/528818.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zrVTtvLBk0yp2wlinURhzPVbkxi.jpg" group-title="Movies | Netflix",Dúvida (2008)
@@ -34650,6 +34858,8 @@ http://lidns.cc/movie/yu3k45/3audeg/502676.mp4
 http://lidns.cc/movie/yu3k45/3audeg/300059.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9bVfFo7PLMcRICRIbzPkWZzYIWY.jpg" group-title="Movies | Netflix",Untold: A Queda de Brett Favre (2025)
 http://lidns.cc/movie/yu3k45/3audeg/286474.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Netflix",Feito com Amor
+http://lidns.cc/movie/yu3k45/3audeg/9146.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Netflix",Paixão Sem Idade
 http://lidns.cc/movie/yu3k45/3audeg/9091.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Netflix",Neon Genesis Evangelion
@@ -37133,7 +37343,9 @@ http://lidns.cc/movie/yu3k45/3audeg/134652.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tOcgjbRymDsFXrw19X5qRup6RKn.jpg" group-title="Movies | Religioso",Você Acredita? (2015)
 http://lidns.cc/movie/yu3k45/3audeg/6082.mp4
 
-# --- Movies | Romance (193) ---
+# --- Movies | Romance (194) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ODjm07xjsB1ZzUc5FSqfDwovdd.jpg" group-title="Movies | Romance",Sangria (2024)
+http://lidns.cc/movie/yu3k45/3audeg/529501.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nLlz1IUFFB8rGSWWxz41GFmHVMd.jpg" group-title="Movies | Romance",Juventude e Ternura (1968)
 http://lidns.cc/movie/yu3k45/3audeg/526156.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gQnevwJCPKAVtol9CLBHZMTHaAF.jpg" group-title="Movies | Romance",Bel Ami: O Sedutor (2012)
@@ -37611,7 +37823,19 @@ http://lidns.cc/movie/yu3k45/3audeg/1508.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Talk",Que História é Essa, Porchat?
 http://lidns.cc/movie/yu3k45/3audeg/1622.mp4
 
-# --- Movies | Terror (515) ---
+# --- Movies | Terror (521) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zHCRl12HdPQ50c0OCPq37E83xGs.jpg" group-title="Movies | Terror",Quando o Mal Desperta (2024)
+http://lidns.cc/movie/yu3k45/3audeg/529529.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gaSqrnpSnTq5oYno0KnDyDXAF5r.jpg" group-title="Movies | Terror",Cabana do Medo: O Último Fim de Semana do Verão (2024)
+http://lidns.cc/movie/yu3k45/3audeg/529524.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kGKGKTOAvo5bLBcdyqY0gBkF0Bh.jpg" group-title="Movies | Terror",Fitas Proibidas - Antologia do Terror (2024)
+http://lidns.cc/movie/yu3k45/3audeg/529493.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/93GPoFaEbb0MaF8i7Qp05ykr5eK.jpg" group-title="Movies | Terror",Cáustico (2023)
+http://lidns.cc/movie/yu3k45/3audeg/529487.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/61AmNxfiS5wscJuCrGkYqdwgOG2.jpg" group-title="Movies | Terror",A Maldição De Ouro (2013)
+http://lidns.cc/movie/yu3k45/3audeg/529288.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rOGiPPqIiQKpfqOgLCWA1xUqTqi.jpg" group-title="Movies | Terror",Pesadelo na Montanha (2023)
+http://lidns.cc/movie/yu3k45/3audeg/529200.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/98XPZYfh2zRxrgcpOgAwVLOYOOq.jpg" group-title="Movies | Terror",Visões - Você Pode Me Ajudar? (2000)
 http://lidns.cc/movie/yu3k45/3audeg/527653.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rMuHUjtM3HptEXz9acWEEm8U1P4.jpg" group-title="Movies | Terror",Gosto Infernal (2025)
@@ -38643,7 +38867,9 @@ http://lidns.cc/movie/yu3k45/3audeg/505725.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iOJR3xbCxfbarH8LYnHfDqtfIYa.jpg" group-title="Movies | Terror",Prédio Vazio (2025)
 http://lidns.cc/movie/yu3k45/3audeg/301431.mp4
 
-# --- Movies | Thriller (224) ---
+# --- Movies | Thriller (225) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rwMo9OOl4mMSaaRFoe0qWf8evLX.jpg" group-title="Movies | Thriller",Rede Tóxica (2025)
+http://lidns.cc/movie/yu3k45/3audeg/529177.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xYlBOIJOwUdgeSHDwk40RGSxSK5.jpg" group-title="Movies | Thriller",A Armadilha dos Espíritos (2005)
 http://lidns.cc/movie/yu3k45/3audeg/527397.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9mNSRW05Y80iS9HdwvP5SIq4oL5.jpg" group-title="Movies | Thriller",Exorcismus: A Possessão (2010)
@@ -39197,4 +39423,4 @@ http://lidns.cc/movie/yu3k45/3audeg/7542.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Turcas",Yargı: Segredos de Família
 http://lidns.cc/movie/yu3k45/3audeg/2553.mp4
 
-# Total: 19545
+# Total: 19658
