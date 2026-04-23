@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: solution62000.mine.nu:8000
-# Generated: 2026-04-22 07:48:57
+# Generated: 2026-04-23 07:59:49
 # Expires: 2026-12-19
 # Family Safe Edition
 # ==============================================
@@ -895,7 +895,9 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1030.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Disney+",Lucky Luke
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1077.mp4
 
-# --- Movies | Documentaires (53) ---
+# --- Movies | Documentaires (54) ---
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9bsOuq34lbMb74OEoJ62aR7Bm2E.jpg" group-title="Movies | Documentaires",Orang-outan (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/26386.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lSl3fWUhRXDtYLKvvnmB8fFBphA.jpg" group-title="Movies | Documentaires",L'Envers du sport : Échec et clash (2026)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/26189.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hMVhZxgbFLXZcDUIZ10NGb6s8w4.jpg" group-title="Movies | Documentaires",Kidnapped: Elizabeth Smart (2026)
@@ -1121,7 +1123,9 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/7300.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wkUCQaXIc9qkqplDJZIuxRHLQNq.jpg" group-title="Movies | FILMS TURK",Malazgirt 1071 - 2022
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/5531.mp4
 
-# --- Movies | Films (1546) ---
+# --- Movies | Films (1547) ---
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fGhd4DurS1rhmNOb7b9EeobQTPe.jpg" group-title="Movies | Films",President Down (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/26402.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/da4KST59isnHHwVYZGrzWxoJuNZ.jpg" group-title="Movies | Films",La Ville maléfique (2026)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/26385.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1jLnjDT6eyI0dTqucvTaTpUJVsY.jpg" group-title="Movies | Films",Zombies 4 : L'aube des vampires (2026)
@@ -3446,7 +3450,7 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/4099.mkv
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/4096.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qSYahzzFP7od6mFegr64V0aGoYr.jpg" group-title="Movies | Films",Always and Forever - 2021
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/4095.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4mcovnajaLoy7dbv5arykJjDFFC.jpg" group-title="Movies | Films",Kaamelott : Premier volet - 2021
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4mcovnajaLoy7dbv5arykJjDFFC.jpg" group-title="Movies | Films",Kaamelott : Premier Volet (2021)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/4082.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qseURFLjRBCqFCNCKmS2uwM9IOj.jpg" group-title="Movies | Films",Mourir peut attendre (2021)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/4077.mkv
@@ -7115,7 +7119,7 @@ http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1117
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Arabe",( 2026 ) + الخلاط
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1118
 
-# --- Series | Series Documentaires (13) ---
+# --- Series | Series Documentaires (14) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Documentaires",Homicide
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/403
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Documentaires",En guerre(s) pour l'Algérie
@@ -7142,6 +7146,8 @@ http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1050
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1099
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Documentaires",Ronaldinho : le seul et l'unique
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1115
+#EXTINF:-1 tvg-logo="" group-title="Series | Series Documentaires",Hulk Hogan: Real American
+http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1120
 
 # --- Series | Series Marocaines (4) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Marocaines",أولاد الدرب
@@ -7867,4 +7873,4 @@ http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1114
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Moloch
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1116
 
-# Total: 3900
+# Total: 3903

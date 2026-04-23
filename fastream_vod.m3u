@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: fastream.xyz:8080
-# Generated: 2026-04-22 07:53:19
+# Generated: 2026-04-23 08:08:22
 # Expires: 2026-10-20
 # Family Safe Edition
 # ==============================================
@@ -18225,7 +18225,7 @@ http://fastream.xyz:8080/series/940246862tv/12ws79/2562
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES COMEDIA ←",Malcolm in the Middle: La vida sigue siendo injusta
 http://fastream.xyz:8080/series/940246862tv/12ws79/2568
 
-# --- Series | → SERIES CRIMEN ← (162) ---
+# --- Series | → SERIES CRIMEN ← (163) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES CRIMEN ←",¿Sabes quién es?
 http://fastream.xyz:8080/series/940246862tv/12ws79/5
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES CRIMEN ←",Chicago P.D.
@@ -18550,6 +18550,8 @@ http://fastream.xyz:8080/series/940246862tv/12ws79/2544
 http://fastream.xyz:8080/series/940246862tv/12ws79/2550
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES CRIMEN ←",Alguien tiene que saber
 http://fastream.xyz:8080/series/940246862tv/12ws79/2570
+#EXTINF:-1 tvg-logo="" group-title="Series | → SERIES CRIMEN ←",Animal Kingdom
+http://fastream.xyz:8080/series/940246862tv/12ws79/2571
 
 # --- Series | → SERIES DC ← (15) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DC ←",Arrow
@@ -19907,4 +19909,4 @@ http://fastream.xyz:8080/series/940246862tv/12ws79/2345
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES TERROR-THRILLER-SUSPENSO ←",It: Bienvenidos a Derry
 http://fastream.xyz:8080/series/940246862tv/12ws79/2492
 
-# Total: 9877
+# Total: 9878

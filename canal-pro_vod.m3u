@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: canal-pro.xyz:8080
-# Generated: 2026-04-22 07:52:02
+# Generated: 2026-04-23 08:00:17
 # Expires: 2026-05-11
 # Family Safe Edition
 # ==============================================
@@ -18225,7 +18225,7 @@ http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2562
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES COMEDIA ←",Malcolm in the Middle: La vida sigue siendo injusta
 http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2568
 
-# --- Series | → SERIES CRIMEN ← (162) ---
+# --- Series | → SERIES CRIMEN ← (163) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES CRIMEN ←",¿Sabes quién es?
 http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/5
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES CRIMEN ←",Chicago P.D.
@@ -18550,6 +18550,8 @@ http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2544
 http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2550
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES CRIMEN ←",Alguien tiene que saber
 http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2570
+#EXTINF:-1 tvg-logo="" group-title="Series | → SERIES CRIMEN ←",Animal Kingdom
+http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2571
 
 # --- Series | → SERIES DC ← (15) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DC ←",Arrow
@@ -19907,4 +19909,4 @@ http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2345
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES TERROR-THRILLER-SUSPENSO ←",It: Bienvenidos a Derry
 http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2492
 
-# Total: 9877
+# Total: 9878
