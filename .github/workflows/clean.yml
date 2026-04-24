@@ -1,4 +1,4 @@
-name: Delete old m3u files
+name: Delete old m3u files (7 days)
 
 on:
   schedule:
@@ -15,11 +15,16 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Delete .m3u files older than 7 days
+      - name: Delete old .m3u files
         run: |
-          echo "Scanning .m3u files..."
-          find . -type f -name "*.m3u" | while read file; do
-            if [ $(date -r "$file" +%s) -lt $(date -d "7 days ago" +%s) ]; then
+          git ls-files "*.m3u" | while read file; do
+            commit_date=$(git log -1 --format="%ct" -- "$file")
+            now=$(date +%s)
+            diff=$(( (now - commit_date) / 86400 ))
+
+            echo "$file is $diff days old"
+
+            if [ "$diff" -ge 7 ]; then
               echo "Deleting $file"
               rm -f "$file"
             fi
@@ -30,5 +35,5 @@ jobs:
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
           git add -A
-          git commit -m "Auto delete old .m3u files" || echo "No changes to commit"
+          git commit -m "Auto delete .m3u older than 7 days" || echo "No changes"
           git push
