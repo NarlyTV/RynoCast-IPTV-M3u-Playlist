@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: 51.89.76.111:2086
-# Generated: 2026-04-23 19:05:49
+# Generated: 2026-04-24 07:55:11
 # Expires: 2026-10-09
 # Family Safe Edition
 # ==============================================
@@ -5713,13 +5713,9 @@ http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/141805.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TR | TABII SPOR",TR: TABII SPOR 7 FHD
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/162101.m3u8
 
-# --- TR | TIVIBU (16) ---
+# --- TR | TIVIBU (14) ---
 #EXTINF:-1 tvg-logo="http://147.135.221.50/img/turkey.png" group-title="TR | TIVIBU",##### TURK TIVIBU PAKETI #####
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/36220.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TR | TIVIBU",TR: Blutv Play 1
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/157775.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TR | TIVIBU",TR: Blutv Play 2
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/157779.m3u8
 #EXTINF:-1 tvg-logo="http://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/df8891dd-4c22-41f7-85b0-d516ab62b473.png" group-title="TR | TIVIBU",TR: Epic Drama HD
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/22227.m3u8
 #EXTINF:-1 tvg-logo="http://www.tivibu.com.tr/assets/img/kanallar/sinemaaksiyon_logo.png" group-title="TR | TIVIBU",TR: SiNEMA TV AKSiYON HD
@@ -6467,4 +6463,4 @@ http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/165984.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/3pkpdut.png" group-title="WORLD SPORTS",beiN SPORTS 3 FHD
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/165948.m3u8
 
-# Total: 3173
+# Total: 3171

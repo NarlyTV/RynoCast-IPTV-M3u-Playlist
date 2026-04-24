@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: no1.no1turk.com:2086
-# Generated: 2026-04-23 19:11:29
+# Generated: 2026-04-24 08:09:07
 # Expires: 2026-09-21
 # Family Safe Edition
 # ==============================================
@@ -5713,13 +5713,9 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/141805.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TR | TABII SPOR",TR: TABII SPOR 7 FHD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/162101.m3u8
 
-# --- TR | TIVIBU (16) ---
+# --- TR | TIVIBU (14) ---
 #EXTINF:-1 tvg-logo="http://147.135.221.50/img/turkey.png" group-title="TR | TIVIBU",##### TURK TIVIBU PAKETI #####
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/36220.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TR | TIVIBU",TR: Blutv Play 1
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/157775.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TR | TIVIBU",TR: Blutv Play 2
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/157779.m3u8
 #EXTINF:-1 tvg-logo="http://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/df8891dd-4c22-41f7-85b0-d516ab62b473.png" group-title="TR | TIVIBU",TR: Epic Drama HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/22227.m3u8
 #EXTINF:-1 tvg-logo="http://www.tivibu.com.tr/assets/img/kanallar/sinemaaksiyon_logo.png" group-title="TR | TIVIBU",TR: SiNEMA TV AKSiYON HD
@@ -6467,4 +6463,4 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/165984.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/3pkpdut.png" group-title="WORLD SPORTS",beiN SPORTS 3 FHD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/165948.m3u8
 
-# Total: 3173
+# Total: 3171

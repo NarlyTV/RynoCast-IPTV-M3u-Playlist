@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: siptvs.com:8080
-# Generated: 2026-04-23 19:15:15
+# Generated: 2026-04-24 08:08:42
 # Expires: 2026-05-16
 # Family Safe Edition
 # ==============================================
@@ -1297,7 +1297,7 @@ http://siptvs.com:8080/movie/Biljana12/Biljana12/18592.mkv
 #EXTINF:-1 tvg-logo="" group-title="Movies | NO CATEGORIES",Logopreview
 http://siptvs.com:8080/movie/Biljana12/Biljana12/35715.mp4
 
-# --- Movies | |DE| ACTION (449) ---
+# --- Movies | |DE| ACTION (450) ---
 #EXTINF:-1 tvg-logo="http://siptvs.com:8080/images/2482aa4d37cdb55c7fed48e0c3e5e2e0.jpg" group-title="Movies | |DE| ACTION",Ashfall (2019)
 http://siptvs.com:8080/movie/Biljana12/Biljana12/20485.mp4
 #EXTINF:-1 tvg-logo="http://siptvs.com:8080/images/9a028f030a4537ba69dadfdc25974642.jpg" group-title="Movies | |DE| ACTION",Backdraft 2 (2019)
@@ -2196,6 +2196,8 @@ http://siptvs.com:8080/movie/Biljana12/Biljana12/197071.mkv
 http://siptvs.com:8080/movie/Biljana12/Biljana12/199361.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ahHguslRzE5Qgx8KTJvlDeSEJE2.jpg" group-title="Movies | |DE| ACTION",Fifty Dead Men Walking (2008)
 http://siptvs.com:8080/movie/Biljana12/Biljana12/201246.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/boeLnGVT2EQ0Qbvh6Va6JAlTTVe.jpg" group-title="Movies | |DE| ACTION",Lockout (2012)
+http://siptvs.com:8080/movie/Biljana12/Biljana12/202273.mp4
 
 # --- Movies | |DE| ADVENTURE (153) ---
 #EXTINF:-1 tvg-logo="http://siptvs.com:8080/images/212b2e504db1e1623031b5dc909441e3.jpg" group-title="Movies | |DE| ADVENTURE",Artemis Fowl (2020)
@@ -3585,7 +3587,7 @@ http://siptvs.com:8080/movie/Biljana12/Biljana12/198138.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rFSat2bM6MHCEpsB596JZvcRix3.jpg" group-title="Movies | |DE| DOKU",The White Mountain (2024)
 http://siptvs.com:8080/movie/Biljana12/Biljana12/198140.mkv
 
-# --- Movies | |DE| DRAMA (194) ---
+# --- Movies | |DE| DRAMA (195) ---
 #EXTINF:-1 tvg-logo="http://siptvs.com:8080/images/ea39ced4530e9e9f3502dfe58d46aadb.jpg" group-title="Movies | |DE| DRAMA",Brittany Runs a Marathon (2019)
 http://siptvs.com:8080/movie/Biljana12/Biljana12/20533.mkv
 #EXTINF:-1 tvg-logo="http://siptvs.com:8080/images/a2043e8684a0d1177c8da503eeb55a9e.jpg" group-title="Movies | |DE| DRAMA",Der Auftrag (2019)
@@ -3974,6 +3976,8 @@ http://siptvs.com:8080/movie/Biljana12/Biljana12/199366.mkv
 http://siptvs.com:8080/movie/Biljana12/Biljana12/201245.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8LaFLBZ535Bzha0kNJR2pFirGSY.jpg" group-title="Movies | |DE| DRAMA",Kaltfront (2016)
 http://siptvs.com:8080/movie/Biljana12/Biljana12/201247.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/cSEGhdtMgeMoeP97jSxVA47DNA1.jpg" group-title="Movies | |DE| DRAMA",Le Mans 66 - Gegen jede Chance (2019)
+http://siptvs.com:8080/movie/Biljana12/Biljana12/202272.mkv
 
 # --- Movies | |DE| FAMILY (45) ---
 #EXTINF:-1 tvg-logo="http://siptvs.com:8080/images/ce58effc94ec94751a83422056bf1818.jpg" group-title="Movies | |DE| FAMILY",Bruderherz (2020)
@@ -34573,4 +34577,4 @@ http://siptvs.com:8080/movie/Biljana12/Biljana12/179055.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c44zM4fWJ55ImcEnqf7UL4dsCSB.jpg" group-title="Movies | |MU| MUSIC/CONCERTE",Avicii - Mein letztes Konzert (2024)
 http://siptvs.com:8080/movie/Biljana12/Biljana12/181880.mkv
 
-# Total: 17220
+# Total: 17222
