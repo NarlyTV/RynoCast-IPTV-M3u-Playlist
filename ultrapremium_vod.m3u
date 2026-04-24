@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: ultrapremium.cloud:8080
-# Generated: 2026-04-24 07:56:50
+# Generated: 2026-04-24 19:06:05
 # Expires: 2026-05-28
 # Family Safe Edition
 # ==============================================
@@ -13337,7 +13337,9 @@ http://ultrapremium.cloud:8080/movie/964374735tv/4fdc5eg3/75434.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9RrMfaCYdsdNdRNUAR3TY0DvNV2.jpg" group-title="Movies | → VOD ESTRENOS 2024 ←",Bosco (2024)
 http://ultrapremium.cloud:8080/movie/964374735tv/4fdc5eg3/75435.mkv
 
-# --- Movies | → VOD ESTRENOS 2025 ← (288) ---
+# --- Movies | → VOD ESTRENOS 2025 ← (289) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/guRmwb1r337m2tKBH9KcE3vOpGE.jpg" group-title="Movies | → VOD ESTRENOS 2025 ←",Marty Supremo (2025)
+http://ultrapremium.cloud:8080/movie/964374735tv/4fdc5eg3/280850.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x8ygUQ4YNd8iy0oEusS1bHI08A6.jpg" group-title="Movies | → VOD ESTRENOS 2025 ←",La Empleada (2025)
 http://ultrapremium.cloud:8080/movie/964374735tv/4fdc5eg3/280661.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1m22GgaSwlVg3ePh6Y25BquLXq4.jpg" group-title="Movies | → VOD ESTRENOS 2025 ←",Familia en Renta (2025)
@@ -13915,7 +13917,9 @@ http://ultrapremium.cloud:8080/movie/964374735tv/4fdc5eg3/268771.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9yBW60Pm0eeXsKeiZMvMolCuhyU.jpg" group-title="Movies | → VOD ESTRENOS 2025 ←",Ad Vitam (2025)
 http://ultrapremium.cloud:8080/movie/964374735tv/4fdc5eg3/268613.mp4
 
-# --- Movies | → VOD ESTRENOS 2026 ← (25) ---
+# --- Movies | → VOD ESTRENOS 2026 ← (26) ---
+#EXTINF:-1 tvg-logo="https://blackstarcontent.com/wp-content/uploads/2024/11/STILL-PEDRO-RUMINOT-04-scaled.jpg" group-title="Movies | → VOD ESTRENOS 2026 ←",Pedro Ruminot: Una Noche en la Arena
+http://ultrapremium.cloud:8080/movie/964374735tv/4fdc5eg3/280851.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ISjrhA38HpSSGtfiCk8lpziC3K.jpg" group-title="Movies | → VOD ESTRENOS 2026 ←",180 (2026)
 http://ultrapremium.cloud:8080/movie/964374735tv/4fdc5eg3/280814.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hHOBxFzUK2CHmQ5djuOneyHkptS.jpg" group-title="Movies | → VOD ESTRENOS 2026 ←",Compañeras de cuarto (2026)
@@ -19915,4 +19919,4 @@ http://ultrapremium.cloud:8080/series/964374735tv/4fdc5eg3/2345
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES TERROR-THRILLER-SUSPENSO ←",It: Bienvenidos a Derry
 http://ultrapremium.cloud:8080/series/964374735tv/4fdc5eg3/2492
 
-# Total: 9881
+# Total: 9883

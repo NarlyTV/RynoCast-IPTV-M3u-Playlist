@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: cazintv.com:80
-# Generated: 2026-04-24 08:07:55
+# Generated: 2026-04-24 19:14:03
 # Expires: 2026-10-21
 # Family Safe Edition
 # ==============================================
@@ -4033,7 +4033,13 @@ http://cazintv.com:80/movie/Berislav_Pandzic/oGYw82pt8u/13432.mp4
 #EXTINF:-1 tvg-logo="http://85.14.243.71/images/220px-Den_of_thieves_two_pantera_ver2.jpg" group-title="Movies | VIDEOTEKA 2025",Den of Thieves 2: Pantera (2025)
 http://cazintv.com:80/movie/Berislav_Pandzic/oGYw82pt8u/13433.mp4
 
-# --- Movies | VIDEOTEKA 2026 (37) ---
+# --- Movies | VIDEOTEKA 2026 (40) ---
+#EXTINF:-1 tvg-logo="http://195.201.245.177:2451/img-proxy?url=https://m.media-amazon.com/images/M/MV5BNjI4OGM1NDEtYzA1NS00ZDg3LWFmZjUtMjg1MGQ4MTk3NjQzXkEyXkFqcGc@._V1_.jpg" group-title="Movies | VIDEOTEKA 2026",Reminders Of Him (2026)
+http://cazintv.com:80/movie/Berislav_Pandzic/oGYw82pt8u/13762.mp4
+#EXTINF:-1 tvg-logo="http://195.201.245.177:2451/img-proxy?url=http://195.201.245.177:2451/img-proxy?url=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyeBv8tKmFsrJVRb2UfNSYCG2Dlfz5x4zYXw&s" group-title="Movies | VIDEOTEKA 2026",BONE Keeper (2026)
+http://cazintv.com:80/movie/Berislav_Pandzic/oGYw82pt8u/13761.mp4
+#EXTINF:-1 tvg-logo="http://195.201.245.177:2451/img-proxy?url=https://m.media-amazon.com/images/M/MV5BNDA4OGU1ZjQtNDI3ZS00NGE5LThjOWQtODQ1ZWRkNTY2NDcxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Movies | VIDEOTEKA 2026",The Yeti (2026)
+http://cazintv.com:80/movie/Berislav_Pandzic/oGYw82pt8u/13763.mp4
 #EXTINF:-1 tvg-logo="http://195.201.245.177:2451/img-proxy?url=http://195.201.245.177:2451/img-proxy?url=https://upload.wikimedia.org/wikipedia/en/thumb/2/25/Nuremberg_2025_film_theatrical_poster.jpg/250px-Nuremberg_2025_film_theatrical_poster.jpg" group-title="Movies | VIDEOTEKA 2026",Nuremberg (2026)
 http://cazintv.com:80/movie/Berislav_Pandzic/oGYw82pt8u/13757.mp4
 #EXTINF:-1 tvg-logo="http://195.201.245.177:2451/img-proxy?url=https://upload.wikimedia.org/wikipedia/en/thumb/9/90/Predator_Badlands_Poster.jpg/250px-Predator_Badlands_Poster.jpg" group-title="Movies | VIDEOTEKA 2026",Predator: Badlands (2026)
@@ -4109,4 +4115,4 @@ http://cazintv.com:80/movie/Berislav_Pandzic/oGYw82pt8u/13658.mp4
 #EXTINF:-1 tvg-logo="http://195.201.245.177:2451/img-proxy?url=https://upload.wikimedia.org/wikipedia/en/4/43/Mercy_2026_poster.jpeg" group-title="Movies | VIDEOTEKA 2026",Mercy (2026)
 http://cazintv.com:80/movie/Berislav_Pandzic/oGYw82pt8u/13660.mp4
 
-# Total: 2035
+# Total: 2038

@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: lunar.pm:8080
-# Generated: 2026-04-24 07:55:19
+# Generated: 2026-04-24 19:04:26
 # Expires: 2026-05-07
 # Family Safe Edition
 # ==============================================
@@ -10813,8 +10813,8 @@ http://lunar.pm:8080/live/Stephanie/time44/133474.m3u8
 #EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/2a681b1983ef2e7c687e0620d28a7c27.png" group-title="UK Football- Premier League (Events Only)",EPL 10
 http://lunar.pm:8080/live/Stephanie/time44/133475.m3u8
 
-# --- UK Football-SPFL (EVENTS ONLY) (13) ---
-#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/guide_logos/spfl-guide.png" group-title="UK Football-SPFL (EVENTS ONLY)",***SPFL Listings***
+# --- UK Football-SPFL (EVENTS ONLY) (7) ---
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/guide_logos/spfl-guide.png" group-title="UK Football-SPFL (EVENTS ONLY)",***SPFL Channels Guide***
 http://lunar.pm:8080/live/Stephanie/time44/118162.m3u8
 #EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/speciality-sports/spfl-logo.png" group-title="UK Football-SPFL (EVENTS ONLY)",SPFL 01:
 http://lunar.pm:8080/live/Stephanie/time44/118163.m3u8
@@ -10828,18 +10828,6 @@ http://lunar.pm:8080/live/Stephanie/time44/118166.m3u8
 http://lunar.pm:8080/live/Stephanie/time44/118167.m3u8
 #EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/speciality-sports/spfl-logo.png" group-title="UK Football-SPFL (EVENTS ONLY)",SPFL 06:
 http://lunar.pm:8080/live/Stephanie/time44/118168.m3u8
-#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/speciality-sports/spfl-logo.png" group-title="UK Football-SPFL (EVENTS ONLY)",SPFL 07:
-http://lunar.pm:8080/live/Stephanie/time44/118169.m3u8
-#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/speciality-sports/spfl-logo.png" group-title="UK Football-SPFL (EVENTS ONLY)",SPFL 08:
-http://lunar.pm:8080/live/Stephanie/time44/118170.m3u8
-#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/speciality-sports/spfl-logo.png" group-title="UK Football-SPFL (EVENTS ONLY)",SPFL 09:
-http://lunar.pm:8080/live/Stephanie/time44/118171.m3u8
-#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/speciality-sports/spfl-logo.png" group-title="UK Football-SPFL (EVENTS ONLY)",SPFL 10:
-http://lunar.pm:8080/live/Stephanie/time44/118172.m3u8
-#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/speciality-sports/spfl-logo.png" group-title="UK Football-SPFL (EVENTS ONLY)",SPFL 11:
-http://lunar.pm:8080/live/Stephanie/time44/118173.m3u8
-#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/speciality-sports/spfl-logo.png" group-title="UK Football-SPFL (EVENTS ONLY)",SPFL 12:
-http://lunar.pm:8080/live/Stephanie/time44/118174.m3u8
 
 # --- UK Kids (11) ---
 #EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/baby-tv-us.png" group-title="UK Kids",Baby Tv
@@ -12311,4 +12299,4 @@ http://lunar.pm:8080/live/Stephanie/time44/120490.m3u8
 #EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/speciality-sports/wnba4.png" group-title="WNBA",WNBA 10
 http://lunar.pm:8080/live/Stephanie/time44/120491.m3u8
 
-# Total: 6082
+# Total: 6076
