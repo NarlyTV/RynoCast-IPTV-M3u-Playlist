@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: solution62000.mine.nu:8000
-# Generated: 2026-04-24 19:10:55
+# Generated: 2026-04-25 07:44:38
 # Expires: 2026-12-19
 # Family Safe Edition
 # ==============================================
@@ -895,7 +895,9 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1030.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Disney+",Lucky Luke
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1077.mp4
 
-# --- Movies | Documentaires (54) ---
+# --- Movies | Documentaires (55) ---
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7qnKukyS1t5vfVE5cNl2CbnJX40.jpg" group-title="Movies | Documentaires",Comme une abeille (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/26538.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9bsOuq34lbMb74OEoJ62aR7Bm2E.jpg" group-title="Movies | Documentaires",Orang-outan (2026)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/26386.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lSl3fWUhRXDtYLKvvnmB8fFBphA.jpg" group-title="Movies | Documentaires",L'Envers du sport : Échec et clash (2026)
@@ -1123,7 +1125,13 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/7300.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wkUCQaXIc9qkqplDJZIuxRHLQNq.jpg" group-title="Movies | FILMS TURK",Malazgirt 1071 - 2022
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/5531.mp4
 
-# --- Movies | Films (1551) ---
+# --- Movies | Films (1553) ---
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mu05wZK0MH2bYmuO7hXwZECqC1X.jpg" group-title="Movies | Films",Greenland : Migration (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/26541.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vD3Cqh5kXjPVNYK6cZjw54E4LO7.jpg" group-title="Movies | Films",?Cash Out 2 (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/26499.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3PV21NWzEFwj8WqeXYWXNxgZfzA.jpg" group-title="Movies | Films",Grand Ciel (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/26539.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fGhd4DurS1rhmNOb7b9EeobQTPe.jpg" group-title="Movies | Films",President Down (2026)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/26402.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/da4KST59isnHHwVYZGrzWxoJuNZ.jpg" group-title="Movies | Films",La Ville maléfique (2026)
@@ -3416,7 +3424,7 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/4197.mkv
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/4180.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qnHWRh0pDHXFMhjLyXNRlGCKzSc.jpg" group-title="Movies | Films",Ray Donovan - 2022
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/4173.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2UH3AaQIAhg2LJkp5NdMYDdAAzy.jpg" group-title="Movies | Films",Apex - 2021
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/chTkFGToW5bsyw3hgLAe4S5Gt3.jpg" group-title="Movies | Films",Apex (2021)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/4224.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/75eK0uRYFBEmBkThIimgwWJc9yg.jpg" group-title="Movies | Films",The Survivalist - 2021
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/4225.mkv
@@ -4224,8 +4232,6 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/11390.mkv
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/22480.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b7Q9EdjddChgzuMwXmXmNVcO3bI.jpg" group-title="Movies | Films",Sons of Rizk 2 (2019)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/13764.mkv
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vD3Cqh5kXjPVNYK6cZjw54E4LO7.jpg" group-title="Movies | Films",?Cash Out 2 (2026)
-http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/26499.mkv
 
 # --- Movies | Films - ULTRA HD 4K (21) ---
 #EXTINF:-1 tvg-logo="https://metalunastore.fr/cdn/shop/files/RoboCop4KBlu-ray.jpg?v=1715248236" group-title="Movies | Films - ULTRA HD 4K",RoboCop (2014) - 4K
@@ -5149,7 +5155,9 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/691.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | MARVEL STUDIOS",Ironheart
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/773.mp4
 
-# --- Movies | NETFLIX (468) ---
+# --- Movies | NETFLIX (469) ---
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9iuGBLJBRuGKR6nRL4SxUV1tIdt.jpg" group-title="Movies | NETFLIX",Apex (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/26540.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9ISjrhA38HpSSGtfiCk8lpziC3K.jpg" group-title="Movies | NETFLIX",180 (2026)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/26349.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/cbYyWHc1dL1bfwEJbaMYDYKgWG2.jpg" group-title="Movies | NETFLIX",Toaster (2026)
@@ -5280,7 +5288,7 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/16123.mkv
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/15810.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fcozjvQG852BXycMoeNqr27wEpH.jpg" group-title="Movies | NETFLIX",Exquis (2025)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/15758.mkv
-#EXTINF:-1 tvg-logo="https://dnm.nflximg.net/api/v6/mAcAr9TxZIVbINe88xb3Teg5_OA/AAAABbXk1-IuYu8VHtgyuFD8kd_1BzTvZ0U3NZ7KmhbchuL-pknhfzWwOnn8RN8RXgeVUXV_2Ldt4UPqSX6Bko0iQDwjQRMtNK1Oz500CdAg-iPzizLdRfJzlJl22lrfE1mig-kiEA.jpg?r=748" group-title="Movies | NETFLIX",Bastion 36 (2025)
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qby65G5rzt4xltXeFsf0tnUMxdx.jpg" group-title="Movies | NETFLIX",Bastion 36 (2025)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/15202.mkv
 #EXTINF:-1 tvg-logo="https://dnm.nflximg.net/api/v6/mAcAr9TxZIVbINe88xb3Teg5_OA/AAAABRmYqYFuVfzYWPQzeAscY8msLRBYF1dxcy3FptUrUbe6SgPyaEHzQVh-yRwQrntPt-0tW_x51udAgID-2Ih8d2A6L8NN4LGFOiCz7_vModOfL6HXy3BpoP4HdFHSpN21U7CP9A.jpg?r=044" group-title="Movies | NETFLIX",Demon City Oni Goroshi (2025)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/15190.mkv
@@ -7885,4 +7893,4 @@ http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1114
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Moloch
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1116
 
-# Total: 3909
+# Total: 3913
