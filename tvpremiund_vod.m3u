@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: tvpremiund.ddns.me:2082
-# Generated: 2026-04-24 19:13:05
+# Generated: 2026-04-25 18:48:19
 # Expires: 2026-05-14
 # Family Safe Edition
 # ==============================================
@@ -11341,7 +11341,7 @@ http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/135458.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2HB7mzn6XivCDiHFwOBv5ZD0W6k.jpg" group-title="Movies | DISNEY",Disney Princess Concert: Celebrating 70 Years of Disneyland (2025)
 http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/136626.mkv
 
-# --- Movies | DOCUMENTALES (451) ---
+# --- Movies | DOCUMENTALES (452) ---
 #EXTINF:-1 tvg-logo="http://www.trailermedia.com.uy/data/trabajos/ff_23_es.jpg" group-title="Movies | DOCUMENTALES",Alexis Viera: Una Historia de Superación (2019)
 http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/3819.mkv
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Coptotermes_formosanus_shiraki_USGov_k8204-7.jpg/400px-Coptotermes_formosanus_shiraki_USGov_k8204-7.jpg" group-title="Movies | DOCUMENTALES",Ataque de Insectos
@@ -12244,8 +12244,10 @@ http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/2471.mp4
 http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/2536.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DOCUMENTALES",Confía en mí: El falso profeta
 http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/2590.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | DOCUMENTALES",Hulk Hogan: Real American
+http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/2596.mp4
 
-# --- Movies | DRAMA (1368) ---
+# --- Movies | DRAMA (1371) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8YcjGJtW4AEHyNH8yrs8FAaPBM.jpg" group-title="Movies | DRAMA",12 valientes (2018)
 http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/3344.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1XbNkZMLXD9dYGZJ87nmQ62Mp2l.jpg" group-title="Movies | DRAMA",127 Horas (2010)
@@ -14982,6 +14984,12 @@ http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/2589.mp4
 http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/2592.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DRAMA",Marshals: Una historia de Yellowstone
 http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/2593.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | DRAMA",Los no elegidos
+http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/2595.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | DRAMA",Santita
+http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/2597.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | DRAMA",Los testamentos: De las hijas de Gilead
+http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/2598.mp4
 
 # --- Movies | INFANTILES (912) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gp7d1OGYpBGyG5E6fr1fMi01bvK.jpg" group-title="Movies | INFANTILES",Abominable (2019)
@@ -22733,4 +22741,4 @@ http://tvpremiund.ddns.me:2082/series/56972393798wspzero/271224zero/2579
 #EXTINF:-1 tvg-logo="" group-title="Series | TELESERIES",Hermanas, un amor compartido
 http://tvpremiund.ddns.me:2082/series/56972393798wspzero/271224zero/2580
 
-# Total: 11331
+# Total: 11335

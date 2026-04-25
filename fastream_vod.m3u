@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: fastream.xyz:8080
-# Generated: 2026-04-24 08:07:04
+# Generated: 2026-04-25 18:53:17
 # Expires: 2026-10-20
 # Family Safe Edition
 # ==============================================
@@ -13337,7 +13337,9 @@ http://fastream.xyz:8080/movie/940246862tv/12ws79/75434.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9RrMfaCYdsdNdRNUAR3TY0DvNV2.jpg" group-title="Movies | → VOD ESTRENOS 2024 ←",Bosco (2024)
 http://fastream.xyz:8080/movie/940246862tv/12ws79/75435.mkv
 
-# --- Movies | → VOD ESTRENOS 2025 ← (288) ---
+# --- Movies | → VOD ESTRENOS 2025 ← (289) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/guRmwb1r337m2tKBH9KcE3vOpGE.jpg" group-title="Movies | → VOD ESTRENOS 2025 ←",Marty Supremo (2025)
+http://fastream.xyz:8080/movie/940246862tv/12ws79/280850.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x8ygUQ4YNd8iy0oEusS1bHI08A6.jpg" group-title="Movies | → VOD ESTRENOS 2025 ←",La Empleada (2025)
 http://fastream.xyz:8080/movie/940246862tv/12ws79/280661.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1m22GgaSwlVg3ePh6Y25BquLXq4.jpg" group-title="Movies | → VOD ESTRENOS 2025 ←",Familia en Renta (2025)
@@ -13915,7 +13917,11 @@ http://fastream.xyz:8080/movie/940246862tv/12ws79/268771.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9yBW60Pm0eeXsKeiZMvMolCuhyU.jpg" group-title="Movies | → VOD ESTRENOS 2025 ←",Ad Vitam (2025)
 http://fastream.xyz:8080/movie/940246862tv/12ws79/268613.mp4
 
-# --- Movies | → VOD ESTRENOS 2026 ← (25) ---
+# --- Movies | → VOD ESTRENOS 2026 ← (27) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mV7uFS1U8iP0p4CcXZp4znBVpch.jpg" group-title="Movies | → VOD ESTRENOS 2026 ←",Apex (2026)
+http://fastream.xyz:8080/movie/940246862tv/12ws79/280852.mkv
+#EXTINF:-1 tvg-logo="https://blackstarcontent.com/wp-content/uploads/2024/11/STILL-PEDRO-RUMINOT-04-scaled.jpg" group-title="Movies | → VOD ESTRENOS 2026 ←",Pedro Ruminot: Una Noche en la Arena
+http://fastream.xyz:8080/movie/940246862tv/12ws79/280851.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ISjrhA38HpSSGtfiCk8lpziC3K.jpg" group-title="Movies | → VOD ESTRENOS 2026 ←",180 (2026)
 http://fastream.xyz:8080/movie/940246862tv/12ws79/280814.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hHOBxFzUK2CHmQ5djuOneyHkptS.jpg" group-title="Movies | → VOD ESTRENOS 2026 ←",Compañeras de cuarto (2026)
@@ -17735,7 +17741,7 @@ http://fastream.xyz:8080/series/940246862tv/12ws79/2020
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES ANIMADAS DEL RECUERDO ←",Capitán Futuro
 http://fastream.xyz:8080/series/940246862tv/12ws79/2081
 
-# --- Series | → SERIES ANIME Y ANIMACIÓN ← (116) ---
+# --- Series | → SERIES ANIME Y ANIMACIÓN ← (117) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES ANIME Y ANIMACIÓN ←",Arcane
 http://fastream.xyz:8080/series/940246862tv/12ws79/16
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES ANIME Y ANIMACIÓN ←",Dragon Ball Heroes
@@ -17968,6 +17974,8 @@ http://fastream.xyz:8080/series/940246862tv/12ws79/2551
 http://fastream.xyz:8080/series/940246862tv/12ws79/2566
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES ANIME Y ANIMACIÓN ←",Digimon Adventure Tri
 http://fastream.xyz:8080/series/940246862tv/12ws79/2567
+#EXTINF:-1 tvg-logo="" group-title="Series | → SERIES ANIME Y ANIMACIÓN ←",Stranger Things: Relatos del 85
+http://fastream.xyz:8080/series/940246862tv/12ws79/2572
 
 # --- Series | → SERIES CIENCIA FICCIÓN ← (67) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES CIENCIA FICCIÓN ←",Cuentos asombrosos
@@ -19915,4 +19923,4 @@ http://fastream.xyz:8080/series/940246862tv/12ws79/2345
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES TERROR-THRILLER-SUSPENSO ←",It: Bienvenidos a Derry
 http://fastream.xyz:8080/series/940246862tv/12ws79/2492
 
-# Total: 9881
+# Total: 9885
