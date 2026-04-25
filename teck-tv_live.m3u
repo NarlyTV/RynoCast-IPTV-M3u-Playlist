@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: teck-tv.com
-# Generated: 2026-04-25 07:45:22
+# Generated: 2026-04-25 18:42:25
 # Expires: 2026-07-14
 # Family Safe Edition
 # ==============================================
@@ -23595,7 +23595,7 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/272544.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/EXYU/PLANETATV.png" group-title="EU | EXYU | MAKEDONIJA",MK - PLANETA TV
 http://teck-tv.com/live/2605201443100597/C655BF416768/1399335.m3u8
 
-# --- EU | EXYU | SRBIJA (103) ---
+# --- EU | EXYU | SRBIJA (104) ---
 #EXTINF:-1 tvg-logo="https://go4.pw/EXYU/SRBIJA.png" group-title="EU | EXYU | SRBIJA",##### EXYU - SRBIJA GENERAL #####
 http://teck-tv.com/live/2605201443100597/C655BF416768/1277828.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/EXYU/RTV_LUKAVAC.png" group-title="EU | EXYU | SRBIJA",RS - RTV LUKAVAC HD
@@ -23802,6 +23802,8 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/1397156.m3u8
 http://teck-tv.com/live/2605201443100597/C655BF416768/1397157.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/EXYU/PESTERTV.png" group-title="EU | EXYU | SRBIJA",RS - PESTER TV
 http://teck-tv.com/live/2605201443100597/C655BF416768/1399244.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/EXYU/BALKANMUSIC.png" group-title="EU | EXYU | SRBIJA",RS - BALKAN MUSIC
+http://teck-tv.com/live/2605201443100597/C655BF416768/1411628.m3u8
 
 # --- EU | EXYU | ZABAVNI (23) ---
 #EXTINF:-1 tvg-logo="https://go4.pw/EXYU/HAYAT.png" group-title="EU | EXYU | ZABAVNI",EXYU - HAYAT MUSIC FHD
@@ -28484,17 +28486,17 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/1287084.m3u8
 # --- VIP | BUNDESLIGA (40) ---
 #EXTINF:-1 tvg-logo="https://go4.pw/FLAGS/flag_germany.png" group-title="VIP | BUNDESLIGA",##### DEUTSCH #####
 http://teck-tv.com/live/2605201443100597/C655BF416768/1017979.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/56.png" group-title="VIP | BUNDESLIGA",DE - RB LEIPZIG VS UNION BERLIN 20:30 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/56.png" group-title="VIP | BUNDESLIGA",DE - KÖLN VS BAYER LEVERKUSEN 15:30 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/1100768.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/56.png" group-title="VIP | BUNDESLIGA",DE - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/56.png" group-title="VIP | BUNDESLIGA",DE - WOLFSBURG VS BORUSSIA M'GLADBACH 15:30 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/1100767.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/56.png" group-title="VIP | BUNDESLIGA",DE - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/56.png" group-title="VIP | BUNDESLIGA",DE - HEIDENHEIM VS ST. PAULI 15:30 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/1042307.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/56.png" group-title="VIP | BUNDESLIGA",DE - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/56.png" group-title="VIP | BUNDESLIGA",DE - AUGSBURG VS EINTRACHT FRANKFURT 15:30 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/1017985.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/56.png" group-title="VIP | BUNDESLIGA",DE - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/56.png" group-title="VIP | BUNDESLIGA",DE - MAINZ 05 VS BAYERN MÜNCHEN 15:30 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/1017984.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/56.png" group-title="VIP | BUNDESLIGA",DE - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/56.png" group-title="VIP | BUNDESLIGA",DE - HAMBURGER SV VS HOFFENHEIM 18:30 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/1017983.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/56.png" group-title="VIP | BUNDESLIGA",DE - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/1017982.m3u8
@@ -28504,17 +28506,17 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/1017980.m3u8
 http://teck-tv.com/live/2605201443100597/C655BF416768/1017981.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/UK.png" group-title="VIP | BUNDESLIGA",##### ENGLISH #####
 http://teck-tv.com/live/2605201443100597/C655BF416768/1017972.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/56.png" group-title="VIP | BUNDESLIGA",EN - RB LEIPZIG VS UNION BERLIN 20:30 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/56.png" group-title="VIP | BUNDESLIGA",EN - KÖLN VS BAYER LEVERKUSEN 15:30 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/1100762.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/56.png" group-title="VIP | BUNDESLIGA",EN - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/56.png" group-title="VIP | BUNDESLIGA",EN - WOLFSBURG VS BORUSSIA M'GLADBACH 15:30 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/1100761.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/56.png" group-title="VIP | BUNDESLIGA",EN - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/56.png" group-title="VIP | BUNDESLIGA",EN - HEIDENHEIM VS ST. PAULI 15:30 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/1042308.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/56.png" group-title="VIP | BUNDESLIGA",EN - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/56.png" group-title="VIP | BUNDESLIGA",EN - AUGSBURG VS EINTRACHT FRANKFURT 15:30 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/1017978.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/56.png" group-title="VIP | BUNDESLIGA",EN - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/56.png" group-title="VIP | BUNDESLIGA",EN - MAINZ 05 VS BAYERN MÜNCHEN 15:30 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/1017977.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/56.png" group-title="VIP | BUNDESLIGA",EN - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/56.png" group-title="VIP | BUNDESLIGA",EN - HAMBURGER SV VS HOFFENHEIM 18:30 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/1017976.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/56.png" group-title="VIP | BUNDESLIGA",EN - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/1017975.m3u8
@@ -28524,17 +28526,17 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/1017973.m3u8
 http://teck-tv.com/live/2605201443100597/C655BF416768/1017974.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/FRANCE/flag_france.png" group-title="VIP | BUNDESLIGA",##### FRENCH #####
 http://teck-tv.com/live/2605201443100597/C655BF416768/1017965.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/56.png" group-title="VIP | BUNDESLIGA",FR - RB LEIPZIG VS UNION BERLIN 20:30 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/56.png" group-title="VIP | BUNDESLIGA",FR - KÖLN VS BAYER LEVERKUSEN 15:30 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/1100764.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/56.png" group-title="VIP | BUNDESLIGA",FR - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/56.png" group-title="VIP | BUNDESLIGA",FR - WOLFSBURG VS BORUSSIA M'GLADBACH 15:30 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/1100763.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/56.png" group-title="VIP | BUNDESLIGA",FR - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/56.png" group-title="VIP | BUNDESLIGA",FR - HEIDENHEIM VS ST. PAULI 15:30 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/1067573.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/56.png" group-title="VIP | BUNDESLIGA",FR - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/56.png" group-title="VIP | BUNDESLIGA",FR - AUGSBURG VS EINTRACHT FRANKFURT 15:30 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/1029741.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/56.png" group-title="VIP | BUNDESLIGA",FR - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/56.png" group-title="VIP | BUNDESLIGA",FR - MAINZ 05 VS BAYERN MÜNCHEN 15:30 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/1029740.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/56.png" group-title="VIP | BUNDESLIGA",FR - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/56.png" group-title="VIP | BUNDESLIGA",FR - HAMBURGER SV VS HOFFENHEIM 18:30 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/1029739.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/56.png" group-title="VIP | BUNDESLIGA",FR - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/1029738.m3u8
@@ -28544,17 +28546,17 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/1017966.m3u8
 http://teck-tv.com/live/2605201443100597/C655BF416768/1029737.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ASIA/SAUDI/SAUDI.png" group-title="VIP | BUNDESLIGA",##### ARABIC #####
 http://teck-tv.com/live/2605201443100597/C655BF416768/1005066.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/56.png" group-title="VIP | BUNDESLIGA",AR - RB LEIPZIG VS UNION BERLIN 20:30 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/56.png" group-title="VIP | BUNDESLIGA",AR - KÖLN VS BAYER LEVERKUSEN 15:30 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/1100766.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/56.png" group-title="VIP | BUNDESLIGA",AR - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/56.png" group-title="VIP | BUNDESLIGA",AR - WOLFSBURG VS BORUSSIA M'GLADBACH 15:30 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/1100765.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/56.png" group-title="VIP | BUNDESLIGA",AR - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/56.png" group-title="VIP | BUNDESLIGA",AR - HEIDENHEIM VS ST. PAULI 15:30 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/1042306.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/56.png" group-title="VIP | BUNDESLIGA",AR - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/56.png" group-title="VIP | BUNDESLIGA",AR - AUGSBURG VS EINTRACHT FRANKFURT 15:30 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/1033762.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/56.png" group-title="VIP | BUNDESLIGA",AR - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/56.png" group-title="VIP | BUNDESLIGA",AR - MAINZ 05 VS BAYERN MÜNCHEN 15:30 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/1017971.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/56.png" group-title="VIP | BUNDESLIGA",AR - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/56.png" group-title="VIP | BUNDESLIGA",AR - HAMBURGER SV VS HOFFENHEIM 18:30 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/1017970.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/56.png" group-title="VIP | BUNDESLIGA",AR - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/1017969.m3u8
@@ -28818,14 +28820,14 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/682965.m3u8
 # --- VIP | LA LIGA (56) ---
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/FRANCE/flag_france.png" group-title="VIP | LA LIGA",##### FRENCH #####
 http://teck-tv.com/live/2605201443100597/C655BF416768/1015817.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/58.png" group-title="VIP | LA LIGA",FR - REAL BETIS VS REAL MADRID 21:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/58.png" group-title="VIP | LA LIGA",FR - DEPORTIVO ALAVÉS VS MALLORCA 14:00 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/1117244.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/58.png" group-title="VIP | LA LIGA",FR - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/58.png" group-title="VIP | LA LIGA",FR - GETAFE VS BARCELONA 16:15 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/1100783.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/58.png" group-title="VIP | LA LIGA",FR - NO MATCH
-http://teck-tv.com/live/2605201443100597/C655BF416768/1100775.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/58.png" group-title="VIP | LA LIGA",FR - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/58.png" group-title="VIP | LA LIGA",FR - VALENCIA VS GIRONA 18:30 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/1100776.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/58.png" group-title="VIP | LA LIGA",FR - ATLÉTICO MADRID VS ATHLETIC CLUB 21:00 CET
+http://teck-tv.com/live/2605201443100597/C655BF416768/1100775.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/58.png" group-title="VIP | LA LIGA",FR - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/1033738.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/58.png" group-title="VIP | LA LIGA",FR - NO MATCH
@@ -28844,14 +28846,14 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/1033737.m3u8
 http://teck-tv.com/live/2605201443100597/C655BF416768/1015823.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/UK.png" group-title="VIP | LA LIGA",##### ENGLISH #####
 http://teck-tv.com/live/2605201443100597/C655BF416768/1015824.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/58.png" group-title="VIP | LA LIGA",EN - REAL BETIS VS REAL MADRID 21:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/58.png" group-title="VIP | LA LIGA",EN - DEPORTIVO ALAVÉS VS MALLORCA 14:00 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/1117243.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/58.png" group-title="VIP | LA LIGA",EN - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/58.png" group-title="VIP | LA LIGA",EN - GETAFE VS BARCELONA 16:15 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/1100784.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/58.png" group-title="VIP | LA LIGA",EN - NO MATCH
-http://teck-tv.com/live/2605201443100597/C655BF416768/1100772.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/58.png" group-title="VIP | LA LIGA",EN - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/58.png" group-title="VIP | LA LIGA",EN - VALENCIA VS GIRONA 18:30 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/1100774.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/58.png" group-title="VIP | LA LIGA",EN - ATLÉTICO MADRID VS ATHLETIC CLUB 21:00 CET
+http://teck-tv.com/live/2605201443100597/C655BF416768/1100772.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/58.png" group-title="VIP | LA LIGA",EN - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/1033746.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/58.png" group-title="VIP | LA LIGA",EN - NO MATCH
@@ -28872,14 +28874,14 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/1015830.m3u8
 http://teck-tv.com/live/2605201443100597/C655BF416768/1015829.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ASIA/SAUDI/SAUDI.png" group-title="VIP | LA LIGA",##### ARABIC #####
 http://teck-tv.com/live/2605201443100597/C655BF416768/1015831.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/58.png" group-title="VIP | LA LIGA",AR - REAL BETIS VS REAL MADRID 21:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/58.png" group-title="VIP | LA LIGA",AR - DEPORTIVO ALAVÉS VS MALLORCA 14:00 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/1100782.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/58.png" group-title="VIP | LA LIGA",AR - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/58.png" group-title="VIP | LA LIGA",AR - GETAFE VS BARCELONA 16:15 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/1100778.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/58.png" group-title="VIP | LA LIGA",AR - NO MATCH
-http://teck-tv.com/live/2605201443100597/C655BF416768/1033758.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/58.png" group-title="VIP | LA LIGA",AR - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/58.png" group-title="VIP | LA LIGA",AR - VALENCIA VS GIRONA 18:30 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/1100777.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/58.png" group-title="VIP | LA LIGA",AR - ATLÉTICO MADRID VS ATHLETIC CLUB 21:00 CET
+http://teck-tv.com/live/2605201443100597/C655BF416768/1033758.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/58.png" group-title="VIP | LA LIGA",AR - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/1015837.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/58.png" group-title="VIP | LA LIGA",AR - NO MATCH
@@ -28890,14 +28892,14 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/1033362.m3u8
 http://teck-tv.com/live/2605201443100597/C655BF416768/1015836.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/SPAIN/SPAIN.png" group-title="VIP | LA LIGA",##### SPAIN #####
 http://teck-tv.com/live/2605201443100597/C655BF416768/1033317.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/58.png" group-title="VIP | LA LIGA",ES - REAL BETIS VS REAL MADRID 21:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/58.png" group-title="VIP | LA LIGA",ES - DEPORTIVO ALAVÉS VS MALLORCA 14:00 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/1117245.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/58.png" group-title="VIP | LA LIGA",ES - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/58.png" group-title="VIP | LA LIGA",ES - GETAFE VS BARCELONA 16:15 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/1100781.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/58.png" group-title="VIP | LA LIGA",ES - NO MATCH
-http://teck-tv.com/live/2605201443100597/C655BF416768/1100779.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/58.png" group-title="VIP | LA LIGA",ES - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/58.png" group-title="VIP | LA LIGA",ES - VALENCIA VS GIRONA 18:30 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/1100780.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/58.png" group-title="VIP | LA LIGA",ES - ATLÉTICO MADRID VS ATHLETIC CLUB 21:00 CET
+http://teck-tv.com/live/2605201443100597/C655BF416768/1100779.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/58.png" group-title="VIP | LA LIGA",ES - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/1033785.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/58.png" group-title="VIP | LA LIGA",ES - NO MATCH
@@ -28912,14 +28914,14 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/1033358.m3u8
 http://teck-tv.com/live/2605201443100597/C655BF416768/1033357.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/MAGFLAGS/ALBANIA.png" group-title="VIP | LA LIGA",##### ALBANIA #####
 http://teck-tv.com/live/2605201443100597/C655BF416768/1145824.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/58.png" group-title="VIP | LA LIGA",ALB - REAL BETIS VS REAL MADRID 21:00 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/58.png" group-title="VIP | LA LIGA",ALB - DEPORTIVO ALAVÉS VS MALLORCA 14:00 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/1145838.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/58.png" group-title="VIP | LA LIGA",ALB - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/58.png" group-title="VIP | LA LIGA",ALB - GETAFE VS BARCELONA 16:15 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/1117242.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/58.png" group-title="VIP | LA LIGA",ALB - NO MATCH
-http://teck-tv.com/live/2605201443100597/C655BF416768/1015834.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/58.png" group-title="VIP | LA LIGA",ALB - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/58.png" group-title="VIP | LA LIGA",ALB - VALENCIA VS GIRONA 18:30 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/1086615.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/58.png" group-title="VIP | LA LIGA",ALB - ATLÉTICO MADRID VS ATHLETIC CLUB 21:00 CET
+http://teck-tv.com/live/2605201443100597/C655BF416768/1015834.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/58.png" group-title="VIP | LA LIGA",ALB - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/1015818.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/58.png" group-title="VIP | LA LIGA",ALB - NO MATCH
@@ -28932,10 +28934,12 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/1001755.m3u8
 # --- VIP | LIGA PORTUGAL BETCLIC (10) ---
 #EXTINF:-1 tvg-logo="https://go4.pw/MAGFLAGS/PORTUGAL.png" group-title="VIP | LIGA PORTUGAL BETCLIC",#### PORTUGAL ####
 http://teck-tv.com/live/2605201443100597/C655BF416768/1032044.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/PORTUGAL/LIGA_PORTUGAL_BETCLIC24.png" group-title="VIP | LIGA PORTUGAL BETCLIC",PT - Famalicão vs AVS 19:45 CET
-http://teck-tv.com/live/2605201443100597/C655BF416768/1100839.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/PORTUGAL/LIGA_PORTUGAL_BETCLIC24.png" group-title="VIP | LIGA PORTUGAL BETCLIC",PT - Porto vs Sporting CP 21:45 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/PORTUGAL/LIGA_PORTUGAL_BETCLIC24.png" group-title="VIP | LIGA PORTUGAL BETCLIC",PT - TONDELA VS NACIONAL 16:30 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/1100840.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/PORTUGAL/LIGA_PORTUGAL_BETCLIC24.png" group-title="VIP | LIGA PORTUGAL BETCLIC",PT - BENFICA VS MOREIRENSE 19:00 CET
+http://teck-tv.com/live/2605201443100597/C655BF416768/1100839.m3u8
+#EXTINF:-1 tvg-logo="https://go4.pw/PORTUGAL/LIGA_PORTUGAL_BETCLIC24.png" group-title="VIP | LIGA PORTUGAL BETCLIC",PT - VITÓRIA GUIMARÃES VS RIO AVE 21:30 CET
+http://teck-tv.com/live/2605201443100597/C655BF416768/1029297.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/PORTUGAL/LIGA_PORTUGAL_BETCLIC24.png" group-title="VIP | LIGA PORTUGAL BETCLIC",PT - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/1100841.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/PORTUGAL/LIGA_PORTUGAL_BETCLIC24.png" group-title="VIP | LIGA PORTUGAL BETCLIC",PT - NO MATCH
@@ -28948,8 +28952,6 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/1029294.m3u8
 http://teck-tv.com/live/2605201443100597/C655BF416768/1029295.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/PORTUGAL/LIGA_PORTUGAL_BETCLIC24.png" group-title="VIP | LIGA PORTUGAL BETCLIC",PT - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/1029296.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/PORTUGAL/LIGA_PORTUGAL_BETCLIC24.png" group-title="VIP | LIGA PORTUGAL BETCLIC",PT - NO MATCH
-http://teck-tv.com/live/2605201443100597/C655BF416768/1029297.m3u8
 
 # --- VIP | LIGUE 1 (23) ---
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/FRANCE/flag_france.png" group-title="VIP | LIGUE 1",##### FRENCH #####
@@ -29244,11 +29246,11 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/1024113.m3u8
 # --- VIP | SERIE A (27) ---
 #EXTINF:-1 tvg-logo="https://go4.pw/MAGFLAGS/ITALY.png" group-title="VIP | SERIE A",##### ITALY #####
 http://teck-tv.com/live/2605201443100597/C655BF416768/1018093.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",IT - NAPOLI VS CREMONESE 19:45 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",IT - PARMA VS PISA 15:00 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/1100791.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",IT - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",IT - BOLOGNA VS ROMA 18:00 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/1100790.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",IT - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",IT - VERONA VS LECCE 20:45 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/1033757.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",IT - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/1033756.m3u8
@@ -29264,11 +29266,11 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/1018102.m3u8
 http://teck-tv.com/live/2605201443100597/C655BF416768/1018103.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/UK/UK.png" group-title="VIP | SERIE A",##### ENGLISH #####
 http://teck-tv.com/live/2605201443100597/C655BF416768/1001778.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",EN - NAPOLI VS CREMONESE 19:45 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",EN - PARMA VS PISA 15:00 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/1100792.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",EN - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",EN - BOLOGNA VS ROMA 18:00 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/1028898.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",EN - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",EN - VERONA VS LECCE 20:45 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/1028731.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",EN - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/1028730.m3u8
@@ -29284,11 +29286,11 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/1018094.m3u8
 http://teck-tv.com/live/2605201443100597/C655BF416768/1018095.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ASIA/SAUDI/SAUDI.png" group-title="VIP | SERIE A",##### ARABIC #####
 http://teck-tv.com/live/2605201443100597/C655BF416768/1001752.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",AR - NAPOLI VS CREMONESE 19:45 CET
+#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",AR - PARMA VS PISA 15:00 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/1018113.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",AR - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",AR - BOLOGNA VS ROMA 18:00 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/1018112.m3u8
-#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",AR - NO MATCH
+#EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",AR - VERONA VS LECCE 20:45 CET
 http://teck-tv.com/live/2605201443100597/C655BF416768/1018111.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/55.png" group-title="VIP | SERIE A",AR - NO MATCH
 http://teck-tv.com/live/2605201443100597/C655BF416768/1018110.m3u8
@@ -29621,4 +29623,4 @@ http://teck-tv.com/live/2605201443100597/C655BF416768/1405863.m3u8
 #EXTINF:-1 tvg-logo="https://go4.pw/ASIA/PAKISTAN/TEN-SPORTS.png" group-title="VIP | WORLD CRICKET",VIP - TEN SPORTS FHD
 http://teck-tv.com/live/2605201443100597/C655BF416768/1406508.m3u8
 
-# Total: 14639
+# Total: 14640
