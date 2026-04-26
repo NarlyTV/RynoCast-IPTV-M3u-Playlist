@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: tv.tvdark.eu
-# Generated: 2026-04-25 18:53:39
+# Generated: 2026-04-26 07:55:37
 # Expires: 2026-05-25
 # Family Safe Edition
 # ==============================================
@@ -6774,6 +6774,8 @@ http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/3234.m3u8
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/3174.m3u8
 
 # --- NL - SPORTS (19) ---
+#EXTINF:-1 tvg-logo="http://109.104.154.227/Logolar/boxingtv.png" group-title="NL - SPORTS",(NL) Glory 107 Kickboxing / UFC
+http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/118311.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/eurosport1hd.png" group-title="NL - SPORTS",(NL) Eurosport 1 HEVC
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/151301.m3u8
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/eurosport2hd.png" group-title="NL - SPORTS",(NL) Eurosport 2 HEVC
@@ -6810,8 +6812,6 @@ http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/299916.m3u8
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/299915.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NL - SPORTS",(NL) PPV Channel 1 (LIVE ON MATCH)
 http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/299914.m3u8
-#EXTINF:-1 tvg-logo="http://109.104.154.227/Logolar/boxingtv.png" group-title="NL - SPORTS",(NL) Glory 105 Kickboxing / UFC
-http://tv.tvdark.eu/live/Aokkkuscubbb/nHxZbPC/118311.m3u8
 
 # --- NL - VIAPLAY BUNDESLIGA (8) ---
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/viaplay.png" group-title="NL - VIAPLAY BUNDESLIGA",(NL) ViaPlay Bundesliga 1 4K+
