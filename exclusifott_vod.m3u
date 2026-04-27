@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: exclusifott.pro:80
-# Generated: 2026-04-25 18:54:07
+# Generated: 2026-04-27 08:13:21
 # Expires: 2026-05-21
 # Family Safe Edition
 # ==============================================
@@ -689,7 +689,7 @@ http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/1524833.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9dp0LlnahtNMwVk673H9fd1fat3.jpg" group-title="Movies | NETFLIX ASIA",NF - What If (2023)
 http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/1333134.mkv
 
-# --- Movies | NETFLIX KIDS (141) ---
+# --- Movies | NETFLIX KIDS (140) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wxgTMw6n1xbWfcucVD4EdRvJaOW.jpg" group-title="Movies | NETFLIX KIDS",EN - In Your Dreams (2025) (MULTI SUB)
 http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/1968321.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hGaUNLF5VZbg9ovPTyjm9Rv5xWz.jpg" group-title="Movies | NETFLIX KIDS",NF - Plankton: The Movie (2025)
@@ -920,8 +920,6 @@ http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/359534.mp4
 http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/874731.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/oSS5HCVx9ECG0U6XUtFjxlf5dmj.jpg" group-title="Movies | NETFLIX KIDS",NF - The Monkey King (2023)
 http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/1319888.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7SC793qtORB6YL4mu0F5o3hfjDQ.jpg" group-title="Movies | NETFLIX KIDS",NF - The Return of Jafar  (1994)
-http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/509022.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Zfv4Ap1e8eKOYnZPtYaWhLkk0d.jpg" group-title="Movies | NETFLIX KIDS",NF - The Sea Beast  (2022)
 http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/969652.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k0ThmZQl5nHe4JefC2bXjqtgYp0.jpg" group-title="Movies | NETFLIX KIDS",NF - The Seven Deadly Sins: Cursed By Light (2021)
@@ -13413,7 +13411,11 @@ http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/837897.mp4
 #EXTINF:-1 tvg-logo="http://103.176.90.118/stalker_portal/screenshots/74/7397.jpg" group-title="Movies | |SPT| SPORT BOXING",SPT Katie Taylor vs. Natasha Jonas
 http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/837889.mp4
 
-# --- Movies | |SPT| SPORT UFC (467) ---
+# --- Movies | |SPT| SPORT UFC (469) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j2yDJZ5RfN9XSgtlIuv17rwbVMG.jpg" group-title="Movies | |SPT| SPORT UFC",SPT - UFC Fight Night 274: Sterling vs. Zalal (Prelims) (2026)
+http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/2063823.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j2yDJZ5RfN9XSgtlIuv17rwbVMG.jpg" group-title="Movies | |SPT| SPORT UFC",SPT - UFC Fight Night 274: Sterling vs. Zalal (Main Card) (2026)
+http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/2063822.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sYospcb9mp8kbEFJ7yjKsD2HYM.jpg" group-title="Movies | |SPT| SPORT UFC",SPT - UFC Fight Night 273: Burns vs. Malott (Prelims) (2026)
 http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/2060802.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sYospcb9mp8kbEFJ7yjKsD2HYM.jpg" group-title="Movies | |SPT| SPORT UFC",SPT - UFC Fight Night 273: Burns vs. Malott (2026)
@@ -16620,7 +16622,7 @@ http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/9347
 http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/9348
 #EXTINF:-1 tvg-logo="" group-title="Series | |MULTI| NETFLIX SERIES",NF - Daughter From Another Mother
 http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/9349
-#EXTINF:-1 tvg-logo="" group-title="Series | |MULTI| NETFLIX SERIES",NF - Dead Places
+#EXTINF:-1 tvg-logo="" group-title="Series | |MULTI| NETFLIX SERIES",NF - Dead Places (2021) (ZA)
 http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/9350
 #EXTINF:-1 tvg-logo="" group-title="Series | |MULTI| NETFLIX SERIES",NF - Dealer
 http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/9428
@@ -18105,4 +18107,4 @@ http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/35745
 #EXTINF:-1 tvg-logo="" group-title="Series | |RO| ROMANIAN SERIES",RO - Resident Evil: Infinite Darkness (2021)
 http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/35746
 
-# Total: 9005
+# Total: 9006

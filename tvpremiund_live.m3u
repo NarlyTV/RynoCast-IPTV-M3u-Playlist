@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: tvpremiund.ddns.me:2082
-# Generated: 2026-04-25 18:48:19
+# Generated: 2026-04-27 08:01:40
 # Expires: 2026-05-14
 # Family Safe Edition
 # ==============================================
@@ -3175,7 +3175,7 @@ http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/70174.m3u8
 #EXTINF:-1 tvg-logo="https://players.grupodial.cl/player/radio/img/45b312bfd616a3430ab90167854fe44b08121256.png" group-title="MUSICA",Radio Duna TV
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/30.m3u8
 
-# --- OTROS (6273) ---
+# --- OTROS (6270) ---
 #EXTINF:-1 tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/dark.jpg" group-title="OTROS",Dark
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/67762.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/925_Nubeh_TV.png" group-title="OTROS",Nubeh TV ✪ | VE
@@ -14506,12 +14506,6 @@ http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/72757.m3u8
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/72759.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/irTDbpn.png" group-title="OTROS",TNT Kids (288p)
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/72761.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/E6pLvOV.png" group-title="OTROS",TNT Sports 2 Brasil (720p) [Not 24/7]
-http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/72762.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LFSMbpN.png" group-title="OTROS",TNT Sports 3 Brasil (720p) [Not 24/7]
-http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/72763.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Am70nWY.png" group-title="OTROS",TNT Sports 4 Brasil (720p) [Not 24/7]
-http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/72764.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5eVHam.png" group-title="OTROS",TNTV (720p) [Not 24/7]
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/72766.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LhbQ8Mr.png" group-title="OTROS",Today All Day (720p)
@@ -16499,4 +16493,4 @@ http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/54866.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/520_Venevision.png" group-title="VENEZUELA",Venevision
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/2429.m3u8
 
-# Total: 8214
+# Total: 8211

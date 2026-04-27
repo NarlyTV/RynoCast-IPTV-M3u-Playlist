@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: canal-pro.xyz:8080
-# Generated: 2026-04-25 18:45:13
+# Generated: 2026-04-27 08:15:36
 # Expires: 2026-05-11
 # Family Safe Edition
 # ==============================================
@@ -13337,7 +13337,9 @@ http://canal-pro.xyz:8080/movie/54923073/b48ygdD8d/75434.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9RrMfaCYdsdNdRNUAR3TY0DvNV2.jpg" group-title="Movies | → VOD ESTRENOS 2024 ←",Bosco (2024)
 http://canal-pro.xyz:8080/movie/54923073/b48ygdD8d/75435.mkv
 
-# --- Movies | → VOD ESTRENOS 2025 ← (289) ---
+# --- Movies | → VOD ESTRENOS 2025 ← (290) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fJm3kmd9NLZWypMas7g34oNFgbk.jpg" group-title="Movies | → VOD ESTRENOS 2025 ←",Honey, no (2025)
+http://canal-pro.xyz:8080/movie/54923073/b48ygdD8d/280881.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/guRmwb1r337m2tKBH9KcE3vOpGE.jpg" group-title="Movies | → VOD ESTRENOS 2025 ←",Marty Supremo (2025)
 http://canal-pro.xyz:8080/movie/54923073/b48ygdD8d/280850.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x8ygUQ4YNd8iy0oEusS1bHI08A6.jpg" group-title="Movies | → VOD ESTRENOS 2025 ←",La Empleada (2025)
@@ -13917,7 +13919,11 @@ http://canal-pro.xyz:8080/movie/54923073/b48ygdD8d/268771.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9yBW60Pm0eeXsKeiZMvMolCuhyU.jpg" group-title="Movies | → VOD ESTRENOS 2025 ←",Ad Vitam (2025)
 http://canal-pro.xyz:8080/movie/54923073/b48ygdD8d/268613.mp4
 
-# --- Movies | → VOD ESTRENOS 2026 ← (27) ---
+# --- Movies | → VOD ESTRENOS 2026 ← (29) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oscW8xV8EhRYj7iAhyVlBohKqxo.jpg" group-title="Movies | → VOD ESTRENOS 2026 ←",¿Quieres Ser Mi Novia? (2026)
+http://canal-pro.xyz:8080/movie/54923073/b48ygdD8d/280879.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8VypPpIvtHfYCeA4iwshnd35vbm.jpg" group-title="Movies | → VOD ESTRENOS 2026 ←",Venganza (2026)
+http://canal-pro.xyz:8080/movie/54923073/b48ygdD8d/280880.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mV7uFS1U8iP0p4CcXZp4znBVpch.jpg" group-title="Movies | → VOD ESTRENOS 2026 ←",Apex (2026)
 http://canal-pro.xyz:8080/movie/54923073/b48ygdD8d/280852.mkv
 #EXTINF:-1 tvg-logo="https://blackstarcontent.com/wp-content/uploads/2024/11/STILL-PEDRO-RUMINOT-04-scaled.jpg" group-title="Movies | → VOD ESTRENOS 2026 ←",Pedro Ruminot: Una Noche en la Arena
@@ -19923,4 +19929,4 @@ http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2345
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES TERROR-THRILLER-SUSPENSO ←",It: Bienvenidos a Derry
 http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2492
 
-# Total: 9885
+# Total: 9888

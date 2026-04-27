@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: blackiptv.net:8080
-# Generated: 2026-04-25 18:53:46
+# Generated: 2026-04-27 08:14:25
 # Expires: 2026-12-21
 # Family Safe Edition
 # ==============================================
@@ -3287,9 +3287,11 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/67127.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2qjWOHYUjJhw5qe86Qk790vaegf.jpg" group-title="Movies | DE/FILM ~ 2021",Creation Stories (2021) DE
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/68829.mp4
 
-# --- Movies | DE/FILM ~ 2022 (449) ---
+# --- Movies | DE/FILM ~ 2022 (450) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b9vOIbsRsbTluK4C9XdJLEK2puD.jpg" group-title="Movies | DE/FILM ~ 2022",Dark Sea - Gefangen in der Tiefe (2022)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/51219.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/atNLWJm8KO44xeVGxG4LAByr5tm.jpg" group-title="Movies | DE/FILM ~ 2022",Soft & Quiet (2022) DE
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/72494.mp4
 #EXTINF:-1 tvg-logo="https://www.pinclipart.com/picdir/middle/369-3697423_de-german-flag-vector-clipart.png" group-title="Movies | DE/FILM ~ 2022",*****GERMANY CINEMA 2022*****
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/37567.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2VnDm3IT26amYs1heBdVU9KlCnr.jpg" group-title="Movies | DE/FILM ~ 2022",Death Hunt - Wenn die Gejagte zur Jägerin wird! (2022)
@@ -7481,7 +7483,13 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/68806.mp4
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/tMTJABBgvKR5Lwtmh4AfSf0p8GM.jpg" group-title="Movies | DE/FILM ~ 2025",Das große Los - 1 Insel, 40 Einwohner, 2 Betrüger (2024)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/58965.mp4
 
-# --- Movies | DE/FILM ~ 2026 (61) ---
+# --- Movies | DE/FILM ~ 2026 (64) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ggJGx8fwwy21gEIXYusIlHcUn8z.jpg" group-title="Movies | DE/FILM ~ 2026",Venganza - Blutige Rache - (2026) DE
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/72497.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nKbcjoO2BDkA3r5oR3Z8LnHHNXw.jpg" group-title="Movies | DE/FILM ~ 2026",Send Help - (2026) DE
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/72496.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rQdmyrSU0ySNkZMOq3URaDhUvdq.jpg" group-title="Movies | DE/FILM ~ 2026",Therapie auf vier Pfoten (2026) DE
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/72495.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tKchRMJTliVxllDld3L6KHS6Gya.jpg" group-title="Movies | DE/FILM ~ 2026",Brotherhood: Angstzustand (2026) DE
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/71051.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fz8fhY5xuE6NenYDuBsHbB7wUdj.jpg" group-title="Movies | DE/FILM ~ 2026",Shelter - 2026 DE
@@ -10727,13 +10735,15 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1719.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ CBS",DE: Watson (2025)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1807.mp4
 
-# --- Movies | DE/SERIE ~ DISNEY+ (23) ---
+# --- Movies | DE/SERIE ~ DISNEY+ (24) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ DISNEY+",The Beauty (2026) DE
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/2056.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ DISNEY+",Wonder Man (2026) DE
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/2031.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ DISNEY+",Cat's Eyes (2024) DE
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/2030.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ DISNEY+",Akte X - Die unheimlichen Fälle des FBI (1993) DE
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/2171.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ DISNEY+",Homeland (2011) DE
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/2163.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE/SERIE ~ DISNEY+",Star Wars: Maul - Shadow Lord (2026) DE
@@ -11691,7 +11701,17 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1618.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ ALL",Hayrettin ile Kaos Show (2024)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1948.mp4
 
-# --- Movies | TR/DIZI ~ AMAZON PRIME (93) ---
+# --- Movies | TR/DIZI ~ AMAZON PRIME (98) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ AMAZON PRIME",Absolute Value of Romance (2026) TR
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/2175.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ AMAZON PRIME",Chicago Fire (2012) TR
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/2174.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ AMAZON PRIME",INVINCIBLE (2021) TR
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/2173.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ AMAZON PRIME",Tracker (2024) TR
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/2172.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ AMAZON PRIME",Half Man (2026) TR
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/2170.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ AMAZON PRIME",One Tree Hill (2003) TR
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/2157.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ AMAZON PRIME",Sheriff Country (2025) TR
@@ -12010,9 +12030,9 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/365.mp4
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/17071.mp4
 
 # --- Movies | TR/DIZI ~ CUMARTESI (3) ---
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3Qwhs7xxf9LILllWLnxbSaCBNDf.jpg" group-title="Movies | TR/DIZI ~ CUMARTESI",CUMT: Güller ve Günahlar 25.Bölüm (YENI DIZI)
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3Qwhs7xxf9LILllWLnxbSaCBNDf.jpg" group-title="Movies | TR/DIZI ~ CUMARTESI",CUMT: Güller ve Günahlar 26.Bölüm (YENI DIZI)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/48482.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vc20oOVlfVQI0YWocTvTv7wOILk.jpg" group-title="Movies | TR/DIZI ~ CUMARTESI",CUMT: Gönül Dagi 213.Bölüm (Yeni Sezon)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vc20oOVlfVQI0YWocTvTv7wOILk.jpg" group-title="Movies | TR/DIZI ~ CUMARTESI",CUMT: Gönül Dagi 214.Bölüm (Yeni Sezon)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/26836.mp4
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zgVgcthDQ8pYgBkKzi1AaXmmeFO.jpg" group-title="Movies | TR/DIZI ~ CUMARTESI",CMT: Sahtekarlar 22.Bölüm (YENI GÜNÜNDE)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/60873.mp4
@@ -12689,9 +12709,11 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1637.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ HBO MAX/BLUTV",The Chair Company (2025)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1658.mp4
 
-# --- Movies | TR/DIZI ~ NETFLIX (DUAL) (518) ---
+# --- Movies | TR/DIZI ~ NETFLIX (DUAL) (519) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ NETFLIX (DUAL)",Jene Nacht (2026) TR
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/2101.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ NETFLIX (DUAL)",Santita (2026) TR
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/2169.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ NETFLIX (DUAL)",Hırsızlar (2024) TR
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/2159.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ NETFLIX (DUAL)",Bloodhounds (2023) TR
@@ -22671,4 +22693,4 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/71030.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t8EQllq34VC5mooiJw1vVFOlM4x.jpg" group-title="Movies | TR/FILM ~ YILBASI ÖZEL",O Ses Türkiye  Yilbasi Özel 2025
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/54778.mp4
 
-# Total: 11184
+# Total: 11195
