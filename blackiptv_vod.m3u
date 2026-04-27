@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: blackiptv.net:8080
-# Generated: 2026-04-26 18:52:02
+# Generated: 2026-04-27 08:14:25
 # Expires: 2026-12-21
 # Family Safe Edition
 # ==============================================
@@ -11701,7 +11701,15 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1618.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ ALL",Hayrettin ile Kaos Show (2024)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1948.mp4
 
-# --- Movies | TR/DIZI ~ AMAZON PRIME (94) ---
+# --- Movies | TR/DIZI ~ AMAZON PRIME (98) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ AMAZON PRIME",Absolute Value of Romance (2026) TR
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/2175.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ AMAZON PRIME",Chicago Fire (2012) TR
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/2174.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ AMAZON PRIME",INVINCIBLE (2021) TR
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/2173.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ AMAZON PRIME",Tracker (2024) TR
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/2172.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ AMAZON PRIME",Half Man (2026) TR
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/2170.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ AMAZON PRIME",One Tree Hill (2003) TR
@@ -22685,4 +22693,4 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/71030.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t8EQllq34VC5mooiJw1vVFOlM4x.jpg" group-title="Movies | TR/FILM ~ YILBASI ÖZEL",O Ses Türkiye  Yilbasi Özel 2025
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/54778.mp4
 
-# Total: 11191
+# Total: 11195

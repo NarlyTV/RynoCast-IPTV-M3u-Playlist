@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: tvnovo.giize.com:8080
-# Generated: 2026-04-26 18:46:22
+# Generated: 2026-04-27 07:59:25
 # Expires: 2026-06-30
 # Family Safe Edition
 # ==============================================
@@ -1001,7 +1001,7 @@ http://tvnovo.giize.com:8080/movie/heydmilsongomes/b8nsR7x4dpkf/50768.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/izYZGeOHhPWiga8Hb5P4JYfcH8T.jpg" group-title="Movies | VOD: INFANTIL / ANIME",The Twits (2025)
 http://tvnovo.giize.com:8080/movie/heydmilsongomes/b8nsR7x4dpkf/50854.mkv
 
-# --- Movies | VOD: NOVIDADES (201) ---
+# --- Movies | VOD: NOVIDADES (203) ---
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/nLTs9SNBuk3DuB8D0p3mSsPYN7J.jpg" group-title="Movies | VOD: NOVIDADES",Fall for Me (2025)
 http://tvnovo.giize.com:8080/movie/heydmilsongomes/b8nsR7x4dpkf/50748.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/A06yXys3hrCWu8xiNoHCFLTG5SH.jpg" group-title="Movies | VOD: NOVIDADES",I Know What You Did Last Summer (2025)
@@ -1404,6 +1404,10 @@ http://tvnovo.giize.com:8080/movie/heydmilsongomes/b8nsR7x4dpkf/51034.mkv
 http://tvnovo.giize.com:8080/movie/heydmilsongomes/b8nsR7x4dpkf/51035.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4d8GlYRvwX3tZGZasIHu5l6GhLX.jpg" group-title="Movies | VOD: NOVIDADES",Deb is Boss (2026)
 http://tvnovo.giize.com:8080/movie/heydmilsongomes/b8nsR7x4dpkf/51036.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ygWXPL0RS91JyJPNOfK34eV3bRE.jpg" group-title="Movies | VOD: NOVIDADES",Vengeance (2026)
+http://tvnovo.giize.com:8080/movie/heydmilsongomes/b8nsR7x4dpkf/51037.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg" group-title="Movies | VOD: NOVIDADES",The Super Mario Galaxy Movie (2026)
+http://tvnovo.giize.com:8080/movie/heydmilsongomes/b8nsR7x4dpkf/51038.mkv
 
 # --- Movies | VOD: ROMANCE (40) ---
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zsvD0BjEQIIoh2PpE5X7VXmSrQO.jpg" group-title="Movies | VOD: ROMANCE",Someone Like You (2024)
@@ -2457,4 +2461,4 @@ http://tvnovo.giize.com:8080/series/heydmilsongomes/b8nsR7x4dpkf/775
 #EXTINF:-1 tvg-logo="" group-title="Series | [SERIES] Português",Tempest
 http://tvnovo.giize.com:8080/series/heydmilsongomes/b8nsR7x4dpkf/776
 
-# Total: 1214
+# Total: 1216
