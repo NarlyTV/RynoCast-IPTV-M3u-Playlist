@@ -1,13 +1,13 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: stklatino.dynns.com:2082
-# Generated: 2026-04-27 19:35:01
+# Generated: 2026-04-28 08:22:30
 # Expires: 2026-08-11
 # Family Safe Edition
 # ==============================================
 
 
-# --- Movies | 2024 (508) ---
+# --- Movies | 2024 (509) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bnfnruEYFhANxt4O5WD8yxjaAPP.jpg" group-title="Movies | 2024",Operación Panda: Misión rescate (2024)
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/82439.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AciCwxRVdWSa6qpaewmrZU7KZ7i.jpg" group-title="Movies | 2024",Tirador Implacable (2024)
@@ -1024,8 +1024,10 @@ http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/135484.mkv
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/135485.mkv
 #EXTINF:-1 tvg-logo="None" group-title="Movies | 2024",Wicked (2024)
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/135486.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3daBOc5ZcICXMzAVNhzJTSgweaP.jpg" group-title="Movies | 2024",Nazi Supersoldier (2024)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/137422.mkv
 
-# --- Movies | 2025 (553) ---
+# --- Movies | 2025 (554) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w6Xdq2juOSaK6QlOQhuYNltmWUU.jpg" group-title="Movies | 2025",Una vida honrada (2025)
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/82271.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oF3noXatzftfCltE0iEDnzU5WIi.jpg" group-title="Movies | 2025",Molt lluny (2025)
@@ -2132,8 +2134,10 @@ http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/137240.mp4
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/137250.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gLw9C4hmoJgE2S2HkQZXuRmVoC.jpg" group-title="Movies | 2025",Arco (2025)
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/137259.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ATqivj1tU15mqYYCGGutHQmopR.jpg" group-title="Movies | 2025",Red tóxica (2025)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/137423.mkv
 
-# --- Movies | 2026 (80) ---
+# --- Movies | 2026 (87) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x7EDMH4aOFM9s5BeEj3TcbMyKOS.jpg" group-title="Movies | 2026",Guepardos en primer plano con Bertie Gregory (2026)
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/130532.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9SUEbyc5OUaNkGPLK3f1w3Ryoyo.jpg" group-title="Movies | 2026",Gente que conocemos en vacaciones (2026)
@@ -2292,6 +2296,20 @@ http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/137393.mkv
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/137394.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j2gYxk9EQXh2hz1jNZQOe9WOUXU.jpg" group-title="Movies | 2026",Ídolos (2026)
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/137396.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oBKLdMvotFzZyaG39hRwJUJRzfJ.jpg" group-title="Movies | 2026",El Último Conquistador (2026)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/137424.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ycYv5bhMLJG3wt0I5xFY13Z7PsU.jpg" group-title="Movies | 2026",Espantoso (2026)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/137425.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mfV9E5hMcqu0Bc15W4RI0hx5gK0.jpg" group-title="Movies | 2026",El Momento (2026)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/137426.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e4P0lkcHgsBJgWSvLV3ezGZYDUU.jpg" group-title="Movies | 2026",Ápex (2026)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/137427.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mnBW7o8ycDi8WotGeRkGoDxrNMd.jpg" group-title="Movies | 2026",Sonunda Sen (2026)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/137428.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Awvlydvag364audeksfRFldVslq.jpg" group-title="Movies | 2026",Instinto Implacable (2026)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/137429.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mB3zisIw3bsQcoDSnvMPAQhjrTM.jpg" group-title="Movies | 2026",Michael (2026) (CineHD)
+http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/137430.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j1knvM0CSG1TWWEdgz4AVqb5CXP.jpg" group-title="Movies | 2026",El Guardián: Último refugio (2026)
 http://stklatino.dynns.com:2082/movie/maldonadoluis/frEbTPk9DN3L/135328.mkv
 
@@ -22741,4 +22759,4 @@ http://stklatino.dynns.com:2082/series/maldonadoluis/frEbTPk9DN3L/2579
 #EXTINF:-1 tvg-logo="" group-title="Series | TELESERIES",Hermanas, un amor compartido
 http://stklatino.dynns.com:2082/series/maldonadoluis/frEbTPk9DN3L/2580
 
-# Total: 11335
+# Total: 11344
