@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: alienstreams.fi:8080
-# Generated: 2026-04-29 08:12:39
+# Generated: 2026-04-29 19:32:54
 # Expires: 2026-12-29
 # Family Safe Edition
 # ==============================================
@@ -15010,6 +15010,8 @@ http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/404359
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/404386
 
 # --- Series | Crime [Series] (196) ---
+#EXTINF:-1 tvg-logo="" group-title="Series | Crime [Series]",Chicago P.D.
+http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/483774
 #EXTINF:-1 tvg-logo="" group-title="Series | Crime [Series]",Lynley
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/499606
 #EXTINF:-1 tvg-logo="" group-title="Series | Crime [Series]",Under Salt Marsh
@@ -15020,8 +15022,6 @@ http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/495753
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/499288
 #EXTINF:-1 tvg-logo="" group-title="Series | Crime [Series]",Elsbeth
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/492083
-#EXTINF:-1 tvg-logo="" group-title="Series | Crime [Series]",Chicago P.D.
-http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/483774
 #EXTINF:-1 tvg-logo="" group-title="Series | Crime [Series]",In the Mud
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/475586
 #EXTINF:-1 tvg-logo="" group-title="Series | Crime [Series]",Dark Winds
@@ -19028,6 +19028,14 @@ http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/403526
 # --- Series | Svenska Serier [Series] (299) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Fångat på polisens kamera
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/477209
+#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Sveriges Mästerkock
+http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/489940
+#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Renoveringsdrömmar
+http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/495288
+#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Högspänning
+http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/497940
+#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Poliserna i våldsvågen
+http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/495274
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Hela vägen
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/499469
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Boxen
@@ -19076,14 +19084,6 @@ http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/489667
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/489666
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Slutet på sommaren
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/494078
-#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Renoveringsdrömmar
-http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/495288
-#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Högspänning
-http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/497940
-#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Poliserna i våldsvågen
-http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/495274
-#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Sveriges Mästerkock
-http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/489940
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Jagad - kändisar på rymmen
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/496023
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Över Atlanten

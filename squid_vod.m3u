@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: squid.game-tv.org:8080
-# Generated: 2026-04-29 08:19:42
+# Generated: 2026-04-29 19:32:23
 # Expires: 2026-07-17
 # Family Safe Edition
 # ==============================================
@@ -846,6 +846,10 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/690.mp4
 # --- Movies | Chucky (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Chucky",Chucky
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/773.mp4
+
+# --- Movies | Cirkin (Urata) (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | Cirkin (Urata)",Çirkin (2026)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1260.mp4
 
 # --- Movies | Clanul (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Clanul",Clanul
@@ -20567,4 +20571,4 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/383.mp4
 #EXTINF:-1 tvg-logo="" group-title="Series | A Series of Unfortunate Events",A Series of Unfortunate Events
 http://squid.game-tv.org:8080/series/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/276
 
-# Total: 8995
+# Total: 8996
