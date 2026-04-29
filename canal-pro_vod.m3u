@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: canal-pro.xyz:8080
-# Generated: 2026-04-28 08:17:33
+# Generated: 2026-04-29 08:17:26
 # Expires: 2026-05-11
 # Family Safe Edition
 # ==============================================
@@ -18633,7 +18633,7 @@ http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/755
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DEPORTES ←",Undertaker: The Last Ride
 http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/756
 
-# --- Series | → SERIES DOCUMENTALES ← (81) ---
+# --- Series | → SERIES DOCUMENTALES ← (82) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DOCUMENTALES ←",12 días que estremecieron Chile
 http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/8
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DOCUMENTALES ←",800 metros
@@ -18796,6 +18796,8 @@ http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2547
 http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2548
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DOCUMENTALES ←",Ronaldinho
 http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2569
+#EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DOCUMENTALES ←",Hulk Hogan: Real American
+http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2574
 
 # --- Series | → SERIES DRAMA ← (304) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DRAMA ←",4 Blocks
@@ -19561,7 +19563,7 @@ http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2469
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES MARVEL ←",Wonder Man
 http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2532
 
-# --- Series | → SERIES MISTERIO ← (63) ---
+# --- Series | → SERIES MISTERIO ← (64) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES MISTERIO ←",Instinto
 http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/47
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES MISTERIO ←",La Montaña De La Muerte: El Incidente del Paso Dyatlov
@@ -19688,6 +19690,8 @@ http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2560
 http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2561
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES MISTERIO ←",Algo terrible esta a punto de suceder
 http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2564
+#EXTINF:-1 tvg-logo="" group-title="Series | → SERIES MISTERIO ←",Si los deseos Mataran...
+http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2573
 
 # --- Series | → SERIES REALLITY ← (25) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES REALLITY ←",La Isla de las Tentaciones Argentina & Chile
@@ -19929,4 +19933,4 @@ http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2345
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES TERROR-THRILLER-SUSPENSO ←",It: Bienvenidos a Derry
 http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2492
 
-# Total: 9888
+# Total: 9890

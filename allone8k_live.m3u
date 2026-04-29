@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: allone8k.info:8080
-# Generated: 2026-04-28 08:07:33
+# Generated: 2026-04-29 08:20:09
 # Expires: 2026-06-20
 # Family Safe Edition
 # ==============================================
@@ -2058,6 +2058,16 @@ http://allone8k.info:8080/live/hany/hany1234/463297.m3u8
 http://allone8k.info:8080/live/hany/hany1234/463298.m3u8
 #EXTINF:-1 tvg-logo="https://tv.alfajertv.com/assets/images/logo.png" group-title="AR | AlFAJER TVالفجر | AL KASS",Al-Fajer 5 SD
 http://allone8k.info:8080/live/hany/hany1234/463299.m3u8
+#EXTINF:-1 tvg-logo="https://tv.alfajertv.com/assets/images/logo.png" group-title="AR | AlFAJER TVالفجر | AL KASS",AR:PES- ALfajer 1HD
+http://allone8k.info:8080/live/hany/hany1234/417059.m3u8
+#EXTINF:-1 tvg-logo="https://tv.alfajertv.com/assets/images/logo.png" group-title="AR | AlFAJER TVالفجر | AL KASS",AR:PES- ALfajer 2HD
+http://allone8k.info:8080/live/hany/hany1234/417060.m3u8
+#EXTINF:-1 tvg-logo="https://tv.alfajertv.com/assets/images/logo.png" group-title="AR | AlFAJER TVالفجر | AL KASS",AR:PES- ALfajer 3HD
+http://allone8k.info:8080/live/hany/hany1234/417061.m3u8
+#EXTINF:-1 tvg-logo="https://tv.alfajertv.com/assets/images/logo.png" group-title="AR | AlFAJER TVالفجر | AL KASS",AR:PES- ALfajer 4HD
+http://allone8k.info:8080/live/hany/hany1234/417062.m3u8
+#EXTINF:-1 tvg-logo="https://tv.alfajertv.com/assets/images/logo.png" group-title="AR | AlFAJER TVالفجر | AL KASS",AR:PES- ALfajer 5HD
+http://allone8k.info:8080/live/hany/hany1234/417063.m3u8
 #EXTINF:-1 tvg-logo="https://tv.alfajertv.com/assets/images/logo.png" group-title="AR | AlFAJER TVالفجر | AL KASS",Raya 1 HD
 http://allone8k.info:8080/live/hany/hany1234/463305.m3u8
 #EXTINF:-1 tvg-logo="https://tv.alfajertv.com/assets/images/logo.png" group-title="AR | AlFAJER TVالفجر | AL KASS",Raya 2 HD
@@ -2088,16 +2098,6 @@ http://allone8k.info:8080/live/hany/hany1234/298983.m3u8
 http://allone8k.info:8080/live/hany/hany1234/310305.m3u8
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/4/2020/06/2023_Alkass_5.png" group-title="AR | AlFAJER TVالفجر | AL KASS",SPO: Al Kass 5 HD
 http://allone8k.info:8080/live/hany/hany1234/298984.m3u8
-#EXTINF:-1 tvg-logo="https://tv.alfajertv.com/assets/images/logo.png" group-title="AR | AlFAJER TVالفجر | AL KASS",AR:PES- ALfajer 1HD
-http://allone8k.info:8080/live/hany/hany1234/417059.m3u8
-#EXTINF:-1 tvg-logo="https://tv.alfajertv.com/assets/images/logo.png" group-title="AR | AlFAJER TVالفجر | AL KASS",AR:PES- ALfajer 2HD
-http://allone8k.info:8080/live/hany/hany1234/417060.m3u8
-#EXTINF:-1 tvg-logo="https://tv.alfajertv.com/assets/images/logo.png" group-title="AR | AlFAJER TVالفجر | AL KASS",AR:PES- ALfajer 3HD
-http://allone8k.info:8080/live/hany/hany1234/417061.m3u8
-#EXTINF:-1 tvg-logo="https://tv.alfajertv.com/assets/images/logo.png" group-title="AR | AlFAJER TVالفجر | AL KASS",AR:PES- ALfajer 4HD
-http://allone8k.info:8080/live/hany/hany1234/417062.m3u8
-#EXTINF:-1 tvg-logo="https://tv.alfajertv.com/assets/images/logo.png" group-title="AR | AlFAJER TVالفجر | AL KASS",AR:PES- ALfajer 5HD
-http://allone8k.info:8080/live/hany/hany1234/417063.m3u8
 
 # --- AR | BAHRAIN 4K | بحرين (5) ---
 #EXTINF:-1 tvg-logo="http://139.99.250.54/ActiveCode-Panel/Photo/Groups/Bahrain-Flag.png" group-title="AR | BAHRAIN 4K | بحرين",BH: Bahrain TV 4K

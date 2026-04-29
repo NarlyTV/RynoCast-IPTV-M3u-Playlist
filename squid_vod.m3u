@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: squid.game-tv.org:8080
-# Generated: 2026-04-28 08:16:34
+# Generated: 2026-04-29 08:19:42
 # Expires: 2026-07-17
 # Family Safe Edition
 # ==============================================
@@ -7577,7 +7577,11 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/66568.mp
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tsE3nySukwrfUjouz8vzvKTcXNC.jpg" group-title="Movies | Filme 2026",Oscar Shaw (2026)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/65748.mp4
 
-# --- Movies | Filme Actiune (532) ---
+# --- Movies | Filme Actiune (534) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dc9F1vNOGbgeZrO9ejNkbgHPlfw.jpg" group-title="Movies | Filme Actiune",National Treasure: Book of Secrets - 2007
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/69779.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pxL6E4GBOPUG6CdkO9cUQN5VMwI.jpg" group-title="Movies | Filme Actiune",National Treasure - 2004
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/69778.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b1RBy3l297N0c7PHjlz35cClWju.jpg" group-title="Movies | Filme Actiune",The Karate Kid - 2010
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/69704.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iQ5ztdjvteGeboxtmRdXEChJOHh.jpg" group-title="Movies | Filme Actiune",Scarface - 1983
@@ -10275,7 +10279,9 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/28327.mp
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/l8HyObVj8fPrzacAPtGWWLDhcfh.jpg" group-title="Movies | Filme Animatie Subtitrate (Nou)",Ainbo: Spirit of the Amazon  (2021)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/19301.mp4
 
-# --- Movies | Filme Aventura (127) ---
+# --- Movies | Filme Aventura (128) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nFwT3QisWFQa3Wlfnw1gC458xJn.jpg" group-title="Movies | Filme Aventura",You Got Served - 2004
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/69783.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5RBZsOKMMxnp8L6UmOiylKOw4yo.jpg" group-title="Movies | Filme Aventura",Race to Witch Mountain - 2009
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/63993.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d72vNuC2KdS1cDwwKf8AGA5b27U.jpg" group-title="Movies | Filme Aventura",Ruby Herring Mysteries: Silent Witness - 2019
@@ -15615,7 +15621,13 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/31665.mp
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/dhHpbBemuyEBgcYGrmm7bHpjgdO.jpg" group-title="Movies | Filme SCI-FI (NOU)",Battle Drone  (2018)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/9682.mp4
 
-# --- Movies | Filme Thriller (213) ---
+# --- Movies | Filme Thriller (216) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rxw9l9YNL14ODdmAavUwHLBjiDo.jpg" group-title="Movies | Filme Thriller",The Ninth Gate - 1999
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/69782.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d6dlbTBb3N7nXDz7tQslDJs2jgv.jpg" group-title="Movies | Filme Thriller",The Name of the Rose - 1986
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/69781.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/smaWxdIMH24gD96lKNe1a036LVG.jpg" group-title="Movies | Filme Thriller",Inferno - 2016
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/69780.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jPVFDcTaBvpavmmIkzi5gyiEHjv.jpg" group-title="Movies | Filme Thriller",Trance - 2013
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/69590.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qNen8x5gaikjIg9CFihgxYcJwQe.jpg" group-title="Movies | Filme Thriller",Fracture - 2007
@@ -20555,4 +20567,4 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/383.mp4
 #EXTINF:-1 tvg-logo="" group-title="Series | A Series of Unfortunate Events",A Series of Unfortunate Events
 http://squid.game-tv.org:8080/series/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/276
 
-# Total: 8989
+# Total: 8995

@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: 51.89.76.111:2086
-# Generated: 2026-04-28 08:07:07
+# Generated: 2026-04-29 08:08:16
 # Expires: 2026-10-09
 # Family Safe Edition
 # ==============================================
@@ -1625,25 +1625,189 @@ http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/110104.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/gy51zip.png" group-title="DE-DAZN",DE: DAZN Eurosport 2 HD
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/170928.m3u8
 
-# --- DE-DAZN EVENT (9) ---
+# --- DE-DAZN EVENT (91) ---
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/sl1afxl.png" group-title="DE-DAZN EVENT",##### DAZN - EVENT ######
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/179130.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/cqnanfkebkpq1yyaqcjp73fwb_image-header_pDach_1775747316000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",TSG Hoffenheim - 1. FC Köln (2026-04-27 18:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/181871.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/buou2qygnp2p83koqmo1ka3vx_image-header_pDach_1775746003000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Cagliari - Atalanta (italienischer Kommentar) (2026-04-27 18:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/181872.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/3dvdm5s96fg7yjz9q9mxiqbr0_image-header_pDach_1775746009000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Cagliari - Atalanta (2026-04-27 18:30:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/181873.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/8lfwmzzmq3wynm4gq49za8kc7_image-header_pDach_1775971720000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Lazio - Udinese (italienischer Kommentar) (2026-04-27 20:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/181874.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/10yx17izilyz114n19h8qh5eyt_image-header_pDach_1774003950000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Inside The Ring - Apr 27 (2026-04-27 20:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/181875.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/617z132aad44mvutzu66rjz2g_image-header_pDach_1776700315000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Cadiz - Las Palmas (2026-04-27 20:30:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/181876.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/bygqbsvqfipmslyc2a2hdztu4_image-header_pDach_1775846118000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Lazio - Udinese (2026-04-27 20:45:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/181877.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/8iozfp6pl156nt4ojm4bkqfso_image-header_pDach_1764531022000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Espanyol - Levante (2026-04-27 21:00:00)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/181878.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/7tm3dya2ifxjhq4j937bspgl7_image-header_pDach_1776348344000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Nasice - THW Kiel | Viertelfinale (Hinspiel) (2026-04-28 18:45:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/182125.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/675044zpt2giwr7nyhnjdr8vo_image-header_pDach_1776687874000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Al-Hilal - Damac (2026-04-28 20:00:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/182126.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/3fycpzg28g5ee0kydb0aehavy_image-header_pDach_1776348337000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",MT Melsungen - Porto | Viertelfinale (Hinspiel) (2026-04-28 20:45:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/182127.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1e7vpzr0u9t821o1z2j9xbq1nv_image-header_pDach_1773403293000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Nicolson vs. Turner (2026-04-29 11:00:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/182128.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/z82lp69ul9neq87g98lvcokl_image-header_pDach_1767771087000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",SV Werder Bremen - FC Bayern München (2026-04-29 18:00:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/182129.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/8tj72j85ch4gneh96uq4o32b9_image-header_pDach_1776687901000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Al-Taawoun - Al-Ittihad (2026-04-29 18:10:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/182130.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/58w5db96ksg7uqsbqrzs56cb3_image-header_pDach_1776176629000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Szeged - SC Magdeburg | Viertelfinale (Hinspiel) (2026-04-29 18:45:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/182131.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/g1i5czynyu3mjof883iazysz_image-header_pDach_1776687906000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Al-Nassr - Al-Ahli (2026-04-29 20:00:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/182132.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/eiwdhaoqtodnoei80b6qssbxk_image-header_pDach_1776439906000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Atletico Madrid - Arsenal | Halbfinale (Hinspiel) (2026-04-29 20:15:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/182133.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/596crtdwrpxffkvgqiok19uhr_image-header_pDach_1776348325000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",SG Flensburg-Handewitt - TSV Hannover-Burgdorf | Viertelfinale (Hinspiel) (2026-04-29 20:45:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/182134.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/52h2e1m2d7891qv79azs2zf0i_image-header_pDach_1776958080000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Walker vs. Eggington: Press Conference (2026-04-30 14:00:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/182135.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/dsl9q6s2bjsu4ryc7hmhfwhxk_image-header_pDach_1776176632000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Veszprem - Füchse Berlin | Viertelfinale (Hinspiel) (2026-04-30 18:45:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/182136.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/9a3yu80ux70abbw8us42sl41q_image-header_pDach_1770128204000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Premier League Darts | Spieltag 13 in Aberdeen (2026-04-30 20:00:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/182137.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/6aaf9cdbu33z6ze8eexpnbfg9_image-header_pDach_1775981298000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Hamburger SV - 1. FC Union Berlin (2026-05-01 15:00:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/182138.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/b6457r2jup2hmjrn0iq5spbbo_image-header_pDach_1776171337000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Freestyle Friday | 1. Mai (2026-05-01 16:45:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/182139.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1oue8pg2rms3b1v538i1jbu2u6_image-header_pDach_1777297600000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Walker vs. Eggington: Weigh-In (2026-05-01 19:00:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/182140.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1bti0xwe1rx3i1rj4407oqj8zn_image-header_pDach_1774540677000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Carter Efe vs. Portable (2026-05-01 20:00:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/182141.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/9nvn7bkp52uyxo4e3fm89flws_image-header_pDach_1775746486000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Pisa - Lecce (italienischer Kommentar) (2026-05-01 20:15:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/182142.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/c0w6s2aa8252xceu8wypty6b3_image-header_pDach_1776080712000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Pisa - Lecce (2026-05-01 20:45:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/182143.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/5hyh09kml47q6xnqkxhfh5skn_image-header_pDach_1775805865000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Girona - Mallorca (2026-05-01 21:00:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/182144.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/46i4f1e1nq431f50lhkk4ivjb_image-header_pDach_1777394137000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Benavidez vs. Zurdo: Weigh-In (2026-05-01 22:00:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/182145.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/163cuzpzrhoy916q6ngye53xkv_image-header_pDach_1776094268000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Inoue vs. Nakatani (2026-05-02 11:40:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/182146.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/5g8kawf1vvwgiguvm47flq0r5_image-header_pDach_1759747749000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Neapel - Juventus (2026-05-02 12:30:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/182147.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/ekmnkvami6d2axsuskh90uhus_image-header_pDach_1771487361000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Eurocup-3 | Paul Ricard (Rennen 1) (2026-05-02 12:45:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/182148.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/546ppqi672taeq1q1iga3fsnq_image-header_pDach_1776157819000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",UFC Fight Night | Jack Della Maddalena vs Carlos Prates (Main Card) (2026-05-02 13:00:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/182149.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/233x31nrccuhqs7stn1vpw5ns_image-header_pDach_1775736235000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",1. FC Köln - SV Werder Bremen (2026-05-02 13:00:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/182150.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/6aav7cmvm0b33gkyr6wok2uzu_image-header_pDach_1775124899000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Bundesliga-Konferenz | 32. Spieltag (2026-05-02 14:00:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/182151.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/4ydevos7c6mkoq0m6pwsifj0q_image-header_pDach_1741285605000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Fight Clubbing | Bangkok (2026-05-02 14:00:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/182152.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/9bf6hn5r4p2jyfnpju5eaa168_image-header_pDach_1775805659000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Villarreal - Levante (2026-05-02 14:00:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/182153.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/cjvl7decpbzc0637lazd532to_image-header_pDach_1777039264000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Rajadamnern World Series | Marie Ruumet vs Jitti (2026-05-02 14:10:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/182154.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/4af4np53xhotm86s3sl3fvmhg_image-header_pDach_1775984775000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",VfL Wolfsburg - RB Leipzig (2026-05-02 15:00:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/182155.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/4ohd0vk7ac0scaum5j6ni2d65_image-header_pDach_1775746344000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Udinese - FC Turin (2026-05-02 15:00:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/182156.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/4n32gzxpkmyn61s07j6coxkg5_image-header_pDach_1775746339000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Udinese - FC Turin (italienischer Kommentar) (2026-05-02 15:00:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/182157.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/7h42pq0ddeh4afcyxys8g7dvs_image-header_pDach_1775811631000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Nantes - Marseille (2026-05-02 15:00:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/182158.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/ah05vl55y9hxwx9ce1d82b778_image-header_pDach_1775805967000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Valencia - Atletico Madrid (2026-05-02 16:15:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/182159.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/bmttuejjef2frme1tj2k4k62z_image-header_pDach_1771486761000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Eurocup-3 | Paul Ricard (Rennen 2) (2026-05-02 16:30:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/182160.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/8opkkkehbytogtk3hrq80yq3_image-header_pDach_1776235579000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",PSG - Lorient (2026-05-02 17:00:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/182161.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/38dhaihi9q1sjjxi957nys94k_image-header_pDach_1759880852000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",ALL IN | Die Bundesliga-Highlight-Show (32. Spieltag) (2026-05-02 17:30:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/182162.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/7lnwwnc2m6oak1xnungf6zow7_image-header_pDach_1775741608000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Como - Neapel (2026-05-02 18:00:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/182163.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1ooyh5i7wzp350xl0yyodwf9o_image-header_pDach_1775741619000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Como - Neapel (italienischer Kommentar) (2026-05-02 18:00:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/182164.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/2b6dlukop6xyu01xx2yfhrvhn_image-header_pDach_1775638531000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",FC Sevilla - Real Madrid (2026-05-02 18:30:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/182165.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1o8ah3tyqw1ofo7bse2jwl8qx_image-header_pDach_1756292776000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Inter - Milan (2026-05-02 18:30:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/182166.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/dqyq4xkv75ayhpvhnl9jld4j3_image-header_pDach_1775741677000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Alaves - Bilbao (2026-05-02 18:30:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/182167.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/3if1wp40z80amsaywk3qti6tn_image-header_pDach_1776872060000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",AS Rom - Ternana (2026-05-02 18:30:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/182168.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/8s6ftfjx6fp51xska8gxy0ogt_image-header_pDach_1777025956000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Walker vs. Eggington: Prelims (2026-05-02 18:35:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/182169.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/2t9jg96whtoxo3mfgdf5opg5j_image-header_pDach_1776238987000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Metz - Monaco (2026-05-02 19:00:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/182170.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/69vdifhhpqj05eoqlnxt7dbdb_image-header_pDach_1776851667000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Ajax - Eindhoven (2026-05-02 20:00:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/182171.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/3y23ht0duwrqa28gbyoi7c2cj_image-header_pDach_1776447053000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Al-Hazem - Al-Hilal (2026-05-02 20:00:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/182172.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/48ehoxyclywq4mf5u1bzdh404_image-header_pDach_1776138022000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Le Mans - Reims (2026-05-02 20:00:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/182173.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/bzhf4wlsocbs5w98w7bg4v8co_image-header_pDach_1776138027000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Rodez - St. Etienne (2026-05-02 20:00:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/182174.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1h69ysc039ccx1mno9zt46wpgj_image-header_pDach_1774440447000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Walker vs. Eggington (2026-05-02 20:00:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/182175.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/5w49usgg6x4ez5bo304fq8vir_image-header_pDach_1775746078000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Atalanta - CFC Genua (italienischer Kommentar) (2026-05-02 20:45:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/182176.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/3o2huai6nbf4rdq5ph2mkfkgk_image-header_pDach_1776763461000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",St. Truiden - Saint-Gilloise (2026-05-02 20:45:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/182177.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/314asugrxcfv3mygmd16mjjt5_image-header_pDach_1775746087000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Atalanta - CFC Genua (2026-05-02 20:45:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/182178.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/49qjv0z1wun23u9t2jetj1z4t_image-header_pDach_1775805826000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Osasuna - FC Barcelona (2026-05-02 21:00:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/182179.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/bpq7ir41glba2au97b1ri4edh_image-header_pDach_1775811414000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Nizza - Lens (2026-05-02 21:05:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/182180.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/3law3pfkl20r73usuuwl6pdy1_image-header_pDach_1776324672000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",PFL Sioux Falls | Logan Storley vs Florim Zendeli (2026-05-03 01:00:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/182181.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1jojpw8zastga1ner8atk3l6dc_image-header_pDach_1776286979000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Benavidez vs. Zurdo (2026-05-03 02:00:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/182182.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/38p74qpozf3zr79ugrn8d0mk1_image-header_pDach_1755857841000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Doppelpass | 3. Mai (2026-05-03 11:00:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/182183.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/2haa5j202cqrjvs45dzotgagm_image-header_pDach_1775809070000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Atletico Madrid - Eibar (2026-05-03 12:00:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/182184.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/ebmx302zt8hsavz6hqgw5modu_image-header_pDach_1775746016000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Bologna - Cagliari (2026-05-03 12:30:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/182185.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/33xqdong1zmx71qoey6m03ns7_image-header_pDach_1775746002000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Bologna - Cagliari (italienischer Kommentar) (2026-05-03 12:30:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/182186.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/6h8636donkeiqc2kkchxrkzt7_image-header_pDach_1762769916000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Parma - Lazio (2026-05-03 12:30:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/182187.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/3m3b4uis5ouwcgrmwvkc2qmzy_image-header_pDach_1776761365000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Mechelen - Gent (2026-05-03 13:30:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/182188.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/4oxx7iqaf6743d8pj85uje0r7_image-header_pDach_1775736233000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",SGS Essen - Bayer Leverkusen (2026-05-03 14:00:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/182189.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/41u8jiti93q3w6l7xfv988fvw_image-header_pDach_1775555097000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Celta Vigo - Elche (2026-05-03 14:00:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/182190.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/ep9j9b0osv5jd8xer380jzepe_image-header_pDach_1766574694000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",FC St. Pauli - 1. FSV Mainz 05 (2026-05-03 14:45:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/182191.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/6eqewb8wee6lvcviganpt3etr_image-header_pDach_1775746434000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Sassuolo - Milan (italienischer Kommentar) (2026-05-03 15:00:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/182192.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/7c2jc6xud6ctk7v5jc8lo1q3m_image-header_pDach_1775811836000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Lille - Le Havre (2026-05-03 15:00:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/182193.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/e6rezhwoa19epr0hz36wsix20_image-header_pDach_1775746430000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Sassuolo - Milan (2026-05-03 15:00:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/182194.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/dq8m7s17v0f3g0sasbmcvv23b_image-header_pDach_1775736253000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",FC Carl Zeiss Jena - SC Freiburg (2026-05-03 16:00:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/182195.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/ca1pt0chsv1xnk20k2pz294dt_image-header_pDach_1775556249000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Getafe - Vallecano (2026-05-03 16:15:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/182196.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/3acng1552v8ueolwzbq1wx7p1_image-header_pDach_1774959108000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Borussia M'gladbach - Borussia Dortmund (2026-05-03 16:45:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/182197.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/16wdsx0bnvmgl19g39nie57c7k_image-header_pDach_1771846110000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Al Ghena vs. Townsend (2026-05-03 17:00:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/182198.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1b1goxibv6bvdm7v6mfgi8qo4_image-header_pDach_1775811934000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Straßburg - Toulouse (2026-05-03 17:15:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/182199.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/8y44z5xdii90jafszomxpir0g_image-header_pDach_1775812185000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Paris FC - Brest (2026-05-03 17:15:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/182200.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/4vkehf7u57ucodm4alimp1c0u_image-header_pDach_1775812256000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Auxerre - Angers (2026-05-03 17:15:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/182201.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1bg0njh7b2xjhasss0h2n05ev_image-header_pDach_1775746124000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Juventus - Hellas Verona (italienischer Kommentar) (2026-05-03 18:00:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/182202.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/y3od8hdy3jxfdi7frhscf7zm_image-header_pDach_1775746122000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Juventus - Hellas Verona (2026-05-03 18:00:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/182203.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/5px8hryra481niqyjsk1n86e2_image-header_pDach_1776760104000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Anderlecht - Club Brügge (2026-05-03 18:30:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/182204.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/bldcbugw9f8yfhbaakeb1yss1_image-header_pDach_1775806026000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Real Betis - Oviedo (2026-05-03 18:30:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/182205.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/8663kysvd8dfgl1e4q6kzmnbq_image-header_pDach_1770394138000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",SC Freiburg - VfL Wolfsburg (2026-05-03 18:45:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/182206.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/3q48ar7ty84l8lyci5go3ox45_image-header_pDach_1777302210000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Lexington Phantoms - Paterson U (2026-05-03 19:00:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/182207.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/9v0kolo06h4ni57l99em3bt52_image-header_pDach_1776447047000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Al-Qadsiah - Al-Nassr (2026-05-03 20:00:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/182208.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/cxj2xoifd4ux1xpy7x0bv0r6e_image-header_pDach_1776447198000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Al-Ahli - Al-Okhdood (2026-05-03 20:00:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/182209.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/edfkhyr64d1wparc522kavxqi_image-header_pDach_1775746190000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Inter - Parma (italienischer Kommentar) (2026-05-03 20:45:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/182210.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/a0m98borc3kogqf829snaudrb_image-header_pDach_1775746201000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Inter - Parma (2026-05-03 20:45:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/182211.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/dtjd3v4ra5fjsjixkwnkhxysd_image-header_pDach_1776172235000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Lyon - Rennes (2026-05-03 20:45:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/182212.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/25jpy5u4g6bnh5k1r8jjitrgo_image-header_pDach_1775805948000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Espanyol - Real Madrid (2026-05-03 21:00:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/182213.m3u8
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/apa7gg45qrh8vc087hrnsqfzf_image-header_pDach_1777302357000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Trenton BIC - Silk City Animals (2026-05-03 22:00:00)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/182214.m3u8
 
 # --- DE-DOKU/NEWS/KULTUR (54) ---
 #EXTINF:-1 tvg-logo="http://147.135.221.50/img/germany.png" group-title="DE-DOKU/NEWS/KULTUR",##### DE DOKU/NEWS/KULTUR #####
@@ -2973,369 +3137,87 @@ http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/143562.m3u8
 #EXTINF:-1 tvg-logo="" group-title="FR: FRANCE",FR.SPOR| INFOSPORT+ HD
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/143605.m3u8
 
-# --- GR: GREECE (181) ---
+# --- GR: GREECE (40) ---
 #EXTINF:-1 tvg-logo="" group-title="GR: GREECE",##### GREECE VIP #####
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/64220.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/b077cb697a08826900534fb326ab38cf.png" group-title="GR: GREECE",GR: Nova sports Prime
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173482.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/de6669a9f7c29b7deeba613d4001d986.png" group-title="GR: GREECE",GR: Nova Sports Start
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173483.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/720b57f6ec40d2ea358a38a26e2cd29b.png" group-title="GR: GREECE",GR: Nova Sport Premierleague HD
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173454.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/a37f9781be1a55a7c5f8763c8b6a38a9.png" group-title="GR: GREECE",GR: Cosmote Sport 1
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173436.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/b51dc4246f87ba3e9a9265af0dae31a8.png" group-title="GR: GREECE",GR: Cosmote Sport 2
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173438.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/94efcc671a18ace7e698c8006c78a400.png" group-title="GR: GREECE",GR: Cosmote Sport 3
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173440.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/7e80e4709cd888c8f0e16301db38a0aa.png" group-title="GR: GREECE",GR: Cosmote Sport 4
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173442.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/d3def5f35a86a67dd93e41403a5fc441.png" group-title="GR: GREECE",GR: Cosmote Sport 5
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173444.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-12/f96731be87dde35f0f1a9908d5e6fbc1.jpg" group-title="GR: GREECE",GR: Cosmote Sport 6
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173446.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/05c99205230c13929e2435d8932e1312.png" group-title="GR: GREECE",GR: Cosmote Sport 7
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173448.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/cbbf8bdd8c51923d2c692ab2b0d58579.jpg" group-title="GR: GREECE",GR: Cosmote Sport 8
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173450.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/620809e2c99f5c7cd17dfb954008b053.jpg" group-title="GR: GREECE",GR: Cosmote Sport 9
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173452.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/85e53287a02631f8b42f621e2778d74c.jpg" group-title="GR: GREECE",GR: Cytavision Sports 1
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173455.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/92d52b50694bfeb08d55fe85c3c4c3b0.jpg" group-title="GR: GREECE",GR: Cytavision Sports 2
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173456.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/ac9c7fbc8efc78b9583aa7ca24419761.jpg" group-title="GR: GREECE",GR: Cytavision Sports 3
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173457.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/7726cc9068dc70b29be1ea38b6b6449a.jpg" group-title="GR: GREECE",GR: Cytavision Sports 4
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173458.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/0a02c6324173e3a9ac8da3eda527d82e.jpg" group-title="GR: GREECE",GR: Cytavision Sports 5
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173459.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GR: GREECE",GR: Cytavision Sports 6
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173460.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/dfb7db293fe59a459b5a6e6a657eb870.jpg" group-title="GR: GREECE",GR: Cytavision Sports 7
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173461.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-06/cadd4db10d5573ba6f60996347b0aefd.png" group-title="GR: GREECE",GR: Cablenet Sports 1
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173434.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-06/7afce1bdfed6ea6c0c609a6dc9f98b99.png" group-title="GR: GREECE",GR: Cablenet Sports 2
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173435.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/b68a5fcf7c402244cd6110a2071f5e18.png" group-title="GR: GREECE",GR: ERT Sports 2
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173462.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/76dfe401eac1e58160dde438691d1d4a.png" group-title="GR: GREECE",GR: Eurosport 1
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173463.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/eead215977c00f89242f31aeb35f44eb.png" group-title="GR: GREECE",GR: Eurosport 2
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173464.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/12581690330415a663693dfe66758ece.png" group-title="GR: GREECE",GR: Nova Sports 1
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173465.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-01/5b09fb0ef02df99ace9e5b3b1e620ede.jpg" group-title="GR: GREECE",GR: Nova sports 2
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173467.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/db84e4cab49518a4671bad903a694117.png" group-title="GR: GREECE",GR: Nova Sports 3
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/180116.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-12/8ecc003e88923bf810aa95e20deb8ce0.png" group-title="GR: GREECE",GR: Nova Sports 4
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173471.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/38563dfe8e994c67749cc07d3d0df9a1.png" group-title="GR: GREECE",GR: Nova Sports 5
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173472.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/ab2ac576d70e951c273f2ae217bdecfb.png" group-title="GR: GREECE",GR: Nova Sports 6
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173474.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/60f726696409df34e89c73b753e3a9f3.png" group-title="GR: GREECE",GR: Nova Sports News
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173480.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/051199229973ae41c76fc4e3937bd1ba.jpg" group-title="GR: GREECE",GR: Nova Sports Premier League
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173481.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/de73266e565b305d3d2a46e15c265957.png" group-title="GR: GREECE",GR: Cosmote Cinema 1
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173506.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/0e8dda58f553b8b84df2c54ca1f2f265.png" group-title="GR: GREECE",GR: Cosmote Cinema 2
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173508.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/825f77189612363d5029d88a9a462f35.png" group-title="GR: GREECE",GR: Cosmote Cinema 3
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173510.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/741577426607c4edc1b3715338087cfd.jpg" group-title="GR: GREECE",GR: Cosmote Series
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173512.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/f04c446a6ae8c4fce3f4ad81de2057e9.png" group-title="GR: GREECE",GR: Cosmote Series Marathon
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173514.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/ac819319cc29db019215090519bb880e.png" group-title="GR: GREECE",GR: Nova Cinema 1
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173518.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/be1af3fb98399844fc31a57ccba42265.png" group-title="GR: GREECE",GR: Nova Cinema 2
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173519.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/e6c0109231937c86e098783a8bdb2090.png" group-title="GR: GREECE",GR: Nova Cinema 3
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173520.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/19b8a5f7bd45d979ad9d23d7ad7a4d2f.png" group-title="GR: GREECE",GR: Nova Cinema 4
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173522.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-06/d9bd877ebe9709a2a300e7126f51ac1f.jpeg" group-title="GR: GREECE",GR: Nova Premiere Comedy
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173524.m3u8
-#EXTINF:-1 tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="GR: GREECE",GR: Nova Premiere Drama
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173525.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-06/7ca7e0ba674af8743ba355053e643feb.jpeg" group-title="GR: GREECE",GR: Nova Premiere Hellenic
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173526.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-06/63a0c1c71632197ec9836d359f4a4e19.jpeg" group-title="GR: GREECE",GR: Nova Premiere History
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173527.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-06/57ee4d32508c5f0e8d33bc77ce80dfa1.jpeg" group-title="GR: GREECE",GR: Nova Premiere Mythology
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173528.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-06/9b3b83b79db4f75a3da4fc7df2a55874.jpeg" group-title="GR: GREECE",GR: Nova Premiere Passion
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173529.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-06/0e9c83a1cbe417a71853466b4e7c71cd.jpg" group-title="GR: GREECE",GR: Nova Premiere sci-fi
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173530.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-06/7470352060c9218167ace3f1ea664a9a.jpeg" group-title="GR: GREECE",GR: Nova Premiere Starz
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173531.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-06/d7cc80a1f6be9a37d39092ca37fbbc2c.jpeg" group-title="GR: GREECE",GR: Nova Premiere Thriller
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173532.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-06/3f45338cf76fa2e09b2ced6ce0d72682.jpeg" group-title="GR: GREECE",GR: Nova Premiere Western
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173533.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/b4e8d630b03456623df613f5952b7ea6.png" group-title="GR: GREECE",GR: Smile TV
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173534.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/2d7b1565cf401713d52365fbc3d9da78.png" group-title="GR: GREECE",GR: TCM
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173535.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/d19ec6dcb03605291a2af0d962cf5631.png" group-title="GR: GREECE",GR: Village Cinemas
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173536.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/f260da47c632b1c8c3e485e97a7a4c91.jpg" group-title="GR: GREECE",GR: Acheloos TV
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173538.m3u8
-#EXTINF:-1 tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="GR: GREECE",GR: Aeolos TV
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173539.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/37e6b89e117c1775ca82de2d1d19f23a.png" group-title="GR: GREECE",GR: Alert TV
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173540.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/faf0644b0a59dbbabaf6480d6fdea80b.png" group-title="GR: GREECE",GR: Alpha
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173541.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/b4860c5b37d9cb8a9e61560b1752bccd.png" group-title="GR: GREECE",GR: Ant1
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173542.m3u8
-#EXTINF:-1 tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="GR: GREECE",GR: Ant1 Comedy
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173543.m3u8
-#EXTINF:-1 tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="GR: GREECE",GR: Ant1 Drama
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173544.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/78c32e3c69a51fda90dc764c2edb71f7.jpg" group-title="GR: GREECE",GR: Delta TV
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173545.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/83d82ba45b8d3fad2dbebc4a1f6ad21d.png" group-title="GR: GREECE",GR: E!
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173546.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/313a5cc9b90a788b2c7f38acfa41d63f.png" group-title="GR: GREECE",GR: Ecclesia TV
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173547.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-08/0718d1ac205e331dfaad4464b7e4b658.png" group-title="GR: GREECE",GR: Ena Channel
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173548.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/4558dc462bb87d48088c3582c735392e.png" group-title="GR: GREECE",GR: ERT 1
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173549.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/35b54deb1b41476039a7fc88137922ba.png" group-title="GR: GREECE",GR: ERT 2
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173550.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/c0dce05d522b22eeae555acee65879e5.png" group-title="GR: GREECE",GR: ERT 3
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173551.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/30aa521ff2eb450b6ee2ac99847cb983.png" group-title="GR: GREECE",GR: ERT World
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173552.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-10/50bc1fcc9ef70e52700c9141ad100e23.png" group-title="GR: GREECE",GR: Food Network
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173553.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/0657a8099c4a6aacfcdf1571cd6e096d.png" group-title="GR: GREECE",GR: Ionian TV
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173554.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/63e99a818cf40d3c091811572f33570c.png" group-title="GR: GREECE",GR: Kriti TV
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173555.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/44207e4dd1b2136915bfbcfe97f5b547.png" group-title="GR: GREECE",GR: Mad Greekz
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173556.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/691a789fdf76e738acc4db0289b00166.png" group-title="GR: GREECE",GR: Mad TV
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173557.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-08/dbce56fb41eb0679e35546041ef59d14.svg" group-title="GR: GREECE",GR: Makedonia TV
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173558.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/8648ce3a1e9e42cafe0c33bd6b1d004f.jpg" group-title="GR: GREECE",GR: Nautical Channel
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173559.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/896bdbe36a620e4a31240f0d956bf7a3.png" group-title="GR: GREECE",GR: NET TV
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173560.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-05/f37cb092f6de39088079284923e36bca.svg" group-title="GR: GREECE",GR: One Channel
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173561.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/3d2437b31d56ffb42ee6655d7c7d888d.png" group-title="GR: GREECE",GR: Outdoor Channel
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173562.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-12/7657f14aaac06524c9910d646191e862.jpg" group-title="GR: GREECE",GR: Samiaki
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173563.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/099f6dd57fd9216f073a0a8c7579d2f9.png" group-title="GR: GREECE",GR: Skai
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173564.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-08/d9c6ceb618de6b7131dbf3c500a13c5c.jpg" group-title="GR: GREECE",GR: Star
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173565.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-08/707685db291af3231d600df6688535fa.png" group-title="GR: GREECE",GR: Star Kentrikis
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173566.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-08/5340dd38e7eeaaa4b7adddf39fdd0c72.jpg" group-title="GR: GREECE",GR: Start TV
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173567.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-06/654b4e044ffb4e4501fbdfe969524be7.jpeg" group-title="GR: GREECE",GR: Syros TV1
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173568.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/dc303e46f4cc07a3f0a27834bc2e054d.png" group-title="GR: GREECE",GR: ThrakiNet
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173569.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-01/d4bef0f835cc47bdfcf13e8d7a2079d4.svg" group-title="GR: GREECE",GR: TLC
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173570.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-02/cff959e95f1a780a177b5915cba79117.png" group-title="GR: GREECE",GR: Animal Planet
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173571.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-08/c7c45955e9fe0182ecfe71d11b18e552.png" group-title="GR: GREECE",GR: BBC Earth
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173572.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/3a6890d09f06711b6340f8ca8666cd29.png" group-title="GR: GREECE",GR: NAT GEO
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173573.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/db133939dc207e29ad2cef4f8a3e7a6a.png" group-title="GR: GREECE",GR: NAT GEO Wild
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173574.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/dc4d824a653e8fdd441214760457041d.jpg" group-title="GR: GREECE",GR: Cosmote History
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173575.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/c6b9f5012aeeb65c881bbb2b6a9c3553.png" group-title="GR: GREECE",GR: Crime+ Investigation
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173576.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/0d30c4f3c95445396249455231476c8e.png" group-title="GR: GREECE",GR: Discovery Channel
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173577.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-02/8c5d52a7f4a847096b53d02bed23246b.png" group-title="GR: GREECE",GR: History
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173578.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/0ea4518a7a48c23e0cfb954b241e612a.png" group-title="GR: GREECE",GR: Investigation Discovery
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173579.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/b46ab14ba2edb7b9585a70cbb0c0d2d7.png" group-title="GR: GREECE",GR: Travel Channel
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173580.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/feb67ff1235bec83c84f7a11e9d0d9d2.png" group-title="GR: GREECE",GR: Viasat Explore
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173581.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/49ea7b2ed365a17750f3601b8cafb468.png" group-title="GR: GREECE",GR: Viasat History
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173582.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-12/71444284c86ddda76b603e52d3309c66.jpg" group-title="GR: GREECE",GR: Xplore
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173583.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/b1d785ab71f0433787f7faf8d5ff7a9c.jpeg" group-title="GR: GREECE",GR: Alfa Dramas
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173584.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-02/71110217df5a910367f7fd19e062bb0e.png" group-title="GR: GREECE",GR: Art TV
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173585.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/a5667902bd16337188318a2a7679e01d.png" group-title="GR: GREECE",GR: Best TV
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173586.m3u8
-#EXTINF:-1 tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="GR: GREECE",GR: Cinema Time
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173587.m3u8
-#EXTINF:-1 tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="GR: GREECE",GR: Comedy Central
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173588.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-06/013c5ac59c9812091de2a1645e948414.png" group-title="GR: GREECE",GR: Egnatia TV
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173589.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/8a002055f19ee82e36cebb197022ac07.png" group-title="GR: GREECE",GR: Epsilon TV
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173590.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-12/ead030b9e2ba5bc2c7ec3894864ab7fb.jpg" group-title="GR: GREECE",GR: Greek TV London
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173591.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-06/47559e9e9e8ff92dde83fc9c916ddc87.png" group-title="GR: GREECE",GR: High TV
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173592.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/76704e685604363e904b2a5fc2701541.png" group-title="GR: GREECE",GR: Kontra
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173593.m3u8
-#EXTINF:-1 tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="GR: GREECE",GR: LUXE TV
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173594.m3u8
-#EXTINF:-1 tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="GR: GREECE",GR: Lychnos TV
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173595.m3u8
-#EXTINF:-1 tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="GR: GREECE",GR: Mad Viral
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173596.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-03/d45ffe235d7a38a65735c7ffd1a41a04.svg" group-title="GR: GREECE",GR: Naftemporiki TV
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173597.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/fd733a45202b55d3e34b43459f5462e8.png" group-title="GR: GREECE",GR: Nea TV
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173598.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-06/62f219a71b7d37c82b0f1231f658055a.png" group-title="GR: GREECE",GR: Notioi TV
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173599.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GR: GREECE",GR: Nova Premiere 1
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173600.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GR: GREECE",GR: Nova Premiere 10
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173601.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GR: GREECE",GR: Nova Premiere 11
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173602.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GR: GREECE",GR: Nova Premiere 12
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173603.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GR: GREECE",GR: Nova Premiere 13
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173604.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GR: GREECE",GR: Nova Premiere 14
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173605.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GR: GREECE",GR: Nova Premiere 15
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173606.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GR: GREECE",GR: Nova Premiere 16
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173607.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GR: GREECE",GR: Nova Premiere 17
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173608.m3u8
-#EXTINF:-1 tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="GR: GREECE",GR: Nova Premiere 18
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173609.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GR: GREECE",GR: Nova Premiere 2
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173610.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GR: GREECE",GR: Nova Premiere 3
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173611.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GR: GREECE",GR: Nova Premiere 3D
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173612.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GR: GREECE",GR: Nova Premiere 4
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173613.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GR: GREECE",GR: Nova Premiere 6 UHD
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173614.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GR: GREECE",GR: Nova Premiere 7 UHD
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173615.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GR: GREECE",GR: Nova Premiere 8
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173616.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GR: GREECE",GR: Nova Premiere 9
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173617.m3u8
-#EXTINF:-1 tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="GR: GREECE",GR: Nova Premiere Action
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173618.m3u8
-#EXTINF:-1 tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="GR: GREECE",GR: Nova Premiere Adventure
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173619.m3u8
-#EXTINF:-1 tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="GR: GREECE",GR: Nova Premiere Animation
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173620.m3u8
-#EXTINF:-1 tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="GR: GREECE",GR: Nova Premiere Biography
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173621.m3u8
-#EXTINF:-1 tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="GR: GREECE",GR: Nova Premiere Horror
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173622.m3u8
-#EXTINF:-1 tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="GR: GREECE",GR: Nova Thrones
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173623.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-02/ccc7d33bda7c4e35190fbeb23f5eaca4.jpg" group-title="GR: GREECE",GR: ANT1+
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173433.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/62547d689e276b9a6d07c9f799a3a5d3.png" group-title="GR: GREECE",GR: Mega TV
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173502.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/4853d464c94bb80720306c3698475887.png" group-title="GR: GREECE",GR: Sigma
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173487.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-05/be8108cc2b46fe616cb0ca9944244248.png" group-title="GR: GREECE",GR: Panik TV
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173624.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-06/16cef99bf051e6f9195a7c98a7e1feeb.png" group-title="GR: GREECE",GR: Pella
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173625.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/41b1a3944684c0971160746c77d80eeb.png" group-title="GR: GREECE",GR: RIK Sat
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173626.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/3e3ce006f856b006df5880dc5abed503.jpg" group-title="GR: GREECE",GR: TV Creta
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173627.m3u8
-#EXTINF:-1 tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="GR: GREECE",GR: Vitrína Nova Premiere
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173628.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/5a5de46974c1119e49551cedee91518a.jpeg" group-title="GR: GREECE",GR: Zouzounia TV
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173629.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/e2e4af43dcf882dab61fb4257a63c847.png" group-title="GR: GREECE",GR: Βουλή TV (Vouli TV)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173630.m3u8
-#EXTINF:-1 tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="GR: GREECE",GR: Βουλή Τηλεόραση 2
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173631.m3u8
-#EXTINF:-1 tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="GR: GREECE",GR: Βουλή Τηλεόραση 3
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173632.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/f788bcac32ac0fa2c85d6174ac269779.png" group-title="GR: GREECE",GR: Baby TV
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173427.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/c545eaa8732573bf16be856f8983434f.png" group-title="GR: GREECE",GR: Cartoonito
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173428.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/3ee2235b85aa63606ecd1896e7b5e075.png" group-title="GR: GREECE",GR: Disney Junior
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173429.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/75baab9a632c261c25fc6e9341ccdca0.jpg" group-title="GR: GREECE",GR: Duck TV
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173430.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/5b88c4f5f42b76aa120c80e48103b672.png" group-title="GR: GREECE",GR: IDJ Kids
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173431.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/3e94c4a67d568865d1c916fffb36c2ab.png" group-title="GR: GREECE",GR: nickelodeon
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173432.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/c54b1bdc6932cd667b9e3bb9bfd2c034.jpg" group-title="GR: GREECE",GR: Baraza Music TV
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173488.m3u8
-#EXTINF:-1 tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="GR: GREECE",GR: Baraza TV Deep House
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173489.m3u8
-#EXTINF:-1 tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="GR: GREECE",GR: Baraza TV Relaxing
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173490.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GR: GREECE",GR: Magic TV
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173491.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-06/ea73553fe0ccc12275704ca993ff3518.png" group-title="GR: GREECE",GR: NRG 91
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173492.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="GR: GREECE",GR: Play TV
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173493.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/750bf13ec4a4bc3c519515d4b9233c18.png" group-title="GR: GREECE",GR: Reload
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173494.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/1d065e49b398293c9566b617d9981016.jpg" group-title="GR: GREECE",GR: Tile Mousiki
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173495.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/855a4dce8c565d3037348adb087a727e.jpeg" group-title="GR: GREECE",GR: Zougla TV
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173496.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/5ad763ac7359ee6c14d1b482025eeae2.png" group-title="GR: GREECE",GR: Action 24
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173497.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-06/2ab927a092bfd1d45542dcb0d1c4b5e8.svg" group-title="GR: GREECE",GR: CNN International
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173498.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-06/312cb288ce56542a76852e98ab210816.png" group-title="GR: GREECE",GR: Corfu Channel
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173499.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/190ce1c1de075485561d6a615446ea37.png" group-title="GR: GREECE",GR: ERT News
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173500.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-03/f64813e6cd82247f9110aa616b4765a6.png" group-title="GR: GREECE",GR: euronews
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173501.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/5494379bcbe72f7c7992d3a33126ab1b.png" group-title="GR: GREECE",GR: Open Beyond TV
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173503.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/34848e318115ba2f03a9ffea0b342894.jpg" group-title="GR: GREECE",GR: TV 100
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173504.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-11/6186222cb5595415bc6dd4611c6c9b17.png" group-title="GR: GREECE",GR: FX
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173515.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-11/efa477a6f7a649faa01d9a774354ac6f.svg" group-title="GR: GREECE",GR: FX Life
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173516.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-12/b6818719145665f27eae93d87868501e.jpg" group-title="GR: GREECE",GR: Groovy TV
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173517.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/68e5cfe60a008b6dc31c59fd4ddc1d3a.png" group-title="GR: GREECE",GR: Nova Life
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173523.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/ad3256b481e0d9bede40d46f0f62da0e.png" group-title="GR: GREECE",GR: 4E
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173537.m3u8
-#EXTINF:-1 tvg-logo="" group-title="GR: GREECE",
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/173426.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GR: GREECE",|GR| Cosmote Sport 1
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/182101.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GR: GREECE",|GR| Cosmote Sport 2
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/182102.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GR: GREECE",|GR| Cosmote Sport 3
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/182103.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GR: GREECE",|GR| Cosmote Sport 4
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/182104.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GR: GREECE",|GR| Cosmote Sport 5
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/182095.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GR: GREECE",|GR| Cosmote Sport 6
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/182096.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GR: GREECE",|GR| Cosmote Sport 7
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/182097.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GR: GREECE",|GR| Cosmote Sport 8
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/182098.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GR: GREECE",||GR|| Cosmote Sport 9 HD
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/182068.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GR: GREECE",|GR|  Cytavision Sports 1 HD
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/182090.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GR: GREECE",|GR| Cytavision Sports 2 HD
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/182087.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GR: GREECE",|GR| Cytavision Sports 3 HD
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/182091.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GR: GREECE",|GR| Cytavision Sports 5 HD
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/182092.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GR: GREECE",|GR| Cytavision Sports 6 HD
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/182086.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GR: GREECE",|GR| Cytavision Sports 7 HD
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/182085.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GR: GREECE",|GR|  Cosmote Sport HGH HD
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/182093.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GR: GREECE",|GR| Baraza Music HD
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/182083.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GR: GREECE",|GR| NRG 91 HD
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/182084.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GR: GREECE",|GR| Cosmote Cinema 1
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/182088.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GR: GREECE",||GR|| COSMOTE CINEMA 2
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/182070.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GR: GREECE",|GR| Cosmote Cinema 4
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/182089.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GR: GREECE",|GR| Nova Sport 1
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/182094.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GR: GREECE",|GR| Nova Sport 2
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/182099.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GR: GREECE",|GR| Nova Sport 3
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/182100.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GR: GREECE",|GR| ERT 1
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/182072.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GR: GREECE",|GR| ERT 2
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/182073.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GR: GREECE",|GR| ERT 3
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/182074.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GR: GREECE",|GR| Creta HD
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/182075.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GR: GREECE",|GR| Alpha TV
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/182076.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GR: GREECE",|GR| ANT1 HD
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/182077.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GR: GREECE",|GR| Makedonia
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/182078.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GR: GREECE",|GR| Food Network
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/182079.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GR: GREECE",|GR| Net TV Toronto
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/182080.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GR: GREECE",|GR| Rik Sat CY
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/182081.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GR: GREECE",|GR| Open Beyond HD
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/182082.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GR: GREECE",||GR|| EPT NEWS HD
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/182066.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GR: GREECE",||GR|| BABY TV
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/182067.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GR: GREECE",||GR|| SIGMA
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/182069.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GR: GREECE",|GR| Nea TV
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/182071.m3u8
 
 # --- HU: HUNGARY (89) ---
 #EXTINF:-1 tvg-logo="" group-title="HU: HUNGARY",##### HUNGARY #####
@@ -6427,4 +6309,4 @@ http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/165984.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/3pkpdut.png" group-title="WORLD SPORTS",beiN SPORTS 3 FHD
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/165948.m3u8
 
-# Total: 3153
+# Total: 3094

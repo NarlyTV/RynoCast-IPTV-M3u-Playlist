@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: nocable.cc:8080
-# Generated: 2026-04-28 08:10:01
+# Generated: 2026-04-29 08:11:33
 # Expires: 2026-05-08
 # Family Safe Edition
 # ==============================================
@@ -6723,7 +6723,7 @@ http://nocable.cc:8080/movie/28148830/68208395/267041.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/abdw51gf1oy3UWllAwqGl6WdkiS.jpg" group-title="Movies | 2025 MOVIES",The President's Cake (2025)
 http://nocable.cc:8080/movie/28148830/68208395/267042.mp4
 
-# --- Movies | 2026 Movies (198) ---
+# --- Movies | 2026 Movies (203) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cfQ4JLfoACcjGIqm0AQB98IwwwN.jpg" group-title="Movies | 2026 Movies",Little Flowers (2026)
 http://nocable.cc:8080/movie/28148830/68208395/265489.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/znTPnXCK3lEQJgqXCvP7e5FUz6f.jpg" group-title="Movies | 2026 Movies",Pretty Lethal (2026)
@@ -7120,6 +7120,16 @@ http://nocable.cc:8080/movie/28148830/68208395/317718.mp4
 http://nocable.cc:8080/movie/28148830/68208395/317719.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vKh6w3v6XbiKbXDNKqMH5u8ZF2o.jpg" group-title="Movies | 2026 Movies",Unauthorized Love (2026)
 http://nocable.cc:8080/movie/28148830/68208395/317720.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xIMztBQuU2mtqob154LMWmEkq8A.jpg" group-title="Movies | 2026 Movies",Anywhere (2025)
+http://nocable.cc:8080/movie/28148830/68208395/318366.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/42ZOQsV47jvWAeVijAoa13EK8Iz.jpg" group-title="Movies | 2026 Movies",Beyond the Game: Samurai 2026 WORLD BASEBALL CLASSIC (2026)
+http://nocable.cc:8080/movie/28148830/68208395/318367.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i1ATD9Cjf4jGiAMd5mz6PknRWyn.jpg" group-title="Movies | 2026 Movies",Rockabye (2026)
+http://nocable.cc:8080/movie/28148830/68208395/318368.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/afSUoOxq0oAVQcQzUfWMvcEc8vO.jpg" group-title="Movies | 2026 Movies",The Caretaker (2026)
+http://nocable.cc:8080/movie/28148830/68208395/318369.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6oI4oQKTWMVUlr8Ivqydp28Ruu6.jpg" group-title="Movies | 2026 Movies",They Will Kill You (2026)
+http://nocable.cc:8080/movie/28148830/68208395/318370.mp4
 
 # --- Movies | Action Movies (1603) ---
 #EXTINF:-1 tvg-logo="None" group-title="Movies | Action Movies",'71 (2014)
@@ -29195,4 +29205,4 @@ http://nocable.cc:8080/series/28148830/68208395/2354
 #EXTINF:-1 tvg-logo="" group-title="Series | All Series",Young Justice
 http://nocable.cc:8080/series/28148830/68208395/2360
 
-# Total: 14537
+# Total: 14542
