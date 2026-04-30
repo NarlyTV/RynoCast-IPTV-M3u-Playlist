@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: squid.game-tv.org:8080
-# Generated: 2026-04-30 08:20:08
+# Generated: 2026-04-30 19:35:15
 # Expires: 2026-07-17
 # Family Safe Edition
 # ==============================================
@@ -17143,6 +17143,10 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/709.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Ginny & Georgia",Ginny & Georgia
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/73.mp4
 
+# --- Movies | Girl Taken (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | Girl Taken",Girl Taken (2026)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1261.mp4
+
 # --- Movies | Girl from Nowhere The Reset (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Girl from Nowhere The Reset",Girl from Nowhere: The Reset (2026)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1232.mp4
@@ -20571,4 +20575,4 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/383.mp4
 #EXTINF:-1 tvg-logo="" group-title="Series | A Series of Unfortunate Events",A Series of Unfortunate Events
 http://squid.game-tv.org:8080/series/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/276
 
-# Total: 8996
+# Total: 8997

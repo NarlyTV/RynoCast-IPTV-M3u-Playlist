@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: canal-pro.xyz:8080
-# Generated: 2026-04-30 08:16:27
+# Generated: 2026-04-30 19:31:00
 # Expires: 2026-05-11
 # Family Safe Edition
 # ==============================================
@@ -1327,9 +1327,7 @@ http://canal-pro.xyz:8080/movie/54923073/b48ygdD8d/3705.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tuvyXg8sLEEMU8thQupZk52dwor.jpg" group-title="Movies | → VOD ACCIÓN ←",La mercenaria (2020)
 http://canal-pro.xyz:8080/movie/54923073/b48ygdD8d/265404.mp4
 
-# --- Movies | → VOD ANIME ← (39) ---
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1XSTjORhsqSQgdYTzHrAuPDVC2.jpg" group-title="Movies | → VOD ANIME ←",Persepolis
-http://canal-pro.xyz:8080/movie/54923073/b48ygdD8d/280991.mkv
+# --- Movies | → VOD ANIME ← (38) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f09x6QhTC702Gu0F14NszBfqCiO.jpg" group-title="Movies | → VOD ANIME ←",Mononoke: El fantasma bajo la lluvia (2024)
 http://canal-pro.xyz:8080/movie/54923073/b48ygdD8d/267419.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iaiy3tg9QVkDpObm1IGqmbC9A5C.jpg" group-title="Movies | → VOD ANIME ←",Your Name
@@ -18801,7 +18799,7 @@ http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2569
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DOCUMENTALES ←",Hulk Hogan: Real American
 http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2574
 
-# --- Series | → SERIES DRAMA ← (305) ---
+# --- Series | → SERIES DRAMA ← (304) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DRAMA ←",4 Blocks
 http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/7
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DRAMA ←",Por trece razones
@@ -19410,8 +19408,6 @@ http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2558
 http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2559
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DRAMA ←",La Pasion
 http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2565
-#EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DRAMA ←",La Casa de los Espiritus
-http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2575
 
 # --- Series | → SERIES INFANTILES ← (44) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES INFANTILES ←",¡La serie de Cuphead!
@@ -19937,4 +19933,4 @@ http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2345
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES TERROR-THRILLER-SUSPENSO ←",It: Bienvenidos a Derry
 http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2492
 
-# Total: 9892
+# Total: 9890

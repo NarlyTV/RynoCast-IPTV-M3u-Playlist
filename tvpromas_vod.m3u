@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: tvpromas.com:8080
-# Generated: 2026-04-30 08:12:53
+# Generated: 2026-04-30 19:30:42
 # Expires: 2027-01-08
 # Family Safe Edition
 # ==============================================
@@ -5895,7 +5895,7 @@ http://tvpromas.com:8080/movie/stksared/9520/133558.mp4
 #EXTINF:-1 tvg-logo="None" group-title="Movies | AVENTURA",Sherlock Holmes 2 2011 1080p DUAL 10.8 GB
 http://tvpromas.com:8080/movie/stksared/9520/133559.mkv
 
-# --- Movies | CIENCIA FICCION (407) ---
+# --- Movies | CIENCIA FICCION (406) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hJhjEpSlKGOIuaZg6sPJB9I75RV.jpg" group-title="Movies | CIENCIA FICCION",2012 (2009)
 http://tvpromas.com:8080/movie/stksared/9520/321.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7EKGHMsm3nv87wvlqD7HBZYgAeP.jpg" group-title="Movies | CIENCIA FICCION",3022 (2019)
@@ -6708,8 +6708,6 @@ http://tvpromas.com:8080/movie/stksared/9520/2499.mp4
 http://tvpromas.com:8080/movie/stksared/9520/2513.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | CIENCIA FICCION",El caballero de los Siete Reinos
 http://tvpromas.com:8080/movie/stksared/9520/2552.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | CIENCIA FICCION",Game of Thrones
-http://tvpromas.com:8080/movie/stksared/9520/2603.mp4
 
 # --- Movies | CINE CHILENO (87) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5K0Fxf5QApAqCAsAVKzPVzwempt.jpg" group-title="Movies | CINE CHILENO",03:34 Terremoto en Chile (2011)
@@ -22761,4 +22759,4 @@ http://tvpromas.com:8080/series/stksared/9520/2579
 #EXTINF:-1 tvg-logo="" group-title="Series | TELESERIES",Hermanas, un amor compartido
 http://tvpromas.com:8080/series/stksared/9520/2580
 
-# Total: 11345
+# Total: 11344
