@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: 7semfronteiras.cc
-# Generated: 2026-04-29 19:28:25
+# Generated: 2026-04-30 08:10:34
 # Expires: 2026-05-11
 # Family Safe Edition
 # ==============================================
@@ -507,11 +507,19 @@ http://7semfronteiras.cc/live/normaregina/982451290/277340.m3u8
 #EXTINF:-1 tvg-logo="http://7logos.top/logos/recordfhd.png" group-title="CANAIS | BAND",BAND CEARA FHD²
 http://7semfronteiras.cc/live/normaregina/982451290/336454.m3u8
 
-# --- CANAIS | BBB 2026 (2) ---
-#EXTINF:-1 tvg-logo="http://7logos.top/logos/bbb_hd.png" group-title="CANAIS | BBB 2026",BBB 2026 MOSAICO HD¹
-http://7semfronteiras.cc/live/normaregina/982451290/342933.m3u8
-#EXTINF:-1 tvg-logo="http://7logos.top/logos/bbb_hd.png" group-title="CANAIS | BBB 2026",BBB 2026 MOSAICO HD²
-http://7semfronteiras.cc/live/normaregina/982451290/342922.m3u8
+# --- CANAIS | CASA DO PATRAO (6) ---
+#EXTINF:-1 tvg-logo="http://32q0d.xyz/images/casapatrao/casadopatraosalacozinha.png" group-title="CANAIS | CASA DO PATRAO",Casa do Patrão Sala e Cozinha (Casa Trampo)
+http://7semfronteiras.cc/live/normaregina/982451290/364459.m3u8
+#EXTINF:-1 tvg-logo="http://32q0d.xyz/images/casapatrao/casadopatraoquartocoletivo.png" group-title="CANAIS | CASA DO PATRAO",Casa do Patrão Quarto Coletivo (Casa Trampo)
+http://7semfronteiras.cc/live/normaregina/982451290/364460.m3u8
+#EXTINF:-1 tvg-logo="http://32q0d.xyz/images/casapatrao/casadopatraosuitedopatrao.png" group-title="CANAIS | CASA DO PATRAO",Casa do Patrão Suíte do Patrão
+http://7semfronteiras.cc/live/normaregina/982451290/364461.m3u8
+#EXTINF:-1 tvg-logo="http://32q0d.xyz/images/casapatrao/casadopatraoquartodosparcas.png" group-title="CANAIS | CASA DO PATRAO",Casa do Patrão Quarto dos Parças
+http://7semfronteiras.cc/live/normaregina/982451290/364462.m3u8
+#EXTINF:-1 tvg-logo="http://32q0d.xyz/images/casapatrao/casadopatraoconvivencia.png" group-title="CANAIS | CASA DO PATRAO",Casa do Patrão Casa Convivência
+http://7semfronteiras.cc/live/normaregina/982451290/364463.m3u8
+#EXTINF:-1 tvg-logo="http://32q0d.xyz/images/casapatrao/casadopatraopiscina.png" group-title="CANAIS | CASA DO PATRAO",Casa do Patrão Piscina
+http://7semfronteiras.cc/live/normaregina/982451290/364464.m3u8
 
 # --- CANAIS | COMBATE (16) ---
 #EXTINF:-1 tvg-logo="http://7logos.top/logos/combatefhdmax.png" group-title="CANAIS | COMBATE",COMBATE FHD MAX²
@@ -3253,4 +3261,4 @@ http://7semfronteiras.cc/live/normaregina/982451290/197699.m3u8
 #EXTINF:-1 tvg-logo="http://free-image-hosting.top/logos/espaco_cliente_ufc.png" group-title="ESPAÇO DO CLIENTE",CALENDÁRIO UFC
 http://7semfronteiras.cc/live/normaregina/982451290/197701.m3u8
 
-# Total: 1580
+# Total: 1584

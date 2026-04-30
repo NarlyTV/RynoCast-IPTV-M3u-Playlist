@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: tvpremiund.ddns.me:2082
-# Generated: 2026-04-29 19:33:21
+# Generated: 2026-04-30 08:11:55
 # Expires: 2026-05-14
 # Family Safe Edition
 # ==============================================
@@ -6710,10 +6710,10 @@ http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/2493.mp4
 http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/2499.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | CIENCIA FICCION",La Brea
 http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/2513.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | CIENCIA FICCION",Juego de Tronos
-http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/2545.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | CIENCIA FICCION",El caballero de los Siete Reinos
 http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/2552.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | CIENCIA FICCION",Game of Thrones
+http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/2603.mp4
 
 # --- Movies | CINE CHILENO (87) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5K0Fxf5QApAqCAsAVKzPVzwempt.jpg" group-title="Movies | CINE CHILENO",03:34 Terremoto en Chile (2011)
@@ -7711,7 +7711,7 @@ http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/80844.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dOboKSPT9PPZFKhOya3YHrY4rHn.jpg" group-title="Movies | CINE PERUANO",¿Mi Novia es Él? (2019)
 http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/80845.mp4
 
-# --- Movies | COMEDIA (1088) ---
+# --- Movies | COMEDIA (1089) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hxtvnvWdeibiDc6mU5ftAUPGofe.jpg" group-title="Movies | COMEDIA",4 Latas (2019)
 http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/5863.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nITLSFHonQJGVrnfDzfNqvtbOjO.jpg" group-title="Movies | COMEDIA",Ace Ventura 1: Detective de Mascotas (1994)
@@ -9888,6 +9888,8 @@ http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/2568.mp4
 http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/2573.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | COMEDIA",Malcolm: De mal en peor
 http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/2588.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | COMEDIA",Errores épicos
+http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/2601.mp4
 
 # --- Movies | CONCIERTOS & SHOWS (349) ---
 #EXTINF:-1 tvg-logo="https://s33.postimg.cc/evlncu9vj/Americo_-_Vi_a_del_Mar_2011.jpg" group-title="Movies | CONCIERTOS & SHOWS",Américo - Viña del Mar (2011)
@@ -10589,7 +10591,7 @@ http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/89336.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mdjD1JRmZvHrmG69C4NJSaVVkYq.jpg" group-title="Movies | CONCIERTOS & SHOWS",Ricardo Arjona Festival de Viña del Mar (2015)
 http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/89337.mp4
 
-# --- Movies | CRIMEN & MISTERIO (172) ---
+# --- Movies | CRIMEN & MISTERIO (173) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | CRIMEN & MISTERIO",La primera muerte
 http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/857.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | CRIMEN & MISTERIO",61st Street
@@ -10934,6 +10936,8 @@ http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/2583.mp4
 http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/2584.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | CRIMEN & MISTERIO",La caza
 http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/2587.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | CRIMEN & MISTERIO",Si los deseos mataran...
+http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/2599.mp4
 
 # --- Movies | DISNEY (211) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rzUvS1tW6WuJHYB4bbFOW89aNVc.jpg" group-title="Movies | DISNEY",101 dálmatas: ¡Ahora la magia es real! (1996)
@@ -12265,7 +12269,7 @@ http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/2590.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DOCUMENTALES",Hulk Hogan: Real American
 http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/2596.mp4
 
-# --- Movies | DRAMA (1371) ---
+# --- Movies | DRAMA (1373) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8YcjGJtW4AEHyNH8yrs8FAaPBM.jpg" group-title="Movies | DRAMA",12 valientes (2018)
 http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/3344.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1XbNkZMLXD9dYGZJ87nmQ62Mp2l.jpg" group-title="Movies | DRAMA",127 Horas (2010)
@@ -15008,6 +15012,10 @@ http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/2595.mp4
 http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/2597.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DRAMA",Los testamentos: De las hijas de Gilead
 http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/2598.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | DRAMA",Bandi
+http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/2600.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | DRAMA",En Busca del Jade
+http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/2602.mp4
 
 # --- Movies | INFANTILES (912) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gp7d1OGYpBGyG5E6fr1fMi01bvK.jpg" group-title="Movies | INFANTILES",Abominable (2019)
@@ -22759,4 +22767,4 @@ http://tvpremiund.ddns.me:2082/series/56972393798wspzero/271224zero/2579
 #EXTINF:-1 tvg-logo="" group-title="Series | TELESERIES",Hermanas, un amor compartido
 http://tvpremiund.ddns.me:2082/series/56972393798wspzero/271224zero/2580
 
-# Total: 11344
+# Total: 11348

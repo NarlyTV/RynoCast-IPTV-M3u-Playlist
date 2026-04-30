@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: blackiptv.net:8080
-# Generated: 2026-04-29 19:38:07
+# Generated: 2026-04-30 08:23:45
 # Expires: 2026-12-21
 # Family Safe Edition
 # ==============================================
@@ -12006,11 +12006,11 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1318.mp4
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1834.mp4
 
 # --- Movies | TR/DIZI ~ CARSAMBA (4) ---
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pYr58J7eePyXbUpUA9jhxPsabum.jpg" group-title="Movies | TR/DIZI ~ CARSAMBA",CAR: Esref Ruya 41.Bölüm
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pYr58J7eePyXbUpUA9jhxPsabum.jpg" group-title="Movies | TR/DIZI ~ CARSAMBA",CAR: Esref Ruya 42.Bölüm
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/44385.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k1FZ5cpY9kDaHrVpCFlZTlkcCkP.jpg" group-title="Movies | TR/DIZI ~ CARSAMBA",CAR: Sahipsizler 51.Bölüm
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/377.mp4
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1kEgzEvhJmw5eSxuGwn0o1cgHlK.jpg" group-title="Movies | TR/DIZI ~ CARSAMBA",CAR: Kurulus Orhan 21.Bölüm
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1kEgzEvhJmw5eSxuGwn0o1cgHlK.jpg" group-title="Movies | TR/DIZI ~ CARSAMBA",CAR: Kurulus Orhan 22.Bölüm
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/5148.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bu8ks983hBPEzyAH8gSATW5aPJ7.jpg" group-title="Movies | TR/DIZI ~ CARSAMBA",CAR: Yeralti 12.Bölüm  (Yeni Dizi)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/28472.mp4
@@ -12081,7 +12081,9 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/26836.mp4
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zgVgcthDQ8pYgBkKzi1AaXmmeFO.jpg" group-title="Movies | TR/DIZI ~ CUMARTESI",CMT: Sahtekarlar 22.Bölüm (YENI GÜNÜNDE)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/60873.mp4
 
-# --- Movies | TR/DIZI ~ DISNEY + (90) ---
+# --- Movies | TR/DIZI ~ DISNEY + (91) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ DISNEY +",Daredevil: Born Again (2025) TR
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/2181.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ DISNEY +",Star Wars: Maul - Shadow Lord (2026) TR
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/2155.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ DISNEY +",Scrubs (2026) TR
@@ -12753,9 +12755,19 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1637.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ HBO MAX/BLUTV",The Chair Company (2025)
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/1658.mp4
 
-# --- Movies | TR/DIZI ~ NETFLIX (DUAL) (519) ---
+# --- Movies | TR/DIZI ~ NETFLIX (DUAL) (524) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ NETFLIX (DUAL)",Jene Nacht (2026) TR
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/2101.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ NETFLIX (DUAL)",Göklerin Ajanı (2026) TR
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/2180.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ NETFLIX (DUAL)",Düzenbazlık Oyunları: Dizi (2026) TR
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/2179.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ NETFLIX (DUAL)",Sins of Kujo (2026) TR
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/2178.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ NETFLIX (DUAL)",Kim Demiş Kötüyüz Diye? - Dizi (2025) TR
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/2177.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ NETFLIX (DUAL)",Younger (2015) TR
+http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/2176.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ NETFLIX (DUAL)",Santita (2026) TR
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/2169.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR/DIZI ~ NETFLIX (DUAL)",Hırsızlar (2024) TR
@@ -22745,4 +22757,4 @@ http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/71030.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t8EQllq34VC5mooiJw1vVFOlM4x.jpg" group-title="Movies | TR/FILM ~ YILBASI ÖZEL",O Ses Türkiye  Yilbasi Özel 2025
 http://blackiptv.net:8080/movie/Resulgonul/4YkXmwCGOo/54778.mp4
 
-# Total: 11221
+# Total: 11227
