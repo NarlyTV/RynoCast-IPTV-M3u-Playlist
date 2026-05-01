@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: tkosportz.live:25461
-# Generated: 2026-04-30 19:22:47
+# Generated: 2026-05-01 19:05:22
 # Expires: 2026-05-09
 # Family Safe Edition
 # ==============================================
@@ -5199,7 +5199,7 @@ http://tkosportz.live:25461/movie/7ZqLNT55bg/MPbYZEULdx/2643.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Mystery",The Rainmaker
 http://tkosportz.live:25461/movie/7ZqLNT55bg/MPbYZEULdx/2645.mp4
 
-# --- Movies | NEW RELEASE (721) ---
+# --- Movies | NEW RELEASE (720) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c47I6r4PXWrbQ09lW9AkCe5OZtk.jpg" group-title="Movies | NEW RELEASE",Opry 100: A Live Celebration (2025)
 http://tkosportz.live:25461/movie/7ZqLNT55bg/MPbYZEULdx/180878.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tSkMkPyIT80YUc5RVRJNJ6Ps13G.jpg" group-title="Movies | NEW RELEASE",Sight (2024)
@@ -5542,8 +5542,6 @@ http://tkosportz.live:25461/movie/7ZqLNT55bg/MPbYZEULdx/100730.mp4
 http://tkosportz.live:25461/movie/7ZqLNT55bg/MPbYZEULdx/100733.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zDi2U7WYkdIoGYHcYbM9X5yReVD.jpg" group-title="Movies | NEW RELEASE",The Idea of You (2024)
 http://tkosportz.live:25461/movie/7ZqLNT55bg/MPbYZEULdx/100734.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tMefBSflR6PGQLv7WvFPpKLZkyk.jpg" group-title="Movies | NEW RELEASE",Godzilla x Kong: The New Empire (2024)
-http://tkosportz.live:25461/movie/7ZqLNT55bg/MPbYZEULdx/100736.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zuSAZIG1PSrxFwPeAlGtg9LTwxo.jpg" group-title="Movies | NEW RELEASE",Sting (2024)
 http://tkosportz.live:25461/movie/7ZqLNT55bg/MPbYZEULdx/101995.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8aF0iAKH9MJMYAZdi0Slg77RYa2.jpg" group-title="Movies | NEW RELEASE",The Ministry of Ungentlemanly Warfare (2024)
@@ -6901,7 +6899,7 @@ http://tkosportz.live:25461/movie/7ZqLNT55bg/MPbYZEULdx/104301.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4ssDuvEDkSArWEdyBl2X5EHvYKU.jpg" group-title="Movies | SUPERHEROS/MARVEL/DC",Avengers: Age of Ultron (2015)
 http://tkosportz.live:25461/movie/7ZqLNT55bg/MPbYZEULdx/104302.mp4
 
-# --- Movies | SY-FY (200) ---
+# --- Movies | SY-FY (202) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t7EUMSlfUN3jUSZUJOLURAzJzZs.jpg" group-title="Movies | SY-FY",Shadow in the Cloud (2020)
 http://tkosportz.live:25461/movie/7ZqLNT55bg/MPbYZEULdx/8516.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/13B6onhL6FzSN2KaNeQeMML05pS.jpg" group-title="Movies | SY-FY",Breach (2020)
@@ -7288,6 +7286,8 @@ http://tkosportz.live:25461/movie/7ZqLNT55bg/MPbYZEULdx/96577.mp4
 http://tkosportz.live:25461/movie/7ZqLNT55bg/MPbYZEULdx/96852.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zKpLzzX1va6gkMJiI9p3DudqChe.jpg" group-title="Movies | SY-FY",Monolith (2023)
 http://tkosportz.live:25461/movie/7ZqLNT55bg/MPbYZEULdx/100638.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tMefBSflR6PGQLv7WvFPpKLZkyk.jpg" group-title="Movies | SY-FY",Godzilla x Kong: The New Empire (2024)
+http://tkosportz.live:25461/movie/7ZqLNT55bg/MPbYZEULdx/100736.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tRLTw0bWIoHmgaEMk3UxoUTp5w.jpg" group-title="Movies | SY-FY",War of the Worlds: Extinction (2024)
 http://tkosportz.live:25461/movie/7ZqLNT55bg/MPbYZEULdx/105690.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k3mW4qfJo6SKqe6laRyNGnbB9n5.jpg" group-title="Movies | SY-FY",Predator (1987)
@@ -7302,6 +7302,8 @@ http://tkosportz.live:25461/movie/7ZqLNT55bg/MPbYZEULdx/217913.mp4
 http://tkosportz.live:25461/movie/7ZqLNT55bg/MPbYZEULdx/217914.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gKY6q7SjCkAU6FqvqWybDYgUKIF.jpg" group-title="Movies | SY-FY",Avatar (2009)
 http://tkosportz.live:25461/movie/7ZqLNT55bg/MPbYZEULdx/224244.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xJVl1I95StraYAwaNbBkVoWE2qA.jpg" group-title="Movies | SY-FY",Godzilla (1998)
+http://tkosportz.live:25461/movie/7ZqLNT55bg/MPbYZEULdx/240979.mp4
 
 # --- Movies | Sci-Fi & Fantasy (93) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Sci-Fi & Fantasy",Earth Abides
@@ -7695,4 +7697,4 @@ http://tkosportz.live:25461/movie/7ZqLNT55bg/MPbYZEULdx/2673.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Western",Gunsmoke
 http://tkosportz.live:25461/movie/7ZqLNT55bg/MPbYZEULdx/2704.mp4
 
-# Total: 3802
+# Total: 3803

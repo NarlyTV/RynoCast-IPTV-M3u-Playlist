@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: blackiptv.net:8080
-# Generated: 2026-04-30 19:37:28
+# Generated: 2026-05-01 19:09:42
 # Expires: 2026-12-21
 # Family Safe Edition
 # ==============================================
@@ -1250,7 +1250,7 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/1888.m3u8
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/56468.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BULGARIA",BG: BTV COMEDY
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/56469.m3u8
-#EXTINF:-1 tvg-logo="" group-title="BULGARIA",BG: BTV ACTION
+#EXTINF:-1 tvg-logo="https://www.shareicon.net/data/2015/07/23/73642_flag_256x256.png" group-title="BULGARIA",BG: BTV ACTION
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/1889.m3u8
 #EXTINF:-1 tvg-logo="" group-title="BULGARIA",BG: BTV CINEMA
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/1900.m3u8
