@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: tvpremiund.ddns.me:2082
-# Generated: 2026-05-01 19:15:10
+# Generated: 2026-05-02 08:13:29
 # Expires: 2026-05-14
 # Family Safe Edition
 # ==============================================
@@ -5897,7 +5897,7 @@ http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/133558.mp4
 #EXTINF:-1 tvg-logo="None" group-title="Movies | AVENTURA",Sherlock Holmes 2 2011 1080p DUAL 10.8 GB
 http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/133559.mkv
 
-# --- Movies | CIENCIA FICCION (407) ---
+# --- Movies | CIENCIA FICCION (408) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hJhjEpSlKGOIuaZg6sPJB9I75RV.jpg" group-title="Movies | CIENCIA FICCION",2012 (2009)
 http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/321.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7EKGHMsm3nv87wvlqD7HBZYgAeP.jpg" group-title="Movies | CIENCIA FICCION",3022 (2019)
@@ -6712,6 +6712,8 @@ http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/2499.mp4
 http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/2513.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | CIENCIA FICCION",El caballero de los Siete Reinos
 http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/2552.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | CIENCIA FICCION",Game of Thrones
+http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/2605.mp4
 
 # --- Movies | CINE CHILENO (87) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5K0Fxf5QApAqCAsAVKzPVzwempt.jpg" group-title="Movies | CINE CHILENO",03:34 Terremoto en Chile (2011)
@@ -9786,8 +9788,6 @@ http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/2220.mp4
 http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/2235.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | COMEDIA",Bookie
 http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/2236.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | COMEDIA",El Encargado
-http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/2237.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | COMEDIA",Líos de Familia
 http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/2238.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | COMEDIA",Los amateurs
@@ -9888,6 +9888,8 @@ http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/2573.mp4
 http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/2588.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | COMEDIA",Errores épicos
 http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/2601.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | COMEDIA",El encargado
+http://tvpremiund.ddns.me:2082/movie/56972393798wspzero/271224zero/2604.mp4
 
 # --- Movies | CONCIERTOS & SHOWS (349) ---
 #EXTINF:-1 tvg-logo="https://s33.postimg.cc/evlncu9vj/Americo_-_Vi_a_del_Mar_2011.jpg" group-title="Movies | CONCIERTOS & SHOWS",Américo - Viña del Mar (2011)
@@ -22765,4 +22767,4 @@ http://tvpremiund.ddns.me:2082/series/56972393798wspzero/271224zero/2579
 #EXTINF:-1 tvg-logo="" group-title="Series | TELESERIES",Hermanas, un amor compartido
 http://tvpremiund.ddns.me:2082/series/56972393798wspzero/271224zero/2580
 
-# Total: 11347
+# Total: 11348
