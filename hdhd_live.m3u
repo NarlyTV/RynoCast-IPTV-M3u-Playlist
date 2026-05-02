@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: hdhd.tk:80
-# Generated: 2026-05-02 08:02:09
+# Generated: 2026-05-02 19:00:08
 # Expires: 2027-10-14
 # Family Safe Edition
 # ==============================================
@@ -3125,20 +3125,18 @@ http://hdhd.tk:80/live/Amanda1/Frechette1/351058.m3u8
 #EXTINF:-1 tvg-logo="https://logo.iptveditor.com/nhlwinnipegjets.png" group-title="NHL Teams",USA NHL Winnipeg Jets
 http://hdhd.tk:80/live/Amanda1/Frechette1/351059.m3u8
 
-# --- PPV  EVENTS (24) ---
-#EXTINF:-1 tvg-logo="" group-title="PPV  EVENTS",USA PPV01:  WWE SmackDown @ 08:00 PM EDT
+# --- PPV  EVENTS (23) ---
+#EXTINF:-1 tvg-logo="" group-title="PPV  EVENTS",USA PPV01: UFC Fight Night: Jack Della Maddalena vs Carlos Prates (Paramount+) @ 04:00 AM EDT
 http://hdhd.tk:80/live/Amanda1/Frechette1/29427.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV  EVENTS",USA PPV02 Mississippi Thunder Speedway @ 6:45 PM EDT
-http://hdhd.tk:80/live/Amanda1/Frechette1/29428.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV  EVENTS",USA PPV03 Williams Grove Speedway @ 7:00 PM EDT
+#EXTINF:-1 tvg-logo="" group-title="PPV  EVENTS",USA PPV03
 http://hdhd.tk:80/live/Amanda1/Frechette1/29430.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV  EVENTS",USA PPV04: Jacksonville Speedway @ 07:15 PM EDT
+#EXTINF:-1 tvg-logo="" group-title="PPV  EVENTS",USA PPV04:
 http://hdhd.tk:80/live/Amanda1/Frechette1/29432.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV  EVENTS",USA PPV05 CMLL vs MLW @ 07:00 PM EDT
+#EXTINF:-1 tvg-logo="" group-title="PPV  EVENTS",USA PPV05
 http://hdhd.tk:80/live/Amanda1/Frechette1/29433.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV  EVENTS",USA PPV06: GCW: Express Lane 2026 @ 08:00 PM EDT
+#EXTINF:-1 tvg-logo="" group-title="PPV  EVENTS",USA PPV06:
 http://hdhd.tk:80/live/Amanda1/Frechette1/29434.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV  EVENTS",USA PPV07HOG: Glory At The Globe 2026 @ 11:00 PM EDT
+#EXTINF:-1 tvg-logo="" group-title="PPV  EVENTS",USA PPV07
 http://hdhd.tk:80/live/Amanda1/Frechette1/29435.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PPV  EVENTS",USA PPV08
 http://hdhd.tk:80/live/Amanda1/Frechette1/29436.m3u8
@@ -8105,4 +8103,4 @@ http://hdhd.tk:80/live/Amanda1/Frechette1/330321.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Vietnam",VN FILM24H
 http://hdhd.tk:80/live/Amanda1/Frechette1/330322.m3u8
 
-# Total: 3955
+# Total: 3954

@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: ultrapremium.cloud:8080
-# Generated: 2026-05-02 08:12:11
+# Generated: 2026-05-02 18:51:38
 # Expires: 2026-05-28
 # Family Safe Edition
 # ==============================================
@@ -13921,7 +13921,13 @@ http://ultrapremium.cloud:8080/movie/964374735tv/4fdc5eg3/268771.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9yBW60Pm0eeXsKeiZMvMolCuhyU.jpg" group-title="Movies | → VOD ESTRENOS 2025 ←",Ad Vitam (2025)
 http://ultrapremium.cloud:8080/movie/964374735tv/4fdc5eg3/268613.mp4
 
-# --- Movies | → VOD ESTRENOS 2026 ← (30) ---
+# --- Movies | → VOD ESTRENOS 2026 ← (33) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dkIzjzfv7TbXqjbJKM51CZYORaR.jpg" group-title="Movies | → VOD ESTRENOS 2026 ←",La Caja Azul (2026)
+http://ultrapremium.cloud:8080/movie/964374735tv/4fdc5eg3/281038.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uVybc3pLqHSoMC73kElu93oJBRQ.jpg" group-title="Movies | → VOD ESTRENOS 2026 ←",Bolas Arriba (2026)
+http://ultrapremium.cloud:8080/movie/964374735tv/4fdc5eg3/281036.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8JcaYXZYlT2nYlsgo1Uv7RH9FP.jpg" group-title="Movies | → VOD ESTRENOS 2026 ←",Terror en Silent Hill: Regreso al infierno (2026)
+http://ultrapremium.cloud:8080/movie/964374735tv/4fdc5eg3/281037.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Awvlydvag364audeksfRFldVslq.jpg" group-title="Movies | → VOD ESTRENOS 2026 ←",Instinto Implacable (2026)
 http://ultrapremium.cloud:8080/movie/964374735tv/4fdc5eg3/281019.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oscW8xV8EhRYj7iAhyVlBohKqxo.jpg" group-title="Movies | → VOD ESTRENOS 2026 ←",¿Quieres Ser Mi Novia? (2026)
@@ -18805,7 +18811,7 @@ http://ultrapremium.cloud:8080/series/964374735tv/4fdc5eg3/2569
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DOCUMENTALES ←",Hulk Hogan: Real American
 http://ultrapremium.cloud:8080/series/964374735tv/4fdc5eg3/2574
 
-# --- Series | → SERIES DRAMA ← (305) ---
+# --- Series | → SERIES DRAMA ← (307) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DRAMA ←",4 Blocks
 http://ultrapremium.cloud:8080/series/964374735tv/4fdc5eg3/7
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DRAMA ←",Por trece razones
@@ -19416,6 +19422,10 @@ http://ultrapremium.cloud:8080/series/964374735tv/4fdc5eg3/2559
 http://ultrapremium.cloud:8080/series/964374735tv/4fdc5eg3/2565
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DRAMA ←",La Casa de los Espiritus
 http://ultrapremium.cloud:8080/series/964374735tv/4fdc5eg3/2575
+#EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DRAMA ←",Lockerbie: En  busqueda de la Verdad
+http://ultrapremium.cloud:8080/series/964374735tv/4fdc5eg3/2577
+#EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DRAMA ←",Los no elegidos
+http://ultrapremium.cloud:8080/series/964374735tv/4fdc5eg3/2578
 
 # --- Series | → SERIES INFANTILES ← (44) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES INFANTILES ←",¡La serie de Cuphead!
@@ -19941,4 +19951,4 @@ http://ultrapremium.cloud:8080/series/964374735tv/4fdc5eg3/2345
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES TERROR-THRILLER-SUSPENSO ←",It: Bienvenidos a Derry
 http://ultrapremium.cloud:8080/series/964374735tv/4fdc5eg3/2492
 
-# Total: 9894
+# Total: 9899

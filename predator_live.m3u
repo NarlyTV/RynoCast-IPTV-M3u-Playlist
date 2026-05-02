@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: predator.digital:8080
-# Generated: 2026-05-02 08:04:21
+# Generated: 2026-05-02 18:55:04
 # Expires: 2026-08-08
 # Family Safe Edition
 # ==============================================
@@ -3946,12 +3946,6 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/2963.m3u8
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/79680.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Shqiptare",AL: Klan Kosova +6 USA
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/81476.m3u8
-#EXTINF:-1 tvg-logo="https://nimitv.com/assets/img/channels-new/240/240-4.png" group-title="Shqiptare",AL: Top Channel ⁴ᴷ
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/2965.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Shqiptare",AL: Top Channel ᴴᴰ
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/68019.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Shqiptare",AL: Top channel +6 USA
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/81544.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Shqiptare",AL: Ferma VIP 1
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/84666.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Shqiptare",AL: Ferma Vip 2
@@ -4018,6 +4012,12 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/84640.m3u8
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/80807.m3u8
 #EXTINF:-1 tvg-logo="https://pollogu.mk/IMG/sidebar_tvpollogu.png" group-title="Shqiptare",AL:  Pollogu Tv
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/45867.m3u8
+#EXTINF:-1 tvg-logo="https://nimitv.com/assets/img/channels-new/240/240-4.png" group-title="Shqiptare",AL: Top Channel ⁴ᴷ
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/2965.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Shqiptare",AL: Top Channel ᴴᴰ
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/68019.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Shqiptare",AL: Top channel +6 USA
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/81544.m3u8
 #EXTINF:-1 tvg-logo="https://tring.al/wp-content/uploads/2024/06/klan-hd.png" group-title="Shqiptare",AL: Tv Klan ⁴ᴷ
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/9678.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Shqiptare",AL: Tv Klan ᴴᴰ RAW

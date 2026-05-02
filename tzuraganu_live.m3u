@@ -1,29 +1,13 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: tzuraganu.gotdns.ch:8008
-# Generated: 2026-05-02 07:58:16
+# Generated: 2026-05-02 19:03:59
 # Expires: 2026-09-22
 # Family Safe Edition
 # ==============================================
 
 
-# --- RADIO ROMANIA (6) ---
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/449/543/png-transparent-kiss-fm-internet-radio-fm-broadcasting-music-chbn-fm-radio-television-electronics-fm-broadcasting.png" group-title="RADIO ROMANIA",Kiss FM
-http://tzuraganu.gotdns.ch:8008/live/ovidiu@ulariu/90775688/287567.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa697ziuZrcaTpVVi_N0j6XTXmpugLwAeGRA&s" group-title="RADIO ROMANIA",Radio ZU
-http://tzuraganu.gotdns.ch:8008/live/ovidiu@ulariu/90775688/287572.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvo4FZeNVUcUgziAkpoQZk8ID8bRhmANQ4HA&s" group-title="RADIO ROMANIA",Dance FM
-http://tzuraganu.gotdns.ch:8008/live/ovidiu@ulariu/90775688/287569.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSscTbBt8EpgKeygqXnlurBLKciU-uPDrFGeg&s" group-title="RADIO ROMANIA",Pro FM
-http://tzuraganu.gotdns.ch:8008/live/ovidiu@ulariu/90775688/287566.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfNY2N99pppB1xoVj1YbZNQ6co3Zz647EbIw&s" group-title="RADIO ROMANIA",Rock FM
-http://tzuraganu.gotdns.ch:8008/live/ovidiu@ulariu/90775688/287574.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq8un4ITirZKogAhkvss0CNes93z3B-IM38VU1rNOJ2A&s" group-title="RADIO ROMANIA",RO VALENCIA FM
-http://tzuraganu.gotdns.ch:8008/live/ovidiu@ulariu/90775688/206557.m3u8
-
-# --- ⚜️ROMANIA TV⚜️ (689) ---
-#EXTINF:-1 tvg-logo="" group-title="⚜️ROMANIA TV⚜️",RXF FIGHT EVENTS
-http://tzuraganu.gotdns.ch:8008/live/ovidiu@ulariu/90775688/617717.m3u8
+# --- ⚜️ROMANIA TV⚜️ (688) ---
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/WzfDK55q/resize.png" group-title="⚜️ROMANIA TV⚜️",PRO TV UHD
 http://tzuraganu.gotdns.ch:8008/live/ovidiu@ulariu/90775688/33760.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jSn8M9Mw/resize.png" group-title="⚜️ROMANIA TV⚜️",PRO TV HD
@@ -1401,4 +1385,4 @@ http://tzuraganu.gotdns.ch:8008/live/ovidiu@ulariu/90775688/498572.m3u8
 #EXTINF:-1 tvg-logo="http://185.165.242.167:80/images/yVSltlz89zz54338ekcMgfI6JpfpEUwsU_NXEvsLEYB6XLGC2nUdL2gxCBNcKnpn.png" group-title="⚜️ROMANIA TV⚜️",SHOWTIME TV SARITI DE PE FIX
 http://tzuraganu.gotdns.ch:8008/live/ovidiu@ulariu/90775688/617375.m3u8
 
-# Total: 695
+# Total: 688

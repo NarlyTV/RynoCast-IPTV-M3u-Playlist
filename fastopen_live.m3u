@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: fastopen.live:8080
-# Generated: 2026-05-02 08:04:48
+# Generated: 2026-05-02 18:56:47
 # Expires: 2026-12-09
 # Family Safe Edition
 # ==============================================
@@ -18971,7 +18971,7 @@ http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/119527.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/netherlands/viaplay-nl.png?raw=true" group-title="Norway VIP",Viaplay Xtra 18 VIP NO
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/120038.m3u8
 
-# --- PPV VIP Sports (23) ---
+# --- PPV VIP Sports (25) ---
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/ufc-us.png?raw=true" group-title="PPV VIP Sports",UFC MMa PPV 1 VIP Sports
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/133789.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/ufc-us.png?raw=true" group-title="PPV VIP Sports",UFC MMa PPV 2 VIP Sports
@@ -18998,6 +18998,8 @@ http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/133799.m3u8
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/133800.m3u8
 #EXTINF:-1 tvg-logo="https://www.thefightcity.com/wp-content/uploads/2019/10/HBO-logo-image-1.jpg" group-title="PPV VIP Sports",HBO Boxing HD PPV VIP Sports
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/133778.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/glory-kickboxing-vod.png?raw=true" group-title="PPV VIP Sports",Glory KickBoxing VIP Sports
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/134866.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/boxing-vod.png?raw=true" group-title="PPV VIP Sports",Boxing PPV 1 VIP Sports
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/133779.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/boxing-vod.png?raw=true" group-title="PPV VIP Sports",Boxing PPV 2 VIP Sports
@@ -19018,6 +19020,8 @@ http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/133786.m3u8
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/133787.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/boxing-vod.png?raw=true" group-title="PPV VIP Sports",Boxing PPV 10 VIP Sport
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/133788.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/boxing-vod.png?raw=true" group-title="PPV VIP Sports",Boxing RINGSIDE PPV 11 VIP Sport
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/134867.m3u8
 
 # --- Pakistan (180) ---
 #EXTINF:-1 tvg-logo="" group-title="Pakistan",##########   Pakistan   ##########
@@ -31721,4 +31725,4 @@ http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/104838.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ex-Yu VIP",K1 HD ex-YU
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/104749.m3u8
 
-# Total: 15753
+# Total: 15755

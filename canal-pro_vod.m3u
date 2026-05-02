@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: canal-pro.xyz:8080
-# Generated: 2026-05-02 08:14:08
+# Generated: 2026-05-02 19:00:54
 # Expires: 2026-05-11
 # Family Safe Edition
 # ==============================================
@@ -13921,7 +13921,13 @@ http://canal-pro.xyz:8080/movie/54923073/b48ygdD8d/268771.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9yBW60Pm0eeXsKeiZMvMolCuhyU.jpg" group-title="Movies | → VOD ESTRENOS 2025 ←",Ad Vitam (2025)
 http://canal-pro.xyz:8080/movie/54923073/b48ygdD8d/268613.mp4
 
-# --- Movies | → VOD ESTRENOS 2026 ← (30) ---
+# --- Movies | → VOD ESTRENOS 2026 ← (33) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dkIzjzfv7TbXqjbJKM51CZYORaR.jpg" group-title="Movies | → VOD ESTRENOS 2026 ←",La Caja Azul (2026)
+http://canal-pro.xyz:8080/movie/54923073/b48ygdD8d/281038.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uVybc3pLqHSoMC73kElu93oJBRQ.jpg" group-title="Movies | → VOD ESTRENOS 2026 ←",Bolas Arriba (2026)
+http://canal-pro.xyz:8080/movie/54923073/b48ygdD8d/281036.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8JcaYXZYlT2nYlsgo1Uv7RH9FP.jpg" group-title="Movies | → VOD ESTRENOS 2026 ←",Terror en Silent Hill: Regreso al infierno (2026)
+http://canal-pro.xyz:8080/movie/54923073/b48ygdD8d/281037.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Awvlydvag364audeksfRFldVslq.jpg" group-title="Movies | → VOD ESTRENOS 2026 ←",Instinto Implacable (2026)
 http://canal-pro.xyz:8080/movie/54923073/b48ygdD8d/281019.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oscW8xV8EhRYj7iAhyVlBohKqxo.jpg" group-title="Movies | → VOD ESTRENOS 2026 ←",¿Quieres Ser Mi Novia? (2026)
@@ -18805,7 +18811,7 @@ http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2569
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DOCUMENTALES ←",Hulk Hogan: Real American
 http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2574
 
-# --- Series | → SERIES DRAMA ← (305) ---
+# --- Series | → SERIES DRAMA ← (307) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DRAMA ←",4 Blocks
 http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/7
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DRAMA ←",Por trece razones
@@ -19416,6 +19422,10 @@ http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2559
 http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2565
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DRAMA ←",La Casa de los Espiritus
 http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2575
+#EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DRAMA ←",Lockerbie: En  busqueda de la Verdad
+http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2577
+#EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DRAMA ←",Los no elegidos
+http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2578
 
 # --- Series | → SERIES INFANTILES ← (44) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES INFANTILES ←",¡La serie de Cuphead!
@@ -19941,4 +19951,4 @@ http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2345
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES TERROR-THRILLER-SUSPENSO ←",It: Bienvenidos a Derry
 http://canal-pro.xyz:8080/series/54923073/b48ygdD8d/2492
 
-# Total: 9894
+# Total: 9899
