@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: solution62000.mine.nu:8000
-# Generated: 2026-05-02 18:53:33
+# Generated: 2026-05-03 18:54:04
 # Expires: 2026-12-19
 # Family Safe Edition
 # ==============================================
@@ -1141,7 +1141,9 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/7300.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wkUCQaXIc9qkqplDJZIuxRHLQNq.jpg" group-title="Movies | FILMS TURK",Malazgirt 1071 - 2022
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/5531.mp4
 
-# --- Movies | Films (1559) ---
+# --- Movies | Films (1560) ---
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/j9gmkvIFCtqKuYWLYzM6sTRMixk.jpg" group-title="Movies | Films",Panique au grand magasin (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/26753.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/uODrMvCbhudaN7rawwLhLNA73P1.jpg" group-title="Movies | Films",Los Tigres (2026)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/26727.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4kdxpg8WtjDQfLo45YDhkg4hPA1.jpg" group-title="Movies | Films",Le Pays d’Arto (2026)
@@ -5183,7 +5185,7 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/691.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | MARVEL STUDIOS",Ironheart
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/773.mp4
 
-# --- Movies | NETFLIX (472) ---
+# --- Movies | NETFLIX (473) ---
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gF31H52xpOmPFUjXYEwITHqmjCQ.jpg" group-title="Movies | NETFLIX",Par alliance (2026)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/26751.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9iuGBLJBRuGKR6nRL4SxUV1tIdt.jpg" group-title="Movies | NETFLIX",Apex (2026)
@@ -6128,6 +6130,8 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1123.mp4
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1125.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX",Man on Fire
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1133.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX",Glory
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1136.mp4
 
 # --- Movies | RAMADAN ( 2026 ) (49) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | RAMADAN ( 2026 )",( 2021 ) المداح
@@ -7939,4 +7943,4 @@ http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1128
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Gold Land
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1131
 
-# Total: 3936
+# Total: 3938
