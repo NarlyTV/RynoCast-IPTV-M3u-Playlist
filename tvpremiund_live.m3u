@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: tvpremiund.ddns.me:2082
-# Generated: 2026-05-02 18:51:29
+# Generated: 2026-05-03 08:02:13
 # Expires: 2026-05-14
 # Family Safe Edition
 # ==============================================
@@ -3175,7 +3175,7 @@ http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/70174.m3u8
 #EXTINF:-1 tvg-logo="https://players.grupodial.cl/player/radio/img/45b312bfd616a3430ab90167854fe44b08121256.png" group-title="MUSICA",Radio Duna TV
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/30.m3u8
 
-# --- OTROS (6270) ---
+# --- OTROS (6267) ---
 #EXTINF:-1 tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/dark.jpg" group-title="OTROS",Dark
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/67762.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/925_Nubeh_TV.png" group-title="OTROS",Nubeh TV ✪ | VE
@@ -10116,10 +10116,6 @@ http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/70276.m3u8
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/70277.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Panorama_logo.svg/512px-Panorama_logo.svg.png" group-title="OTROS",Panorama TV (720p)
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/70278.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Nki62R7.png" group-title="OTROS",Paramount Comedy Russia
-http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/70280.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ff8c708653d080007361b14/featuredImage.jpg" group-title="OTROS",Paramount Plus Picks (720p)
-http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/70281.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jdb634P.png" group-title="OTROS",Paras TV (1080p) [Not 24/7]
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/70282.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J6h5IQS.png" group-title="OTROS",Parlamento de Andalucía (576p) [Not 24/7]
@@ -11186,8 +11182,6 @@ http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/70884.m3u8
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/70885.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XsvbAWR.png" group-title="OTROS",Pluto TV One Piece (720p) [Not 24/7]
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/70886.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sj5h9bl.png" group-title="OTROS",Pluto TV Paramount Movie Channel (684p)
-http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/70887.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ApN6nfw.png" group-title="OTROS",Pluto TV Paranormal (720p)
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/70888.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/udxOeQJ.png" group-title="OTROS",Pluto TV Paranormal (England) (720p)
@@ -16493,4 +16487,4 @@ http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/54866.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/520_Venevision.png" group-title="VENEZUELA",Venevision
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/2429.m3u8
 
-# Total: 8211
+# Total: 8208
