@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: pedro00.net:88
-# Generated: 2026-05-04 08:07:45
+# Generated: 2026-05-04 19:31:06
 # Expires: 2027-02-10
 # Family Safe Edition
 # ==============================================
@@ -1211,7 +1211,9 @@ http://pedro00.net:88/movie/4D3tNcx1MedRPSI/qf6lp0i4c4MQXYU/860114.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eAIGX0nlwlb5sMb4uDRGNFqMyG9.jpg" group-title="Movies | |MULTI| MARVEL",|FR| Thor : Le Monde des ténèbres (2013)
 http://pedro00.net:88/movie/4D3tNcx1MedRPSI/qf6lp0i4c4MQXYU/860115.mkv
 
-# --- Movies | |MULTI| NETFLIX (583) ---
+# --- Movies | |MULTI| NETFLIX (584) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/cbYyWHc1dL1bfwEJbaMYDYKgWG2.jpg" group-title="Movies | |MULTI| NETFLIX",|MULTI| Toaster (2026)
+http://pedro00.net:88/movie/4D3tNcx1MedRPSI/qf6lp0i4c4MQXYU/2023861.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/imy1OoT1xddt2kqw6hhc4v01e8i.jpg" group-title="Movies | |MULTI| NETFLIX",|MULTI| The Babysitter: Killer Queen (2020)
 http://pedro00.net:88/movie/4D3tNcx1MedRPSI/qf6lp0i4c4MQXYU/1948467.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/uAzKNxGnbK5SL7VF7UeQyZdQLHV.jpg" group-title="Movies | |MULTI| NETFLIX",|MULTI| The Babysitter (2017)
@@ -2379,7 +2381,9 @@ http://pedro00.net:88/movie/4D3tNcx1MedRPSI/qf6lp0i4c4MQXYU/1746497.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/qZPLK5ktRKa3CL4sKRZtj8UlPYc.jpg" group-title="Movies | |MULTI| NETFLIX",|MULTI| Under Paris (2024)
 http://pedro00.net:88/movie/4D3tNcx1MedRPSI/qf6lp0i4c4MQXYU/1746496.mkv
 
-# --- Movies | |MULTI| PRIME AMAZON (144) ---
+# --- Movies | |MULTI| PRIME AMAZON (145) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/Av1CK61z33v2OBFLD1yF5rdRxQ1.jpg" group-title="Movies | |MULTI| PRIME AMAZON",|MULTI| Sarah's Oil (2025)
+http://pedro00.net:88/movie/4D3tNcx1MedRPSI/qf6lp0i4c4MQXYU/2023860.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ygWXPL0RS91JyJPNOfK34eV3bRE.jpg" group-title="Movies | |MULTI| PRIME AMAZON",|MULTI| Vengeance (2026)
 http://pedro00.net:88/movie/4D3tNcx1MedRPSI/qf6lp0i4c4MQXYU/1948468.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/xwvJ3WzdJ1OCuDoY8LAxBUlQyig.jpg" group-title="Movies | |MULTI| PRIME AMAZON",|MULTI| Balls Up (2026)
@@ -2731,4 +2735,4 @@ http://pedro00.net:88/movie/4D3tNcx1MedRPSI/qf6lp0i4c4MQXYU/1913675.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q8pF6s9b9veTQvxTqMDIQf9nJKi.jpg" group-title="Movies | |VOD-FR| 4K HDR | SDR",||FR|| Thor (2011)
 http://pedro00.net:88/movie/4D3tNcx1MedRPSI/qf6lp0i4c4MQXYU/1913674.mkv
 
-# Total: 1352
+# Total: 1354

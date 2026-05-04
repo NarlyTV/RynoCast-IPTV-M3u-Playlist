@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: predator.digital:8080
-# Generated: 2026-05-03 08:03:45
+# Generated: 2026-05-04 19:31:16
 # Expires: 2026-08-08
 # Family Safe Edition
 # ==============================================
@@ -752,7 +752,7 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/74964.m3u8
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/74963.m3u8
 #EXTINF:-1 tvg-logo="" group-title="De Sport",DE: Dazn Sport 2 HD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/74962.m3u8
-#EXTINF:-1 tvg-logo="" group-title="De Sport",DE: Dazn Fast
+#EXTINF:-1 tvg-logo="" group-title="De Sport",DE: Dazn Fast +
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/74961.m3u8
 #EXTINF:-1 tvg-logo="" group-title="De Sport",DE: Dazn Rise
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/74960.m3u8
@@ -8855,7 +8855,7 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/64282.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Usa",You Tube: VH1
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/64281.m3u8
 
-# --- World Sports (172) ---
+# --- World Sports (171) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/International_flag_globe.png" group-title="World Sports",===World Sports===
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/12487.m3u8
 #EXTINF:-1 tvg-logo="https://nimitv.com/assets/img/channels-new/artmotion/sport-1.png" group-title="World Sports",SPORT :Art Sport 1 ⁴ᴷ
@@ -8984,6 +8984,8 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/82299.m3u8
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/82298.m3u8
 #EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT:HR MAXSport 2 ᶠʰᵈ
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/82297.m3u8
+#EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: Premier League HD
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/78992.m3u8
 #EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: Arena Sport Premium 1 FHD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/79483.m3u8
 #EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: Arena Sport Premium 2 FHD
@@ -9138,10 +9140,6 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/21953.m3u8
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/21952.m3u8
 #EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: Eleven Sports 4 HD PL
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/21946.m3u8
-#EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: Arena Sport 1 HD
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/78992.m3u8
-#EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: Arena Sport 2 HD
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/78991.m3u8
 #EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: Auto Motor Sport HD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/78990.m3u8
 #EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: CT sport HD
@@ -9201,4 +9199,4 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/13200.m3u8
 #EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: Real Madrid Tv
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/62225.m3u8
 
-# Total: 4570
+# Total: 4569
