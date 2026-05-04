@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: exclusifott.pro:80
-# Generated: 2026-05-03 19:00:43
+# Generated: 2026-05-04 08:18:42
 # Expires: 2026-05-21
 # Family Safe Edition
 # ==============================================
@@ -13407,7 +13407,11 @@ http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/837897.mp4
 #EXTINF:-1 tvg-logo="http://103.176.90.118/stalker_portal/screenshots/74/7397.jpg" group-title="Movies | |SPT| SPORT BOXING",SPT Katie Taylor vs. Natasha Jonas
 http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/837889.mp4
 
-# --- Movies | |SPT| SPORT UFC (469) ---
+# --- Movies | |SPT| SPORT UFC (471) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5WkSmkStpbOLpWukt1reuJJqZDj.jpg" group-title="Movies | |SPT| SPORT UFC",SPT - UFC Fight Night 275: Della Maddalena vs. Prates (Prelims) (2026)
+http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/2067026.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5WkSmkStpbOLpWukt1reuJJqZDj.jpg" group-title="Movies | |SPT| SPORT UFC",SPT - UFC Fight Night 275: Della Maddalena vs. Prates (Main Card) (2026)
+http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/2067025.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j2yDJZ5RfN9XSgtlIuv17rwbVMG.jpg" group-title="Movies | |SPT| SPORT UFC",SPT - UFC Fight Night 274: Sterling vs. Zalal (Prelims) (2026)
 http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/2063823.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j2yDJZ5RfN9XSgtlIuv17rwbVMG.jpg" group-title="Movies | |SPT| SPORT UFC",SPT - UFC Fight Night 274: Sterling vs. Zalal (Main Card) (2026)
@@ -15663,7 +15667,7 @@ http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/20559
 #EXTINF:-1 tvg-logo="" group-title="Series | |MULTI| DISNEY+ SERIES",D+ - American Born Chinese (2023)
 http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/28051
 
-# --- Series | |MULTI| NETFLIX SERIES (1116) ---
+# --- Series | |MULTI| NETFLIX SERIES (1115) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | |MULTI| NETFLIX SERIES",NF - Taskaree: The Smuggler's Web (2026) (IN)
 http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/47562
 #EXTINF:-1 tvg-logo="" group-title="Series | |MULTI| NETFLIX SERIES",NF - Land Of Sin (2026) (SE)
@@ -16186,8 +16190,6 @@ http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/3122
 http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/3123
 #EXTINF:-1 tvg-logo="" group-title="Series | |MULTI| NETFLIX SERIES",NF - Most Expensivest
 http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/3125
-#EXTINF:-1 tvg-logo="" group-title="Series | |MULTI| NETFLIX SERIES",NF - Outer Banks (2020)
-http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/3126
 #EXTINF:-1 tvg-logo="" group-title="Series | |MULTI| NETFLIX SERIES",NF - Reckoning
 http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/3128
 #EXTINF:-1 tvg-logo="" group-title="Series | |MULTI| NETFLIX SERIES",NF - Restaurants on the Edge
@@ -17897,7 +17899,7 @@ http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/35262
 #EXTINF:-1 tvg-logo="" group-title="Series | |MULTI| NETFLIX SERIES",NF - Garouden: The Way Of The Lone Wolf (2024)
 http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/35263
 
-# --- Series | |MULTI| NETFLIX SERIES 4K (87) ---
+# --- Series | |MULTI| NETFLIX SERIES 4K (86) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | |MULTI| NETFLIX SERIES 4K",NF - The Serpent 4K (2021)
 http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/40850
 #EXTINF:-1 tvg-logo="" group-title="Series | |MULTI| NETFLIX SERIES 4K",NF - Aranyak 4k (2021)
@@ -18028,8 +18030,6 @@ http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/11691
 http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/11692
 #EXTINF:-1 tvg-logo="" group-title="Series | |MULTI| NETFLIX SERIES 4K",NF - Our Planet (4K)
 http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/11693
-#EXTINF:-1 tvg-logo="" group-title="Series | |MULTI| NETFLIX SERIES 4K",NF - Outer Banks (4K)
-http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/11694
 #EXTINF:-1 tvg-logo="" group-title="Series | |MULTI| NETFLIX SERIES 4K",NF - Ragnarok (4K)
 http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/11695
 #EXTINF:-1 tvg-logo="" group-title="Series | |MULTI| NETFLIX SERIES 4K",NF - Sing On! Germany (4K)

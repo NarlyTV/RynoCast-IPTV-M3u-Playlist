@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: blackiptv.net:8080
-# Generated: 2026-05-03 18:58:49
+# Generated: 2026-05-04 08:15:16
 # Expires: 2026-12-21
 # Family Safe Edition
 # ==============================================
@@ -5779,7 +5779,7 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/55212.m3u8
 #EXTINF:-1 tvg-logo="https://scdnmain.net/assets/team/basketball_3430.png" group-title="USA NBA LIVE EVENT",NBA: Cinemax ActionMax
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/55213.m3u8
 
-# --- USA/UK SPORT (81) ---
+# --- USA/UK SPORT (79) ---
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/256/323/323310.png" group-title="USA/UK SPORT",USA: WWE NETWORK
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/39190.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA/UK SPORT",UK: EUROSPORT 1HD
@@ -5828,9 +5828,9 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/831.m3u8
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/30319.m3u8
 #EXTINF:-1 tvg-logo="http://go.wrldonx.fyi:8000/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dQULllPbq8P_rAiwxwb5tV2lcwwUjOHsz1YAg1Xz9E5Yg.png" group-title="USA/UK SPORT",UK: TNT SPORTS 4 HD
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/841.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USA/UK SPORT",UK: ESP NEWS
+#EXTINF:-1 tvg-logo="https://eveimg.xyz/picons/usa/espnnews.png" group-title="USA/UK SPORT",UK: ESP NEWS
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/3435.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USA/UK SPORT",UK: ESPN 1 HD
+#EXTINF:-1 tvg-logo="http://195.211.191.31:808/logo/logo_1/UK/" group-title="USA/UK SPORT",UK: ESPN 1 HD
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/3421.m3u8
 #EXTINF:-1 tvg-logo="http://forex.ddnsguru.com:80/images/7bd72bd11ef3f0bb04ce1c7251dc3b3c.png" group-title="USA/UK SPORT",UK: ESPN 2 HD
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/1092.m3u8
@@ -5872,14 +5872,10 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/30313.m3u8
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/1039.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA/UK SPORT",USA: CBS SPORTS HQ
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/30306.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USA/UK SPORT",USA: Sportsnet Ontario FHD
-http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/1281.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA/UK SPORT",USA: Sportsnet 360 FHD
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/1271.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA/UK SPORT",USA: Sportsnet West
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/1277.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USA/UK SPORT",USA: Sportsnet World FHD
-http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/1280.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA/UK SPORT",USA: FIFA+
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/59900.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA/UK SPORT",USA: AUTO TV
@@ -6025,4 +6021,4 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/43244.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Unknown",TR RADYO: ANKARA RADYO
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/43245.m3u8
 
-# Total: 2951
+# Total: 2949
