@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: squid.game-tv.org:8080
-# Generated: 2026-05-04 19:35:35
+# Generated: 2026-05-05 08:09:15
 # Expires: 2026-07-17
 # Family Safe Edition
 # ==============================================
@@ -1482,6 +1482,10 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1143.mp4
 # --- Movies | Desperate Housewives (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Desperate Housewives",Desperate Housewives
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/372.mp4
+
+# --- Movies | Destine cu parfum de lavanda (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | Destine cu parfum de lavanda",Destine cu parfum de lavandă (2026)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1262.mp4
 
 # --- Movies | Dexter (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Dexter",Dexter
@@ -20577,4 +20581,4 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/383.mp4
 #EXTINF:-1 tvg-logo="" group-title="Series | A Series of Unfortunate Events",A Series of Unfortunate Events
 http://squid.game-tv.org:8080/series/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/276
 
-# Total: 8998
+# Total: 8999

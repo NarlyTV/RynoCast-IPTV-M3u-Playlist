@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: exclusifott.pro:80
-# Generated: 2026-05-04 19:38:29
+# Generated: 2026-05-05 08:16:53
 # Expires: 2026-05-21
 # Family Safe Edition
 # ==============================================
@@ -13045,7 +13045,9 @@ http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/1579045.mp4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3a/Glory_Logo.jpg" group-title="Movies | |SPT| GLORY",SPT| GLORY BOXING 07-10-2023
 http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/1347221.ts
 
-# --- Movies | |SPT| SPORT BOXING (180) ---
+# --- Movies | |SPT| SPORT BOXING (181) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tA0R9zaQxrC4HxeOlJ3GDoInusO.jpg" group-title="Movies | |SPT| SPORT BOXING",SPT - David Benavidez vs. Gilberto Ramirez (2026)
+http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/2067834.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tBtg3zae2qH7NWppwYDlbUcwzDq.jpg" group-title="Movies | |SPT| SPORT BOXING",SPT - Jake Paul vs. Anthony Joshua (2025)
 http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/1990536.mp4
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUft5UaSIbmfCqsundwE4bTSACuZUmXivYqQ&s" group-title="Movies | |SPT| SPORT BOXING",SPT - Serhii Bohachuk vs. Brandon Adams II (2025)
@@ -18103,4 +18105,4 @@ http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/35745
 #EXTINF:-1 tvg-logo="" group-title="Series | |RO| ROMANIAN SERIES",RO - Resident Evil: Infinite Darkness (2021)
 http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/35746
 
-# Total: 9004
+# Total: 9005
