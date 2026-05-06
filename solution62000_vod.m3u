@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: solution62000.mine.nu:8000
-# Generated: 2026-05-05 19:31:00
+# Generated: 2026-05-06 08:08:00
 # Expires: 2026-12-19
 # Family Safe Edition
 # ==============================================
@@ -251,7 +251,7 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1542.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/icq1eKLaijZmahCxVDWpuURNihv.jpg" group-title="Movies | Cowboys",Pat Garrett et Billy le Kid - 1973
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1805.mkv
 
-# --- Movies | Dessins Animés (244) ---
+# --- Movies | Dessins Animés (245) ---
 #EXTINF:-1 tvg-logo="https://dnm.nflximg.net/api/v6/mAcAr9TxZIVbINe88xb3Teg5_OA/AAAABflz_TYZuBaWTGhUR26bQhrowP2jshvRck_G5ilViQv9DI47-w9YL-SFFPaML7aNHzoMYToV0v3op8_0pyBXV8B2mAN73aAXVDDtlkJKJPWyJsYhXOpZyM0Rx2k5-CG9coZpjw.jpg?r=77c" group-title="Movies | Dessins Animés",Les Deux Gredins (2025)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/20327.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dBNi5XGc4Kw5bjxeRiGKCCvqbPC.jpg" group-title="Movies | Dessins Animés",Dora : à la recherche du Sol Dorado (2025)
@@ -348,6 +348,8 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1793.mkv
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1794.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/KUhrtJN02RNt3Sxc4IMTa1d9Lt.jpg" group-title="Movies | Dessins Animés",Vice-versa - 2015
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1459.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/aSQktALDmbunDbwkuZbZFMEWVFr.jpg" group-title="Movies | Dessins Animés",Super Mario Galaxy, le film (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/26827.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wlJ5hJYOjNkl96ZuqJ3G5h2R1xQ.jpg" group-title="Movies | Dessins Animés",Aventures croisées (2026)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/26752.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hwFQ33TvDGugRb0JFkCeKyrpIhT.jpg" group-title="Movies | Dessins Animés",Jumpers (2026)
@@ -1143,7 +1145,11 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/7300.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wkUCQaXIc9qkqplDJZIuxRHLQNq.jpg" group-title="Movies | FILMS TURK",Malazgirt 1071 - 2022
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/5531.mp4
 
-# --- Movies | Films (1561) ---
+# --- Movies | Films (1563) ---
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4oi7za0reasYzAGPFK0kR6feZH3.jpg" group-title="Movies | Films",L'Agent secret (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/26826.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ICQGjgWmTD3idlMUgRhhKIIxul.jpg" group-title="Movies | Films",Wedding Nightmare : Deuxième Partie (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/26825.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/j9gmkvIFCtqKuYWLYzM6sTRMixk.jpg" group-title="Movies | Films",Panique au grand magasin (2026)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/26753.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/uODrMvCbhudaN7rawwLhLNA73P1.jpg" group-title="Movies | Films",Los Tigres (2026)
@@ -7183,7 +7189,7 @@ http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1117
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Arabe",( 2026 ) الفرنساوي
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1137
 
-# --- Series | Series Documentaires (14) ---
+# --- Series | Series Documentaires (15) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Documentaires",Homicide
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/403
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Documentaires",En guerre(s) pour l'Algérie
@@ -7212,6 +7218,8 @@ http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1099
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1115
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Documentaires",Hulk Hogan: Real American
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1120
+#EXTINF:-1 tvg-logo="" group-title="Series | Series Documentaires",Jack l'Eventreur : Lettres de sang
+http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1140
 
 # --- Series | Series Marocaines (5) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Marocaines",أولاد الدرب
@@ -7373,7 +7381,7 @@ http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1104
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Turk",( 2026 ) - مترجمة Çirkin القبيحة
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1112
 
-# --- Series | Series divers (287) ---
+# --- Series | Series divers (288) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Salvation
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/5
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Gomorra
@@ -7948,5 +7956,7 @@ http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1131
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1138
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Michael Jackson, l'envers d'une légende
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1139
+#EXTINF:-1 tvg-logo="" group-title="Series | Series divers",R.J. Decker
+http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1141
 
-# Total: 3941
+# Total: 3946

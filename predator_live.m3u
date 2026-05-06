@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: predator.digital:8080
-# Generated: 2026-05-05 19:17:44
+# Generated: 2026-05-06 08:02:33
 # Expires: 2026-08-08
 # Family Safe Edition
 # ==============================================
@@ -3424,10 +3424,10 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/60825.m3u8
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/60824.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Nederland",NL: TV Oost
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/60823.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Nederland",NL: Film1 Action HD
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/79209.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Nederland",NL: Film 1 Premiere HD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/18654.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Nederland",NL: Film 1 Action HD
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/18658.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Nederland",NL: Film 1 Family
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/18675.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Nederland",NL: Film Drama
