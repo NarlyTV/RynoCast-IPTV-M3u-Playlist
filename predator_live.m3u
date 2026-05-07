@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: predator.digital:8080
-# Generated: 2026-05-06 19:53:12
+# Generated: 2026-05-07 08:08:24
 # Expires: 2026-08-08
 # Family Safe Edition
 # ==============================================
@@ -1146,7 +1146,7 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/11814.m3u8
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/64248.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: Sky Krimi HD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/11822.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: Sky 1 FHD SAT
+#EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: Sky One FHD SAT
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/11813.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: Premiere 1 ᵁᴴᴰ ⁺ ᴴᴰᴿ
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/78797.m3u8
@@ -8839,9 +8839,17 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/64282.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Usa",You Tube: VH1
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/64281.m3u8
 
-# --- World Sports (171) ---
+# --- World Sports (174) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/International_flag_globe.png" group-title="World Sports",===World Sports===
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/12487.m3u8
+#EXTINF:-1 tvg-logo="" group-title="World Sports",UCL Semi final: BAYERN vs Psg
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85504.m3u8
+#EXTINF:-1 tvg-logo="" group-title="World Sports",UCL - Semi final: BAYERN vs PSG
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85505.m3u8
+#EXTINF:-1 tvg-logo="" group-title="World Sports",UCL--- Bayern vs Psg  --  de
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85506.m3u8
+#EXTINF:-1 tvg-logo="https://tring.al/wp-content/uploads/2024/06/Sport-1_light.png" group-title="World Sports",SPORT: Tring Sport 1 ⁴ᴷ
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/67972.m3u8
 #EXTINF:-1 tvg-logo="https://nimitv.com/assets/img/channels-new/artmotion/sport-1.png" group-title="World Sports",SPORT :Art Sport 1 ⁴ᴷ
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/67989.m3u8
 #EXTINF:-1 tvg-logo="https://nimitv.com/assets/img/channels-new/artmotion/sport-1.png" group-title="World Sports",SPORT :Art Sport 2 ⁴ᴷ
@@ -8870,8 +8878,6 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/67975.m3u8
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/67974.m3u8
 #EXTINF:-1 tvg-logo="https://tring.al/wp-content/uploads/2024/06/Sport-news_light.png" group-title="World Sports",SPORT: Tring Sport News
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/67973.m3u8
-#EXTINF:-1 tvg-logo="https://tring.al/wp-content/uploads/2024/06/Sport-1_light.png" group-title="World Sports",SPORT: Tring Sport 1 ⁴ᴷ
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/67972.m3u8
 #EXTINF:-1 tvg-logo="https://tring.al/wp-content/uploads/2024/06/Sport-2_light.png" group-title="World Sports",SPORT: Tring Sport 2 ⁴ᴷ
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/67970.m3u8
 #EXTINF:-1 tvg-logo="https://tring.al/wp-content/uploads/2024/06/Sport-3_light.png" group-title="World Sports",SPORT: Tring Sport 3 ⁴ᴷ
@@ -9183,4 +9189,4 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/13200.m3u8
 #EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: Real Madrid Tv
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/62225.m3u8
 
-# Total: 4561
+# Total: 4564
