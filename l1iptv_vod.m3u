@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: l1iptv.xyz
-# Generated: 2026-05-07 08:08:05
+# Generated: 2026-05-07 19:43:37
 # Expires: 2026-06-02
 # Family Safe Edition
 # ==============================================
@@ -55,7 +55,7 @@ http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/5650.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | BE - VTM GO+",96 Frames
 http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/5777.mp4
 
-# --- Movies | DE - ARD Mediathek (7) ---
+# --- Movies | DE - ARD Mediathek (8) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE - ARD Mediathek",Das zweite Attentat
 http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/4853.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE - ARD Mediathek",Anaon - Hüter der Nacht
@@ -70,6 +70,8 @@ http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/5640.mp4
 http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/5893.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE - ARD Mediathek",Oderbruch
 http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/5895.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | DE - ARD Mediathek",Nightsleeper
+http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/6006.mp4
 
 # --- Movies | DE - Apple TV+ (97) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE - Apple TV+",See - Reich der Blinden
@@ -1752,16 +1754,16 @@ http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/149425.mkv
 http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/152457.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gGPGkuq8chdbOdiuf1ipkXiRQL1.jpg" group-title="Movies | DE - Kinder",G.O.A.T. - Bock auf große Sprünge (DE)
 http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/152608.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nP3oMYwggLjnv5v1oQSmUso6yTd.jpg" group-title="Movies | DE - Kinder",Hoppers (DE)
-http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/152782.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vO2WytL5AFP1Rd4gMJT4RccXd7p.jpg" group-title="Movies | DE - Kinder",Charlie - Der Superhund (DE)
 http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/154543.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/thTotQdHhekV8lBCrgA8kj9CskX.jpg" group-title="Movies | DE - Kinder",Der karierte Ninja 3 (DE)
 http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/154544.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nP3oMYwggLjnv5v1oQSmUso6yTd.jpg" group-title="Movies | DE - Kinder",Hoppers (DE)
+http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/154601.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/th41ujCwFrj8dxkOYkoEe9edY0I.jpg" group-title="Movies | DE - Kinder",Smallfoot - Ein eisigartiges Abenteuer (DE)
 http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/69592.mkv
 
-# --- Movies | DE - Kino (1828) ---
+# --- Movies | DE - Kino (1829) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mtRGAfBrHEFMvvU919avnxVbsPa.jpg" group-title="Movies | DE - Kino",Das Vermächtnis des Weißwedelhirschjägers
 http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/18202.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/foLtqtYc3E21uuQCb5xPYsIb9VP.jpg" group-title="Movies | DE - Kino",Ausser Kontrolle - Halt nicht an
@@ -5418,6 +5420,8 @@ http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/143213.mkv
 http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/151550.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2sgujWX2yWH7REnDI35ZZXsqPiV.jpg" group-title="Movies | DE - Kino",Catch a Fire (DE)
 http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/154352.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8fJbCwGK9psSCZay9ov8ibpnVIH.jpg" group-title="Movies | DE - Kino",Der Teufel trägt Prada (DE)
+http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/154636.mkv
 
 # --- Movies | DE - Kino 2021 (279) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bdidDnAZwchN5vTenoNuhGPJTri.jpg" group-title="Movies | DE - Kino 2021",Malcolm & Marie (DE)
@@ -9179,7 +9183,7 @@ http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/154568.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/59sGi3lymII7fv5dblPL09vAcgD.jpg" group-title="Movies | DE - Kino 2026",Der Teufel trägt Prada 2 (DE)
 http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/154581.mkv
 
-# --- Movies | DE - MGM+ (4) ---
+# --- Movies | DE - MGM+ (5) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE - MGM+",Leben ohne Ende
 http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/4673.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE - MGM+",Das Institut
@@ -9188,8 +9192,10 @@ http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/5119.mp4
 http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/5317.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE - MGM+",Emperor of Ocean Park
 http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/5435.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | DE - MGM+",Der Künstler
+http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/6002.mp4
 
-# --- Movies | DE - Magenta TV (74) ---
+# --- Movies | DE - Magenta TV (75) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE - Magenta TV",Raised by Wolves
 http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/80.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE - Magenta TV",A Confession
@@ -9338,6 +9344,8 @@ http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/5691.mp4
 http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/5732.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE - Magenta TV",Secret Service
 http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/5984.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | DE - Magenta TV",Sherlock & Daughter
+http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/6003.mp4
 
 # --- Movies | DE - Netflix (413) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE - Netflix",Stranger Things
@@ -10659,7 +10667,7 @@ http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/5886.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE - RTL+ Premium",The Way Home
 http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/5898.mp4
 
-# --- Movies | DE - Serien (98) ---
+# --- Movies | DE - Serien (99) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE - Serien",Dark Angel
 http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/472.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE - Serien",Engel in Amerika
@@ -10856,6 +10864,8 @@ http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/5756.mp4
 http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/5957.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE - Serien",Tonnano
 http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/5998.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | DE - Serien",R.J. Decker
+http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/6004.mp4
 
 # --- Movies | DE - WOW (71) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE - WOW",Game of Thrones
@@ -27035,7 +27045,7 @@ http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/5863.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NL - KIJK",Survive Your Family
 http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/5959.mp4
 
-# --- Movies | NL - NPO Start & Plus (104) ---
+# --- Movies | NL - NPO Start & Plus (103) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | NL - NPO Start & Plus",Penoza
 http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/557.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NL - NPO Start & Plus",Top Dog
@@ -27138,8 +27148,6 @@ http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/4425.mp4
 http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/4426.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NL - NPO Start & Plus",Woeste Grond
 http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/4509.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | NL - NPO Start & Plus",Blauw
-http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/4524.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NL - NPO Start & Plus",Langs de Schelde
 http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/4552.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NL - NPO Start & Plus",Het stof daalt
@@ -27470,7 +27478,7 @@ http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/1283.mp4
 http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/1297.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NL - Netflix",Luna Park
 http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/1304.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | NL - Netflix",Kastanjemanden
+#EXTINF:-1 tvg-logo="" group-title="Movies | NL - Netflix",The Chestnut Man
 http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/1314.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NL - Netflix",Maid
 http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/1315.mp4
@@ -32892,7 +32900,7 @@ http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/127864.mkv
 http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/128218.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2DhFj7imLndCkZtsPUmuIak9sw0.jpg" group-title="Movies | TR - Son Bölüm Diziler",Piyasa (6.Bölüm) 05.04.2025
 http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/128444.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pYr58J7eePyXbUpUA9jhxPsabum.jpg" group-title="Movies | TR - Son Bölüm Diziler",Eşref Rüya (42.Bölüm) 29.04.2026
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pYr58J7eePyXbUpUA9jhxPsabum.jpg" group-title="Movies | TR - Son Bölüm Diziler",Eşref Rüya (43.Bölüm) 06.05.2026
 http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/130711.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eWnZjhoOk2KhlTtJxcqjskbSCiX.jpg" group-title="Movies | TR - Son Bölüm Diziler",Sustalı Ceylan (6.Bölüm) 09.05.2025
 http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/131877.mkv
@@ -32926,7 +32934,7 @@ http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/143958.mkv
 http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/144023.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Fn3fyq4JMlD6v1s3VZgdelbRUO.jpg" group-title="Movies | TR - Son Bölüm Diziler",Ben Onun Annesiyim (4.Bölüm) 14.11.2025
 http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/144900.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1kEgzEvhJmw5eSxuGwn0o1cgHlK.jpg" group-title="Movies | TR - Son Bölüm Diziler",Kuruluş: Orhan (22.Bölüm) 29.04.2026
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1kEgzEvhJmw5eSxuGwn0o1cgHlK.jpg" group-title="Movies | TR - Son Bölüm Diziler",Kuruluş: Orhan (23.Bölüm) 06.05.2026
 http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/145040.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/31zn3jriMaSAx9oflfn3ER5JRbn.jpg" group-title="Movies | TR - Son Bölüm Diziler",Bereketli Topraklar (5.Bölüm) 30.11.2025
 http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/145241.mkv
@@ -32936,7 +32944,7 @@ http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/146165.mkv
 http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/146662.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mGnrjWWi6ZeXlt0U3Ky8gzpOhO3.jpg" group-title="Movies | TR - Son Bölüm Diziler",A.B.İ. (14.Bölüm) 28.04.2026
 http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/148704.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bu8ks983hBPEzyAH8gSATW5aPJ7.jpg" group-title="Movies | TR - Son Bölüm Diziler",Yeraltı (13.Bölüm) 29.04.2026
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bu8ks983hBPEzyAH8gSATW5aPJ7.jpg" group-title="Movies | TR - Son Bölüm Diziler",Yeraltı (14.Bölüm) 06.05.2026
 http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/149430.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pym4NaXmFEaAfPa1ZQei6pAJGhS.jpg" group-title="Movies | TR - Son Bölüm Diziler",Aynı Yağmur Altında (7.Bölüm) 29.03.2026
 http://l1iptv.xyz/movie/saatci/ywnh6ZT5up/150135.mkv
@@ -38825,4 +38833,4 @@ http://l1iptv.xyz/series/saatci/ywnh6ZT5up/5891
 #EXTINF:-1 tvg-logo="" group-title="Series | NL - Series",American Classic
 http://l1iptv.xyz/series/saatci/ywnh6ZT5up/5953
 
-# Total: 19300
+# Total: 19304
