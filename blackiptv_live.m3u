@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: blackiptv.net:8080
-# Generated: 2026-05-08 08:16:02
+# Generated: 2026-05-08 19:25:19
 # Expires: 2026-12-21
 # Family Safe Edition
 # ==============================================
@@ -1824,7 +1824,7 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/207.m3u8
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/206.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/kabel-eins-de.png" group-title="GERMANY",DE: KABEL EINS HD
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/205.m3u8
-#EXTINF:-1 tvg-logo="" group-title="GERMANY",DE: KABEL EINS CLASSICS
+#EXTINF:-1 tvg-logo="http://195.211.191.31:808/logo/germany/KABEL_EINS_CLASSICS.png" group-title="GERMANY",DE: KABEL EINS CLASSICS
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/69989.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/servus-tv-deutchland-de.png" group-title="GERMANY",DE: SERVUS TV
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/3448.m3u8

@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: no1.no1turk.com:2086
-# Generated: 2026-05-06 20:00:53
+# Generated: 2026-05-08 19:19:11
 # Expires: 2026-09-21
 # Family Safe Edition
 # ==============================================
@@ -10,6 +10,14 @@
 # --- ALB: ALBANIA (288) ---
 #EXTINF:-1 tvg-logo="" group-title="ALB: ALBANIA",##### ALBANIA #####
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/37234.m3u8
+#EXTINF:-1 tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/64228270451.png" group-title="ALB: ALBANIA",AL • RTK 1 HD
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/180118.m3u8
+#EXTINF:-1 tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/89576017361.png" group-title="ALB: ALBANIA",AL • RTK 2 HD
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/180119.m3u8
+#EXTINF:-1 tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/16294506221.png" group-title="ALB: ALBANIA",AL • RTK 3 HD
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/180120.m3u8
+#EXTINF:-1 tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/27884385891.png" group-title="ALB: ALBANIA",AL • RTK 4 HD
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/180121.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ALB: ALBANIA",AL: Shqip 1 HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/32811.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ALB: ALBANIA",AL : Art Kino 1 HD
@@ -42,18 +50,6 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/32705.m3u8
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/32706.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ALB: ALBANIA",AL: Tring Sport 4 HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/32707.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ALB: ALBANIA",AL: RTK 1 HD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/89616.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ALB: ALBANIA",AL: RTV 21 HD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/89617.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ALB: ALBANIA",AL: RTV 21 MK HD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/89618.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ALB: ALBANIA",AL: RTK 2 HD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/89619.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ALB: ALBANIA",AL: RTK 3 HD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/89620.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ALB: ALBANIA",AL: RTK 4 HD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/89621.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ALB: ALBANIA",AL: ALB: Music HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/32754.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ALB: ALBANIA",AL: RTSH 1 HD
@@ -102,14 +98,6 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/25523.m3u8
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/25534.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ALB: ALBANIA",ALB: MAXCRO SELECT 4 HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/25526.m3u8
-#EXTINF:-1 tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/64228270451.png" group-title="ALB: ALBANIA",AL • RTK 1 HD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/180118.m3u8
-#EXTINF:-1 tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/89576017361.png" group-title="ALB: ALBANIA",AL • RTK 2 HD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/180119.m3u8
-#EXTINF:-1 tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/16294506221.png" group-title="ALB: ALBANIA",AL • RTK 3 HD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/180120.m3u8
-#EXTINF:-1 tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/27884385891.png" group-title="ALB: ALBANIA",AL • RTK 4 HD
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/180121.m3u8
 #EXTINF:-1 tvg-logo="https://curl.pk/img/u/a5a2a4b1a577cdd751a0d794ec4e1db7646.png" group-title="ALB: ALBANIA",AL • RTSH 24 HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/180122.m3u8
 #EXTINF:-1 tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/75198808101.png" group-title="ALB: ALBANIA",AL • KLAN FHD
@@ -584,6 +572,18 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/180360.m3u8
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/180361.m3u8
 #EXTINF:-1 tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/20025512331.png" group-title="ALB: ALBANIA",AL • Tring Sport NEWS HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/180362.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ALB: ALBANIA",AL: RTK 1 HD
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/89616.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ALB: ALBANIA",AL: RTV 21 HD
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/89617.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ALB: ALBANIA",AL: RTV 21 MK HD
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/89618.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ALB: ALBANIA",AL: RTK 2 HD
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/89619.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ALB: ALBANIA",AL: RTK 3 HD
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/89620.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ALB: ALBANIA",AL: RTK 4 HD
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/89621.m3u8
 
 # --- ARB: Arabic countries (66) ---
 #EXTINF:-1 tvg-logo="" group-title="ARB: Arabic countries",##### ARABIA  #####
