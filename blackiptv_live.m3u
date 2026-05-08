@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: blackiptv.net:8080
-# Generated: 2026-05-07 19:56:40
+# Generated: 2026-05-08 08:16:02
 # Expires: 2026-12-21
 # Family Safe Edition
 # ==============================================
@@ -1761,7 +1761,7 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/60043.m3u8
 #EXTINF:-1 tvg-logo="https://assets.tazztv.io/uploads/eptemplates/icons/M1QT8S9poU2vLEo6SWQ9555GuazG8ESWEd5r7isunLVDbhQc6g.png" group-title="FRANCE SPORTS",FR: DAZN EVENT 02 (ONLY MATSCHDAY)
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/60044.m3u8
 
-# --- GERMANY (55) ---
+# --- GERMANY (56) ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/flags/germany-flag.png" group-title="GERMANY",*****GERMANY CHANNEL*****
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/4947.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/zdf-de.png" group-title="GERMANY",DE: ZDF
@@ -1824,6 +1824,8 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/207.m3u8
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/206.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/kabel-eins-de.png" group-title="GERMANY",DE: KABEL EINS HD
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/205.m3u8
+#EXTINF:-1 tvg-logo="" group-title="GERMANY",DE: KABEL EINS CLASSICS
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/69989.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/servus-tv-deutchland-de.png" group-title="GERMANY",DE: SERVUS TV
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/3448.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/servus-tv-deutchland-de.png" group-title="GERMANY",DE: SERVUS TV HD
@@ -4385,13 +4387,11 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/26530.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TURK MUZIK",TR: MMN TURK TV
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/92.m3u8
 
-# --- TURK SINEMA (316) ---
+# --- TURK SINEMA (315) ---
 #EXTINF:-1 tvg-logo="" group-title="TURK SINEMA",TR: RIZE TURK
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/529.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TURK SINEMA",TR: TR10
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/70111.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TURK SINEMA",TR: KUZEYMAX TV
-http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/69989.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TURK SINEMA",TR: SDM TV Sinema
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/69991.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TURK SINEMA",TR: SUPERTURK TV

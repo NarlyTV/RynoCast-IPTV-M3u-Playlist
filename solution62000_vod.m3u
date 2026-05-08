@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: solution62000.mine.nu:8000
-# Generated: 2026-05-06 19:51:36
+# Generated: 2026-05-08 08:13:13
 # Expires: 2026-12-19
 # Family Safe Edition
 # ==============================================
@@ -1145,7 +1145,17 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/7300.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wkUCQaXIc9qkqplDJZIuxRHLQNq.jpg" group-title="Movies | FILMS TURK",Malazgirt 1071 - 2022
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/5531.mp4
 
-# --- Movies | Films (1563) ---
+# --- Movies | Films (1568) ---
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bQ0neJZ5QAD6jRHIbbdx2rtMBUb.jpg" group-title="Movies | Films",Predator: Wastelands (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/26875.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mVB9KDrtUCszXZpmtHA0vY030Ok.jpg" group-title="Movies | Films",All the Devils Are Here (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/26873.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xOgEHI9GTLhKQCQ2BL8c2biUIzp.jpg" group-title="Movies | Films",Ma frère (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/26872.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6PE4s3a1VdjCdvLtexOk3H4yNNw.jpg" group-title="Movies | Films",La pire mère au monde (2025)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/26871.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jtMuKwlOl4IzpB5fWn9RT9uyy6E.jpg" group-title="Movies | Films",Gary (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/26836.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4oi7za0reasYzAGPFK0kR6feZH3.jpg" group-title="Movies | Films",L'Agent secret (2026)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/26826.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ICQGjgWmTD3idlMUgRhhKIIxul.jpg" group-title="Movies | Films",Wedding Nightmare : Deuxième Partie (2026)
@@ -2686,7 +2696,7 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/11782.mkv
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/11565.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sNNDsAMl7IBF8DcNezRHfvQpywm.jpg" group-title="Movies | Films",The Arctic Convoy (2023)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/11016.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1o0jJYxgF7IJKdYNlDWgxomt2ft.jpg" group-title="Movies | Films",Meg Rising 2 (2023)
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gtsAg5YT04HfqTx38XAAdVNBOk0.jpg" group-title="Movies | Films",Meg Rising 2 (2023)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/10493.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2yV76jejSHMVlLn0m3CbN6MQyR8.jpg" group-title="Movies | Films",Vindicte (2023)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/10389.mkv
@@ -5195,7 +5205,9 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/691.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | MARVEL STUDIOS",Ironheart
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/773.mp4
 
-# --- Movies | NETFLIX (473) ---
+# --- Movies | NETFLIX (474) ---
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/b1VNnA0ewb6F0hccCpPpXD8c8oT.jpg" group-title="Movies | NETFLIX",My Dearest Assassin (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/26874.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gF31H52xpOmPFUjXYEwITHqmjCQ.jpg" group-title="Movies | NETFLIX",Par alliance (2026)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/26751.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9iuGBLJBRuGKR6nRL4SxUV1tIdt.jpg" group-title="Movies | NETFLIX",Apex (2026)
@@ -7381,7 +7393,7 @@ http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1104
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Turk",( 2026 ) - مترجمة Çirkin القبيحة
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1112
 
-# --- Series | Series divers (288) ---
+# --- Series | Series divers (289) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Salvation
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/5
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Gomorra
@@ -7958,5 +7970,7 @@ http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1138
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1139
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",R.J. Decker
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1141
+#EXTINF:-1 tvg-logo="" group-title="Series | Series divers",M.I.A.
+http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1143
 
-# Total: 3946
+# Total: 3953

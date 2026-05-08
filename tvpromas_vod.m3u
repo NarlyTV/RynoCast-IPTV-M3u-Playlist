@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: tvpromas.com:8080
-# Generated: 2026-05-07 19:43:55
+# Generated: 2026-05-08 08:16:28
 # Expires: 2027-01-08
 # Family Safe Edition
 # ==============================================
@@ -7729,7 +7729,7 @@ http://tvpromas.com:8080/movie/stksared/9520/80844.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dOboKSPT9PPZFKhOya3YHrY4rHn.jpg" group-title="Movies | CINE PERUANO",¿Mi Novia es Él? (2019)
 http://tvpromas.com:8080/movie/stksared/9520/80845.mp4
 
-# --- Movies | COMEDIA (1088) ---
+# --- Movies | COMEDIA (1089) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hxtvnvWdeibiDc6mU5ftAUPGofe.jpg" group-title="Movies | COMEDIA",4 Latas (2019)
 http://tvpromas.com:8080/movie/stksared/9520/5863.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nITLSFHonQJGVrnfDzfNqvtbOjO.jpg" group-title="Movies | COMEDIA",Ace Ventura 1: Detective de Mascotas (1994)
@@ -9906,6 +9906,8 @@ http://tvpromas.com:8080/movie/stksared/9520/2588.mp4
 http://tvpromas.com:8080/movie/stksared/9520/2601.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | COMEDIA",El Encargado
 http://tvpromas.com:8080/movie/stksared/9520/2604.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | COMEDIA",Todos Odian a Chris
+http://tvpromas.com:8080/movie/stksared/9520/2611.mp4
 
 # --- Movies | CONCIERTOS & SHOWS (349) ---
 #EXTINF:-1 tvg-logo="https://s33.postimg.cc/evlncu9vj/Americo_-_Vi_a_del_Mar_2011.jpg" group-title="Movies | CONCIERTOS & SHOWS",Américo - Viña del Mar (2011)
@@ -12287,7 +12289,7 @@ http://tvpromas.com:8080/movie/stksared/9520/2590.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DOCUMENTALES",Hulk Hogan: Real American
 http://tvpromas.com:8080/movie/stksared/9520/2596.mp4
 
-# --- Movies | DRAMA (1374) ---
+# --- Movies | DRAMA (1375) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8YcjGJtW4AEHyNH8yrs8FAaPBM.jpg" group-title="Movies | DRAMA",12 valientes (2018)
 http://tvpromas.com:8080/movie/stksared/9520/3344.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1XbNkZMLXD9dYGZJ87nmQ62Mp2l.jpg" group-title="Movies | DRAMA",127 Horas (2010)
@@ -15036,6 +15038,8 @@ http://tvpromas.com:8080/movie/stksared/9520/2600.mp4
 http://tvpromas.com:8080/movie/stksared/9520/2602.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DRAMA",Te irás al infierno
 http://tvpromas.com:8080/movie/stksared/9520/2609.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | DRAMA",La Casa de los Espiritus
+http://tvpromas.com:8080/movie/stksared/9520/2612.mp4
 
 # --- Movies | INFANTILES (912) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gp7d1OGYpBGyG5E6fr1fMi01bvK.jpg" group-title="Movies | INFANTILES",Abominable (2019)
@@ -22787,4 +22791,4 @@ http://tvpromas.com:8080/series/stksared/9520/2579
 #EXTINF:-1 tvg-logo="" group-title="Series | TELESERIES",Hermanas, un amor compartido
 http://tvpromas.com:8080/series/stksared/9520/2580
 
-# Total: 11358
+# Total: 11360
