@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: ultrapremium.cloud:8080
-# Generated: 2026-05-04 19:30:33
+# Generated: 2026-05-08 19:21:15
 # Expires: 2026-05-28
 # Family Safe Edition
 # ==============================================
@@ -1407,7 +1407,9 @@ http://ultrapremium.cloud:8080/movie/964374735tv/4fdc5eg3/236090.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/47Cd0MIpIG6qoz9FdHl3NBdU8Oh.jpg" group-title="Movies | → VOD ANIME ←",Bleach: Hell Verse (2010)
 http://ultrapremium.cloud:8080/movie/964374735tv/4fdc5eg3/236092.mp4
 
-# --- Movies | → VOD AVENTURAS ← (604) ---
+# --- Movies | → VOD AVENTURAS ← (605) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pQoxndesKFNyG3895L0yiVcVJUK.jpg" group-title="Movies | → VOD AVENTURAS ←",Dos chicos en Fuga
+http://ultrapremium.cloud:8080/movie/964374735tv/4fdc5eg3/281101.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h7iMI8yITHvLWKyYlQdIYQYfca3.jpg" group-title="Movies | → VOD AVENTURAS ←",Highlander: Juego Final
 http://ultrapremium.cloud:8080/movie/964374735tv/4fdc5eg3/280325.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8PXQBpvaOjRr5Bz33RX2OrDEq3M.jpg" group-title="Movies | → VOD AVENTURAS ←",Foxter & Max: Un perro de otro Mundo
@@ -5033,7 +5035,9 @@ http://ultrapremium.cloud:8080/movie/964374735tv/4fdc5eg3/10108.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2I3Jorx96I4dRevKlKDMkCFhQ1R.jpg" group-title="Movies | → VOD CINE CHILENO ←",El Club (2015)
 http://ultrapremium.cloud:8080/movie/964374735tv/4fdc5eg3/10109.mkv
 
-# --- Movies | → VOD CLÁSICAS ← (167) ---
+# --- Movies | → VOD CLÁSICAS ← (168) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jrzX7TCmoD5gedFeqb1iB9sBaSn.jpg" group-title="Movies | → VOD CLÁSICAS ←",El Silencio de los Inocentes (1991)
+http://ultrapremium.cloud:8080/movie/964374735tv/4fdc5eg3/281100.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e5sTLCpmqd6gWWbZ4cps9UkTKiN.jpg" group-title="Movies | → VOD CLÁSICAS ←",Abbott y Costello en la legion extranjera (1950)
 http://ultrapremium.cloud:8080/movie/964374735tv/4fdc5eg3/280558.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vSp2sMdtEq3bVp2sU5FSOaGZPDG.jpg" group-title="Movies | → VOD CLÁSICAS ←",Abbott y Costello: Vuelven los reclutas (1947)
@@ -13921,7 +13925,9 @@ http://ultrapremium.cloud:8080/movie/964374735tv/4fdc5eg3/268771.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9yBW60Pm0eeXsKeiZMvMolCuhyU.jpg" group-title="Movies | → VOD ESTRENOS 2025 ←",Ad Vitam (2025)
 http://ultrapremium.cloud:8080/movie/964374735tv/4fdc5eg3/268613.mp4
 
-# --- Movies | → VOD ESTRENOS 2026 ← (34) ---
+# --- Movies | → VOD ESTRENOS 2026 ← (35) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/16TvbhCP8CfiGEbxcbtQLYWO6WG.jpg" group-title="Movies | → VOD ESTRENOS 2026 ←",Sangre asesina (2026)
+http://ultrapremium.cloud:8080/movie/964374735tv/4fdc5eg3/281105.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kCb3QJNLi0alrk7i5aCphkkuoFl.jpg" group-title="Movies | → VOD ESTRENOS 2026 ←",Cumbres Borrascosas (2026) (Version Modificada)
 http://ultrapremium.cloud:8080/movie/964374735tv/4fdc5eg3/281045.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dkIzjzfv7TbXqjbJKM51CZYORaR.jpg" group-title="Movies | → VOD ESTRENOS 2026 ←",La Caja Azul (2026)
@@ -18813,7 +18819,7 @@ http://ultrapremium.cloud:8080/series/964374735tv/4fdc5eg3/2569
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DOCUMENTALES ←",Hulk Hogan: Real American
 http://ultrapremium.cloud:8080/series/964374735tv/4fdc5eg3/2574
 
-# --- Series | → SERIES DRAMA ← (308) ---
+# --- Series | → SERIES DRAMA ← (309) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DRAMA ←",4 Blocks
 http://ultrapremium.cloud:8080/series/964374735tv/4fdc5eg3/7
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DRAMA ←",Por trece razones
@@ -19430,6 +19436,8 @@ http://ultrapremium.cloud:8080/series/964374735tv/4fdc5eg3/2577
 http://ultrapremium.cloud:8080/series/964374735tv/4fdc5eg3/2578
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DRAMA ←",Privilegios
 http://ultrapremium.cloud:8080/series/964374735tv/4fdc5eg3/2579
+#EXTINF:-1 tvg-logo="" group-title="Series | → SERIES DRAMA ←",Las bucaneras
+http://ultrapremium.cloud:8080/series/964374735tv/4fdc5eg3/2580
 
 # --- Series | → SERIES INFANTILES ← (44) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES INFANTILES ←",¡La serie de Cuphead!
@@ -19955,4 +19963,4 @@ http://ultrapremium.cloud:8080/series/964374735tv/4fdc5eg3/2345
 #EXTINF:-1 tvg-logo="" group-title="Series | → SERIES TERROR-THRILLER-SUSPENSO ←",It: Bienvenidos a Derry
 http://ultrapremium.cloud:8080/series/964374735tv/4fdc5eg3/2492
 
-# Total: 9901
+# Total: 9905

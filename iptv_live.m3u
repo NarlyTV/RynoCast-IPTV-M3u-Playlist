@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: iptv.nextnet.krd:25461
-# Generated: 2026-05-04 19:36:01
+# Generated: 2026-05-08 19:20:33
 # Expires: Unlimited
 # Family Safe Edition
 # ==============================================
@@ -63,7 +63,7 @@ http://iptv.nextnet.krd:25461/live/nextnet/3738/5590.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/W2MsCTm/parwarday-TV.jpg" group-title="Education",Parwarday TV
 http://iptv.nextnet.krd:25461/live/nextnet/3738/3302.m3u8
 
-# --- Entertainment (86) ---
+# --- Entertainment (85) ---
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Ph3PBFz/bmc.png" group-title="Entertainment",BMC
 http://iptv.nextnet.krd:25461/live/nextnet/3738/88.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dbB3j8t/zed.png" group-title="Entertainment",Zed HD
@@ -202,8 +202,6 @@ http://iptv.nextnet.krd:25461/live/nextnet/3738/4754.m3u8
 http://iptv.nextnet.krd:25461/live/nextnet/3738/5022.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/37ajg2j.png" group-title="Entertainment",Jin TV
 http://iptv.nextnet.krd:25461/live/nextnet/3738/5024.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/D6KBLB8.png" group-title="Entertainment",Komala TV
-http://iptv.nextnet.krd:25461/live/nextnet/3738/5026.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/TRT_Kurd%C3%AE_logo.svg/512px-TRT_Kurd%C3%AE_logo.svg.png" group-title="Entertainment",TRT kurdi
 http://iptv.nextnet.krd:25461/live/nextnet/3738/5030.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UCwjdtQ.png" group-title="Entertainment",Pluto TV Funny AF
@@ -353,7 +351,7 @@ http://iptv.nextnet.krd:25461/live/nextnet/3738/5023.m3u8
 #EXTINF:-1 tvg-logo="" group-title="News",Shams tv
 http://iptv.nextnet.krd:25461/live/nextnet/3738/5575.m3u8
 
-# --- Persian (31) ---
+# --- Persian (30) ---
 #EXTINF:-1 tvg-logo="https://i.scdn.co/image/ab6765630000ba8a2a409eac24592005bbd1c564" group-title="Persian",Mihan TV
 http://iptv.nextnet.krd:25461/live/nextnet/3738/4848.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PexhKwp.png" group-title="Persian",4U TV
@@ -376,8 +374,6 @@ http://iptv.nextnet.krd:25461/live/nextnet/3738/4884.m3u8
 http://iptv.nextnet.krd:25461/live/nextnet/3738/4886.m3u8
 #EXTINF:-1 tvg-logo="https://images.persianagroup.cloud/channels/smallThumbnail/persiana-music.png" group-title="Persian",Persiana Music
 http://iptv.nextnet.krd:25461/live/nextnet/3738/4888.m3u8
-#EXTINF:-1 tvg-logo="https://images.persianagroup.cloud/channels/smallThumbnail/persiana-rap.png" group-title="Persian",Persiana Rap
-http://iptv.nextnet.krd:25461/live/nextnet/3738/4889.m3u8
 #EXTINF:-1 tvg-logo="https://images.persianagroup.cloud/channels/smallThumbnail/persiana-iranian.png" group-title="Persian",Persiana Iranian
 http://iptv.nextnet.krd:25461/live/nextnet/3738/4890.m3u8
 #EXTINF:-1 tvg-logo="https://images.persianagroup.cloud/channels/smallThumbnail/persiana-comedy.png" group-title="Persian",Persiana Comedy
@@ -503,4 +499,4 @@ http://iptv.nextnet.krd:25461/live/nextnet/3738/4927.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UcAwBep.png" group-title="USA",UN Web TV
 http://iptv.nextnet.krd:25461/live/nextnet/3738/4952.m3u8
 
-# Total: 237
+# Total: 235
