@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: pedro00.net:88
-# Generated: 2026-05-09 08:17:50
+# Generated: 2026-05-09 18:59:28
 # Expires: 2027-02-10
 # Family Safe Edition
 # ==============================================
@@ -1227,7 +1227,9 @@ http://pedro00.net:88/movie/4D3tNcx1MedRPSI/qf6lp0i4c4MQXYU/860114.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eAIGX0nlwlb5sMb4uDRGNFqMyG9.jpg" group-title="Movies | |MULTI| MARVEL",|FR| Thor : Le Monde des ténèbres (2013)
 http://pedro00.net:88/movie/4D3tNcx1MedRPSI/qf6lp0i4c4MQXYU/860115.mkv
 
-# --- Movies | |MULTI| NETFLIX (607) ---
+# --- Movies | |MULTI| NETFLIX (608) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9HcEqn3D4J6b2Z0jK54id9nA0fr.jpg" group-title="Movies | |MULTI| NETFLIX",|MULTI| Remarkably Bright Creatures (2026)
+http://pedro00.net:88/movie/4D3tNcx1MedRPSI/qf6lp0i4c4MQXYU/2150686.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/8n4ypYQWztEXlR8JxD0fctdKwfC.jpg" group-title="Movies | |MULTI| NETFLIX",|MULTI| Ustaad Bhagat Singh (2026)
 http://pedro00.net:88/movie/4D3tNcx1MedRPSI/qf6lp0i4c4MQXYU/2027602.mkv
 #EXTINF:-1 tvg-logo="None" group-title="Movies | |MULTI| NETFLIX",|MULTI| Je m'appelle Agneta (2026)
@@ -2797,4 +2799,4 @@ http://pedro00.net:88/movie/4D3tNcx1MedRPSI/qf6lp0i4c4MQXYU/1913675.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q8pF6s9b9veTQvxTqMDIQf9nJKi.jpg" group-title="Movies | |VOD-FR| 4K HDR | SDR",||FR|| Thor (2011)
 http://pedro00.net:88/movie/4D3tNcx1MedRPSI/qf6lp0i4c4MQXYU/1913674.mkv
 
-# Total: 1385
+# Total: 1386
