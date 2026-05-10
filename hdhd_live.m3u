@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: hdhd.tk:80
-# Generated: 2026-05-10 08:06:25
+# Generated: 2026-05-10 19:04:45
 # Expires: 2027-10-14
 # Family Safe Edition
 # ==============================================
@@ -3148,7 +3148,7 @@ http://hdhd.tk:80/live/Amanda1/Frechette1/336139.m3u8
 http://hdhd.tk:80/live/Amanda1/Frechette1/336140.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PPV  EVENTS",USA PPV13:
 http://hdhd.tk:80/live/Amanda1/Frechette1/44011.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV  EVENTS",USA PPV14
+#EXTINF:-1 tvg-logo="" group-title="PPV  EVENTS",USA PPV14 Redneck Brawl 13 @ 08:00 PM
 http://hdhd.tk:80/live/Amanda1/Frechette1/44509.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PPV  EVENTS",USA PPV 02  backup
 http://hdhd.tk:80/live/Amanda1/Frechette1/336661.m3u8
@@ -6366,9 +6366,9 @@ http://hdhd.tk:80/live/Amanda1/Frechette1/882834.m3u8
 # --- USA NBA (18) ---
 #EXTINF:-1 tvg-logo="https://static.epg.best/us/NBATV.us.png" group-title="USA NBA",US NBA TV
 http://hdhd.tk:80/live/Amanda1/Frechette1/6634.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/us/NBATV.us.png" group-title="USA NBA",USA NBA 01 OKC Thunder VS LAL Lakers ( ABC Feed ) @ 8:30 PM
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/NBATV.us.png" group-title="USA NBA",USA NBA 01
 http://hdhd.tk:80/live/Amanda1/Frechette1/12701.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/us/NBATV.us.png" group-title="USA NBA",USA NBA 02:: Detroit Pistons vs Cleveland Cavaliers @ 03:00 PM EDT
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/NBATV.us.png" group-title="USA NBA",USA NBA 02::
 http://hdhd.tk:80/live/Amanda1/Frechette1/12702.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/us/NBATV.us.png" group-title="USA NBA",USA NBA 03:
 http://hdhd.tk:80/live/Amanda1/Frechette1/12703.m3u8
