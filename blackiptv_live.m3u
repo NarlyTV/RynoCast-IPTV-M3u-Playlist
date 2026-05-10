@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: blackiptv.net:8080
-# Generated: 2026-05-08 19:25:19
+# Generated: 2026-05-10 19:02:08
 # Expires: 2026-12-21
 # Family Safe Edition
 # ==============================================
@@ -189,7 +189,9 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/24096.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ALBANIEN",AL: Film Aksion
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/24097.m3u8
 
-# --- ALL COUNTRY MUSIC (139) ---
+# --- ALL COUNTRY MUSIC (140) ---
+#EXTINF:-1 tvg-logo="" group-title="ALL COUNTRY MUSIC",AT: Antenne Österreich
+http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/73877.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ALL COUNTRY MUSIC",MUSIC: SENZI MUSIC BOX
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/587.m3u8
 #EXTINF:-1 tvg-logo="https://starrsystems.net/wp-content/uploads/2016/07/Services-Music-Systems-page.png" group-title="ALL COUNTRY MUSIC",*****ALL MUSIC*****
@@ -5385,11 +5387,9 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/110.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/line-tv-tr.png" group-title="TURK ULUSAL",TR: LINE TV
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/103.m3u8
 
-# --- TURK YEREL (75) ---
+# --- TURK YEREL (74) ---
 #EXTINF:-1 tvg-logo="" group-title="TURK YEREL",TR: TIVI 16
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/824.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TURK YEREL",TR: USKUDAR UNV TV
-http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/71038.m3u8
 #EXTINF:-1 tvg-logo="https://tbbweb.tv/img/logo.png" group-title="TURK YEREL",TR: TRABZON BB TV
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/71037.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TURK YEREL",TR: SAT 7 TURK

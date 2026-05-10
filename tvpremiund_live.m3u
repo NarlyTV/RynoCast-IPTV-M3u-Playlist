@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: tvpremiund.ddns.me:2082
-# Generated: 2026-05-08 19:12:37
+# Generated: 2026-05-10 19:09:08
 # Expires: 2026-06-14
 # Family Safe Edition
 # ==============================================
@@ -70,8 +70,6 @@ http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/27314.m3u8
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/2339.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W3cHHNd9/lnplus.png" group-title="ARGENTINA",LN+ La Nación
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/2344.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vFwPhPS.png" group-title="ARGENTINA",TN (Todo Noticias)
-http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/2341.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4DC0-vjxdknUnvyD_wtUZ3iAacVmZqmj7_O6aRYYGT30zyv7Up4KWSamHZ_eZ3H84uhvmrXs-XiVCG2KX_xVteVyguWXrPr1D_MNiBJT6ckBDA_-5Gx-FTnaXA0EXGl4o2i91qFqnI0Z5P9N45IKO5TX3bDdWMmqTXzua5KV5YRDJAJnkNPN0hx9h/s558/CRONICATV.png" group-title="ARGENTINA",Crónica
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/2342.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/C5N_Logo_2015.PNG" group-title="ARGENTINA",C5N
@@ -156,6 +154,8 @@ http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/138006.m3u8
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/69570.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1374_Ver_TV.png" group-title="ARGENTINA",Ver TV
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/75233.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vFwPhPS.png" group-title="ARGENTINA",TN (Todo Noticias)
+http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/138118.m3u8
 
 # --- BOLIVIA (17) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/ATB_logo_nuevo.png" group-title="BOLIVIA",ATB
@@ -3183,7 +3183,7 @@ http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/70174.m3u8
 #EXTINF:-1 tvg-logo="https://players.grupodial.cl/player/radio/img/45b312bfd616a3430ab90167854fe44b08121256.png" group-title="MUSICA",Radio Duna TV
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/30.m3u8
 
-# --- OTROS (6264) ---
+# --- OTROS (6263) ---
 #EXTINF:-1 tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/dark.jpg" group-title="OTROS",Dark
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/67762.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/925_Nubeh_TV.png" group-title="OTROS",Nubeh TV ✪ | VE
@@ -4094,8 +4094,6 @@ http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/66086.m3u8
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/66087.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CKCtZo7.png" group-title="OTROS",30A Investment Pitch (720p)
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/66099.m3u8
-#EXTINF:-1 tvg-logo="" group-title="OTROS",43 канал (720p)
-http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/66101.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q7THHhX.png" group-title="OTROS",48 Hours (Pluto TV) (720p)
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/66102.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y4kNV3Q.png" group-title="OTROS",70-80 TV (1080P)
@@ -16489,4 +16487,4 @@ http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/54866.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/520_Venevision.png" group-title="VENEZUELA",Venevision
 http://tvpremiund.ddns.me:2082/live/56972393798wspzero/271224zero/2429.m3u8
 
-# Total: 8209
+# Total: 8208

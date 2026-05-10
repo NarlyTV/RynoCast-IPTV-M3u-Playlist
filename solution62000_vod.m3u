@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: solution62000.mine.nu:8000
-# Generated: 2026-05-08 08:13:13
+# Generated: 2026-05-10 19:07:12
 # Expires: 2026-12-19
 # Family Safe Edition
 # ==============================================
@@ -1145,15 +1145,21 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/7300.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wkUCQaXIc9qkqplDJZIuxRHLQNq.jpg" group-title="Movies | FILMS TURK",Malazgirt 1071 - 2022
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/5531.mp4
 
-# --- Movies | Films (1568) ---
+# --- Movies | Films (1573) ---
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yzMVS2PPaCj58i3Og7FgtIpMLA6.jpg" group-title="Movies | Films",L'Engloutie (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/26910.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7NrvUI3vnW8H3rD7ExKcTL7KRcQ.jpg" group-title="Movies | Films",Beast (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/26904.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/n95iyADX43EYYIRkY0UhG1ufKB6.jpg" group-title="Movies | Films",Very Bad Job (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/26903.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xGLkmaUEhgru8ImYOyQTUyejiz6.jpg" group-title="Movies | Films",Un pas de côté (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/26902.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bQ0neJZ5QAD6jRHIbbdx2rtMBUb.jpg" group-title="Movies | Films",Predator: Wastelands (2026)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/26875.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mVB9KDrtUCszXZpmtHA0vY030Ok.jpg" group-title="Movies | Films",All the Devils Are Here (2026)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/26873.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xOgEHI9GTLhKQCQ2BL8c2biUIzp.jpg" group-title="Movies | Films",Ma frère (2026)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/26872.mkv
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6PE4s3a1VdjCdvLtexOk3H4yNNw.jpg" group-title="Movies | Films",La pire mère au monde (2025)
-http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/26871.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jtMuKwlOl4IzpB5fWn9RT9uyy6E.jpg" group-title="Movies | Films",Gary (2026)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/26836.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4oi7za0reasYzAGPFK0kR6feZH3.jpg" group-title="Movies | Films",L'Agent secret (2026)
@@ -1300,6 +1306,10 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/21982.mkv
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/21981.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/27j9fRcvtaskGPsuHXvVTAi1fEc.jpg" group-title="Movies | Films",The Internship (2026)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/21941.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9elkqiEjuJEYVr2p4XsmHyTySlM.jpg" group-title="Movies | Films",Gagne ton ciel (2025)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/26909.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6PE4s3a1VdjCdvLtexOk3H4yNNw.jpg" group-title="Movies | Films",La pire mère au monde (2025)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/26871.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/oq1pGVQ2t3Cy4v7sA4LRhNjtZuJ.jpg" group-title="Movies | Films",The Last Stand of Ellen Cole (2025)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/26637.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7GqEmx1pUQE8pLJR7OR0urXfBuu.jpg" group-title="Movies | Films",ClearMind (2025)
@@ -6493,7 +6503,9 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1803.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6HWjDWStk86YJr8ooYFQe4nVhF8.jpg" group-title="Movies | SPECTACLE",Yacine Belhousse : 2021 (2022)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1439.mkv
 
-# --- Movies | prime video (183) ---
+# --- Movies | prime video (184) ---
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7Zyx2JDEnU3PCfch0fn3A0dc8FE.jpg" group-title="Movies | prime video",Amour, Chianti et Tutti Quanti (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/26911.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ygWXPL0RS91JyJPNOfK34eV3bRE.jpg" group-title="Movies | prime video",Vengeance (2026)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/26348.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/d0k1OH8vBxr9xYjUmHTrXbGo4IW.jpg" group-title="Movies | prime video",Balls Up : Mettez le paquet ! (2026)
@@ -7393,7 +7405,7 @@ http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1104
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Turk",( 2026 ) - مترجمة Çirkin القبيحة
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1112
 
-# --- Series | Series divers (289) ---
+# --- Series | Series divers (290) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Salvation
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/5
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Gomorra
@@ -7972,5 +7984,7 @@ http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1139
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1141
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",M.I.A.
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1143
+#EXTINF:-1 tvg-logo="" group-title="Series | Series divers",The Madison
+http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1144
 
-# Total: 3953
+# Total: 3960

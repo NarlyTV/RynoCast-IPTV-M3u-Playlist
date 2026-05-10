@@ -1,8 +1,8 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: squid.game-tv.org:8080
-# Generated: 2026-05-08 19:16:39
-# Expires: 2026-07-17
+# Generated: 2026-05-10 19:01:37
+# Expires: 2026-10-17
 # Family Safe Edition
 # ==============================================
 
@@ -616,6 +616,8 @@ http://squid.game-tv.org:8080/live/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/43838.m3u
 http://squid.game-tv.org:8080/live/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/35818.m3u8
 #EXTINF:-1 tvg-logo="http://apk.cx/logos/romanesti/filmbox_extra.png" group-title="Romania",FilmBox Extra HD
 http://squid.game-tv.org:8080/live/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/41499.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Romania",CineWow
+http://squid.game-tv.org:8080/live/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/9607.m3u8
 #EXTINF:-1 tvg-logo="http://apk.cx/logos/romanesti/bollywood_classic.png" group-title="Romania",Bollywood Classic FHD
 http://squid.game-tv.org:8080/live/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/36415.m3u8
 #EXTINF:-1 tvg-logo="http://apk.cx/logos/romanesti/happy_channel.png" group-title="Romania",HAPPY CHANNEL FHD
@@ -978,7 +980,7 @@ http://squid.game-tv.org:8080/live/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/31626.m3u
 http://squid.game-tv.org:8080/live/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/8994.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YNBbp3x/ImpactTV.png" group-title="Romania",ImpactTV Manele
 http://squid.game-tv.org:8080/live/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/35185.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YNBbp3x/ImpactTV.png" group-title="Romania",ImpactTV Manele 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YNBbp3x/ImpactTV.png" group-title="Romania",ImpactTV 2
 http://squid.game-tv.org:8080/live/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/48232.m3u8
 #EXTINF:-1 tvg-logo="http://apk.cx/logos/romanesti/zu_tv.png" group-title="Romania",ZU TV SD
 http://squid.game-tv.org:8080/live/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/28118.m3u8
@@ -1012,8 +1014,6 @@ http://squid.game-tv.org:8080/live/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/64362.m3u
 http://squid.game-tv.org:8080/live/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/64361.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Dz9625z/diadpora-2.png" group-title="Romania",Diaspora TV HD
 http://squid.game-tv.org:8080/live/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/44061.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VJCydVb/dibi-tv.png" group-title="Romania",Dibi TV Manele HD
-http://squid.game-tv.org:8080/live/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/9607.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/G0nHD9v/VH1-Classic.png" group-title="Romania",VH1 Classic SD
 http://squid.game-tv.org:8080/live/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/34344.m3u8
 #EXTINF:-1 tvg-logo="http://apk.cx/logos/romanesti/exploris_tv.png" group-title="Romania",Exploris TV SD

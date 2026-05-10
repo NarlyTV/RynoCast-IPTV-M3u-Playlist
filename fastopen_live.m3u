@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: fastopen.live:8080
-# Generated: 2026-05-08 19:21:40
+# Generated: 2026-05-10 19:02:50
 # Expires: 2026-12-09
 # Family Safe Edition
 # ==============================================
@@ -17801,7 +17801,7 @@ http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/104936.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Latin America",Juno7 TV Haiti Latin America
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/104935.m3u8
 
-# --- Lithuania (22) ---
+# --- Lithuania (27) ---
 #EXTINF:-1 tvg-logo="" group-title="Lithuania",##########   Lithuania   ##########
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/21148.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/lt/LNK.lt.png" group-title="Lithuania",LNK LT
@@ -17826,8 +17826,18 @@ http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/46840.m3u8
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/46839.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/lt/TV3.lt.png" group-title="Lithuania",TV 3 LT
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/46836.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/lt/TV3.lt.png" group-title="Lithuania",TV 3 HD LT
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/134891.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Lithuania",TV 3 Sport 1 HD LT
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/134892.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Lithuania",TV 3 Sport 2 FHD LT
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/134890.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/lt/TV3.lt.png" group-title="Lithuania",3PLUS LT
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/104036.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Lithuania",GO3 Sport Open LT
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/134893.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Lithuania",GO3 Sport 4 FHD LT
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/134894.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/lt/LRTTelevizija.lt.png" group-title="Lithuania",LRT HD LT
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/46834.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/lt/ViasatHistory.lt.png" group-title="Lithuania",VIASAT HISTORY HD EUROPE LT
@@ -31647,4 +31657,4 @@ http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/104838.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ex-Yu VIP",K1 HD ex-YU
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/104749.m3u8
 
-# Total: 15716
+# Total: 15721

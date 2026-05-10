@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: tkosportz.live:25461
-# Generated: 2026-05-08 19:22:19
+# Generated: 2026-05-10 18:59:05
 # Expires: 2026-05-26
 # Family Safe Edition
 # ==============================================
@@ -50,13 +50,13 @@ http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/206859.m3u8
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/218787.m3u8
 #EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/ppv-1.png" group-title="01. PPV FIGHTS/WWE (ET)",04. 8p AEW WEEKLY EVENTS
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/223036.m3u8
-#EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/ppv-1.png" group-title="01. PPV FIGHTS/WWE (ET)",09.
+#EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/ppv-1.png" group-title="01. PPV FIGHTS/WWE (ET)",09. 4p WWE Backlash (Spanish)
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/223037.m3u8
-#EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/ppv-1.png" group-title="01. PPV FIGHTS/WWE (ET)",06.
+#EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/ppv-1.png" group-title="01. PPV FIGHTS/WWE (ET)",06. 5p Redneck  Brawl 13
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/223041.m3u8
-#EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/ppv-1.png" group-title="01. PPV FIGHTS/WWE (ET)",07.
+#EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/ppv-1.png" group-title="01. PPV FIGHTS/WWE (ET)",07. 8p Leo vs. Aleem (BOXING)
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/223518.m3u8
-#EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/ppv-1.png" group-title="01. PPV FIGHTS/WWE (ET)",08.
+#EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/ppv-1.png" group-title="01. PPV FIGHTS/WWE (ET)",08. 4p WWE Backlash
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/223519.m3u8
 #EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/ppv-1.png" group-title="01. PPV FIGHTS/WWE (ET)",10.
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/223520.m3u8
@@ -114,6 +114,20 @@ http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/240960.m3u8
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/240961.m3u8
 #EXTINF:-1 tvg-logo="" group-title="01. PPV FIGHTS/WWE (ET)",TrillerTV Event 20
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/240962.m3u8
+
+# --- 01. UFC 328 (6) ---
+#EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Ultimate_Fighting_Championship.png" group-title="01. UFC 328",01. UFC EARLY
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/38153.m3u8
+#EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Ultimate_Fighting_Championship.png" group-title="01. UFC 328",02. Prelims
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/38154.m3u8
+#EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Ultimate_Fighting_Championship.png" group-title="01. UFC 328",03. 9p MAIN PPV
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/38155.m3u8
+#EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Ultimate_Fighting_Championship.png" group-title="01. UFC 328",04. MAIN PPV #2
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/38156.m3u8
+#EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Ultimate_Fighting_Championship.png" group-title="01. UFC 328",05. MULTIVIEW
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/223004.m3u8
+#EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Ultimate_Fighting_Championship.png" group-title="01. UFC 328",07. Spanish Main
+http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/223967.m3u8
 
 # --- 02. USA CABLE  TV #1 (150) ---
 #EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/ae-logo-black-and-white.png" group-title="02. USA CABLE  TV #1",A&E
@@ -16073,7 +16087,7 @@ http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/240879.m3u8
 #EXTINF:-1 tvg-logo="http://azsold.xyz:9090/logos/s3444.jpg" group-title="09. 24-7 #6",24/7 Big Band Jazz Fireplace Ambience  Instrumental Jazz Party Music VIP
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/240880.m3u8
 
-# --- 17. LOCALS BY STATE (793) ---
+# --- 17. LOCALS BY STATE (780) ---
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/2a7jT0OWZMnQlDIwNzTC2Z_k-RZw8BDm842jQM6FWg9DwIIQiBPGruO4inleodSo2eCyZoV7-tqw=ns-nd" group-title="17. LOCALS BY STATE",CBS: IL CHAMPAIGN  WCIA 3
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/215385.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/2a7jT0OWZMnQlDIwNzTC2Z_k-RZw8BDm842jQM6FWg9DwIIQiBPGruO4inleodSo2eCyZoV7-tqw=ns-nd" group-title="17. LOCALS BY STATE",CBS CLEVELAND WOIO 19
@@ -16318,8 +16332,6 @@ http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/215504.m3u8
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/215505.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/j6Cp5HB/nbc.png" group-title="17. LOCALS BY STATE",NBC McAllen TX
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/215506.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/j6Cp5HB/nbc.png" group-title="17. LOCALS BY STATE",NBC: CINCINNATI WLWT
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/215507.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/j6Cp5HB/nbc.png" group-title="17. LOCALS BY STATE",NBC: CO DENVER KUSA
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/215508.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/j6Cp5HB/nbc.png" group-title="17. LOCALS BY STATE",NBC: CO GRAND JUNCTION KKCO
@@ -16332,8 +16344,6 @@ http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/215511.m3u8
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/215512.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/j6Cp5HB/nbc.png" group-title="17. LOCALS BY STATE",NBC:  WESH 2
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/215513.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/j6Cp5HB/nbc.png" group-title="17. LOCALS BY STATE",NBC: FL FORT MYERS WBBH
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/215514.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/j6Cp5HB/nbc.png" group-title="17. LOCALS BY STATE",NBC: FL GAINESVILLE WNBW
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/215515.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/j6Cp5HB/nbc.png" group-title="17. LOCALS BY STATE",NBC: FL JACKSONVILLE WTLV
@@ -17624,28 +17634,6 @@ http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/216159.m3u8
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/216160.m3u8
 #EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/524-5244555_fox-tv-logo-png-fox-channel-logo-vector.png" group-title="17. LOCALS BY STATE",Lafayette IN | FOX-WPBI-LP
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/216161.m3u8
-#EXTINF:-1 tvg-logo="https://www.directv.com/dtvassets/sales/logos/directv_hz_rgb_pos.png" group-title="17. LOCALS BY STATE",Atlanta | Univision-WUVG
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/216162.m3u8
-#EXTINF:-1 tvg-logo="https://www.directv.com/dtvassets/sales/logos/directv_hz_rgb_pos.png" group-title="17. LOCALS BY STATE",Austin | Univision-KAKW
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/216163.m3u8
-#EXTINF:-1 tvg-logo="https://www.directv.com/dtvassets/sales/logos/directv_hz_rgb_pos.png" group-title="17. LOCALS BY STATE",Chicago | Univision-WGBO
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/216164.m3u8
-#EXTINF:-1 tvg-logo="" group-title="17. LOCALS BY STATE",Dallas | Univision-KUVN
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/216165.m3u8
-#EXTINF:-1 tvg-logo="" group-title="17. LOCALS BY STATE",Houston | Univision-KXLN
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/216166.m3u8
-#EXTINF:-1 tvg-logo="" group-title="17. LOCALS BY STATE",Los Angeles | Univision-KMEX
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/216167.m3u8
-#EXTINF:-1 tvg-logo="" group-title="17. LOCALS BY STATE",MCALLEN TX | Univision-KNVO
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/216168.m3u8
-#EXTINF:-1 tvg-logo="" group-title="17. LOCALS BY STATE",SEATTLE | Univision
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/216169.m3u8
-#EXTINF:-1 tvg-logo="" group-title="17. LOCALS BY STATE",Phoenix | Univision-KTVW
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/216170.m3u8
-#EXTINF:-1 tvg-logo="" group-title="17. LOCALS BY STATE",MIAMI | Univision-WLTV
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/216171.m3u8
-#EXTINF:-1 tvg-logo="" group-title="17. LOCALS BY STATE",NEW YORK | Univision-WXTV
-http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/216172.m3u8
 #EXTINF:-1 tvg-logo="" group-title="17. LOCALS BY STATE",UNIMAS | NEW YORK | WFUT
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/216173.m3u8
 #EXTINF:-1 tvg-logo="" group-title="17. LOCALS BY STATE",UNIMAS | LOS ANGELES | KFTR
@@ -18669,4 +18657,4 @@ http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/191009.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/Red_Noticias2019.png/revision/latest/scale-to-width-down/274?cb=20210424015309&path-prefix=es" group-title="37. COLUMBIA",CO: Red+ Noticias FHD
 http://tkosportz.live:25461/live/ym6Xz1y1LL/z9e2hpBJZj/191010.m3u8
 
-# Total: 9302
+# Total: 9295

@@ -1,8 +1,8 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: squid.game-tv.org:8080
-# Generated: 2026-05-08 19:16:39
-# Expires: 2026-07-17
+# Generated: 2026-05-10 19:01:37
+# Expires: 2026-10-17
 # Family Safe Edition
 # ==============================================
 
@@ -12029,7 +12029,9 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/42770.mp
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/e1fvQdD63RP2MS9jCB8jzg7fkdr.jpg" group-title="Movies | Filme Dragoste",'Twas the Text Before Christmas (2023)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/20724.mp4
 
-# --- Movies | Filme Drama (361) ---
+# --- Movies | Filme Drama (362) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bMgq7VBriuBFknXEe9E9pVBYGZq.jpg" group-title="Movies | Filme Drama",The Blind Side - 2009
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/69880.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hMRIyBjPzxaSXWM06se3OcNjIQa.jpg" group-title="Movies | Filme Drama",Atonement - 2007
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/69703.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/85zUipgVy2QbvAJ6djZXYaGckMv.jpg" group-title="Movies | Filme Drama",Seven Pounds - 2008
@@ -14295,7 +14297,9 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/27275.mp
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/euq3YhkXJgsDlUxid5cTInsxnqh.jpg" group-title="Movies | Filme Retro (Nou)",La Traversée de Paris (1956)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/47508.mp4
 
-# --- Movies | Filme Romanesti (420) ---
+# --- Movies | Filme Romanesti (421) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aSMQCaQgGQRanGkFd0MhjWbBMHW.jpg" group-title="Movies | Filme Romanesti",Hirtia va fi albastrã (2006)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/69876.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d2t1d40OEA7BsI5hCKnAdkc5yC0.jpg" group-title="Movies | Filme Romanesti",Padurea este a mea (2025)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/69851.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bQbf0IPt3xf7Zvdd85xBa3sMhYa.jpg" group-title="Movies | Filme Romanesti",În pielea mea - 2026
@@ -20591,4 +20595,4 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/383.mp4
 #EXTINF:-1 tvg-logo="" group-title="Series | A Series of Unfortunate Events",A Series of Unfortunate Events
 http://squid.game-tv.org:8080/series/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/276
 
-# Total: 9004
+# Total: 9006

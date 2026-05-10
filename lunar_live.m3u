@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: lunar.pm:8080
-# Generated: 2026-05-08 19:15:34
+# Generated: 2026-05-10 18:58:32
 # Expires: 2026-05-24
 # Family Safe Edition
 # ==============================================
@@ -8620,9 +8620,9 @@ http://lunar.pm:8080/live/Slim/Sexyslim/122629.m3u8
 http://lunar.pm:8080/live/Slim/Sexyslim/122630.m3u8
 
 # --- PPV & Special Events (36) ---
-#EXTINF:-1 tvg-logo="" group-title="PPV & Special Events",Music 01:
+#EXTINF:-1 tvg-logo="" group-title="PPV & Special Events",Boxing 01: Wardley v Dubois (11:30am/1:30pm)
 http://lunar.pm:8080/live/Slim/Sexyslim/123143.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV & Special Events",Music 02:
+#EXTINF:-1 tvg-logo="" group-title="PPV & Special Events",Boxing 02: Wardley v Dubois (11:30am/1:30pm)
 http://lunar.pm:8080/live/Slim/Sexyslim/123144.m3u8
 #EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/guide_logos/ppv.png" group-title="PPV & Special Events",*****PPV EVENTS LISTINGS*****
 http://lunar.pm:8080/live/Slim/Sexyslim/110700.m3u8
