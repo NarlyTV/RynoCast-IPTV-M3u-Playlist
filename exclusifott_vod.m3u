@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: exclusifott.pro:80
-# Generated: 2026-05-09 19:05:38
+# Generated: 2026-05-10 08:19:55
 # Expires: 2026-05-21
 # Family Safe Edition
 # ==============================================
@@ -13409,7 +13409,7 @@ http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/837897.mp4
 #EXTINF:-1 tvg-logo="http://103.176.90.118/stalker_portal/screenshots/74/7397.jpg" group-title="Movies | |SPT| SPORT BOXING",SPT Katie Taylor vs. Natasha Jonas
 http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/837889.mp4
 
-# --- Movies | |SPT| SPORT UFC (471) ---
+# --- Movies | |SPT| SPORT UFC (470) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5WkSmkStpbOLpWukt1reuJJqZDj.jpg" group-title="Movies | |SPT| SPORT UFC",SPT - UFC Fight Night 275: Della Maddalena vs. Prates (Prelims) (2026)
 http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/2067026.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5WkSmkStpbOLpWukt1reuJJqZDj.jpg" group-title="Movies | |SPT| SPORT UFC",SPT - UFC Fight Night 275: Della Maddalena vs. Prates (Main Card) (2026)
@@ -13424,8 +13424,6 @@ http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/2060802.mp4
 http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/2060801.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/675fEoxLTqAARuKH7FYxJK9iNlP.jpg" group-title="Movies | |SPT| SPORT UFC",SPT - AEW Dynasty 2026 (2026)
 http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/2057093.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xOXOIhBtTtTDX5Pdi8ToGCFV7Ej.jpg" group-title="Movies | |SPT| SPORT UFC",SPT - UFC 327: Procházka vs. Ulberg (2026)
-http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/2055997.mkv
 #EXTINF:-1 tvg-logo="https://ufc.com/images/styles/inline/s3/2026-02/11115194954_04-04_BoutAnn_VJ-TR_Por.jpg?itok=HsOE45PE" group-title="Movies | |SPT| SPORT UFC",SPT - UFC Fight Night : Virna Jandiroba vs Tabatha Ricci (2026)
 http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/2053140.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nNSAYpeY85WRDWlquJOPp0stS4r.jpg" group-title="Movies | |SPT| SPORT UFC",SPT - UFC Fight Night 272: Moicano vs. Duncan (2026)
@@ -18105,4 +18103,4 @@ http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/35745
 #EXTINF:-1 tvg-logo="" group-title="Series | |RO| ROMANIAN SERIES",RO - Resident Evil: Infinite Darkness (2021)
 http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/35746
 
-# Total: 9005
+# Total: 9004

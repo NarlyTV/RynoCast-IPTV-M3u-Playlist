@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: no1.no1turk.com:2086
-# Generated: 2026-05-09 19:01:36
+# Generated: 2026-05-10 08:15:08
 # Expires: 2026-09-21
 # Family Safe Edition
 # ==============================================
@@ -6398,6 +6398,8 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/141072.m3u8
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/37848.m3u8
 #EXTINF:-1 tvg-logo="http://icon.sporcpu.com/spor/beinsportsmax2.png" group-title="TR | beIN SPORTS",TR: VIP beIN SPORTS MAX 2 HD ( Backup )
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/141073.m3u8
+#EXTINF:-1 tvg-logo="http://icon.sporcpu.com/spor/defanssports2.png" group-title="TR | beIN SPORTS",TR: VIP beIN  HD (goztepe gaziantep)
+http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/37719.m3u8
 #EXTINF:-1 tvg-logo="http://icon.sporcpu.com/spor/beinsports1.png" group-title="TR | beIN SPORTS",TR: BEİN SPORTS 1 ʜᴅ 1080 50 FPS ⚽️
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/141096.m3u8
 #EXTINF:-1 tvg-logo="http://icon.sporcpu.com/spor/beinsports2.png" group-title="TR | beIN SPORTS",TR: BEİN SPORTS 2 ʜᴅ 1080 50 FPS ⚽️
@@ -6452,8 +6454,6 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/40919.m3u8
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/66055.m3u8
 #EXTINF:-1 tvg-logo="http://icon.sporcpu.com/spor/beinsportsmax2.png" group-title="TR | beIN SPORTS",TR: VIP beIN SPORTS MAX 2 SD (Dusuk Kalite)
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/40921.m3u8
-#EXTINF:-1 tvg-logo="http://icon.sporcpu.com/spor/defanssports2.png" group-title="TR | beIN SPORTS",TR: VIP beIN SPORTS HD (Feed 2)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/37719.m3u8
 #EXTINF:-1 tvg-logo="http://icon.sporcpu.com/spor/beinsportshaber.png" group-title="TR | beIN SPORTS",TR: beIN SPORTS Haber HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/8493.m3u8
 #EXTINF:-1 tvg-logo="http://icon.sporcpu.com/spor/trendyolsuperlighaftaninozetleri.png" group-title="TR | beIN SPORTS",TR: Trendyol Süper Lig TV HD (Mac Ozetleri)

@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: 51.89.76.111:2086
-# Generated: 2026-05-09 19:05:00
+# Generated: 2026-05-10 08:11:32
 # Expires: 2026-10-09
 # Family Safe Edition
 # ==============================================
@@ -6398,6 +6398,8 @@ http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/141072.m3u8
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/37848.m3u8
 #EXTINF:-1 tvg-logo="http://icon.sporcpu.com/spor/beinsportsmax2.png" group-title="TR | beIN SPORTS",TR: VIP beIN SPORTS MAX 2 HD ( Backup )
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/141073.m3u8
+#EXTINF:-1 tvg-logo="http://icon.sporcpu.com/spor/defanssports2.png" group-title="TR | beIN SPORTS",TR: VIP beIN  HD (goztepe gaziantep)
+http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/37719.m3u8
 #EXTINF:-1 tvg-logo="http://icon.sporcpu.com/spor/beinsports1.png" group-title="TR | beIN SPORTS",TR: BEİN SPORTS 1 ʜᴅ 1080 50 FPS ⚽️
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/141096.m3u8
 #EXTINF:-1 tvg-logo="http://icon.sporcpu.com/spor/beinsports2.png" group-title="TR | beIN SPORTS",TR: BEİN SPORTS 2 ʜᴅ 1080 50 FPS ⚽️
@@ -6452,8 +6454,6 @@ http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/40919.m3u8
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/66055.m3u8
 #EXTINF:-1 tvg-logo="http://icon.sporcpu.com/spor/beinsportsmax2.png" group-title="TR | beIN SPORTS",TR: VIP beIN SPORTS MAX 2 SD (Dusuk Kalite)
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/40921.m3u8
-#EXTINF:-1 tvg-logo="http://icon.sporcpu.com/spor/defanssports2.png" group-title="TR | beIN SPORTS",TR: VIP beIN SPORTS HD (Feed 2)
-http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/37719.m3u8
 #EXTINF:-1 tvg-logo="http://icon.sporcpu.com/spor/beinsportshaber.png" group-title="TR | beIN SPORTS",TR: beIN SPORTS Haber HD
 http://51.89.76.111:2086/live/Murathohenems/RyKQT5O2lh/8493.m3u8
 #EXTINF:-1 tvg-logo="http://icon.sporcpu.com/spor/trendyolsuperlighaftaninozetleri.png" group-title="TR | beIN SPORTS",TR: Trendyol Süper Lig TV HD (Mac Ozetleri)
