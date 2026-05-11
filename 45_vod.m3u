@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: 45.139.122.199:8080
-# Generated: 2026-05-10 18:59:23
+# Generated: 2026-05-11 08:17:09
 # Expires: 2026-07-13
 # Family Safe Edition
 # ==============================================
@@ -215,7 +215,7 @@ http://45.139.122.199:8080/movie/Susanne1/susanne1/140832.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rfeNBaiMBg0UQsBQFv1qsjTjZWn.jpg" group-title="Movies | Christmas Movies [Multi-Sub]",The Night Before [PRE] [2015]
 http://45.139.122.199:8080/movie/Susanne1/susanne1/471479.mkv
 
-# --- Movies | Danske - Norska - Suomalainen Film (573) ---
+# --- Movies | Danske - Norska - Suomalainen Film (574) ---
 #EXTINF:-1 tvg-logo="http://ptv.is:2095/images/movies/yVGFU6vGrbSoKrchWTWUoru3zLG.jpg" group-title="Movies | Danske - Norska - Suomalainen Film",Margrete Den Foerste - Margrete Queen of the North [DK] [Multi-Sub] [2021]
 http://45.139.122.199:8080/movie/Susanne1/susanne1/146747.mkv
 #EXTINF:-1 tvg-logo="http://ptv.is:2095/images/movies/3KDOQCNvSsHGIvQorqntNBZ3mbd.jpg" group-title="Movies | Danske - Norska - Suomalainen Film",Mormor og de åtte ungene [DK] [Multi-Sub] [2013]
@@ -1362,6 +1362,8 @@ http://45.139.122.199:8080/movie/Susanne1/susanne1/2333116.mkv
 http://45.139.122.199:8080/movie/Susanne1/susanne1/2365592.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mdNAUxEEk0LuRrB57I2MkbG2FPw.jpg" group-title="Movies | Danske - Norska - Suomalainen Film",Teräsleidit – kuin viimeistä päivää [FI] [Multi-Sub] [2025]
 http://45.139.122.199:8080/movie/Susanne1/susanne1/2380738.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/evTJOgBlZxDNCAgDBFcg2aegAIK.jpg" group-title="Movies | Danske - Norska - Suomalainen Film",Grønlands hvide guld [DK] [Multi-Sub] [2025]
+http://45.139.122.199:8080/movie/Susanne1/susanne1/2398623.mkv
 
 # --- Movies | Events (10) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xYMVSRk2n4WpzKMw7V6mKz4Psoh.jpg" group-title="Movies | Events",Conor Mcgregor - Notorious [UFC]
@@ -16709,7 +16711,7 @@ http://45.139.122.199:8080/movie/Susanne1/susanne1/2383875.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vzvMXMypMq7ieDofKThsxjHj9hn.jpg" group-title="Movies | Old Popular Movies [Multi-Sub]",Taken 3 [PRE] [2014]
 http://45.139.122.199:8080/movie/Susanne1/susanne1/2388106.mkv
 
-# --- Movies | Premiere Cinemas [Multi-Sub] (5710) ---
+# --- Movies | Premiere Cinemas [Multi-Sub] (5712) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hPRoBl2iaE2RIIFkUfwgXWSuBy9.jpg" group-title="Movies | Premiere Cinemas [Multi-Sub]",Shark Terror [PRE] [2025]
 http://45.139.122.199:8080/movie/Susanne1/susanne1/2385758.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9AVft65z55PfGa7y8o496leWPYx.jpg" group-title="Movies | Premiere Cinemas [Multi-Sub]",Catherine: 21st Century Princess [PRE] [2024]
@@ -28130,6 +28132,10 @@ http://45.139.122.199:8080/movie/Susanne1/susanne1/2394795.mkv
 http://45.139.122.199:8080/movie/Susanne1/susanne1/2395763.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9HcEqn3D4J6b2Z0jK54id9nA0fr.jpg" group-title="Movies | Premiere Cinemas [Multi-Sub]",Remarkably Bright Creatures [PRE] [2026]
 http://45.139.122.199:8080/movie/Susanne1/susanne1/2395764.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dubKbJTRTJmji0VUEo5pVoZ92ra.jpg" group-title="Movies | Premiere Cinemas [Multi-Sub]",Anemone [PRE] [2025]
+http://45.139.122.199:8080/movie/Susanne1/susanne1/2398610.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yihdXomYb5kTeSivtFndMy5iDmf.jpg" group-title="Movies | Premiere Cinemas [Multi-Sub]",Project Hail Mary [PRE] [2026]
+http://45.139.122.199:8080/movie/Susanne1/susanne1/2398611.mkv
 
 # --- Movies | Relaxing Music (7) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Relaxing Music",Fall Asleep Fast Eliminates All Negative Energy
@@ -28199,4 +28205,4 @@ http://45.139.122.199:8080/movie/Susanne1/susanne1/503111.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6FrRyIOrnCin795JjaxJgu7VeHR.jpg" group-title="Movies | Svenska",När mörkret faller [SE] [2006]
 http://45.139.122.199:8080/movie/Susanne1/susanne1/798230.mkv
 
-# Total: 14085
+# Total: 14088

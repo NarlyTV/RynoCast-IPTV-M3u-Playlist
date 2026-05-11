@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: squid.game-tv.org:8080
-# Generated: 2026-05-10 19:01:37
+# Generated: 2026-05-11 08:27:45
 # Expires: 2026-10-17
 # Family Safe Edition
 # ==============================================
@@ -554,6 +554,10 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/961.mp4
 # --- Movies | Better Call Saul (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Better Call Saul",Better Call Saul
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/65.mp4
+
+# --- Movies | Beverly Hills 90210 (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | Beverly Hills 90210",Beverly Hills, 90210 (1990)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1263.mp4
 
 # --- Movies | Beyond Paradise (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Beyond Paradise",Beyond Paradise (2023)
@@ -20595,4 +20599,4 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/383.mp4
 #EXTINF:-1 tvg-logo="" group-title="Series | A Series of Unfortunate Events",A Series of Unfortunate Events
 http://squid.game-tv.org:8080/series/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/276
 
-# Total: 9006
+# Total: 9007

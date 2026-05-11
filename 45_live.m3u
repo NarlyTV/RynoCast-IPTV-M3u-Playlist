@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: 45.139.122.199:8080
-# Generated: 2026-05-10 18:59:23
+# Generated: 2026-05-11 08:17:09
 # Expires: 2026-07-13
 # Family Safe Edition
 # ==============================================
@@ -190,7 +190,7 @@ http://45.139.122.199:8080/live/Susanne1/susanne1/2125790.m3u8
 http://45.139.122.199:8080/live/Susanne1/susanne1/2125789.m3u8
 #EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Semi-Final 2nd Leg: London Lions vs. Leicester Riders | all | PRIME-US
 http://45.139.122.199:8080/live/Susanne1/susanne1/2125788.m3u8
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",PRIME-US | No Event
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Chesterfield vs. Notts County | all | PRIME-US
 http://45.139.122.199:8080/live/Susanne1/susanne1/2125787.m3u8
 #EXTINF:-1 tvg-logo="http://138.199.27.237:8080/FRANCE/PRIMEVIDEO.png" group-title="Amazon Prime US",End | Valencia vs. Baskonia | all | PRIME-US
 http://45.139.122.199:8080/live/Susanne1/susanne1/2125786.m3u8
@@ -1759,17 +1759,9 @@ http://45.139.122.199:8080/live/Susanne1/susanne1/41317.m3u8
 #EXTINF:-1 tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/nordic/norway/viasat-nature-no.png" group-title="Denmark",Viasat Nature FHD DK [Multi-Sub]
 http://45.139.122.199:8080/live/Susanne1/susanne1/774461.m3u8
 
-# --- DirekteSport Events DK (5) ---
+# --- DirekteSport Events DK (1) ---
 #EXTINF:-1 tvg-logo="https://direktesport.dk/assets/1768306695/kodus/jfm-brands/brands/direktesport/favicons/android-icon-192x192.png" group-title="DirekteSport Events DK",-= Live During Events Only =-
 http://45.139.122.199:8080/live/Susanne1/susanne1/686202.m3u8
-#EXTINF:-1 tvg-logo="https://cf1318f5d.lwcdn.com/i/i-1757caa4-2368-4ff5-9c8e-bef9ff7fc856.jpg" group-title="DirekteSport Events DK",12:55 Glamsbjerg IF - Otterup B&IK (Fynsserien Kvalifikation) 5/10 [Direktesport DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2397927.m3u8
-#EXTINF:-1 tvg-logo="https://cf1318f5d.lwcdn.com/i/i-0a8e45bd-30d2-43e3-9e0f-b3015d1e08e5.jpg" group-title="DirekteSport Events DK",13:55 Vorup fB - SfB Oure FA (Danmarksserien) 5/10 [Direktesport DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2397926.m3u8
-#EXTINF:-1 tvg-logo="https://cf1318f5d.lwcdn.com/i/i-4f1998bf-3d43-410f-a4f7-ec25ff74ede7.jpg" group-title="DirekteSport Events DK",13:55 Ringerike Grand Prix 5/10 [Direktesport DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2397925.m3u8
-#EXTINF:-1 tvg-logo="https://cf1318f5d.lwcdn.com/i/i-ddf804ae-7512-4e75-94f0-1a6286100df6.jpg" group-title="DirekteSport Events DK",14:55 HØJ Elite - KIF Kolding (1. Division Herrer - Oprykningsplayoff) 5/10 [Direktesport DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2397924.m3u8
 
 # --- Dirtvision US (11) ---
 #EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/aef14ad5ae37cf56f0dcc161f08cf94e.png" group-title="Dirtvision US",DIRTVISION 01 : Huset's Speedway 7:25 pm
@@ -1795,45 +1787,9 @@ http://45.139.122.199:8080/live/Susanne1/susanne1/1351587.m3u8
 #EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/aef14ad5ae37cf56f0dcc161f08cf94e.png" group-title="Dirtvision US",Dirtvision 24/7
 http://45.139.122.199:8080/live/Susanne1/susanne1/1351588.m3u8
 
-# --- Disney Plus DK (20) ---
+# --- Disney Plus DK (2) ---
 #EXTINF:-1 tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/misc/media/disney-plus.png" group-title="Disney Plus DK",-= Reload your playlist =-
 http://45.139.122.199:8080/live/Susanne1/susanne1/1340808.m3u8
-#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/019c0b13-692f-7921-9497-858bae2c7882/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="Disney Plus DK",16:00 Kentucky vs. #21 Florida [Disney+ DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2397928.m3u8
-#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/019b709f-3db3-7fd4-86b8-ed1b82653a94/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="Disney Plus DK",18:00 #4 Texas vs. Tennessee [Disney+ DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2397929.m3u8
-#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/019e0acd-20d2-73c7-8b11-c805f3c506d9/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="Disney Plus DK",18:00 Rutgers vs. #3 Maryland (Second Round) [Disney+ DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2397930.m3u8
-#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/019ca0f9-7e4d-73df-8ab0-8388dfb826e3/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="Disney Plus DK",18:00 Clemson vs. #2 North Carolina (Second Round) [Disney+ DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2397931.m3u8
-#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/019e0acd-3f85-7f4e-97df-d19edbce7752/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="Disney Plus DK",18:00 Army vs. #4 Johns Hopkins (Second Round) [Disney+ DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2397932.m3u8
-#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/019d8719-f909-743d-a402-e8e6062f3644/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="Disney Plus DK",18:00 NJIT vs. #22 Boston College [Disney+ DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2397933.m3u8
-#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/019e0065-09d6-7c22-bd21-60a0c38cace1/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="Disney Plus DK",18:00 Jacksonville vs. #2 Notre Dame (First Round) [Disney+ DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2397934.m3u8
-#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/019e0acd-01a2-79cd-89e0-8dc81fbb4f8e/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="Disney Plus DK",18:00 Boston College vs. #5 Stony Brook (Second Round) [Disney+ DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2397935.m3u8
-#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/019e0acd-19e7-79f9-a18c-74935c373c47/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="Disney Plus DK",19:00 Stanford vs. #7 Michigan (Second Round) [Disney+ DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2397936.m3u8
-#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/019e0acc-bd44-7453-947a-7f0b142b69a8/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="Disney Plus DK",19:00 Syracuse vs. #6 Navy (Second Round) [Disney+ DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2397937.m3u8
-#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/019dcbdf-ab0c-7863-9fe6-4313b798eeda/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="Disney Plus DK",19:00 UNC Greensboro vs. Virginia Tech [Disney+ DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2397938.m3u8
-#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/019e0acd-1269-7491-bdb6-14de368eb3e0/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="Disney Plus DK",20:00 James Madison vs. #1 Northwestern (Second Round) [Disney+ DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2397939.m3u8
-#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/019e0063-ebf0-7709-a193-4ef0e5f98254/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="Disney Plus DK",20:30 Marist vs. #1 Princeton (First Round) [Disney+ DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2397940.m3u8
-#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/019e0ada-fbad-7119-890b-ab43035d4bbd/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="Disney Plus DK",21:00 Denver vs. #8 Colorado (Second Round) [Disney+ DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2397941.m3u8
-#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/019b6ea2-f86e-7964-825b-fcbc51bd6bee/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="Disney Plus DK",21:00 LSU vs. #5 Georgia [Disney+ DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2397942.m3u8
-#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/019cb5c0-e027-7d2c-abba-18f7a0978af3/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="Disney Plus DK",21:00 #14 Florida State vs. Clemson [Disney+ DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2397943.m3u8
-#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/019d322e-20ce-7635-a464-18264dccc00c/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="Disney Plus DK",22:00 NC State vs. Stanford [Disney+ DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2397944.m3u8
-#EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/019c728b-b21c-7492-8346-cb44377bad76/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="Disney Plus DK",23:00 Yale vs. #6 Syracuse (First Round) [Disney+ DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2397945.m3u8
 #EXTINF:-1 tvg-logo="https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/019cd358-8fc4-76bc-bdf4-5ce8756738bd/compose?format=webp&label=standard_regular_prompt_espn_178&width=800" group-title="Disney Plus DK",01:30 Georgetown vs. #5 Virginia (First Round) [Disney+ DK]
 http://45.139.122.199:8080/live/Susanne1/susanne1/2397946.m3u8
 
@@ -2093,25 +2049,9 @@ http://45.139.122.199:8080/live/Susanne1/susanne1/2160773.m3u8
 #EXTINF:-1 tvg-logo="https://xplatinmedia.com/images/1e26ea7c60bee82b39b4796be9b38374.png" group-title="EFL UK",EFL36ⓧ| No Scheduled Event
 http://45.139.122.199:8080/live/Susanne1/susanne1/2160774.m3u8
 
-# --- EPL Games UK (9) ---
+# --- EPL Games UK (1) ---
 #EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/EPL%20/EPL.png" group-title="EPL Games UK",-= Reload your playlist =-
 http://45.139.122.199:8080/live/Susanne1/susanne1/1452843.m3u8
-#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/poster/ch221_MW36_BURvAVL_26.jpg?w=341&h=192" group-title="EPL Games UK",13:50 Burnley vs Aston Villa (MW36) 5/10 [Premier League 2025/26]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2397723.m3u8
-#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/poster/ch221_MW36_NFOvNEW_26.jpg?w=341&h=192" group-title="EPL Games UK",13:50 Nottingham Forest vs Newcastle United (MW36) 5/10 [Premier League 2025/26]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2397722.m3u8
-#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/poster/ch221_MW36_NFOvNEW_26.jpg?w=341&h=192" group-title="EPL Games UK",13:50 Nottingham Forest v Newcastle United (MW36) (Goal Rush) 5/10 [Premier League 2025/26]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2397721.m3u8
-#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/poster/ch221_MW36_CRYvEVE_26.jpg?w=341&h=192" group-title="EPL Games UK",13:50 Crystal Palace vs Everton (MW36) 5/10 [Premier League 2025/26]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2397720.m3u8
-#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/poster/ch221_MW36_BURvAVL_26.jpg?w=341&h=192" group-title="EPL Games UK",13:50 Burnley vs Aston Villa (MW36) 5/10 [Premier League 2025/26]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2397719.m3u8
-#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/poster/ch221_MW36_WHUvARS_26.jpg?w=341&h=192" group-title="EPL Games UK",16:20 4K West Ham United vs Arsenal (MW36) 5/10 [Premier League 2025/26]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2397718.m3u8
-#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/poster/ch221_MW36_WHUvARS_26.jpg?w=341&h=192" group-title="EPL Games UK",16:20 West Ham United vs Arsenal (MW36) 5/10 [Premier League 2025/26]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2397717.m3u8
-#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/poster/ch221_MW36_WHUvARS_26.jpg?w=341&h=192" group-title="EPL Games UK",16:20 West Ham United v Arsenal (MW36) 5/10 [Premier League 2025/26]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2397716.m3u8
 
 # --- EPL Teams UK (22) ---
 #EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/EPL%20/EPL.png" group-title="EPL Teams UK",EPL 1 UHD 4K [Only On 4K Devices]
@@ -2159,265 +2099,11 @@ http://45.139.122.199:8080/live/Susanne1/susanne1/1414650.m3u8
 #EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/EPL%20/Wolverhampton_Wanderers.png" group-title="EPL Teams UK",EPL Wolverhampton Wanderers
 http://45.139.122.199:8080/live/Susanne1/susanne1/1414649.m3u8
 
-# --- ESPN+ Events US (129) ---
+# --- ESPN+ Events US (2) ---
 #EXTINF:-1 tvg-logo="https://imgur.com/2yb4OEL.png" group-title="ESPN+ Events US",-= Live During Events Only =-
 http://45.139.122.199:8080/live/Susanne1/susanne1/101275.m3u8
 #EXTINF:-1 tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/united-states/ufc-fight-pass-us.png" group-title="ESPN+ Events US",UFC Fight Pass 24/7 FHD US
 http://45.139.122.199:8080/live/Susanne1/susanne1/101217.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/75cd49a3-96f1-4b77-ab6e-4bbecf1ae5f1/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202605091747" group-title="ESPN+ Events US",7:20 AM EDT Preußen Münster vs. SV Darmstadt 98 5/10
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398430.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/4768c9c4-a796-47b7-8c4a-531f68177d74/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202605091755" group-title="ESPN+ Events US",7:20 AM EDT Fortuna Dusseldorf vs. SV Elversberg 5/10
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398429.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/e1ec74de-6da6-4e6f-a172-05540bfe58da/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202605060111" group-title="ESPN+ Events US",7:20 AM EDT Hertha BSC vs. SpVgg Greuther Fürth 5/10
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398428.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/e012eff7-a782-4273-9d1d-00022d8288e4/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202605091816" group-title="ESPN+ Events US",7:30 AM EDT FC Schweinfurt vs. TSV Havelse 5/10
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398427.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/86cf70a1-c396-4251-a3d4-ff758b4c79e1/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202605031948" group-title="ESPN+ Events US",7:30 AM EDT Truist Championship: Main Feed (Final Round) 5/10
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398426.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/775a1651-b5eb-44ad-8612-e62d51fb4aa6/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202605091900" group-title="ESPN+ Events US",7:50 AM EDT RCD Mallorca vs. Villarreal CF 5/10
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398425.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/6960e5b6-d02d-47bc-b60e-efeb2123c727/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202605091900" group-title="ESPN+ Events US",7:55 AM EDT En Español-RCD Mallorca vs. Villarreal CF 5/10
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398424.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/7dea8eac-e3ea-4a99-bcfb-a1da2595b4a5/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202605100204" group-title="ESPN+ Events US",8:30 AM EDT Truist Championship: Homa & Schauffele Featured Groups (Final Round) 5/10
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398423.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/7863e89f-0bce-4675-90ac-593b23dd8890/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202605091217" group-title="ESPN+ Events US",9:00 AM EDT Iona vs. Marist (Championship) 5/10
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398422.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/09303080-aa8c-4caf-820a-f3e978c63b3c/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202605091903" group-title="ESPN+ Events US",9:20 AM EDT En Español-Hamburg SV vs. Sport-Club Freiburg 5/10
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398421.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/cf11b7ac-3116-428c-88d8-9cda7ab45e1e/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202605091903" group-title="ESPN+ Events US",9:20 AM EDT Hamburger SV vs. SC Freiburg 5/10
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398420.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/fc7b67f5-cb27-46e9-90a5-bdd0b26a9910/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202605032006" group-title="ESPN+ Events US",10:00 AM EDT PGA TOUR LIVE BetCast Presented by DraftKings (Final Round) 5/10
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398419.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/50d766c8-4374-4ba0-a56d-f8ff706c0835/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202604211911" group-title="ESPN+ Events US",10:00 AM EDT MAAC Outdoor Track & Field Championship (Championship) 5/10
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398418.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/3984d4d4-2cb3-498b-9494-d47806f8eaaa/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202605091907" group-title="ESPN+ Events US",10:00 AM EDT En Español-Athletic Club vs. Valencia CF 5/10
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398417.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/eb6752ab-762d-4ee8-922e-8e91168f8986/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202605100030" group-title="ESPN+ Events US",10:00 AM EDT Samford vs. UNC Greensboro (Championship) 5/10
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398416.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/5b08a351-cd02-4d6d-8c4a-b84f5b194d5a/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202605100205" group-title="ESPN+ Events US",10:00 AM EDT Truist Championship: McIlroy Marquee Group (Final Round) 5/10
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398415.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/2af23cb0-f581-4d25-8074-666b77352737/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202605091826" group-title="ESPN+ Events US",10:05 AM EDT En Español-Leganés vs. Racing Santander 5/10
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398414.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/3affbf95-26ee-4a62-b8be-3b7d35f9135f/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202605091907" group-title="ESPN+ Events US",10:05 AM EDT Athletic Club vs. Valencia CF 5/10
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398413.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/9eb4c739-7eaa-4b0b-bccf-26b9ca57ba2f/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202605091826" group-title="ESPN+ Events US",10:05 AM EDT Leganes vs. Racing Santander 5/10
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398412.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/e631ec9e-1504-47f6-811a-2946c9e9faa6/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202604211911" group-title="ESPN+ Events US",10:30 AM EDT America East Outdoor Track & Field Championship 5/10
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398411.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/19b57d8e-faae-4d70-9801-ca481657c3e5/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202605060113" group-title="ESPN+ Events US",10:30 AM EDT Alemannia Aachen vs. Viktoria Koln 5/10
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398410.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/c8d2271b-32f4-4564-ab39-66499a1bd224/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202605060115" group-title="ESPN+ Events US",10:30 AM EDT En Español-Go Ahead Eagles vs. PSV 5/10
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398409.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/4ef4b4d9-a301-48a3-a93d-b6dae1fd5837/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202605090718" group-title="ESPN+ Events US",10:40 AM EDT Feyenoord vs. AZ 5/10
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398408.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/07230b9e-5ef1-47fa-9cde-02a1fb984063/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202605090718" group-title="ESPN+ Events US",10:40 AM EDT En Español-Feyenoord vs. AZ 5/10
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398407.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/fd6e622b-33f3-4ce6-96b4-3c895631b233/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202605060115" group-title="ESPN+ Events US",10:40 AM EDT Go Ahead Eagles vs. PSV 5/10
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398406.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/d63dcc46-121e-466b-b0c5-14bc7d063646/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202605091848" group-title="ESPN+ Events US",10:40 AM EDT En Español-Ajax vs. FC Utrecht 5/10
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398405.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/5389f990-d06c-45c5-9912-38b5bcabc731/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202605091900" group-title="ESPN+ Events US",10:40 AM EDT FC Groningen vs. N.E.C. 5/10
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398404.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/e76dc5a1-85f4-405c-a381-4fc482aef878/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202605091848" group-title="ESPN+ Events US",10:40 AM EDT Ajax vs. FC Utrecht 5/10
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398403.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/4a7be1e6-578d-41e2-a5f6-0b238dbbcfd7/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs" group-title="ESPN+ Events US",11:00 AM EDT MEAC Softball Championship (Championship (If NEC)) 5/10
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398402.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/7ed18b28-089d-4381-8696-56ba9ee9131b/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202604091209" group-title="ESPN+ Events US",11:00 AM EDT West Georgia vs. Florida Gulf Coast 5/10
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398401.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/60042eca-af00-405f-8f95-cbda8c0dbcca/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202604281931" group-title="ESPN+ Events US",11:00 AM EDT Niagara vs. Manhattan 5/10
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398400.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/38a35cba-e19b-4836-a761-d1a9d6a8a6c6/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202605091910" group-title="ESPN+ Events US",11:20 AM EDT En Español-Colonia vs. 1. FC Heidenheim 1846 5/10
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398399.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/64f1630c-0053-463a-bfd3-b9f4baba1447/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202605091910" group-title="ESPN+ Events US",11:20 AM EDT FC Köln vs. 1. FC Heidenheim 1846 5/10
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398398.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/29130865-943b-4d6a-a10d-f1f9e0d21278/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202605091725" group-title="ESPN+ Events US",11:30 AM EDT Iona vs. Marist (Championship (If Necessary)) 5/10
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398397.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/c599ca24-5950-48d8-86b9-157246a2beda/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202605011826" group-title="ESPN+ Events US",11:30 AM EDT Dartmouth vs. Yale 5/10
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398396.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/96dc7a43-957d-4c06-896d-1b3b5822b8a7/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202604221538" group-title="ESPN+ Events US",11:55 AM EDT Horizon Track & Field Championship (Day Three) 5/10
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398395.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/65630e78-5854-4114-9acc-d1015b2dbb20/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202604151650" group-title="ESPN+ Events US",12:00 PM EDT UConn vs. Seton Hall 5/10
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398394.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/871b981a-9573-45e2-ae2e-0a05767fa529/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202604151650" group-title="ESPN+ Events US",12:00 PM EDT North Florida vs. Queens University 5/10
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398393.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/afb44d90-0e5c-456a-8dc2-43d6b3e8762d/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202605090314" group-title="ESPN+ Events US",12:00 PM EDT Boston College vs. #5 Stony Brook (Second Round) 5/10
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398392.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/20f32094-f68a-4a91-8eba-90c7c62df246/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202605090314" group-title="ESPN+ Events US",12:00 PM EDT Rutgers vs. #3 Maryland (Second Round) 5/10
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398391.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/d5877263-dd46-4f7e-aec0-679c1e43857d/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202605011806" group-title="ESPN+ Events US",12:00 PM EDT #15 West Virginia vs. #7 Kansas 5/10
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398390.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/c19a8090-efa1-489b-ba82-2bb971e803d3/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202605011839" group-title="ESPN+ Events US",12:00 PM EDT Saint Louis vs. Fordham 5/10
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398389.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/1e121856-1c31-419e-a4b8-8d43cfccf1db/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202604091209" group-title="ESPN+ Events US",12:00 PM EDT UTSA vs. Memphis 5/10
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398388.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/deb1dc45-4e90-465a-b21a-89580f2fbfb6/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202604091207" group-title="ESPN+ Events US",12:00 PM EDT #12 Southern Miss vs. James Madison 5/10
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398387.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/a7d07af5-713d-404d-a3c3-a270dde9f6f4/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202604091205" group-title="ESPN+ Events US",12:00 PM EDT Georgetown vs. Creighton 5/10
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398386.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/55872c2f-d1ee-4493-8801-6d195a27c301/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202605090313" group-title="ESPN+ Events US",12:00 PM EDT Clemson vs. #2 North Carolina (Second Round) 5/10
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398385.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/7e5be759-e11b-4cab-ad54-8613d50e1011/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202605011802" group-title="ESPN+ Events US",12:00 PM EDT Cincinnati vs. Kansas State 5/10
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398384.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/978ed8cb-e8a3-4840-a627-63c6561d9beb/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202605090314" group-title="ESPN+ Events US",12:00 PM EDT Army vs. #4 Johns Hopkins (Second Round) 5/10
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398383.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/e08b0b7b-08cc-480a-88a0-0bea60437094/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202604091208" group-title="ESPN+ Events US",12:00 PM EDT Texas State vs. Arkansas State 5/10
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398382.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/ddd0afa4-0484-4a85-a98c-f422c582cf4b/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202604151652" group-title="ESPN+ Events US",12:00 PM EDT Florida Atlantic vs. Wichita State 5/10
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398381.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/60831973-3527-4f9f-8d5d-e1c90e1cf549/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202605011822" group-title="ESPN+ Events US",12:00 PM EDT St. Bonaventure vs. La Salle 5/10
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398380.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/412229d2-6925-41d6-aa86-5eec4af031c2/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202604151654" group-title="ESPN+ Events US",12:00 PM EDT Middle Tennessee vs. Florida International 5/10
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398379.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/31bd4db7-bef3-4b3b-96fa-181a11059ed5/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202605091912" group-title="ESPN+ Events US",12:15 PM EDT En Español-Real Oviedo vs. Getafe CF 5/10
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398378.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/644339dc-4e3f-494e-a898-60ec1eed1a5b/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202605091912" group-title="ESPN+ Events US",12:20 PM EDT Real Oviedo vs. Getafe CF 5/10
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398377.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/63f2f370-160c-4291-ab7b-35401cc8f4df/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202605011826" group-title="ESPN+ Events US",1:00 PM EDT Iona vs. Siena 5/10
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398376.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/fd614455-e298-480e-9d98-ded275a5e144/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202605090314" group-title="ESPN+ Events US",1:00 PM EDT Syracuse vs. #6 Navy (Second Round) 5/10
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398375.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/0fff0298-afb9-41ff-bf85-a48e7835d788/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202605011831" group-title="ESPN+ Events US",1:00 PM EDT Western Illinois vs. Morehead State 5/10
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398374.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/d696def7-7d5d-4fd6-9545-aa5f12ad9c29/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202605011826" group-title="ESPN+ Events US",1:00 PM EDT Charleston Southern vs. Longwood 5/10
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398373.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/1880c3a5-da08-4423-a388-0bcb436e2c10/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202605011839" group-title="ESPN+ Events US",1:00 PM EDT Rhode Island vs. Davidson 5/10
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398372.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/5eb4b8b0-d959-4ee3-ab7e-c398c0255676/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202604091209" group-title="ESPN+ Events US",1:00 PM EDT UL Monroe vs. Marshall 5/10
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398371.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/8ade2c66-cea7-4740-9a4c-0e4feac6612c/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202605011827" group-title="ESPN+ Events US",1:00 PM EDT Toledo vs. Ohio 5/10
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398370.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/90f40db7-ac1e-4c85-a4b1-cdbb3fc32392/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202605011822" group-title="ESPN+ Events US",1:00 PM EDT Winthrop vs. High Point 5/10
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398369.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/2a7ae10f-6d29-4b28-8d58-156d5991c78d/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202605011831" group-title="ESPN+ Events US",1:00 PM EDT South Carolina Upstate vs. Presbyterian 5/10
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398368.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/3112e9af-59f9-4d15-b4f2-d63cb691fc15/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202605011831" group-title="ESPN+ Events US",1:00 PM EDT Utah Tech vs. UT Arlington 5/10
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398367.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/039dada0-115d-49bc-a95a-6f436b4994a2/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202605090314" group-title="ESPN+ Events US",1:00 PM EDT Stanford vs. #7 Michigan (Second Round) 5/10
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398366.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/bcd17036-b26f-4e92-a1da-4de4aec211a2/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202605011839" group-title="ESPN+ Events US",1:00 PM EDT George Washington vs. Richmond 5/10
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398365.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/345dfa26-c448-4ced-a411-1a547b149a3e/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202605100206" group-title="ESPN+ Events US",1:00 PM EDT Truist Championship: Fowler Featured Group (Final Round) 5/10
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398364.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/476b47c4-8334-45ec-a7ec-0578cba6dc6e/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202605061918" group-title="ESPN+ Events US",1:00 PM EDT Truist Championship: Featured Hole #17 (Final Round) 5/10
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398363.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/693ee24f-9b4e-480b-b0f8-08cd27ce11be/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202604091209" group-title="ESPN+ Events US",1:00 PM EDT Louisiana vs. App State 5/10
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398362.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/9cbd6a53-abcf-4488-84ce-1ae01e9fb9f6/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202605011831" group-title="ESPN+ Events US",1:00 PM EDT UNC Asheville vs. Radford 5/10
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398361.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/82d26a17-3737-431c-b61f-b194c84365d8/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202605011832" group-title="ESPN+ Events US",1:00 PM EDT UMBC vs. Bryant 5/10
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398360.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/0f8bf674-ac55-4ad7-a42e-f0fa60bbf881/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202604091205" group-title="ESPN+ Events US",1:00 PM EDT Old Dominion vs. #8 Coastal Carolina 5/10
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398359.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/1e4f90b8-e21b-46c1-b45e-d06e1718b683/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202605011831" group-title="ESPN+ Events US",1:00 PM EDT UT Rio Grande Valley vs. Tarleton State 5/10
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398358.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/7d8566c2-a345-4d4a-899d-797d5e224c9f/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202604151654" group-title="ESPN+ Events US",1:00 PM EDT Delaware vs. Sam Houston 5/10
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398357.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/01ab04e9-d3d0-4dbd-b3f8-7978124b7669/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202605061952" group-title="ESPN+ Events US",1:00 PM EDT VMI vs. Mercer 5/10
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398356.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/7e3a6963-81e2-4238-8e55-995a5a1aebab/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202605100205" group-title="ESPN+ Events US",1:00 PM EDT Truist Championship: McIlroy Featured Group (Final Round) 5/10
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398355.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/3f163e72-9d82-4c9a-9b88-fa47d4181cbc/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202604151650" group-title="ESPN+ Events US",1:00 PM EDT Rice vs. East Carolina 5/10
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398354.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/75733c42-5c97-41aa-b0d7-4d77f94a4bca/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202604151654" group-title="ESPN+ Events US",1:00 PM EDT Louisiana Tech vs. Liberty 5/10
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398353.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/6808788d-6d7d-4402-acd5-f705e7e39319/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202604151651" group-title="ESPN+ Events US",1:00 PM EDT St. John's vs. Villanova 5/10
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398352.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/f8bc7b45-2798-4995-9b3b-cb6bec0aecda/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202605011826" group-title="ESPN+ Events US",1:00 PM EDT VCU vs. Saint Joseph's 5/10
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398351.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/9dd857b4-6263-455b-b087-ae54cd3b33bc/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202605040301" group-title="ESPN+ Events US",1:00 PM EDT Navy vs. Bucknell (Site 2 / Game 2) 5/10
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398350.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/525c6ae3-fa86-44c8-a7f9-f244f9231c06/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202605011826" group-title="ESPN+ Events US",1:00 PM EDT Western Michigan vs. Bowling Green 5/10
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398349.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/4b3c2b8f-b14f-43d4-900b-544b27a9dff5/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202605011832" group-title="ESPN+ Events US",1:00 PM EDT East Tennessee State vs. Wofford 5/10
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398348.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/b28811c3-7045-43e7-94b9-599b700b5a1b/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202605091915" group-title="ESPN+ Events US",1:20 PM EDT 1. FSV Mainz 05 vs. 1. FC Union Berlin 5/10
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398347.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/0d77f2c7-23e7-4023-82eb-720809fe4682/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202604151651" group-title="ESPN+ Events US",2:00 PM EDT Eastern Kentucky vs. Austin Peay 5/10
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398346.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/99f64463-a483-40d2-b0c2-45b532f5c41b/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202604151650" group-title="ESPN+ Events US",2:00 PM EDT Charlotte vs. UAB 5/10
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398345.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/8e8e1ef2-3de7-40ea-a7c5-768f38bea3f2/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202604091203" group-title="ESPN+ Events US",2:00 PM EDT Kennesaw State vs. Jacksonville State 5/10
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398344.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/7618b2a9-c4bd-4e70-8cb9-307503563eff/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202604151654" group-title="ESPN+ Events US",2:00 PM EDT Houston vs. Arizona 5/10
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398343.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/b2d389de-224f-4f00-abd2-2bd76e066337/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202605011821" group-title="ESPN+ Events US",2:00 PM EDT Evansville vs. Valparaiso 5/10
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398342.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/3666d8e3-e745-42a8-8f99-89bf4b5b48c6/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202605011831" group-title="ESPN+ Events US",2:00 PM EDT Southern Indiana vs. Southeast Missouri State 5/10
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398341.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/df6abba7-8920-424c-89c3-e419d88aab0a/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202605011833" group-title="ESPN+ Events US",2:00 PM EDT Little Rock vs. UT Martin 5/10
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398340.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/1b04966a-14ed-497c-8846-45e3a2aee6ae/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs" group-title="ESPN+ Events US",2:00 PM EDT Lamar vs. Houston Christian 5/10
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398339.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/f1844a82-e500-48d1-bb64-aea24d5b00b6/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202605011826" group-title="ESPN+ Events US",2:00 PM EDT SIU Edwardsville vs. Eastern Illinois 5/10
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398338.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/2c205e73-9ca2-479c-b4b6-06b0c9f2456c/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202605060052" group-title="ESPN+ Events US",2:00 PM EDT Utah vs. TCU 5/10
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398337.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/bfb1ae03-9054-4f4c-95e4-792912ca1fae/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202604091208" group-title="ESPN+ Events US",2:00 PM EDT South Alabama vs. Troy 5/10
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398336.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/9afb4c61-4c77-4bcc-8adc-eb6a5f9ad47d/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202605011826" group-title="ESPN+ Events US",2:00 PM EDT Indiana State vs. Murray State 5/10
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398335.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/21a39eb6-348e-437c-aefa-0b0220513acb/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202604091207" group-title="ESPN+ Events US",2:00 PM EDT UCF vs. Baylor 5/10
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398334.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/675fac62-f5df-4e6f-ae68-f4d454e75eed/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202604241733" group-title="ESPN+ Events US",2:00 PM EDT Nicholls vs. SE Louisiana 5/10
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398333.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/5dcc359c-2156-400f-93b6-7ac87360d2d1/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202605091854" group-title="ESPN+ Events US",2:00 PM EDT Southern Illinois vs. Belmont 5/10
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398332.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/6f07ca70-e12c-4ecb-b1cb-1862a2f87704/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202604151650" group-title="ESPN+ Events US",2:00 PM EDT South Florida vs. Tulane 5/10
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398331.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/7e5effa0-f53a-4000-b27b-225824eae31e/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202605040302" group-title="ESPN+ Events US",2:00 PM EDT Holy Cross vs. Army (Site 1 / Game 2) 5/10
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398330.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/01e93f63-ea65-494b-838d-b8b5f49b76cf/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202605090313" group-title="ESPN+ Events US",2:00 PM EDT James Madison vs. #1 Northwestern (Second Round) 5/10
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398329.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/32ae6b1a-18c1-4a27-b3f7-4c29904a7b48/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202605062034" group-title="ESPN+ Events US",2:30 PM EDT Dartmouth vs. Yale 5/10
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398328.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/2b8956e9-f240-4e00-ab55-b415bcb1a615/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202605091919" group-title="ESPN+ Events US",2:30 PM EDT En Español-FC Barcelona vs. Real Madrid 5/10
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398327.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/d946564a-9aa2-4730-a77e-5c858d528f96/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202605091919" group-title="ESPN+ Events US",2:30 PM EDT FC Barcelona vs. Real Madrid 5/10
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398326.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/8e055f7a-4e90-48a8-aea6-047da67ae8c8/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202605090340" group-title="ESPN+ Events US",3:00 PM EDT Denver vs. #8 Colorado (Second Round) 5/10
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398325.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/6c37556a-ae4c-46a3-b3c1-82b551ddc3f2/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202605011822" group-title="ESPN+ Events US",3:00 PM EDT Sacramento State vs. California Baptist 5/10
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398324.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/8d3153ec-c074-47e1-ac9e-6ce1d2a66bb4/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202604290201" group-title="ESPN+ Events US",3:00 PM EDT Santa Clara vs. Seattle U 5/10
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398323.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/039e8fa2-6b58-412a-bc8e-6cd4942dca6f/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202605011821" group-title="ESPN+ Events US",3:00 PM EDT Niagara vs. Manhattan 5/10
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398322.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/3514a379-4c7c-4410-bb99-debbae7dfbf1/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202604151648" group-title="ESPN+ Events US",3:00 PM EDT #10 Oregon State vs. Long Beach State 5/10
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398321.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/8b6a4bd7-d74c-46ca-a974-ec60889e3a65/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202604282201" group-title="ESPN+ Events US",3:00 PM EDT Portland vs. Pepperdine 5/10
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398320.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/d26ffa8d-eb46-4893-9b67-2fef3b434f12/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202604290231" group-title="ESPN+ Events US",4:00 PM EDT San Diego vs. Pacific 5/10
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398319.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/04cb74fa-0e9c-43d0-a139-553e89cd48c6/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202604151648" group-title="ESPN+ Events US",4:00 PM EDT UC Santa Barbara vs. Cal State Northridge 5/10
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398318.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/d8d6af6c-7ffd-4fa3-914e-b4d71c3b0c2d/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202604151648" group-title="ESPN+ Events US",4:00 PM EDT Cal Poly vs. Cal State Fullerton 5/10
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398317.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/127f0b81-c715-4793-aef2-eff0264ce956/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202604141611" group-title="ESPN+ Events US",4:00 PM EDT Old Glory DC vs. Seattle Seawolves 5/10
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398316.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/a6f6e3e0-f29e-427b-8e82-1cb5c0a8790e/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202604151651" group-title="ESPN+ Events US",4:00 PM EDT UC Irvine vs. UC Riverside 5/10
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398315.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/aa191753-c55d-48c9-83c0-019db893a3df/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202604151648" group-title="ESPN+ Events US",4:00 PM EDT Hawai'i vs. UC Davis 5/10
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398314.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/457c3dc6-37e1-4e58-a360-45884fb48e9a/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202604091209" group-title="ESPN+ Events US",4:00 PM EDT Oklahoma State vs. #16 Arizona State 5/10
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398313.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/49329b5b-f5de-44eb-805b-736989162672/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202604262001" group-title="ESPN+ Events US",4:00 PM EDT Gonzaga vs. San Francisco 5/10
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398312.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/1c5db3f2-afb0-435f-8436-f45785f6f0ae/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202604262109" group-title="ESPN+ Events US",4:00 PM EDT Saint Mary's vs. Loyola Marymount 5/10
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398311.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/eb82893a-85fc-4094-84ec-5a65f245f90e/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202604151648" group-title="ESPN+ Events US",4:00 PM EDT UC San Diego vs. Cal State Bakersfield 5/10
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398310.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/b88b7316-464e-4fbe-80f6-98a3e12f511e/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202605011834" group-title="ESPN+ Events US",5:00 PM EDT Illinois State vs. UIC 5/10
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398309.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/fdd7cf5f-8e09-40e0-9c93-f36e24268096/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs" group-title="ESPN+ Events US",5:00 PM EDT Sun, 5/10 - Bundesliga Highlights Show 5/10
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398308.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/104d1e2d-40af-45e2-b30b-8a348708b802/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs" group-title="ESPN+ Events US",5:30 PM EDT Sun, 5/10 - ESPN FC 5/10
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398307.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/3657f782-0e8a-4176-b21f-7c0d5c7c6c82/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202605071707" group-title="ESPN+ Events US",6:00 PM EDT Georgia Swarm vs. Halifax Thunderbirds (Semifinals, Game 3) 5/10
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398306.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/bfd506d7-7bd8-4bc6-b45b-15c8472295f9/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202604231705" group-title="ESPN+ Events US",6:00 PM EDT Spokane Velocity FC vs. FC Naples 5/10
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398305.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/d16caf2e-dde8-429a-a500-bdf8ac214310/default?width=320&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202604141612" group-title="ESPN+ Events US",6:00 PM EDT Chicago Hounds vs. Anthem Rugby Carolina 5/10
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398304.m3u8
 
 # --- Entertainment US (180) ---
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/HGTV_2010.svg/revision/latest?cb=20231006154546" group-title="Entertainment US",HGTV West US
@@ -2785,146 +2471,12 @@ http://45.139.122.199:8080/live/Susanne1/susanne1/2114418.m3u8
 #EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/hd-f1-the-official-formula-1-transparent-png-701751712229525ajvwddtfme.png" group-title="F1 TV",-= Reload your playlist =-
 http://45.139.122.199:8080/live/Susanne1/susanne1/2386382.m3u8
 
-# --- FIFA+ Events (70) ---
+# --- FIFA+ Events (3) ---
 #EXTINF:-1 tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/Other/fifa.png" group-title="FIFA+ Events",-= Reload your playlist =-
 http://45.139.122.199:8080/live/Susanne1/susanne1/2112470.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/8d/8a/a8/83/8d8aa883-7599-4911-a777-2626d6b82f3f.png" group-title="FIFA+ Events",13:20 FK Gintra v Kauno rajono FA | Moterų A lyga 2026 5/10 [FIFA+]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398018.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/dd/a2/73/50/dda27350-ef15-487e-bab8-02d8dcc6d671.png" group-title="FIFA+ Events",13:55 Shao Jiang v Chiba | Macau First Division 2026 5/10 [FIFA+]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398016.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/53/f8/0f/99/53f80f99-9c3b-4711-960e-cb8533731d4e.png" group-title="FIFA+ Events",13:50 AS Port-Louis 2000 v La Cure Waves SC | MFA Cup 2025/26 5/10 [FIFA+]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398015.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/f0/8a/f4/b6/f08af4b6-a008-4c65-8e1b-2539f351adef.png" group-title="FIFA+ Events",14:20 Kamuzu Barracks FC v Karonga United | FDH Bank Premiership 5/10 [FIFA+]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398014.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/38/d5/98/61/38d59861-6cb9-4e32-9e5a-42eb568ab253.png" group-title="FIFA+ Events",14:20 Red Lions v Dedza Dynamos FC | FDH Bank Premiership 5/10 [FIFA+]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398013.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/db/bb/c1/45/dbbbc145-a4fe-4610-b662-0b43a67d697a.png" group-title="FIFA+ Events",14:50 UCV FC v Caracas FC | Liga FUTVE Femenina 2026 5/10 [FIFA+]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398012.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/59/cb/b3/e8/59cbb3e8-731c-4469-bac3-25e6aadd1f8b.png" group-title="FIFA+ Events",15:50 AS Tempete Mocaf v ORB | Central African Republic Super League 2026 5/10 [FIFA+]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398011.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/d5/a1/b4/59/d5a1b459-89f5-4d30-ad74-c768ec07532c.png" group-title="FIFA+ Events",15:50 AF Elbasani v KF Tirana | Kategoria Superiore 2025/26 5/10 [FIFA+]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398010.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/a2/23/76/b8/a22376b8-4082-4a49-ace6-08b4ca9565af.png" group-title="FIFA+ Events",15:50 FK Partizani v FC Dinamo City | Kategoria Superiore 2025/26 5/10 [FIFA+]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398009.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/25/d5/97/02/25d59702-27d3-4142-8aa0-7d31e62eff5f.png" group-title="FIFA+ Events",15:50 KF Teuta v KF Egnatia | Kategoria Superiore 2025/26 5/10 [FIFA+]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398008.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/1f/65/41/68/1f654168-b6ec-4956-bffd-90c56a63f4da.png" group-title="FIFA+ Events",15:50 KF Vllaznia v Flamurtari | Kategoria Superiore 2025/26 5/10 [FIFA+]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398007.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/24/9c/49/90/249c4990-222a-4a78-b151-cb9778a79efc.png" group-title="FIFA+ Events",15:50 Vora v KF Bylis | Kategoria Superiore 2025/26 5/10 [FIFA+]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398006.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/b0/d9/ea/7c/b0d9ea7c-9668-4b62-b656-e4b90348cbed.png" group-title="FIFA+ Events",15:55 Al Jazira Al Hamra v Dubai City F.C. | Round 27 | First Division League 2025/26 5/10 [FIFA+]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398005.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/37/d1/10/9d/37d1109d-69cc-49d8-8d85-a87fe63f3853.png" group-title="FIFA+ Events",15:55 Dibba Al-Hisn v Al-Ittifaq | Round 27 | First Division League 2025/26 5/10 [FIFA+]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398004.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/92/da/ae/e0/92daaee0-6f60-4f92-8b07-82ec405c6a04.png" group-title="FIFA+ Events",15:55 Emirates Club v Al Orooba | Round 27 | First Division League 2025/26 5/10 [FIFA+]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398003.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/89/bd/5e/29/89bd5e29-6b22-423b-95f5-7bb86de682e9.png" group-title="FIFA+ Events",15:55 Fujairah Club v Al Dhaid Club | Round 27 | First Division League 2025/26 5/10 [FIFA+]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398002.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/59/f8/2c/5a/59f82c5a-3f01-401d-a52a-d658b2ae4f84.png" group-title="FIFA+ Events",15:55 Gulf United v Masfout Club | Round 27 | First Division League 2025/26 5/10 [FIFA+]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398001.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/78/20/f4/03/7820f403-0da5-4984-8b3b-8a74693327e0.png" group-title="FIFA+ Events",15:55 Hatta Club v Al Hamriyah | Round 27 | First Division League 2025/26 5/10 [FIFA+]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398000.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/2a/28/47/ad/2a2847ad-6eea-4f4d-bb7b-a7cc1289a39d.png" group-title="FIFA+ Events",15:55 United Club v Al Arabi | Round 27 | First Division League 2025/26 5/10 [FIFA+]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2397999.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/bf/1f/06/18/bf1f0618-774c-4894-815f-47b8d508b7c3.png" group-title="FIFA+ Events",16:20 Mighty Wanderers v FCB Nyasa Big Bullets | FDH Bank Premiership 5/10 [FIFA+]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2397998.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/18/31/83/3f/1831833f-bc1d-4036-ac4f-682a8df1acc8.png" group-title="FIFA+ Events",16:50 Ayema FC v Loto Popo FC | Ligue 1 2025 5/10 [FIFA+]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2397997.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/29/a2/1f/57/29a21f57-99c0-4bee-9618-dfb90e4616c8.png" group-title="FIFA+ Events",16:50 Sobemap FC v USS Krake FC | Ligue 1 2025 5/10 [FIFA+]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2397996.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/99/c4/1b/4d/99c41b4d-3012-4c06-b37d-900d8d098eac.png" group-title="FIFA+ Events",17:20 AC Barracuda v ASCK | D1 Lonato 2025/26 5/10 [FIFA+]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2397995.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/75/66/b0/c6/7566b0c6-c580-4946-ae7d-37117eb4bc26.png" group-title="FIFA+ Events",17:20 AS Binah v ASKO | D1 Lonato 2025/26 5/10 [FIFA+]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2397994.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/fa/0f/05/6d/fa0f056d-9389-4309-bbe3-abcd6d7fb173.png" group-title="FIFA+ Events",17:20 FC Espoir v Entente II | D1 Lonato 2025/26 5/10 [FIFA+]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2397993.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/42/de/a6/12/42dea612-4d8e-4bbc-8042-fdff1b77c671.png" group-title="FIFA+ Events",17:20 Semassi FC v Dyto FC | D1 Lonato 2025/26 5/10 [FIFA+]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2397992.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/e4/a3/0c/6c/e4a30c6c-e5c9-4d95-bcfc-dcfbc380cacc.png" group-title="FIFA+ Events",17:20 FA Šiauliai v FK Žalgiris | Moterų A lyga 2026 5/10 [FIFA+]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2397991.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/0c/f9/c7/90/0cf9c790-c458-4104-a805-27c646b86498.png" group-title="FIFA+ Events",17:35 ASN Nigelec v AS Police | Super Ligue 2025/26 5/10 [FIFA+]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2397990.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/4c/c6/06/2a/4cc6062a-51cf-46bc-85b8-2e22eb3709c8.png" group-title="FIFA+ Events",17:50 AJEB v Sporting Cascades | Burkina Faso Ligue 1 2025-26 5/10 [FIFA+]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2397989.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/af/8b/ab/27/af8bab27-3a90-4509-8c02-387f24e06be1.png" group-title="FIFA+ Events",17:50 AS Douanes v CFFEB | Burkina Faso Ligue 1 2025-26 5/10 [FIFA+]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2397988.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/8c/c3/a9/30/8cc3a930-8c98-4a2b-b0a0-ed6a1e0a98cf.png" group-title="FIFA+ Events",17:50 AS Sonabel v ASFAY | Burkina Faso Ligue 1 2025-26 5/10 [FIFA+]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2397987.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/8a/c8/ee/79/8ac8ee79-f6e2-44d7-b60c-5b77d658c0b7.png" group-title="FIFA+ Events",17:50 RCB v USFA | Burkina Faso Ligue 1 2025-26 5/10 [FIFA+]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2397986.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/c9/41/c5/24/c941c524-ee73-41c5-8063-72e905681753.png" group-title="FIFA+ Events",17:50 RCK v Majestic FC | Burkina Faso Ligue 1 2025-26 5/10 [FIFA+]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2397985.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/b8/1e/c4/d5/b81ec4d5-672b-47e4-8800-d72c40428e17.png" group-title="FIFA+ Events",17:50 Real du Faso v EFO | Burkina Faso Ligue 1 2025-26 5/10 [FIFA+]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2397984.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/7e/62/92/8f/7e62928f-4e47-421e-8279-b52bcced2ad7.png" group-title="FIFA+ Events",17:50 Salitas FC v ASFB | Burkina Faso Ligue 1 2025-26 5/10 [FIFA+]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2397983.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/0e/6b/9f/0b/0e6b9f0b-79da-4a4f-a0ef-61c46753466e.png" group-title="FIFA+ Events",17:50 Vitesse FC v Rahimo FC | Burkina Faso Ligue 1 2025-26 5/10 [FIFA+]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2397982.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/f3/3b/34/93/f33b3493-7339-4f39-8e15-835df5c8a4ad.png" group-title="FIFA+ Events",17:50 Africa Sports v ES Bafing | Côte d'Ivoire Ligue 2 2025/26 5/10 [FIFA+]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2397981.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/81/a4/c7/7c/81a4c77c-caca-4240-a7bb-951cc39f5044.png" group-title="FIFA+ Events",17:50 Hilal Témara v Phoenix Football Academy | D1 Women's Championship  2025-26 5/10 [FIFA+]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2397980.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/d0/c4/1a/bb/d0c41abb-d89c-45fc-948c-141eb3917ded.png" group-title="FIFA+ Events",17:50 Raja Ait Iazza v Union Touarga Sport | D1 Women's Championship  2025-26 5/10 [FIFA+]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2397979.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/0e/3a/8e/45/0e3a8e45-0149-459d-bb80-5fe53548fbb5.png" group-title="FIFA+ Events",17:50 Sporting Casablanca v Wydad de Casablanca | D1 Women's Championship  2025-26 5/10 [FIFA+]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2397978.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/da/5a/b7/84/da5ab784-238c-44b9-86e0-3f00ee4d9140.png" group-title="FIFA+ Events",18:20 Abacha City FC v Diamond Stars FC | Leone Rock Premier League 2025-26 5/10 [FIFA+]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2397977.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/64/07/48/4d/6407484d-d194-4bc4-82a3-84e3707f3dd0.png" group-title="FIFA+ Events",18:20 Bo Rangers FC v Star Sports Academy | Leone Rock Premier League 2025-26 5/10 [FIFA+]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2397976.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/5c/36/41/56/5c364156-2c6f-4c49-8f42-0dc7662b063e.png" group-title="FIFA+ Events",18:20 Kamboi Eagles FC v Wusum Stars FC | Leone Rock Premier League 2025-26 5/10 [FIFA+]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2397975.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/0b/c8/62/f7/0bc862f7-bf39-43ca-b3e9-4f61e8f10216.png" group-title="FIFA+ Events",18:20 Mighty Blackpool FC v SLIFA FC | Leone Rock Premier League 2025-26 5/10 [FIFA+]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2397974.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/b7/14/49/a7/b71449a7-f9c6-4c5d-ac12-03f673134082.png" group-title="FIFA+ Events",18:20 Onze Createurs v Stade Malien | Ligue 1 Pro Orange 2025/26 5/10 [FIFA+]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2397973.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/c8/dd/11/04/c8dd1104-e794-41ad-989e-ee2001474e5e.png" group-title="FIFA+ Events",18:20 USFAS v Afrique Football Elite | Ligue 1 Pro Orange 2025/26 5/10 [FIFA+]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2397972.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/4d/14/a8/6d/4d14a86d-aad5-44d1-821e-22d5722d2f8b.png" group-title="FIFA+ Events",18:35 FC Nouadhibou v ASC Police | Super D-1 2025/26 5/10 [FIFA+]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2397970.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/8a/f5/4f/ea/8af54fea-4f70-4fb9-bbd8-fcf8558878cb.png" group-title="FIFA+ Events",18:50 Atlético São Nicolau v África Show | Cape Verdean Football Championship 2026 5/10 [FIFA+]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2397969.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/31/84/1c/2e/31841c2e-1679-45ce-829c-5413d870e358.png" group-title="FIFA+ Events",18:50 Benfica da Brava v Scorpion Vermelho | Cape Verdean Football Championship 2026 5/10 [FIFA+]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2397968.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/18/0a/b8/f5/180ab8f5-6254-4127-bbbf-a1f5517232d3.png" group-title="FIFA+ Events",18:50 Cutelinho v Onze Unidos | Cape Verdean Football Championship 2026 5/10 [FIFA+]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2397967.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/0b/b8/89/10/0bb88910-aef9-4fa0-8837-4977ac1c9a59.png" group-title="FIFA+ Events",20:20 FC Diarra v Derby Academie | Ligue 1 Pro Orange 2025/26 5/10 [FIFA+]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2397965.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/15/41/59/fa/154159fa-9cfe-4cb7-8e33-d97d6aa84484.png" group-title="FIFA+ Events",21:20 Puerto Cabello B v El Vigía FC | Liga FUTVE 2 2026 5/10 [FIFA+]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2397964.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/dd/7c/b0/8a/dd7cb08a-d4db-4660-9a64-73639bd1c720.png" group-title="FIFA+ Events",21:50 UWI Blackbirds v Bagatelle FC | BFA Premier League 2026 5/10 [FIFA+]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2397963.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/c6/ad/0e/d1/c6ad0ed1-ce7e-4c25-afb5-0a3efcc526c6.png" group-title="FIFA+ Events",21:50 SV Atlantico Deportivo v FC San Nicolas | Division Honor 2025-26 5/10 [FIFA+]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2397962.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/25/04/e6/0e/2504e60e-ac4f-49bd-b357-dbfd6e980276.png" group-title="FIFA+ Events",21:50 Dynamo Puerto v Bolívar SC | Liga FUTVE 2 2026 5/10 [FIFA+]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2397961.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/cc/d6/cd/94/ccd6cd94-0f9f-4ca7-af5b-89e77cefe4f8.png" group-title="FIFA+ Events",21:50 Miranda v Marítimo La Guaira | Liga FUTVE 2 2026 5/10 [FIFA+]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2397960.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/39/1f/cf/14/391fcf14-c86b-4262-9bca-46ee5c83aa0a.png" group-title="FIFA+ Events",22:20 VG United  v Lion Heart FC | BVIFA National League 2025/26 5/10 [FIFA+]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2397959.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/2b/f9/53/d3/2bf953d3-501b-4704-9154-580471382bf4.png" group-title="FIFA+ Events",22:20 Inter Moengo Tapoe v Voorwaarts | Suriname Major League 2025/26 5/10 [FIFA+]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2397958.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/d8/08/be/d8/d808bed8-cb79-42a5-84a2-b2f5e4c01972.png" group-title="FIFA+ Events",22:20 San Ramón FF v Cubujuquí | Women's Second Division 2026 5/10 [FIFA+]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2397957.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/26/ce/53/10/26ce5310-319b-4135-9790-094aaf0aaea2.png" group-title="FIFA+ Events",23:50 Attackers FC v Spartans FC | Anguilla Senior Men's League 2026 5/10 [FIFA+]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2397956.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/d5/9e/03/5e/d59e035e-50a7-437d-9025-49be2d566b12.png" group-title="FIFA+ Events",23:50 Paradise FC v Brittons Hill FC | BFA Premier League 2026 5/10 [FIFA+]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2397955.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/f2/06/fd/2f/f206fd2f-49b9-48d6-814e-08c77fcf5daa.png" group-title="FIFA+ Events",23:50 Unistars v River Plate Aruba | Division Honor 2025-26 5/10 [FIFA+]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2397954.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/e3/dd/ff/b1/e3ddffb1-beda-4c89-9fa2-c8906f8ac863.png" group-title="FIFA+ Events",23:50 Scholars International v Latinos Football Club | Premier League 2025-26 5/10 [FIFA+]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2397953.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/a0/4c/f6/9a/a04cf69a-664b-44b1-93fe-e9933992eb43.png" group-title="FIFA+ Events",00:20 Bombers FC v Bath Estate FC | DFA Premier League 2026 5/10 [FIFA+]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2397952.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/2e/24/3e/58/2e243e58-ac0a-44a1-a307-7d413a3bb20a.png" group-title="FIFA+ Events",00:20 South East FC vs Dublanc FC 5/10 [FIFA+]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2397951.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/6a/ce/5b/b6/6ace5bb6-76d3-41f2-b0ca-7b208e17013f.png" group-title="FIFA+ Events",00:50 Flora v Broki | Suriname Major League 2025/26 5/10 [FIFA+]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2397950.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/41/8e/77/c4/418e77c4-429e-4e56-adba-c056226f7fd4.png" group-title="FIFA+ Events",01:50 Lymers FC v Diamond FC | Anguilla Senior Men's League 2026 5/10 [FIFA+]
 http://45.139.122.199:8080/live/Susanne1/susanne1/2397949.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/40/4f/f0/87/404ff087-7730-422b-9b80-77db01f2644f.png" group-title="FIFA+ Events",01:50 Kickstart Rush v Weymouth Wales | BFA Premier League 2026 5/10 [FIFA+]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2397948.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/6b/46/2e/12/6b462e12-d3e6-4c1b-924e-9c75b91c94bd.png" group-title="FIFA+ Events",01:50 Jong Aruba v Caiquetio | Division Honor 2025-26 5/10 [FIFA+]
+#EXTINF:-1 tvg-logo="https://cdn.plus.fifa.com/images/public/cms/6b/46/2e/12/6b462e12-d3e6-4c1b-924e-9c75b91c94bd.png" group-title="FIFA+ Events",01:58 Jong Aruba v Caiquetio | Division Honor 2025-26 5/10 [FIFA+]
 http://45.139.122.199:8080/live/Susanne1/susanne1/2397947.m3u8
 
 # --- Family & Kids US (22) ---
@@ -3631,31 +3183,9 @@ http://45.139.122.199:8080/live/Susanne1/susanne1/1351516.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/6GDGuR.md.png" group-title="HBO Max Original US",HBOMax Original 17
 http://45.139.122.199:8080/live/Susanne1/susanne1/1351517.m3u8
 
-# --- HBO Max Sports DK (13) ---
+# --- HBO Max Sports DK (2) ---
 #EXTINF:-1 tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/misc/media/hbo-max-alt.png" group-title="HBO Max Sports DK",-= Reload your playlist =-
 http://45.139.122.199:8080/live/Susanne1/susanne1/2191277.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/AK0f1/AZYDgy_Qf9FCBWbYg.png?f=webp&w=400" group-title="HBO Max Sports DK",11:45 Giro d'Italia | Studie cykling FHD 5/10 [HBO Max DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2397495.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/yvZsG/pFzR_h0cZA_HMPsFA.png?f=webp&w=400" group-title="HBO Max Sports DK",12:00 Giro d'Italia  cykling FHD 5/10 [HBO Max DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2397494.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/ViG3Z/hk-0JyNzyDapDjpZg.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",13:30 Stream 1 | Main feed / Featured group golf FHD 5/10 [HBO Max DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2397493.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/5Z-Wr/kFjoL-MmECh81nrJw.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",14:00 World Series | Speed | Finale klatring FHD 5/10 [HBO Max DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2397492.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/z1mEp/54yCmCGBaavc3Dz6g.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",14:30 Stream 3 | Featured groups / Featured hole golf FHD 5/10 [HBO Max DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2397491.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/mEJT5/d7B0pCKZqIs0wmG9w.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",15:15 Tro-Bro Léon cykling FHD 5/10 [HBO Max DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2397490.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/CLr37/y_6w1s5pDpc2EBq2g.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",16:00 Stream 2 | Marquee group / Featured group  golf FHD 5/10 [HBO Max DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2397489.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/sy5LQ/FU22Z72H5fZ_pSjZA.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",19:00 Truist Championship | Dag 4 golf FHD 5/10 [HBO Max DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2397488.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/_7nFT/_AG5IEMq8QQMHlMCQ.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",21:00 Myrtle Beach Classic | Dag 4 golf FHD 5/10 [HBO Max DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2397487.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/-BEX8/lXRIoweQBCpiD3OXg.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",21:30 New York Knicks - Philadelphia 76ers basketball FHD 5/10 [HBO Max DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2397486.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/AFvLW/UIgw5bQdB3s5lfxoQ.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",22:00 Insperity Invitational | Dag 3 golf FHD 5/10 [HBO Max DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2397485.m3u8
 #EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/mGXKB/wCEy_pBhLdgXjBjng.jpeg?f=webp&w=400" group-title="HBO Max Sports DK",01:30 San Antonio Spurs - Minnesota Timberwolves basketball FHD 5/10 [HBO Max DK]
 http://45.139.122.199:8080/live/Susanne1/susanne1/2397484.m3u8
 
@@ -3664,31 +3194,31 @@ http://45.139.122.199:8080/live/Susanne1/susanne1/2397484.m3u8
 http://45.139.122.199:8080/live/Susanne1/susanne1/987408.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",ENDED | WORLD SERIES | Sun 10 May 11:30 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 2
 http://45.139.122.199:8080/live/Susanne1/susanne1/987409.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",LIVE | GIRO D'ITALIA | STUDIE | Sun 10 May 11:45 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 3
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",ENDED | GIRO D'ITALIA | STUDIE | Sun 10 May 11:45 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 3
 http://45.139.122.199:8080/live/Susanne1/susanne1/987410.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",LIVE | GIRO D'ITALIA  | Sun 10 May 12:00 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 4
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",ENDED | GIRO D'ITALIA  | Sun 10 May 12:00 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 4
 http://45.139.122.199:8080/live/Susanne1/susanne1/987411.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",LIVE | STREAM 1 | MAIN FEED / FEATURED GROUP | Sun 10 May 13:30 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 5
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",ENDED | STREAM 1 | MAIN FEED / FEATURED GROUP | Sun 10 May 13:30 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 5
 http://45.139.122.199:8080/live/Susanne1/susanne1/987412.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",LIVE | WORLD SERIES | SPEED | FINALE | Sun 10 May 14:00 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 6
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",ENDED | WORLD SERIES | SPEED | FINALE | Sun 10 May 14:00 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 6
 http://45.139.122.199:8080/live/Susanne1/susanne1/987413.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",LIVE | STREAM 3 | FEATURED GROUPS / FEATURED HOLE | Sun 10 May 14:30 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 7
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",ENDED | STREAM 3 | FEATURED GROUPS / FEATURED HOLE | Sun 10 May 14:30 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 7
 http://45.139.122.199:8080/live/Susanne1/susanne1/987414.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",NEXT | TRO-BRO LÉON | Sun 10 May 15:15 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 8
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",ENDED | TRO-BRO LÉON | Sun 10 May 15:15 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 8
 http://45.139.122.199:8080/live/Susanne1/susanne1/987415.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",NEXT | STREAM 2 | MARQUEE GROUP / FEATURED GROUP  | Sun 10 May 16:00 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 9
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",ENDED | STREAM 2 | MARQUEE GROUP / FEATURED GROUP  | Sun 10 May 16:00 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 9
 http://45.139.122.199:8080/live/Susanne1/susanne1/987416.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",NEXT | TRUIST CHAMPIONSHIP | DAG 4 | Sun 10 May 19:00 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 10
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",ENDED | TRUIST CHAMPIONSHIP | DAG 4 | Sun 10 May 19:00 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 10
 http://45.139.122.199:8080/live/Susanne1/susanne1/987417.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",NEXT | MYRTLE BEACH CLASSIC | DAG 4 | Sun 10 May 21:00 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 11
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",ENDED | MYRTLE BEACH CLASSIC | DAG 4 | Sun 10 May 21:00 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 11
 http://45.139.122.199:8080/live/Susanne1/susanne1/987418.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",NEXT | NEW YORK KNICKS - PHILADELPHIA 76ERS | Sun 10 May 21:30 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 12
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",ENDED | NEW YORK KNICKS - PHILADELPHIA 76ERS | Sun 10 May 21:30 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 12
 http://45.139.122.199:8080/live/Susanne1/susanne1/987419.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",NEXT | INSPERITY INVITATIONAL | DAG 3 | Sun 10 May 22:00 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 13
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",ENDED | INSPERITY INVITATIONAL | DAG 3 | Sun 10 May 22:00 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 13
 http://45.139.122.199:8080/live/Susanne1/susanne1/987420.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",NEXT | SAN ANTONIO SPURS - MINNESOTA TIMBERWOLVES | Mon 11 May 01:30 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 14
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",LIVE | SAN ANTONIO SPURS - MINNESOTA TIMBERWOLVES | Mon 11 May 01:30 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 14
 http://45.139.122.199:8080/live/Susanne1/susanne1/987421.m3u8
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | DK: MAX PPV 15
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",NEXT | BAKU-KHANKENDI AZERBAIJAN | 2. ETAPE | Mon 11 May 10:00 CEST (DK) | 8K EXCLUSIVE | DK: MAX PPV 15
 http://45.139.122.199:8080/live/Susanne1/susanne1/987422.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | DK: MAX PPV 16
 http://45.139.122.199:8080/live/Susanne1/susanne1/987423.m3u8
@@ -3761,39 +3291,9 @@ http://45.139.122.199:8080/live/Susanne1/susanne1/987456.m3u8
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="HBO Max Sports DK [B]",- NO EVENT STREAMING - | 8K EXCLUSIVE | DK: MAX PPV 50
 http://45.139.122.199:8080/live/Susanne1/susanne1/987457.m3u8
 
-# --- HBO Max Sports UK (17) ---
+# --- HBO Max Sports UK (2) ---
 #EXTINF:-1 tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/misc/media/hbo-max-alt.png" group-title="HBO Max Sports UK",-= Reload your playlist =-
 http://45.139.122.199:8080/live/Susanne1/susanne1/1452150.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/rszep/y9DLv4Bm6Kq3uM8OQ.png?f=webp&w=400" group-title="HBO Max Sports UK",10:30 Giro d'Italia cycling FHD 5/10 [HBO Max UK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2397765.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/Fkswc/Dgh2FUISNBafbjeYg.png?f=webp&w=400" group-title="HBO Max Sports UK",11:45 Liverpool - Brighton and Hove Albion football FHD 5/10 [HBO Max UK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2397762.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/B_AMS/azQXz8AKg4ioTquog.png?f=webp&w=400" group-title="HBO Max Sports UK",12:15 MotoGP | Round 5 | France motogp FHD 5/10 [HBO Max UK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2397761.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/4bfwL/SyX_g4upfLiHEgwvQ.jpeg?f=webp&w=400" group-title="HBO Max Sports UK",13:00 WRC rally FHD 5/10 [HBO Max UK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2397760.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/Fjv0e/NP_LlHDM9euOxNIzg.jpeg?f=webp&w=400" group-title="HBO Max Sports UK",13:00 Men's and Women's Speed | Final climbing FHD 5/10 [HBO Max UK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2397759.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/K1Xxm/lddrf-jM2i5EgatKw.png?f=webp&w=400" group-title="HBO Max Sports UK",13:00 Multiview motogp FHD 5/10 [HBO Max UK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2397758.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/EO4SI/N_OpOqadyztXNQnQA.jpeg?f=webp&w=400" group-title="HBO Max Sports UK",14:15 Tro Bro Léon cycling FHD 5/10 [HBO Max UK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2397757.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/Pinz-/9UikLgjdEnapMqDmA.png?f=webp&w=400" group-title="HBO Max Sports UK",14:45 Chelsea - Manchester City football FHD 5/10 [HBO Max UK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2397756.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/74WFD/3MOARRHGz__w4IDwA.png?f=webp&w=400" group-title="HBO Max Sports UK",14:45 Newcastle Red Bulls - Harlequins rugby FHD 5/10 [HBO Max UK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2397755.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/dhlbE/3qgRh0lqpjuqu5elA.png?f=webp&w=400" group-title="HBO Max Sports UK",15:00 Exeter Chiefs - Bath Rugby rugby FHD 5/10 [HBO Max UK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2397754.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/3zV_a/GD4m1uIXO6NDBkK_Q.jpeg?f=webp&w=400" group-title="HBO Max Sports UK",16:30 LIV Golf Virginia | Round 4 golf FHD 5/10 [HBO Max UK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2397753.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/VQlQo/14OYagXkkkAIKXXjw.jpeg?f=webp&w=400" group-title="HBO Max Sports UK",17:30 Kansas City Current - Chicago Stars football FHD 5/10 [HBO Max UK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2397752.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/XC0Dz/S_dhozoKA0UGwG5yQ.jpeg?f=webp&w=400" group-title="HBO Max Sports UK",18:00 Rolex SailGP Championship | Apex Group Bermuda Grand Prix sailing FHD 5/10 [HBO Max UK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2397751.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/pei9W/QP2fDSmt2mw9YsgKA.jpeg?f=webp&w=400" group-title="HBO Max Sports UK",19:00 New York Yankees @ Milwaukee Brewers baseball FHD 5/10 [HBO Max UK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2397750.m3u8
-#EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/2025/03/30/a1666806-f22b-47b4-9d2a-3928d1f22ea1.png?f=webp&w=400" group-title="HBO Max Sports UK",19:30 AC Milan - Atalanta football FHD 5/10 [HBO Max UK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2397749.m3u8
 #EXTINF:-1 tvg-logo="https://images.cdn.prd.api.discomax.com/eT2TJ/og4eaSXqmI_3GummQ.jpeg?f=webp&w=400" group-title="HBO Max Sports UK",00:00 Detroit Tigers @ Kansas City Royals baseball FHD 5/10 [HBO Max UK]
 http://45.139.122.199:8080/live/Susanne1/susanne1/2397748.m3u8
 
@@ -5598,11 +5098,11 @@ http://45.139.122.199:8080/live/Susanne1/susanne1/1418046.m3u8
 http://45.139.122.199:8080/live/Susanne1/susanne1/1418045.m3u8
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL US",:NHL  04
 http://45.139.122.199:8080/live/Susanne1/susanne1/1418044.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL US",NHL: HNIC IN PUNJABI Colorado vs Minnesota Game 3 @ May 9 9:00 PM :NHL  03
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL US",NHL: Vegas vs Anaheim Game 4 @ May 10 9:50 PM :NHL  03
 http://45.139.122.199:8080/live/Susanne1/susanne1/1418043.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL US",Vegas vs Anaheim @ May 10 9:30 PM :NHL  02
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL US",NHL: Buffalo vs Montreal Game 3 @ May 10 6:30 PM :NHL  02
 http://45.139.122.199:8080/live/Susanne1/susanne1/1418042.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL US",Buffalo vs Montreal  @ May 9 7:00 PM :NHL  01
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" group-title="NHL US",NHL: Sun 5-10 In the Crease @ May 11 12:00 AM :NHL  01
 http://45.139.122.199:8080/live/Susanne1/susanne1/1418041.m3u8
 
 # --- National Womens Soccer League US (20) ---
@@ -6389,13 +5889,9 @@ http://45.139.122.199:8080/live/Susanne1/susanne1/1350717.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1920px-PBS_logo_2019.svg.png" group-title="PBS LOCAL US",WY | Riverton | PBS KCWC
 http://45.139.122.199:8080/live/Susanne1/susanne1/1350617.m3u8
 
-# --- PDC UK (3) ---
+# --- PDC UK (1) ---
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgKlc9g5mefyJl_3BpKCdfdzvPauRz6uDFPQ&s" group-title="PDC UK",-= Reload your playlist =-
 http://45.139.122.199:8080/live/Susanne1/susanne1/2380082.m3u8
-#EXTINF:-1 tvg-logo="https://images.gc.pdcservices.co.uk/fit-in/600x600/3c317c20-bc10-11f0-a7ca-afbb18ece5a9.jpg" group-title="PDC UK",12:00 Austrian Darts Open | Day 3 - Afternoon Session - European Tour - Main Feed 5/10 [PDC TV]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2397588.m3u8
-#EXTINF:-1 tvg-logo="https://images.gc.pdcservices.co.uk/fit-in/600x600/3c317c20-bc10-11f0-a7ca-afbb18ece5a9.jpg" group-title="PDC UK",18:00 Austrian Darts Open | Day 3 - Evening Session - European Tour - Main Feed 5/10 [PDC TV]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2397587.m3u8
 
 # --- PLEX US (501) ---
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/b/epg/channels/logos/gracenote/b23f4f8eacf2433bf8ac6cf851477a97.png" group-title="PLEX US",4Emergency FHD US
@@ -7412,7 +6908,7 @@ http://45.139.122.199:8080/live/Susanne1/susanne1/2131417.m3u8
 http://45.139.122.199:8080/live/Susanne1/susanne1/2378260.m3u8
 #EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/a70541484c82e651fdecae4f5938fc87.png" group-title="PPV Events US",PPV 03 ⓧ| No Scheduled Event
 http://45.139.122.199:8080/live/Susanne1/susanne1/2378259.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV Events US",PPV 03:
+#EXTINF:-1 tvg-logo="" group-title="PPV Events US",PPV 03: The Roast of Kevin Hart @ 08:00 PM
 http://45.139.122.199:8080/live/Susanne1/susanne1/2131418.m3u8
 #EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/a70541484c82e651fdecae4f5938fc87.png" group-title="PPV Events US",PPV 04 ⓧ| No Scheduled Event
 http://45.139.122.199:8080/live/Susanne1/susanne1/2378258.m3u8
@@ -7561,25 +7057,9 @@ http://45.139.122.199:8080/live/Susanne1/susanne1/2131473.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PPV Events US",USA PPV59:
 http://45.139.122.199:8080/live/Susanne1/susanne1/2131474.m3u8
 
-# --- Paramount+ Original US (10) ---
+# --- Paramount+ Original US (2) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Paramount_Plus.svg/250px-Paramount_Plus.svg.png" group-title="Paramount+ Original US",-= Reload your playlist =-
 http://45.139.122.199:8080/live/Susanne1/susanne1/2380061.m3u8
-#EXTINF:-1 tvg-logo="https://wwwimage-us.pplusstatic.com/thumbnails/photos/w570-q80/channel/2ca5a87c-98e9-4b95-be4f-0652912d965c/SERIE_THMB_26_Verona_Main_Como_Alt_4gymz.jpg?format=webp" group-title="Paramount+ Original US",6:20 AM EDT Hellas Verona vs. Como Serie A 5/10
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398472.m3u8
-#EXTINF:-1 tvg-logo="https://wwwimage-us.pplusstatic.com/thumbnails/photos/w570-q80/channel/27f74b28-72fb-4769-afad-34d6d190bd49/SERIE_THMB_26_Fiorentina_Main_Genoa_Main_97w0y.jpg?format=webp" group-title="Paramount+ Original US",8:50 AM EDT Fiorentina vs. Genoa Serie A 5/10
-http://45.139.122.199:8080/live/Susanne1/susanne1/2397811.m3u8
-#EXTINF:-1 tvg-logo="https://wwwimage-us.pplusstatic.com/thumbnails/photos/w570-q80/channel/9a0f2f51-ade3-4423-b089-9a8ecf7ce59a/SERIE_THMB_26_Cremonese_Main_Pisa_Main_rqalb.jpg?format=webp" group-title="Paramount+ Original US",8:50 AM EDT Cremonese vs. Pisa Serie A 5/10
-http://45.139.122.199:8080/live/Susanne1/susanne1/2397810.m3u8
-#EXTINF:-1 tvg-logo="https://wwwimage-us.pplusstatic.com/thumbnails/photos/w570-q80/channel/77fad96c-a0ea-4546-bfc2-9fe505872543/EFL_LEAGUE2_THMB_26_GrimsbyTown_Main_Salford_City_Main_o956x.jpg?format=webp" group-title="Paramount+ Original US",9:30 AM EDT Grimsby Town vs. Salford City English Football League 5/10
-http://45.139.122.199:8080/live/Susanne1/susanne1/2397809.m3u8
-#EXTINF:-1 tvg-logo="https://wwwimage-us.pplusstatic.com/thumbnails/photos/w570-q80/channel/36438dfe-504d-4d95-b7d9-30ae2b49df09/SERIE_THMB_26_Parma_Main_Roma_Main_zgfos.jpg?format=webp" group-title="Paramount+ Original US",11:50 AM EDT Parma vs. Roma Serie A 5/10
-http://45.139.122.199:8080/live/Susanne1/susanne1/2397808.m3u8
-#EXTINF:-1 tvg-logo="https://wwwimage-us.pplusstatic.com/thumbnails/photos/w570-q80/channel/289987c5-0c06-484b-8221-9de1798de7ac/EFL_LEAGUE2_THMB_26_Chesterfield_Main_Notts_County_Main_f0ilz.jpg?format=webp" group-title="Paramount+ Original US",12:50 PM EDT Chesterfield vs. Notts County English Football League 5/10
-http://45.139.122.199:8080/live/Susanne1/susanne1/2397807.m3u8
-#EXTINF:-1 tvg-logo="https://wwwimage-us.pplusstatic.com/thumbnails/photos/w570-q80/channel/6cb5f74d-d92a-495e-8263-02b553d6f678/SERIE_THMB_26_Milan_Main_Atalanta_Main_1k8f2.jpg?format=webp" group-title="Paramount+ Original US",2:30 PM EDT Milan vs. Atalanta Serie A 5/10
-http://45.139.122.199:8080/live/Susanne1/susanne1/2397806.m3u8
-#EXTINF:-1 tvg-logo="https://wwwimage-us.pplusstatic.com/thumbnails/photos/w570-q80/channel/ccb8a626-b776-404c-9563-6bbe9eeef170/2026_WF26_Day4_Thumbnail1920x1080_i9hnq.jpg?format=webp" group-title="Paramount+ Original US",3:00 PM EDT PBR World Finals: Unleash The Beast - Day 4 PBR: Unleash The Beast 5/10
-http://45.139.122.199:8080/live/Susanne1/susanne1/2397805.m3u8
 #EXTINF:-1 tvg-logo="https://wwwimage-us.pplusstatic.com/thumbnails/photos/w570-q80/channel/592f87dc-604b-4679-90b5-c1eebae9cefe/ZUFFA-Generic-2026-THMB-Main_nc94f.jpg?format=webp" group-title="Paramount+ Original US",5:30 PM EDT Zuffa Boxing 06 Zuffa Boxing 5/10
 http://45.139.122.199:8080/live/Susanne1/susanne1/2397804.m3u8
 
@@ -7634,43 +7114,43 @@ http://45.139.122.199:8080/live/Susanne1/susanne1/1160475.m3u8
 http://45.139.122.199:8080/live/Susanne1/susanne1/1160476.m3u8
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1tl0wnv6fkp8w1r6jv5hnizjts_image-header_pUs_1738116530000/fill/center/top/none/85/800/600/png/image" group-title="Peacock / DAZN US",US-DAZN 25
 http://45.139.122.199:8080/live/Susanne1/susanne1/1160477.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Peacock / DAZN US",La Vuelta Femenina Stage 7 @ May 9 06:50 AM :Peacock Event  01
+#EXTINF:-1 tvg-logo="" group-title="Peacock / DAZN US",Nationals at Marlins @ May 10 12:00 PM :Peacock Event  01
 http://45.139.122.199:8080/live/Susanne1/susanne1/1160434.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Peacock / DAZN US",Liverpool v Chelsea @ May 9 07:00 AM :Peacock Event  02
+#EXTINF:-1 tvg-logo="" group-title="Peacock / DAZN US",Lexington SC v Brooklyn FC @ May 10 14:00 PM :Peacock Event  02
 http://45.139.122.199:8080/live/Susanne1/susanne1/1160435.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Peacock / DAZN US",Liverpool v Chelsea Español @ May 9 07:00 AM :Peacock Event  03
+#EXTINF:-1 tvg-logo="" group-title="Peacock / DAZN US",MLB Sunday Stretch 5 10 26 @ May 10 14:30 PM :Peacock Event  03
 http://45.139.122.199:8080/live/Susanne1/susanne1/1160436.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Peacock / DAZN US",Italy v England @ May 9 09:00 AM :Peacock Event  04
+#EXTINF:-1 tvg-logo="" group-title="Peacock / DAZN US",Home Feed NYM at AZ @ May 10 16:00 PM :Peacock Event  04
 http://45.139.122.199:8080/live/Susanne1/susanne1/1160437.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Peacock / DAZN US",Sunderland v Man United Español @ May 9 09:30 AM :Peacock Event  05
+#EXTINF:-1 tvg-logo="" group-title="Peacock / DAZN US",Away Feed NYM at AZ @ May 10 16:00 PM :Peacock Event  05
 http://45.139.122.199:8080/live/Susanne1/susanne1/1160438.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Peacock / DAZN US",Multiview Matchweek 36 @ May 9 09:50 AM :Peacock Event  06
+#EXTINF:-1 tvg-logo="" group-title="Peacock / DAZN US",Tigers at Royals @ May 10 19:00 PM :Peacock Event  06
 http://45.139.122.199:8080/live/Susanne1/susanne1/1160439.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Peacock / DAZN US",Sunderland v Man United @ May 9 09:50 AM :Peacock Event  07
+#EXTINF:-1 tvg-logo="" group-title="Peacock / DAZN US",Game 4 Spurs vs Timberwolves @ May 10 19:00 PM :Peacock Event  07
 http://45.139.122.199:8080/live/Susanne1/susanne1/1160440.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Peacock / DAZN US",Brighton v Wolves @ May 9 09:50 AM :Peacock Event  08
+#EXTINF:-1 tvg-logo="" group-title="Peacock / DAZN US",Performance View SAS vs MIN @ May 10 19:00 PM :Peacock Event  08
 http://45.139.122.199:8080/live/Susanne1/susanne1/1160441.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Peacock / DAZN US",Goal Rush Matchweek 36 @ May 9 09:50 AM :Peacock Event  09
+#EXTINF:-1 tvg-logo="" group-title="Peacock / DAZN US",:Peacock Event  09
 http://45.139.122.199:8080/live/Susanne1/susanne1/1160442.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Peacock / DAZN US",Scotland v France @ May 9 11:15 AM :Peacock Event  10
+#EXTINF:-1 tvg-logo="" group-title="Peacock / DAZN US",:Peacock Event  10
 http://45.139.122.199:8080/live/Susanne1/susanne1/1160443.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Peacock / DAZN US",Man City v Brentford @ May 9 12:30 PM :Peacock Event  11
+#EXTINF:-1 tvg-logo="" group-title="Peacock / DAZN US",:Peacock Event  11
 http://45.139.122.199:8080/live/Susanne1/susanne1/1160444.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Peacock / DAZN US",Race Day Live Salt Lake City @ May 9 13:00 PM :Peacock Event  12
+#EXTINF:-1 tvg-logo="" group-title="Peacock / DAZN US",:Peacock Event  12
 http://45.139.122.199:8080/live/Susanne1/susanne1/1160445.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Peacock / DAZN US",Ireland v Wales @ May 9 13:30 PM :Peacock Event  13
+#EXTINF:-1 tvg-logo="" group-title="Peacock / DAZN US",:Peacock Event  13
 http://45.139.122.199:8080/live/Susanne1/susanne1/1160446.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Peacock / DAZN US",Game 3 Pistons vs Cavaliers @ May 9 14:00 PM :Peacock Event  14
+#EXTINF:-1 tvg-logo="" group-title="Peacock / DAZN US",:Peacock Event  14
 http://45.139.122.199:8080/live/Susanne1/susanne1/1160447.m3u8
-#EXTINF:-1 tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent14.png" group-title="Peacock / DAZN US",Performance View DET vs CLE @ May 9 14:00 PM :Peacock Event  15
+#EXTINF:-1 tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/LiveEvent14.png" group-title="Peacock / DAZN US",:Peacock Event  15
 http://45.139.122.199:8080/live/Susanne1/susanne1/1160448.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Peacock / DAZN US",Supercross Rd 17 Salt Lake City @ May 9 18:30 PM :Peacock Event  16
+#EXTINF:-1 tvg-logo="" group-title="Peacock / DAZN US",:Peacock Event  16
 http://45.139.122.199:8080/live/Susanne1/susanne1/1160449.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Peacock / DAZN US",Sun FC v Trinity FC @ May 9 19:30 PM :Peacock Event  17
+#EXTINF:-1 tvg-logo="" group-title="Peacock / DAZN US",:Peacock Event  17
 http://45.139.122.199:8080/live/Susanne1/susanne1/1160450.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Peacock / DAZN US",FTL United v Ascent FC @ May 9 19:30 PM :Peacock Event  18
+#EXTINF:-1 tvg-logo="" group-title="Peacock / DAZN US",:Peacock Event  18
 http://45.139.122.199:8080/live/Susanne1/susanne1/1160451.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Peacock / DAZN US",QF Chivas vs Tigres Español @ May 9 20:00 PM :Peacock Event  19
+#EXTINF:-1 tvg-logo="" group-title="Peacock / DAZN US",:Peacock Event  19
 http://45.139.122.199:8080/live/Susanne1/susanne1/1160452.m3u8
 
 # --- Prime Sports DK (1) ---
@@ -8261,39 +7741,9 @@ http://45.139.122.199:8080/live/Susanne1/susanne1/2251847.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/WDAY-TV_2021.svg/200px-WDAY-TV_2021.svg.png" group-title="Sports US",WDAY FHD US
 http://45.139.122.199:8080/live/Susanne1/susanne1/2251811.m3u8
 
-# --- TV2 Sport DK (16) ---
+# --- TV2 Sport DK (1) ---
 #EXTINF:-1 tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/nordic/denmark/tv2-sport-dk.png" group-title="TV2 Sport DK",-= Reload Your Playlist =-
 http://45.139.122.199:8080/live/Susanne1/susanne1/527426.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-play.tv2i.dk/deebabeb-aef6-44bc-a75c-a7a0d988cc1f.jpg?ar=16%3A9&auto=format&fit=crop&rect=0%2C0%2C1920%2C1080&w=1200" group-title="TV2 Sport DK",10:55 ATP: Rom  5/10 [TV2 DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398044.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-play.tv2i.dk/fcac1552-5d3c-4144-9198-d0f18b7e5087.png?ar=16%3A9&auto=format&fit=crop&rect=0%2C0%2C1920%2C1080&w=1200" group-title="TV2 Sport DK",10:55 WTA: Rom  5/10 [TV2 DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398043.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-play.tv2i.dk/0ca108ee-b77f-41d9-9756-5f53efe4b72b.jpg?ar=16%3A9&auto=format&fit=crop&rect=0%2C0%2C3840%2C2160&w=1200" group-title="TV2 Sport DK",13:30 3F Superliga: FC Nordsjælland-FC Midtjylland  5/10 [TV2 DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398038.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-play.tv2i.dk/8b38d3b7-eb28-4111-a65f-673edbcbdd31.jpg?ar=16%3A9&auto=format&fit=crop&rect=0%2C0%2C3840%2C2160&w=1200" group-title="TV2 Sport DK",13:50 3F Superliga: Taktisk feed med FC Nordsjælland-FC Midtjylland  5/10 [TV2 DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398037.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-play.tv2i.dk/e470247e-0078-48bd-8345-36c36bda9e5f.jpg?ar=16%3A9&auto=format&fit=crop&rect=0%2C0%2C3840%2C2160&w=1200" group-title="TV2 Sport DK",13:55 LALIGA: Mallorca-Villarreal  5/10 [TV2 DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398034.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-play.tv2i.dk/743f0a20-6c5c-4fae-afbb-af965afce51a.jpg?ar=16%3A9&auto=format&fit=crop&rect=0%2C0%2C3840%2C2160&w=1200" group-title="TV2 Sport DK",14:45 Serie A: Cremonese-Pisa  5/10 [TV2 DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398036.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-play.tv2i.dk/0dfb3e6c-baaf-4938-a734-c903fd2c5750.jpg?ar=16%3A9&auto=format&fit=crop&rect=0%2C0%2C3840%2C2160&w=1200" group-title="TV2 Sport DK",14:45 Serie A: Fiorentina-Genoa  5/10 [TV2 DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398035.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-play.tv2i.dk/78123f57-1514-4ff0-963c-8423028d4354.jpg?ar=16%3A9&auto=format&fit=crop&rect=0%2C0%2C3840%2C2160&w=1200" group-title="TV2 Sport DK",15:10 Cykling: Tro-Bro León  5/10 [TV2 DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398033.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-play.tv2i.dk/97b727c8-4e83-4df3-9231-be74c4d36ef7.jpg?ar=16%3A9&auto=format&fit=crop&rect=0%2C0%2C3840%2C2159&w=1200" group-title="TV2 Sport DK",15:15 Herreligaen: Mors-Thy - Bjerringbro-Silkeborg  5/10 [TV2 DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398032.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-play.tv2i.dk/a5ac93dc-5bca-49c9-998c-33acd2e3b9a2.jpg?ar=16%3A9&auto=format&fit=crop&rect=0%2C0%2C3840%2C2160&w=1200" group-title="TV2 Sport DK",16:05 LALIGA: Athletic Club-Valencia  5/10 [TV2 DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398031.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-play.tv2i.dk/d9c71ae9-d984-4d16-ab0b-c0a6a5383145.jpg?ar=16%3A9&auto=format&fit=crop&rect=0%2C0%2C3840%2C2160&w=1200" group-title="TV2 Sport DK",17:45 Serie A: Parma-Roma  5/10 [TV2 DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398030.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-play.tv2i.dk/46378bb5-553b-442e-a930-e80b7ba1351c.jpg?ar=16%3A9&auto=format&fit=crop&rect=0%2C0%2C3840%2C2160&w=1200" group-title="TV2 Sport DK",18:20 LALIGA: Oviedo-Getafe  5/10 [TV2 DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398029.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-play.tv2i.dk/8b57fcea-48a6-491f-af92-e5305b9f8042.jpg?ar=16%3A9&auto=format&fit=crop&rect=0%2C0%2C1920%2C1080&w=1200" group-title="TV2 Sport DK",19:00 WTA: Cocciaretto-Swiatek, Rom  5/10 [TV2 DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398028.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-play.tv2i.dk/b65d54ae-030e-48f8-b4d6-31ff82fa880a.jpg?ar=16%3A9&auto=format&fit=crop&rect=0%2C0%2C3840%2C2160&w=1200" group-title="TV2 Sport DK",20:00 El Clásico: FC Barcelona-Real Madrid  5/10 [TV2 DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398027.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-play.tv2i.dk/95c530b4-bb5f-49e6-8bf0-a184c5bd2749.jpg?ar=16%3A9&auto=format&fit=crop&rect=0%2C0%2C3840%2C2160&w=1200" group-title="TV2 Sport DK",20:30 Serie A: AC Milan-Atalanta  5/10 [TV2 DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398026.m3u8
 
 # --- Tennis Channel Plus US (100) ---
 #EXTINF:-1 tvg-logo="" group-title="Tennis Channel Plus US",(TC+ 01) |  WTA Rome: Svitolina_ Elina _ Baptiste_ Hailey (2026-05-10 09:00:00)
@@ -10311,93 +9761,9 @@ http://45.139.122.199:8080/live/Susanne1/susanne1/2121934.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/eb/Yes.svg/revision/latest?cb=20200718174253" group-title="United States",YES Network US
 http://45.139.122.199:8080/live/Susanne1/susanne1/2121935.m3u8
 
-# --- Viaplay Sport DK (46) ---
+# --- Viaplay Sport DK (4) ---
 #EXTINF:-1 tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/netherlands/viaplay-nl.png" group-title="Viaplay Sport DK",-= Reload your playlist =-
 http://45.139.122.199:8080/live/Susanne1/susanne1/110102.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/706/952/logo_OBOSDamallsvenskan.png?width=320&height=320" group-title="Viaplay Sport DK",12:50 Piteå - Rosengård | OBOS Damallsvenskan 5/10 [Viaplay DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398152.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/196/940/logo_MotoGP.png?width=320&height=320" group-title="Viaplay Sport DK",13:00 Frankrigs Grand Prix | MotoGP 5/10 [Viaplay DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398151.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/772/556/logo_Darts.png?width=320&height=320" group-title="Viaplay Sport DK",13:00 Austrian Darts Open | PDC Darts 5/10 [Viaplay DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398150.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/356/424/logo_DPWorldTour.png?width=320&height=320" group-title="Viaplay Sport DK",13:00 Estrella Damm Catalunya Championship | DP World Tour 5/10 [Viaplay DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398149.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/971/648/logo_BL2.png?width=320&height=320" group-title="Viaplay Sport DK",13:25 Preußen Münster - Darmstadt | 2. Bundesliga 5/10 [Viaplay DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398148.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/971/648/logo_BL2.png?width=320&height=320" group-title="Viaplay Sport DK",13:25 Hertha Berlin - Greuther Fürth | 2. Bundesliga 5/10 [Viaplay DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398147.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/971/648/logo_BL2.png?width=320&height=320" group-title="Viaplay Sport DK",13:25 Düsseldorf - Elversberg | 2. Bundesliga 5/10 [Viaplay DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398146.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/483/620/Layout=Left.png?width=320&height=320" group-title="Viaplay Sport DK",13:30 Vejle Boldklub - FC Fredericia | 3F Superliga 5/10 [Viaplay DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398145.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/260/244/logo_F4.png?width=320&height=320" group-title="Viaplay Sport DK",13:45 Misano | Formula 4 Italian Championship 5/10 [Viaplay DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398144.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/706/952/logo_OBOSDamallsvenskan.png?width=320&height=320" group-title="Viaplay Sport DK",14:50 Uppsala - Vittsjö | OBOS Damallsvenskan 5/10 [Viaplay DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398143.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/848/588/logo_PL.png?width=320&height=320" group-title="Viaplay Sport DK",14:55 Crystal Palace - Everton | Premier League 5/10 [Viaplay DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398142.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/790/1020/logo_HandballBundesligaLive.png?width=320&height=320" group-title="Viaplay Sport DK",14:55 THW Kiel - Füchse Berlin | Bundesliga 5/10 [Viaplay DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398141.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/848/588/logo_PL.png?width=320&height=320" group-title="Viaplay Sport DK",14:55 Nottingham Forest - Newcastle | Premier League 5/10 [Viaplay DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398140.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/848/588/logo_PL.png?width=320&height=320" group-title="Viaplay Sport DK",14:55 Burnley - Aston Villa | Premier League 5/10 [Viaplay DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398139.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/847/612/logo_BL.png?width=320&height=320" group-title="Viaplay Sport DK",15:20 HSV - Freiburg | Bundesliga 5/10 [Viaplay DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398138.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/483/620/Layout=Left.png?width=320&height=320" group-title="Viaplay Sport DK",15:30 Optakt: Silkeborg IF - F.C. København | 3F Superliga 5/10 [Viaplay DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398137.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/483/620/Layout=Left.png?width=320&height=320" group-title="Viaplay Sport DK",15:55 Silkeborg IF - F.C. København (Manager Mode) | 3F Superliga 5/10 [Viaplay DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398136.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/483/620/Layout=Left.png?width=320&height=320" group-title="Viaplay Sport DK",15:55 Nedtakt: Vejle Boldklub - FC Fredericia | 3F Superliga 5/10 [Viaplay DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398135.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/483/620/Layout=Left.png?width=320&height=320" group-title="Viaplay Sport DK",15:55 Silkeborg IF - F.C. København | 3F Superliga 5/10 [Viaplay DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398134.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/922/764/logo_EFLLeagueTwo.png?width=320&height=320" group-title="Viaplay Sport DK",15:55 Grimsby - Salford | League Two 5/10 [Viaplay DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398133.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/986/748/logo_FrauenBundesliga.png?width=320&height=320" group-title="Viaplay Sport DK",15:55 Union Berlin - Hoffenheim | Frauen-Bundesliga 5/10 [Viaplay DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398132.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/483/620/Layout=Left.png?width=320&height=320" group-title="Viaplay Sport DK",16:00 Brøndby IF - AGF | 3F Superliga 5/10 [Viaplay DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398131.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/848/588/logo_PL.png?width=320&height=320" group-title="Viaplay Sport DK",16:30 West Ham - Arsenal | Premier League 5/10 [Viaplay DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398130.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/322/128/logo_UEFAChampionsLeague.png?width=320&height=320" group-title="Viaplay Sport DK",16:55 Champions League weekly | UEFA Champions League 5/10 [Viaplay DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398129.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/847/612/logo_BL.png?width=320&height=320" group-title="Viaplay Sport DK",17:25 Köln - Heidenheim | Bundesliga 5/10 [Viaplay DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398128.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/848/588/logo_PL.png?width=320&height=320" group-title="Viaplay Sport DK",17:25 [4k] West Ham - Arsenal | Premier League UHD 2160p 5/10 [Viaplay DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398127.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/848/588/logo_LPGA.png?width=320&height=320" group-title="Viaplay Sport DK",18:00 Mizuho Americas Open | LPGA 5/10 [Viaplay DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398126.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/709/564/logo_LivGolf.png?width=320&height=320" group-title="Viaplay Sport DK",18:00 LIV Golf Virginia | LIV Golf 5/10 [Viaplay DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398125.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/922/764/logo_EFLLeagueTwo.png?width=320&height=320" group-title="Viaplay Sport DK",18:55 Chesterfield - Notts County | League Two 5/10 [Viaplay DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398124.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/772/556/logo_Darts.png?width=320&height=320" group-title="Viaplay Sport DK",19:00 Austrian Darts Open | PDC Darts 5/10 [Viaplay DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398123.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/847/612/logo_BL.png?width=320&height=320" group-title="Viaplay Sport DK",19:20 Mainz - Union Berlin | Bundesliga 5/10 [Viaplay DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398122.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/848/588/logo_MLB.png?width=320&height=320" group-title="Viaplay Sport DK",19:30 Reds - Astros | Major League Baseball 5/10 [Viaplay DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398121.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/483/620/Layout=Left.png?width=320&height=320" group-title="Viaplay Sport DK",20:00 Onside | 3F Superliga 5/10 [Viaplay DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398120.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/150/612/Logo_L1.png?width=320&height=320" group-title="Viaplay Sport DK",20:30 Multiplex (Instant Highlights) | Ligue 1 5/10 [Viaplay DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398119.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/150/612/Logo_L1.png?width=320&height=320" group-title="Viaplay Sport DK",20:55 PSG - Brest | Ligue 1 5/10 [Viaplay DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398118.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/150/612/Logo_L1.png?width=320&height=320" group-title="Viaplay Sport DK",20:55 Monaco - Lille | Ligue 1 5/10 [Viaplay DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398117.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/150/612/Logo_L1.png?width=320&height=320" group-title="Viaplay Sport DK",20:55 Angers - Strasbourg | Ligue 1 5/10 [Viaplay DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398116.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/150/612/Logo_L1.png?width=320&height=320" group-title="Viaplay Sport DK",20:55 Metz - Lorient | Ligue 1 5/10 [Viaplay DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398115.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/150/612/Logo_L1.png?width=320&height=320" group-title="Viaplay Sport DK",20:55 Rennes - Paris FC | Ligue 1 5/10 [Viaplay DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398114.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/150/612/Logo_L1.png?width=320&height=320" group-title="Viaplay Sport DK",20:55 Auxerre - Nice | Ligue 1 5/10 [Viaplay DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398113.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/150/612/Logo_L1.png?width=320&height=320" group-title="Viaplay Sport DK",20:55 Toulouse - Lyon | Ligue 1 5/10 [Viaplay DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398112.m3u8
-#EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/150/612/Logo_L1.png?width=320&height=320" group-title="Viaplay Sport DK",20:55 Le Havre - Marseille | Ligue 1 5/10 [Viaplay DK]
-http://45.139.122.199:8080/live/Susanne1/susanne1/2398111.m3u8
 #EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/848/588/logo_MLB.png?width=320&height=320" group-title="Viaplay Sport DK",01:00 Royals - Tigers | Major League Baseball 5/10 [Viaplay DK]
 http://45.139.122.199:8080/live/Susanne1/susanne1/2398110.m3u8
 #EXTINF:-1 tvg-logo="https://i-viaplay-com.akamaized.net/viaplay-prod/848/588/logo_NHL.png?width=320&height=320" group-title="Viaplay Sport DK",01:05 Montreal - Buffalo | NHL 5/10 [Viaplay DK]
@@ -10610,83 +9976,83 @@ http://45.139.122.199:8080/live/Susanne1/susanne1/1835432.m3u8
 http://45.139.122.199:8080/live/Susanne1/susanne1/1835433.m3u8
 #EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/a22b2edd7e7488b1e164af4a5270ff57.png" group-title="World Football Events",Bundesliga 10ⓧ: No Scheduled Event
 http://45.139.122.199:8080/live/Susanne1/susanne1/1835434.m3u8
-#EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 01ⓧ: Poland, Ekstraliga, Women | Czarni Sosnowiec vs. Gornik Leczna | Sunday, 10 May 2026 09:00
+#EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 01ⓧ: Russia, Premier League | FK Akron Tolyatti vs. FK Rostov | Monday, 11 May 2026 11:00
 http://45.139.122.199:8080/live/Susanne1/susanne1/1835436.m3u8
-#EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 02ⓧ: Romania, Liga 2 | FC Bihor Oradea vs. CSA Steaua Bucuresti | Sunday, 10 May 2026 09:30
+#EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 02ⓧ: Russia, Premier League | FK Nizhny Novgorod vs. CSKA Moscow | Monday, 11 May 2026 13:15
 http://45.139.122.199:8080/live/Susanne1/susanne1/1835437.m3u8
-#EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 03ⓧ: Russia, Premier League | FC Orenburg vs. PFK Krylia Sovetov Samara | Sunday, 10 May 2026 10:30
+#EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 03ⓧ: Russia, Premier League | Spartak Moscow vs. FK Rubin Kazan | Monday, 11 May 2026 15:30
 http://45.139.122.199:8080/live/Susanne1/susanne1/1835438.m3u8
-#EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 04ⓧ: Denmark, A Liga | Kolding IF vs. FC Nordsjælland | Sunday, 10 May 2026 11:00
+#EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 04ⓧ: Bulgaria, Second Professional League | FC Yantra Gabrovo vs. PFC Vihren Sandanski | Monday, 11 May 2026 15:45
 http://45.139.122.199:8080/live/Susanne1/susanne1/1835439.m3u8
-#EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 05ⓧ: Poland, Ekstraklasa | GKS Piast Gliwice vs. GKS Katowice | Sunday, 10 May 2026 11:15
+#EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 05ⓧ: Romania, Liga I | Metaloglobus Bucuresti vs. AFC Hermannstadt | Monday, 11 May 2026 16:00
 http://45.139.122.199:8080/live/Susanne1/susanne1/1835440.m3u8
-#EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 06ⓧ: Poland, II Liga | Warta Poznan vs. MKS Sandecja Nowy Sacz | Sunday, 10 May 2026 11:15
+#EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 06ⓧ: Czech Republic, FNL | SFC Opava vs. SK Artis Brno | Monday, 11 May 2026 16:00
 http://45.139.122.199:8080/live/Susanne1/susanne1/1835441.m3u8
-#EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 07ⓧ: Bulgaria, First Professional League | FK Spartak 1918 Varna vs. PFC Slavia Sofia | Sunday, 10 May 2026 12:15
+#EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 07ⓧ: Serbia, 1st League | FK Graficar Belgrade vs. FK Dubocica Leskovac | Monday, 11 May 2026 16:00
 http://45.139.122.199:8080/live/Susanne1/susanne1/1835442.m3u8
-#EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 08ⓧ: Germany, 2nd Bundesliga | Fortuna Dusseldorf vs. SV 07 Elversberg | Sunday, 10 May 2026 12:30
+#EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 08ⓧ: Germany, Bundesliga, Women | RB Leipzig vs. Bayer Leverkusen | Monday, 11 May 2026 17:00
 http://45.139.122.199:8080/live/Susanne1/susanne1/1835443.m3u8
-#EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 09ⓧ: Germany, 2nd Bundesliga | Hertha BSC vs. Greuther Furth | Sunday, 10 May 2026 12:30
+#EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 09ⓧ: Poland, I liga | WKS Slask Wroclaw vs. LKS Lodz | Monday, 11 May 2026 17:30
 http://45.139.122.199:8080/live/Susanne1/susanne1/1835444.m3u8
 #EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 10ⓧ: Poland, Ekstraklasa | RKS Radomiak Radom vs. Wisla Plock | Monday, 27 October 2025 18:00
 http://45.139.122.199:8080/live/Susanne1/susanne1/1835445.m3u8
-#EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 11ⓧ: Germany, 3. Liga | TSV Havelse vs. 1. FC Schweinfurt 05 | Sunday, 10 May 2026 12:30
+#EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 11ⓧ: Poland, Ekstraklasa | MKS Cracovia Krakow vs. RKS Radomiak Radom | Monday, 11 May 2026 18:00
 http://45.139.122.199:8080/live/Susanne1/susanne1/1835446.m3u8
-#EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 12ⓧ: Croatia, 2. HNL | NK Hrvace vs. NK Opatija | Sunday, 10 May 2026 12:45
+#EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 12ⓧ: Russia, Premier League | Dynamo Moscow vs. FK Krasnodar | Monday, 11 May 2026 18:00
 http://45.139.122.199:8080/live/Susanne1/susanne1/1835447.m3u8
-#EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 13ⓧ: Denmark, Superligaen | Vejle BK vs. FC Fredericia | Sunday, 10 May 2026 13:00
+#EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 13ⓧ: Turkiye, 1. Lig | BB Bodrumspor vs. Corum FK | Monday, 11 May 2026 18:00
 http://45.139.122.199:8080/live/Susanne1/susanne1/1835448.m3u8
-#EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 14ⓧ: Denmark, Superligaen | FC Nordsjælland vs. FC Midtjylland | Sunday, 10 May 2026 13:00
+#EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 14ⓧ: Bulgaria, Second Professional League | FC Fratria Varna vs. FC Dunav 2010 | Monday, 11 May 2026 18:15
 http://45.139.122.199:8080/live/Susanne1/susanne1/1835449.m3u8
-#EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 15ⓧ: Russia, Premier League | FK Zenit Saint Petersburg vs. FK Sochi | Sunday, 10 May 2026 13:00
+#EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 15ⓧ: Romania, Liga I | Fotbal Club FCSB vs. FC Unirea 2004 Slobozia | Monday, 11 May 2026 19:00
 http://45.139.122.199:8080/live/Susanne1/susanne1/1835450.m3u8
-#EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 16ⓧ: Switzerland, Super League | FC Lugano vs. FC St. Gallen 1879 | Sunday, 10 May 2026 13:00
+#EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 16ⓧ: Saudi Arabia, Saudi Professional League | Al Taawoun FC vs. Al Ahli Jeddah | Monday, 11 May 2026 19:00
 http://45.139.122.199:8080/live/Susanne1/susanne1/1835451.m3u8
-#EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 17ⓧ: Spain, LaLiga 2 | FC Andorra vs. UD Las Palmas | Sunday, 10 May 2026 13:00
+#EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 17ⓧ: Spain, LaLiga 2 | SD Huesca vs. Real Sociedad San Sebastian B | Monday, 11 May 2026 19:30
 http://45.139.122.199:8080/live/Susanne1/susanne1/1835452.m3u8
-#EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 18ⓧ: Czech Republic, 1. Liga, Women | 1. FC Slovacko Uherske Hradiste vs. Sparta Prague | Sunday, 10 May 2026 13:00
+#EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 18ⓧ: Portugal, Primeira Liga | Vitoria Guimaraes vs. Casa Pia Lisbon | Monday, 11 May 2026 20:15
 http://45.139.122.199:8080/live/Susanne1/susanne1/1835453.m3u8
-#EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 19ⓧ: Poland, I liga | GKS Tychy 71 vs. Ruch Chorzow | Sunday, 10 May 2026 13:30
+#EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 19ⓧ: Portugal, Primeira Liga | Estrela Amadora vs. FC Famalicao | Monday, 11 May 2026 20:15
 http://45.139.122.199:8080/live/Susanne1/susanne1/1835454.m3u8
-#EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 20ⓧ: Poland, Ekstraklasa | Wisla Plock vs. LKP Motor Lublin | Sunday, 10 May 2026 13:45
+#EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 20ⓧ: Portugal, Primeira Liga | Rio Ave FC vs. Sporting Lisbon | Monday, 11 May 2026 20:15
 http://45.139.122.199:8080/live/Susanne1/susanne1/1835455.m3u8
-#EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 21ⓧ: Azerbaijan, Premier League | Turan Tovuz vs. FK Karvan Evlakh | Sunday, 10 May 2026 14:00
+#EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 21ⓧ: Portugal, Primeira Liga | CD Tondela vs. Moreirense FC | Monday, 11 May 2026 20:15
 http://45.139.122.199:8080/live/Susanne1/susanne1/1835456.m3u8
-#EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 22ⓧ: Romania, Liga I | FC Botosani vs. FC Petrolul Ploiesti | Sunday, 10 May 2026 14:00
+#EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 22ⓧ: Portugal, Primeira Liga | Gil Vicente Barcelos vs. FC Arouca | Monday, 11 May 2026 20:15
 http://45.139.122.199:8080/live/Susanne1/susanne1/1835457.m3u8
-#EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 23ⓧ: France, Coupe de France, Women | Paris Saint-Germain vs. OL Lyonnes | Sunday, 10 May 2026 14:30
+#EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 23ⓧ: Portugal, Primeira Liga | Santa Clara Azores vs. Nacional de Madeira | Monday, 11 May 2026 20:15
 http://45.139.122.199:8080/live/Susanne1/susanne1/1835458.m3u8
-#EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 24ⓧ: Bulgaria, First Professional League | POFC Botev Vratsa vs. FK Septemvri Sofia | Sunday, 10 May 2026 14:45
+#EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 24ⓧ: Portugal, Primeira Liga | Benfica Lisbon vs. SC Braga | Monday, 11 May 2026 20:15
 http://45.139.122.199:8080/live/Susanne1/susanne1/1835459.m3u8
-#EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 25ⓧ: Portugal, Liga 3 | Amarante FC vs. UD Santarem | Sunday, 10 May 2026 14:45
+#EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 25ⓧ: No Scheduled Event
 http://45.139.122.199:8080/live/Susanne1/susanne1/1835460.m3u8
-#EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 26ⓧ: Hungary, NB II | Budapest Honved FC vs. Budapesti Vasas SC | Sunday, 10 May 2026 15:00
+#EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 26ⓧ: No Scheduled Event
 http://45.139.122.199:8080/live/Susanne1/susanne1/1835461.m3u8
-#EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 27ⓧ: Croatia, 1. HNL | NK Osijek vs. NK Istra 1961 | Sunday, 10 May 2026 15:00
+#EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 27ⓧ: No Scheduled Event
 http://45.139.122.199:8080/live/Susanne1/susanne1/1835462.m3u8
-#EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 28ⓧ: Denmark, Superligaen | Silkeborg IF vs. FC Copenhagen | Sunday, 10 May 2026 15:00
+#EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 28ⓧ: No Scheduled Event
 http://45.139.122.199:8080/live/Susanne1/susanne1/1835463.m3u8
-#EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 29ⓧ: Greece, Super League | Volos NPS vs. APO Levadiakos FC | Sunday, 10 May 2026 15:00
+#EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 29ⓧ: No Scheduled Event
 http://45.139.122.199:8080/live/Susanne1/susanne1/1835464.m3u8
-#EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 30ⓧ: Greece, Super League | Aris Thessaloniki vs. OFI Crete | Sunday, 10 May 2026 15:00
+#EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 30ⓧ: No Scheduled Event
 http://45.139.122.199:8080/live/Susanne1/susanne1/1835465.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/836b75cfe266fa40acc2ffa3888e1abf.png" group-title="World Football Events",Football Event 31ⓧ: North Macedonia, Vtora Liga | FK Kamenica Sasa vs. FK Sloga 1934 Vinica | Sunday, 10 May 2026 15:00
+#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/836b75cfe266fa40acc2ffa3888e1abf.png" group-title="World Football Events",Football Event 31ⓧ: No Scheduled Event
 http://45.139.122.199:8080/live/Susanne1/susanne1/1835466.m3u8
-#EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 32ⓧ: Russia, Premier League | RFK Akhmat Grozny vs. FC Dynamo Makhachkala | Sunday, 10 May 2026 15:15
+#EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 32ⓧ: No Scheduled Event
 http://45.139.122.199:8080/live/Susanne1/susanne1/1835467.m3u8
-#EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 33ⓧ: Spain, LaLiga 2 | CD Leganes vs. Racing Santander | Sunday, 10 May 2026 15:15
+#EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 33ⓧ: No Scheduled Event
 http://45.139.122.199:8080/live/Susanne1/susanne1/1835468.m3u8
-#EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 34ⓧ: Switzerland, Super League | FC Sion vs. FC Thun | Sunday, 10 May 2026 15:30
+#EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 34ⓧ: No Scheduled Event
 http://45.139.122.199:8080/live/Susanne1/susanne1/1835469.m3u8
-#EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 35ⓧ: Switzerland, Super League | Young Boys Bern vs. FC Basel 1893 | Sunday, 10 May 2026 15:30
+#EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 35ⓧ: No Scheduled Event
 http://45.139.122.199:8080/live/Susanne1/susanne1/1835470.m3u8
-#EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 36ⓧ: England, FA Cup, Women | Chelsea FC vs. Manchester City | Sunday, 10 May 2026 15:30
+#EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 36ⓧ: No Scheduled Event
 http://45.139.122.199:8080/live/Susanne1/susanne1/1835471.m3u8
-#EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 37ⓧ: Netherlands, Eredivisie | Go Ahead Eagles vs. PSV Eindhoven | Sunday, 10 May 2026 15:45
+#EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 37ⓧ: No Scheduled Event
 http://45.139.122.199:8080/live/Susanne1/susanne1/1835472.m3u8
-#EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 38ⓧ: Netherlands, Eredivisie | Ajax Amsterdam vs. FC Utrecht | Sunday, 10 May 2026 15:45
+#EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 38ⓧ: No Scheduled Event
 http://45.139.122.199:8080/live/Susanne1/susanne1/1835473.m3u8
-#EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 39ⓧ: Netherlands, Eredivisie | Feyenoord Rotterdam vs. AZ Alkmaar | Sunday, 10 May 2026 15:45
+#EXTINF:-1 tvg-logo="https://image.prntscr.com/image/CwC5pGtNRpK3F_uh0U-g9Q.png" group-title="World Football Events",Football Event 39ⓧ: No Scheduled Event
 http://45.139.122.199:8080/live/Susanne1/susanne1/1835474.m3u8
 #EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/68442c766d25ca9ae06d1d6e0e6b24ac.png" group-title="World Football Events",La Liga 01ⓧ: Levante UD vs. CA Osasuna | Friday, 08 May 2026 20:00
 http://45.139.122.199:8080/live/Susanne1/susanne1/1835405.m3u8
@@ -10708,23 +10074,23 @@ http://45.139.122.199:8080/live/Susanne1/susanne1/1835412.m3u8
 http://45.139.122.199:8080/live/Susanne1/susanne1/1835413.m3u8
 #EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/68442c766d25ca9ae06d1d6e0e6b24ac.png" group-title="World Football Events",La Liga 10ⓧ: Rayo Vallecano vs. Girona FC | Monday, 11 May 2026 20:00
 http://45.139.122.199:8080/live/Susanne1/susanne1/1835414.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/487c352a39e22099cd10927e7a8b61ba.png" group-title="World Football Events",Ligue1 01ⓧ: RC Lens vs. FC Nantes | Friday, 08 May 2026 19:45
+#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/487c352a39e22099cd10927e7a8b61ba.png" group-title="World Football Events",Ligue1 01ⓧ: RC Lens v. Paris Saint-Germain | Wednesday, 13 May 2026 16:00
 http://45.139.122.199:8080/live/Susanne1/susanne1/1835415.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/487c352a39e22099cd10927e7a8b61ba.png" group-title="World Football Events",Ligue1 02ⓧ: Angers SCO vs. Strasbourg Alsace | Sunday, 10 May 2026 20:00
+#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/487c352a39e22099cd10927e7a8b61ba.png" group-title="World Football Events",Ligue1 02ⓧ: Stade Brest 29 vs. Strasbourg Alsace | Wednesday, 13 May 2026 18:00
 http://45.139.122.199:8080/live/Susanne1/susanne1/1835416.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/487c352a39e22099cd10927e7a8b61ba.png" group-title="World Football Events",Ligue1 03ⓧ: AJ Auxerre vs. OGC Nice | Sunday, 10 May 2026 20:00
+#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/487c352a39e22099cd10927e7a8b61ba.png" group-title="World Football Events",Ligue1 03ⓧ: No Scheduled Event
 http://45.139.122.199:8080/live/Susanne1/susanne1/1835417.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/487c352a39e22099cd10927e7a8b61ba.png" group-title="World Football Events",Ligue1 04ⓧ: Le Havre AC vs. Olympique Marseille | Sunday, 10 May 2026 20:00
+#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/487c352a39e22099cd10927e7a8b61ba.png" group-title="World Football Events",Ligue1 04ⓧ: No Scheduled Event
 http://45.139.122.199:8080/live/Susanne1/susanne1/1835418.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/487c352a39e22099cd10927e7a8b61ba.png" group-title="World Football Events",Ligue1 05ⓧ: FC Metz vs. FC Lorient | Sunday, 10 May 2026 20:00
+#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/487c352a39e22099cd10927e7a8b61ba.png" group-title="World Football Events",Ligue1 05ⓧ: No Scheduled Event
 http://45.139.122.199:8080/live/Susanne1/susanne1/1835419.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/487c352a39e22099cd10927e7a8b61ba.png" group-title="World Football Events",Ligue1 06ⓧ: AS Monaco vs. Lille OSC | Sunday, 10 May 2026 20:00
+#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/487c352a39e22099cd10927e7a8b61ba.png" group-title="World Football Events",Ligue1 06ⓧ: No Scheduled Event
 http://45.139.122.199:8080/live/Susanne1/susanne1/1835420.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/487c352a39e22099cd10927e7a8b61ba.png" group-title="World Football Events",Ligue1 07ⓧ: Paris Saint-Germain vs. Stade Brest 29 | Sunday, 10 May 2026 20:00
+#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/487c352a39e22099cd10927e7a8b61ba.png" group-title="World Football Events",Ligue1 07ⓧ: No Scheduled Event
 http://45.139.122.199:8080/live/Susanne1/susanne1/1835421.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/487c352a39e22099cd10927e7a8b61ba.png" group-title="World Football Events",Ligue1 08ⓧ: Stade Rennes vs. Paris FC | Sunday, 10 May 2026 20:00
+#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/487c352a39e22099cd10927e7a8b61ba.png" group-title="World Football Events",Ligue1 08ⓧ: No Scheduled Event
 http://45.139.122.199:8080/live/Susanne1/susanne1/1835422.m3u8
-#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/487c352a39e22099cd10927e7a8b61ba.png" group-title="World Football Events",Ligue1 09ⓧ: Toulouse FC vs. Olympique Lyon | Sunday, 10 May 2026 20:00
+#EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/487c352a39e22099cd10927e7a8b61ba.png" group-title="World Football Events",Ligue1 09ⓧ: No Scheduled Event
 http://45.139.122.199:8080/live/Susanne1/susanne1/1835423.m3u8
 #EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/487c352a39e22099cd10927e7a8b61ba.png" group-title="World Football Events",Ligue1 10ⓧ: No Scheduled Event
 http://45.139.122.199:8080/live/Susanne1/susanne1/1835424.m3u8
@@ -10777,4 +10143,4 @@ http://45.139.122.199:8080/live/Susanne1/susanne1/1835487.m3u8
 #EXTINF:-1 tvg-logo="http://xplatinmedia.com:8080/images/a8a548d2607b07b390d9b7992cebfb8a.png" group-title="World Football Events",USA | MLS 14ⓧ: LA Galaxy vs New York City | Sun 22nd Feb 7:00PM ET
 http://45.139.122.199:8080/live/Susanne1/susanne1/1835488.m3u8
 
-# Total: 5288
+# Total: 4971
