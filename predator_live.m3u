@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: predator.digital:8080
-# Generated: 2026-05-11 08:19:03
+# Generated: 2026-05-11 20:35:34
 # Expires: 2026-08-08
 # Family Safe Edition
 # ==============================================
@@ -1254,7 +1254,7 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/75445.m3u8
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/75446.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: Dazn NFL
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/74834.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: Dazn Fast
+#EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: Dazn Fast +
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/63546.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: Dazn Rise
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/63545.m3u8
@@ -5171,7 +5171,7 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/75290.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Switzerland",CH: My Sports 8
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/75289.m3u8
 
-# --- Tring (48) ---
+# --- Tring (46) ---
 #EXTINF:-1 tvg-logo="https://tring.al/wp-content/uploads/2024/11/loriku-home_desktop-1.jpg" group-title="Tring",=====Tring====
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/80933.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tring",AL: Tring Sport News OTT
@@ -5244,12 +5244,8 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/78311.m3u8
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/78300.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tring",|AL| Tring Original (TRING)
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/78264.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Tring",|AL| Luxe TV (TRING)
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/78345.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tring",|AL| Living (TRING)
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/78318.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Tring",|AL| Muse (TRING)
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/78263.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tring",|AL| Tring Planet (TRING)
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/78230.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tring",|AL| Tring World (TRING)
@@ -9093,4 +9089,4 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/13200.m3u8
 #EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: Real Madrid Tv
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/62225.m3u8
 
-# Total: 4516
+# Total: 4514

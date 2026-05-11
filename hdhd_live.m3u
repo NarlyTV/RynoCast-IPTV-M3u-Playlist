@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: hdhd.tk:80
-# Generated: 2026-05-11 08:23:36
+# Generated: 2026-05-11 20:34:13
 # Expires: 2027-10-14
 # Family Safe Edition
 # ==============================================
@@ -866,11 +866,11 @@ http://hdhd.tk:80/live/Amanda1/Frechette1/39006.m3u8
 http://hdhd.tk:80/live/Amanda1/Frechette1/39009.m3u8
 
 # --- Canada Hockey (50) ---
-#EXTINF:-1 tvg-logo="" group-title="Canada Hockey",CANADIAN HOCKEY 01:  ECHL Toledo vs Fort Wayne @ 5:05 PM EDT
+#EXTINF:-1 tvg-logo="" group-title="Canada Hockey",CANADIAN HOCKEY 01:  ECHL Wheeling vs Maine @ 7:00 PM EDT
 http://hdhd.tk:80/live/Amanda1/Frechette1/821797.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canada Hockey",CANADIAN HOCKEY 02:   ECHL Allen vs Kansas City @ 5:05 PM EDT
+#EXTINF:-1 tvg-logo="" group-title="Canada Hockey",CANADIAN HOCKEY 02:  USHL Madison vs Muskegon @ 7:10 PM EDT
 http://hdhd.tk:80/live/Amanda1/Frechette1/821798.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canada Hockey",CANADIAN HOCKEY 03 OHL Kitchener vs Barrie @ 6:00 PM EDT
+#EXTINF:-1 tvg-logo="" group-title="Canada Hockey",CANADIAN HOCKEY 03
 http://hdhd.tk:80/live/Amanda1/Frechette1/821799.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canada Hockey",CANADIAN HOCKEY 04:
 http://hdhd.tk:80/live/Amanda1/Frechette1/821800.m3u8
@@ -3110,13 +3110,13 @@ http://hdhd.tk:80/live/Amanda1/Frechette1/351058.m3u8
 http://hdhd.tk:80/live/Amanda1/Frechette1/351059.m3u8
 
 # --- PPV  EVENTS (24) ---
-#EXTINF:-1 tvg-logo="" group-title="PPV  EVENTS",USA PPV01:  The Roast of Kevin Hart @ 08:00 PM EDT
+#EXTINF:-1 tvg-logo="" group-title="PPV  EVENTS",USA PPV01:  WWE RAW @ 08:00 PM EDT
 http://hdhd.tk:80/live/Amanda1/Frechette1/29427.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV  EVENTS",USA PPV02  TNT IGNition: After Shock 2023 @ 11:00 AM EDT
+#EXTINF:-1 tvg-logo="" group-title="PPV  EVENTS",USA PPV02
 http://hdhd.tk:80/live/Amanda1/Frechette1/29428.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV  EVENTS",USA PPV03 Huset's Speedway @ 07:25 PM EDT
+#EXTINF:-1 tvg-logo="" group-title="PPV  EVENTS",USA PPV03
 http://hdhd.tk:80/live/Amanda1/Frechette1/29430.m3u8
-#EXTINF:-1 tvg-logo="" group-title="PPV  EVENTS",USA PPV04: Shane Mosley Jr vs. Serhii Bohachuk @ 06:00 PM
+#EXTINF:-1 tvg-logo="" group-title="PPV  EVENTS",USA PPV04:
 http://hdhd.tk:80/live/Amanda1/Frechette1/29432.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PPV  EVENTS",USA PPV05
 http://hdhd.tk:80/live/Amanda1/Frechette1/29433.m3u8
@@ -3489,78 +3489,86 @@ http://hdhd.tk:80/live/Amanda1/Frechette1/366878.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS NBA G",NBA G League 05:
 http://hdhd.tk:80/live/Amanda1/Frechette1/366879.m3u8
 
-# --- SPORTS NCAA Baseball (36) ---
-#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA Baseball",NCAA Baseball 01 West Georgia Wolves vs. Florida Gulf Coast Eagles 11:00 AM EDT
+# --- SPORTS NCAA Baseball (40) ---
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA Baseball",NCAA Baseball 01  Navy Midshipmen vs. Bucknell Bison 01:00 PM EDT
 http://hdhd.tk:80/live/Amanda1/Frechette1/43214.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA Baseball",NCAA Baseball 02 West Virginia Mountaineers vs. Kansas Jayhawks 12:00 PM EDT
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA Baseball",NCAA Baseball 02 California Baptist Lancers vs. UC Santa Barbara Gauchos 07:35 PM EDT
 http://hdhd.tk:80/live/Amanda1/Frechette1/43215.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA Baseball",NCAA Baseball 03  Southern Miss Golden Eagles vs. James Madison Dukes 12:00 PM EDT
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA Baseball",NCAA Baseball 03
 http://hdhd.tk:80/live/Amanda1/Frechette1/43216.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA Baseball",NCAA Baseball 04  NJIT Highlanders vs. Boston College Eagles 12:00 PM EDT
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA Baseball",NCAA Baseball 04
 http://hdhd.tk:80/live/Amanda1/Frechette1/43217.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA Baseball",NCAA Baseball 05 Monmouth Hawks vs. Hofstra Pride 12:00 PM EDT
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA Baseball",NCAA Baseball 05
 http://hdhd.tk:80/live/Amanda1/Frechette1/43218.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA Baseball",NCAA Baseball 06   North Florida Ospreys vs. Queens University Royals 12:00 PM EDT
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA Baseball",NCAA Baseball 06
 http://hdhd.tk:80/live/Amanda1/Frechette1/43219.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA Baseball",NCAA Baseball 08  Texas State Bobcats vs. Arkansas State Red Wolves 12:00 PM EDT
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA Baseball",NCAA Baseball 07
+http://hdhd.tk:80/live/Amanda1/Frechette1/43220.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA Baseball",NCAA Baseball 08
 http://hdhd.tk:80/live/Amanda1/Frechette1/43221.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA Baseball",NCAA Baseball 09 UConn Huskies vs. Seton Hall Pirates 12:00 PM EDT
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA Baseball",NCAA Baseball 09
 http://hdhd.tk:80/live/Amanda1/Frechette1/43222.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA Baseball",NCAA Baseball 11   Florida Atlantic Owls vs. Wichita State Shockers 12:00 PM EDT
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA Baseball",NCAA Baseball 10
+http://hdhd.tk:80/live/Amanda1/Frechette1/43223.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA Baseball",NCAA Baseball 11
 http://hdhd.tk:80/live/Amanda1/Frechette1/49729.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA Baseball",NCAA Baseball 12 Cincinnati Bearcats vs. Kansas State Wildcats 12:00 PM EDT
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA Baseball",NCAA Baseball 12
 http://hdhd.tk:80/live/Amanda1/Frechette1/49730.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA Baseball",NCAA Baseball 13  UTSA Roadrunners vs. Memphis Tigers 12:05 PM EDT
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA Baseball",NCAA Baseball 13
 http://hdhd.tk:80/live/Amanda1/Frechette1/49731.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA Baseball",NCAA Baseball 14  Pittsburgh Panthers vs. North Carolina Tar Heels 01:00 PM EDT
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA Baseball",NCAA Baseball 14
 http://hdhd.tk:80/live/Amanda1/Frechette1/49732.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA Baseball",NCAA Baseball 16 Old Dominion Monarchs vs. Coastal Carolina Chanticleers 01:00 PM EDT
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA Baseball",NCAA Baseball 15
+http://hdhd.tk:80/live/Amanda1/Frechette1/49733.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA Baseball",NCAA Baseball 16
 http://hdhd.tk:80/live/Amanda1/Frechette1/49734.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA Baseball",NCAA Baseball 17  California Golden Bears vs. Virginia Cavaliers 01:00 PM EDT
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA Baseball",NCAA Baseball 17
 http://hdhd.tk:80/live/Amanda1/Frechette1/49735.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA Baseball",NCAA Baseball 18  Navy Midshipmen vs. Bucknell Bison 01:00 PM EDT
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA Baseball",NCAA Baseball 18
 http://hdhd.tk:80/live/Amanda1/Frechette1/49736.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA Baseball",NCAA Baseball 19 Towson Tigers vs. William & Mary Tribe 01:00 PM EDT
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA Baseball",NCAA Baseball 19
 http://hdhd.tk:80/live/Amanda1/Frechette1/49737.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA Baseball",NCAA Baseball 20 Stony Brook Seawolves vs. Northeastern Huskies 01:00 PM EDT
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA Baseball",NCAA Baseball 20
 http://hdhd.tk:80/live/Amanda1/Frechette1/49738.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA Baseball",NCAA Baseball 21  Charleston Cougars vs. Elon Phoenix 01:00 PM EDT
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA Baseball",NCAA Baseball 21
 http://hdhd.tk:80/live/Amanda1/Frechette1/49739.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA Baseball",NCAA Baseball 22  Louisiana Tech Bulldogs vs. Liberty Flames 01:00 PM EDT
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA Baseball",NCAA Baseball 22
 http://hdhd.tk:80/live/Amanda1/Frechette1/49740.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA Baseball",NCAA Baseball 23:   UNC Wilmington Seahawks vs. North Carolina A&T Aggies 01:00 PM EDT
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA Baseball",NCAA Baseball 23:
 http://hdhd.tk:80/live/Amanda1/Frechette1/49741.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA Baseball",NCAA Baseball 25 UL Monroe Warhawks vs. Marshall Thundering Herd 01:00 PM EDT
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA Baseball",NCAA Baseball 24
+http://hdhd.tk:80/live/Amanda1/Frechette1/49742.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA Baseball",NCAA Baseball 25
 http://hdhd.tk:80/live/Amanda1/Frechette1/49743.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA Baseball",NCAA Baseball 26 St. John's Red Storm vs. Villanova Wildcats 01:00 PM EDT
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA Baseball",NCAA Baseball 26
 http://hdhd.tk:80/live/Amanda1/Frechette1/49744.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA Baseball",NCAA Baseball 27:Louisiana Ragin' Cajuns vs. App State Mountaineers 01:00 PM EDT
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA Baseball",NCAA Baseball 27:
 http://hdhd.tk:80/live/Amanda1/Frechette1/49745.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA Baseball",NCAA Baseball 28 Rice Owls vs. East Carolina Pirates 01:00 PM EDT
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA Baseball",NCAA Baseball 28
 http://hdhd.tk:80/live/Amanda1/Frechette1/49746.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA Baseball",NCAA Baseball 29 Western Carolina Catamounts vs. Wake Forest Demon Deacons 01:00 PM EDT
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA Baseball",NCAA Baseball 29
 http://hdhd.tk:80/live/Amanda1/Frechette1/49747.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA Baseball",NCAA Baseball 30   UNC Greensboro Spartans vs. Virginia Tech Hokies 01:00 PM EDT
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA Baseball",NCAA Baseball 30
 http://hdhd.tk:80/live/Amanda1/Frechette1/49748.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA Baseball",NCAA Baseball 31 Oakland Golden Grizzlies vs. Notre Dame Fighting Irish 01:00 PM EDT
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA Baseball",NCAA Baseball 31
 http://hdhd.tk:80/live/Amanda1/Frechette1/50130.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA Baseball",NCAA Baseball 32 Alabama Crimson Tide vs. South Carolina Gamecocks 01:30 PM EDT
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA Baseball",NCAA Baseball 32
 http://hdhd.tk:80/live/Amanda1/Frechette1/50131.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA Baseball",NCAA Baseball 33 Oklahoma Sooners vs. Arkansas Razorbacks 02:00 PM EDT
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA Baseball",NCAA Baseball 33
 http://hdhd.tk:80/live/Amanda1/Frechette1/50132.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA Baseball",NCAA Baseball 34 Holy Cross Crusaders vs. Army Black Knights 02:00 PM EDT
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA Baseball",NCAA Baseball 34
 http://hdhd.tk:80/live/Amanda1/Frechette1/50133.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA Baseball",NCAA Baseball 35  Kennesaw State Owls vs. Jacksonville State Gamecocks 02:00 PM EDT
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA Baseball",NCAA Baseball 35
 http://hdhd.tk:80/live/Amanda1/Frechette1/50134.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA Baseball",NCAA Baseball 36  Eastern Kentucky Colonels vs. Austin Peay Governors 02:00 PM EDT
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA Baseball",NCAA Baseball 36
 http://hdhd.tk:80/live/Amanda1/Frechette1/50135.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA Baseball",NCAA Baseball 37  South Alabama Jaguars vs. Troy Trojans 02:00 PM EDT
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA Baseball",NCAA Baseball 37
 http://hdhd.tk:80/live/Amanda1/Frechette1/50136.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA Baseball",NCAA Baseball 38  South Florida Bulls vs. Tulane Green Wave 02:00 PM EDT
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA Baseball",NCAA Baseball 38
 http://hdhd.tk:80/live/Amanda1/Frechette1/50137.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA Baseball",NCAA Baseball 39 Charlotte 49ers vs. UAB Blazers 02:00 PM EDT
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA Baseball",NCAA Baseball 39
 http://hdhd.tk:80/live/Amanda1/Frechette1/50138.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA Baseball",NCAA Baseball 40 Maryland Terrapins vs. Rutgers Scarlet Knights 02:00 PM EDT
+#EXTINF:-1 tvg-logo="" group-title="SPORTS NCAA Baseball",NCAA Baseball 40
 http://hdhd.tk:80/live/Amanda1/Frechette1/50139.m3u8
 
 # --- SPORTS NCAA MEN BASKETBALL (80) ---
@@ -6024,41 +6032,41 @@ http://hdhd.tk:80/live/Amanda1/Frechette1/455.m3u8
 http://hdhd.tk:80/live/Amanda1/Frechette1/27811.m3u8
 
 # --- USA MLB (33) ---
-#EXTINF:-1 tvg-logo="https://content.sportslogos.net/logos/4/490/thumbs/49042272019.gif" group-title="USA MLB",USA MLB 01 Athletics VS Orioles (Orioles Feed ) @ 13:35
+#EXTINF:-1 tvg-logo="https://content.sportslogos.net/logos/4/490/thumbs/49042272019.gif" group-title="USA MLB",USA MLB 01 Yankees VS Orioles (Yankees Feed ) @ 18:35
 http://hdhd.tk:80/live/Amanda1/Frechette1/29223.m3u8
-#EXTINF:-1 tvg-logo="https://content.sportslogos.net/logos/4/490/thumbs/49042272019.gif" group-title="USA MLB",USA MLB 02:  Athletics VS Orioles (Athletics Feed ) @ 13:35
+#EXTINF:-1 tvg-logo="https://content.sportslogos.net/logos/4/490/thumbs/49042272019.gif" group-title="USA MLB",USA MLB 02: Yankees VS Orioles (Orioles Feed ) @ 18:35
 http://hdhd.tk:80/live/Amanda1/Frechette1/29224.m3u8
-#EXTINF:-1 tvg-logo="https://content.sportslogos.net/logos/4/490/thumbs/49042272019.gif" group-title="USA MLB",USA MLB 03: Rays VS Red Sox (Red Sox Feed ) @ 13:35
+#EXTINF:-1 tvg-logo="https://content.sportslogos.net/logos/4/490/thumbs/49042272019.gif" group-title="USA MLB",USA MLB 03:  D-backs VS Rangers (Rangers Feed ) @ 20:05
 http://hdhd.tk:80/live/Amanda1/Frechette1/29225.m3u8
-#EXTINF:-1 tvg-logo="https://content.sportslogos.net/logos/4/490/thumbs/49042272019.gif" group-title="USA MLB",USA MLB 04: Rockies VS Phillies (Phillies Feed ) @ 13:35
+#EXTINF:-1 tvg-logo="https://content.sportslogos.net/logos/4/490/thumbs/49042272019.gif" group-title="USA MLB",USA MLB 04: D-backs VS Rangers (D-backs Feed ) @ 20:05
 http://hdhd.tk:80/live/Amanda1/Frechette1/29226.m3u8
-#EXTINF:-1 tvg-logo="https://content.sportslogos.net/logos/4/490/thumbs/49042272019.gif" group-title="USA MLB",USA MLB 05  :Rockies VS Phillies (Rockies Feed ) @ 13:35
+#EXTINF:-1 tvg-logo="https://content.sportslogos.net/logos/4/490/thumbs/49042272019.gif" group-title="USA MLB",USA MLB 05  Mariners VS Astros (FS1 Feed ) @ 20:10
 http://hdhd.tk:80/live/Amanda1/Frechette1/29227.m3u8
-#EXTINF:-1 tvg-logo="https://content.sportslogos.net/logos/4/490/thumbs/49042272019.gif" group-title="USA MLB",USA  MLB 07 : Astros VS Reds (Astros Feed ) @ 13:40
+#EXTINF:-1 tvg-logo="https://content.sportslogos.net/logos/4/490/thumbs/49042272019.gif" group-title="USA MLB",USA  MLB 06 Mariners VS Astros (Astros Feed ) @ 20:10
+http://hdhd.tk:80/live/Amanda1/Frechette1/29228.m3u8
+#EXTINF:-1 tvg-logo="https://content.sportslogos.net/logos/4/490/thumbs/49042272019.gif" group-title="USA MLB",USA  MLB 07 : Giants VS Dodgers (Dodgers Feed ) @ 22:10
 http://hdhd.tk:80/live/Amanda1/Frechette1/29229.m3u8
-#EXTINF:-1 tvg-logo="https://content.sportslogos.net/logos/4/490/thumbs/49042272019.gif" group-title="USA MLB",USA MLB 08:  Yankees VS Brewers (Yankees Feed ) @ 14:10
+#EXTINF:-1 tvg-logo="https://content.sportslogos.net/logos/4/490/thumbs/49042272019.gif" group-title="USA MLB",USA MLB 08:Giants VS Dodgers (Giants Feed ) @ 22:10
 http://hdhd.tk:80/live/Amanda1/Frechette1/29230.m3u8
-#EXTINF:-1 tvg-logo="https://content.sportslogos.net/logos/4/490/thumbs/49042272019.gif" group-title="USA MLB",USA MLB 09  Cubs VS Rangers (Cubs Feed ) @ 14:35
+#EXTINF:-1 tvg-logo="https://content.sportslogos.net/logos/4/490/thumbs/49042272019.gif" group-title="USA MLB",USA MLB 09 Los Angeles Angels vs Cleveland Guardians @ 06:10 pm EDT
 http://hdhd.tk:80/live/Amanda1/Frechette1/29231.m3u8
-#EXTINF:-1 tvg-logo="https://content.sportslogos.net/logos/4/490/thumbs/49042272019.gif" group-title="USA MLB",USA MLB 10:   Cubs VS Rangers (Rangers Feed ) @ 14:35
-http://hdhd.tk:80/live/Amanda1/Frechette1/29232.m3u8
-#EXTINF:-1 tvg-logo="https://content.sportslogos.net/logos/4/490/thumbs/49042272019.gif" group-title="USA MLB",USA MLB 11   Pirates VS Giants (Giants Feed ) @ 16:05
+#EXTINF:-1 tvg-logo="https://content.sportslogos.net/logos/4/490/thumbs/49042272019.gif" group-title="USA MLB",USA MLB 11
 http://hdhd.tk:80/live/Amanda1/Frechette1/29233.m3u8
-#EXTINF:-1 tvg-logo="https://content.sportslogos.net/logos/4/490/thumbs/49042272019.gif" group-title="USA MLB",USA MLB 12:  Mets VS D-backs (Mets Feed ) @ 16:10
+#EXTINF:-1 tvg-logo="https://content.sportslogos.net/logos/4/490/thumbs/49042272019.gif" group-title="USA MLB",USA MLB 12:
 http://hdhd.tk:80/live/Amanda1/Frechette1/29234.m3u8
-#EXTINF:-1 tvg-logo="https://content.sportslogos.net/logos/4/490/thumbs/49042272019.gif" group-title="USA MLB",USA MLB 13 Mets VS D-backs (D-backs Feed ) @ 16:10
+#EXTINF:-1 tvg-logo="https://content.sportslogos.net/logos/4/490/thumbs/49042272019.gif" group-title="USA MLB",USA MLB 13
 http://hdhd.tk:80/live/Amanda1/Frechette1/29235.m3u8
-#EXTINF:-1 tvg-logo="https://content.sportslogos.net/logos/4/490/thumbs/49042272019.gif" group-title="USA MLB",USA MLB 14:  Braves VS Dodgers (Dodgers Feed ) @ 16:10
+#EXTINF:-1 tvg-logo="https://content.sportslogos.net/logos/4/490/thumbs/49042272019.gif" group-title="USA MLB",USA MLB 14:
 http://hdhd.tk:80/live/Amanda1/Frechette1/29236.m3u8
-#EXTINF:-1 tvg-logo="https://content.sportslogos.net/leagues/thumbs/4.gif" group-title="USA MLB",USA MLB 15: Washington Nationals vs Miami Marlins@ 12:15 pm EDT
+#EXTINF:-1 tvg-logo="https://content.sportslogos.net/leagues/thumbs/4.gif" group-title="USA MLB",USA MLB 15:
 http://hdhd.tk:80/live/Amanda1/Frechette1/29237.m3u8
-#EXTINF:-1 tvg-logo="https://content.sportslogos.net/logos/4/490/thumbs/49042272019.gif" group-title="USA MLB",USA MLB 16 Minnesota Twins vs Cleveland Guardians @ 01:40 pm EDT
+#EXTINF:-1 tvg-logo="https://content.sportslogos.net/logos/4/490/thumbs/49042272019.gif" group-title="USA MLB",USA MLB 16
 http://hdhd.tk:80/live/Amanda1/Frechette1/29238.m3u8
-#EXTINF:-1 tvg-logo="https://content.sportslogos.net/leagues/thumbs/4.gif" group-title="USA MLB",USA MLB 17 Seattle Mariners vs Chicago White Sox @ 02:10 pm EDT
+#EXTINF:-1 tvg-logo="https://content.sportslogos.net/leagues/thumbs/4.gif" group-title="USA MLB",USA MLB 17
 http://hdhd.tk:80/live/Amanda1/Frechette1/29239.m3u8
-#EXTINF:-1 tvg-logo="https://content.sportslogos.net/logos/4/490/thumbs/49042272019.gif" group-title="USA MLB",USA MLB 18  : St. Louis Cardinals vs San Diego Padres @ 04:10 pm EDT
+#EXTINF:-1 tvg-logo="https://content.sportslogos.net/logos/4/490/thumbs/49042272019.gif" group-title="USA MLB",USA MLB 18  :
 http://hdhd.tk:80/live/Amanda1/Frechette1/29240.m3u8
-#EXTINF:-1 tvg-logo="https://content.sportslogos.net/logos/4/490/thumbs/49042272019.gif" group-title="USA MLB",USA MLB 19: Detroit Tigers vs Kansas City Royals @ 07:20 pm EDT
+#EXTINF:-1 tvg-logo="https://content.sportslogos.net/logos/4/490/thumbs/49042272019.gif" group-title="USA MLB",USA MLB 19:
 http://hdhd.tk:80/live/Amanda1/Frechette1/29241.m3u8
 #EXTINF:-1 tvg-logo="https://content.sportslogos.net/logos/4/490/thumbs/49042272019.gif" group-title="USA MLB",USA MLB 20:
 http://hdhd.tk:80/live/Amanda1/Frechette1/29242.m3u8
@@ -6368,9 +6376,9 @@ http://hdhd.tk:80/live/Amanda1/Frechette1/882834.m3u8
 # --- USA NBA (18) ---
 #EXTINF:-1 tvg-logo="https://static.epg.best/us/NBATV.us.png" group-title="USA NBA",US NBA TV
 http://hdhd.tk:80/live/Amanda1/Frechette1/6634.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/us/NBATV.us.png" group-title="USA NBA",USA NBA 01 NYK Knicks VS PHI 76ers ( ABC Feed ) @ 3:30 PM
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/NBATV.us.png" group-title="USA NBA",USA NBA 01  Detroit Pistons vs Cleveland Cavaliers @ 08:00 PM EDT
 http://hdhd.tk:80/live/Amanda1/Frechette1/12701.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/us/NBATV.us.png" group-title="USA NBA",USA NBA 02:: San Antonio Spurs vs Minnesota Timberwolves @ 07:30 PM EDT
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/NBATV.us.png" group-title="USA NBA",USA NBA 02::Oklahoma City Thunder vs Los Angeles Lakers @ 10:30 PM EDT
 http://hdhd.tk:80/live/Amanda1/Frechette1/12702.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/us/NBATV.us.png" group-title="USA NBA",USA NBA 03:
 http://hdhd.tk:80/live/Amanda1/Frechette1/12703.m3u8
@@ -6876,15 +6884,15 @@ http://hdhd.tk:80/live/Amanda1/Frechette1/32974.m3u8
 http://hdhd.tk:80/live/Amanda1/Frechette1/386129.m3u8
 
 # --- USA NHL (41) ---
-#EXTINF:-1 tvg-logo="https://content.sportslogos.net/leagues/thumbs/1.gif" group-title="USA NHL",USA NHL 01: : BUF VS MTL (SN Feed ) @ 7:00 pm
+#EXTINF:-1 tvg-logo="https://content.sportslogos.net/leagues/thumbs/1.gif" group-title="USA NHL",USA NHL 01: :COL VS MIN (SN Feed ) @ 8:00 pm
 http://hdhd.tk:80/live/Amanda1/Frechette1/30025.m3u8
-#EXTINF:-1 tvg-logo="https://content.sportslogos.net/leagues/thumbs/1.gif" group-title="USA NHL",USA NHL 02   BUF VS MTL (TVAS Feed ) @ 7:00 pm
+#EXTINF:-1 tvg-logo="https://content.sportslogos.net/leagues/thumbs/1.gif" group-title="USA NHL",USA NHL 02  COL VS MIN (TVAS Feed ) @ 8:00 pm
 http://hdhd.tk:80/live/Amanda1/Frechette1/30026.m3u8
-#EXTINF:-1 tvg-logo="https://content.sportslogos.net/leagues/thumbs/1.gif" group-title="USA NHL",USA NHL 03 : VGK VS ANA (SN Feed ) @ 9:30 pm
+#EXTINF:-1 tvg-logo="https://content.sportslogos.net/leagues/thumbs/1.gif" group-title="USA NHL",USA NHL 03 :
 http://hdhd.tk:80/live/Amanda1/Frechette1/30027.m3u8
-#EXTINF:-1 tvg-logo="https://content.sportslogos.net/leagues/thumbs/1.gif" group-title="USA NHL",USA NHL 04: VGK VS ANA (SN360 Feed ) @ 9:30 pm
+#EXTINF:-1 tvg-logo="https://content.sportslogos.net/leagues/thumbs/1.gif" group-title="USA NHL",USA NHL 04:
 http://hdhd.tk:80/live/Amanda1/Frechette1/30028.m3u8
-#EXTINF:-1 tvg-logo="https://content.sportslogos.net/leagues/thumbs/1.gif" group-title="USA NHL",USA NHL 05 VGK VS ANA (TVAS Feed ) @ 9:30 pm
+#EXTINF:-1 tvg-logo="https://content.sportslogos.net/leagues/thumbs/1.gif" group-title="USA NHL",USA NHL 05
 http://hdhd.tk:80/live/Amanda1/Frechette1/30029.m3u8
 #EXTINF:-1 tvg-logo="https://content.sportslogos.net/leagues/thumbs/1.gif" group-title="USA NHL",USA NHL 06 :
 http://hdhd.tk:80/live/Amanda1/Frechette1/30030.m3u8
@@ -8225,4 +8233,4 @@ http://hdhd.tk:80/live/Amanda1/Frechette1/330321.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Vietnam",VN FILM24H
 http://hdhd.tk:80/live/Amanda1/Frechette1/330322.m3u8
 
-# Total: 4016
+# Total: 4020

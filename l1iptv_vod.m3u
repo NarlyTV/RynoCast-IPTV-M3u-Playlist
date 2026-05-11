@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: l1iptv.xyz
-# Generated: 2026-05-11 08:18:27
+# Generated: 2026-05-11 20:33:37
 # Expires: 2026-12-08
 # Family Safe Edition
 # ==============================================
@@ -25,7 +25,7 @@ http://l1iptv.xyz/movie/ibrahimtopal/rP8DwDMPgG/5895.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE - ARD Mediathek",Nightsleeper
 http://l1iptv.xyz/movie/ibrahimtopal/rP8DwDMPgG/6006.mp4
 
-# --- Movies | DE - Apple TV+ (97) ---
+# --- Movies | DE - Apple TV+ (98) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE - Apple TV+",See - Reich der Blinden
 http://l1iptv.xyz/movie/ibrahimtopal/rP8DwDMPgG/1308.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE - Apple TV+",Foundation
@@ -220,6 +220,8 @@ http://l1iptv.xyz/movie/ibrahimtopal/rP8DwDMPgG/5883.mp4
 http://l1iptv.xyz/movie/ibrahimtopal/rP8DwDMPgG/5951.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE - Apple TV+",Widow's Bay
 http://l1iptv.xyz/movie/ibrahimtopal/rP8DwDMPgG/5986.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | DE - Apple TV+",Unconditional
+http://l1iptv.xyz/movie/ibrahimtopal/rP8DwDMPgG/6018.mp4
 
 # --- Movies | DE - Disney+ (149) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | DE - Disney+",Code Black
@@ -8199,7 +8201,7 @@ http://l1iptv.xyz/movie/ibrahimtopal/rP8DwDMPgG/151391.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bvSdkUp9EZPbHj32FJma5zpn9Gv.jpg" group-title="Movies | DE - Kino 2024",Volja Sinovljeva (DE)
 http://l1iptv.xyz/movie/ibrahimtopal/rP8DwDMPgG/154260.mkv
 
-# --- Movies | DE - Kino 2025 (400) ---
+# --- Movies | DE - Kino 2025 (402) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9yBW60Pm0eeXsKeiZMvMolCuhyU.jpg" group-title="Movies | DE - Kino 2025",Ad Vitam (DE)
 http://l1iptv.xyz/movie/ibrahimtopal/rP8DwDMPgG/125991.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ghLaj5dBrdUsD4wjq3QERcisr5k.jpg" group-title="Movies | DE - Kino 2025",Sunray: Fallen Soldier (DE)
@@ -9000,6 +9002,10 @@ http://l1iptv.xyz/movie/ibrahimtopal/rP8DwDMPgG/154548.mkv
 http://l1iptv.xyz/movie/ibrahimtopal/rP8DwDMPgG/154744.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Av1CK61z33v2OBFLD1yF5rdRxQ1.jpg" group-title="Movies | DE - Kino 2025",Sarah's Oil (DE)
 http://l1iptv.xyz/movie/ibrahimtopal/rP8DwDMPgG/154745.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vGCFpBFYXkRCzIniznM15cVUbsU.jpg" group-title="Movies | DE - Kino 2025",Trouble Man (DE)
+http://l1iptv.xyz/movie/ibrahimtopal/rP8DwDMPgG/154870.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Unh515hjIzG3YgSSctglGchaKa.jpg" group-title="Movies | DE - Kino 2025",La grazia (DE)
+http://l1iptv.xyz/movie/ibrahimtopal/rP8DwDMPgG/154871.mkv
 
 # --- Movies | DE - Kino 2026 (74) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EfFRgXde2iFFDfdFDMAOB9RuYJ.jpg" group-title="Movies | DE - Kino 2026",Greenland 2 (DE)
@@ -9090,7 +9096,7 @@ http://l1iptv.xyz/movie/ibrahimtopal/rP8DwDMPgG/152697.mkv
 http://l1iptv.xyz/movie/ibrahimtopal/rP8DwDMPgG/152743.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xn5lKFCCdvUaIO1tHUOYHWsK3r0.jpg" group-title="Movies | DE - Kino 2026",Mike & Nick & Nick & Alice (DE)
 http://l1iptv.xyz/movie/ibrahimtopal/rP8DwDMPgG/152950.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zuXjNG3o6as2au643nyXcdiKrfB.jpg" group-title="Movies | DE - Kino 2026",Wuthering Heights - Sturmhöhe (DE)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zuXjNG3o6as2au643nyXcdiKrfB.jpg" group-title="Movies | DE - Kino 2026",“Wuthering Heights” - Sturmhöhe (DE)
 http://l1iptv.xyz/movie/ibrahimtopal/rP8DwDMPgG/152971.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nxUy4A5KFdNVjwqXoFRK8PqZ5vZ.jpg" group-title="Movies | DE - Kino 2026",53 Sonntage (DE)
 http://l1iptv.xyz/movie/ibrahimtopal/rP8DwDMPgG/153137.mkv
@@ -11193,7 +11199,7 @@ http://l1iptv.xyz/movie/ibrahimtopal/rP8DwDMPgG/741.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR - Cocuk",Gabby'nin Hayal Evi
 http://l1iptv.xyz/movie/ibrahimtopal/rP8DwDMPgG/747.mp4
 
-# --- Movies | TR - Cocuk/Animasyon (145) ---
+# --- Movies | TR - Cocuk/Animasyon (146) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ufcYhMgXtdL3OQBdR3G3p23pBni.jpg" group-title="Movies | TR - Cocuk/Animasyon",Karlar Prensi Elliot
 http://l1iptv.xyz/movie/ibrahimtopal/rP8DwDMPgG/33498.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cuPr1aWJU9A9jeGxjFzPczHov2S.jpg" group-title="Movies | TR - Cocuk/Animasyon",Canavar Ev (TR)
@@ -11484,6 +11490,8 @@ http://l1iptv.xyz/movie/ibrahimtopal/rP8DwDMPgG/150905.mkv
 http://l1iptv.xyz/movie/ibrahimtopal/rP8DwDMPgG/153655.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xdvMX5L7bdonl2geaXL3laTCSr2.jpg" group-title="Movies | TR - Cocuk/Animasyon",Zootropolis 2 (TR)
 http://l1iptv.xyz/movie/ibrahimtopal/rP8DwDMPgG/153708.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eYjLQ3ULyr3nWj218Cu7YYU0Z8x.jpg" group-title="Movies | TR - Cocuk/Animasyon",Hoplayanlar (TR)
+http://l1iptv.xyz/movie/ibrahimtopal/rP8DwDMPgG/154846.mkv
 
 # --- Movies | TR - Cuma Dizileri (30) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | TR - Cuma Dizileri",Kırmızı Oda
@@ -16923,7 +16931,7 @@ http://l1iptv.xyz/movie/ibrahimtopal/rP8DwDMPgG/152830.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2VUmvqsHb6cEtdfscEA6fqqVzLg.jpg" group-title="Movies | TR - Yabanci/Dublaj 2025",Ballerina (TR)
 http://l1iptv.xyz/movie/ibrahimtopal/rP8DwDMPgG/154421.mkv
 
-# --- Movies | TR - Yabanci/Dublaj 2026 (30) ---
+# --- Movies | TR - Yabanci/Dublaj 2026 (33) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p4bW2sJKAwcHuLpfoZK7Zo63osA.jpg" group-title="Movies | TR - Yabanci/Dublaj 2026",The Rip (TR)
 http://l1iptv.xyz/movie/ibrahimtopal/rP8DwDMPgG/148907.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fzSEuMeoi5Pnf3PU10ZznPAJ2Ap.jpg" group-title="Movies | TR - Yabanci/Dublaj 2026",Gerçek Sahtekâr (TR)
@@ -16984,6 +16992,12 @@ http://l1iptv.xyz/movie/ibrahimtopal/rP8DwDMPgG/154692.mkv
 http://l1iptv.xyz/movie/ibrahimtopal/rP8DwDMPgG/154693.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tBtungYBSGJZylDnXU6xyqySrex.jpg" group-title="Movies | TR - Yabanci/Dublaj 2026",“Uğultulu Tepeler” (TR)
 http://l1iptv.xyz/movie/ibrahimtopal/rP8DwDMPgG/154694.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yihdXomYb5kTeSivtFndMy5iDmf.jpg" group-title="Movies | TR - Yabanci/Dublaj 2026",Kurtuluş Projesi (TR)
+http://l1iptv.xyz/movie/ibrahimtopal/rP8DwDMPgG/154844.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ArCaeK8Hhk80IXlvHsQwyZlddl9.jpg" group-title="Movies | TR - Yabanci/Dublaj 2026",Olağanüstü Akıllı Yaratıklar (TR)
+http://l1iptv.xyz/movie/ibrahimtopal/rP8DwDMPgG/154845.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jipeG8v1XpQCeqMYDu4q0E3cw2U.jpg" group-title="Movies | TR - Yabanci/Dublaj 2026",Bekarlara Yer Yok (TR)
+http://l1iptv.xyz/movie/ibrahimtopal/rP8DwDMPgG/154847.mkv
 
 # --- Movies | TR - Yerli (685) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dLvUlTSLs93gPkUVJBgcfzf8AkP.jpg" group-title="Movies | TR - Yerli",Ketenpere (TR)
@@ -19187,4 +19201,4 @@ http://l1iptv.xyz/movie/ibrahimtopal/rP8DwDMPgG/4372.mp4
 #EXTINF:-1 tvg-logo="" group-title="Series | NL - Series",The Good Lord Bird
 http://l1iptv.xyz/series/ibrahimtopal/rP8DwDMPgG/686
 
-# Total: 9507
+# Total: 9514
