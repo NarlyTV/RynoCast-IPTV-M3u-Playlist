@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: squid.game-tv.org:8080
-# Generated: 2026-05-10 19:01:37
+# Generated: 2026-05-12 20:06:47
 # Expires: 2026-10-17
 # Family Safe Edition
 # ==============================================
@@ -554,6 +554,10 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/961.mp4
 # --- Movies | Better Call Saul (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Better Call Saul",Better Call Saul
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/65.mp4
+
+# --- Movies | Beverly Hills 90210 (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | Beverly Hills 90210",Beverly Hills, 90210 (1990)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1263.mp4
 
 # --- Movies | Beyond Paradise (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Beyond Paradise",Beyond Paradise (2023)
@@ -7367,7 +7371,17 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/10776.mp
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/2Abt2GgscAGtGAXTrhH44qPhugI.jpg" group-title="Movies | Filme 2025",Dark Nuns (2025)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/25035.mp4
 
-# --- Movies | Filme 2026 (112) ---
+# --- Movies | Filme 2026 (117) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A188B94iDLdB6499QBYbz74WgOF.jpg" group-title="Movies | Filme 2026",The Big Fake - 2025
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/70073.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tHhxWxge06goXU6ZQH1hj7vK8Hd.jpg" group-title="Movies | Filme 2026",Swapped - 2026
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/70072.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/httlhu80GnOx3bCAXi4sYdbDny0.jpg" group-title="Movies | Filme 2026",No Place to Be Single - 2026
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/70071.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kZ5Jum0zjl0g1IAVl258a77zx0c.jpg" group-title="Movies | Filme 2026",Finding Satoshi - 2026
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/70070.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7NrvUI3vnW8H3rD7ExKcTL7KRcQ.jpg" group-title="Movies | Filme 2026",Beast - 2026
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/70069.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg" group-title="Movies | Filme 2026",The Super Mario Galaxy Movie - 2026
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/69858.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Tf0qTA73XLhBnfP6YgvqtLZBnt.jpg" group-title="Movies | Filme 2026",Feel My Voice - 2026
@@ -12029,7 +12043,15 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/42770.mp
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/e1fvQdD63RP2MS9jCB8jzg7fkdr.jpg" group-title="Movies | Filme Dragoste",'Twas the Text Before Christmas (2023)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/20724.mp4
 
-# --- Movies | Filme Drama (362) ---
+# --- Movies | Filme Drama (366) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5ZjMNJJabwBEnGVQoR2yoMEL9um.jpg" group-title="Movies | Filme Drama",Black Beauty - 2020
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/70090.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8912AsVuS7Sj915apArUFbv6F9L.jpg" group-title="Movies | Filme Drama",The Devil Wears Prada - 2006
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/70067.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tdERW77zecB5pkKWWeqbSkns0t4.jpg" group-title="Movies | Filme Drama",Prince of the City - 1981
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/70066.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oMSFccYqe8kLm52Hmp44DGuLM5r.jpg" group-title="Movies | Filme Drama",God on Trial - 2008
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/70065.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bMgq7VBriuBFknXEe9E9pVBYGZq.jpg" group-title="Movies | Filme Drama",The Blind Side - 2009
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/69880.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hMRIyBjPzxaSXWM06se3OcNjIQa.jpg" group-title="Movies | Filme Drama",Atonement - 2007
@@ -12354,7 +12376,7 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/54606.mk
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/7071.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/oN20MLvoLv14whAss05V3ETBu0p.jpg" group-title="Movies | Filme Drama",A Single Man
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/29481.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/90EfCmXXWOs5dy7rHTNvGT9T8Kz.jpg" group-title="Movies | Filme Drama",A Star Is Born
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wrFpXMNBRj2PBiN4Z5kix51XaIZ.jpg" group-title="Movies | Filme Drama",A Star Is Born (2018)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/13342.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/chqJMjTTpPhQ64vgyXEPYL3luG5.jpg" group-title="Movies | Filme Drama",Astral
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/22443.mkv
@@ -15645,7 +15667,9 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/31665.mp
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/dhHpbBemuyEBgcYGrmm7bHpjgdO.jpg" group-title="Movies | Filme SCI-FI (NOU)",Battle Drone  (2018)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/9682.mp4
 
-# --- Movies | Filme Thriller (216) ---
+# --- Movies | Filme Thriller (217) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oNjZFzbe7PfF3TxztNHDkinOPyB.jpg" group-title="Movies | Filme Thriller",Flightplan - 2005
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/70064.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rxw9l9YNL14ODdmAavUwHLBjiDo.jpg" group-title="Movies | Filme Thriller",The Ninth Gate - 1999
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/69782.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d6dlbTBb3N7nXDz7tQslDJs2jgv.jpg" group-title="Movies | Filme Thriller",The Name of the Rose - 1986
@@ -16244,7 +16268,7 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/50941.mk
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/4819.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/lso7y9jXFiVHMcW4nSAudU5vq7i.jpg" group-title="Movies | Filme UHD + 4K",Assassin's Creed
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/53387.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/90EfCmXXWOs5dy7rHTNvGT9T8Kz.jpg" group-title="Movies | Filme UHD + 4K",A Star Is Born
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wrFpXMNBRj2PBiN4Z5kix51XaIZ.jpg" group-title="Movies | Filme UHD + 4K",A Star Is Born (2018) (4K)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/3980.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/zdw7Wf97vsQ0YnGomxDqfcEdUjX.jpg" group-title="Movies | Filme UHD + 4K",Aquaman (2018)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/28579.mkv
@@ -17183,6 +17207,10 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/783.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Godfather of Harlem",Godfather of Harlem
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/456.mp4
 
+# --- Movies | Gold Land (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | Gold Land",Gold Land (2026)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1266.mp4
+
 # --- Movies | Golden Boy (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Golden Boy",Golden Boy
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/2.mp4
@@ -17862,6 +17890,10 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/296.mp4
 # --- Movies | Legacies (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Legacies",Legacies
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/312.mp4
+
+# --- Movies | Legends (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | Legends",Legends (2026)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1264.mp4
 
 # --- Movies | Lenox Hill (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Lenox Hill",Lenox Hill (2020)
@@ -19365,6 +19397,10 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1033.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Testament: The Story of Moses",Testament: The Story of Moses
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/570.mp4
 
+# --- Movies | Thank You Next (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | Thank You Next",Thank You, Next (2024)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1267.mp4
+
 # --- Movies | That 90s Show (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | That 90s Show",That '90s Show
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/418.mp4
@@ -19465,6 +19501,10 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/732.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | The Capture",The Capture (2019)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1062.mp4
 
+# --- Movies | The Chestnut Man (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | The Chestnut Man",The Chestnut Man (2021)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1265.mp4
+
 # --- Movies | The Chosen (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | The Chosen",The Chosen (2019)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1020.mp4
@@ -19504,6 +19544,10 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/330.mp4
 # --- Movies | The Cry of the Butterflies (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | The Cry of the Butterflies",The Cry of the Butterflies
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/595.mp4
+
+# --- Movies | The Cuphead Show (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | The Cuphead Show",The Cuphead Show! (2022)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1268.mp4
 
 # --- Movies | The Dark Money Game (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | The Dark Money Game",The Dark Money Game (2025)
@@ -20595,4 +20639,4 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/383.mp4
 #EXTINF:-1 tvg-logo="" group-title="Series | A Series of Unfortunate Events",A Series of Unfortunate Events
 http://squid.game-tv.org:8080/series/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/276
 
-# Total: 9006
+# Total: 9022

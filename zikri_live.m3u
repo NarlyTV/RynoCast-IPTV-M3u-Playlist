@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: zikri.xtpold.com
-# Generated: 2026-05-09 19:03:17
+# Generated: 2026-05-11 20:43:38
 # Expires: 2027-02-18
 # Family Safe Edition
 # ==============================================
@@ -9299,7 +9299,7 @@ http://zikri.xtpold.com/live/eu1913/7475mht/107461.m3u8
 #EXTINF:-1 tvg-logo="http://uyduturk.net/logos/marvel.jpg" group-title="TR► Sinema",TR Marvel Movies
 http://zikri.xtpold.com/live/eu1913/7475mht/25190.m3u8
 
-# --- TR► Spor (75) ---
+# --- TR► Spor (76) ---
 #EXTINF:-1 tvg-logo="http://uyduturk.net/logos/beinsports1.png" group-title="TR► Spor",TR beIN SPORTS SD 1 (480p)
 http://zikri.xtpold.com/live/eu1913/7475mht/53507.m3u8
 #EXTINF:-1 tvg-logo="http://uyduturk.net/logos/beinsports1hdfr.png" group-title="TR► Spor",TR beIN SPORTS HD 1 JOKER
@@ -9344,6 +9344,8 @@ http://zikri.xtpold.com/live/eu1913/7475mht/10327.m3u8
 http://zikri.xtpold.com/live/eu1913/7475mht/1256.m3u8
 #EXTINF:-1 tvg-logo="http://uyduturk.net/logos/beinsportshaber.png" group-title="TR► Spor",TR beIN SPORTS Haber
 http://zikri.xtpold.com/live/eu1913/7475mht/1767.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TR► Spor",TR beIN Connect 1
+http://zikri.xtpold.com/live/eu1913/7475mht/111728.m3u8
 #EXTINF:-1 tvg-logo="http://uyduturk.net/logos/htspor.png" group-title="TR► Spor",TR Ht Spor
 http://zikri.xtpold.com/live/eu1913/7475mht/66022.m3u8
 #EXTINF:-1 tvg-logo="http://uyduturk.net/picon/ekolsportstr.png" group-title="TR► Spor",TR Ekol Sports
@@ -10281,4 +10283,4 @@ http://zikri.xtpold.com/live/eu1913/7475mht/67884.m3u8
 #EXTINF:-1 tvg-logo="" group-title="US► U.S.A.",US: TLC EAST
 http://zikri.xtpold.com/live/eu1913/7475mht/67883.m3u8
 
-# Total: 5100
+# Total: 5101
