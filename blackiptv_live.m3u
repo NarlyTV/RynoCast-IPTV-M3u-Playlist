@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: blackiptv.net:8080
-# Generated: 2026-05-11 20:36:01
+# Generated: 2026-05-12 20:03:41
 # Expires: 2026-12-21
 # Family Safe Edition
 # ==============================================
@@ -471,7 +471,7 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/35623.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ALL COUNTRY MUSIC",*****ALL SERIES*****
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/25126.m3u8
 
-# --- ALL COUNTRY SPORTS (243) ---
+# --- ALL COUNTRY SPORTS (237) ---
 #EXTINF:-1 tvg-logo="" group-title="ALL COUNTRY SPORTS",RU: SETANTA SPORT 2 HD
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/24985.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ALL COUNTRY SPORTS",*****OTHER SPORT*****
@@ -502,18 +502,6 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/520.m3u8
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/834.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ALL COUNTRY SPORTS",AFR: AFRICA 24 SPORT
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/55595.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ALL COUNTRY SPORTS",AUS: Fox Sports 502 FHD
-http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/55601.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ALL COUNTRY SPORTS",AUS: Fox Sports 503 FHD
-http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/55600.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ALL COUNTRY SPORTS",AUS: Fox Sports 504 FHD
-http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/55599.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ALL COUNTRY SPORTS",AUS: Fox Sports 505 FHD
-http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/55598.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ALL COUNTRY SPORTS",AUS: Fox Sports 506 FHD
-http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/55597.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ALL COUNTRY SPORTS",AUS: Fox Sports 507 FHD
-http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/55596.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ALL COUNTRY SPORTS",ITA: TR SPORT
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/56334.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ALL COUNTRY SPORTS",ITA: PLUS TV MOTOR
@@ -1067,7 +1055,7 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/57903.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AUSTRIA",AT: BALKAN RADIO SALZBURG
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/60031.m3u8
 
-# --- AZERBAYCAN (28) ---
+# --- AZERBAYCAN (27) ---
 #EXTINF:-1 tvg-logo="" group-title="AZERBAYCAN",*****AZERBAYCAN CHANNEL*****
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/4951.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AZERBAYCAN",AZ: ARB
@@ -1094,8 +1082,6 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/541.m3u8
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/47423.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AZERBAYCAN",AZ: ICTIMAI TV
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/535.m3u8
-#EXTINF:-1 tvg-logo="" group-title="AZERBAYCAN",AZ: TURKUZPLAY 1
-http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/47424.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AZERBAYCAN",AZ: QEBELE TV
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/531.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AZERBAYCAN",AZ: KEPEZ TV
@@ -1466,7 +1452,7 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/3436.m3u8
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/3437.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ENGLAND",UK: BBC NEWS
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/3440.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ENGLAND",UK: FOX
+#EXTINF:-1 tvg-logo="http://195.211.191.31:808/logo/logo_1/UK/FOX.png" group-title="ENGLAND",UK: FOX
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/3445.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ENGLAND",UK: HBO FAMILY HD
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/3447.m3u8
@@ -1474,7 +1460,7 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/3447.m3u8
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/3450.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ENGLAND",UK: ITV 2
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/3451.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ENGLAND",UK: ITV 3
+#EXTINF:-1 tvg-logo="http://go.wrldonx.fyi:8000/images/xm9cP79GrHrL_e9IpLBwsT9AzsAfOo5TGO7RC8VlQNX7Q8bwbGXV_0g7palrQsbtvw-IH5Ls1Oc1G-KkLHnoucfec2U3LOwtVUcE73DIC1A.png" group-title="ENGLAND",UK: ITV 3
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/3452.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ENGLAND",UK: ITV 4
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/3453.m3u8
@@ -2177,7 +2163,7 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/39192.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GERMANY PLUTO TV",DE: MOVIEDOM
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/504.m3u8
 
-# --- GERMANY SPORTS (DEU/AT/CH) (139) ---
+# --- GERMANY SPORTS (DEU/AT/CH) (138) ---
 #EXTINF:-1 tvg-logo="http://aux2.iconspalace.com/uploads/424097756.png" group-title="GERMANY SPORTS (DEU/AT/CH)",*****GERMANY SPORTS*****
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/290.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/dazn1-de.png" group-title="GERMANY SPORTS (DEU/AT/CH)",DE: DAZN 1 HD
@@ -2290,8 +2276,6 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/55028.m3u8
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/31831.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-sport/sky-sport-premier-league-alt-de.png" group-title="GERMANY SPORTS (DEU/AT/CH)",DE: SKY SPORT PREMIER LEAGUE HD+
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/55027.m3u8
-#EXTINF:-1 tvg-logo="" group-title="GERMANY SPORTS (DEU/AT/CH)",DE: Sky Sport Premier League FHD
-http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/39160.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-sport/sky-sport-1-alt-de.png" group-title="GERMANY SPORTS (DEU/AT/CH)",DE: SKY SPORT 1 SD
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/314.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/sky-sport/sky-sport-1-alt-de.png" group-title="GERMANY SPORTS (DEU/AT/CH)",DE: SKY SPORT 1 HD
@@ -2819,7 +2803,7 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/56299.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ITALIAN",ITA: RADIO BELLA & MONELLA
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/56306.m3u8
 
-# --- KKTC  ULUSAL (7) ---
+# --- KKTC  ULUSAL (6) ---
 #EXTINF:-1 tvg-logo="" group-title="KKTC  ULUSAL",TR: BRT 1
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/69975.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KKTC  ULUSAL",TR: BRT 2
@@ -2832,8 +2816,6 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/69980.m3u8
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/69978.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KKTC  ULUSAL",TR: INTIZAD TV
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/69984.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KKTC  ULUSAL",TR: OKKU TV
-http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/69983.m3u8
 
 # --- KOSOVA (11) ---
 #EXTINF:-1 tvg-logo="https://www.shareicon.net/data/256x256/2015/07/23/73683_flag_256x256.png" group-title="KOSOVA",*****KOSOVA CHANNEL*****
@@ -3222,7 +3204,7 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/479.m3u8
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/488.m3u8
 #EXTINF:-1 tvg-logo="https://logo.hdiptv.app/Romania/procin.png" group-title="ROMANIA",RO: Pro Cinema
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/477.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ROMANIA",RO: HBO 1 HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png" group-title="ROMANIA",RO: HBO 1 HD
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/28884.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ROMANIA",RO: HBO 2 HD
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/28885.m3u8
@@ -3312,7 +3294,7 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/25013.m3u8
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/25014.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ROMANIA",RO: E! ENTERTAIMENT
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/28725.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ROMANIA",RO: HISTORY CHANNEL HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png" group-title="ROMANIA",RO: HISTORY CHANNEL HD
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/28798.m3u8
 
 # --- RUSSIA (89) ---
@@ -3530,7 +3512,7 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/26547.m3u8
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/52029.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SCHWEDEN",SE: TV4 Film
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/52030.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SCHWEDEN",SE: TV4 Guld
+#EXTINF:-1 tvg-logo="http://go.wrldonx.fyi:8000/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfFoaPhVBqP0DIh8K9cFSc9ydejxydMo-oQxB7oobPQA-Q.png" group-title="SCHWEDEN",SE: TV4 Guld
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/52031.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SCHWEDEN",SE: TV6
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/52033.m3u8
@@ -4389,7 +4371,7 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/26530.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TURK MUZIK",TR: MMN TURK TV
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/92.m3u8
 
-# --- TURK SINEMA (315) ---
+# --- TURK SINEMA (313) ---
 #EXTINF:-1 tvg-logo="" group-title="TURK SINEMA",TR: RIZE TURK
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/529.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TURK SINEMA",TR: TR10
@@ -4400,10 +4382,6 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/69991.m3u8
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/69990.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TURK SINEMA",TR: ZALIM ISTANBUL DIZI 7/24
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/69987.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TURK SINEMA",TR: TATLI INTIKAM DIZI 7/24
-http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/69986.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TURK SINEMA",TR: SIYAH BEYAZ ASK DIZI 7/24
-http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/69985.m3u8
 #EXTINF:-1 tvg-logo="https://i1.pngguru.com/preview/342/631/615/turk-bayrak-logolari-png-clipart.jpg" group-title="TURK SINEMA",*****TURK SINEMA*****
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/148.m3u8
 #EXTINF:-1 tvg-logo="https://logo.hdiptv.app/TurkeyAll/bein-box-office-1-tr.png" group-title="TURK SINEMA",TR: beIN BOX OFFICE 1
@@ -5630,7 +5608,7 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/1274.m3u8
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/1276.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA",USA: HBO COMEDY
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/1278.m3u8
-#EXTINF:-1 tvg-logo="" group-title="USA",USA: BOUNCE TV
+#EXTINF:-1 tvg-logo="" group-title="USA",USA: CMT TV
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/1279.m3u8
 #EXTINF:-1 tvg-logo="" group-title="USA",USA: CBS 2- NEWYORK
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/58273.m3u8
@@ -6019,4 +5997,4 @@ http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/43244.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Unknown",TR RADYO: ANKARA RADYO
 http://blackiptv.net:8080/live/Resulgonul/4YkXmwCGOo/43245.m3u8
 
-# Total: 2948
+# Total: 2937

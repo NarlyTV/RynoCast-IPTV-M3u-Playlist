@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: exclusifott.pro:80
-# Generated: 2026-05-11 20:41:01
+# Generated: 2026-05-12 20:04:25
 # Expires: 2026-05-21
 # Family Safe Edition
 # ==============================================
@@ -5857,7 +5857,7 @@ http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/1077220.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/mvCZY9Br5Jw5LNeKtQ5Z5UcY7AL.jpg" group-title="Movies | NETFLIX MOVIES",D+ - George Of The Jungle 2 (2003)
 http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/111851.mp4
 
-# --- Movies | TOP IMDB/OSCAR MOVIES (162) ---
+# --- Movies | TOP IMDB/OSCAR MOVIES (161) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/bDwOWW8iVKQtHeqTyb409Uu6YJ1.jpg" group-title="Movies | TOP IMDB/OSCAR MOVIES",EN - Cleopatra (1963)
 http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/2038450.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ytjWbKNQzlO7ItPWowSIqCGvVpO.jpg" group-title="Movies | TOP IMDB/OSCAR MOVIES",EN - They Live (1988)
@@ -5980,8 +5980,6 @@ http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/735089.mp4
 http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/735090.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ut8snuINzOibbKnvpTnsGWQr4Nl.jpg" group-title="Movies | TOP IMDB/OSCAR MOVIES",EN - Fear (1996)
 http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/735091.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eu3Hrjj271dnBdNAF0HqfmwWASt.jpg" group-title="Movies | TOP IMDB/OSCAR MOVIES",EN - Frequency (2000)
-http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/735094.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7dWkcDmttONPCd4DLDPN2vC3GZB.jpg" group-title="Movies | TOP IMDB/OSCAR MOVIES",EN - Frozen (2013)
 http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/735095.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h3iqYiGS6F3y7GxaS4AT8nFxZ2i.jpg" group-title="Movies | TOP IMDB/OSCAR MOVIES",EN - Garden State (2004)
@@ -15675,7 +15673,7 @@ http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/20559
 #EXTINF:-1 tvg-logo="" group-title="Series | |MULTI| DISNEY+ SERIES",D+ - American Born Chinese (2023)
 http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/28051
 
-# --- Series | |MULTI| NETFLIX SERIES (1115) ---
+# --- Series | |MULTI| NETFLIX SERIES (1114) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | |MULTI| NETFLIX SERIES",NF - Taskaree: The Smuggler's Web (2026) (IN)
 http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/47562
 #EXTINF:-1 tvg-logo="" group-title="Series | |MULTI| NETFLIX SERIES",NF - Land Of Sin (2026) (SE)
@@ -15968,8 +15966,6 @@ http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/1135
 http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/1136
 #EXTINF:-1 tvg-logo="" group-title="Series | |MULTI| NETFLIX SERIES",NF - Hawaii Five-0
 http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/1137
-#EXTINF:-1 tvg-logo="" group-title="Series | |MULTI| NETFLIX SERIES",NF - Chernobyl
-http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/1139
 #EXTINF:-1 tvg-logo="" group-title="Series | |MULTI| NETFLIX SERIES",NF - After Life
 http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/1140
 #EXTINF:-1 tvg-logo="" group-title="Series | |MULTI| NETFLIX SERIES",NF - AJ and the Queen
@@ -18111,4 +18107,4 @@ http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/35745
 #EXTINF:-1 tvg-logo="" group-title="Series | |RO| ROMANIAN SERIES",RO - Resident Evil: Infinite Darkness (2021)
 http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/35746
 
-# Total: 9008
+# Total: 9006

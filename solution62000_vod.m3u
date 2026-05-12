@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: solution62000.mine.nu:8000
-# Generated: 2026-05-11 08:25:47
+# Generated: 2026-05-12 20:07:19
 # Expires: 2026-12-19
 # Family Safe Edition
 # ==============================================
@@ -1023,7 +1023,7 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/13611.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ljSQgDf8rhz6HxnKUXwMvc4lgqw.jpg" group-title="Movies | Documentaires",C'Est Pas Moi (2024)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/13491.mkv
 
-# --- Movies | Enfants (55) ---
+# --- Movies | Enfants (56) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Enfants",Eden
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/77.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Enfants",Invincible
@@ -1134,6 +1134,8 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1095.mp4
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1124.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | Enfants",Les Bad Guys cassent la baraque
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1127.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | Enfants",Regular Show: The Lost Tapes
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/1147.mp4
 
 # --- Movies | FILMS TURK (4) ---
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ntfIVBxdQ3nCHddMd5egzft5CX6.jpg" group-title="Movies | FILMS TURK",Sampiyonlar (2025)
@@ -1145,7 +1147,9 @@ http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/7300.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wkUCQaXIc9qkqplDJZIuxRHLQNq.jpg" group-title="Movies | FILMS TURK",Malazgirt 1071 - 2022
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/5531.mp4
 
-# --- Movies | Films (1574) ---
+# --- Movies | Films (1575) ---
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/e7f4AKWg1xGuHO4yOGGGbo5CHHS.jpg" group-title="Movies | Films",undertone (2026)
+http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/26959.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mhRAgvQ04DTE4zQN3OSyc9Lonj3.jpg" group-title="Movies | Films",Immortal Combat (2026)
 http://solution62000.mine.nu:8000/movie/Medelle_khaled/23112017/26914.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yzMVS2PPaCj58i3Og7FgtIpMLA6.jpg" group-title="Movies | Films",L'Engloutie (2026)
@@ -7413,7 +7417,7 @@ http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1104
 #EXTINF:-1 tvg-logo="" group-title="Series | Series Turk",( 2026 ) - مترجمة Çirkin القبيحة
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1112
 
-# --- Series | Series divers (292) ---
+# --- Series | Series divers (293) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Salvation
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/5
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Gomorra
@@ -7998,5 +8002,7 @@ http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1144
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1145
 #EXTINF:-1 tvg-logo="" group-title="Series | Series divers",( 2026 ) حفرة جهنم
 http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1146
+#EXTINF:-1 tvg-logo="" group-title="Series | Series divers",Qui restera dans la lumière ?
+http://solution62000.mine.nu:8000/series/Medelle_khaled/23112017/1148
 
-# Total: 3966
+# Total: 3969

@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: fastopen.live:8080
-# Generated: 2026-05-11 20:36:54
+# Generated: 2026-05-12 20:04:57
 # Expires: 2026-12-09
 # Family Safe Edition
 # ==============================================
@@ -1445,7 +1445,9 @@ http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/3531.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ARB Kuwait",Alrai TV FHD ARB
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/82757.m3u8
 
-# --- ARB Lebanon (35) ---
+# --- ARB Lebanon (36) ---
+#EXTINF:-1 tvg-logo="" group-title="ARB Lebanon",MTV Lebanon FHD [BackUP] ARB
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/134896.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ARB Lebanon",Future TV Lebanon ARB
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/128962.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ARB Lebanon",ART Aflam 2 ARB
@@ -4140,6 +4142,8 @@ http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/24424.m3u8
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/25493.m3u8
 
 # --- Arab Countries VIP (109) ---
+#EXTINF:-1 tvg-logo="" group-title="Arab Countries VIP",RT Arabic ARB
+http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/117575.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Arab Countries VIP",Dazn 1 FHD AR VIP Arb
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/128840.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Arab Countries VIP",Dazn 1 HD AR VIP Arb
@@ -4152,8 +4156,6 @@ http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/128837.m3u8
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/128836.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Arab Countries VIP",Dazn 1 SD EN VIP Arb
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/128835.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Arab Countries VIP",RT Arabic ARB
-http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/117575.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Arab Countries VIP",Shahid VIP Live HD ARB
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/101750.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Arab Countries VIP",Shahid Series 1 HD ARB
@@ -31657,4 +31659,4 @@ http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/104838.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ex-Yu VIP",K1 HD ex-YU
 http://fastopen.live:8080/live/ArianTairi/JexIujaTrf/104749.m3u8
 
-# Total: 15721
+# Total: 15722
