@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: tvpromas.com:8080
-# Generated: 2026-05-12 20:01:29
+# Generated: 2026-05-13 08:35:21
 # Expires: 2027-02-13
 # Family Safe Edition
 # ==============================================
@@ -66,6 +66,8 @@ http://tvpromas.com:8080/live/stkandin/9301/27313.m3u8
 http://tvpromas.com:8080/live/stkandin/9301/27314.m3u8
 
 # --- ARGENTINA (46) ---
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1200_Bayres_TV.png" group-title="ARGENTINA",Bayres TV
+http://tvpromas.com:8080/live/stkandin/9301/75078.m3u8
 #EXTINF:-1 tvg-logo="https://brandlogo.org/wp-content/uploads/2025/02/A24-Logo-2025.png" group-title="ARGENTINA",A24
 http://tvpromas.com:8080/live/stkandin/9301/2339.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W3cHHNd9/lnplus.png" group-title="ARGENTINA",LN+ La Nación
@@ -156,8 +158,6 @@ http://tvpromas.com:8080/live/stkandin/9301/69570.m3u8
 http://tvpromas.com:8080/live/stkandin/9301/75233.m3u8
 #EXTINF:-1 tvg-logo="https://periodismobasavilbaso.com/wp-content/uploads/2023/05/1200px-TN_todo_noticias_logo.svg_.png" group-title="ARGENTINA",TN (Todo Noticias)
 http://tvpromas.com:8080/live/stkandin/9301/138118.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1200_Bayres_TV.png" group-title="ARGENTINA",Bayres TV
-http://tvpromas.com:8080/live/stkandin/9301/75078.m3u8
 
 # --- BOLIVIA (17) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/ATB_logo_nuevo.png" group-title="BOLIVIA",ATB
@@ -1549,7 +1549,7 @@ http://tvpromas.com:8080/live/stkandin/9301/128784.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/TLC_Logo_Germany.svg/800px-TLC_Logo_Germany.svg.png" group-title="CULTURA",Discovery TLC
 http://tvpromas.com:8080/live/stkandin/9301/128785.m3u8
 
-# --- DEPORTES (187) ---
+# --- DEPORTES (188) ---
 #EXTINF:-1 tvg-logo="https://static-assets.bamgrid.com/product/starplus/images/share-default.d72cf588f6d06cba22171f5ae44289d3.png" group-title="DEPORTES",Eventos Especiales
 http://tvpromas.com:8080/live/stkandin/9301/50562.m3u8
 #EXTINF:-1 tvg-logo="https://www.eazycityblog.com/wp-content/uploads/2016/05/Wikinews_Sports.png" group-title="DEPORTES",Eventos Deportivos Disney+
@@ -1922,6 +1922,8 @@ http://tvpromas.com:8080/live/stkandin/9301/70201.m3u8
 http://tvpromas.com:8080/live/stkandin/9301/69479.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Gol%20Classics.png" group-title="DEPORTES",Gol CLassics
 http://tvpromas.com:8080/live/stkandin/9301/138140.m3u8
+#EXTINF:-1 tvg-logo="https://www.deportestvc.com/images/brand.png" group-title="DEPORTES",DEPORTES TVC - Honduras
+http://tvpromas.com:8080/live/stkandin/9301/138148.m3u8
 #EXTINF:-1 tvg-logo="http://aovivo.club/wp-content/uploads/2019/07/bandsports.png" group-title="DEPORTES",Band Sports
 http://tvpromas.com:8080/live/stkandin/9301/5190.m3u8
 
@@ -2689,7 +2691,7 @@ http://tvpromas.com:8080/live/stkandin/9301/41514.m3u8
 #EXTINF:-1 tvg-logo="" group-title="FRANCIA",France 24 Arabic
 http://tvpromas.com:8080/live/stkandin/9301/41513.m3u8
 
-# --- HONDURAS (11) ---
+# --- HONDURAS (10) ---
 #EXTINF:-1 tvg-logo="https://d3ld16hid784z2.cloudfront.net/media/2020/02/logo-ltv-1.png" group-title="HONDURAS",LTV
 http://tvpromas.com:8080/live/stkandin/9301/6460.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/hn_cci-channel_m.png" group-title="HONDURAS",CCI CHANNEL
@@ -2710,8 +2712,6 @@ http://tvpromas.com:8080/live/stkandin/9301/6457.m3u8
 http://tvpromas.com:8080/live/stkandin/9301/6455.m3u8
 #EXTINF:-1 tvg-logo="https://www.directorio-honduras.com/base/stock/Place/2879-image/2879-image_web.jpg" group-title="HONDURAS",UNE TV
 http://tvpromas.com:8080/live/stkandin/9301/6453.m3u8
-#EXTINF:-1 tvg-logo="https://www.deportestvc.com/images/brand.png" group-title="HONDURAS",DEPORTES TVC - Honduras
-http://tvpromas.com:8080/live/stkandin/9301/137319.m3u8
 
 # --- INFANTIL (34) ---
 #EXTINF:-1 tvg-logo="https://www.ushuaiavision.com.ar/images/canales/baby_tv.png" group-title="INFANTIL",Baby TV
@@ -3958,7 +3958,7 @@ http://tvpromas.com:8080/live/stkandin/9301/128113.m3u8
 http://tvpromas.com:8080/live/stkandin/9301/128107.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png" group-title="VARIEDADES",Tele*mudo new inglat
 http://tvpromas.com:8080/live/stkandin/9301/128109.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Telemundo_logo_2012.svg/1280px-Telemundo_logo_2012.svg.png" group-title="VARIEDADES",Tele*mundo Boston
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Telemundo_logo_2012.svg/1280px-Telemundo_logo_2012.svg.png" group-title="VARIEDADES",Telemundo Boston
 http://tvpromas.com:8080/live/stkandin/9301/137318.m3u8
 #EXTINF:-1 tvg-logo="https://cordcutting.com/wp-content/uploads/2018/01/trutv-logo.png" group-title="VARIEDADES",TruTV
 http://tvpromas.com:8080/live/stkandin/9301/72867.m3u8
