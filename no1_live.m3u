@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: no1.no1turk.com:2086
-# Generated: 2026-05-12 19:59:34
+# Generated: 2026-05-14 08:30:50
 # Expires: 2026-09-21
 # Family Safe Edition
 # ==============================================
@@ -1899,19 +1899,9 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/110104.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/gy51zip.png" group-title="DE-DAZN",DE: DAZN Eurosport 2 HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/170928.m3u8
 
-# --- DE-DAZN EVENT (88) ---
+# --- DE-DAZN EVENT (83) ---
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/sl1afxl.png" group-title="DE-DAZN EVENT",##### DAZN - EVENT ######
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/179130.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/71ocqerjs64uv1xfzvb6ylzsg_image-header_pDach_1776932175000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Etappe 4 | Catanzaro - Cosenza (2026-05-12 13:30:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/183512.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1c1okid49ypui5530slsemcyf_image-header_pDach_1775805667000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Celta Vigo - Levante (2026-05-12 19:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/183513.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/cvu9a34pr0vs6pyjtkkxuuwu_image-header_pDach_1776704694000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Real Betis - Elche (2026-05-12 20:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/183514.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/e989n2lqz1yzxba4sg8wu0o1z_image-header_pDach_1776391648000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Al-Nassr - Al-Hilal (2026-05-12 20:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/183515.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/ets4nw124xhbdulhvrg78brgy_image-header_pDach_1775805824000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Osasuna - Atletico Madrid (2026-05-12 21:30:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/183516.m3u8
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/8r9k3wczpr4q8qbo3b2bn64b8_image-header_pDach_1776932175000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Etappe 5 | Praia a Mare - Potenza (2026-05-13 12:00:00)
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/183517.m3u8
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/e6sqcafbbo8dr0m0xfzczi19u_image-header_pDach_1776137973000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Brest - Straßburg (2026-05-13 19:00:00)
@@ -7141,4 +7131,4 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/165984.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/3pkpdut.png" group-title="WORLD SPORTS",beiN SPORTS 3 FHD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/165948.m3u8
 
-# Total: 3510
+# Total: 3505

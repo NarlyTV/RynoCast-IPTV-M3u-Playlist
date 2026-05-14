@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: tvpromas.com:8080
-# Generated: 2026-05-12 20:01:29
+# Generated: 2026-05-14 08:31:25
 # Expires: 2027-02-13
 # Family Safe Edition
 # ==============================================
@@ -2137,7 +2137,7 @@ http://tvpromas.com:8080/movie/stkandin/9301/137259.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ATqivj1tU15mqYYCGGutHQmopR.jpg" group-title="Movies | 2025",Red tóxica (2025)
 http://tvpromas.com:8080/movie/stkandin/9301/137423.mkv
 
-# --- Movies | 2026 (95) ---
+# --- Movies | 2026 (96) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x7EDMH4aOFM9s5BeEj3TcbMyKOS.jpg" group-title="Movies | 2026",Guepardos en primer plano con Bertie Gregory (2026)
 http://tvpromas.com:8080/movie/stkandin/9301/130532.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9SUEbyc5OUaNkGPLK3f1w3Ryoyo.jpg" group-title="Movies | 2026",Gente que conocemos en vacaciones (2026)
@@ -2326,6 +2326,8 @@ http://tvpromas.com:8080/movie/stkandin/9301/138015.mkv
 http://tvpromas.com:8080/movie/stkandin/9301/138016.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Od2J0JICLLMQfQAUbpCJg82HYg.jpg" group-title="Movies | 2026",Mi querida señorita (2026)
 http://tvpromas.com:8080/movie/stkandin/9301/138014.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/IsyXDsvsNthbtdpM4qMwop1Gwo.jpg" group-title="Movies | 2026",El Drama (2026)
+http://tvpromas.com:8080/movie/stkandin/9301/138147.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j1knvM0CSG1TWWEdgz4AVqb5CXP.jpg" group-title="Movies | 2026",El Guardián: Último refugio (2026)
 http://tvpromas.com:8080/movie/stkandin/9301/135328.mkv
 
@@ -22797,4 +22799,4 @@ http://tvpromas.com:8080/series/stkandin/9301/2579
 #EXTINF:-1 tvg-logo="" group-title="Series | TELESERIES",Hermanas, un amor compartido
 http://tvpromas.com:8080/series/stkandin/9301/2580
 
-# Total: 11363
+# Total: 11364
