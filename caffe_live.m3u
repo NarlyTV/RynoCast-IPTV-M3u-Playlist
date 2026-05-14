@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: caffe.link:25461
-# Generated: 2026-05-13 20:16:19
+# Generated: 2026-05-14 08:40:37
 # Expires: 2026-05-29
 # Family Safe Edition
 # ==============================================
@@ -437,7 +437,7 @@ http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1531.m3u8
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Sky-Cinema-Select-logo.png" group-title="Deutsch",Selekt 8
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1530.m3u8
 
-# --- Doku & Style (35) ---
+# --- Doku & Style (34) ---
 #EXTINF:-1 tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/national_geographic_logo.png" group-title="Doku & Style",National Geographic
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1404.m3u8
 #EXTINF:-1 tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/national_geographic_logo.png" group-title="Doku & Style",National Geographic (backup)
@@ -464,8 +464,6 @@ http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/118794.m3u8
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1400.m3u8
 #EXTINF:-1 tvg-logo="http://5.189.149.253/logo/Dokumentarni/ViasatNature.png" group-title="Doku & Style",Viasat Nature
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1396.m3u8
-#EXTINF:-1 tvg-logo="http://5.189.149.253/logo/Dokumentarni/ViasatHistory.png" group-title="Doku & Style",Viasat History
-http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1399.m3u8
 #EXTINF:-1 tvg-logo="http://5.189.149.253/logo/Dokumentarni/AnimalPlanet.png" group-title="Doku & Style",Animal Planet
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1394.m3u8
 #EXTINF:-1 tvg-logo="http://5.189.149.253/logo/Dokumentarni/LoviRibolov.png" group-title="Doku & Style",Lov i Ribolov
@@ -1085,7 +1083,7 @@ http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/3719.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x64/4/img/kanali-logo/hbo-logo.png" group-title="Slovenija",Slovenija | HBO 1
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/14517.m3u8
 
-# --- Sport (199) ---
+# --- Sport (198) ---
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/SK_HD_RS_logo.png" group-title="Sport",SK HD
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/4731.m3u8
 #EXTINF:-1 tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/SK1_HR_logo.png" group-title="Sport",SK 1
@@ -1256,8 +1254,6 @@ http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/10177.m3u8
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/5817.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Sportdigital_Fussball_logo.png?1717681509" group-title="Sport",DAZN SportDigital Fussball
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/118764.m3u8
-#EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/BT_Sport_1_logo.png" group-title="Sport",BSport 1 HD
-http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1491.m3u8
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/BT_Sport_Europe-logo.png" group-title="Sport",BSport 2 HD
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/1490.m3u8
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/BT_Sport_Europe-logo.png" group-title="Sport",BSport 3 HD
@@ -1723,4 +1719,4 @@ http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/79256.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Švicarska",CH: TELE 1 HD
 http://caffe.link:25461/live/Anerroditelji/TGCZeJBZz5Bf/7382.m3u8
 
-# Total: 835
+# Total: 833

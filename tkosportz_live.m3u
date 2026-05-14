@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: tkosportz.live:25461
-# Generated: 2026-05-13 20:19:17
+# Generated: 2026-05-14 08:28:39
 # Expires: 2026-06-09
 # Family Safe Edition
 # ==============================================
@@ -18101,7 +18101,7 @@ http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/217927.m3u8
 #EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/NCAA_logo-1.png" group-title="26.2 NCAA FOOTBALL (ET)",06.
 http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/217928.m3u8
 
-# --- 27. WNBA (10) ---
+# --- 27. WNBA (12) ---
 #EXTINF:-1 tvg-logo="http://onlytimewilltell.xyz:2086/images/2be358c7e07f14efc350f6de5d15f993.png" group-title="27. WNBA",US : WNBA NEW YORK LIBERTY
 http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/102925.m3u8
 #EXTINF:-1 tvg-logo="http://onlytimewilltell.xyz:2086/images/00a9c6d50f1086d74084bcac75b17c1e.png" group-title="27. WNBA",PHOENIX MERCURY
@@ -18122,6 +18122,10 @@ http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/102918.m3u8
 http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/102920.m3u8
 #EXTINF:-1 tvg-logo="" group-title="27. WNBA",PORTLAND FIRE
 http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/240989.m3u8
+#EXTINF:-1 tvg-logo="" group-title="27. WNBA",Golden State Valkyries
+http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/241006.m3u8
+#EXTINF:-1 tvg-logo="http://onlytimewilltell.xyz:2086/images/7486b37a087e0b0a16a62496dbb27dad.png" group-title="27. WNBA",US : WNBA LOS ANGELES SPARKS
+http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/102923.m3u8
 
 # --- 27.1 NBA TEAM FEEDS (36) ---
 #EXTINF:-1 tvg-logo="http://onlytimewilltell.xyz:2086/images/1ae01d064c6cd7dff0de9d2572ef8265.png" group-title="27.1 NBA TEAM FEEDS",US : NBA ATLANTA HAWKS
@@ -18188,7 +18192,7 @@ http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/99277.m3u8
 http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/208214.m3u8
 #EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2025/10/nbatvHD.png" group-title="27.1 NBA TEAM FEEDS",02. The NBA Channel
 http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/218397.m3u8
-#EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2025/10/nbatvHD.png" group-title="27.1 NBA TEAM FEEDS",03. PLAYOFF CHANNEL
+#EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2025/10/nbatvHD.png" group-title="27.1 NBA TEAM FEEDS",03. PLAYOFF CHANNEL Cleveland @ Detroit
 http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/218810.m3u8
 #EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2025/10/nbatvHD.png" group-title="27.1 NBA TEAM FEEDS",05. PLAYOFF CHANNEL
 http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/219052.m3u8
@@ -18645,4 +18649,4 @@ http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/191009.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/Red_Noticias2019.png/revision/latest/scale-to-width-down/274?cb=20210424015309&path-prefix=es" group-title="37. COLUMBIA",CO: Red+ Noticias FHD
 http://tkosportz.live:25461/live/7ZqLNT55bg/MPbYZEULdx/191010.m3u8
 
-# Total: 9290
+# Total: 9292

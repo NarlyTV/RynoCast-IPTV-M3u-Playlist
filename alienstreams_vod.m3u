@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: alienstreams.fi:8080
-# Generated: 2026-05-13 20:11:21
+# Generated: 2026-05-14 08:38:08
 # Expires: 2026-12-29
 # Family Safe Edition
 # ==============================================
@@ -19186,6 +19186,8 @@ http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/405122
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/403526
 
 # --- Series | Svenska Serier [Series] (302) ---
+#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Fångat på polisens kamera
+http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/477209
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Sveriges Mästerkock
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/489940
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Renoveringsdrömmar
@@ -19226,8 +19228,6 @@ http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/481827
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/496816
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Masked Singer Sverige
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/498355
-#EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Fångat på polisens kamera
-http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/477209
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Dips
 http://alienstreams.fi:8080/series/asdfasdf/asdfasdf/500671
 #EXTINF:-1 tvg-logo="" group-title="Series | Svenska Serier [Series]",Bytt är bytt

@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: squid.game-tv.org:8080
-# Generated: 2026-05-13 20:13:55
+# Generated: 2026-05-14 08:27:45
 # Expires: 2026-10-17
 # Family Safe Edition
 # ==============================================
@@ -7371,7 +7371,11 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/10776.mp
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/2Abt2GgscAGtGAXTrhH44qPhugI.jpg" group-title="Movies | Filme 2025",Dark Nuns (2025)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/25035.mp4
 
-# --- Movies | Filme 2026 (117) ---
+# --- Movies | Filme 2026 (119) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u3KvJf9QMQpDtdZaQUUszON4qjm.jpg" group-title="Movies | Filme 2026",The Roast of Kevin Hart - 2026
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/70165.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gOggsBCSypNXq0yApYeXe7nnopT.jpg" group-title="Movies | Filme 2026",The Punisher: One Last Kill - 2026
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/70164.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A188B94iDLdB6499QBYbz74WgOF.jpg" group-title="Movies | Filme 2026",The Big Fake - 2025
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/70073.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tHhxWxge06goXU6ZQH1hj7vK8Hd.jpg" group-title="Movies | Filme 2026",Swapped - 2026
@@ -18031,6 +18035,10 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/48.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | M.A.S.H",M*A*S*H
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/561.mp4
 
+# --- Movies | MIA (1) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | MIA",M.I.A. (2026)
+http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1269.mp4
+
 # --- Movies | Mad Unicorn (1) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | Mad Unicorn",Mad Unicorn (2025)
 http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/1239.mp4
@@ -20639,4 +20647,4 @@ http://squid.game-tv.org:8080/movie/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/383.mp4
 #EXTINF:-1 tvg-logo="" group-title="Series | A Series of Unfortunate Events",A Series of Unfortunate Events
 http://squid.game-tv.org:8080/series/MaguranMihai/ZGvEr99PGpZKvlUQW4FN1t/276
 
-# Total: 9022
+# Total: 9025

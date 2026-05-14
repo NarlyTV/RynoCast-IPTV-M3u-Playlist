@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: pedro00.net:88
-# Generated: 2026-05-13 20:10:20
+# Generated: 2026-05-14 08:27:06
 # Expires: 2027-02-10
 # Family Safe Edition
 # ==============================================
@@ -1081,7 +1081,11 @@ http://pedro00.net:88/movie/4D3tNcx1MedRPSI/qf6lp0i4c4MQXYU/860094.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/12Va3oO3oYUdOd75zM57Nx1976a.jpg" group-title="Movies | |MULTI| DISNEY+ MOVIES",MULTI | Eenie Meanie (2025)
 http://pedro00.net:88/movie/4D3tNcx1MedRPSI/qf6lp0i4c4MQXYU/917535.mkv
 
-# --- Movies | |MULTI| HBO MAX (126) ---
+# --- Movies | |MULTI| HBO MAX (128) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fPtUgMcLIboqlTlPrq0bQpKK8eq.jpg" group-title="Movies | |MULTI| HBO MAX",|MULTI| The Menu (2022)
+http://pedro00.net:88/movie/4D3tNcx1MedRPSI/qf6lp0i4c4MQXYU/2156789.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/1T0kO1cgR430AC9I6jurMOezKwg.jpg" group-title="Movies | |MULTI| HBO MAX",|MULTI| The Rats: A Witcher Tale (2025)
+http://pedro00.net:88/movie/4D3tNcx1MedRPSI/qf6lp0i4c4MQXYU/2156788.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/3YBce6dTh1D5oCMITXk2S5QhPt.jpg" group-title="Movies | |MULTI| HBO MAX",|MULTI| "Wuthering Heights" (2026)
 http://pedro00.net:88/movie/4D3tNcx1MedRPSI/qf6lp0i4c4MQXYU/2156595.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oCoTgC3UyWGfyQ9thE10ulWR7bn.jpg" group-title="Movies | |MULTI| HBO MAX",|MULTI| Companion (2025)
@@ -2993,4 +2997,4 @@ http://pedro00.net:88/movie/4D3tNcx1MedRPSI/qf6lp0i4c4MQXYU/1913675.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q8pF6s9b9veTQvxTqMDIQf9nJKi.jpg" group-title="Movies | |VOD-FR| 4K HDR | SDR",||FR|| Thor (2011)
 http://pedro00.net:88/movie/4D3tNcx1MedRPSI/qf6lp0i4c4MQXYU/1913674.mkv
 
-# Total: 1483
+# Total: 1485
