@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: cord-cutter.net:8080
-# Generated: 2026-05-14 08:28:41
+# Generated: 2026-05-15 08:26:11
 # Expires: 2026-10-23
 # Family Safe Edition
 # ==============================================
@@ -4667,7 +4667,7 @@ http://cord-cutter.net:8080/movie/315gBa/253680/256268.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wm8vkpJmY7UbUXME8lXkxqIalX6.jpg" group-title="Movies | 2024 Movies",Lake Jesup: Bonecrusher's Revenge (2024)
 http://cord-cutter.net:8080/movie/315gBa/253680/256269.mp4
 
-# --- Movies | 2025 MOVIES (1027) ---
+# --- Movies | 2025 MOVIES (1031) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/32NWI8EEJo8os5rHzhXE0dMYIqG.jpg" group-title="Movies | 2025 MOVIES",Laws of Man (2025)
 http://cord-cutter.net:8080/movie/315gBa/253680/222977.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcSJHAVNZSbqaoOHduKesZ01Wfj.jpg" group-title="Movies | 2025 MOVIES",Sunray: Fallen Soldier (2025)
@@ -6722,6 +6722,14 @@ http://cord-cutter.net:8080/movie/315gBa/253680/267040.mp4
 http://cord-cutter.net:8080/movie/315gBa/253680/267041.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/abdw51gf1oy3UWllAwqGl6WdkiS.jpg" group-title="Movies | 2025 MOVIES",The President's Cake (2025)
 http://cord-cutter.net:8080/movie/315gBa/253680/267042.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | 2025 MOVIES",Charlie the Wonderdog (2025)
+http://cord-cutter.net:8080/movie/315gBa/253680/321605.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | 2025 MOVIES",Couples.Weekend.2025.720p.WEBRip.x264.AAC-[YTS.BZ]
+http://cord-cutter.net:8080/movie/315gBa/253680/321606.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | 2025 MOVIES",Dr..Q.2025.720p.WEBRip.x264.AAC-[YTS.BZ]
+http://cord-cutter.net:8080/movie/315gBa/253680/321607.mp4
+#EXTINF:-1 tvg-logo="None" group-title="Movies | 2025 MOVIES",Pizza Under Fire (2025)
+http://cord-cutter.net:8080/movie/315gBa/253680/321608.mp4
 
 # --- Movies | 2026 Movies (236) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cfQ4JLfoACcjGIqm0AQB98IwwwN.jpg" group-title="Movies | 2026 Movies",Little Flowers (2026)
@@ -29279,4 +29287,4 @@ http://cord-cutter.net:8080/series/315gBa/253680/2364
 #EXTINF:-1 tvg-logo="" group-title="Series | All Series",Marvel's The Punisher
 http://cord-cutter.net:8080/series/315gBa/253680/2365
 
-# Total: 14579
+# Total: 14583

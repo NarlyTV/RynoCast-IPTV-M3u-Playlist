@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: zikri.xtpold.com
-# Generated: 2026-05-11 20:43:38
+# Generated: 2026-05-15 08:33:25
 # Expires: 2027-02-18
 # Family Safe Edition
 # ==============================================
@@ -9453,7 +9453,7 @@ http://zikri.xtpold.com/live/eu1913/7475mht/513.m3u8
 #EXTINF:-1 tvg-logo="http://uyduturk.net/logos/sifir.jpg" group-title="TR► Spor",TR Sıfır Tv
 http://zikri.xtpold.com/live/eu1913/7475mht/106421.m3u8
 
-# --- TR► Ulusal (24) ---
+# --- TR► Ulusal (25) ---
 #EXTINF:-1 tvg-logo="http://uyduturk.net/logos/trt1hd.png" group-title="TR► Ulusal",TR Trt 1
 http://zikri.xtpold.com/live/eu1913/7475mht/63.m3u8
 #EXTINF:-1 tvg-logo="http://uyduturk.net/logos/trt1hd.png" group-title="TR► Ulusal",TR Trt 1 FHD
@@ -9496,6 +9496,8 @@ http://zikri.xtpold.com/live/eu1913/7475mht/18932.m3u8
 http://zikri.xtpold.com/live/eu1913/7475mht/543.m3u8
 #EXTINF:-1 tvg-logo="http://uyduturk.net/logos/tlchd.png" group-title="TR► Ulusal",TR TLC
 http://zikri.xtpold.com/live/eu1913/7475mht/1704.m3u8
+#EXTINF:-1 tvg-logo="http://uyduturk.net/logos/tv4_tr.png" group-title="TR► Ulusal",TR Tv4
+http://zikri.xtpold.com/live/eu1913/7475mht/111798.m3u8
 #EXTINF:-1 tvg-logo="http://uyduturk.net/logos/trtokul.png" group-title="TR► Ulusal",TR Trt Eba Tv Ilkokul HD
 http://zikri.xtpold.com/live/eu1913/7475mht/28706.m3u8
 #EXTINF:-1 tvg-logo="http://uyduturk.net/logos/trtokul.png" group-title="TR► Ulusal",TR Trt Eba Tv Ortaokul HD
@@ -10283,4 +10285,4 @@ http://zikri.xtpold.com/live/eu1913/7475mht/67884.m3u8
 #EXTINF:-1 tvg-logo="" group-title="US► U.S.A.",US: TLC EAST
 http://zikri.xtpold.com/live/eu1913/7475mht/67883.m3u8
 
-# Total: 5101
+# Total: 5102
