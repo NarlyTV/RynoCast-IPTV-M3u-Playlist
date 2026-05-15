@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: pedro00.net:88
-# Generated: 2026-05-14 08:27:06
+# Generated: 2026-05-15 19:51:52
 # Expires: 2027-02-10
 # Family Safe Edition
 # ==============================================
@@ -1411,7 +1411,9 @@ http://pedro00.net:88/movie/4D3tNcx1MedRPSI/qf6lp0i4c4MQXYU/860114.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eAIGX0nlwlb5sMb4uDRGNFqMyG9.jpg" group-title="Movies | |MULTI| MARVEL",|FR| Thor : Le Monde des ténèbres (2013)
 http://pedro00.net:88/movie/4D3tNcx1MedRPSI/qf6lp0i4c4MQXYU/860115.mkv
 
-# --- Movies | |MULTI| NETFLIX (615) ---
+# --- Movies | |MULTI| NETFLIX (616) ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/wfuqMlaExcoYiUEvKfVpUTt1v4u.jpg" group-title="Movies | |MULTI| NETFLIX",|MULTI| GOAT (2026)
+http://pedro00.net:88/movie/4D3tNcx1MedRPSI/qf6lp0i4c4MQXYU/2158933.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/u3KvJf9QMQpDtdZaQUUszON4qjm.jpg" group-title="Movies | |MULTI| NETFLIX",|MULTI| The Roast of Kevin Hart (2026)
 http://pedro00.net:88/movie/4D3tNcx1MedRPSI/qf6lp0i4c4MQXYU/2156759.mkv
 #EXTINF:-1 tvg-logo="None" group-title="Movies | |MULTI| NETFLIX",|MULTI| The Bus: A French Football Mutiny (2026)
@@ -2997,4 +2999,4 @@ http://pedro00.net:88/movie/4D3tNcx1MedRPSI/qf6lp0i4c4MQXYU/1913675.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q8pF6s9b9veTQvxTqMDIQf9nJKi.jpg" group-title="Movies | |VOD-FR| 4K HDR | SDR",||FR|| Thor (2011)
 http://pedro00.net:88/movie/4D3tNcx1MedRPSI/qf6lp0i4c4MQXYU/1913674.mkv
 
-# Total: 1485
+# Total: 1486

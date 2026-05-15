@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: izle.superhd.eu:80
-# Generated: 2026-05-11 20:29:42
+# Generated: 2026-05-15 19:46:09
 # Expires: 2026-09-21
 # Family Safe Edition
 # ==============================================
@@ -2451,7 +2451,27 @@ http://izle.superhd.eu:80/live/emraherdem/7v43y8zcr5/356140.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AT-AUSTRIA",AT: Xplore
 http://izle.superhd.eu:80/live/emraherdem/7v43y8zcr5/356139.m3u8
 
-# --- AZ-AZERBAYCAN (16) ---
+# --- AZ-AZERBAYCAN (26) ---
+#EXTINF:-1 tvg-logo="" group-title="AZ-AZERBAYCAN",AZ: Music Azerbaijan
+http://izle.superhd.eu:80/live/emraherdem/7v43y8zcr5/359780.m3u8
+#EXTINF:-1 tvg-logo="" group-title="AZ-AZERBAYCAN",AZ: ARB 24
+http://izle.superhd.eu:80/live/emraherdem/7v43y8zcr5/359779.m3u8
+#EXTINF:-1 tvg-logo="" group-title="AZ-AZERBAYCAN",AZ: CBC
+http://izle.superhd.eu:80/live/emraherdem/7v43y8zcr5/359778.m3u8
+#EXTINF:-1 tvg-logo="" group-title="AZ-AZERBAYCAN",AZ: EL TV
+http://izle.superhd.eu:80/live/emraherdem/7v43y8zcr5/359777.m3u8
+#EXTINF:-1 tvg-logo="" group-title="AZ-AZERBAYCAN",AZ: GünAz TV
+http://izle.superhd.eu:80/live/emraherdem/7v43y8zcr5/359776.m3u8
+#EXTINF:-1 tvg-logo="" group-title="AZ-AZERBAYCAN",AZ: Muz TV
+http://izle.superhd.eu:80/live/emraherdem/7v43y8zcr5/359775.m3u8
+#EXTINF:-1 tvg-logo="" group-title="AZ-AZERBAYCAN",AZ: Setanta Sports 1
+http://izle.superhd.eu:80/live/emraherdem/7v43y8zcr5/359774.m3u8
+#EXTINF:-1 tvg-logo="" group-title="AZ-AZERBAYCAN",AZ: Setanta Sports 2
+http://izle.superhd.eu:80/live/emraherdem/7v43y8zcr5/359773.m3u8
+#EXTINF:-1 tvg-logo="" group-title="AZ-AZERBAYCAN",AZ: Son Umid TV
+http://izle.superhd.eu:80/live/emraherdem/7v43y8zcr5/359772.m3u8
+#EXTINF:-1 tvg-logo="" group-title="AZ-AZERBAYCAN",AZ: Vostok TV
+http://izle.superhd.eu:80/live/emraherdem/7v43y8zcr5/359771.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AZ-AZERBAYCAN",AZ: CBC Sport
 http://izle.superhd.eu:80/live/emraherdem/7v43y8zcr5/228080.m3u8
 #EXTINF:-1 tvg-logo="" group-title="AZ-AZERBAYCAN",AZ: Xazar TV
@@ -10513,4 +10533,4 @@ http://izle.superhd.eu:80/live/emraherdem/7v43y8zcr5/49032.m3u8
 #EXTINF:-1 tvg-logo="" group-title="YABANCI MUZIK",TR: KONSERLER
 http://izle.superhd.eu:80/live/emraherdem/7v43y8zcr5/240402.m3u8
 
-# Total: 5210
+# Total: 5220
