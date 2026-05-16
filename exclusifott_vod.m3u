@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: exclusifott.pro:80
-# Generated: 2026-05-15 19:47:52
+# Generated: 2026-05-16 19:03:52
 # Expires: 2026-05-21
 # Family Safe Edition
 # ==============================================
@@ -9689,7 +9689,9 @@ http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/20551.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | |MULTI| DISNEY+ KIDS",D+ - Cars On The Road (2022)
 http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/20553.mp4
 
-# --- Movies | |MULTI| NETFLIX ASIA (349) ---
+# --- Movies | |MULTI| NETFLIX ASIA (350) ---
+#EXTINF:-1 tvg-logo="" group-title="Movies | |MULTI| NETFLIX ASIA",NF - The WONDERfools (2026) (KR) (MULTI)
+http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/49423.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | |MULTI| NETFLIX ASIA",NF - Dandelion (2026) (JP)
 http://exclusifott.pro:80/movie/121aad2b72/6ea3277f177a/48954.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | |MULTI| NETFLIX ASIA",EN - Had I Not Seen The Sun (2025) (TW) (MULTI SUB)
@@ -18107,4 +18109,4 @@ http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/35745
 #EXTINF:-1 tvg-logo="" group-title="Series | |RO| ROMANIAN SERIES",RO - Resident Evil: Infinite Darkness (2021)
 http://exclusifott.pro:80/series/121aad2b72/6ea3277f177a/35746
 
-# Total: 9006
+# Total: 9007

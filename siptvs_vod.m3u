@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: siptvs.com:8080
-# Generated: 2026-05-16 08:12:10
+# Generated: 2026-05-16 19:15:04
 # Expires: 2026-05-16
 # Family Safe Edition
 # ==============================================
@@ -11603,7 +11603,7 @@ http://siptvs.com:8080/movie/Biljana12/Biljana12/191685.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wtHxoL3zFjIrjZBCGlRTb8ao1IW.jpg" group-title="Movies | |DE| SCI-FI / FANTASY",Thor (2011)
 http://siptvs.com:8080/movie/Biljana12/Biljana12/202821.mkv
 
-# --- Movies | |DE| SERIEN (766) ---
+# --- Movies | |DE| SERIEN (775) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | |DE| SERIEN",Dragonball
 http://siptvs.com:8080/movie/Biljana12/Biljana12/11.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | |DE| SERIEN",Dragonball Z Kai
@@ -13136,6 +13136,24 @@ http://siptvs.com:8080/movie/Biljana12/Biljana12/2481.mp4
 http://siptvs.com:8080/movie/Biljana12/Biljana12/2483.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | |DE| SERIEN",DE: Doc (2025)
 http://siptvs.com:8080/movie/Biljana12/Biljana12/2484.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | |DE| SERIEN",DE: ZeroZeroZero (2020)
+http://siptvs.com:8080/movie/Biljana12/Biljana12/2509.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | |DE| SERIEN",DE: Britannia (2018)
+http://siptvs.com:8080/movie/Biljana12/Biljana12/2510.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | |DE| SERIEN",DE: Euphoria (2019)
+http://siptvs.com:8080/movie/Biljana12/Biljana12/2511.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | |DE| SERIEN",DE: Private Eyes (2016)
+http://siptvs.com:8080/movie/Biljana12/Biljana12/2512.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | |DE| SERIEN",DE: Love Story (2026)
+http://siptvs.com:8080/movie/Biljana12/Biljana12/2513.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | |DE| SERIEN",DE: Accused (2023)
+http://siptvs.com:8080/movie/Biljana12/Biljana12/2514.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | |DE| SERIEN",DE: The Man Who Fell to Earth (2022)
+http://siptvs.com:8080/movie/Biljana12/Biljana12/2515.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | |DE| SERIEN",DE: Matlock (2024)
+http://siptvs.com:8080/movie/Biljana12/Biljana12/2516.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | |DE| SERIEN",DE: Rebel (2021)
+http://siptvs.com:8080/movie/Biljana12/Biljana12/2517.mp4
 
 # --- Movies | |DE| THRILLER (20) ---
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dYNuJd1vHOtHyeKoO87ehsGpBva.jpg" group-title="Movies | |DE| THRILLER",Nomis - Die Nacht des Jägers (2019)
@@ -34789,4 +34807,4 @@ http://siptvs.com:8080/movie/Biljana12/Biljana12/179055.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c44zM4fWJ55ImcEnqf7UL4dsCSB.jpg" group-title="Movies | |MU| MUSIC/CONCERTE",Avicii - Mein letztes Konzert (2024)
 http://siptvs.com:8080/movie/Biljana12/Biljana12/181880.mkv
 
-# Total: 17328
+# Total: 17337

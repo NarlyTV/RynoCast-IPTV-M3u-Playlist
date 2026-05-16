@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: no1.no1turk.com:2086
-# Generated: 2026-05-16 08:13:35
+# Generated: 2026-05-16 19:07:29
 # Expires: 2026-09-21
 # Family Safe Edition
 # ==============================================
@@ -1899,17 +1899,9 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/110104.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/gy51zip.png" group-title="DE-DAZN",DE: DAZN Eurosport 2 HD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/170928.m3u8
 
-# --- DE-DAZN EVENT (65) ---
+# --- DE-DAZN EVENT (61) ---
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/sl1afxl.png" group-title="DE-DAZN EVENT",##### DAZN - EVENT ######
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/179130.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/d5a8szg3keveudpxk9692w3f6_image-header_pDach_1776932175000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Etappe 7 | Formia - Blockhaus (2026-05-15 10:30:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/183535.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/dv2xkiz0p4wvari7pindxk5gc_image-header_pDach_1776171337000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Freestyle Friday | 15. Mai (2026-05-15 16:45:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/183536.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/hzovgq74ezxu1p6rzz1unhdby_image-header_pDach_1778158455000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Allen vs. Hrgovic: Weigh-In (2026-05-15 18:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/183537.m3u8
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/393p10m1843m1ip8bp4wcsax2_image-header_pDach_1778152804000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Davis vs. Albright 2: Weigh-In (2026-05-15 19:00:00)
-http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/183538.m3u8
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/91e272ejtjl13jukacb72k57u_image-header_pDach_1776932175000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Etappe 8 | Chieti - Fermo (2026-05-16 13:00:00)
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/183539.m3u8
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/bvakint0x64xecxt708pph4x_image-header_pDach_1777539589000/fill/none/top/none/85/668/374/logos/dazn.png" group-title="DE-DAZN EVENT",Celtic - Hearts (2026-05-16 13:30:00)
@@ -7095,4 +7087,4 @@ http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/165984.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/3pkpdut.png" group-title="WORLD SPORTS",beiN SPORTS 3 FHD
 http://no1.no1turk.com:2086/live/T.Tarkan/DKiQCHhmAo/165948.m3u8
 
-# Total: 3487
+# Total: 3483
