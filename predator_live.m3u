@@ -1,13 +1,13 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: predator.digital:8080
-# Generated: 2026-05-15 19:48:03
+# Generated: 2026-05-16 19:10:36
 # Expires: 2026-08-08
 # Family Safe Edition
 # ==============================================
 
 
-# --- Austria (165) ---
+# --- Austria (154) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/640px-Flag_of_Austria.svg.png" group-title="Austria",========Austria========
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/84955.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Austria",AT: ORF 1 HD
@@ -38,20 +38,14 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/85306.m3u8
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/85228.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Austria",AT: ONE HD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/85244.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Austria",AT: RTL Austria
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/85213.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Austria",AT: RTL HD Austria
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/85211.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Austria",AT: RTLZWEI HD Austria
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/85206.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Austria",AT: ProSieben
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/85227.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Austria",AT: ProSieben FUN HD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/85226.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Austria",AT: ProSieben HD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/85225.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Austria",AT: ProSieben Maxx
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/85224.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Austria",AT: ProSieben Maxx HD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/85223.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Austria",AT: VOX HD Austria
@@ -104,10 +98,6 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/85276.m3u8
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/85275.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Austria",AT: Kinowelt TV HD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/85274.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Austria",AT: Super RTL
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/85149.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Austria",AT: Super RTL HD
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/85148.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Austria",AT: SyFy HD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/85147.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Austria",AT: Tagesschau 24 HD
@@ -154,8 +144,6 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/85264.m3u8
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/85263.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Austria",AT: Motorvision HD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/85262.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Austria",AT: MTV HD
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/85261.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Austria",AT: MTV HD Austria
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/85260.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Austria",AT: n-tv HD
@@ -174,18 +162,10 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/85254.m3u8
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/85302.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Austria",AT: Cartoon Network HD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/85300.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Austria",AT: Nick
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/85253.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Austria",AT: Nickelodeon Austria
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/85252.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Austria",AT: Nick HD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/85251.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Austria",AT: Nick Jr.
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/85250.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Austria",AT: Nick Junior
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/85249.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Austria",AT: Disney Channel
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/85134.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Austria",AT: NITRO Austria
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/85248.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Austria",AT: ntv HD
@@ -194,8 +174,6 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/85247.m3u8
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/85246.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Austria",AT: Okto HD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/85245.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Austria",AT: PULS 4 HD
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/85221.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Austria",AT: PULS24 HD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/85220.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Austria",AT: QVC 2 HD
@@ -911,7 +889,7 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/17433.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Denmark",DK: TV 2 Sport X HD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/17425.m3u8
 
-# --- Deutschland (336) ---
+# --- Deutschland (335) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/1920px-Flag_of_Germany.svg.png" group-title="Deutschland",========Deutschland ========
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/12489.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: Das Erste FHD RAW
@@ -920,7 +898,7 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/36880.m3u8
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/11735.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: ARD One HD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/22090.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: ZDF FHD RAW
+#EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: ZDF  RAW
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/36881.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: ZDF HD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/11737.m3u8
@@ -1122,8 +1100,6 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/11801.m3u8
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/47326.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: 13th Street FHD SAT
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/11788.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: Sky Replay FHD SAT
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/11789.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: AXN Black HD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/11794.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: AXN White FHD
@@ -1154,7 +1130,7 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/78797.m3u8
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/79175.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: Sky Cinema Premieren FHD SAT
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/11810.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: Sky cinema Best Of FHD SAT
+#EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: Sky cinema Highlights
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/11820.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: Sky Cinema Special FHD SAT
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/11812.m3u8
@@ -5240,9 +5216,9 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/12496.m3u8
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/21583.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Türkey",TR: TRT TURK
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/21584.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Türkey",TR: TRT 1 FHD RAW
+#EXTINF:-1 tvg-logo="" group-title="Türkey",TR: TRT 1
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/21585.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Türkey",TR: TRT 2 HD
+#EXTINF:-1 tvg-logo="" group-title="Türkey",TR: TRT 2
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/21586.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Türkey",TR: HABER TURK
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/21572.m3u8
@@ -9057,4 +9033,4 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/13200.m3u8
 #EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: Real Madrid Tv
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/62225.m3u8
 
-# Total: 4498
+# Total: 4486

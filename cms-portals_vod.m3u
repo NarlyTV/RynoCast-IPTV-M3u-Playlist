@@ -1,7 +1,7 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: cms-portals.com:80
-# Generated: 2026-05-15 19:52:11
+# Generated: 2026-05-16 19:03:46
 # Expires: 2026-05-22
 # Family Safe Edition
 # ==============================================
@@ -4037,7 +4037,15 @@ http://cms-portals.com:80/movie/norveska2/5q4bSDvhzT/13432.mp4
 #EXTINF:-1 tvg-logo="http://85.14.243.71/images/220px-Den_of_thieves_two_pantera_ver2.jpg" group-title="Movies | VIDEOTEKA 2025",Den of Thieves 2: Pantera (2025)
 http://cms-portals.com:80/movie/norveska2/5q4bSDvhzT/13433.mp4
 
-# --- Movies | VIDEOTEKA 2026 (50) ---
+# --- Movies | VIDEOTEKA 2026 (54) ---
+#EXTINF:-1 tvg-logo="http://195.201.245.177:2451/img-proxy?url=http://195.201.245.177:2451/img-proxy?url=https://d32qys9a6wm9no.cloudfront.net/images/movies/poster/jNd1deN24LIFywMl0FWiSMBe7voR8MYF_300x442.jpg?t=1772454521" group-title="Movies | VIDEOTEKA 2026",Beast (2026)
+http://cms-portals.com:80/movie/norveska2/5q4bSDvhzT/13800.mp4
+#EXTINF:-1 tvg-logo="http://195.201.245.177:2451/img-proxy?url=https://m.media-amazon.com/images/M/MV5BMGJlZjY2ZGMtYjY0Ny00MTFmLTg0YTItM2MzYTQ4ZGNjMzkxXkEyXkFqcGc@._V1_.jpg" group-title="Movies | VIDEOTEKA 2026",Faces of Death (2026)
+http://cms-portals.com:80/movie/norveska2/5q4bSDvhzT/13801.mp4
+#EXTINF:-1 tvg-logo="http://195.201.245.177:2451/img-proxy?url=https://m.media-amazon.com/images/M/MV5BZDQwNDU4ODQtZTBjMi00ZGU3LWEyZmItODg4YmQzMzRiODUzXkEyXkFqcGc@._V1_.jpg" group-title="Movies | VIDEOTEKA 2026",Kraken (2026)
+http://cms-portals.com:80/movie/norveska2/5q4bSDvhzT/13802.mp4
+#EXTINF:-1 tvg-logo="http://195.201.245.177:2451/img-proxy?url=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRzCCv3otkHcltlFhtOqzq4F-oj5lvTQlBVg&s" group-title="Movies | VIDEOTEKA 2026",Super Mario Galaxy Film (2026)
+http://cms-portals.com:80/movie/norveska2/5q4bSDvhzT/13803.mp4
 #EXTINF:-1 tvg-logo="http://195.201.245.177:2451/img-proxy?url=http://195.201.245.177:2451/img-proxy?url=https://m.media-amazon.com/images/M/MV5BNDQwODBiM2YtZTg4OS00OGI2LWE2NWEtNjBkMGVmMjM1YTI0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Movies | VIDEOTEKA 2026",No Ordinary Heist (2026)
 http://cms-portals.com:80/movie/norveska2/5q4bSDvhzT/13790.mp4
 #EXTINF:-1 tvg-logo="http://195.201.245.177:2451/img-proxy?url=http://195.201.245.177:2451/img-proxy?url=https://m.media-amazon.com/images/M/MV5BMTcwOGZhYmItYTg3ZS00NjUwLWJiMmQtMjU5YjEwYWY0NmNkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Movies | VIDEOTEKA 2026",The Drama (2026)
@@ -4139,4 +4147,4 @@ http://cms-portals.com:80/movie/norveska2/5q4bSDvhzT/13658.mp4
 #EXTINF:-1 tvg-logo="http://195.201.245.177:2451/img-proxy?url=https://upload.wikimedia.org/wikipedia/en/4/43/Mercy_2026_poster.jpeg" group-title="Movies | VIDEOTEKA 2026",Mercy (2026)
 http://cms-portals.com:80/movie/norveska2/5q4bSDvhzT/13660.mp4
 
-# Total: 2050
+# Total: 2054
