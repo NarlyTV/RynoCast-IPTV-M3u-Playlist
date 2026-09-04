@@ -1,13 +1,13 @@
 #EXTM3U
 # VOD (Movies+Series) Playlist - Clean & Safe
 # Host: cdn4k.us:80
-# Generated: 2026-08-31 08:36:16
+# Generated: 2026-09-04 21:37:26
 # Expires: 2026-09-19
 # Family Safe Edition
 # ==============================================
 
 
-# --- Movies | AMAZON PRIME VIDEO (925) ---
+# --- Movies | AMAZON PRIME VIDEO (927) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | AMAZON PRIME VIDEO",007 Estrada Para o Milhao
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/7122.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | AMAZON PRIME VIDEO",11 22 63
@@ -652,6 +652,8 @@ http://cdn4k.us:80/movie/Adrianobrito16/910989645a/3872.mp4
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/2253.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | AMAZON PRIME VIDEO",Fallout
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/4641.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | AMAZON PRIME VIDEO",Familia de Herois
+http://cdn4k.us:80/movie/Adrianobrito16/910989645a/9352.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | AMAZON PRIME VIDEO",Fargo
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/1520.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | AMAZON PRIME VIDEO",Fatal Crossing As Garotas da Balsa
@@ -956,6 +958,8 @@ http://cdn4k.us:80/movie/Adrianobrito16/910989645a/3376.mp4
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/3445.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | AMAZON PRIME VIDEO",Lucky Hank
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/7008.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | AMAZON PRIME VIDEO",Ludwig
+http://cdn4k.us:80/movie/Adrianobrito16/910989645a/9339.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | AMAZON PRIME VIDEO",Luther
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/2136.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | AMAZON PRIME VIDEO",Luxe for Less
@@ -3767,13 +3771,9 @@ http://cdn4k.us:80/movie/Adrianobrito16/910989645a/264120.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pfgTDPefWBcuNlZBUg5G5tFh7Tl.jpg" group-title="Movies | ANIMACAO/INFANTIL",Barra Nova - 2023
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/410871.mp4
 
-# --- Movies | ANIMES (226) ---
+# --- Movies | ANIMES (224) ---
 #EXTINF:-1 tvg-logo="http://cdn4k.net/images/rmdy6AVOlFEne4IM5Jj0WBOhCBP_big.jpg" group-title="Movies | ANIMES",A Lenda de Hei 2 - 2025 (L)
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/411105.mp4
-#EXTINF:-1 tvg-logo="http://cdn4k.net/images/fdkL6c60wV7cSuwC4t4UoEdHksz_big.jpg" group-title="Movies | ANIMES",Duelo De Dinastias 2 - 2020 (L)
-http://cdn4k.us:80/movie/Adrianobrito16/910989645a/399033.mp4
-#EXTINF:-1 tvg-logo="http://cdn4k.net/images/2e817NLsD0CmubPkyqKlNnAPhmP_big.jpg" group-title="Movies | ANIMES",Duelo De Dinastias 1 - 2016 (L)
-http://cdn4k.us:80/movie/Adrianobrito16/910989645a/399032.mp4
 #EXTINF:-1 tvg-logo="http://cdn4k.net/images/psu1NvHQ4Ggwmy0arCiQc394Vqe_big.jpg" group-title="Movies | ANIMES",The Tunnel to Summer the Exit of Goodbyes - 2022 (L)
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/390570.mp4
 #EXTINF:-1 tvg-logo="http://cdn4k.net/images/aGEpQkhj1rY5dHfaapnx7qUqh2d_big.jpg" group-title="Movies | ANIMES",Fureru - 2024 (L)
@@ -4585,11 +4585,15 @@ http://cdn4k.us:80/movie/Adrianobrito16/910989645a/5336.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | APPLETV+",WondLa  A Trilogia
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/4810.mp4
 
-# --- Movies | AÇAO (1728) ---
+# --- Movies | AÇAO (1730) ---
 #EXTINF:-1 tvg-logo="http://cdn4k.net/images/2Au17UGDQMBr3nR93Gg4TR78X8j_big.jpg" group-title="Movies | AÇAO",Tee Yai Nascido para o Mal - 2025
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/367393.mp4
 #EXTINF:-1 tvg-logo="http://cdn4k.net/images/u7OmLo3OQp8fpG4uRHl1PZ8yPTh_big.jpg" group-title="Movies | AÇAO",Impiedoso - 2025 (L)
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/328348.mp4
+#EXTINF:-1 tvg-logo="http://cdn4k.net/images/51W4AML1JKttnOcDVYqFRegwN4O_big.jpg" group-title="Movies | AÇAO",Uma Historia de Vinganca - 2017
+http://cdn4k.us:80/movie/Adrianobrito16/910989645a/436591.mp4
+#EXTINF:-1 tvg-logo="http://ana4life.us:80/images/2dzdKVWbWZrBLIHhdDmd0OTfmSM_big.jpg" group-title="Movies | AÇAO",Rendel 2 Ciclo da Vinganca - 2024
+http://cdn4k.us:80/movie/Adrianobrito16/910989645a/436148.mp4
 #EXTINF:-1 tvg-logo="http://ana4life.us:80/images/7liOzGi6DNESPv5gFC7g6mpqBSK_big.jpg" group-title="Movies | AÇAO",A Garota Final - 2015
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/435593.mp4
 #EXTINF:-1 tvg-logo="http://ana4life.us:80/images/fqhZOmHlARkWiHZmy6D2DRrrxlZ_big.jpg" group-title="Movies | AÇAO",Frente a Frente - 2021
@@ -8091,7 +8095,13 @@ http://cdn4k.us:80/movie/Adrianobrito16/910989645a/8351.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | BRASIL PARALELO",Unitopia
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/5019.mp4
 
-# --- Movies | CINEMA (113) ---
+# --- Movies | CINEMA (116) ---
+#EXTINF:-1 tvg-logo="http://ana4life.us:80/images/xNtUwylGBceTQ48iaV9L0eKswEm_big.jpg" group-title="Movies | CINEMA",Contention - 2026 (L)
+http://cdn4k.us:80/movie/Adrianobrito16/910989645a/436312.mp4
+#EXTINF:-1 tvg-logo="http://ana4life.us:80/images/8gGtvGzwyQIZeHECopX9OeLPjYH_big.jpg" group-title="Movies | CINEMA",Broad Trip - 2026 (L)
+http://cdn4k.us:80/movie/Adrianobrito16/910989645a/436306.mp4
+#EXTINF:-1 tvg-logo="http://ana4life.us:80/images/sgDxbJe8ZhYi86qP4eVNt9GIOK9_big.jpg" group-title="Movies | CINEMA",Action Action - 2025 (L)
+http://cdn4k.us:80/movie/Adrianobrito16/910989645a/436268.mp4
 #EXTINF:-1 tvg-logo="http://cdn4k.net:80/images/jspztckSybRKigzz5IFueP8qptV_big.jpg" group-title="Movies | CINEMA",The Outer Threat - 2026 (L)
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/431350.mp4
 #EXTINF:-1 tvg-logo="http://cdn4k.net:80/images/5zTUTHLYBOvJFCItMkkFsLNZF3q_big.jpg" group-title="Movies | CINEMA",So Por uma Noite - 2026 (L)
@@ -8319,7 +8329,9 @@ http://cdn4k.us:80/movie/Adrianobrito16/910989645a/245412.mp4
 #EXTINF:-1 tvg-logo="http://cdn4k.net/images/q5EU0FUeWxXbK6tRdPOt1Xjl7Ve_big.jpg" group-title="Movies | CINEMA",Voo Sobre o Everest - 2019
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/68252.mp4
 
-# --- Movies | COMEDIA (1822) ---
+# --- Movies | COMEDIA (1823) ---
+#EXTINF:-1 tvg-logo="http://cdn4k.net/images/loOEmSDdbZdHdn51hJr2Fona4HV_big.jpg" group-title="Movies | COMEDIA",Peggy Sue seu Passado a Espera - 1986
+http://cdn4k.us:80/movie/Adrianobrito16/910989645a/436595.mp4
 #EXTINF:-1 tvg-logo="http://ana4life.us:80/images/v8oqxldyiCBdotYwtkU8IILgfZM_big.jpg" group-title="Movies | COMEDIA",Quem e seu Pai - 2023
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/435278.mp4
 #EXTINF:-1 tvg-logo="http://ana4life.us:80/images/pFVjzMlJjjyTa7pDaFUzsLF6PsW_big.jpg" group-title="Movies | COMEDIA",Clube dos Cinco - 1985
@@ -11965,7 +11977,7 @@ http://cdn4k.us:80/movie/Adrianobrito16/910989645a/359849.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tYin9v6k3L5fQa4frMXeCSfIQKI.jpg" group-title="Movies | COMEDIA",Com a Cor e a Coragem 1 - 2002
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/410874.mp4
 
-# --- Movies | CRUNCHYROLL (756) ---
+# --- Movies | CRUNCHYROLL (760) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | CRUNCHYROLL",#COMPASS2.0 ANIMATION PROJECT
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/5953.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | CRUNCHYROLL",100 Coisas para Fazer Antes de Virar Zumbi
@@ -12628,6 +12640,8 @@ http://cdn4k.us:80/movie/Adrianobrito16/910989645a/8980.mp4
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/8576.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | CRUNCHYROLL",Kakuriyo Bed e Breakfast for Spirits
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/7258.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | CRUNCHYROLL",Kamen Rider Decade
+http://cdn4k.us:80/movie/Adrianobrito16/910989645a/9346.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | CRUNCHYROLL",Kamen Rider Kabuto
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/8896.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | CRUNCHYROLL",Kamen Rider ZEZTZ
@@ -12746,6 +12760,8 @@ http://cdn4k.us:80/movie/Adrianobrito16/910989645a/5447.mp4
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/8202.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | CRUNCHYROLL",Magical Girl Lyrical Nanoha EXCEEDS Gun Blaze Vengeance
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/9028.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | CRUNCHYROLL",Magilumiere Companhia das Garotas Magicas
+http://cdn4k.us:80/movie/Adrianobrito16/910989645a/9337.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | CRUNCHYROLL",Magimoji Rurumo
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/8414.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | CRUNCHYROLL",Mahoutsukai Reimeiki
@@ -12950,6 +12966,8 @@ http://cdn4k.us:80/movie/Adrianobrito16/910989645a/4547.mp4
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/2864.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | CRUNCHYROLL",Parallel World Pharmacy
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/9080.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | CRUNCHYROLL",Parasyte The Maxim
+http://cdn4k.us:80/movie/Adrianobrito16/910989645a/9341.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | CRUNCHYROLL",Pardon the Intrusion Im Home!
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/8477.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | CRUNCHYROLL",Parede de Gelo
@@ -13256,6 +13274,8 @@ http://cdn4k.us:80/movie/Adrianobrito16/910989645a/8979.mp4
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/5189.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | CRUNCHYROLL",The Familiar of Zero
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/8187.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | CRUNCHYROLL",The Faraway Paladin
+http://cdn4k.us:80/movie/Adrianobrito16/910989645a/9342.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | CRUNCHYROLL",The Fated Magical Princess Who Made Me a Princess
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/7468.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | CRUNCHYROLL",The Fire Hunter
@@ -13599,7 +13619,7 @@ http://cdn4k.us:80/movie/Adrianobrito16/910989645a/226751.mp4
 #EXTINF:-1 tvg-logo="http://cdn4k.net/images/oYEF02pi6goGRAXgfL0MZq5jFEo_big.jpg" group-title="Movies | DC",Watchmen: O Filme - 2009
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/43219.mp4
 
-# --- Movies | DESENHOS (525) ---
+# --- Movies | DESENHOS (526) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | DESENHOS",100 Lobo  A Lenda da Pedra da Lua
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/5869.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DESENHOS",2 Cachorros Bobos
@@ -14340,6 +14360,8 @@ http://cdn4k.us:80/movie/Adrianobrito16/910989645a/5738.mp4
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/2831.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DESENHOS",Os Vingadores Os Super Herois Mais Poderosos da Terra
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/9083.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | DESENHOS",Os Vingadores Unidos
+http://cdn4k.us:80/movie/Adrianobrito16/910989645a/9343.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DESENHOS",Os Vizinhos Green
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/2745.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DESENHOS",Oswaldo
@@ -14913,7 +14935,7 @@ http://cdn4k.us:80/movie/Adrianobrito16/910989645a/3093.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DISCOVERY+",Wild Frank
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/2797.mp4
 
-# --- Movies | DISNEY+ (434) ---
+# --- Movies | DISNEY+ (435) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | DISNEY+",11 de Setembro Em Retrospectiva
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/9295.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DISNEY+",20 000 Leguas Submarinas
@@ -15060,6 +15082,8 @@ http://cdn4k.us:80/movie/Adrianobrito16/910989645a/1834.mp4
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/3508.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DISNEY+",Bela Recatada e do Lar
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/7770.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | DISNEY+",Bem vindo a Familia O Assassinato de Dan Markel
+http://cdn4k.us:80/movie/Adrianobrito16/910989645a/9347.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DISNEY+",Bem vindos a Terra
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/2881.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DISNEY+",Best Medicine
@@ -15783,7 +15807,17 @@ http://cdn4k.us:80/movie/Adrianobrito16/910989645a/3763.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DISNEY+",Zorro
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/1067.mp4
 
-# --- Movies | DOCUMENTARIOS (907) ---
+# --- Movies | DOCUMENTARIOS (914) ---
+#EXTINF:-1 tvg-logo="http://ana4life.us:80/images/sKHrTLiHeIFEa71mYAhiWhP6KGQ_big.jpg" group-title="Movies | DOCUMENTARIOS",A Rainha Mae e Monarca - 2022 (L)
+http://cdn4k.us:80/movie/Adrianobrito16/910989645a/436660.mp4
+#EXTINF:-1 tvg-logo="http:/cdn4k.net/images/tp8rmMBt2WRVIG5FILfsGhrJM9P_big.jpg" group-title="Movies | DOCUMENTARIOS",Sirens - 2022 (L)
+http://cdn4k.us:80/movie/Adrianobrito16/910989645a/436586.mp4
+#EXTINF:-1 tvg-logo="http://ana4life.us:80/images/oMIVUxJxJurOnydts0bfKR2CZFk_big.jpg" group-title="Movies | DOCUMENTARIOS",O Ladrao Colecionador - 2022 (L)
+http://cdn4k.us:80/movie/Adrianobrito16/910989645a/436473.mp4
+#EXTINF:-1 tvg-logo="http://ana4life.us:80/images/j1md1BvbfVnxr55X1DtlfbYaYOX_big.jpg" group-title="Movies | DOCUMENTARIOS",Duas Vezes Colonizada - 2023 (L)
+http://cdn4k.us:80/movie/Adrianobrito16/910989645a/436262.mp4
+#EXTINF:-1 tvg-logo="http://ana4life.us:80/images/savWCVxONT7Xa0KWIcGXdtkE77w_big.jpg" group-title="Movies | DOCUMENTARIOS",Eu Nao Sou Tudo O Que Eu Quero Ser - 2024 (L)
+http://cdn4k.us:80/movie/Adrianobrito16/910989645a/436261.mp4
 #EXTINF:-1 tvg-logo="http://ana4life.us:80/images/oX01a1RHCy8HnXS9PjtLkOdN9h1_big.jpg" group-title="Movies | DOCUMENTARIOS",A Vida e Bela Uma Carta para Gaza - 2024 (L)
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/435391.mp4
 #EXTINF:-1 tvg-logo="http://ana4life.us:80/images/eEJJKMJ0VgVrY56Pq62auF5jkG_big.jpg" group-title="Movies | DOCUMENTARIOS",A Loucura de Almayer - 2022 (L)
@@ -16108,6 +16142,10 @@ http://cdn4k.us:80/movie/Adrianobrito16/910989645a/267179.mp4
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/267172.mp4
 #EXTINF:-1 tvg-logo="http://cdn4k.net/images/8fV0YRoX86cZJ5RHT1Oxbf6aFQ2_big.jpg" group-title="Movies | DOCUMENTARIOS",A Copia Final de Ilon Specht - 2024 (L)
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/352367.mp4
+#EXTINF:-1 tvg-logo="http://ana4life.us:80/images/hg62sAnuT2yzuA7MWqAktJSsAeZ_big.jpg" group-title="Movies | DOCUMENTARIOS",Curry com Cianeto - 2023
+http://cdn4k.us:80/movie/Adrianobrito16/910989645a/436270.mp4
+#EXTINF:-1 tvg-logo="http://ana4life.us:80/images/sjLWPQFMBzsPk9ZURWJ5X6fptLQ_big.jpg" group-title="Movies | DOCUMENTARIOS",CEO em Fuga A Historia de Carlos Ghosn - 2022
+http://cdn4k.us:80/movie/Adrianobrito16/910989645a/436136.mp4
 #EXTINF:-1 tvg-logo="http://ana4life.us:80/images/3VwMB2CI6tYrP3zXkWKAYLLZwZF_big.jpg" group-title="Movies | DOCUMENTARIOS",Marisa Monte Portas e Janelas - 2021
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/435284.mp4
 #EXTINF:-1 tvg-logo="http://ana4life.us:80/images/r3jXvhrgTi2jhliXtGLWTQfZFij_big.jpg" group-title="Movies | DOCUMENTARIOS",Mostra Me O Pai - 2021
@@ -17599,7 +17637,7 @@ http://cdn4k.us:80/movie/Adrianobrito16/910989645a/410969.mp4
 #EXTINF:-1 tvg-logo="http://cdn4k.net/images/9yQIeaYKuepMhrdZjnhE8wDibbW_big.jpg" group-title="Movies | DOCUMENTARIOS",Cataratas de Vitoria Jardim do Eden da Africa - 2021
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/363698.mp4
 
-# --- Movies | DORAMA (666) ---
+# --- Movies | DORAMA (673) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | DORAMA",100 Memorias
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/6583.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DORAMA",1000 Stars
@@ -17736,6 +17774,8 @@ http://cdn4k.us:80/movie/Adrianobrito16/910989645a/8928.mp4
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/8954.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DORAMA",Alem da traicao
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/9190.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | DORAMA",Alem Das Nuvens
+http://cdn4k.us:80/movie/Adrianobrito16/910989645a/9335.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DORAMA",Alem do Direito
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/6254.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DORAMA",Alem dos Reinos Divinos
@@ -17868,6 +17908,8 @@ http://cdn4k.us:80/movie/Adrianobrito16/910989645a/8688.mp4
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/9053.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DORAMA",Cafe Minamdang
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/3595.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | DORAMA",Cancao de Amor no Inverno
+http://cdn4k.us:80/movie/Adrianobrito16/910989645a/9353.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DORAMA",Candy
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/8128.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DORAMA",Carma
@@ -17946,6 +17988,8 @@ http://cdn4k.us:80/movie/Adrianobrito16/910989645a/7966.mp4
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/7308.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DORAMA",Dez Anos de Amor Nao Correspondido
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/6570.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | DORAMA",Dinastia de Jade
+http://cdn4k.us:80/movie/Adrianobrito16/910989645a/9348.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DORAMA",Do reparo ao par
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/9112.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DORAMA",Doce Engano
@@ -18142,6 +18186,8 @@ http://cdn4k.us:80/movie/Adrianobrito16/910989645a/6367.mp4
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/9144.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DORAMA",Kill to Love
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/6426.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | DORAMA",Kiss or Kill
+http://cdn4k.us:80/movie/Adrianobrito16/910989645a/9333.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DORAMA",Knot
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/8948.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DORAMA",Labios de Falsas Verdades
@@ -18214,6 +18260,8 @@ http://cdn4k.us:80/movie/Adrianobrito16/910989645a/8699.mp4
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/7988.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DORAMA",Me Always You
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/6524.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | DORAMA",Me and Thee - Thee e Eu
+http://cdn4k.us:80/movie/Adrianobrito16/910989645a/9338.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DORAMA",Me Encontre Depois da Escola
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/7249.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DORAMA",Medicos em Colapso
@@ -18346,6 +18394,8 @@ http://cdn4k.us:80/movie/Adrianobrito16/910989645a/8691.mp4
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/9188.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DORAMA",Nove Pecas
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/5751.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | DORAMA",O Amor e Melhor na Segunda Vez
+http://cdn4k.us:80/movie/Adrianobrito16/910989645a/9345.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DORAMA",O Amor Mora ao Lado
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/4958.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DORAMA",O Amor Nao Esta Esgotado
@@ -18372,6 +18422,8 @@ http://cdn4k.us:80/movie/Adrianobrito16/910989645a/5563.mp4
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/7953.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DORAMA",O Curandeiro
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/8769.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | DORAMA",O Destino do Amor
+http://cdn4k.us:80/movie/Adrianobrito16/910989645a/9350.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DORAMA",O detetive fantasma
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/8098.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DORAMA",O Dia das Criancas de Sammy
@@ -18933,7 +18985,7 @@ http://cdn4k.us:80/movie/Adrianobrito16/910989645a/7101.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | DORAMA",Zhan Zhao Adventures
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/8827.mp4
 
-# --- Movies | DRAMA (2255) ---
+# --- Movies | DRAMA (2258) ---
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w1280/fOx4CTq9OM1CvcN3INfoDK0cw7l.jpg" group-title="Movies | DRAMA",Street Flow 1 - 2019 (L)
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/396567.mp4
 #EXTINF:-1 tvg-logo="http://cdn4k.net/images/ifUe60eMKtDjSyxqdrBDp3lZQ5R_big.jpg" group-title="Movies | DRAMA",Garota no Galpao O Sequestro de Abby Hernandez - 2022 (L)
@@ -18942,6 +18994,12 @@ http://cdn4k.us:80/movie/Adrianobrito16/910989645a/349581.mp4
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/232948.mp4
 #EXTINF:-1 tvg-logo="http://cdn4k.net/images/xddEqLiRzXrEj2wP56nvpzdTlyn_big.jpg" group-title="Movies | DRAMA",Santuario - 2023 (L)
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/226226.mp4
+#EXTINF:-1 tvg-logo="http://cdn4k.net/images/lhNdTxG5ah4RFcDjkEJOqAP7gfN_big.jpg" group-title="Movies | DRAMA",O Selvagem da Motocicleta - 1983
+http://cdn4k.us:80/movie/Adrianobrito16/910989645a/436596.mp4
+#EXTINF:-1 tvg-logo="http://cdn4k.net/images/d9yWifOQJfdQAL5JlubSD58nJH1_big.jpg" group-title="Movies | DRAMA",Sonny o Amante - 2002
+http://cdn4k.us:80/movie/Adrianobrito16/910989645a/436592.mp4
+#EXTINF:-1 tvg-logo="http://ana4life.us:80/images/pCzp5MIXIg95TCZhS5ynNeyHXkB_big.jpg" group-title="Movies | DRAMA",Fator de Risco - 2015
+http://cdn4k.us:80/movie/Adrianobrito16/910989645a/436479.mp4
 #EXTINF:-1 tvg-logo="http://ana4life.us:80/images/4FB6xnmvtW2vT1t4mKb5vs7JiE_big.jpg" group-title="Movies | DRAMA",Conduzindo Miss Daisy - 1989
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/435579.mp4
 #EXTINF:-1 tvg-logo="http://ana4life.us:80/images/qid8NlS6dbD5UXc6Ysaq8YUnGwr_big.jpg" group-title="Movies | DRAMA",E Amanha O Mundo Todo - 2021
@@ -24201,9 +24259,13 @@ http://cdn4k.us:80/movie/Adrianobrito16/910989645a/201127.mp4
 #EXTINF:-1 tvg-logo="http://cdn4k.net/images/51LItgyecu2KMAtIchYogEykCIu_big.jpg" group-title="Movies | FAROESTE",Wyatt Earp - 1994
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/158410.mp4
 
-# --- Movies | FICCAO/FANTASIA (789) ---
+# --- Movies | FICCAO/FANTASIA (791) ---
 #EXTINF:-1 tvg-logo="http://cdn4k.net/images/wA53qwDmBfkvXHtU05ijJ5rx42a_big.jpg" group-title="Movies | FICCAO/FANTASIA",O Principe Justiceiro - 2023 (L)
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/229922.mp4
+#EXTINF:-1 tvg-logo="http://ana4life.us:80/images/iYkzHd81ZsLQHa12oUhBVIS7ToY_big.jpg" group-title="Movies | FICCAO/FANTASIA",Guardioes do Tempo - 2020
+http://cdn4k.us:80/movie/Adrianobrito16/910989645a/436269.mp4
+#EXTINF:-1 tvg-logo="http://ana4life.us:80/images/42Opo2WDBmgPXaeR9TgxlbWCihP_big.jpg" group-title="Movies | FICCAO/FANTASIA",A Pilula da Verdade - 2021
+http://cdn4k.us:80/movie/Adrianobrito16/910989645a/436129.mp4
 #EXTINF:-1 tvg-logo="http://ana4life.us:80/images/3Uo2baDjwhkCW265GGrlMOW29y8_big.jpg" group-title="Movies | FICCAO/FANTASIA",Meu Amigo Dino 2 Retorno ao Mundo Perdido - 2024
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/435283.mp4
 #EXTINF:-1 tvg-logo="http://ana4life.us:80/images/54rWYTW1kmAhv4aSLVE94nfXVuJ_big.jpg" group-title="Movies | FICCAO/FANTASIA",Meu Amigo Dino 1 - 2023
@@ -25781,7 +25843,7 @@ http://cdn4k.us:80/movie/Adrianobrito16/910989645a/339991.mp4
 #EXTINF:-1 tvg-logo="http://cdn4k.net/images/2XxB4KLDYZXRMC6XFLCPlYxslHA_big.jpg" group-title="Movies | FICCAO/FANTASIA",A Mulher Verde - 2025
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/338433.mp4
 
-# --- Movies | GLOBOPLAY (444) ---
+# --- Movies | GLOBOPLAY (445) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | GLOBOPLAY",Hercai Amor e Vinganca
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/5654.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | GLOBOPLAY",10 Segundos para Vencer
@@ -25866,6 +25928,8 @@ http://cdn4k.us:80/movie/Adrianobrito16/910989645a/4060.mp4
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/4257.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | GLOBOPLAY",Alta Fidelidade
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/7755.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | GLOBOPLAY",Alucinacao
+http://cdn4k.us:80/movie/Adrianobrito16/910989645a/9336.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | GLOBOPLAY",Amar A Morte
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/3451.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | GLOBOPLAY",Amor e Honra
@@ -27058,7 +27122,7 @@ http://cdn4k.us:80/movie/Adrianobrito16/910989645a/5828.mp4
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/3358.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | HBO MAX",Agentes do Caos
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/7377.mp4
-#EXTINF:-1 tvg-logo="" group-title="Movies | HBO MAX",Aile: Lacos De Paixao
+#EXTINF:-1 tvg-logo="" group-title="Movies | HBO MAX",Aile Lacos De Paixao
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/5183.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | HBO MAX",Ainda um Misterio
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/7416.mp4
@@ -28369,7 +28433,51 @@ http://cdn4k.us:80/movie/Adrianobrito16/910989645a/4249.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | HBO MAX",Zona de Sobrevivencia
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/6300.mp4
 
-# --- Movies | LANÇAMENTOS LEGENDADOS (801) ---
+# --- Movies | LANÇAMENTOS LEGENDADOS (823) ---
+#EXTINF:-1 tvg-logo="http://ana4life.us:80/images/iWckl9hilVTIum7P0OSkwCeoBEh_big.jpg" group-title="Movies | LANÇAMENTOS LEGENDADOS",Um Retrato de Esperanca - 2026 (L)
+http://cdn4k.us:80/movie/Adrianobrito16/910989645a/436674.mp4
+#EXTINF:-1 tvg-logo="http://ana4life.us:80/images/hVXjX1jLZ1ljFSNGXpjJfbTUOa7_big.jpg" group-title="Movies | LANÇAMENTOS LEGENDADOS",Mayday - 2026 (L)
+http://cdn4k.us:80/movie/Adrianobrito16/910989645a/436670.mp4
+#EXTINF:-1 tvg-logo="http://ana4life.us:80/images/hCHei97aPYCCsh4vicz9X0wmdFV_big.jpg" group-title="Movies | LANÇAMENTOS LEGENDADOS",Gandhari - 2026 (L)
+http://cdn4k.us:80/movie/Adrianobrito16/910989645a/436666.mp4
+#EXTINF:-1 tvg-logo="http://ana4life.us:80/images/gDbKETTKi8te7TiE0k6FfqAoSvR_big.jpg" group-title="Movies | LANÇAMENTOS LEGENDADOS",Time of Death - 2026 (L)
+http://cdn4k.us:80/movie/Adrianobrito16/910989645a/436665.mp4
+#EXTINF:-1 tvg-logo="http://ana4life.us:80/images/imfGMQkG1BP5O5bjQyWKiB0J1jA_big.jpg" group-title="Movies | LANÇAMENTOS LEGENDADOS",Natal Amargo - 2026 (L)
+http://cdn4k.us:80/movie/Adrianobrito16/910989645a/436663.mp4
+#EXTINF:-1 tvg-logo="http://ana4life.us:80/images/9Hc0QF0bJPyGXlQBq8NdzqqE3L4_big.jpg" group-title="Movies | LANÇAMENTOS LEGENDADOS",Fito Paez O Mundo Cabe em Uma Cancao - 2026 (L)
+http://cdn4k.us:80/movie/Adrianobrito16/910989645a/436662.mp4
+#EXTINF:-1 tvg-logo="http://ana4life.us:80/images/3BGYcEQnVjVzImecgXcm1xtzdEV_big.jpg" group-title="Movies | LANÇAMENTOS LEGENDADOS",11 de Setembro 25 Anos Depois - 2026 (L)
+http://cdn4k.us:80/movie/Adrianobrito16/910989645a/436661.mp4
+#EXTINF:-1 tvg-logo="http://ana4life.us:80/images/zPlBUyu9rWhVrdiRfSClwMkmQiT_big.jpg" group-title="Movies | LANÇAMENTOS LEGENDADOS",Corrida Contra o Tempo - 2026 (L)
+http://cdn4k.us:80/movie/Adrianobrito16/910989645a/436481.mp4
+#EXTINF:-1 tvg-logo="http://ana4life.us:80/images/fqnp3doSeUFLGUFIolHVPA41O4E_big.jpg" group-title="Movies | LANÇAMENTOS LEGENDADOS",Coyote vs ACME - 2026 (L)
+http://cdn4k.us:80/movie/Adrianobrito16/910989645a/436477.mp4
+#EXTINF:-1 tvg-logo="http://ana4life.us:80/images/hFborW6HmffKL05GIWlkTFdvVpN_big.jpg" group-title="Movies | LANÇAMENTOS LEGENDADOS",A Um Passo da Guerra - 2026 (L)
+http://cdn4k.us:80/movie/Adrianobrito16/910989645a/436476.mp4
+#EXTINF:-1 tvg-logo="http://ana4life.us:80/images/3pnlJjsGtrUp3cPEOLzkR0sPQAK_big.jpg" group-title="Movies | LANÇAMENTOS LEGENDADOS",Untold Raygun Breaking Badly - 2026 (L)
+http://cdn4k.us:80/movie/Adrianobrito16/910989645a/436267.mp4
+#EXTINF:-1 tvg-logo="http://ana4life.us:80/images/uTZU5eG5Afs0CLO9DlYVDW5pnfS_big.jpg" group-title="Movies | LANÇAMENTOS LEGENDADOS",Vash Nivel 2 - 2025 (L)
+http://cdn4k.us:80/movie/Adrianobrito16/910989645a/436266.mp4
+#EXTINF:-1 tvg-logo="http://ana4life.us:80/images/oWFTMRTaFSmZQ88HkN5ggWCvLY1_big.jpg" group-title="Movies | LANÇAMENTOS LEGENDADOS",A Sombra do Meu Pai - 2025 (L)
+http://cdn4k.us:80/movie/Adrianobrito16/910989645a/436265.mp4
+#EXTINF:-1 tvg-logo="http://ana4life.us:80/images/jo9efbQSGDZNQ6xMocyD1prFjdF_big.jpg" group-title="Movies | LANÇAMENTOS LEGENDADOS",Akhanda 2 Thaandavam - 2025 (L)
+http://cdn4k.us:80/movie/Adrianobrito16/910989645a/436264.mp4
+#EXTINF:-1 tvg-logo="http://ana4life.us:80/images/gVZgjKIsXZOT3cNZm5PJZBtQRaG_big.jpg" group-title="Movies | LANÇAMENTOS LEGENDADOS",Codigo Vinganca - 2026 (L)
+http://cdn4k.us:80/movie/Adrianobrito16/910989645a/436263.mp4
+#EXTINF:-1 tvg-logo="http://ana4life.us:80/images/5lRMnenRExLT1HmINgAsdDJgQXy_big.jpg" group-title="Movies | LANÇAMENTOS LEGENDADOS",Eu Vi Tres Luzes Negras - 2025 (L)
+http://cdn4k.us:80/movie/Adrianobrito16/910989645a/436260.mp4
+#EXTINF:-1 tvg-logo="http://ana4life.us:80/images/uUBQZNZTUDxoSHjk5KG9BLB0Jlk_big.jpg" group-title="Movies | LANÇAMENTOS LEGENDADOS",Mestre Bhagat Singh - 2026 (L)
+http://cdn4k.us:80/movie/Adrianobrito16/910989645a/436166.mp4
+#EXTINF:-1 tvg-logo="http://ana4life.us:80/images/lKK9ImwpoTCwDZKgYpjIIJCnlf0_big.jpg" group-title="Movies | LANÇAMENTOS LEGENDADOS",O Codigo da Cadeia - 2026 (L)
+http://cdn4k.us:80/movie/Adrianobrito16/910989645a/436165.mp4
+#EXTINF:-1 tvg-logo="http://ana4life.us:80/images/aqLiFabD1D7CewL8bKibUXQxcsm_big.jpg" group-title="Movies | LANÇAMENTOS LEGENDADOS",Na Frieza da Realidade - 2026 (L)
+http://cdn4k.us:80/movie/Adrianobrito16/910989645a/436154.mp4
+#EXTINF:-1 tvg-logo="http://ana4life.us:80/images/sb41qo6yHw5GS2Tujd7H4NDP4ZH_big.jpg" group-title="Movies | LANÇAMENTOS LEGENDADOS",Gintama Yoshiwara em Chamas - 2026 (L)
+http://cdn4k.us:80/movie/Adrianobrito16/910989645a/436152.mp4
+#EXTINF:-1 tvg-logo="http://ana4life.us:80/images/EaG61pSAdEaIZouFKzhv7lghGh_big.jpg" group-title="Movies | LANÇAMENTOS LEGENDADOS",Goodbye Horses As Varias Vidas de Q Lazzarus - 2025 (L)
+http://cdn4k.us:80/movie/Adrianobrito16/910989645a/436151.mp4
+#EXTINF:-1 tvg-logo="http://ana4life.us:80/images/nuI0XoN1p92MpVlSNtkxFzM3u6p_big.jpg" group-title="Movies | LANÇAMENTOS LEGENDADOS",Narcissists Playbook - 2026 (L)
+http://cdn4k.us:80/movie/Adrianobrito16/910989645a/436150.mp4
 #EXTINF:-1 tvg-logo="http://ana4life.us:80/images/2dlXexLn0PJzzsqVRlxaREBNTJ4_big.jpg" group-title="Movies | LANÇAMENTOS LEGENDADOS",Visoes de um Amor - 2026 (L)
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/435590.mp4
 #EXTINF:-1 tvg-logo="http://ana4life.us:80/images/eEBZ3cKpgcsHuIJk3mYFzYivPfM_big.jpg" group-title="Movies | LANÇAMENTOS LEGENDADOS",Saudades te Amo - 2026 (L)
@@ -28404,8 +28512,6 @@ http://cdn4k.us:80/movie/Adrianobrito16/910989645a/435287.mp4
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/435081.mp4
 #EXTINF:-1 tvg-logo="http://ana4life.us:80/images/ki0ilBYgbOZKUuE1NN53FYWK9zQ_big.jpg" group-title="Movies | LANÇAMENTOS LEGENDADOS",Blades of the Guardians - 2026 (L)
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/435080.mp4
-#EXTINF:-1 tvg-logo="http://ana4life.us:80/images/gVZgjKIsXZOT3cNZm5PJZBtQRaG_big.jpg" group-title="Movies | LANÇAMENTOS LEGENDADOS",Codigo  Vinganca - 2026 (L)
-http://cdn4k.us:80/movie/Adrianobrito16/910989645a/435078.mp4
 #EXTINF:-1 tvg-logo="http://ana4life.us:80/images/eZ3OgBMzR3UZEbm9otRYFBwL8Ao_big.jpg" group-title="Movies | LANÇAMENTOS LEGENDADOS",Fairyland - 2026 (L)
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/435077.mp4
 #EXTINF:-1 tvg-logo="http://ana4life.us:80/images/vt0RqHlqfUzeiBEVQvp43yY2076_big.jpg" group-title="Movies | LANÇAMENTOS LEGENDADOS",Man of War - 2026 (L)
@@ -29350,6 +29456,8 @@ http://cdn4k.us:80/movie/Adrianobrito16/910989645a/399076.mp4
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/399074.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w1280/dJShBIOyYB1MZDSpcbvcRRiO46.jpg" group-title="Movies | LANÇAMENTOS LEGENDADOS",Conselhos De Um Serial Killer Aposentado - 2025 (L)
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/399035.mp4
+#EXTINF:-1 tvg-logo="http://cdn4k.net/images/2e817NLsD0CmubPkyqKlNnAPhmP_big.jpg" group-title="Movies | LANÇAMENTOS LEGENDADOS",Duelo De Dinastias 1 - 2016 (L)
+http://cdn4k.us:80/movie/Adrianobrito16/910989645a/399032.mp4
 #EXTINF:-1 tvg-logo="http://cdn4k.net/images/foEObhyAMM3dxYeBEr242EdQDB7_big.jpg" group-title="Movies | LANÇAMENTOS LEGENDADOS",Made in Korea - 2026 (L)
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/399030.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/3Ap6J9pYqgrxQaYWYdX2fyBYBWF.jpg" group-title="Movies | LANÇAMENTOS LEGENDADOS",Alerta Apocalipse - 2026 (L)
@@ -29973,7 +30081,55 @@ http://cdn4k.us:80/movie/Adrianobrito16/910989645a/404938.mp4
 #EXTINF:-1 tvg-logo="http://cdn4k.net/images/uZ8C2vVGfK5SYASiioTmtZDJjpv_big.jpg" group-title="Movies | LANÇAMENTOS LEGENDADOS",Truque de Mestre  O 3 Ato - 2025 (L)
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/378288.mp4
 
-# --- Movies | LEGENDADOS (4793) ---
+# --- Movies | LEGENDADOS (4818) ---
+#EXTINF:-1 tvg-logo="http://cdn4k.net/images/6i2b1o0GmxhyFsV749tAH5aU1im_big.jpg" group-title="Movies | LEGENDADOS",O Patins - 2023 (L)
+http://cdn4k.us:80/movie/Adrianobrito16/910989645a/436590.mp4
+#EXTINF:-1 tvg-logo="http://cdn4k.net/images/1A5E1nD0x34QtIwSqYr80dZkrfL_big.jpg" group-title="Movies | LEGENDADOS",O Rei David - 2021 (L)
+http://cdn4k.us:80/movie/Adrianobrito16/910989645a/436589.mp4
+#EXTINF:-1 tvg-logo="http://cdn4k.net/images/f89mTuWbx8uni1opDylM1Id0v0I_big.jpg" group-title="Movies | LEGENDADOS",Piaffe - 2023 (L)
+http://cdn4k.us:80/movie/Adrianobrito16/910989645a/436588.mp4
+#EXTINF:-1 tvg-logo="http://cdn4k.net/images/te6KLdGcrPijCiauZPBGHMX5BL4_big.jpg" group-title="Movies | LEGENDADOS",Sair do Armario - 2022 (L)
+http://cdn4k.us:80/movie/Adrianobrito16/910989645a/436587.mp4
+#EXTINF:-1 tvg-logo="http://ana4life.us:80/images/cqtGShGMYdTkKFyHkzKpYSqnj1B_big.jpg" group-title="Movies | LEGENDADOS",Control Zeta - 2023 (L)
+http://cdn4k.us:80/movie/Adrianobrito16/910989645a/436475.mp4
+#EXTINF:-1 tvg-logo="http://ana4life.us:80/images/2qNNhlJUB4WZDVwuePXeWKVotcZ_big.jpg" group-title="Movies | LEGENDADOS",Luz Luz Luz - 2023 (L)
+http://cdn4k.us:80/movie/Adrianobrito16/910989645a/436474.mp4
+#EXTINF:-1 tvg-logo="http://ana4life.us:80/images/zKdqe9kfhLQ9giuLcpoQI3WL1Vw_big.jpg" group-title="Movies | LEGENDADOS",A Coisa - 2011 (L)
+http://cdn4k.us:80/movie/Adrianobrito16/910989645a/433365.mp4
+#EXTINF:-1 tvg-logo="http://ana4life.us:80/images/8O8jMuMRTjvw1Ny3VsZ7lyz2rYh_big.jpg" group-title="Movies | LEGENDADOS",Filha Toxica - 2024 (L)
+http://cdn4k.us:80/movie/Adrianobrito16/910989645a/436259.mp4
+#EXTINF:-1 tvg-logo="http://ana4life.us:80/images/lPG3bzxOlK82tsorvNs8gSMlK4b_big.jpg" group-title="Movies | LEGENDADOS",Fora da Nevoa - 2023 (L)
+http://cdn4k.us:80/movie/Adrianobrito16/910989645a/436258.mp4
+#EXTINF:-1 tvg-logo="http://ana4life.us:80/images/j8pRkmqZjAqiwp7EC2bkmj96sjv_big.jpg" group-title="Movies | LEGENDADOS",Fragmentos da Vida - 2023 (L)
+http://cdn4k.us:80/movie/Adrianobrito16/910989645a/436257.mp4
+#EXTINF:-1 tvg-logo="http://ana4life.us:80/images/n742xN1L6nvNzxiFrqap4Cx4OqN_big.jpg" group-title="Movies | LEGENDADOS",Golpes Certeiros - 2023 (L)
+http://cdn4k.us:80/movie/Adrianobrito16/910989645a/436256.mp4
+#EXTINF:-1 tvg-logo="http://ana4life.us:80/images/cVwgfNJt4hbdLZjqJA8NAh0iCpk_big.jpg" group-title="Movies | LEGENDADOS",Nada Disso Tudo - 2023 (L)
+http://cdn4k.us:80/movie/Adrianobrito16/910989645a/436255.mp4
+#EXTINF:-1 tvg-logo="http://ana4life.us:80/images/82BWW2eGvlAiRmggs6D0MiFM1X3_big.jpg" group-title="Movies | LEGENDADOS",Nocturnal Burger - 2023 (L)
+http://cdn4k.us:80/movie/Adrianobrito16/910989645a/436254.mp4
+#EXTINF:-1 tvg-logo="http://ana4life.us:80/images/knCMJhR7IHkQd3Vsow2cjv1uG7C_big.jpg" group-title="Movies | LEGENDADOS",O Drama Menstrual de Jane Austen - 2024 (L)
+http://cdn4k.us:80/movie/Adrianobrito16/910989645a/436253.mp4
+#EXTINF:-1 tvg-logo="http://ana4life.us:80/images/rOZt5FVZC51keFRRUSzWGE5y1Rt_big.jpg" group-title="Movies | LEGENDADOS",Sookshmadarshini - 2024 (L)
+http://cdn4k.us:80/movie/Adrianobrito16/910989645a/436252.mp4
+#EXTINF:-1 tvg-logo="http://ana4life.us:80/images/89Ra4YuPxPDGKfbgArDz1u4BDu4_big.jpg" group-title="Movies | LEGENDADOS",Rendel 1  Vingativo e Justiceiro - 2017 (L)
+http://cdn4k.us:80/movie/Adrianobrito16/910989645a/436147.mp4
+#EXTINF:-1 tvg-logo="http://ana4life.us:80/images/s1zq9Qq8CGZMvw8ZkeTnbqhB4zl_big.jpg" group-title="Movies | LEGENDADOS",Eu Maryam as Criancas e as Outras 26 Pessoas - 2024 (L)
+http://cdn4k.us:80/movie/Adrianobrito16/910989645a/436146.mp4
+#EXTINF:-1 tvg-logo="http://ana4life.us:80/images/uD5jDVVpRs8d9pq1IGzOAxL9H98_big.jpg" group-title="Movies | LEGENDADOS",Doctor X O Filme Final - 2024 (L)
+http://cdn4k.us:80/movie/Adrianobrito16/910989645a/436145.mp4
+#EXTINF:-1 tvg-logo="http://ana4life.us:80/images/jJ50UZe56CPb68AyCwK5n8ICGZ7_big.jpg" group-title="Movies | LEGENDADOS",Depois das Longas Chuvas - 2024 (L)
+http://cdn4k.us:80/movie/Adrianobrito16/910989645a/436139.mp4
+#EXTINF:-1 tvg-logo="http://ana4life.us:80/images/le10dGiFpL3SJ5VXsTCuod52ZRO_big.jpg" group-title="Movies | LEGENDADOS",Cu Li Nunca Chora - 2024 (L)
+http://cdn4k.us:80/movie/Adrianobrito16/910989645a/436138.mp4
+#EXTINF:-1 tvg-logo="http://ana4life.us:80/images/eokiBqNm4QRjRuy1FBZCQT4Q4St_big.jpg" group-title="Movies | LEGENDADOS",Arthur e Diana - 2024 (L)
+http://cdn4k.us:80/movie/Adrianobrito16/910989645a/436133.mp4
+#EXTINF:-1 tvg-logo="http://ana4life.us:80/images/amuJuDNaZdVDSkbYBmBpcMJTvX3_big.jpg" group-title="Movies | LEGENDADOS",Arnold e um Aluno Exemplar - 2023 (L)
+http://cdn4k.us:80/movie/Adrianobrito16/910989645a/436132.mp4
+#EXTINF:-1 tvg-logo="http://ana4life.us:80/images/mXGzlAT8y8FcLvYb3k8BIiiMrYL_big.jpg" group-title="Movies | LEGENDADOS",Amigas em uma Estrada Rural - 2022 (L)
+http://cdn4k.us:80/movie/Adrianobrito16/910989645a/436131.mp4
+#EXTINF:-1 tvg-logo="http://ana4life.us:80/images/k0IrevoY228CZYtemGbhazuk93n_big.jpg" group-title="Movies | LEGENDADOS",Ajoomma Uma Viagem Inesquecivel - 2022 (L)
+http://cdn4k.us:80/movie/Adrianobrito16/910989645a/436130.mp4
 #EXTINF:-1 tvg-logo="http://ana4life.us:80/images/7MbQAHL5mw6s4HvgTmqcWJKVeth_big.jpg" group-title="Movies | LEGENDADOS",Case se Comigo Manami - 2022 (L)
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/435581.mp4
 #EXTINF:-1 tvg-logo="http://ana4life.us:80/images/nTWRFouxdOu7CWeSl9bRSY4wUay_big.jpg" group-title="Movies | LEGENDADOS",Cidade Rabat - 2024 (L)
@@ -30138,6 +30294,8 @@ http://cdn4k.us:80/movie/Adrianobrito16/910989645a/401813.mp4
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/399141.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w1280/gNKQA1BFgVq2Iujf4tZwE9dpo6z.jpg" group-title="Movies | LEGENDADOS",Conexao Macabra - 2024 (L)
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/399037.mp4
+#EXTINF:-1 tvg-logo="http://cdn4k.net/images/fdkL6c60wV7cSuwC4t4UoEdHksz_big.jpg" group-title="Movies | LEGENDADOS",Duelo De Dinastias 2 - 2020 (L)
+http://cdn4k.us:80/movie/Adrianobrito16/910989645a/399033.mp4
 #EXTINF:-1 tvg-logo="http://cdn4k.net/images/b1ocR7F1aIx4UhdXbmG1akSZ9Bj_big.jpg" group-title="Movies | LEGENDADOS",Re Member 1 - 2022 (L)
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/399013.mp4
 #EXTINF:-1 tvg-logo="http://cdn4k.net/images/fYsrWZrLZMH9duwXPtaoheunUz4_big.jpg" group-title="Movies | LEGENDADOS",Elvis Nao Morreu - 1979 (L)
@@ -41187,7 +41345,7 @@ http://cdn4k.us:80/movie/Adrianobrito16/910989645a/410971.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tOPYBXYEG1DjIRcanivEeh9y8Jb.jpg" group-title="Movies | NACIONAIS",Os Bravos Nunca Se Calam - 2019
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/410976.mp4
 
-# --- Movies | NETFLIX (1946) ---
+# --- Movies | NETFLIX (1949) ---
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX",100 Humanos
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/5868.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX",1670
@@ -41492,6 +41650,8 @@ http://cdn4k.us:80/movie/Adrianobrito16/910989645a/1365.mp4
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/8678.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX",Alias Grace
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/2847.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX",Alix Earle pelo Mundo
+http://cdn4k.us:80/movie/Adrianobrito16/910989645a/9349.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX",All Of Us Are Dead
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/3104.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX",Alma Gemea
@@ -43222,6 +43382,8 @@ http://cdn4k.us:80/movie/Adrianobrito16/910989645a/2522.mp4
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/550.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX",Mako Mermaids Uma Aventura H2O
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/876.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX",Mal de Amores
+http://cdn4k.us:80/movie/Adrianobrito16/910989645a/9344.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX",Mal de Familia
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/3616.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX",Maldito Sonho de Conto de Fadas
@@ -43684,6 +43846,8 @@ http://cdn4k.us:80/movie/Adrianobrito16/910989645a/3567.mp4
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/9325.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX",O Idiota Favorito de Deus
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/3482.mp4
+#EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX",O Imperio dos Chimpanzes
+http://cdn4k.us:80/movie/Adrianobrito16/910989645a/9334.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX",O Incrivel Circo Digital
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/7669.mp4
 #EXTINF:-1 tvg-logo="" group-title="Movies | NETFLIX",O Inferno Sao as Pessoas
@@ -46395,7 +46559,9 @@ http://cdn4k.us:80/movie/Adrianobrito16/910989645a/42891.mp4
 #EXTINF:-1 tvg-logo="http://cdn4k.net/images/tOcgjbRymDsFXrw19X5qRup6RKn_big.jpg" group-title="Movies | RELIGIOSOS",Voce Acredita? - 2015
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/42888.mp4
 
-# --- Movies | ROMANCE (687) ---
+# --- Movies | ROMANCE (688) ---
+#EXTINF:-1 tvg-logo="http://cdn4k.net/images/rVSqNF7tmWpfUzb7S5eiwJ7Zffb_big.jpg" group-title="Movies | ROMANCE",Sonhos Rebeldes - 1983
+http://cdn4k.us:80/movie/Adrianobrito16/910989645a/436593.mp4
 #EXTINF:-1 tvg-logo="http://ana4life.us:80/images/dcbqyycrWA56HXq5lm41HYuED8Y_big.jpg" group-title="Movies | ROMANCE",Monte Carlo - 2011
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/435281.mp4
 #EXTINF:-1 tvg-logo="http://cdn4k.net:80/images/u55x5RZ8xP80URk9nfQMmFc1cJM_big.jpg" group-title="Movies | ROMANCE",Nossas Noites - 2017
@@ -48181,9 +48347,17 @@ http://cdn4k.us:80/movie/Adrianobrito16/910989645a/65336.mp4
 #EXTINF:-1 tvg-logo="http://cdn4k.net/images/bjDUukHJOmuHZvWQkQBvHqfeodn_big.jpg" group-title="Movies | SHOWS NACIONAIS",Wesley Safadao WS em casa - 2016
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/44634.mp4
 
-# --- Movies | STAND-UP (31) ---
+# --- Movies | STAND-UP (35) ---
 #EXTINF:-1 tvg-logo="http://cdn4k.net/images/kZHF4QsTgoRcRWvEcv2i3tN8hLA_big.jpg" group-title="Movies | STAND-UP",Zarna Garg One in a Billion - 2023
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/325260.mp4
+#EXTINF:-1 tvg-logo="http://cdn4k.net/images/fvn65XpY5kr6gL6wAP7bKhl4YW0_big.jpg" group-title="Movies | STAND-UP",Marcio Donato Eu Odeio Viver - 2021
+http://cdn4k.us:80/movie/Adrianobrito16/910989645a/436597.mp4
+#EXTINF:-1 tvg-logo="http://cdn4k.net/images/s73YezrsvOwKPgb4vYiyhtTeOs9_big.jpg" group-title="Movies | STAND-UP",Renato Albani Alguem Me Explica O Mundo - 2020
+http://cdn4k.us:80/movie/Adrianobrito16/910989645a/436594.mp4
+#EXTINF:-1 tvg-logo="http://ana4life.us:80/images/o7DViWEg5pg8z4y4GB7NaxuIpF7_big.jpg" group-title="Movies | STAND-UP",Matheus Ceara Ate Que Meu Show Te Separe - 2023
+http://cdn4k.us:80/movie/Adrianobrito16/910989645a/436480.mp4
+#EXTINF:-1 tvg-logo="http://ana4life.us:80/images/3zASk0BRyhtlS8TYDKoduMB2Ein_big.jpg" group-title="Movies | STAND-UP",Bruna Louise Demolicao - 2022
+http://cdn4k.us:80/movie/Adrianobrito16/910989645a/436478.mp4
 #EXTINF:-1 tvg-logo="http://cdn4k.net/images/lC3EJ5CiLtNa8NH3Ti21hzH5Zd2_big.jpg" group-title="Movies | STAND-UP",220 Volts: Especial de Fim de Ano - 2020
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/157015.mp4
 #EXTINF:-1 tvg-logo="http://cdn4k.net/images/fZY9hI0cvny3XwzkZnU0yZiWQNn_big.jpg" group-title="Movies | STAND-UP",Afonso Padilha  Alma de Pobre - 2020
@@ -50510,14 +50684,14 @@ http://cdn4k.us:80/movie/Adrianobrito16/910989645a/427749.mp4
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/232882.mp4
 #EXTINF:-1 tvg-logo="http://cdn4k.net/images/fXGOLOxV0KLnzueWJPFF5tUP3Lq_big.jpg" group-title="Movies | TERROR",Ursinho Pooh  Sangue e Mel - 2023 (L)
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/218055.mp4
+#EXTINF:-1 tvg-logo="http://ana4life.us:80/images/zKdqe9kfhLQ9giuLcpoQI3WL1Vw_big.jpg" group-title="Movies | TERROR",A Coisa - 2011
+http://cdn4k.us:80/movie/Adrianobrito16/910989645a/436314.mp4
 #EXTINF:-1 tvg-logo="http://ana4life.us:80/images/AoXeZPLjYzpkCQuHj0LNZMQ5jFw_big.jpg" group-title="Movies | TERROR",Boa A Cobra Assassina - 2006
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/435374.mp4
 #EXTINF:-1 tvg-logo="http://ana4life.us:80/images/525c76OGTsXSTO6S1mVqCJJ3NDr_big.jpg" group-title="Movies | TERROR",Trincheira 11 - 2017
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/433586.mp4
 #EXTINF:-1 tvg-logo="http://ana4life.us:80/images/nYf6MDUJCeeS73biahFNK3vcoOI_big.jpg" group-title="Movies | TERROR",A Anfitria - 2021
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/433366.mp4
-#EXTINF:-1 tvg-logo="http://ana4life.us:80/images/zKdqe9kfhLQ9giuLcpoQI3WL1Vw_big.jpg" group-title="Movies | TERROR",A Coisa - 2011
-http://cdn4k.us:80/movie/Adrianobrito16/910989645a/433365.mp4
 #EXTINF:-1 tvg-logo="http://ana4life.us:80/images/9DapYnLsNXS36lXJ0s8TYswEkGH_big.jpg" group-title="Movies | TERROR",Apocalipse - 2015
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/433343.mp4
 #EXTINF:-1 tvg-logo="http://ana4life.us:80/images/1nAhVGPiCTwUGdNV6vy8sUh6VMu_big.jpg" group-title="Movies | TERROR",As Garotas Da Tragedia - 2017
@@ -53481,7 +53655,7 @@ http://cdn4k.us:80/movie/Adrianobrito16/910989645a/126588.mp4
 #EXTINF:-1 tvg-logo="http://cdn4k.net/images/rN1G5YsRS5pzCx3hdkEBN8NKn2R_big.jpg" group-title="Movies | UHD 4K",Exterminio  A Evolucao - 2025 UHD 4K
 http://cdn4k.us:80/movie/Adrianobrito16/910989645a/340777.mp4
 
-# --- Series | SERIES TV (492) ---
+# --- Series | SERIES TV (494) ---
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES TV",Meu Nome e Farah
 http://cdn4k.us:80/series/Adrianobrito16/910989645a/5715
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES TV",O Coitado
@@ -53842,6 +54016,8 @@ http://cdn4k.us:80/series/Adrianobrito16/910989645a/4998
 http://cdn4k.us:80/series/Adrianobrito16/910989645a/5038
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES TV",Guarda costas Privado
 http://cdn4k.us:80/series/Adrianobrito16/910989645a/5840
+#EXTINF:-1 tvg-logo="" group-title="Series | SERIES TV",Guerras Mundiais
+http://cdn4k.us:80/series/Adrianobrito16/910989645a/9340
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES TV",Gugu Toninho e Augusto
 http://cdn4k.us:80/series/Adrianobrito16/910989645a/6037
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES TV",Halt and Catch Fire
@@ -54178,6 +54354,8 @@ http://cdn4k.us:80/series/Adrianobrito16/910989645a/9118
 http://cdn4k.us:80/series/Adrianobrito16/910989645a/7919
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES TV",Portugal Show
 http://cdn4k.us:80/series/Adrianobrito16/910989645a/4319
+#EXTINF:-1 tvg-logo="" group-title="Series | SERIES TV",Possession
+http://cdn4k.us:80/series/Adrianobrito16/910989645a/9351
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES TV",Presidente Curtis
 http://cdn4k.us:80/series/Adrianobrito16/910989645a/9138
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES TV",Prisioneira 951
@@ -54467,4 +54645,4 @@ http://cdn4k.us:80/series/Adrianobrito16/910989645a/2179
 #EXTINF:-1 tvg-logo="" group-title="Series | SERIES TV",Zorro A Espada e a Rosa
 http://cdn4k.us:80/series/Adrianobrito16/910989645a/1149
 
-# Total: 27187
+# Total: 27276
