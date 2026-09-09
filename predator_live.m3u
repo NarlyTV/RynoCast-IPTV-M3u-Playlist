@@ -1,7 +1,7 @@
 #EXTM3U
 # LIVE Playlist - Clean & Safe
 # Host: predator.digital:8080
-# Generated: 2026-09-04 21:34:21
+# Generated: 2026-09-08 21:48:55
 # Expires: 2027-10-09
 # Family Safe Edition
 # ==============================================
@@ -943,7 +943,7 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/17433.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Denmark",DK: TV 2 Sport X HD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/17425.m3u8
 
-# --- Deutschland (292) ---
+# --- Deutschland (274) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/1920px-Flag_of_Germany.svg.png" group-title="Deutschland",========Deutschland ========
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/12489.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: Das Erste FHD RAW
@@ -1362,44 +1362,6 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/64223.m3u8
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/64220.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: MS Sport HD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/63218.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: RTL+ SPORT EVENT 1
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/82154.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: RTL+ SPORT EVENT 2
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/82153.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: RTL+ SPORT EVENT 3
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/82152.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: RTL+ SPORT EVENT 4
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/82151.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: RTL+ SPORT EVENT 5
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/82150.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: RTL+ SPORT EVENT 6
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/82149.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: RTL+ SPORT EVENT 7
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/82148.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: RTL+ SPORT EVENT 8
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/82147.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: RTL+ SPORT EVENT 9
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/82146.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: RTL+ SPORT EVENT 10
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/82145.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: RTL+ SPORT EVENT 11
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/82163.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: RTL+ SPORT EVENT 12
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/82162.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: RTL+ SPORT EVENT 13
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/82161.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: RTL+ SPORT EVENT 14
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/82160.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: RTL+ SPORT EVENT 15
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/82159.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: RTL+ SPORT EVENT 16
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/82158.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: RTL+ SPORT EVENT 17
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/82157.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: RTL+ SPORT EVENT 18
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/82156.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: RTL+ SPORT EVENT 19
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/82155.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: DAZN Event 3 HD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/85355.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: DAZN Event 4 HD
@@ -1436,6 +1398,8 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/85340.m3u8
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/85339.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: DAZN Event 20 HD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/85338.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: AMAZON PRIME EVENT INFO
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/86122.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: AMAZON PRIME 1 HD (only events)
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/85436.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: AMAZON PRIME 3 HD (only events)
@@ -1484,7 +1448,7 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/85415.m3u8
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/85414.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: AMAZON PRIME 25 HD (only events)
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/85413.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: MS Sport HD+
+#EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: MS Golf HD+
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/85457.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Deutschland",DE: Magenta Sport Programmübersicht HD+
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/85456.m3u8
@@ -2367,7 +2331,7 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/58858.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Finland",FI: Eurosport 2 HD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/58857.m3u8
 
-# --- France (116) ---
+# --- France (114) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1920px-Flag_of_France.svg.png" group-title="France",========France========
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/12491.m3u8
 #EXTINF:-1 tvg-logo="" group-title="France",FR: TF1 FHD
@@ -2384,16 +2348,12 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/13243.m3u8
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/13245.m3u8
 #EXTINF:-1 tvg-logo="" group-title="France",FR: M6 HD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/13236.m3u8
-#EXTINF:-1 tvg-logo="" group-title="France",FR: C8
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/13320.m3u8
 #EXTINF:-1 tvg-logo="" group-title="France",FR: W9 FHD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/13322.m3u8
 #EXTINF:-1 tvg-logo="" group-title="France",FR: TMC FHD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/13324.m3u8
 #EXTINF:-1 tvg-logo="" group-title="France",FR: 6ter FHD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/13332.m3u8
-#EXTINF:-1 tvg-logo="" group-title="France",FR: 6ter HD
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/13333.m3u8
 #EXTINF:-1 tvg-logo="" group-title="France",FR: Arte FHD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/13249.m3u8
 #EXTINF:-1 tvg-logo="" group-title="France",FR: BFM TV
@@ -2426,7 +2386,7 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/13270.m3u8
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/13272.m3u8
 #EXTINF:-1 tvg-logo="" group-title="France",FR: OCS Premiere
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/78752.m3u8
-#EXTINF:-1 tvg-logo="" group-title="France",FR: OCS Originals
+#EXTINF:-1 tvg-logo="" group-title="France",FR: OCS
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/78750.m3u8
 #EXTINF:-1 tvg-logo="" group-title="France",FR: OCS Choc HD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/13275.m3u8
@@ -2873,7 +2833,7 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/84705.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Greece",GR: cytavisionsports 7
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/84704.m3u8
 
-# --- Italy (165) ---
+# --- Italy (225) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/1920px-Flag_of_Italy.svg.png" group-title="Italy",========Italy========
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/12228.m3u8
 #EXTINF:-1 tvg-logo="http://predator.digital:8080/images/b0879796d27e736de474a4bac4cd5cfe.png" group-title="Italy",IT: Rai 1 FHD
@@ -2982,28 +2942,6 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/61038.m3u8
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/61037.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Italy",IT: Cartoon Network
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/61036.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/15P9NB9m/primfff.jpg" group-title="Italy",Fox - Vetrina Primafila Live
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/81009.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/15P9NB9m/primfff.jpg" group-title="Italy",Fox - Primafila 1 FHD
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/81008.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/15P9NB9m/primfff.jpg" group-title="Italy",Fox - Primafila 2 FHD
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/81007.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/15P9NB9m/primfff.jpg" group-title="Italy",Fox - Primafila 3 FHD
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/81006.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/15P9NB9m/primfff.jpg" group-title="Italy",Fox - Primafila 4 FHD
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/81005.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/15P9NB9m/primfff.jpg" group-title="Italy",Fox - Primafila 5 FHD
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/81004.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/15P9NB9m/primfff.jpg" group-title="Italy",Fox - Primafila 6 FHD
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/81003.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/15P9NB9m/primfff.jpg" group-title="Italy",Fox - Primafila 7 FHD
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/81002.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/15P9NB9m/primfff.jpg" group-title="Italy",Fox - Primafila 8 FHD
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/81001.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/15P9NB9m/primfff.jpg" group-title="Italy",Fox - Primafila 9 FHD
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/81000.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/15P9NB9m/primfff.jpg" group-title="Italy",Fox - Primafila 10 FHD
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/80999.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Italy",IT: Sky Cinema Uno FHD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/373.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Italy",IT: Sky Cinema Uno +24 SAT
@@ -3072,6 +3010,10 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/79638.m3u8
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/493.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Italy",IT: EuroSport 2 FHD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/470.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: Vetrina UEFA Champions League
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/86051.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: Vetrina Calcio General
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/86050.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Italy",IT: Sky Sport 24 FHD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/333.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Italy",IT: Sky Sport 24 HD
@@ -3104,14 +3046,14 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/62788.m3u8
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/53843.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Italy",IT: Sky Sport Tennis FHD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/53844.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Italy",IT: Vetrina Serie A
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/85986.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Italy",IT: Sky Sport Legend FHD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/81255.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Italy",IT: Dazn Zona Gol Serie A
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/3213.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Italy",IT: Dazn Zona  FHD
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/63236.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: Vetrina Serie A
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/85986.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Italy",IT: DAZN SERIE A 1
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/77756.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Italy",IT: DAZN Serie A 2
@@ -3204,6 +3146,144 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/84648.m3u8
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/84647.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Italy",IT: DAZN SERIE B 20
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/84646.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: AMAZON PRIME 1 FHD (only events)
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/86074.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: AMAZON PRIME 1 HD (only events)
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/86073.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: AMAZON PRIME 1 HD (only events)
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/86072.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: AMAZON PRIME 1 SD (only events)
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/86071.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: AMAZON PRIME 2 (only events)
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/86070.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: AMAZON PRIME 3 (only events)
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/86069.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: AMAZON PRIME 4 (only events)
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/86068.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: AMAZON PRIME 5 (only events)
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/86067.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: AMAZON PRIME 6 (only events)
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/86066.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: AMAZON PRIME 7 (only events)
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/86065.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: AMAZON PRIME 8 (only events)
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/86064.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: AMAZON PRIME 9 (only events)
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/86063.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: AMAZON PRIME 10 (only events)
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/86062.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: AMAZON PRIME 11 (only events)
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/86061.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: AMAZON PRIME 12 (only events)
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/86060.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: AMAZON PRIME 13 (only events)
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/86059.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: AMAZON PRIME 14 (only events)
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/86058.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: AMAZON PRIME 15 (only events)
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/86057.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: AMAZON PRIME 16 (only events)
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/86056.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: AMAZON PRIME 17 (only events)
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/86055.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: AMAZON PRIME 18 (only events)
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/86054.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: AMAZON PRIME 19 (only events)
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/86053.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: AMAZON PRIME 20 (only events)
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/86052.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: Sky Sport 251
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/86099.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: Sky Sport 252
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/86098.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: Sky Sport 253
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/86097.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: Sky Sport 254
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/86096.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: Sky Sport 255
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/86095.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: Sky Sport 256
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/86094.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: Sky Sport 257
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/86093.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: Sky Sport 258
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/86092.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: Sky Sport 259
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/86091.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: Sky Sport Arena
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/86090.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: Sky Sport Basket
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/86089.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: Sky Sport F1
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/86088.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: Sky Sport Golf
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/86087.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: Sky Sport Legend
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/86086.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: Sky Sport Mix
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/86085.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: Sky Sport MotoGP
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/86084.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: Sky Sport Tennis
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/86083.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: Sky Sport Uno
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/86082.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: Sky TG24
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/86081.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: EuroSport 2
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/86079.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: EuroSport 3
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/86078.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: EuroSport 4
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/86077.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: EuroSport 5
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/86076.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: EuroSport 6
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/86075.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: Sky Atlantic
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/86115.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: Sky Uno Plus
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/86080.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: Sky Cinema Action
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/86114.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: Sky Cinema Collection
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/86113.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: Sky Cinema Comedy
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/86112.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: Sky Cinema Drama
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/86111.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: Sky Cinema Illumination
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/86110.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: Sky Cinema Romance
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/86109.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: Sky Cinema Stories
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/86108.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: Sky Cinema Suspense
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/86107.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: Sky Cinema Uno
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/86106.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: Sky Collection
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/86105.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: Sky Serie
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/86100.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: Sky Crime
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/86104.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: Sky Documentaries
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/86103.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: Sky Investigation
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/86102.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: Sky Arte
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/86116.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: Sky Adventure
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/86117.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: Sky Nature
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/86101.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: DeAKids
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/86120.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: History
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/86119.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Italy",IT: Nick Jr
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/86118.m3u8
 
 # --- Nederland (54) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/1920px-Flag_of_the_Netherlands.svg.png" group-title="Nederland",======Nederland======
@@ -3737,7 +3817,7 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/81961.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Portugal",PT: SPORTING TV
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/81960.m3u8
 
-# --- Shqiptare (450) ---
+# --- Shqiptare (440) ---
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Flag_of_Albania.svg/1280px-Flag_of_Albania.svg.png" group-title="Shqiptare",====Shqiptare====
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/13104.m3u8
 #EXTINF:-1 tvg-logo="https://nimitv.com/assets/img/channels-new/240/240-2.png" group-title="Shqiptare",AL: RTK 1 ⁴ᴷ
@@ -3746,7 +3826,7 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/19465.m3u8
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/9677.m3u8
 #EXTINF:-1 tvg-logo="https://nimitv.com/assets/img/channels-new/240/240-26.png" group-title="Shqiptare",AL: RTK 3  ⁴ᴷ
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/2014.m3u8
-#EXTINF:-1 tvg-logo="https://nimitv.com/assets/img/channels-new/240/240-24.png" group-title="Shqiptare",AL: RTK 4 ᴴᴰ
+#EXTINF:-1 tvg-logo="https://nimitv.com/assets/img/channels-new/240/240-24.png" group-title="Shqiptare",AL: RTK 4 ⁴ᴷ
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/2013.m3u8
 #EXTINF:-1 tvg-logo="https://nimitv.com/assets/img/channels-new/240/240-57.png" group-title="Shqiptare",AL: RTK SAT ᴴᴰ
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/76956.m3u8
@@ -4234,28 +4314,6 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/62249.m3u8
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/62248.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Shqiptare",AL: Dark Horror ᴴᴰ
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/62247.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Shqiptare",AL: Illyrian Cinema Premiere 1 ⁴ᴷ
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/86000.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Shqiptare",AL: Illyrian Cinema Premiere 2 ⁴ᴷ
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/85999.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Shqiptare",AL: Netflix Premiere 1 ⁴ᴷ
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/85998.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Shqiptare",AL: Netflix Premiere 2 ⁴ᴷ
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/85997.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Shqiptare",AL: Illyrian Netflix Aksion ⁴ᴷ
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/85996.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Shqiptare",AL: Illyrian Netflix Aventure ⁴ᴷ
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/85995.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Shqiptare",AL: Illyrian Netflix Luft ⁴ᴷ
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/85994.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Shqiptare",AL: Netflix Dwayne Johnson ⁴ᴷ
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/85993.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Shqiptare",AL: Netflix Sylvester Stallone ⁴ᴷ
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/85992.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Shqiptare",AL: Netflix Arnold Schwarzenegger ⁴ᴷ
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/85991.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Shqiptare",AL: Netflix Jackie Chan ⁴ᴷ
-http://predator.digital:8080/live/Edi/dWP7KSb4CM/85990.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Shqiptare",AL: Tëvë Shqip ⁴ᴷ
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/66571.m3u8
 #EXTINF:-1 tvg-logo="http://darkpower.art:8080/images/f41c849d883adcd86462f8a857b649a0.png" group-title="Shqiptare",AL: Sky Shqip ᴴᴰ
@@ -4636,6 +4694,8 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/53112.m3u8
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/53113.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Shqiptare",AL: Radio 1 Live
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/59054.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Shqiptare",AL: Radio saranda
+http://predator.digital:8080/live/Edi/dWP7KSb4CM/86049.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Shqiptare",AL: Radio Plus
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/62665.m3u8
 
@@ -8935,4 +8995,4 @@ http://predator.digital:8080/live/Edi/dWP7KSb4CM/10169.m3u8
 #EXTINF:-1 tvg-logo="" group-title="World Sports",SPORT: Real Madrid Tv
 http://predator.digital:8080/live/Edi/dWP7KSb4CM/62225.m3u8
 
-# Total: 4437
+# Total: 4467
